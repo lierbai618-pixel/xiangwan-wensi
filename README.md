@@ -7,6 +7,10 @@
 
 微信小程序（原生 WXML/WXSS） + 微信云开发（CloudBase），无需自建服务器。
 
+> 📱 **扫码体验**（个人主体未认证版本，暂不支持微信内搜索）
+>
+> <img src="assets/miniprogram-qrcode.jpg" width="200" alt="向晚问思小程序码" />
+
 ---
 
 ## 一、解决什么问题
