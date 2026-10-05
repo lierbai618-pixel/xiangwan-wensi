@@ -1,1 +1,28 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIFEyLTE4IOWIhuexu+WZqOWbnuW9ku+8muehruiupCBwZXJzb24taWRlbnRpdHkg5YmN572u5pyq56C05Z2PIEEvQi9DL0Qg6Lev55SxCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQondXNlIHN0cmljdCc7CnZhciBjbGFzc2lmaWVyID0gcmVxdWlyZSgnLi4vY2xvdWRmdW5jdGlvbnMvY2hhdC9mcmVzaG5lc3MvZXZlbnRDbGFzc2lmaWVyJyk7CnZhciBDQVRFR09SWSA9IHJlcXVpcmUoJy4uL2Nsb3VkZnVuY3Rpb25zL2NoYXQvZnJlc2huZXNzL3NjaGVtYScpLkNBVEVHT1JZOwoKdmFyIGNhc2VzID0gWwogIFsn5LuY6Iiq5piv6LCBJywgQ0FURUdPUlkuQiwgJ+S6uueJqei6q+S7veKGkkInXSwKICBbJ+S7mOiIqueahOWtpuWOhuaYr+S7gOS5iCcsIENBVEVHT1JZLkIsICfkurrnianlsZ7mgKfihpJCJ10sCiAgWyfku4rlpKnmnInku4DkuYjnp5HmioDmlrDpl7snLCBDQVRFR09SWS5CLCAn5paw6Ze754Ot54K54oaSQiddLAogIFsn5pyA6L+R5pyJ5LuA5LmI5paw55S15b2x5LiK5pigJywgQ0FURUdPUlkuQiwgJ+W9k+WJjeS6i+S7tuWQjeivjeKGkkInXSwKICBbJ+S7gOS5iOaYr+S6uueUn+aEj+S5iScsIENBVEVHT1JZLkEsICfnuq/lk7Llrabml6DplJrngrnihpJBJ10sCiAgWyforrror63ph4zor7TnmoTku4HmmK/ku4DkuYgnLCBDQVRFR09SWS5BLCAn57uP5YW45ZOy5a2m4oaSQSddLAogIFsn6L+Z5Lu25LqL5L2g5oCO5LmI55yLJywgQ0FURUdPUlkuQiwgJ+aYvuW8j+S6i+S7tuaMh+S7oyjov5nku7bkuosp4oaSQihsb3fnva7kv6HihpLkuIrlsYLmvoTmuIUpJ10sCiAgWyfpgqPkuKrmmI7mmJ/lh7rovajkuoblkJcnLCBDQVRFR09SWS5ELCAn5pWP5oSf6aKE5L+h5Y+34oaSRCddLApdOwoKdmFyIHBhc3NlZCA9IDAsIGZhaWxlZCA9IDA7CmNhc2VzLmZvckVhY2goZnVuY3Rpb24gKGMpIHsKICB2YXIgY2xzID0gY2xhc3NpZmllci5jbGFzc2lmeUNhdGVnb3J5KGNbMF0sIG51bGwpOwogIHZhciBva2sgPSBjbHMuY2F0ZWdvcnkgPT09IGNbMV07CiAgaWYgKG9raykgeyBwYXNzZWQrKzsgY29uc29sZS5sb2coJyAg4pyFIFsnICsgY1sxXSArICddICcgKyBjWzBdICsgJyAgKCcgKyBjWzJdICsgJyknKTsgfQogIGVsc2UgeyBmYWlsZWQrKzsgY29uc29sZS5sb2coJyAg4p2MIFsnICsgY2xzLmNhdGVnb3J5ICsgJyDmnJ/mnJsnICsgY1sxXSArICddICcgKyBjWzBdICsgJyAgcmVhc29uPScgKyBjbHMucmVhc29uKTsgfQp9KTsKCmNvbnNvbGUubG9nKCdcbj09PSDliIbnsbvlmajlm57lvZLvvJonICsgcGFzc2VkICsgJyBQQVNTIC8gJyArIGZhaWxlZCArICcgRkFJTCA9PT0nKTsKaWYgKGZhaWxlZCA+IDApIHByb2Nlc3MuZXhpdCgxKTsK
+// ============================================================
+// Q2-18 分类器回归：确认 person-identity 前置未破坏 A/B/C/D 路由
+// ============================================================
+'use strict';
+var classifier = require('../cloudfunctions/chat/freshness/eventClassifier');
+var CATEGORY = require('../cloudfunctions/chat/freshness/schema').CATEGORY;
+
+var cases = [
+  ['付航是谁', CATEGORY.B, '人物身份→B'],
+  ['付航的学历是什么', CATEGORY.B, '人物属性→B'],
+  ['今天有什么科技新闻', CATEGORY.B, '新闻热点→B'],
+  ['最近有什么新电影上映', CATEGORY.B, '当前事件名词→B'],
+  ['什么是人生意义', CATEGORY.A, '纯哲学无锚点→A'],
+  ['论语里说的仁是什么', CATEGORY.A, '经典哲学→A'],
+  ['这件事你怎么看', CATEGORY.B, '显式事件指代(这件事)→B(low置信→上层澄清)'],
+  ['那个明星出轨了吗', CATEGORY.D, '敏感预信号→D'],
+];
+
+var passed = 0, failed = 0;
+cases.forEach(function (c) {
+  var cls = classifier.classifyCategory(c[0], null);
+  var okk = cls.category === c[1];
+  if (okk) { passed++; console.log('  ✅ [' + c[1] + '] ' + c[0] + '  (' + c[2] + ')'); }
+  else { failed++; console.log('  ❌ [' + cls.category + ' 期望' + c[1] + '] ' + c[0] + '  reason=' + cls.reason); }
+});
+
+console.log('\n=== 分类器回归：' + passed + ' PASS / ' + failed + ' FAIL ===');
+if (failed > 0) process.exit(1);

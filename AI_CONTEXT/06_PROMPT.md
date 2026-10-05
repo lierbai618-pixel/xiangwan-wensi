@@ -1,1 +1,40 @@
-IyAwNiDCtyDlhajpg6ggUHJvbXB077yIUHJvbXB0c++8iQoKPiDmnKzpobnnm67miYDmnIkgUHJvbXB0IOWdh+mbhuS4reWcqCBgY2xvdWRmdW5jdGlvbnMvY2hhdC9gIOS4juWQhOWJjeerr+mhtemdouOAguS7peS4i+S4uuiBjOi0o+axh+aAu++8jOacquaUueWKqOS7u+S9leaWh+S7tuOAggo+ICoq5Yi35paw5LqOIDIwMjYtMDgtMDfvvIjnu4jmoKHoh7MgUTItMTXvvIkqKu+8muS9jee9ruivtOaYjuS4jiBRMS1CL1EyLTE1IOeKtuaAgeWvuem9kOOAggoKIyMgUHJvbXB0IOa4heWNlQoKfCBQcm9tcHQgfCDkvY3nva4gfCDogYzotKMgfAp8LS0tLS0tLS18LS0tLS0tfC0tLS0tLXwKfCAqKlJvbGUgUHJvbXB0KiogfCBgcmFnLmpzYCDpobbpg6jluLjph4/vvIjinYTvuI/lhrvnu5PvvIkgfCDlrprkuYkgQUkg6Lqr5Lu977ya44CM5YWI5YGa5Lq65YaN5byV57uP44CN55qE5oCd6L6o5Yqp5omLIHwKfCAqKlN5c3RlbSBQcm9tcHQqKiB8IGByYWcuY29tcG9zZVN5c3RlbSgpYO+8iOKdhO+4j+WGu+e7k++8iSB8IOS6lOauteW8j+i+k+WHuuWlkee6pu+8iOeQhuino+KGkuWIhuaekOKGkuihjOWKqOKGkue7j+WFuOKGkuaAneiAg++8iSB8CnwgKipTYWZldHkgUHJvbXB0KiogfCBgY2hhdC9pbmRleC5qc2AgbXNnU2VjQ2hlY2sg5YmN5ZCOIHwg6L+d6KeE5paH5pys5LiN6L+bIExMTe+8m+WNseacui/mg4Xnu6rkvJjlhYjmj5DnpLogfAp8ICoqSGlzdG9yeSBQcm9tcHQqKiB8IGByYWcuYnVpbGRQcmlvck1lc3NhZ2VzKClg77yI4p2E77iP5Ya757uT77yJIHwg5ou85o6l5pyA6L+RIDEwIOi9ruS4iuS4i+aWh++8iOKJpDIwIOadoe+8iSB8CnwgKipDaXRhdGlvbiBQcm9tcHQqKiB8IOWJjeerr+W8leeUqOWNoSArIHN5c3RlbSDph4znmoTnu4/lhbjlrZfmrrUgfCDluKYgYHNvdXJjZWAg5Ye65aSE77yM5Y+v6Lez5Lmm5bqTIHwKfCAqKldlbkRhbyDlj43mgJ3lop7lvLoqKiB8IFBoYXNlIFExLUIg5Ya36ZmN57qn6Lev5b6EIHwg5peg5LqL5a6e5rqQ5pe25LiN57yW6YCg77yM6LWw5Y+N5oCd5byP5byV5a+8IHwKfCAqKkZyZXNobmVzcyDmiqTmoI/mjIfku6QqKiB8IGBmcmVzaG5lc3MvcmVzcG9uZGVyLmpzYCBgYnVpbGRGcmVzaG5lc3NHdWFyZHJhaWxzKClgIHwg5a+5IEIr5peg5bqV5bqn5rOo5YWl44CM5Lil5qC856aB5q2i5pat6KiA5a2m5Y6GL+mZouagoS/lh7rnlJ/ml6XmnJ/jgI3nrYnvvIhRMi0xNe+8iSB8CnwgKirpmY3nuqfmlofmoYgqKiB8IGBmcmVzaG5lc3MvZG93bmdyYWRlLmpzYCB8IOWQqyBgUEVSU09OX0lERU5USVRZX1RFTVBMQVRFU2DvvIhRMi0xNSDkvKDorrDkuJPnlKjor5rlrp7pmY3nuqfvvIkgfAoKIyMg6L6T5Ye65aWR57qm77yI5LiN5Y+v56C05Z2P77yJCgpgYGAK55CG6Kej77ya4oCm4oCm77yI55So5oi36Zeu6aKY6YeN6L+w77yJCuWIhuaekO+8muKApuKApu+8iOaLhuino+WFs+mUrueCue+8iQrooYzliqjvvJrigKbigKbvvIjkuIvkuIDmraXlj6/lgZrvvIkK57uP5YW477ya44CKeHh4wrd544CL77yI5Y6f5paHICsg6Kej6K+777yJCuaAneiAg++8muKApuKApu+8iOeVmeeZvee7meeUqOaIt+iHquW3seWIpOaWre+8iQpgYGAKCiMjIOemgeatouaDheW9ou+8iFBoYXNlIEggLyBRMS1CIC8gUTItMTUg6KeE5YiZ77yJCgotIOS4jeW+l+WcqCBza2lwIOi3r+W+hOWHuueOsOOAiuOAiwotIOS4jeW+l+S4uuepuuajgOe0oue8lumAoOe7j+WFuAotIOS4jeW+l+S4uuW8lee7j+iAjOW8lee7j+W8uuihjOWhnuOAiuOAiwotIOS4jeW+l+egtOWdj+S6lOauteW8j+mhuuW6jwotIOWGt+mZjee6p+WcuuaZr+S4jeW+l+e8lumAoOS6i+Wunu+8iFExLUIg5Y+N5bm76KeJ56Gs6Ze477yJCi0g5Lyg6K6wL+i6q+S7vemXruazleaXoOWPr+mdoOadpea6kOaXtu+8jOS4jeW+l+aWreiogOWtpuWOhi/pmaLmoKEv5Ye655Sf5pel5pyfL+iBjOS4muWxpeWOhu+8iFEyLTE1IGBCSU9HUkFQSFlfSEFMTFVDSU5BVElPTl9SRVNg77yJCgojIyDms6jmhI8KCuS4iui/sCBQcm9tcHQg5paH5pysKirkuI3lnKjmraTmlofmoaPlhajmloflsZXlvIAqKu+8iOmBv+WFjeWGl+mVv++8ie+8jOWFtue7k+aehOS4juiBjOi0o+S7pSBgcmFnLmpzYCAvIGBjaGF0L2luZGV4LmpzYCAvIGBmcmVzaG5lc3MvKmAgLyDliY3nq6/lvJXnlKjnu4Tku7bkuLrnnJ/lrp7mnaXmupDjgILmnKzmlofku7bku4XkvZzntKLlvJXkuI7ogYzotKPor7TmmI7jgIIK
+﻿# 06 · 全部 Prompt（Prompts）
+
+> 本项目所有 Prompt 均集中在 `cloudfunctions/chat/` 与各前端页面。以下为职责汇总，未改动任何文件。
+> **刷新于 2026-08-07（终校至 Q2-15）**：位置说明与 Q1-B/Q2-15 状态对齐。
+
+## Prompt 清单
+
+| Prompt | 位置 | 职责 |
+|--------|------|------|
+| **Role Prompt** | `rag.js` 顶部常量（❄️冻结） | 定义 AI 身份：「先做人再引经」的思辨助手 |
+| **System Prompt** | `rag.composeSystem()`（❄️冻结） | 五段式输出契约（理解→分析→行动→经典→思考） |
+| **Safety Prompt** | `chat/index.js` msgSecCheck 前后 | 违规文本不进 LLM；危机/情绪优先提示 |
+| **History Prompt** | `rag.buildPriorMessages()`（❄️冻结） | 拼接最近 10 轮上下文（≤20 条） |
+| **Citation Prompt** | 前端引用卡 + system 里的经典字段 | 带 `source` 出处，可跳书库 |
+| **WenDao 反思增强** | Phase Q1-B 冷降级路径 | 无事实源时不编造，走反思式引导 |
+| **Freshness 护栏指令** | `freshness/responder.js` `buildFreshnessGuardrails()` | 对 B+无底座注入「严格禁止断言学历/院校/出生日期」等（Q2-15） |
+| **降级文案** | `freshness/downgrade.js` | 含 `PERSON_IDENTITY_TEMPLATES`（Q2-15 传记专用诚实降级） |
+
+## 输出契约（不可破坏）
+
+```
+理解：……（用户问题重述）
+分析：……（拆解关键点）
+行动：……（下一步可做）
+经典：《xxx·y》（原文 + 解读）
+思考：……（留白给用户自己判断）
+```
+
+## 禁止情形（Phase H / Q1-B / Q2-15 规则）
+
+- 不得在 skip 路径出现《》
+- 不得为空检索编造经典
+- 不得为引经而引经强行塞《》
+- 不得破坏五段式顺序
+- 冷降级场景不得编造事实（Q1-B 反幻觉硬闸）
+- 传记/身份问法无可靠来源时，不得断言学历/院校/出生日期/职业履历（Q2-15 `BIOGRAPHY_HALLUCINATION_RES`）
+
+## 注意
+
+上述 Prompt 文本**不在此文档全文展开**（避免冗长），其结构与职责以 `rag.js` / `chat/index.js` / `freshness/*` / 前端引用组件为真实来源。本文件仅作索引与职责说明。

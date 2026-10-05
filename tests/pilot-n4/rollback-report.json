@@ -1,1 +1,111 @@
-ewogICJkcmlsbF90aW1lIjogIjIwMjYtMDgtMDFUMDk6NDM6MzcuNDkyWiIsCiAgInN0ZXBzIjogWwogICAgewogICAgICAic3RlcCI6ICJpbnZlbnRvcnkiLAogICAgICAiZGV0YWlsIjogIjExIOS4qiBwaWxvdCDkuqfniakiLAogICAgICAib2siOiB0cnVlCiAgICB9LAogICAgewogICAgICAic3RlcCI6ICJyZWdpc3RyeV9zdGF0ZV9yZXZlcnQiLAogICAgICAiZGV0YWlsIjogIlAtMDQgc3RhdHVzIHBpbG90LXRlc3Rpbmcg4oaSIHJlbW92ZWTvvIhuYW1lc3BhY2Ug5YWz6Zet77yJIiwKICAgICAgIm9rIjogdHJ1ZQogICAgfSwKICAgIHsKICAgICAgInN0ZXAiOiAidmVjdG9yX2RlbGV0ZSIsCiAgICAgICJkZXRhaWwiOiAi5Yig6ZmkIHBpbG90IOWQkemHj+e0ouW8le+8iGFmdGVyLWluZGV4IOWFsSAyMSDlkJHph4/vvIzlhbbkuK0gcGlsb3QgNyDmnaHvvIkiLAogICAgICAib2siOiB0cnVlCiAgICB9LAogICAgewogICAgICAic3RlcCI6ICJuYW1lc3BhY2VfY2xvc2UiLAogICAgICAiZGV0YWlsIjogInRlc3RzL3BpbG90LW40L2FydGlmYWN0cyDlt7Lnp7vpmaQgPSB0cnVlIiwKICAgICAgIm9rIjogdHJ1ZQogICAgfSwKICAgIHsKICAgICAgInN0ZXAiOiAidmVyc2lvbl9yZXZlcnQiLAogICAgICAiZGV0YWlsIjogIlAtMDQgdmVyc2lvbiAwLjEuMC1waWxvdCDkvZzlup/vvIzml6DnlJ/kuqfniYjmnKzpnIDlm57pgIAiLAogICAgICAib2siOiB0cnVlCiAgICB9LAogICAgewogICAgICAic3RlcCI6ICJwcm9kdWN0aW9uX3ZlcmlmeSIsCiAgICAgICJkZXRhaWwiOiAiY29ycHVzL3JhZy9pbnRlbnQvaW5nZXN0L3BoYXNlRyDmjIfnurnkuIDoh7QgPSB0cnVl77ybY29ycHVzIOS7jeS4uiAxNCDmnaEiLAogICAgICAib2siOiB0cnVlCiAgICB9CiAgXSwKICAiaGFzaF9iZWZvcmUiOiB7CiAgICAiY29ycHVzIjogImRiMDFmYmM5MjA2NGNiZWEzYTY2ODhhOTgxNjBiNmE3MGM5ZTE1MDI1OWI1NDA2M2M4ZTJlOTY5NzRlYWJjOGIiLAogICAgInJhZyI6ICI0ZDEzM2JhNjVhZWU4NDdmNDcxYjAwM2ZjMzA5YThiZDgyMjY5NjM3NjZkM2ExNzNlZDNiNmM4ZDdlNDk1YjFlIiwKICAgICJpbnRlbnQiOiAiNzY1YWQxMzhlYzY4YzBmMTU5YzZmNzVhNjBlNTI2OGJlYjAyZmJhMTUyZjZkNTNkYmRjNTM5YmExNTYwY2EzOCIsCiAgICAiaW5nZXN0IjogImI3MDBjOGVjYWU3YmY2OTE3MzIzNzUwODNjMjliNWJmNThjY2Q5OWViZjZjZjQ1Y2QxNzQzMTRhZWYwMjY5MWYiLAogICAgInBoYXNlRyI6ICI0OGY1N2JhMzI3NDM1YjNjZTgwNTFjMTYxM2M1YWJjOGQwYjlhN2U1YWY5ZTQ0OWEyMzYzNTBmMzhhNzZlMmQwIgogIH0sCiAgImhhc2hfYWZ0ZXIiOiB7CiAgICAiY29ycHVzIjogImRiMDFmYmM5MjA2NGNiZWEzYTY2ODhhOTgxNjBiNmE3MGM5ZTE1MDI1OWI1NDA2M2M4ZTJlOTY5NzRlYWJjOGIiLAogICAgInJhZyI6ICI0ZDEzM2JhNjVhZWU4NDdmNDcxYjAwM2ZjMzA5YThiZDgyMjY5NjM3NjZkM2ExNzNlZDNiNmM4ZDdlNDk1YjFlIiwKICAgICJpbnRlbnQiOiAiNzY1YWQxMzhlYzY4YzBmMTU5YzZmNzVhNjBlNTI2OGJlYjAyZmJhMTUyZjZkNTNkYmRjNTM5YmExNTYwY2EzOCIsCiAgICAiaW5nZXN0IjogImI3MDBjOGVjYWU3YmY2OTE3MzIzNzUwODNjMjliNWJmNThjY2Q5OWViZjZjZjQ1Y2QxNzQzMTRhZWYwMjY5MWYiLAogICAgInBoYXNlRyI6ICI0OGY1N2JhMzI3NDM1YjNjZTgwNTFjMTYxM2M1YWJjOGQwYjlhN2U1YWY5ZTQ0OWEyMzYzNTBmMzhhNzZlMmQwIgogIH0sCiAgInByb2R1Y3Rpb25fdW50b3VjaGVkIjogdHJ1ZSwKICAibmFtZXNwYWNlX2NsZWFyZWQiOiB0cnVlLAogICJjb3JwdXNfb2JqZWN0X2NvdW50IjogMTQsCiAgImRlbGV0ZWRfaW52ZW50b3J5IjogWwogICAgewogICAgICAiZmlsZSI6ICJhYmxhdGlvbi5qc29uIiwKICAgICAgImJ5dGVzIjogMzEzNSwKICAgICAgInNoYTI1NiI6ICI4Mzg4NzA4OTA3YWNhNGQ0YWJmMTVmZTAwMTQ5OTA1NDIxZDA5MWY0OGJjZGY3YzUyNjM5MjRlMzFkN2UzYWI3IgogICAgfSwKICAgIHsKICAgICAgImZpbGUiOiAiY2h1bmtzLmpzb24iLAogICAgICAiYnl0ZXMiOiA0OTQ5LAogICAgICAic2hhMjU2IjogIjFjYmZkYzVhNDU3NTIyMDI2ZWVkZDM5MzA0Y2Y1MmUyMTE0Yzc2ZmNmNjgxMzVlMTFlYjJmY2QzZjI2NzM1ZWIiCiAgICB9LAogICAgewogICAgICAiZmlsZSI6ICJjaXRhdGlvbi1hdWRpdC5qc29uIiwKICAgICAgImJ5dGVzIjogMjAyOCwKICAgICAgInNoYTI1NiI6ICJiODkxYmM3ZTk0Mjg0YmM1ZTFhY2MyY2NlYmUyNDhiNGMyZTc1Y2YzY2I4NTJlMjJmNGE5MDc0Y2Y1NTljMDA3IgogICAgfSwKICAgIHsKICAgICAgImZpbGUiOiAiZW1iZWRkaW5nLXJlcG9ydC5qc29uIiwKICAgICAgImJ5dGVzIjogMzk3LAogICAgICAic2hhMjU2IjogIjk3ZGM1MWQ2YTMxNTEyNzExYTQzYjdjOWMwMzZlYjQ0MDk3MDVmZTUxNzI1MTJhMGU2NjY2MmEwMTNlZTBiYjUiCiAgICB9LAogICAgewogICAgICAiZmlsZSI6ICJpc29sYXRpb24tcHJvb2YuanNvbiIsCiAgICAgICJieXRlcyI6IDU2NSwKICAgICAgInNoYTI1NiI6ICI2ZDFjMmYwNzVkMTcwZTZhZTkzYmI5MzZlYWY0YWMzN2E1YWZmNDMyY2JjYjEyMWFhMTI5YTJlNzE5MjlhZTNiIgogICAgfSwKICAgIHsKICAgICAgImZpbGUiOiAia3FzLmpzb24iLAogICAgICAiYnl0ZXMiOiA5MDAsCiAgICAgICJzaGEyNTYiOiAiNmVhZTFlZDMwYmE5NDgyY2ZiNjcxMjgwZjUxZjFkNzA1MDExMDU2ZTgyYWNmZmI0MTlhYTVjNDEwNzZlZjFkNiIKICAgIH0sCiAgICB7CiAgICAgICJmaWxlIjogInJlZ2lzdHJ5Lmpzb24iLAogICAgICAiYnl0ZXMiOiAxMDQ1LAogICAgICAic2hhMjU2IjogIjczYWM3N2FiYTU0YWZkNDU5NzJkNWRmNDRlMzMxNDc0ZTg5YjlmZWViNTE0ZDZhYTJkY2VkN2I3ODEyMWMzZWQiCiAgICB9LAogICAgewogICAgICAiZmlsZSI6ICJyZWdyZXNzaW9uLXJlcG9ydC5qc29uIiwKICAgICAgImJ5dGVzIjogMjUwOTIsCiAgICAgICJzaGEyNTYiOiAiZGUwMzk0YjNiNDJmMmVlMWZjYjEwMmQ5MjUzMGRkY2FhYTA4YTc1MDQwNzFhNTYzYTdkMjhkYTMyMDUxODBiMSIKICAgIH0sCiAgICB7CiAgICAgICJmaWxlIjogInJldHJpZXZhbC1yZXBvcnQuanNvbiIsCiAgICAgICJieXRlcyI6IDY5MjgsCiAgICAgICJzaGEyNTYiOiAiZmZiYmU1NjkxNDEzOTU4NTdlZjMwNWNiOGE5Njg3NzIzZmFiMTBlZTFjZDYzNzg1MmIzZTIzMWYzMzM4OTJiYSIKICAgIH0sCiAgICB7CiAgICAgICJmaWxlIjogInJ1bi5sb2ciLAogICAgICAiYnl0ZXMiOiAxNzQ4LAogICAgICAic2hhMjU2IjogImQ4MGUwYWEzZDhhZjIyM2VkMTE4ZTczM2YyN2ZhZDBlOTUzMmY4MDA4OWIyYTU0NjJiNzk3NDAxMGRlY2VhYTAiCiAgICB9LAogICAgewogICAgICAiZmlsZSI6ICJ2ZWN0b3ItaW5kZXguanNvbiIsCiAgICAgICJieXRlcyI6IDI4OCwKICAgICAgInNoYTI1NiI6ICI4NjQ4ZjJlNzc5Yjg3NThjOWE5NWIwNzJjNWFmZTg5ZGFkMGE5MTkwOWY5Mjg4NmU2MjU1ZGJkMGRjMzZhOTFiIgogICAgfQogIF0sCiAgInJvbGxiYWNrX3Bhc3MiOiB0cnVlLAogICJyZXByb2R1Y2liaWxpdHkiOiAi5Lqn54mp5Y+v55SxIG5vZGUgdGVzdHMvcGlsb3QtbjQvcnVuLXBpbG90LmpzIOW5guetiemHjeW7uu+8iOa6kOaWh+S7tiArIGJlbmNobWFyayDkv53nlZnvvIkiCn0=
+{
+  "drill_time": "2026-08-01T09:43:37.492Z",
+  "steps": [
+    {
+      "step": "inventory",
+      "detail": "11 个 pilot 产物",
+      "ok": true
+    },
+    {
+      "step": "registry_state_revert",
+      "detail": "P-04 status pilot-testing → removed（namespace 关闭）",
+      "ok": true
+    },
+    {
+      "step": "vector_delete",
+      "detail": "删除 pilot 向量索引（after-index 共 21 向量，其中 pilot 7 条）",
+      "ok": true
+    },
+    {
+      "step": "namespace_close",
+      "detail": "tests/pilot-n4/artifacts 已移除 = true",
+      "ok": true
+    },
+    {
+      "step": "version_revert",
+      "detail": "P-04 version 0.1.0-pilot 作废，无生产版本需回退",
+      "ok": true
+    },
+    {
+      "step": "production_verify",
+      "detail": "corpus/rag/intent/ingest/phaseG 指纹一致 = true；corpus 仍为 14 条",
+      "ok": true
+    }
+  ],
+  "hash_before": {
+    "corpus": "db01fbc92064cbea3a6688a98160b6a70c9e150259b54063c8e2e96974eabc8b",
+    "rag": "4d133ba65aee847f471b003fc309a8bd8226963766d3a173ed3b6c8d7e495b1e",
+    "intent": "765ad138ec68c0f159c6f75a60e5268beb02fba152f6d53dbdc539ba1560ca38",
+    "ingest": "b700c8ecae7bf691732375083c29b5bf58ccd99ebf6cf45cd174314aef02691f",
+    "phaseG": "48f57ba327435b3ce8051c1613c5abc8d0b9a7e5af9e449a236350f38a76e2d0"
+  },
+  "hash_after": {
+    "corpus": "db01fbc92064cbea3a6688a98160b6a70c9e150259b54063c8e2e96974eabc8b",
+    "rag": "4d133ba65aee847f471b003fc309a8bd8226963766d3a173ed3b6c8d7e495b1e",
+    "intent": "765ad138ec68c0f159c6f75a60e5268beb02fba152f6d53dbdc539ba1560ca38",
+    "ingest": "b700c8ecae7bf691732375083c29b5bf58ccd99ebf6cf45cd174314aef02691f",
+    "phaseG": "48f57ba327435b3ce8051c1613c5abc8d0b9a7e5af9e449a236350f38a76e2d0"
+  },
+  "production_untouched": true,
+  "namespace_cleared": true,
+  "corpus_object_count": 14,
+  "deleted_inventory": [
+    {
+      "file": "ablation.json",
+      "bytes": 3135,
+      "sha256": "8388708907aca4d4abf15fe00149905421d091f48bcdf7c5263924e31d7e3ab7"
+    },
+    {
+      "file": "chunks.json",
+      "bytes": 4949,
+      "sha256": "1cbfdc5a457522026eedd39304cf52e2114c76fcf68135e11eb2fcd3f26735eb"
+    },
+    {
+      "file": "citation-audit.json",
+      "bytes": 2028,
+      "sha256": "b891bc7e94284bc5e1acc2ccebe248b4c2e75cf3cb852e22f4a9074cf559c007"
+    },
+    {
+      "file": "embedding-report.json",
+      "bytes": 397,
+      "sha256": "97dc51d6a31512711a43b7c9c036eb4409705fe5172512a0e66662a013ee0bb5"
+    },
+    {
+      "file": "isolation-proof.json",
+      "bytes": 565,
+      "sha256": "6d1c2f075d170e6ae93bb936eaf4ac37a5aff432cbcb121aa129a2e71929ae3b"
+    },
+    {
+      "file": "kqs.json",
+      "bytes": 900,
+      "sha256": "6eae1ed30ba9482cfb671280f51f1d705011056e82acffb419aa5c41076ef1d6"
+    },
+    {
+      "file": "registry.json",
+      "bytes": 1045,
+      "sha256": "73ac77aba54afd45972d5df44e331474e89b9feeb514d6aa2dced7b78121c3ed"
+    },
+    {
+      "file": "regression-report.json",
+      "bytes": 25092,
+      "sha256": "de0394b3b42f2ee1fcb102d92530ddcaaa08a7504071a563a7d28da3205180b1"
+    },
+    {
+      "file": "retrieval-report.json",
+      "bytes": 6928,
+      "sha256": "ffbbe569141395857ef305cb8a9687723fab10ee1cd637852b3e231f333892ba"
+    },
+    {
+      "file": "run.log",
+      "bytes": 1748,
+      "sha256": "d80e0aa3d8af223ed118e733f27fad0e9532f80089b2a5462b7974010deceaa0"
+    },
+    {
+      "file": "vector-index.json",
+      "bytes": 288,
+      "sha256": "8648f2e779b8758c9a95b072c5afe89dad0a91909f92886e6255dbd0dc36a91b"
+    }
+  ],
+  "rollback_pass": true,
+  "reproducibility": "产物可由 node tests/pilot-n4/run-pilot.js 幂等重建（源文件 + benchmark 保留）"
+}

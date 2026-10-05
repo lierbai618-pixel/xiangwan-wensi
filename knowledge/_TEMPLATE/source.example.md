@@ -1,1 +1,14 @@
-IyDnrKzkuIDnq6AKCui/memHjOaUvuWOn+aWhy/moKHli5jmnKzmraPmlofjgILnlKggYCNgIOS4gOe6p+agh+mimOihqOekuueroOiKgu+8jGluZ2VzdCDkvJrmjIkgYCNgIOWIhuiKgu+8jArnq6DoioLlkI3lhpnlhaUgY2h1bmsg55qEIGBzZWN0aW9uYCDlrZfmrrXvvIzkv53or4Hnq6DoioLnu5PmnoTkuI3kuKLlpLHjgIHlvJXnlKjkvY3nva7lj6/ov73ouKrjgIIKCuekuuS+i++8iOivt+WLv+WFpeW6k++8jOS7hea8lOekuuagvOW8j++8ie+8mgoKIyDlrabogIwKCuWtkOabsO+8muWtpuiAjOaXtuS5oOS5i++8jOS4jeS6puivtOS5ju+8n+acieaci+iHqui/nOaWueadpe+8jOS4jeS6puS5kOS5ju+8n+S6uuS4jeefpeiAjOS4jeaEoO+8jOS4jeS6puWQm+WtkOS5ju+8nwoKIyDkuLrmlL8KCuWtkOabsO+8muS4uuaUv+S7peW+t++8jOitrOWmguWMl+i+sO+8jOWxheWFtuaJgOiAjOS8l+aYn+WFseS5i+OAggo=
+﻿# 第一章
+
+这里放原文/校勘本正文。用 `#` 一级标题表示章节，ingest 会按 `#` 分节，
+章节名写入 chunk 的 `section` 字段，保证章节结构不丢失、引用位置可追踪。
+
+示例（请勿入库，仅演示格式）：
+
+# 学而
+
+子曰：学而时习之，不亦说乎？有朋自远方来，不亦乐乎？人不知而不愠，不亦君子乎？
+
+# 为政
+
+子曰：为政以德，譬如北辰，居其所而众星共之。

@@ -1,1 +1,48 @@
-ew0KICAiX21ldGEiOiB7DQogICAgInBoYXNlIjogIlEyLTgtTVZQIiwNCiAgICAiYXJ0aWZhY3QiOiAiY2xvdWRiYXNlcmMuanNvbiBlbnZWYXJpYWJsZXMgcGF0Y2gg6I2J5qGIIiwNCiAgICAic3RhdHVzIjogIkRSQUZUIOKAlCBOT1QgQVBQTElFRCIsDQogICAgIndhcm5pbmciOiAi5pys5paH5Lu25LuF5Li66YWN572u6I2J5qGIKGRpZmYp44CC5pyq5YaZ5YWlIGNsb3VkYmFzZXJjLmpzb27jgIHmnKrpg6jnvbLjgIHmnKogY29tbWl044CC6aG75Lq65bel5o6I5p2D5bm25oyJIFN0ZXAgNSDpmLvloZ7pobnpgJDpobnmuIXpmaTlkI7vvIzmlrnlj6/lupTnlKjlubYgdGNiIGZuIGRlcGxveeOAgiIsDQogICAgInRhcmdldF9mdW5jdGlvbiI6ICJjaGF0IiwNCiAgICAicnVsZSI6ICLlupTnlKjmraQgcGF0Y2gg5pe277yMdGNiIGZuIGRlcGxveSDkvJrlpZfnlKggY2xvdWRiYXNlcmMuanNvbiDnmoQgZW52VmFyaWFibGVzL3J1bnRpbWUvdGltZW91dC9tZW1vcnlTaXpl77yM6K+35YWI6K+7IGNsb3VkYmFzZXJjLmpzb24g5qC45a+577yM6YG/5YWN5LiO55Sf5Lqn5LiN5LiA6Ie06Z2Z6buY6KaG55uW44CCIg0KICB9LA0KICAiY3VycmVudF9lbnZWYXJpYWJsZXMiOiB7DQogICAgIkFETUlOX09QRU5JRCI6ICJZT1VSX0FETUlOX09QRU5JRCIsDQogICAgIktOT1dMRURHRV9PQlNFUlZBQklMSVRZX1NUT1JFIjogImNsb3VkIg0KICB9LA0KICAicHJvcG9zZWRfZW52VmFyaWFibGVzIjogew0KICAgICJBRE1JTl9PUEVOSUQiOiAiWU9VUl9BRE1JTl9PUEVOSUQiLA0KICAgICJLTk9XTEVER0VfT0JTRVJWQUJJTElUWV9TVE9SRSI6ICJjbG91ZCIsDQogICAgIkZSRVNITkVTU19FTkFCTEVEIjogInRydWUiLA0KICAgICJTRUFSQ0hfUFJPVklERVIiOiAiZG9tZXN0aWMiLA0KICAgICJGUkVTSE5FU1NfRkFDVFVBTF9FTkFCTEVEIjogInRydWUiLA0KICAgICJQUklWQUNZX0dBVEVfRU5BQkxFRCI6ICJ0cnVlIiwNCiAgICAiU0VBUkNIX0NBTkFSWV9FTkFCTEVEIjogInRydWUiLA0KICAgICJTRUFSQ0hfQ0FOQVJZX09QRU5JRFMiOiAib0NBTkFSWV9xMjhfdGVzdF8wMDEiLA0KICAgICJTRUFSQ0hfTUFYX1JFU1VMVFMiOiAiNSIsDQogICAgIlNFQVJDSF9USU1FT1VUX01TIjogIjMwMDAiLA0KICAgICJTRUFSQ0hfREFJTFlfUVVPVEEiOiAiNTAwIiwNCiAgICAiU0VBUlhOR19CQVNFX1VSTCI6ICJodHRwczovLzzlm73lhoUtU2VhclhORy3nq6/ngrk+L3NlYXJjaCIsDQogICAgIlNFQVJYTkdfRU5HSU5FUyI6ICJiYWlkdSxzb2dvdSwzNjAsc28sYmluZ19fY2hpbmVzZSx3aWtpZGF0YSx3aWtpIg0KICB9LA0KICAiZGlmZiI6IHsNCiAgICAiYWRkZWQiOiBbDQogICAgICB7ICJrZXkiOiAiRlJFU0hORVNTX0VOQUJMRUQiLCAidmFsdWUiOiAidHJ1ZSIsICJub3RlIjogIuOAkOihpeWFqMK36YOo572y5b+F6ZyA44CR5oC76Ze477ya57y65q2k5YiZIGZyZXNobmVzcyDlsYLkuI3liqDovb3vvIzkuovlrp7mo4DntKLkuI3lj6/ovr7jgILnlKjmiLcgUTItOCDmuIXljZXmnKrliJfvvIzkvYbkuLrnlJ/mlYjliY3mj5DjgIIiIH0sDQogICAgICB7ICJrZXkiOiAiU0VBUkNIX1BST1ZJREVSIiwgInZhbHVlIjogImRvbWVzdGljIiwgIm5vdGUiOiAi55So5oi35oyH5a6a77ya5LuF5Zu95YaF5rqQ77yM56aB55SoIHRhdmlseS9iaW5nL3NlcnBhcGkg562J6Leo5aKD44CCIiB9LA0KICAgICAgeyAia2V5IjogIkZSRVNITkVTU19GQUNUVUFMX0VOQUJMRUQiLCAidmFsdWUiOiAidHJ1ZSIsICJub3RlIjogIueUqOaIt+aMh+Wumu+8muS6i+Wunua6kOmXuOW8gOWQr+OAgiIgfSwNCiAgICAgIHsgImtleSI6ICJQUklWQUNZX0dBVEVfRU5BQkxFRCIsICJ2YWx1ZSI6ICJ0cnVlIiwgIm5vdGUiOiAi55So5oi35oyH5a6a77yaUElJL+makOengemXuOmXqOW8gOWQr+OAgiIgfSwNCiAgICAgIHsgImtleSI6ICJTRUFSQ0hfQ0FOQVJZX0VOQUJMRUQiLCAidmFsdWUiOiAidHJ1ZSIsICJub3RlIjogIueUqOaIt+aMh+Wumu+8mkwyIOeBsOW6pumXuOmXqOW8gOWQr++8jOS7heeZveWQjeWNlSBvcGVuaWQg6Kem55yf5a6e5qOA57Si44CCIiB9LA0KICAgICAgeyAia2V5IjogIlNFQVJDSF9DQU5BUllfT1BFTklEUyIsICJ2YWx1ZSI6ICJvQ0FOQVJZX3EyOF90ZXN0XzAwMSIsICJub3RlIjogIueUqOaIt+aMh+Wumu+8mua1i+ivlei0puWPt+WNoOS9je+8jOmDqOe9suWJjeabv+aNouS4uuecn+Wunua1i+ivlSBvcGVuaWTjgIIiIH0sDQogICAgICB7ICJrZXkiOiAiU0VBUkNIX01BWF9SRVNVTFRTIiwgInZhbHVlIjogIjUiLCAibm90ZSI6ICLnlKjmiLfmjIflrprvvJrljZXmn6Xor6LmnIDlpKfnu5PmnpzmlbDvvIjkuI7ku6PnoIHpu5jorqTkuIDoh7TvvIzmmL7lvI/ljJbvvInjgIIiIH0sDQogICAgICB7ICJrZXkiOiAiU0VBUkNIX1RJTUVPVVRfTVMiLCAidmFsdWUiOiAiMzAwMCIsICJub3RlIjogIueUqOaIt+aMh+Wumu+8muWNleasoeajgOe0ouehrOi2heaXtu+8iOS4juS7o+eggem7mOiupOS4gOiHtO+8jOaYvuW8j+WMlu+8ieOAgiIgfSwNCiAgICAgIHsgImtleSI6ICJTRUFSQ0hfREFJTFlfUVVPVEEiLCAidmFsdWUiOiAiNTAwIiwgIm5vdGUiOiAi55So5oi35oyH5a6a77ya5b2T5pel55yf5a6e5qOA57Si6YWN6aKd77yI5LiO5Luj56CB6buY6K6k5LiA6Ie077yM5pi+5byP5YyW77yJ44CCIiB9LA0KICAgICAgeyAia2V5IjogIlNFQVJYTkdfQkFTRV9VUkwiLCAidmFsdWUiOiAiaHR0cHM6Ly885Zu95YaFLVNlYXJYTkct56uv54K5Pi9zZWFyY2giLCAibm90ZSI6ICLjgJDooaXlhajCt+mDqOe9suW/hemcgOOAkWRvbWVzdGljIHByb3ZpZGVyIOi/numAmuerr+eCue+8m+S4uuepuuWImSBub19lbmRwb2ludCDkuI3ogZTnvZHjgILpg6jnvbLliY3loavlhaXnnJ/lrp7lm73lhoUgSFRUUFMg56uv54K544CCIiB9LA0KICAgICAgeyAia2V5IjogIlNFQVJYTkdfRU5HSU5FUyIsICJ2YWx1ZSI6ICJiYWlkdSxzb2dvdSwzNjAsc28sYmluZ19fY2hpbmVzZSx3aWtpZGF0YSx3aWtpIiwgIm5vdGUiOiAi44CQ6KGl5YWowrflkIjop4Tlv4XpnIDjgJHlvLrliLbku4Xlm73lhoXlvJXmk47vvIzkv53or4EgZGF0YV9yb3V0ZT1kb21lc3RpY+OAgembtui3qOWig+OAgui/kOe7tOS+p+WunuS+iyBlbmdpbmVzIOmFjee9rumhu+S4gOiHtOOAgiIgfQ0KICAgIF0sDQogICAgIm1vZGlmaWVkIjogW10sDQogICAgInJlbW92ZWQiOiBbXQ0KICB9LA0KICAiYmxvY2tlZF9kb21haW5zX25vdGUiOiAiU0VBUkNIX0JMT0NLRURfRE9NQUlOUyAvIFNFQVJDSF9BTExPV0VEX0RPTUFJTlMg5pyq6K6+572u77yI5Luj56CB6buY6K6k56m677yJ44CC5aaC6ZyA6L+b5LiA5q2l5pS25pWb5p2l5rqQ77yM5Y+v6L+95YqgIFNFQVJDSF9BTExPV0VEX0RPTUFJTlM9Ki5nb3YuY24sKi5wZW9wbGUuY29tLmNuLC4uLiDkvYbkvJjlhYjnuqfkvY7kuo4gU0VBUlhOR19FTkdJTkVTIOeahOWbveWGheW8leaTjue6puadn+OAgiIsDQogICJwcm9oaWJpdGVkIjogIuS4peemgeiuvue9ruS7u+S9lei3qOWigyBwcm92aWRlciDlj5jph4/vvJpTRUFSQ0hfUFJPVklERVI9dGF2aWx5L2Jpbmcvc2VycCDkuIDlvovnpoHmraLvvJtTRUFSWE5HX0VOR0lORVMg5LiN5b6X5ZCrIGdvb2dsZS9kdWNrZHVja2dvL2JyYXZlIOetieWig+WkluW8leaTjuOAgiINCn0NCg==
+{
+  "_meta": {
+    "phase": "Q2-8-MVP",
+    "artifact": "cloudbaserc.json envVariables patch 草案",
+    "status": "DRAFT — NOT APPLIED",
+    "warning": "本文件仅为配置草案(diff)。未写入 cloudbaserc.json、未部署、未 commit。须人工授权并按 Step 5 阻塞项逐项清除后，方可应用并 tcb fn deploy。",
+    "target_function": "chat",
+    "rule": "应用此 patch 时，tcb fn deploy 会套用 cloudbaserc.json 的 envVariables/runtime/timeout/memorySize，请先读 cloudbaserc.json 核对，避免与生产不一致静默覆盖。"
+  },
+  "current_envVariables": {
+    "ADMIN_OPENID": "YOUR_ADMIN_OPENID",
+    "KNOWLEDGE_OBSERVABILITY_STORE": "cloud"
+  },
+  "proposed_envVariables": {
+    "ADMIN_OPENID": "YOUR_ADMIN_OPENID",
+    "KNOWLEDGE_OBSERVABILITY_STORE": "cloud",
+    "FRESHNESS_ENABLED": "true",
+    "SEARCH_PROVIDER": "domestic",
+    "FRESHNESS_FACTUAL_ENABLED": "true",
+    "PRIVACY_GATE_ENABLED": "true",
+    "SEARCH_CANARY_ENABLED": "true",
+    "SEARCH_CANARY_OPENIDS": "oCANARY_q28_test_001",
+    "SEARCH_MAX_RESULTS": "5",
+    "SEARCH_TIMEOUT_MS": "3000",
+    "SEARCH_DAILY_QUOTA": "500",
+    "SEARXNG_BASE_URL": "https://<国内-SearXNG-端点>/search",
+    "SEARXNG_ENGINES": "baidu,sogou,360,so,bing__chinese,wikidata,wiki"
+  },
+  "diff": {
+    "added": [
+      { "key": "FRESHNESS_ENABLED", "value": "true", "note": "【补全·部署必需】总闸：缺此则 freshness 层不加载，事实检索不可达。用户 Q2-8 清单未列，但为生效前提。" },
+      { "key": "SEARCH_PROVIDER", "value": "domestic", "note": "用户指定：仅国内源，禁用 tavily/bing/serpapi 等跨境。" },
+      { "key": "FRESHNESS_FACTUAL_ENABLED", "value": "true", "note": "用户指定：事实源闸开启。" },
+      { "key": "PRIVACY_GATE_ENABLED", "value": "true", "note": "用户指定：PII/隐私闸门开启。" },
+      { "key": "SEARCH_CANARY_ENABLED", "value": "true", "note": "用户指定：L2 灰度闸门开启，仅白名单 openid 触真实检索。" },
+      { "key": "SEARCH_CANARY_OPENIDS", "value": "oCANARY_q28_test_001", "note": "用户指定：测试账号占位，部署前替换为真实测试 openid。" },
+      { "key": "SEARCH_MAX_RESULTS", "value": "5", "note": "用户指定：单查询最大结果数（与代码默认一致，显式化）。" },
+      { "key": "SEARCH_TIMEOUT_MS", "value": "3000", "note": "用户指定：单次检索硬超时（与代码默认一致，显式化）。" },
+      { "key": "SEARCH_DAILY_QUOTA", "value": "500", "note": "用户指定：当日真实检索配额（与代码默认一致，显式化）。" },
+      { "key": "SEARXNG_BASE_URL", "value": "https://<国内-SearXNG-端点>/search", "note": "【补全·部署必需】domestic provider 连通端点；为空则 no_endpoint 不联网。部署前填入真实国内 HTTPS 端点。" },
+      { "key": "SEARXNG_ENGINES", "value": "baidu,sogou,360,so,bing__chinese,wikidata,wiki", "note": "【补全·合规必需】强制仅国内引擎，保证 data_route=domestic、零跨境。运维侧实例 engines 配置须一致。" }
+    ],
+    "modified": [],
+    "removed": []
+  },
+  "blocked_domains_note": "SEARCH_BLOCKED_DOMAINS / SEARCH_ALLOWED_DOMAINS 未设置（代码默认空）。如需进一步收敛来源，可追加 SEARCH_ALLOWED_DOMAINS=*.gov.cn,*.people.com.cn,... 但优先级低于 SEARXNG_ENGINES 的国内引擎约束。",
+  "prohibited": "严禁设置任何跨境 provider 变量：SEARCH_PROVIDER=tavily/bing/serp 一律禁止；SEARXNG_ENGINES 不得含 google/duckduckgo/brave 等境外引擎。"
+}

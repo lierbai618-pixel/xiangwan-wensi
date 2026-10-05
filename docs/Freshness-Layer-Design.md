@@ -1,1 +1,226 @@
-IyDlkJHmmZrpl67mgJ3vvIhXZW5EYW/vvIlGcmVzaG5lc3MgTGF5ZXIg5a6e5pe25L+h5oGv6IO95YqbIMK3IOaetuaehOiuvuiuoQoKPiDop5LoibLvvJpSZWxlYXNlIE1hbmFnZXIgKyBBSSBSZWxpYWJpbGl0eSBBcmNoaXRlY3QgKyBSQUcgQXJjaGl0ZWN0ICsgUHJvZHVjdCBBcmNoaXRlY3QKPiDlvaLmgIHvvJrmnrbmnoTorr7orqEgLyDot6/nlLHor4TlrqEgLyDmtYvor5XmlrnmoYjvvIgqKue6r+iuvuiuoe+8jOmbtueUn+S6p+S7o+eggeaUueWKqOOAgembtuaVsOaNruW6k+aUueWKqOOAgembtuefpeivhuW6k+aUueWKqOOAgeacqiBjb21taXQgLyBkZXBsb3kqKu+8iQo+IOe6puadn+mBteW+qu+8muacquS/ruaUuSBgY29ycHVzLmpzb25gIC8gYGludGVudC5qc2AgLyBga25vd2xlZGdlUm91dGVyLmpzYCAvIGByYWcuanNg77yb5pyq5pS5IFByb21wdO+8m+acqiBpbmdlc3QgLyBlbWJlZGRpbmfvvJvmnKrop6bnorAgTy0wLjYg5Ya757uT5Z+657q/44CCCj4g54q25oCB77ya6K6+6K6h5a6M5oiQ77yMKirnrYnlvoXkurrlt6XmjojmnYPov5vlhaXlrp7mlr3pmLbmrrUqKuOAggoKLS0tCgojIyAwLiDmgLvljp/liJnkuI7njrDmnInmnrbmnoTlhbPns7vvvIjliqHlv4XlhYjor7vvvIkKCiMjIyAwLjEg5LiJ5p2h6L2o6YGT5bey5oiQ5Z6L77yI5Luj56CB5rOo6YeK5Y2z5aWR57qm77yJCmBjbG91ZGZ1bmN0aW9ucy9jaGF0L2NhcGFiaWxpdGllcy9pbmRleC5qc2Ag6aG26YOo5bey5piO56Gu5a6a5LmJ5LiJ5bGC6L6555WM77yaCgpgYGAKQ2FwYWJpbGl0eSBMYXllciAg5a6e5pe25LqL5a6eICAg4oaQIOW3suS4iue6vyhQaGFzZSBSKe+8mnRpbWUvd2VhdGhlci9jYWxjdWxhdGlvbi9sb2NhdGlvbu+8jOacrOWcsOehruWumuaAp+iuoeeul++8jOe7lei/hyBSQUcKRnJlc2huZXNzIExheWVyICAg546w5a6e5LqL5Lu26IOM5pmvIOKGkiDkvpvnu5nkupTmrrXlvI/mgJ3ovqjvvIjmnKzorr7orqHlvLrljJbnmoTlr7nosaHvvIkKS25vd2xlZGdlIExheWVyICAg57uP5YW455+l6K+GICAgICDihpAg5Ya757uT77yaY29ycHVzLmpzb24gLyBSQUcKYGBgCgojIyMgMC4yIOWFs+mUruS/ruato++8iOWvueeUqOaIt+WIhuexu+eahOe6oOWBj++8iQrnlKjmiLflsIbjgIzml7bpl7TnsbsgLyDlpKnmsJTnsbsgLyDmlrDpl7vng63ngrkgLyDkurrnianliqjmgIEgLyDkuqflk4HlvbHop4bmtLvliqjjgI3lhajpg6jlvZLkuLogRnJlc2huZXNzIExheWVy44CCCioq5p625p6E5LiK6L+Z5piv6ZSZ6K+v55qE5ZCI5bm2KirvvIzljp/lm6DvvJoKCi0gKirml7bpl7TnsbvjgIHlpKnmsJTnsbvlt7LnlLEgUGhhc2UgUiBDYXBhYmlsaXR5IExheWVyIOWunueOsOW5tuS4iue6vyoq77yIYGNhcGFiaWxpdGllcy9yb3V0ZXIuanNgIOeahCBgdGltZV9xdWVyeWAgLyBgd2VhdGhlcl9xdWVyeWDvvInjgIIKLSBgaW5kZXguanNgIOeahOa0vuWPkemhuuW6j+aYryAqKkNhcGFiaWxpdHkg4oaSIEZyZXNobmVzcyDihpIgS25vd2xlZGdlKirvvIhMMjY44oaSTDI4MeKGkkwyOTHvvInjgILjgIznjrDlnKjlh6DngrnjgI3jgIzljJfkuqzlpKnmsJTjgI3lnKggQ2FwYWJpbGl0eSDpmLbmrrXljbPooqvmi6bmiKrvvIwqKuagueacrOS4jeS8muWIsOi+viBGcmVzaG5lc3MqKuOAggotIOiLpeWcqCBGcmVzaG5lc3Mg5YaN5a6e546w5LiA6YGN5pe26Ze0L+WkqeawlCA9IOmHjeWkjeWunueOsCArIOi3r+eUseernuaAgSArIOe7tOaKpOWPjOS7vemAu+i+keOAggoKKirnu5PorrrvvJrml7bpl7TnsbvjgIHlpKnmsJTnsbvnlZnlnKggQ2FwYWJpbGl0eSBMYXllcu+8jOacrOiuvuiuoeS4jemHjeWkjeWunueOsOOAgkZyZXNobmVzcyBMYXllciDlj6rlvLrljJYgQ2FwYWJpbGl0eSDkuI3opobnm5bnmoTjgIzpnIDogZTnvZHmo4DntKLnmoTlrp7ml7bnsbvjgI3jgIIqKgoKIyMjIDAuMyDkuI3ph43lpI3pgKDova7lrZDvvJpQaGFzZSBRIGBmcmVzaG5lc3NgIOaooeWdl+W3suWtmOWcqApgY2xvdWRmdW5jdGlvbnMvY2hhdC9mcmVzaG5lc3MvYCDlt7LokL3lnLDvvIhQaGFzZSBR77yM6buY6K6k5YWz6ZetIGBGUkVTSE5FU1NfRU5BQkxFRGDvvInvvJoKLSBgZXZlbnRDbGFzc2lmaWVyLmpzYO+8muWbm+WIhuexuyBBL0IvQy9EICsg55So5oi35oSP5Zu+5bGCCi0gYGV2ZW50UmV0cmlldmVyLmpzYO+8muajgOe0ouaKveixoe+8jCoq5b2T5YmNIGBwcm92aWRlcj1ub25lYO+8iOaXoOazleecn+WunuWPluaVsO+8iSoqCi0gYHNjaGVtYS5qc2DvvJpgQ0FURUdPUllgIC8gYFNPVVJDRV9DT05GSURFTkNFYCAvIGBtYWtlRXZlbnRDb250ZXh0YO+8iOW4piBUVEzjgIHlvLrliLYgdW5rbm93bl9wb2ludHPvvIkKLSBgcmVzcG9uZGVyLmpzYO+8muS6lOauteW8j+eUn+aIkO+8m2Bkb3duZ3JhZGUuanNg77ya6ZmN57qnCi0gYGluZGV4LmpzYO+8mue8luaOkuWZqO+8jOW3suaOpeWFpSBgaW5kZXguanNgIOS4u+a1geeoiwoKKirmnKzorr7orqEgPSDlnKjnjrDmnIkgUGhhc2UgUSBgZnJlc2huZXNzYCDmqKHlnZfkuIrmianlsZXlrp7ml7bmo4DntKLog73lipsgKyDljYfnuqcgQ2F0ZWdvcnkgQyDkuLrjgIznnJ/lrp7kuovlrp7lm57nrZTjgI3vvIzogIzpnZ7mlrDlu7rlubPooYzmqKHlnZfjgIIqKgoKLS0tCgojIyAxLiDog4zmma8KLSDnnJ/lrp7nlKjmiLflt7Lmj5Dlh7rjgIzku5joiKrmnIDov5HmgI7kuYjmoLfjgI3jgIzmn5DmvJTlkZjmnIDov5HmnInku4DkuYjmtojmga/jgI3jgIzku4rlpKnmnInku4DkuYjmlrDpl7vjgI3jgIzmn5DnlLXlvbHku4DkuYjml7blgJnkuIrmmKDjgI3nrYnpnIDmsYLjgIIKLSDlvZPliY3ns7vnu5/lr7nov5nnsbvpl67popjopoHkuYjotbAgUkFH77yI562U6Z2e5omA6Zeu77yJ77yM6KaB5LmI5ZyoIFBoYXNlIFEgQ2F0ZWdvcnkgQyDooqsqKuS/neWuiOmZjee6p+S4uuOAjOWPjeaAnemCgOivt+OAjeiAjOS4jee7meS6i+Wunioq77yI5ZugIGBwcm92aWRlcj1ub25lYO+8ieOAggotIOS6p+WTgeS4jeW6lOi+k+WHuuOAjOaIkeeahOefpeivhuaIquatouS6juKApuKApuOAjeOAjOaIkeaXoOazleiBlOe9keKApuKApuOAjeKAlOKAlOi/meaYr+iDveWKm+e8uuWPo++8jOS4jeaYr+efpeivhuW6k+e8uumZt+OAggoKLS0tCgojIyAyLiDpl67popjlrprkuYkKCnwg57u05bqmIHwg5piv5ZCm5pys6LSoIHwg5Yik5patIHwKfC0tLS0tLXwtLS0tLS0tLS0tfC0tLS0tLXwKfCDmlbDmja7pl67popggfCDimqDvuI8g6YOo5YiG77yI57y65a6e5pe25qOA57Si6YCa6YGT77yJIHwg5LiN5piv5a2Y6YeP5pWw5o2u6ZSZ5LqG77yM5piv44CM5b2T5LiL5LqL5Lu2L+S6uueJqeWKqOaAgeOAjeS7juacquiiq+mHh+mbhuOAguWxnioq5p625p6EL+aVsOaNrue8uuWPoyoq44CCIHwKfCDnn6Xor4blupPpl67popggfCDinYwg5ZCmIHwg57uP5YW46K+t5paZ5q2j56Gu5LiU5peg6ZyA5pu05paw77yb5oqK5paw6Ze75aGe6L+b5rC45LmF6K+t5paZ5byV5YWl5pe25pWI6KGw5YeP5LiO5YGP6KeB44CCKirkuI3kv67nn6Xor4blupPjgIIqKiB8CnwgUkFHIOmXrumimCB8IOKdjCDlkKYgfCDml6LmnIkgUkFHIOWvuee7j+WFuOajgOe0ouato+W4uO+8m+mXrumimOWcqOOAjOajgOe0ouS4jeWIsOW9k+S4i+OAjeOAglJBRyDkuI3og4zplIXjgIIgfAp8IEFnZW50IOiDveWKm+mXrumimCB8IOKchSDmmK8gfCDnvLrjgIzor4bliKvlrp7ml7bor4nmsYIg4oaSIOWQiOinhOajgOe0oiDihpIg55Sf5oiQ5LqL5a6e5Zue562U44CN55qE6IO95Yqb57yW5o6S44CCIHwKfCDkuqflk4Hog73lipvpl67popggfCDinIUg5pivIHwg55So5oi35bey5Lqn55Sf5a6e5pe25L+h5oGv6ZyA5rGC77yM5Lqn5ZOB5b2T5YmN5LiN5o+Q5L6b44CCIHwKCioq57uT6K6677yaQWdlbnQv5Lqn5ZOB6IO95Yqb57y65Y+j77yM5qC55Zug5piv57y65aSx5ZCI6KeE5a6e5pe25qOA57Si6YCa6YGT44CC6Kej5rOVID0g5ZyoIEZyZXNobmVzcyBMYXllciDmjqXlhaXmo4DntKLmupDvvIzogIzpnZ7mlLkgY29ycHVzL3JhZ+OAgioqCgotLS0KCiMjIDMuIOi3r+eUseiuvuiuoQoKIyMjIDMuMSDkuInlsYLmtL7lj5HvvIjkuI7njrDmnInku6PnoIHkuIDoh7TvvIkKYGBgCueUqOaIt+i+k+WFpQogICDilIIKICAg4pa8IFsxXSBDYXBhYmlsaXR5IExheWVy77yIUGhhc2UgUu+8jOW3suS4iue6v++8jOacgOWFiOWIpOWumu+8iQogICDilIIgICAgIOWRveS4rSB0aW1lL3dlYXRoZXIvY2FsY3VsYXRpb24vbG9jYXRpb24g4oaSIOacrOWcsOehruWumuaAp+WbnuetlO+8jOe7lei/hyBSQUcKICAg4pSCICAgICDmnKrlkb3kuK0g4oaSIG51bGwKICAg4pa8IFsyXSBGcmVzaG5lc3MgTGF5ZXLvvIhQaGFzZSBRIOaooeWdl++8jOacrOiuvuiuoeaJqeWxle+8m0ZSRVNITkVTU19FTkFCTEVEIOaOp+WItu+8iQogICDilIIgICAgIOWRveS4remcgOiBlOe9keWunuaXtuexu++8iOaWsOmXuy/kurrniakv5Lqn5ZOB5b2x6KeG5rS75YqoL+eDreeCueaAnei+qO+8ieKGkiDmo4DntKIr55Sf5oiQCiAgIOKUgiAgICAg5pyq5ZG95LitIC8gQ2F0ZWdvcnkgQSAvIOWNseacuiDihpIgbnVsbAogICDilrwgWzNdIEtub3dsZWRnZSBMYXllcu+8iOWGu+e7kyBSQUfvvIkKICAgICAgICAg57uP5YW455+l6K+GIOKGkiDkupTmrrXlvI/lm57nrZQKYGBgCgojIyMgMy4yIOWunuaXtumXrumimOWIhuexu++8iOW9kuWxnuS/ruato+WQju+8iQoKfCDnsbvliKsgfCDlvZLlsZ4gfCDlpITnkIYgfCDnjrDnirYgfAp8LS0tLS0tfC0tLS0tLXwtLS0tLS18LS0tLS0tfAp8IOaXtumXtOexu++8iOeOsOWcqOWHoOeCuS/ku4rlpKnlh6Dlj7fvvIkgfCAqKkNhcGFiaWxpdHkqKiB8IOacrOWcsOiuoeeulyB8IOKchSDlt7LkuIrnur/vvIzkuI3liqggfAp8IOWkqeawlOexu++8iOWMl+S6rOWkqeawlC/lhrflkJfvvIkgfCAqKkNhcGFiaWxpdHkqKiB8IOacrOWcsCvlpKnmsJTmupDvvIhSLTAwMyDkvY3nva7pmpDnp4HkuLrliY3nva7vvIkgfCDinIUg5bey5LiK57q/77yM5LiN5YqoIHwKfCDmlrDpl7vng63ngrnvvIjku4rlpKnmnInku4DkuYjmlrDpl7sv5p+Q5LqL5Lu25pyA5paw6L+b5bGV77yJIHwgKipGcmVzaG5lc3MqKiB8IOajgOe0oiArIOS6i+WunuWbnuetlO+8iENhdGVnb3J5IEMg5Y2H57qn77yJIHwg8J+GlSDmnKzorr7orqHmlrDlop4gfAp8IOS6uueJqeWKqOaAge+8iOS7mOiIquacgOi/keaAjuS5iOagty/mn5DmvJTlkZjmlrDkvZzlk4HvvIkgfCAqKkZyZXNobmVzcyoqIHwg5qOA57SiICsg5LqL5a6e5Zue562UIHwg8J+GlSDmnKzorr7orqHmlrDlop4gfAp8IOS6p+WTgS/lvbHop4Yv5rS75Yqo5Yqo5oCB77yI5p+Q55S15b2x5LiK5pigL+afkOa0u+WKqOacgOaWsO+8iSB8ICoqRnJlc2huZXNzKiogfCDmo4DntKIgKyDkuovlrp7lm57nrZQgfCDwn4aVIOacrOiuvuiuoeaWsOWiniB8Cnwg54Ot54K55oCd6L6o77yIWFjkuovku7bor7TmmI7kuobku4DkuYjvvIkgfCAqKkZyZXNobmVzcyoqIHwg5qOA57SiICsg5LqU5q615byP5oCd6L6o77yIQ2F0ZWdvcnkgQu+8iSB8IPCfn6Eg5bey5pyJ5aOz77yM5b6FIHByb3ZpZGVyIHwKfCDnu4/lhbgv5Lq655SfL+WTsuWtpumXrumimCB8ICoqS25vd2xlZGdlKiogfCBSQUcgKyDkupTmrrXlvI8gfCDinIUg5Ya757uT77yM5LiN5YqoIHwKCiMjIyAzLjMgRnJlc2huZXNzIOWGhemDqOWtkOWIhuexu++8iOWcqOeOsOacieWbm+WIhuexu+S4iua8lOi/m++8iQrnjrDmnIkgYGV2ZW50Q2xhc3NpZmllcmDvvJpgQSDljp9SQUdgIC8gYEIg54Ot54K55oCd6L6oYCAvIGBDIOS6i+WunuafpeivoijlvZPliY3pmY3nuqcpYCAvIGBEIOaVj+aEnyjlronlhajpmY3nuqcpYOOAggoK5pys6K6+6K6h5a+55YiG57G75Zmo55qE5omp5bGV54K577yIKirku4Xorr7orqHvvIzkuI3lnKjmraTpmLbmrrXmlLnku6PnoIEqKu+8ie+8mgoxLiAqKuaJqeWxlemUmueCueS/oeWPtyoq77yM6K+G5Yir5Lq654mp5Yqo5oCB5LiO5Lqn5ZOB5b2x6KeG5rS75Yqo77yaCiAgIC0g5Lq654mp5Yqo5oCB77yaYCjku5joiKp85p+Q5ryU5ZGYfOafkOaYjuaYn3zov5HlhrV85Yqo5oCBfOaWsOS9nOWTgXzmlrDliad85paw57u86Im6fOaWsOatjHzlt6HmvJR8562+57qmfOe7k+WpmnzliIbmiYspYCArIOaXtumXtOmUmu+8iOacgOi/kS/ku4rlubQv6L+R5pyf77yJCiAgIC0g5Lqn5ZOB5b2x6KeG5rS75Yqo77yaYCjnlLXlvbF855S16KeG5YmnfOe7vOiJunzkuJPovpF85ryU5ZSx5LyafOWPkeW4g+S8mnzotZvkuot85bGV6KeIfOW8gOaSrXzlrprmoaN85LiK5pigfOmmluaYoHzlvIDnpagpYCArIOaXtumXtOmUmgoyLiAqKkNhdGVnb3J5IEMg5Y2H57qn5Li644CM5LqL5a6e5qOA57SiK+WbnuetlOOAjSoq77yI5qC45b+D5Y+Y5pu077yM6KeBIMKnMy4077yJ44CCCjMuIENhdGVnb3J5IELvvIjng63ngrnmgJ3ovqjvvInkv53mjIHkupTmrrXlvI/vvJtDYXRlZ29yeSBE77yI5pWP5oSf77yJ5L+d5oyB5a6J5YWo6ZmN57qn44CCCgo+IOKaoO+4jyAqKuW+heaOiOadg+WGs+etlueCuSBEMSoq77yaUGhhc2UgUTAg5pS/562W5Y6f5bCGIENhdGVnb3J5IEMg5a6a5Li644CM5LqL5a6e6L6555WMK+WPjeaAnemCgOivt++8iOS4jee7meS6i+Wunu+8ieOAjeOAguacrOiuvuiuoeWwhuWFtuWNh+e6p+S4uuOAjOajgOe0ouW5tue7meWHuuS6i+WunuWbnuetlOOAjeOAgui/meaYr+S6p+WTgeetlueVpei9rOWQke+8iOS7juOAjOWPquaAnei+qOS4jee7meS6i+WunuOAjeWIsOOAjOS5n+e7meS6i+WunuOAje+8ie+8jOmcgOeUqOaIt+WcqOWunuaWveaOiOadg+aXtuaYjuehruetvuWtl+OAgkMg57G75qOA57Si5aSx6LSl5LuN6ZmN57qn5Li65Y+N5oCd6YKA6K+377yI5LiN57yW6YCg77yJ44CCCgojIyMgMy40IENhdGVnb3J5IEMg5Y2H57qn6KGM5Li677yI6K6+6K6h5oCB77yJCmBgYArnlKjmiLfkuovlrp7mn6Xor6LvvIjku5joiKrmnIDov5HmgI7kuYjmoLcgLyDmn5DnlLXlvbHku4DkuYjml7blgJnkuIrmmKDvvIkKICAg4pSCCiAgIOKWvCBldmVudENsYXNzaWZpZXIg4oaSIENhdGVnb3J5IEPvvIjkuovlrp7mo4DntKLlrZDnsbvvvIkKICAg4pa8IGV2ZW50UmV0cmlldmVyLnJldHJpZXZlRXZlbnRGYWN0cyhtZW50aW9uKSAgIOKGkCDmjqXnnJ/lrp4gcHJvdmlkZXIKICAg4pSCICAgICDlpLHotKUv5peg5rqQIOKGkiBkb3duZ3JhZGXvvIjlj43mgJ3pgoDor7cgKyDkuI3nvJbpgKDvvIkKICAg4pa8IGZhY3RFeHRyYWN0b3IuZXh0cmFjdEZhY3Rz77yIRmFjdC9JbnRlcnByZXRhdGlvbiDpmpTnprvvvIkKICAg4pa8IHJlc3BvbmRlci5nZW5lcmF0ZUZhY3R1YWxBbnN3ZXLvvIgi5qC55o2u5pyA5paw5YWs5byA5L+h5oGv4oCmIiDmoLzlvI/vvIzop4Egwqc277yJCiAgIOKWvCDov5Tlm54gcmVzdWx0IHsgbW9kZTonZnJlc2huZXNzJywgZnJlc2huZXNzOntjYXRlZ29yeTonQycsLi4ufSB9CmBgYAoKIyMjIDMuNSDkuI7njrDmnInmqKHlnZfnmoTpm4bmiJDngrnvvIjlrp7mlr3pmLbmrrXokL3ngrnvvIzmnKzpmLbmrrXku4XmoIfms6jvvIkKfCDmlLnliqjngrkgfCDmlofku7YgfCDor7TmmI4gfAp8LS0tLS0tLS18LS0tLS0tfC0tLS0tLXwKfCDliIbnsbvlmajmianlsZUgfCBgZnJlc2huZXNzL2V2ZW50Q2xhc3NpZmllci5qc2AgfCDmlrDlop7kurrniakv5Lqn5ZOB5b2x6KeG6ZSa54K577ybQ2F0ZWdvcnkgQyDmoIforrAgYGZhY3R1YWxgIOWtkOexuyB8Cnwg5qOA57Si5rqQ5o6l5YWlIHwgYGZyZXNobmVzcy9ldmVudFJldHJpZXZlci5qc2AgfCBgcHJvdmlkZXJgIOeUsSBub25lIOKGkiDlkIjop4TmkJzntKIv5paw6Ze7IEFQSe+8iFBoYXNlIFEyIOmAieWei++8iSB8Cnwg5LqL5a6e5Zue562U55Sf5oiQIHwgYGZyZXNobmVzcy9yZXNwb25kZXIuanNgIHwg5paw5aKeIGBnZW5lcmF0ZUZhY3R1YWxBbnN3ZXJg77yI5Yy65Yir5LqOIGBnZW5lcmF0ZUZyZXNobmVzc0Fuc3dlcmAg5oCd6L6o77yJIHwKfCDkuLvmtYHnqIvlvIDlhbMgfCBgaW5kZXguanNgIHwg5aSN55SoIGBGUkVTSE5FU1NfRU5BQkxFRGDvvJvlu7rorq7mlrDlop4gYEZSRVNITkVTU19GQUNUVUFMX0VOQUJMRURgIOWtkOW8gOWFs++8jOWNleeLrOaOpyBDIOexu+S6i+WunuWbnuetlO+8jOS+v+S6jueBsOW6piB8Cnwg6KeC5rWLIHwgYG9ic2VydmFiaWxpdHkvb2JzZXJ2YWJpbGl0eUxvZ2dlci5qc2AgfCAqKuW3suWFt+WkhyoqIGBmcmVzaG5lc3NgIOWtl+aute+8iGNhdGVnb3J5L2V2ZW50X3N0YXR1cy9zb3VyY2VfY29uZmlkZW5jZS9kb3duZ3JhZGVk4oCm77yJ77yM5peg6ZyA5pS5IHwKCi0tLQoKIyMgNC4g5pWw5o2u6ZqU56a777yI5a6e5pe257uT5p6c55Sf5ZG95ZGo5pyf77yJCioq6ZOB5b6L77yI5LiOIFBoYXNlIFEg5LiA6Ie077yM6aG75Zyo5omn6KGM5oCB5by65YyW77yJ77yaKioKLSDlrp7ml7bmlbDmja4qKuWPqueUqOS6juW9k+WJjeWbnuetlCoq77yM5Zue562U57uT5p2f5Y2z57uT5p2f44CCCi0gKirnpoHmraIqKuWGmeWFpSBgY29ycHVzLmpzb25g77ybKirnpoHmraIqKiBlbWJlZGRpbmfvvJsqKuemgeatoioq6L+b5YWl6ZW/5pyf55+l6K+G5bqT77ybKirnpoHmraIqKuaUueWPmOe7j+WFuOi1hOaWmeadg+mHjeOAggotIOS6i+WunuS7pSBgZXZlbnRfY29udGV4dGDvvIjluKYgVFRM77yM6buY6K6kIDZo77yJ5Li05pe25a2Y5Zyo5LqO5Y2V5qyh5Lya6K+d5LiK5LiL5paH77yMKirov4fmnJ/ljbPlpLHmlYjvvIznu53kuI3msonmt4AqKuOAggotIOeOsOaciSBgc2NoZW1hLm1ha2VFdmVudENvbnRleHRgIOW3suW8uuWItiBgdW5rbm93bl9wb2ludHNgIOW/heWhqyArIGBzdGF0dXNgL2Bzb3VyY2VzYCDmoKHpqozvvIzmmK/pmLLnvJbpgKDnmoTnu5PmnoTmgKfkv53pmpzvvIzmnKzorr7orqHmsr/nlKjjgIIKCmBgYArnlKjmiLfpl67popgg4oaSIOajgOe0oiDihpIg55Sf5oiQ5Zue562UIOKGkiDnu5PmnZ8K77yIZXZlbnRfY29udGV4dCDku4XkvJror53lhoUgZXBoZW1lcmFs77yM5LiN5YWl6K+t5paZ44CB5LiN5YWl5ZCR6YeP5bqT77yJCmBgYAoKLS0tCgojIyA1LiDpmpDnp4HovrnnlYwKMS4gKirlh7rnq5nohLHmlY8qKu+8mueUqOaItyBxdWVyeSDlnKjlj5HlvoDlpJbpg6jmo4DntKLmupDliY3vvIzpobvnu48gYHNlY3VyaXR5L3BpaVNjcnViLm1hc2soKWAg6ISx5pWP77yI5aSN55So546w5pyJ5Ye95pWw77yM5LiN5paw5aKe77yJ44CC5Lil56aB5piO5paHIG9wZW5pZCAvIOaJi+acuuWPtyAvIOi6q+S7veivgei/m+WFpeesrOS4ieaWueOAggoyLiAqKuWFpeermeS4jeiQveWOn+Wni+WTjeW6lCoq77ya5aSW6YOo5qOA57Si6L+U5Zue55qE5Y6f5aeL572R6aG1L+aRmOimgeaWh+acrCoq5LiN5b6XKirlhpnlhaUgYGxvZ3NgIC8gYHF1ZXN0aW9uX2xvZ3NgIC8gYG9ic2VydmFiaWxpdHlfbG9nc2DjgILokL3lupPlj6rkv53nlZnvvJpgZXZlbnRfaWRgIC8gYHN0YXR1c2AgLyBgc291cmNlX2NvbmZpZGVuY2VgIC8gKirmnaXmupAgVVJMIOWIl+ihqCoqIC8g57uP5oq95Y+W55qE5Lit56uL5LqL5a6e5pGY6KaB77yI5pegIFBJSe+8ieOAggozLiAqKuS9jee9rumakOenge+8iFItMDAzIOehrOaAp+WJjee9ru+8iSoq77ya5aSp5rCU57G75bey5ZyoIENhcGFiaWxpdHnvvIzlhbbkvY3nva7liIbmlK/kvp3otZblrqLmiLfnq6/mjojmnYPvvJvliY3nq68gYGNoYXQuanNgIOW9k+WJjeS4jeS8oCBsb2NhdGlvbu+8jOaVhSBQaGFzZSBSIOWkqeawlOS9jee9ruWIhuaUr+S4jeWPr+i+vuOAgkZyZXNobmVzcyDkuI3lvJXlhaXmlrDkvY3nva7ph4fpm4bjgIIKNC4gKirlkIjop4TpmY3nuqcqKu+8muaUv+ayu+OAgeaCsuWJp+a2iOi0ueOAgeacquaguOWunuiwo+iogOetie+8iENhdGVnb3J5IEQgLyBib3VuZGFyeUNoZWNrIFJFU1RSSUNURUTvvInnpoHmraLmo4DntKLjgIHnpoHmraLnlJ/miJAgZXZlbnRfY29udGV4dO+8jOi1sOWuieWFqOmZjee6p+OAguWvueOAjOWkh+ahiOWuoeaguOS4reOAjeeahOWwj+eoi+W6j+WwpOS4uuWFs+mUruOAggo1LiAqKmBsb2dzYCDml6LmnInmlZ7lj6PvvIhPQlMtMDA5LUPvvIzlvoUgQ1ItMDA2IOWkhOe9ru+8iSoq77yaYGxvZ3NgIOWtmOaYjuaWhyBvcGVuaWQgKyDmmI7mlofmj5Dpl64gKyDmmI7mloflrozmlbTnrZTmoYjvvIzmmK/moIfor4bkuI7ljp/mloflkIzooajlhbHlrZjnmoTmnIDkuKXph43lrp7kvovjgILmnKzorr7orqHkuI3mianlpKflhbbph4fpm4bojIPlm7TvvIzkuJQgRnJlc2huZXNzIOWbnuetlOWQjOagt+e7jyBgcGlpU2NydWIubWFza2Ag5ZCO6JC9IGBsb2dzYO+8iOS4jueOsOeKtuS4gOiHtO+8ie+8jOS4jeWcqOacrOmYtuauteaWsOWinumjjumZqeOAggoKLS0tCgojIyA2LiDlm57nrZTpo47moLzopoHmsYIKIyMjIDYuMSDkuovlrp7nsbvvvIhDYXRlZ29yeSBD77ya5paw6Ze7L+S6uueJqS/kuqflk4HlvbHop4bvvIkKLSAqKuemgeatoioq6L6T5Ye65qih5Z6L6IO95Yqb6ZmQ5Yi26K+05piO77ya44CM5oiR55qE55+l6K+G5oiq5q2i5LqO4oCm4oCm44CN44CM5oiR5peg5rOV6IGU572R4oCm4oCm44CN5LiA5b6L5LiN5b6X5Ye6546w44CCCi0gKirph4fnlKgqKuOAjOagueaNruacgOaWsOWFrOW8gOS/oeaBr+KApuKApuOAjeahhuaetu+8jOe7k+aehO+8mgogIDEuIOacgOaWsOS6i+WunuaRmOimge+8iDItNCDlj6XvvIzlj6/moLjlrp7vvIzlvJXnlKjmnaXmupDvvIkKICAyLiDml7bpl7Tor7TmmI7vvIjkv6Hmga/miKroh7Pml7bpl7TvvIkKICAzLiDkv6Hmga/mnaXmupDml7bpl7TvvIjmnaXmupDlj5HluIPml7bpl7QgLyDmo4DntKLml7bpl7TvvIkKICA0LiDlv4XopoHnmoTkuI3noa7lrprmgKfor7TmmI7vvIjoi6XmnaXmupDlvLEv5Yay56qBL+i/h+acn++8jOaYjuehruagh+azqOOAjOS/oeaBr+WPr+iDveS4jeWujOaVtO+8jOS7pei/keacn+WumOaWuea4oOmBk+S4uuWHhuOAje+8iQotIOekuuS+i++8iOeUqOaIt+WOn+mXruOAjOS7mOiIquacgOi/keaAjuS5iOagt++8n+OAje+8ie+8mgogID4g5qC55o2u5pyA5paw5YWs5byA5L+h5oGv77yM5LuY6Iiq5Zyo44CK5Zac5Ymn5LmL546L5Y2V5Y+j5a2j44CL5LmL5ZCO5oyB57ut5Y+C5LiO5Y2V5Y+j5Zac5Ymn55u45YWz5ryU5Ye65LiO57u86Im65rS75Yqo44CC5YWz5LqOIDIwMjYg5bm055qE5pyA5paw5ryU5Ye65LiO5L2c5ZOB5a6J5o6S77yM5YWs5byA5rig6YGT5L+h5oGv5pyJ6ZmQ77yM5Lul5LiK5qKz55CG5Z+65LqO6L+R5LiA5bm05Y+v5p+l55qE5YWs5byA5oql6YGT77yM5YW35L2T5Lul6L+R5pyf5a6Y5pa556Wo5Yqh5LiO5bel5L2c5a6k5Y+R5biD5Li65YeG44CCCgojIyMgNi4yIOaAnei+qOexu++8iENhdGVnb3J5IELvvJrng63ngrnkuovku7bjgIzor7TmmI7kuobku4DkuYjjgI3vvIkKLSDkv53nlZnkupTmrrXlvI/vvIjnkIbop6PihpLliIbmnpDihpLooYzliqjihpLnu4/lhbjihpLmgJ3ogIPvvInjgIIKLSDkuovlrp7ku4XkvZzlhaXlj6PvvIznu4/lhbjmmKDnhafkuLrkuLvkvZPvvJvkuI3lr7nlj6/or4bliKvkuKrkurrlgZrpgZPlvrflrprmgKfvvJvlpJrop4bop5LjgIHkuI3nq5npmJ/jgIIKLSDku43pobvmoIfms6jkv6Hmga/mnaXmupDkuI7ml7bpl7TvvIjCpzYuMSDnmoQgMi8zLzQg5ZCM5qC36YCC55So77yJ44CCCgojIyMgNi4zIOWFqOWxgOaKpOagj++8iOayv+eUqCBQaGFzZSBR77yJCi0g5LqL5a6e5Y+q6IO95p2l6Ieq5qOA57Si5rqQ77yI5bimIHNvdXJjZS91cmzvvInvvIwqKuemgeatouS7juaooeWei+WPguaVsOiusOW/hueUn+aIkOS6i+S7tioq77yb5peg5p2l5rqQIOKGkiDmvoTmuIXlj43pl64v6ZmN57qn77yM5LiN57yW6YCg44CCCi0g5L2O572u5L+hIC8g5L+h5oGv5Yay56qBIC8g6L+H5pyfIOKGkiDpmY3nuqflubbmj5DnpLrvvIznu53kuI3pmYjov7DkuLrnoa7lrprkuovlrp7jgIIKCi0tLQoKIyMgNy4g5rWL6K+V5pa55qGICiMjIyA3LjEg6aKE5pyf6Lev55Sx55+p6Zi177yI5oyJ5L+u5q2j5ZCO5p625p6E77yJCgp8ICMgfCDpl67popggfCDpooTmnJ/ot6/nlLEgfCDor7TmmI4gfAp8LS0tfC0tLS0tLXwtLS0tLS0tLS0tfC0tLS0tLXwKfCBGMSB8IOeOsOWcqOaYr+S7gOS5iOaXtumXtO+8nyB8ICoqQ2FwYWJpbGl0eSoq77yIdGltZV9xdWVyee+8iSB8IOW3suWcqCBQaGFzZSBSIOS4iue6v++8jOmdniBGcmVzaG5lc3MgfAp8IEYyIHwg5LuK5aSp5pyJ5LuA5LmI5paw6Ze777yfIHwgKipGcmVzaG5lc3MqKu+8iENhdGVnb3J5IEMg5LqL5a6e77yJIHwg8J+GlSDmnKzorr7orqHmlrDlop4gfAp8IEYzIHwg5LuY6Iiq5pyA6L+R5oCO5LmI5qC377yfIHwgKipGcmVzaG5lc3MqKu+8iENhdGVnb3J5IEMg5LqL5a6e77yJIHwg8J+GlSDmnKzorr7orqHmlrDlop7vvJvlvZPliY3ooqvor6/pmY3nuqcgfAp8IEY0IHwg5p+Q55S15b2x5LuA5LmI5pe25YCZ5LiK5pig77yfIHwgKipGcmVzaG5lc3MqKu+8iENhdGVnb3J5IEMg5LqL5a6e77yJIHwg8J+GlSDpnIDmianlsZXkuqflk4HlvbHop4bplJrngrkgfAp8IEY1IHwgWFgg5LqL5Lu26K+05piO5LqG5LuA5LmI77yfIHwgKipGcmVzaG5lc3MqKu+8iENhdGVnb3J5IEIg5oCd6L6o77yJIHwgUGhhc2UgUSDlt7LmnInlo7MgfAp8IFIxIHwg5bqE5a2Q5oCO5LmI55yL6Ieq55Sx77yfIHwgKipLbm93bGVkZ2UqKu+8iFJBR++8iSB8IOWGu+e7k+i3r+W+hCB8CnwgUjIgfCDorrror63lpoLkvZXnnIvlrabkuaDvvJ8gfCAqKktub3dsZWRnZSoq77yIUkFH77yJIHwg5Ya757uT6Lev5b6EIHwKfCBSMyB8IOWmguS9lemdouWvueWksei0pe+8nyB8ICoqS25vd2xlZGdlKirvvIhSQUfvvIkgfCDlhrvnu5Pot6/lvoQgfAp8IEMxIHwg5pe26Ze055qE5oSP5LmJ5piv5LuA5LmI77yfIHwgKipLbm93bGVkZ2UqKu+8iFJBR++8iSB8IENhcGFiaWxpdHkg56Gs5ZCm5Yaz77yIdmV0b++8ie+8jOS4jemAj+S8oOW3peWFt+WxgiB8CgojIyMgNy4yIEZyZXNobmVzcyDmtYvor5Xpm4bvvIjnm67moIfmlq3oqIDvvIkKLSAqKkYxfkY1Kiog5Z2H5LiN5bqU6L+b5YWlIFJBR++8jOS4jeW6lOinpuWPkeefpeivhuajgOe0ou+8iGByZXRyaWV2YWwudG90YWxEb2N1bWVudHNgIOWcqCBjYXBhYmlsaXR5L2ZyZXNobmVzcyDot6/lvoTlupTkuLogMO+8ieOAggotICoqRjJ+RjQqKiDlm57nrZTpobvlkKvjgIzmoLnmja7mnIDmlrDlhazlvIDkv6Hmga/jgI3kuJTlkKvmnaXmupDml7bpl7Tor7TmmI7vvJsqKuemgeatoioq5Ye6546w44CM55+l6K+G5oiq5q2iL+aXoOazleiBlOe9keOAjeOAggotICoqRjUqKiDlm57nrZTpobvkuLrkupTmrrXlvI/kuJTlkKvnu4/lhbjmmKDnhafjgIIKLSDmo4DntKLlpLHotKXvvIhwcm92aWRlciDlvILluLgv5peg5rqQ77yJ5pe277yMRjJ+RjQg6aG7KirpmY3nuqfkuLrlj43mgJ3pgoDor7cqKu+8jOS4jeW+l+e8lumAoOS6i+WunuOAggoKIyMjIDcuMyBSQUcg5rWL6K+V6ZuG77yI55uu5qCH5pat6KiA77yJCi0gKipSMX5SMyoqIOW/hemhu+WRveS4rSBSQUfvvIhjb3JwdXMg5Y+s5Zue77yJ77yM5LqU5q615byP5L+d5oyB77yMYW5zd2VyIOadpeiHque7j+WFuOivreaWmeOAggotIOefpeivhumXrumimCoq5LiN5b6XKirosIPnlKjlpJbpg6jmkJzntKLvvIhGcmVzaG5lc3Mg6Lev5b6EIGBmcmVzaG5lc3MgPT0gbnVsbGDvvInjgIIKCiMjIyA3LjQg6ZqU56a76aqM6K+B77yI5qC45b+D5LiN5Y+Y6YeP77yJCi0gKirlrp7ml7bpl67popjkuI3ov5vlhaXnn6Xor4blupMqKu+8mui/nue7rei/kOihjCBGIOmbhuWQju+8jOagoemqjCBgY29ycHVzLmpzb25gIFNIQTI1NiDkuI3lj5jjgIFgcmFnLmpzYCDkuI3mlrDlop4gZW1iZWRkaW5nIOiwg+eUqOOAggotICoq55+l6K+G6Zeu6aKY5LiN6LCD55So5pCc57SiKirvvJrov5DooYwgUiDpm4bml7bvvIzmo4DntKLmupAgbW9jayDpobvorrDlvZUgMCDmrKHlh7rnq5nosIPnlKjjgIIKLSAqKlBJSSDkuI3ms4TpnLIqKu+8muWQkeajgOe0oua6kOWPkeWHuueahCBxdWVyeSDnu48gbWFza++8jOaWreiogOS4jeWQq+aYjuaWh+aJi+acuuWPty/ouqvku73or4HvvJvokL3lupPop4LmtYvorrDlvZXkuI3lkKvlpJbpg6jljp/lp4vlk43lupTjgIIKCiMjIyA3LjUg5Zue5b2S5L+d5oqkCi0g5pei5pyJIENhcGFiaWxpdHkgNzUvNzUg55So5L6L44CBUGhhc2UgUSAzMi8zMiArIDEyMC8xMjAg55So5L6L6aG75YWo57u/77yI5pys6K6+6K6h5LiN5pS56L+Z5Lqb6Lev5b6E77yJ44CCCi0g5Ya757uT5Zub6LWE5LqnIFNIQTI1NiDlhajnqIvmgZLlrprjgIIKCi0tLQoKIyMgOC4g5a6e5pa96ZmQ5Yi25LiO5b6F5o6I5p2D6aG577yI5pys6Zi25q615LiN5omn6KGM77yJCioq5pys6Zi25q615LuF6K6+6K6h44CCKiog6L+b5YWl5a6e5pa95YmN6ZyA55So5oi36YCQ6aG55o6I5p2D77yaCi0gKipBMSoq77ya5piv5ZCm5ZCM5oSP44CM5pe26Ze0L+WkqeawlOeVmeWcqCBDYXBhYmlsaXR577yM5LiN5bm25YWlIEZyZXNobmVzc+OAje+8iOaetuaehOe6oOWBj++8ieOAggotICoqRDHvvIjCpzMuM++8iSoq77ya5piv5ZCm5ZCM5oSPIENhdGVnb3J5IEMg5LuO44CM5Y+N5oCd6YKA6K+344CN5Y2H57qn5Li644CM5qOA57SiK+S6i+WunuWbnuetlOOAjeOAggotICoqUDHvvIhQaGFzZSBRMiDpgZfnlZnvvIkqKu+8muajgOe0oua6kOmAieWei+S4juaOpeWFpe+8iOWQiOinhOaQnOe0oi/mlrDpl7sgQVBJ44CB5a+G6ZKl44CB6YWN6aKd44CB5oiQ5pys77yJ4oCU4oCU5bGe54us56uL5a6e5pa95Lu75Yqh77yM6ZyA5Y2V54us5o6I5p2D5LiO6YWN572u77yMKirkuI3lnKjmnKzorr7orqHlhoXlrp7njrAqKuOAggotICoqUjHvvIhSLTAwM++8iSoq77ya5aSp5rCU5L2N572u6ZqQ56eB5YmN572u5LuNIEJMT0NLRUTvvIxGcmVzaG5lc3Mg5LiN5paw5aKe5L2N572u6YeH6ZuG77yM5pWF5LiN5Y+X5b2x5ZON44CCCi0gKirlvIDlhbPnrZbnlaUqKu+8muWkjeeUqCBgRlJFU0hORVNTX0VOQUJMRURg77yb5bu66K6u5paw5aKeIGBGUkVTSE5FU1NfRkFDVFVBTF9FTkFCTEVEYCDlrZDlvIDlhbPvvIzlhYjlvIDmlL4gQu+8iOaAnei+qO+8ieWQjuW8gOaUviBD77yI5LqL5a6e77yJ77yM5o6n5Yi254iG54K45Y2K5b6E44CCCi0gKirlhrvnu5PotYTkuqcqKu+8muWunuaWveiLpemcgOW+ruiwg+WIhuexu+inhOWIme+8jOS7jeWPquaUuSBgZnJlc2huZXNzLypgIOS4jiBgY2FwYWJpbGl0aWVzLypg77yI5Z2H6Z2e5Zub5Ya757uT6LWE5Lqn77yJ77ybYGNvcnB1cy9pbnRlbnQvcmFnL3JvdXRlcmAg5L+d5oyBIFNIQSDkuI3lj5jvvIzpmaTpnZ7ljZXni6zmjojmnYPjgIIKCi0tLQoKIyMgOS4g5LiN5Y+Y6YeP5LiO5Ya757uT6LWE5Lqn5aOw5piOCi0g5Zub5Ya757uT6LWE5Lqn77yIYGNvcnB1cy5qc29uYCAvIGBpbnRlbnQuanNgIC8gYGtub3dsZWRnZVJvdXRlci5qc2AgLyBgcmFnLmpzYO+8ieacrOiuvuiuoSoq6Zu25pS55YqoKirvvIxTSEEyNTYg5a6I6Zeo5oyB57ut5pyJ5pWI44CCCi0g57uP5YW46K+t5paZ5ZyoIEZyZXNobmVzcyDot6/lvoTooqsqKuWkjeeUqCoq77yI5qOA57SiK+W8leeUqO+8ie+8jOS4jeiiq+aUueWGmeOAgeS4jeiiq+aWsOmXu+axoeafk+OAggotIOS7u+S9leeUn+S6p+iQveWcsOmhu+mBteW+qiBDUiDnq4vpobnop4TojIPvvIhPYnNlcnZhdGlvbi1TT1Agwqcz77yJ77yaSHlwb3RoZXNpcyDihpIgRXZpZGVuY2Ug4oaSIERlY2lzaW9u77yM56aB5q2i5Z+65LqO44CM55aR5Ly844CN55u05o6l5a6e5pa944CCCi0g5pys5paH5Lu25Li65p625p6E6K6+6K6h5Lqn54mp77yM5pyq5pS55Yqo5Lu75L2V5Luj56CBIC8gUHJvbXB0IC8g6LWE5LqnIC8g5pWw5o2u5bqT77yM5pyq5omn6KGMIGNvbW1pdCAvIGRlcGxveeOAggoKLS0tCirlhbPogZTmlofmoaPvvJpPYnNlcnZhdGlvbi1TT1AubWTvvIjop4LmtYvmlrnms5Xkv67mraPvvInjgIFDUi0wMDktRGlhZ25vc2lzUmVwb3J0Lm1k77yIbG9ncyDlgaXlurfor4Hmja7vvInjgIFQaGFzZVEtRnJlc2huZXNzTGF5ZXItRGVzaWduLm1k77yIUGhhc2UgUSDljp/lp4vorr7orqHvvInjgIFkb2NzL1BoYXNlUi0q77yIQ2FwYWJpbGl0eSBMYXllciDkuIrnur/orrDlvZXvvInjgIIqCg==
+﻿# 向晚问思（WenDao）Freshness Layer 实时信息能力 · 架构设计
+
+> 角色：Release Manager + AI Reliability Architect + RAG Architect + Product Architect
+> 形态：架构设计 / 路由评审 / 测试方案（**纯设计，零生产代码改动、零数据库改动、零知识库改动、未 commit / deploy**）
+> 约束遵循：未修改 `corpus.json` / `intent.js` / `knowledgeRouter.js` / `rag.js`；未改 Prompt；未 ingest / embedding；未触碰 O-0.6 冻结基线。
+> 状态：设计完成，**等待人工授权进入实施阶段**。
+
+---
+
+## 0. 总原则与现有架构关系（务必先读）
+
+### 0.1 三条轨道已成型（代码注释即契约）
+`cloudfunctions/chat/capabilities/index.js` 顶部已明确定义三层边界：
+
+```
+Capability Layer  实时事实   ← 已上线(Phase R)：time/weather/calculation/location，本地确定性计算，绕过 RAG
+Freshness Layer   现实事件背景 → 供给五段式思辨（本设计强化的对象）
+Knowledge Layer   经典知识     ← 冻结：corpus.json / RAG
+```
+
+### 0.2 关键修正（对用户分类的纠偏）
+用户将「时间类 / 天气类 / 新闻热点 / 人物动态 / 产品影视活动」全部归为 Freshness Layer。
+**架构上这是错误的合并**，原因：
+
+- **时间类、天气类已由 Phase R Capability Layer 实现并上线**（`capabilities/router.js` 的 `time_query` / `weather_query`）。
+- `index.js` 的派发顺序是 **Capability → Freshness → Knowledge**（L268→L281→L291）。「现在几点」「北京天气」在 Capability 阶段即被拦截，**根本不会到达 Freshness**。
+- 若在 Freshness 再实现一遍时间/天气 = 重复实现 + 路由竞态 + 维护双份逻辑。
+
+**结论：时间类、天气类留在 Capability Layer，本设计不重复实现。Freshness Layer 只强化 Capability 不覆盖的「需联网检索的实时类」。**
+
+### 0.3 不重复造轮子：Phase Q `freshness` 模块已存在
+`cloudfunctions/chat/freshness/` 已落地（Phase Q，默认关闭 `FRESHNESS_ENABLED`）：
+- `eventClassifier.js`：四分类 A/B/C/D + 用户意图层
+- `eventRetriever.js`：检索抽象，**当前 `provider=none`（无法真实取数）**
+- `schema.js`：`CATEGORY` / `SOURCE_CONFIDENCE` / `makeEventContext`（带 TTL、强制 unknown_points）
+- `responder.js`：五段式生成；`downgrade.js`：降级
+- `index.js`：编排器，已接入 `index.js` 主流程
+
+**本设计 = 在现有 Phase Q `freshness` 模块上扩展实时检索能力 + 升级 Category C 为「真实事实回答」，而非新建平行模块。**
+
+---
+
+## 1. 背景
+- 真实用户已提出「付航最近怎么样」「某演员最近有什么消息」「今天有什么新闻」「某电影什么时候上映」等需求。
+- 当前系统对这类问题要么走 RAG（答非所问），要么在 Phase Q Category C 被**保守降级为「反思邀请」而不给事实**（因 `provider=none`）。
+- 产品不应输出「我的知识截止于……」「我无法联网……」——这是能力缺口，不是知识库缺陷。
+
+---
+
+## 2. 问题定义
+
+| 维度 | 是否本质 | 判断 |
+|------|----------|------|
+| 数据问题 | ⚠️ 部分（缺实时检索通道） | 不是存量数据错了，是「当下事件/人物动态」从未被采集。属**架构/数据缺口**。 |
+| 知识库问题 | ❌ 否 | 经典语料正确且无需更新；把新闻塞进永久语料引入时效衰减与偏见。**不修知识库。** |
+| RAG 问题 | ❌ 否 | 既有 RAG 对经典检索正常；问题在「检索不到当下」。RAG 不背锅。 |
+| Agent 能力问题 | ✅ 是 | 缺「识别实时诉求 → 合规检索 → 生成事实回答」的能力编排。 |
+| 产品能力问题 | ✅ 是 | 用户已产生实时信息需求，产品当前不提供。 |
+
+**结论：Agent/产品能力缺口，根因是缺失合规实时检索通道。解法 = 在 Freshness Layer 接入检索源，而非改 corpus/rag。**
+
+---
+
+## 3. 路由设计
+
+### 3.1 三层派发（与现有代码一致）
+```
+用户输入
+   │
+   ▼ [1] Capability Layer（Phase R，已上线，最先判定）
+   │     命中 time/weather/calculation/location → 本地确定性回答，绕过 RAG
+   │     未命中 → null
+   ▼ [2] Freshness Layer（Phase Q 模块，本设计扩展；FRESHNESS_ENABLED 控制）
+   │     命中需联网实时类（新闻/人物/产品影视活动/热点思辨）→ 检索+生成
+   │     未命中 / Category A / 危机 → null
+   ▼ [3] Knowledge Layer（冻结 RAG）
+         经典知识 → 五段式回答
+```
+
+### 3.2 实时问题分类（归属修正后）
+
+| 类别 | 归属 | 处理 | 现状 |
+|------|------|------|------|
+| 时间类（现在几点/今天几号） | **Capability** | 本地计算 | ✅ 已上线，不动 |
+| 天气类（北京天气/冷吗） | **Capability** | 本地+天气源（R-003 位置隐私为前置） | ✅ 已上线，不动 |
+| 新闻热点（今天有什么新闻/某事件最新进展） | **Freshness** | 检索 + 事实回答（Category C 升级） | 🆕 本设计新增 |
+| 人物动态（付航最近怎么样/某演员新作品） | **Freshness** | 检索 + 事实回答 | 🆕 本设计新增 |
+| 产品/影视/活动动态（某电影上映/某活动最新） | **Freshness** | 检索 + 事实回答 | 🆕 本设计新增 |
+| 热点思辨（XX事件说明了什么） | **Freshness** | 检索 + 五段式思辨（Category B） | 🟡 已有壳，待 provider |
+| 经典/人生/哲学问题 | **Knowledge** | RAG + 五段式 | ✅ 冻结，不动 |
+
+### 3.3 Freshness 内部子分类（在现有四分类上演进）
+现有 `eventClassifier`：`A 原RAG` / `B 热点思辨` / `C 事实查询(当前降级)` / `D 敏感(安全降级)`。
+
+本设计对分类器的扩展点（**仅设计，不在此阶段改代码**）：
+1. **扩展锚点信号**，识别人物动态与产品影视活动：
+   - 人物动态：`(付航|某演员|某明星|近况|动态|新作品|新剧|新综艺|新歌|巡演|签约|结婚|分手)` + 时间锚（最近/今年/近期）
+   - 产品影视活动：`(电影|电视剧|综艺|专辑|演唱会|发布会|赛事|展览|开播|定档|上映|首映|开票)` + 时间锚
+2. **Category C 升级为「事实检索+回答」**（核心变更，见 §3.4）。
+3. Category B（热点思辨）保持五段式；Category D（敏感）保持安全降级。
+
+> ⚠️ **待授权决策点 D1**：Phase Q0 政策原将 Category C 定为「事实边界+反思邀请（不给事实）」。本设计将其升级为「检索并给出事实回答」。这是产品策略转向（从「只思辨不给事实」到「也给事实」），需用户在实施授权时明确签字。C 类检索失败仍降级为反思邀请（不编造）。
+
+### 3.4 Category C 升级行为（设计态）
+```
+用户事实查询（付航最近怎么样 / 某电影什么时候上映）
+   │
+   ▼ eventClassifier → Category C（事实检索子类）
+   ▼ eventRetriever.retrieveEventFacts(mention)   ← 接真实 provider
+   │     失败/无源 → downgrade（反思邀请 + 不编造）
+   ▼ factExtractor.extractFacts（Fact/Interpretation 隔离）
+   ▼ responder.generateFactualAnswer（"根据最新公开信息…" 格式，见 §6）
+   ▼ 返回 result { mode:'freshness', freshness:{category:'C',...} }
+```
+
+### 3.5 与现有模块的集成点（实施阶段落点，本阶段仅标注）
+| 改动点 | 文件 | 说明 |
+|--------|------|------|
+| 分类器扩展 | `freshness/eventClassifier.js` | 新增人物/产品影视锚点；Category C 标记 `factual` 子类 |
+| 检索源接入 | `freshness/eventRetriever.js` | `provider` 由 none → 合规搜索/新闻 API（Phase Q2 选型） |
+| 事实回答生成 | `freshness/responder.js` | 新增 `generateFactualAnswer`（区别于 `generateFreshnessAnswer` 思辨） |
+| 主流程开关 | `index.js` | 复用 `FRESHNESS_ENABLED`；建议新增 `FRESHNESS_FACTUAL_ENABLED` 子开关，单独控 C 类事实回答，便于灰度 |
+| 观测 | `observability/observabilityLogger.js` | **已具备** `freshness` 字段（category/event_status/source_confidence/downgraded…），无需改 |
+
+---
+
+## 4. 数据隔离（实时结果生命周期）
+**铁律（与 Phase Q 一致，须在执行态强化）：**
+- 实时数据**只用于当前回答**，回答结束即结束。
+- **禁止**写入 `corpus.json`；**禁止** embedding；**禁止**进入长期知识库；**禁止**改变经典资料权重。
+- 事实以 `event_context`（带 TTL，默认 6h）临时存在于单次会话上下文，**过期即失效，绝不沉淀**。
+- 现有 `schema.makeEventContext` 已强制 `unknown_points` 必填 + `status`/`sources` 校验，是防编造的结构性保障，本设计沿用。
+
+```
+用户问题 → 检索 → 生成回答 → 结束
+（event_context 仅会话内 ephemeral，不入语料、不入向量库）
+```
+
+---
+
+## 5. 隐私边界
+1. **出站脱敏**：用户 query 在发往外部检索源前，须经 `security/piiScrub.mask()` 脱敏（复用现有函数，不新增）。严禁明文 openid / 手机号 / 身份证进入第三方。
+2. **入站不落原始响应**：外部检索返回的原始网页/摘要文本**不得**写入 `logs` / `question_logs` / `observability_logs`。落库只保留：`event_id` / `status` / `source_confidence` / **来源 URL 列表** / 经抽取的中立事实摘要（无 PII）。
+3. **位置隐私（R-003 硬性前置）**：天气类已在 Capability，其位置分支依赖客户端授权；前端 `chat.js` 当前不传 location，故 Phase R 天气位置分支不可达。Freshness 不引入新位置采集。
+4. **合规降级**：政治、悲剧消费、未核实谣言等（Category D / boundaryCheck RESTRICTED）禁止检索、禁止生成 event_context，走安全降级。对「备案审核中」的小程序尤为关键。
+5. **`logs` 既有敞口（OBS-009-C，待 CR-006 处置）**：`logs` 存明文 openid + 明文提问 + 明文完整答案，是标识与原文同表共存的最严重实例。本设计不扩大其采集范围，且 Freshness 回答同样经 `piiScrub.mask` 后落 `logs`（与现状一致），不在本阶段新增风险。
+
+---
+
+## 6. 回答风格要求
+### 6.1 事实类（Category C：新闻/人物/产品影视）
+- **禁止**输出模型能力限制说明：「我的知识截止于……」「我无法联网……」一律不得出现。
+- **采用**「根据最新公开信息……」框架，结构：
+  1. 最新事实摘要（2-4 句，可核实，引用来源）
+  2. 时间说明（信息截至时间）
+  3. 信息来源时间（来源发布时间 / 检索时间）
+  4. 必要的不确定性说明（若来源弱/冲突/过期，明确标注「信息可能不完整，以近期官方渠道为准」）
+- 示例（用户原问「付航最近怎么样？」）：
+  > 根据最新公开信息，付航在《喜剧之王单口季》之后持续参与单口喜剧相关演出与综艺活动。关于 2026 年的最新演出与作品安排，公开渠道信息有限，以上梳理基于近一年可查的公开报道，具体以近期官方票务与工作室发布为准。
+
+### 6.2 思辨类（Category B：热点事件「说明了什么」）
+- 保留五段式（理解→分析→行动→经典→思考）。
+- 事实仅作入口，经典映照为主体；不对可识别个人做道德定性；多视角、不站队。
+- 仍须标注信息来源与时间（§6.1 的 2/3/4 同样适用）。
+
+### 6.3 全局护栏（沿用 Phase Q）
+- 事实只能来自检索源（带 source/url），**禁止从模型参数记忆生成事件**；无来源 → 澄清反问/降级，不编造。
+- 低置信 / 信息冲突 / 过期 → 降级并提示，绝不陈述为确定事实。
+
+---
+
+## 7. 测试方案
+### 7.1 预期路由矩阵（按修正后架构）
+
+| # | 问题 | 预期路由 | 说明 |
+|---|------|----------|------|
+| F1 | 现在是什么时间？ | **Capability**（time_query） | 已在 Phase R 上线，非 Freshness |
+| F2 | 今天有什么新闻？ | **Freshness**（Category C 事实） | 🆕 本设计新增 |
+| F3 | 付航最近怎么样？ | **Freshness**（Category C 事实） | 🆕 本设计新增；当前被误降级 |
+| F4 | 某电影什么时候上映？ | **Freshness**（Category C 事实） | 🆕 需扩展产品影视锚点 |
+| F5 | XX 事件说明了什么？ | **Freshness**（Category B 思辨） | Phase Q 已有壳 |
+| R1 | 庄子怎么看自由？ | **Knowledge**（RAG） | 冻结路径 |
+| R2 | 论语如何看学习？ | **Knowledge**（RAG） | 冻结路径 |
+| R3 | 如何面对失败？ | **Knowledge**（RAG） | 冻结路径 |
+| C1 | 时间的意义是什么？ | **Knowledge**（RAG） | Capability 硬否决（veto），不透传工具层 |
+
+### 7.2 Freshness 测试集（目标断言）
+- **F1~F5** 均不应进入 RAG，不应触发知识检索（`retrieval.totalDocuments` 在 capability/freshness 路径应为 0）。
+- **F2~F4** 回答须含「根据最新公开信息」且含来源时间说明；**禁止**出现「知识截止/无法联网」。
+- **F5** 回答须为五段式且含经典映照。
+- 检索失败（provider 异常/无源）时，F2~F4 须**降级为反思邀请**，不得编造事实。
+
+### 7.3 RAG 测试集（目标断言）
+- **R1~R3** 必须命中 RAG（corpus 召回），五段式保持，answer 来自经典语料。
+- 知识问题**不得**调用外部搜索（Freshness 路径 `freshness == null`）。
+
+### 7.4 隔离验证（核心不变量）
+- **实时问题不进入知识库**：连续运行 F 集后，校验 `corpus.json` SHA256 不变、`rag.js` 不新增 embedding 调用。
+- **知识问题不调用搜索**：运行 R 集时，检索源 mock 须记录 0 次出站调用。
+- **PII 不泄露**：向检索源发出的 query 经 mask，断言不含明文手机号/身份证；落库观测记录不含外部原始响应。
+
+### 7.5 回归保护
+- 既有 Capability 75/75 用例、Phase Q 32/32 + 120/120 用例须全绿（本设计不改这些路径）。
+- 冻结四资产 SHA256 全程恒定。
+
+---
+
+## 8. 实施限制与待授权项（本阶段不执行）
+**本阶段仅设计。** 进入实施前需用户逐项授权：
+- **A1**：是否同意「时间/天气留在 Capability，不并入 Freshness」（架构纠偏）。
+- **D1（§3.3）**：是否同意 Category C 从「反思邀请」升级为「检索+事实回答」。
+- **P1（Phase Q2 遗留）**：检索源选型与接入（合规搜索/新闻 API、密钥、配额、成本）——属独立实施任务，需单独授权与配置，**不在本设计内实现**。
+- **R1（R-003）**：天气位置隐私前置仍 BLOCKED，Freshness 不新增位置采集，故不受影响。
+- **开关策略**：复用 `FRESHNESS_ENABLED`；建议新增 `FRESHNESS_FACTUAL_ENABLED` 子开关，先开放 B（思辨）后开放 C（事实），控制爆炸半径。
+- **冻结资产**：实施若需微调分类规则，仍只改 `freshness/*` 与 `capabilities/*`（均非四冻结资产）；`corpus/intent/rag/router` 保持 SHA 不变，除非单独授权。
+
+---
+
+## 9. 不变量与冻结资产声明
+- 四冻结资产（`corpus.json` / `intent.js` / `knowledgeRouter.js` / `rag.js`）本设计**零改动**，SHA256 守门持续有效。
+- 经典语料在 Freshness 路径被**复用**（检索+引用），不被改写、不被新闻污染。
+- 任何生产落地须遵循 CR 立项规范（Observation-SOP §3）：Hypothesis → Evidence → Decision，禁止基于「疑似」直接实施。
+- 本文件为架构设计产物，未改动任何代码 / Prompt / 资产 / 数据库，未执行 commit / deploy。
+
+---
+*关联文档：Observation-SOP.md（观测方法修正）、CR-009-DiagnosisReport.md（logs 健康证据）、PhaseQ-FreshnessLayer-Design.md（Phase Q 原始设计）、docs/PhaseR-*（Capability Layer 上线记录）。*

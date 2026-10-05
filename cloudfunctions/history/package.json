@@ -1,1 +1,1 @@
-eyJuYW1lIjogImhpc3RvcnkiLCAidmVyc2lvbiI6ICIxLjAuMCIsICJkZXNjcmlwdGlvbiI6ICLlkJHmmZrpl67mgJ0gLSDkvJror53ljoblj7LmjIHkuYXljJbvvIjmjIkgb3BlbmlkIOWtmOWvueivneWIsCBjb252ZXJzYXRpb25zIOmbhuWQiO+8iSIsICJtYWluIjogImluZGV4LmpzIiwgImRlcGVuZGVuY2llcyI6IHsid3gtc2VydmVyLXNkayI6ICJ+Mi42LjMifX0K
+{"name": "history", "version": "1.0.0", "description": "向晚问思 - 会话历史持久化（按 openid 存对话到 conversations 集合）", "main": "index.js", "dependencies": {"wx-server-sdk": "~2.6.3"}}

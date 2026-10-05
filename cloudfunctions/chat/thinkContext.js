@@ -1,1 +1,77 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIHRoaW5rQ29udGV4dC5qcwovLyAgIFBoYXNlIFEyLTHvvJpUaGlua0NvbnRleHQg5pWw5o2u57uT5p6E77yI6Zeu5oCd5qih5byP44CM5LqL5a6eK+efpeivhivmgJ3mg7PjgI3ono3lkIjkuIrkuIvmlofvvInjgIIKLy8KLy8gICDorr7orqHkvp3mja7vvJpkb2NzL1BoYXNlLVEyLURhdGEtSXNvbGF0aW9uLm1kIMKnMu+8iHNlYXJjaF9jb250ZXh0IOivt+axgue6p+eUn+WRveWRqOacn++8iQovLyAgIOaguOW/g+e6puadn++8iOaVsOaNrumalOemu+ehrOinhOWIme+8ie+8mgovLyAgICAgwrcg5LuF5a2Y5Zyo5LqO44CM5LiA5qyh6K+35rGC5aSE55CG44CN55qE5YaF5a2Y5Lit77yM6ZqP5Ye95pWw6L+U5Zue6KKrIEdD77yMCi8vICAgICAgIOe7neS4jeWGmeWFpSBjb3JwdXMgLyBlbWJlZGRpbmcgLyBtZXRhZGF0YSAvIGhpc3RvcnkgLyDku7vkvZXmjIHkuYXljJYgS0LjgIIKLy8gICAgIMK3IF9lcGhlbWVyYWw9dHJ1ZSDmmK/noaznvJbnoIHmoIforrDvvJrku7vkvZXluo/liJfljJYv6JC95bqT6YC76L6R6YO95bqU5ouS57ud5a6D44CCCi8vICAgICDCtyDkuI3lvpfooqsgSlNPTi5zdHJpbmdpZnkg5ZCO5L2c5Li655+l6K+G5rKJ5reA77yI5rWL6K+V5pat6KiAIGNvcnB1cyBTSEEg5LiN5Y+Y77yJ44CCCi8vCi8vICAg57uT5p6E77yaCi8vICAgICBtb2RlICAgICAgICAgZmFzdCAvIGRlZXAgLyB0aGlua++8iOm7mOiupCB0aGlua++8iQovLyAgICAgcXVlcnkgICAgICAgIOWOn+Wni+mXrumimAovLyAgICAgZmFjdHNbXSAgICAgIOadpeiHqiBTZWFyY2ggUHJvdmlkZXIg55qE5qOA57Si57uT5p6c77yI6K+35rGC57qn77yM5aSW6YOo5LqL5a6e77yJCi8vICAgICBrbm93bGVkZ2VbXSAg5p2l6IeqIFJBRyDmo4DntKLnmoTlvJXnlKjvvIjlj6ror7vosIPnlKjvvIzkuI3kv67mlLkgS0LvvIkKLy8gICAgIHJlYXNvbmluZyAgICDmgJ3mg7PlsYLljaDkvY3vvIjlgYforr4v5byA5pS+6Zeu6aKY77yJ77yM55Sx6J6N5ZCI5byV5pOO5aGr5YWF77yIUTItM++8iQovLyAgIOe6r+WHveaVsOOAgembtuS6keS+nei1luOAgU5vZGUxNi4xMyDlhbzlrrnjgIIKLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Cid1c2Ugc3RyaWN0JzsKCnZhciBERUZBVUxUX1RUTF9NUyA9IDMwICogNjAgKiAxMDAwOyAvLyAzMCDliIbpkp/vvIjmgJ3ogIPkuIrkuIvmlofmr5Tkuovlrp7mm7Tplb/vvIzkvYbku40gZXBoZW1lcmFs77yJCgpmdW5jdGlvbiBpc05vbkVtcHR5U3RyaW5nKHMpIHsKICByZXR1cm4gdHlwZW9mIHMgPT09ICdzdHJpbmcnICYmIHMudHJpbSgpLmxlbmd0aCA+IDA7Cn0KCi8vIG1ha2VUaGlua0NvbnRleHQoZmllbGRzKSDihpIg6K+35rGC57qn6J6N5ZCI5LiK5LiL5paHCi8vICAgZmllbGRzOiB7IG1vZGUsIHF1ZXJ5LCBmYWN0c1tdLCBrbm93bGVkZ2VbXSwgdHRsTXMgfQpmdW5jdGlvbiBtYWtlVGhpbmtDb250ZXh0KGZpZWxkcykgewogIGZpZWxkcyA9IGZpZWxkcyB8fCB7fTsKICB2YXIgbm93ID0gbmV3IERhdGUoKTsKICB2YXIgdHRsTXMgPSAodHlwZW9mIGZpZWxkcy50dGxNcyA9PT0gJ251bWJlcicgJiYgZmllbGRzLnR0bE1zID4gMCkgPyBmaWVsZHMudHRsTXMgOiBERUZBVUxUX1RUTF9NUzsKICByZXR1cm4gewogICAgbW9kZTogZmllbGRzLm1vZGUgPT09ICdmYXN0JyA/ICdmYXN0JyA6IChmaWVsZHMubW9kZSA9PT0gJ2RlZXAnID8gJ2RlZXAnIDogJ3RoaW5rJyksCiAgICBxdWVyeTogKGZpZWxkcy5xdWVyeSB8fCAnJykudG9TdHJpbmcoKSwKICAgIC8vIOWklumDqOS6i+Wunu+8iOaQnOe0oue7k+aenO+8ie+8muS7heW8leeUqO+8jOS4jeayiea3gAogICAgZmFjdHM6IEFycmF5LmlzQXJyYXkoZmllbGRzLmZhY3RzKQogICAgICA/IGZpZWxkcy5mYWN0cy5maWx0ZXIoZnVuY3Rpb24gKGYpIHsgcmV0dXJuIGYgJiYgKGYudGl0bGUgfHwgZi5zbmlwcGV0KTsgfSkKICAgICAgOiBbXSwKICAgIC8vIOe7j+WFuOefpeivhu+8iFJBRyDmo4DntKLvvInvvJrlj6ror7vvvIzkuI3kv67mlLkKICAgIGtub3dsZWRnZTogQXJyYXkuaXNBcnJheShmaWVsZHMua25vd2xlZGdlKQogICAgICA/IGZpZWxkcy5rbm93bGVkZ2UuZmlsdGVyKGZ1bmN0aW9uIChrKSB7IHJldHVybiBrICYmIChrLnRpdGxlIHx8IGsudGV4dCk7IH0pCiAgICAgIDogW10sCiAgICAvLyDmgJ3mg7PlsYLljaDkvY3vvIhRMi0zIOiejeWQiOW8leaTjuWhq+WFhe+8iQogICAgcmVhc29uaW5nOiB7IGh5cG90aGVzZXM6IFtdLCBvcGVuUXVlc3Rpb25zOiBbXSB9LAogICAgY3JlYXRlZF9hdDogbm93LnRvSVNPU3RyaW5nKCksCiAgICBleHBpcmVzX2F0OiBuZXcgRGF0ZShub3cuZ2V0VGltZSgpICsgdHRsTXMpLnRvSVNPU3RyaW5nKCksCiAgICBfZXBoZW1lcmFsOiB0cnVlLCAvLyDnpoHmraLluo/liJfljJblhaUgS0Ig55qE56Gs5qCH6K6wCiAgfTsKfQoKLy8gaXNGcmVzaChjdHgsIG5vd01zKSDihpIg5piv5ZCm5LuN5Zyo55Sf5ZG95ZGo5pyf5YaFCmZ1bmN0aW9uIGlzRnJlc2goY3R4LCBub3dNcykgewogIGlmICghY3R4IHx8ICFjdHguZXhwaXJlc19hdCkgcmV0dXJuIGZhbHNlOwogIHZhciBub3cgPSAodHlwZW9mIG5vd01zID09PSAnbnVtYmVyJykgPyBub3dNcyA6IERhdGUubm93KCk7CiAgcmV0dXJuIERhdGUucGFyc2UoY3R4LmV4cGlyZXNfYXQpID4gbm93Owp9CgovLyB0b1NhZmVNZXRhKGN0eCkg4oaSIOS7heeUqOS6juingua1i+aXpeW/l+eahOiEseaVj+WFg+S/oeaBr++8iOS4jeWQq+S6i+WunuWGheWuue+8ie+8jOe7neS4jei/myBjb3JwdXMKZnVuY3Rpb24gdG9TYWZlTWV0YShjdHgpIHsKICBpZiAoIWN0eCkgcmV0dXJuIG51bGw7CiAgcmV0dXJuIHsKICAgIG1vZGU6IGN0eC5tb2RlLAogICAgcXVlcnlfbGVuOiAoY3R4LnF1ZXJ5IHx8ICcnKS5sZW5ndGgsCiAgICBmYWN0c19jb3VudDogKGN0eC5mYWN0cyB8fCBbXSkubGVuZ3RoLAogICAga25vd2xlZGdlX2NvdW50OiAoY3R4Lmtub3dsZWRnZSB8fCBbXSkubGVuZ3RoLAogICAgX2VwaGVtZXJhbDogdHJ1ZSwKICB9Owp9Cgptb2R1bGUuZXhwb3J0cyA9IHsKICBtYWtlVGhpbmtDb250ZXh0OiBtYWtlVGhpbmtDb250ZXh0LAogIGlzRnJlc2g6IGlzRnJlc2gsCiAgdG9TYWZlTWV0YTogdG9TYWZlTWV0YSwKICBERUZBVUxUX1RUTF9NUzogREVGQVVMVF9UVExfTVMsCn07Cg==
+// ============================================================
+// thinkContext.js
+//   Phase Q2-1：ThinkContext 数据结构（问思模式「事实+知识+思想」融合上下文）。
+//
+//   设计依据：docs/Phase-Q2-Data-Isolation.md §2（search_context 请求级生命周期）
+//   核心约束（数据隔离硬规则）：
+//     · 仅存在于「一次请求处理」的内存中，随函数返回被 GC，
+//       绝不写入 corpus / embedding / metadata / history / 任何持久化 KB。
+//     · _ephemeral=true 是硬编码标记：任何序列化/落库逻辑都应拒绝它。
+//     · 不得被 JSON.stringify 后作为知识沉淀（测试断言 corpus SHA 不变）。
+//
+//   结构：
+//     mode         fast / deep / think（默认 think）
+//     query        原始问题
+//     facts[]      来自 Search Provider 的检索结果（请求级，外部事实）
+//     knowledge[]  来自 RAG 检索的引用（只读调用，不修改 KB）
+//     reasoning    思想层占位（假设/开放问题），由融合引擎填充（Q2-3）
+//   纯函数、零云依赖、Node16.13 兼容。
+// ============================================================
+'use strict';
+
+var DEFAULT_TTL_MS = 30 * 60 * 1000; // 30 分钟（思考上下文比事实更长，但仍 ephemeral）
+
+function isNonEmptyString(s) {
+  return typeof s === 'string' && s.trim().length > 0;
+}
+
+// makeThinkContext(fields) → 请求级融合上下文
+//   fields: { mode, query, facts[], knowledge[], ttlMs }
+function makeThinkContext(fields) {
+  fields = fields || {};
+  var now = new Date();
+  var ttlMs = (typeof fields.ttlMs === 'number' && fields.ttlMs > 0) ? fields.ttlMs : DEFAULT_TTL_MS;
+  return {
+    mode: fields.mode === 'fast' ? 'fast' : (fields.mode === 'deep' ? 'deep' : 'think'),
+    query: (fields.query || '').toString(),
+    // 外部事实（搜索结果）：仅引用，不沉淀
+    facts: Array.isArray(fields.facts)
+      ? fields.facts.filter(function (f) { return f && (f.title || f.snippet); })
+      : [],
+    // 经典知识（RAG 检索）：只读，不修改
+    knowledge: Array.isArray(fields.knowledge)
+      ? fields.knowledge.filter(function (k) { return k && (k.title || k.text); })
+      : [],
+    // 思想层占位（Q2-3 融合引擎填充）
+    reasoning: { hypotheses: [], openQuestions: [] },
+    created_at: now.toISOString(),
+    expires_at: new Date(now.getTime() + ttlMs).toISOString(),
+    _ephemeral: true, // 禁止序列化入 KB 的硬标记
+  };
+}
+
+// isFresh(ctx, nowMs) → 是否仍在生命周期内
+function isFresh(ctx, nowMs) {
+  if (!ctx || !ctx.expires_at) return false;
+  var now = (typeof nowMs === 'number') ? nowMs : Date.now();
+  return Date.parse(ctx.expires_at) > now;
+}
+
+// toSafeMeta(ctx) → 仅用于观测日志的脱敏元信息（不含事实内容），绝不进 corpus
+function toSafeMeta(ctx) {
+  if (!ctx) return null;
+  return {
+    mode: ctx.mode,
+    query_len: (ctx.query || '').length,
+    facts_count: (ctx.facts || []).length,
+    knowledge_count: (ctx.knowledge || []).length,
+    _ephemeral: true,
+  };
+}
+
+module.exports = {
+  makeThinkContext: makeThinkContext,
+  isFresh: isFresh,
+  toSafeMeta: toSafeMeta,
+  DEFAULT_TTL_MS: DEFAULT_TTL_MS,
+};

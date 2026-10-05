@@ -1,1 +1,188 @@
-IyBQaGFzZSBTLTAuMyBGaXh0dXJlIEltcGxlbWVudGF0aW9uIFJlcG9ydCDigJQgU2VhcmNoIFFBIFRlc3QgQXNzZXQgUHJlcGFyYXRpb24KCj4g6KeS6Imy77yaU2VhcmNoIFFBIEVuZ2luZWVyICsgUmVsZWFzZSBHdWFyZGlhbiArIEFJIFN5c3RlbSBUZXN0IEFyY2hpdGVjdAo+IOmYtuauteaAp+i0qO+8mioq57qv5rWL6K+V6LWE5Lqn5bu66K6+77yIVGVzdCBBc3NldCBPbmx577yJKiog4oCUIOS4jei/m+WFpSBQcm92aWRlciDmtYvor5XjgIHkuI3mjqXlhaUgU2VhcmNo44CB5LiN5pS55Y+Y55Sf5Lqn57O757ufCj4g5omn6KGM5pel5pyf77yaMjAyNi0wOC0wNQo+IOS6pOS7mOeKtuaAge+8mioqUkVBRFkgRk9SIEhVTUFOIFJFVklFVyoqCgotLS0KCiMjIDAuIOaJp+ihjOWJjeWuoeiuoe+8iFJlYWQtT25see+8iQoKIyMjIDAuMSDop4TojIPmnaXmupDvvIjlj6ror7vmiavmj4/vvIkKLSBgZG9jcy9QaGFzZVMtUHJlLVNlYXJjaExheWVySW1wbGVtZW50YXRpb25SZWFkaW5lc3NQYWNrYWdlLm1kYO+8iFAtMDF+UC0xMiDpl6jnpoHvvIkKLSBgZG9jcy9QaGFzZVMtMC4zLW1zZ1NlY0NoZWNrU2VjdXJpdHlGaXh0dXJlU3BlY2lmaWNhdGlvbi5tZGDvvIg2MCDmnaHlronlhaggZml4dHVyZSAvIFQtMX5ULTfvvIkKLSBgZG9jcy9QaGFzZVMtMC4yLW1zZ1NlY0NoZWNrQ29tcGxpYW5jZVF1YXJhbnRpbmVHb3Zlcm5hbmNlUmV2aWV3Lm1kYO+8iOWPjOaJq+aPj+aooeWeiyBTUC0xL1NQLTLvvIkKLSBgZG9jcy9QaGFzZVMwLjUtU2VhcmNoUHJvdmlkZXJCYWtlb2ZmQXV0aG9yaXphdGlvblJlcXVlc3QubWRgIMKnRO+8iOWuieWFqCBmaXh0dXJlIOWkjeeUqCBULTEvVC0077yJCi0gYGRvY3MvUGhhc2VTMC41LUJha2VvZmZFeGVjdXRpb25SdW5ib29rQXBwZW5kaXgubWRgIMKnUzXvvIjlronlhajpmpTnprvmtYvor5XvvIkKCiMjIyAwLjIg5YWz6ZSu5r6E5riF77yI6YG/5YWN5re35reG5Lik5Liq4oCcUy0wLjPigJ3otYTkuqfvvIkKLSDml6LmnIkgYFBoYXNlUy0wLjMtbXNnU2VjQ2hlY2tTZWN1cml0eUZpeHR1cmVTcGVjaWZpY2F0aW9uLm1kYCDlrprkuYnnmoTmmK8gKio2MCDmnaHlronlhaggZml4dHVyZe+8iOaUu+WHuyA1MCArIOato+W4uCAxMO+8jFQtMX5ULTfvvIkqKu+8jOacjeWKoeS6jiBQLTAyYi9mL2fjgIIKLSDmnKzku7vliqHkuqTku5jnmoTmmK8gKipTZWFyY2ggUUEgLyBQcm92aWRlciBiYWtlLW9mZiBmaXh0dXJlIOaVsOaNrumbhu+8iDMwIEZBQ1QgKyAzMCBGUkVTSE5FU1PvvIkqKu+8jOaYryoq54us56uL6LWE5LqnKirjgIIKLSDmnKzmlbDmja7pm4bku4UqKuWkjeeUqCoqIFMtMC4zL1MtMC4yL1MwLjUg5bey5a6a5LmJ55qEIGBULTFgIC8gYFQtNGAgKirlvJXnlKjmoIfnrb4qKuS9nOS4uiBgc2VjdXJpdHlfY2FzZWAg5YWD5pWw5o2u77yIMTAg5p2h5a2Q6ZuG77yJ77yM55So5LqO5ZCO57utIGJha2Utb2ZmIOWuieWFqOmalOemu+a1i+ivleOAgioq5pyq5paw5aKe5Lu75L2V5a6J5YWo6KeE5YiZ44CB5pyq5pS55YqoIGlucHV0R3VhcmTjgIHmnKrmlLnliqggbXNnU2VjQ2hlY2vjgIIqKgoKIyMjIDAuMyDlhrvnu5PotYTkuqfvvIjlrqHorqHotbfngrnvvIzorrDkuLrln7rnur/vvIkKfCDmlofku7YgfCBTSEEyNTYgfCDnirbmgIEgfAp8LS0tfC0tLXwtLS18CnwgY29ycHVzLmpzb24gfCBgZGIwMWZiYzkyMDY0Y2JlYTNhNjY4OGE5ODE2MGI2YTcwYzllMTUwMjU5YjU0MDYzYzhlMmU5Njk3NGVhYmM4YmAgfCDmnKrkv67mlLkgfAp8IGludGVudC5qcyB8IGA3NjVhZDEzOGVjNjhjMGYxNTljNmY3NWE2MGU1MjY4YmViMDJmYmExNTJmNmQ1M2RiZGM1MzliYTE1NjBjYTM4YCB8IOacquS/ruaUuSB8CnwgcmFnLmpzIHwgYDViMzgwYjNmN2M2OGYzNzRlM2Q0ZTUxMjdiZDdkYmVmZjc0Nzg0OTQwMWNhOWQwNDg4NDk4ZGVjZTE0MDgyODZgIHwg5pyq5L+u5pS5IHwKfCBrbm93bGVkZ2VSb3V0ZXIuanMgfCBgODQ4OTA4NDQ1ZGJiNWVhOTNhNmY1Mjc3NWRjM2M4ZTY5MjJmZjk3MWQ2Y2VlMTE1NTQ3ZjIzNmZmZWQwYTkzNWAgfCDmnKrkv67mlLkgfAoKPiDnu5PorrrvvJoqKk5vIHByb2R1Y3Rpb24gYXNzZXQgbW9kaWZpY2F0aW9uKirjgIIKCi0tLQoKIyMgMS4g5paw5aKe5paH5Lu25YiX6KGoCgp8IOaWh+S7tiB8IOexu+WeiyB8IOivtOaYjiB8CnwtLS18LS0tfC0tLXwKfCBgd2VhcHAvc2VhcmNoL3Rlc3QvZml4dHVyZXMuanNvbmAgfCDmtYvor5XotYTkuqfvvIhKU09O77yJIHwgUGhhc2UgUy0wLjMgUHJvdmlkZXIgYmFrZS1vZmYg5qCH5YeG5rWL6K+V6ZuG77yIMjIsMjA0IGJ5dGVz77yJIHwKCj4g5pys5Lu75YqhKirku4XmlrDlop7kuIrov7DkuIDkuKrmlofku7YqKuOAguacquWIm+W7uuS7u+S9lei/kOihjOaXtuS7o+eggeOAgeacquaUueWKqOeUn+S6p+S7o+eggeOAgeacquWGmeWFpeeUn+S6p+aVsOaNruW6k+OAgeacqumDqOe9suOAgeacqiBjb21taXQvcHVzaOOAggoKLS0tCgojIyAyLiBGaXh0dXJlIOaVsOmHj+e7n+iuoQoKfCDnsbvliKsgfCDopoHmsYIgfCDlrp7pmYUgfCDnu5PmnpwgfAp8LS0tfC0tLXwtLS18LS0tfAp8IEZBQ1TvvIjkuovlrp7mo4DntKLnsbvvvIkgfCAzMCB8IDMwIHwg4pyFIHwKfCBGUkVTSE5FU1PvvIjml7bmlYjkv6Hmga/nsbvvvIkgfCAzMCB8IDMwIHwg4pyFIHwKfCAqKuWQiOiuoSoqIHwgKio2MCoqIHwgKio2MCoqIHwg4pyFIHwKCi0gSUQg6IyD5Zu077yaYEYtRkFDVC0wMDFgfmBGLUZBQ1QtMDMwYOOAgWBGLUZSRVNILTAwMWB+YEYtRlJFU0gtMDMwYOOAggotIElEIOWUr+S4gOaAp++8mjYwLzYwIOWUr+S4gO+8jOaXoOmHjeWkje+8iOiEmuacrOagoemqjCBgZHVwbGljYXRlczogW11g77yJ44CCCi0g5o6S5bqP56iz5a6a5oCn77yaYGlkcyA9PSBzb3J0ZWQoaWRzKWAg4oaSIFRydWXvvIhGQUNUIOauteWcqOWJjeOAgUZSRVNITkVTUyDmrrXlnKjlkI7vvIzlronlhajlrZDpm4blhoXltYzkuo7mnKvmrrXvvInjgIIKCi0tLQoKIyMgMy4g5YiG57G757uf6K6h77yI6aKG5Z+f6KaG55uW77yJCgp8IOmihuWfnyB8IOaVsOmHjyB8IOimhuebliB8CnwtLS18LS0tfC0tLXwKfCDnp5HmioAgfCAxNCB8IOKchSB8Cnwg56S+5LyaIHwgMTMgfCDinIUgfAp8IOaWh+WMliB8IDEwIHwg4pyFIHwKfCDljoblj7IgfCA3IHwg4pyFIHwKfCDml7bmlYjkuovku7YgfCA2IHwg4pyFIHwKfCDlk7LlraYgfCA2IHwg4pyFIHwKfCDluLjor4YgfCA0IHwg4pyFIHwKfCAqKuWQiOiuoSoqIHwgKio2MCoqIHwgNy83IOmihuWfn+WFqOimhuebliB8Cgo+IOa7oei2s+S7u+WKoeimgeaxgu+8muimhuebliDnp5HmioAgLyDmlofljJYgLyDlk7LlraYgLyDljoblj7IgLyDnpL7kvJogLyDluLjor4YgLyDml7bmlYjkuovku7bjgIIKCiMjIyAzLjEg5a6J5YWo5a2Q6ZuG77yI5aSN55SoIFQtMSAvIFQtNCDlvJXnlKjmoIfnrb7vvIkKfCBzZWN1cml0eV9jYXNlIHwg5pWw6YePIHwgRml4dHVyZSBJRCB8CnwtLS18LS0tfC0tLXwKfCBULTHvvIhQcm9tcHQgSW5qZWN0aW9u77yM5qOA57Si5Zue5q+S5YyW572R6aG177yJIHwgNSB8IEYtRkFDVC0wMjbjgIFGLUZBQ1QtMDI344CBRi1GQUNULTAzMOOAgUYtRlJFU0gtMDI244CBRi1GUkVTSC0wMzAgfAp8IFQtNO+8iE1hbGljaW91cyBXZWIgQ29udGVudO+8jOi/neinhOe9kemhte+8iSB8IDUgfCBGLUZBQ1QtMDI444CBRi1GQUNULTAyOeOAgUYtRlJFU0gtMDI344CBRi1GUkVTSC0wMjjjgIFGLUZSRVNILTAyOSB8CnwgKirlsI/orqEqKiB8ICoqMTAqKiB8IOWdh+S4uuiJr+aAp+eUqOaIt+afpeivou+8jGJha2Utb2ZmIOS4reeUsea1i+ivleWPsOmFjeWvuSBTLTAuMyBULTEvVC00IOiEseaVjyBSYXcgRXZpZGVuY2UgfAoKLS0tCgojIyA0LiDlrZfmrrXop4TojIPmo4Dmn6UKCiMjIyA0LjEg6aG25bGC57uT5p6ECmBgYGpzb24KewogICJ2ZXJzaW9uIjogIlMtMC4zLXYxIiwKICAiY3JlYXRlZF9ieSI6ICJTZWFyY2ggUUEgRW5naW5lZXIiLAogICJwdXJwb3NlIjogIlByb3ZpZGVyIGJha2Utb2ZmIGZpeHR1cmUgZGF0YXNldCIsCiAgInByb2R1Y3Rpb25fZGF0YSI6IGZhbHNlLAogICJub3RlcyI6ICIuLi4iLAogICJjYXNlcyI6IFsgLi4uIF0KfQpgYGAKLSBgdmVyc2lvbmAgLyBgY3JlYXRlZF9ieWAgLyBgcHVycG9zZWAgLyBgcHJvZHVjdGlvbl9kYXRhYCDpvZDlhajvvIxgcHJvZHVjdGlvbl9kYXRhPWZhbHNlYO+8iOacrOS7u+WKoee6r+a1i+ivlei1hOS6p++8jOS4jeWQq+S7u+S9leeUn+S6py/nlKjmiLfmlbDmja7vvInjgIIKCiMjIyA0LjIg5q+P5p2hIGNhc2Ug5a2X5q61Cnwg5a2X5q61IHwg6KaB5rGCIHwg5qCh6aqM57uT5p6cIHwKfC0tLXwtLS18LS0tfAp8IGlkIHwg5ZSv5LiA44CB56iz5a6aIHwg4pyFIDYwIOWUr+S4gCB8CnwgdHlwZSB8IEZBQ1QgLyBGUkVTSE5FU1MgfCDinIUg5Y+W5YC85ZCI5rOVIHwKfCBjYXRlZ29yeSB8IOmihuWfn+aemuS4viB8IOKchSDokL3lnKggNyDpoobln58gfAp8IHF1ZXJ5IHwg55yf5a6e55So5oi35Y+v6IO95o+Q5Ye644CB6Z2e6ZqP5py65LiyIHwg4pyFIOS6uuW3peiuvuiuoeOAgeWPr+WkjeeOsCB8CnwgZXhwZWN0ZWRfYmVoYXZpb3IgfCDmmI7noa7mtYvor5Xnm67nmoQgfCDinIUg5q+P5p2h5ZCr5pat6KiA6K+t5LmJIHwKfCBldmlkZW5jZV9yZXF1aXJlZCB8IHRydWUgfCDinIUgNjAvNjAgPSB0cnVlIHwKfCBzZWN1cml0eV9sZXZlbCB8ICJub3JtYWwiIHwg4pyFIOWFqOmHjyBub3JtYWwgfAp8IHNlY3VyaXR5X2Nhc2XvvIjku4XlrZDpm4bvvIkgfCBULTEgLyBULTQgfCDinIUgMTAg5p2h5bim5q2k5YWD5pWw5o2uIHwKCi0g5a2X5q6157uf5LiA77ya5omA5pyJIDYwIOadoeWdh+WQqyA3IOS4quWfuuehgOWtl+aute+8m2BzZWN1cml0eV9jYXNlYCDku4XkvZzkuLrlj6DliqDlhYPmlbDmja7lh7rnjrDlnKggMTAg5p2h5a6J5YWo5a2Q6ZuG5LiK77yI5LiN56C05Z2P5Z+656GAIHNjaGVtYe+8ieOAggoKLS0tCgojIyA1LiDotKjph4/mo4Dmn6Xnu5PmnpwKCnwg5qOA5p+l6aG5IHwg5pa55rOVIHwg57uT5p6cIHwKfC0tLXwtLS18LS0tfAp8IEpTT04g5Y+v6Kej5p6QIHwgYGpzb24ubG9hZGAgfCDinIUgT0sgfAp8IOaVsOmHjyBGQUNUPTMwIHwg6K6h5pWwIHwg4pyFIHwKfCDmlbDph48gRlJFU0hORVNTPTMwIHwg6K6h5pWwIHwg4pyFIHwKfCBJRCDllK/kuIAgfCBDb3VudGVyIOWOu+mHjSB8IOKchSDml6Dph43lpI0gfAp8IOWtl+auteWujOaVtCB8IOWtl+auteWtkOmbhuagoemqjCB8IOKchSDml6DnvLrlpLEgfAp8IOaOkuW6j+eos+WumiB8IGBpZHMgPT0gc29ydGVkKGlkcylgIHwg4pyFIHwKfCDmn6Xor6LnnJ/lrp7mgKcgfCDkurrlt6Xor4TlrqEgfCDinIUg5Z2H5Li65ZCI55CG55So5oi35o+Q6ZeuIHwKfCDpoobln5/opobnm5YgfCDorqHmlbDliIbluIMgfCDinIUgNy83IHwKfCDlronlhajlrZDpm4blkIjop4QgfCDku4XlvJXnlKggVC0xL1QtNCDmoIfnrb4gfCDinIUg5pyq5paw5aKe6KeE5YiZIHwKfCDlhoXlrrnnuqLnur8gfCDkurrlt6Xor4TlrqEgfCDinIUg5peg5pS/5rK75pWP5oSf5omp5bGV44CB5peg5Liq5Lq66ZqQ56eB44CB5peg6L+d5rOV5YaF5a6544CB5peg5p6B56uv5pS75Ye75qC35pysIHwKCj4g5a6J5YWo5a2Q6ZuG6K+05piO77yaVC0xL1QtNCDnmoQgZml4dHVyZSDmnKzouqvlnYfkuLoqKuiJr+aAp+eUqOaIt+afpeivoioq77yI5aaC4oCc5YWN6LS5IFBERiDovazmjaLlt6XlhbfmjqjojZDigJ3igJznvZHkuIrlvannpajpooTmtYvova/ku7bpnaDosLHlkJfigJ3vvInvvIzku4XlnKggYmFrZS1vZmYg5omn6KGM5pe255Sx5rWL6K+V5Y+w6YWN5a+5IFMtMC4zIOW3suWumuS5ieeahCoq6ISx5pWPKiogUmF3IEV2aWRlbmNl77yI5q+S5YyWL+i/neinhOe9kemhteeJh+aute+8ie+8jOmqjOivgSBTZWN1cml0eSBMYXllciDpmpTnprsv5oum5oiq44CC56ym5ZCIIFMtMC4zIOiEseaVj+S4jiBTMC41IMKnRCDlpI3nlKjnuqblrprjgIIKCi0tLQoKIyMgNi4g5Ya757uT6LWE5Lqn5qOA5p+l57uT5p6cCgp8IOaWh+S7tiB8IOi1t+eCuSBTSEEgfCDnu4jngrkgU0hB77yI5aSN5qCh77yJIHwg5LiA6Ie0IHwKfC0tLXwtLS18LS0tfC0tLXwKfCBjb3JwdXMuanNvbiB8IGBkYjAxZmJjOeKApmVhYmM4YmAgfCBgZGIwMWZiYznigKZlYWJjOGJgIHwg4pyFIHwKfCBpbnRlbnQuanMgfCBgNzY1YWQxMzjigKY2MGNhMzhgIHwgYDc2NWFkMTM44oCmNjBjYTM4YCB8IOKchSB8CnwgcmFnLmpzIHwgYDViMzgwYjNm4oCmODI4NmAgfCBgNWIzODBiM2bigKY4Mjg2YCB8IOKchSB8Cnwga25vd2xlZGdlUm91dGVyLmpzIHwgYDg0ODkwODQ04oCmZDBhOTM1YCB8IGA4NDg5MDg0NOKApmQwYTkzNWAgfCDinIUgfAoKLSDlpI3moKHohJrmnKzvvJpgc2hhMjU2c3VtIGNvcnB1cy5qc29uIGludGVudC5qcyByYWcuanMga25vd2xlZGdlUm91dGVyLmpzYO+8iOi3r+W+hCBgd2VhcHAvY2xvdWRmdW5jdGlvbnMvY2hhdC9g77yJ44CCCi0g57uT6K6677ya5Zub6LWE5Lqn5a2X6IqC57qn5LiOIE8tMC42IOWfuue6v+WujOWFqOS4gOiHtO+8jCoq5pys5Lu75Yqh6Zu255Sf5Lqn6LWE5Lqn5pS55YqoKirjgIIKCiMjIyA2LjEgZ2l0IOeKtuaAgeivtOaYju+8iOmAj+aYjuW6pu+8iQotIOacrOS7u+WKoSoq5LuF5paw5aKeKiogYHdlYXBwL3NlYXJjaC9g77yI5Y2zIGBmaXh0dXJlcy5qc29uYO+8ieOAggotIGBnaXQgc3RhdHVzYCDkuK0gYGNvcnB1cy5qc29uYCAvIGByYWcuanNgIOetieaYvuekuueahCBgTWAg5LiOIGBnaXQgZGlmZiAtLXN0YXRgIOW3rumHj+S4uiAqKlBoYXNlIEcgLyBDUi0wMDIg6YGX55WZ5pyq5o+Q5Lqk5YaF5a65KirvvIjpobnnm67orrDlv4blt7Lovb3mmI7vvInvvIwqKumdnuacrOS7u+WKoeW8leWFpSoq44CCCi0g5p2D5aiB5a6M5pW05oCn5LulIFNIQTI1NiDlrZfoioLmr5Tlr7nkuLrlh4bvvIjkuIrmlocgNiDooajvvInvvIzkuI4gZ2l0IOW3peS9nOagkeWOhuWPsuagh+iusOaXoOWFs+OAggoKLS0tCgojIyA3LiDnlJ/kuqflvbHlk43or4TkvLAKCnwg57u05bqmIHwg6K+E5LywIHwKfC0tLXwtLS18Cnwg55Sf5Lqn5Luj56CBIHwg5pyq6Kem56KwIGBpbmRleC5qc2AgLyBgcmFnLmpzYCAvIGBrbm93bGVkZ2VSb3V0ZXIuanNgIC8gYGludGVudC5qc2AgLyBgY29ycHVzLmpzb25gIC8gUHJvbXB0IHwKfCBSQUcg5rWB56iLIHwg5pyq5pS55Yqo77yM5pyqIGVtYmVkZGluZyAvIGluZ2VzdCAvIOefpeivhuW6k+abtOaWsCB8CnwgU2VhcmNoIFByb3ZpZGVyIHwg5pyq5o6l5YWl44CB5pyq6LCD55So5Lu75L2V5aSW6YOoIEFQSSB8Cnwg5LqR5Ye95pWwIC8g6YOo572yIHwg5pyq5Yib5bu644CB5pyq6YOo572yIHwKfCDnlJ/kuqfmlbDmja7lupMgfCDmnKrlhpnlhaUgfAp8IOeJiOacrOaOp+WItiB8IOacqiBjb21taXQgLyBwdXNo77yI5oyJ5Lu75Yqh57qm5p2f77yJIHwKfCDlronlhajpgLvovpEgfCDmnKrmianlsZXvvJvku4XlvJXnlKjml6LmnIkgVC0xL1QtNCDmoIfnrb7kvZzmtYvor5XlhYPmlbDmja4gfAoKPiAqKuaAu+S9k+e7k+iuuioq77ya5pys5Lu75Yqh5Li657qv56a757q/5rWL6K+V6LWE5Lqn5bu66K6+77yM5a+555Sf5Lqn57O757ufKirpm7blvbHlk43jgIHpm7bpo47pmakqKuOAggoKLS0tCgojIyA4LiDlkI7nu63lhaXlj6PvvIjnrYnlvoXkurrlt6XmjIfku6TvvIkKCuacrOi1hOS6p+W3suWwsee7qu+8jOS9hioq5LiNKiroh6rliqjov5vlhaXkuIvkuIDpmLbmrrXvvJoKLSDinYwg5LiN6L+b5YWlIFMwLjUgQmFrZS1vZmbvvIjpnIDkurrlt6Xnrb7moLggNCDpobnmjojmnYPvvIkKLSDinYwg5LiN6LCD55SoIFByb3ZpZGVyCi0g4p2MIOS4jeaOpeWFpSBTZWFyY2gKLSDinYwg5LiN5ZCv5YqoIFMxIOW8gOWPkQoK5bu66K6u5LiL5LiA5q2l77yI5Lq65bel5oup5LiA77yJ77yaCjEuIOWuoemYheacrOaVsOaNrumbhu+8jOaJueWHhui/m+WFpSBTMC41IEJha2Utb2ZmIOWuieWFqOmalOemu+a1i+ivle+8iOS9v+eUqCAxMCDmnaEgYHNlY3VyaXR5X2Nhc2VgIOWtkOmbhu+8ieOAggoyLiDlsIYgYGZpeHR1cmVzLmpzb25gIOS9nOS4uiBTMS1UMTAg55qE5q2j5byP5Zue5b2S6ZuG5Z+657q/77yIU0VMRUNUIOWtkOmbhuaIluWFqOmHj++8ieOAggozLiDooaXlhYXpoobln5/mnYPph43miJbosIPmlbTlronlhajlrZDpm4bmr5TkvovvvIjlpoLpnIDvvInjgIIKCi0tLQoKIyMg5pyA57uI54q25oCBCgojIOKchSBSRUFEWSBGT1IgSFVNQU4gUkVWSUVXCgoqUGhhc2UgUy0wLjMgRml4dHVyZSDlrp7kvZPljJblrozmiJDjgILkuqTku5ggYHdlYXBwL3NlYXJjaC90ZXN0L2ZpeHR1cmVzLmpzb25g77yINjAg5p2h77yMMzAgRkFDVCArIDMwIEZSRVNITkVTU++8jDEwIOadoSBULTEvVC00IOWuieWFqOWtkOmbhu+8ieOAguWGu+e7k+i1hOS6p+Wtl+iKgue6p+acquWPmO+8jOeUn+S6p+mbtuW9seWTjeOAgioK
+﻿# Phase S-0.3 Fixture Implementation Report — Search QA Test Asset Preparation
+
+> 角色：Search QA Engineer + Release Guardian + AI System Test Architect
+> 阶段性质：**纯测试资产建设（Test Asset Only）** — 不进入 Provider 测试、不接入 Search、不改变生产系统
+> 执行日期：2026-08-05
+> 交付状态：**READY FOR HUMAN REVIEW**
+
+---
+
+## 0. 执行前审计（Read-Only）
+
+### 0.1 规范来源（只读扫描）
+- `docs/PhaseS-Pre-SearchLayerImplementationReadinessPackage.md`（P-01~P-12 门禁）
+- `docs/PhaseS-0.3-msgSecCheckSecurityFixtureSpecification.md`（60 条安全 fixture / T-1~T-7）
+- `docs/PhaseS-0.2-msgSecCheckComplianceQuarantineGovernanceReview.md`（双扫描模型 SP-1/SP-2）
+- `docs/PhaseS0.5-SearchProviderBakeoffAuthorizationRequest.md` §D（安全 fixture 复用 T-1/T-4）
+- `docs/PhaseS0.5-BakeoffExecutionRunbookAppendix.md` §S5（安全隔离测试）
+
+### 0.2 关键澄清（避免混淆两个“S-0.3”资产）
+- 既有 `PhaseS-0.3-msgSecCheckSecurityFixtureSpecification.md` 定义的是 **60 条安全 fixture（攻击 50 + 正常 10，T-1~T-7）**，服务于 P-02b/f/g。
+- 本任务交付的是 **Search QA / Provider bake-off fixture 数据集（30 FACT + 30 FRESHNESS）**，是**独立资产**。
+- 本数据集仅**复用** S-0.3/S-0.2/S0.5 已定义的 `T-1` / `T-4` **引用标签**作为 `security_case` 元数据（10 条子集），用于后续 bake-off 安全隔离测试。**未新增任何安全规则、未改动 inputGuard、未改动 msgSecCheck。**
+
+### 0.3 冻结资产（审计起点，记为基线）
+| 文件 | SHA256 | 状态 |
+|---|---|---|
+| corpus.json | `db01fbc92064cbea3a6688a98160b6a70c9e150259b54063c8e2e96974eabc8b` | 未修改 |
+| intent.js | `765ad138ec68c0f159c6f75a60e5268beb02fba152f6d53dbdc539ba1560ca38` | 未修改 |
+| rag.js | `5b380b3f7c68f374e3d4e5127bd7dbeff747849401ca9d0488498dece1408286` | 未修改 |
+| knowledgeRouter.js | `848908445dbb5ea93a6f52775dc3c8e6922ff971d6cee115547f236ffed0a935` | 未修改 |
+
+> 结论：**No production asset modification**。
+
+---
+
+## 1. 新增文件列表
+
+| 文件 | 类型 | 说明 |
+|---|---|---|
+| `weapp/search/test/fixtures.json` | 测试资产（JSON） | Phase S-0.3 Provider bake-off 标准测试集（22,204 bytes） |
+
+> 本任务**仅新增上述一个文件**。未创建任何运行时代码、未改动生产代码、未写入生产数据库、未部署、未 commit/push。
+
+---
+
+## 2. Fixture 数量统计
+
+| 类别 | 要求 | 实际 | 结果 |
+|---|---|---|---|
+| FACT（事实检索类） | 30 | 30 | ✅ |
+| FRESHNESS（时效信息类） | 30 | 30 | ✅ |
+| **合计** | **60** | **60** | ✅ |
+
+- ID 范围：`F-FACT-001`~`F-FACT-030`、`F-FRESH-001`~`F-FRESH-030`。
+- ID 唯一性：60/60 唯一，无重复（脚本校验 `duplicates: []`）。
+- 排序稳定性：`ids == sorted(ids)` → True（FACT 段在前、FRESHNESS 段在后，安全子集内嵌于末段）。
+
+---
+
+## 3. 分类统计（领域覆盖）
+
+| 领域 | 数量 | 覆盖 |
+|---|---|---|
+| 科技 | 14 | ✅ |
+| 社会 | 13 | ✅ |
+| 文化 | 10 | ✅ |
+| 历史 | 7 | ✅ |
+| 时效事件 | 6 | ✅ |
+| 哲学 | 6 | ✅ |
+| 常识 | 4 | ✅ |
+| **合计** | **60** | 7/7 领域全覆盖 |
+
+> 满足任务要求：覆盖 科技 / 文化 / 哲学 / 历史 / 社会 / 常识 / 时效事件。
+
+### 3.1 安全子集（复用 T-1 / T-4 引用标签）
+| security_case | 数量 | Fixture ID |
+|---|---|---|
+| T-1（Prompt Injection，检索回毒化网页） | 5 | F-FACT-026、F-FACT-027、F-FACT-030、F-FRESH-026、F-FRESH-030 |
+| T-4（Malicious Web Content，违规网页） | 5 | F-FACT-028、F-FACT-029、F-FRESH-027、F-FRESH-028、F-FRESH-029 |
+| **小计** | **10** | 均为良性用户查询，bake-off 中由测试台配对 S-0.3 T-1/T-4 脱敏 Raw Evidence |
+
+---
+
+## 4. 字段规范检查
+
+### 4.1 顶层结构
+```json
+{
+  "version": "S-0.3-v1",
+  "created_by": "Search QA Engineer",
+  "purpose": "Provider bake-off fixture dataset",
+  "production_data": false,
+  "notes": "...",
+  "cases": [ ... ]
+}
+```
+- `version` / `created_by` / `purpose` / `production_data` 齐全，`production_data=false`（本任务纯测试资产，不含任何生产/用户数据）。
+
+### 4.2 每条 case 字段
+| 字段 | 要求 | 校验结果 |
+|---|---|---|
+| id | 唯一、稳定 | ✅ 60 唯一 |
+| type | FACT / FRESHNESS | ✅ 取值合法 |
+| category | 领域枚举 | ✅ 落在 7 领域 |
+| query | 真实用户可能提出、非随机串 | ✅ 人工设计、可复现 |
+| expected_behavior | 明确测试目的 | ✅ 每条含断言语义 |
+| evidence_required | true | ✅ 60/60 = true |
+| security_level | "normal" | ✅ 全量 normal |
+| security_case（仅子集） | T-1 / T-4 | ✅ 10 条带此元数据 |
+
+- 字段统一：所有 60 条均含 7 个基础字段；`security_case` 仅作为叠加元数据出现在 10 条安全子集上（不破坏基础 schema）。
+
+---
+
+## 5. 质量检查结果
+
+| 检查项 | 方法 | 结果 |
+|---|---|---|
+| JSON 可解析 | `json.load` | ✅ OK |
+| 数量 FACT=30 | 计数 | ✅ |
+| 数量 FRESHNESS=30 | 计数 | ✅ |
+| ID 唯一 | Counter 去重 | ✅ 无重复 |
+| 字段完整 | 字段子集校验 | ✅ 无缺失 |
+| 排序稳定 | `ids == sorted(ids)` | ✅ |
+| 查询真实性 | 人工评审 | ✅ 均为合理用户提问 |
+| 领域覆盖 | 计数分布 | ✅ 7/7 |
+| 安全子集合规 | 仅引用 T-1/T-4 标签 | ✅ 未新增规则 |
+| 内容红线 | 人工评审 | ✅ 无政治敏感扩展、无个人隐私、无违法内容、无极端攻击样本 |
+
+> 安全子集说明：T-1/T-4 的 fixture 本身均为**良性用户查询**（如“免费 PDF 转换工具推荐”“网上彩票预测软件靠谱吗”），仅在 bake-off 执行时由测试台配对 S-0.3 已定义的**脱敏** Raw Evidence（毒化/违规网页片段），验证 Security Layer 隔离/拦截。符合 S-0.3 脱敏与 S0.5 §D 复用约定。
+
+---
+
+## 6. 冻结资产检查结果
+
+| 文件 | 起点 SHA | 终点 SHA（复校） | 一致 |
+|---|---|---|---|
+| corpus.json | `db01fbc9…eabc8b` | `db01fbc9…eabc8b` | ✅ |
+| intent.js | `765ad138…60ca38` | `765ad138…60ca38` | ✅ |
+| rag.js | `5b380b3f…8286` | `5b380b3f…8286` | ✅ |
+| knowledgeRouter.js | `84890844…d0a935` | `84890844…d0a935` | ✅ |
+
+- 复校脚本：`sha256sum corpus.json intent.js rag.js knowledgeRouter.js`（路径 `weapp/cloudfunctions/chat/`）。
+- 结论：四资产字节级与 O-0.6 基线完全一致，**本任务零生产资产改动**。
+
+### 6.1 git 状态说明（透明度）
+- 本任务**仅新增** `weapp/search/`（即 `fixtures.json`）。
+- `git status` 中 `corpus.json` / `rag.js` 等显示的 `M` 与 `git diff --stat` 差量为 **Phase G / CR-002 遗留未提交内容**（项目记忆已载明），**非本任务引入**。
+- 权威完整性以 SHA256 字节比对为准（上文 6 表），与 git 工作树历史标记无关。
+
+---
+
+## 7. 生产影响评估
+
+| 维度 | 评估 |
+|---|---|
+| 生产代码 | 未触碰 `index.js` / `rag.js` / `knowledgeRouter.js` / `intent.js` / `corpus.json` / Prompt |
+| RAG 流程 | 未改动，未 embedding / ingest / 知识库更新 |
+| Search Provider | 未接入、未调用任何外部 API |
+| 云函数 / 部署 | 未创建、未部署 |
+| 生产数据库 | 未写入 |
+| 版本控制 | 未 commit / push（按任务约束） |
+| 安全逻辑 | 未扩展；仅引用既有 T-1/T-4 标签作测试元数据 |
+
+> **总体结论**：本任务为纯离线测试资产建设，对生产系统**零影响、零风险**。
+
+---
+
+## 8. 后续入口（等待人工指令）
+
+本资产已就绪，但**不**自动进入下一阶段：
+- ❌ 不进入 S0.5 Bake-off（需人工签核 4 项授权）
+- ❌ 不调用 Provider
+- ❌ 不接入 Search
+- ❌ 不启动 S1 开发
+
+建议下一步（人工择一）：
+1. 审阅本数据集，批准进入 S0.5 Bake-off 安全隔离测试（使用 10 条 `security_case` 子集）。
+2. 将 `fixtures.json` 作为 S1-T10 的正式回归集基线（SELECT 子集或全量）。
+3. 补充领域权重或调整安全子集比例（如需）。
+
+---
+
+## 最终状态
+
+# ✅ READY FOR HUMAN REVIEW
+
+*Phase S-0.3 Fixture 实体化完成。交付 `weapp/search/test/fixtures.json`（60 条，30 FACT + 30 FRESHNESS，10 条 T-1/T-4 安全子集）。冻结资产字节级未变，生产零影响。*

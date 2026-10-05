@@ -1,1 +1,427 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIEtub3dsZWRnZSBQbGF0Zm9ybSBEYXNoYm9hcmQgTVZQ77yIUGhhc2UgUCsgLyBQaGFzZSBQIMKnMu+8iQovLyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KLy8g5Y+q6K+75oyH5qCH6IGa5ZCI44CC5Lil5qC857qm5p2f77yI5p2l6Ieq55So5oi3ICsgZG9jcy82NiDCpzLvvInvvJoKLy8gICDCtyDmlbDmja7mnaXmupAgKirlj6rog73mmK8qKu+8mlJlZ2lzdHJ5IC8gT2JzZXJ2YWJpbGl0eSAvIFJlZ3Jlc3Npb24g5Lqn54mp44CCCi8vICAgwrcgKirnpoHmraLph43mlrDorqHnrpfmo4DntKLpgLvovpEqKiDigJTigJQg5pys5qih5Z2X5LiNIHJlcXVpcmUgcmFnLmpz44CB5LiN5YGa5ZCR6YeP5qOA57Si44CBCi8vICAgICDkuI3osIPnlKggZW1iZWRkaW5n77yM5Y+q6K+75Y+W5pei5pyJ5Lqn54mp5Lit55qE5pei5oiQ5LqL5a6e44CCCi8vICAgwrcg57y65aSx5oyH5qCH5b+F6aG75pi+56S6IE4vQe+8iGF2YWlsYWJsZTpmYWxzZe+8ie+8jCoq5LiN5b6X5Lyq6YCgKirjgIIKLy8gICDCtyDlj6ror7vvvJrkuI3lhpnku7vkvZXmlofku7bjgIHkuI3kv67mlLnku7vkvZXotYTkuqfjgIIKLy8KLy8g5YWr6aG55oyH5qCH77yI5a+56b2QIFBoYXNlIFArIOesrOWbm+mYtuauteimgeaxgu+8ie+8mgovLyAgIDEuIEtub3dsZWRnZSBDb3VudCAgICAg4oaQIFJlZ2lzdHJ577yI57uf5LiA6KeG5Zu+77yaY29ycHVzIOe7j+WFuCArIOiupOivgeWvueixoe+8iQovLyAgIDIuIFJlZ2lzdHJ5IFN0YXR1cyAgICAg4oaQIFJlZ2lzdHJ577yIc2NoZW1hIC8gbmFtZXNwYWNlIC8g54q25oCB5YiG5biD77yJCi8vICAgMy4gQ2l0YXRpb24gQWNjdXJhY3kgICDihpAgUmVnaXN0cnkoTy0xIEM1IOmXqOemgSkgKyBPYnNlcnZhYmlsaXR5KOi/kOihjOaXtuW8leeUqOeOhykKLy8gICA0LiBSZWdyZXNzaW9uIFN0YXR1cyAgIOKGkCBSZWdyZXNzaW9u77yIcmVncmVzc2lvbi1yZXBvcnQuanNvbiBhY2NlcHRhbmNl77yJCi8vICAgNS4gS1FTICAgICAgICAgICAgICAgICDihpAgUmVnaXN0cnnvvIhxdWFsaXR5X3Njb3Jl77yJCi8vICAgNi4gSGVhbHRoIFNjb3JlICAgICAgICDihpAga25vd2xlZGdlSGVhbHRoU2NvcmXvvIjkuIPnu7TvvIznvLrlpLHnu7QgTi9B77yJCi8vICAgNy4gUXVlcnkgQ291bnQgICAgICAgICDihpAgT2JzZXJ2YWJpbGl0ee+8iOingua1i+iusOW9leadoeaVsO+8iQovLyAgIDguIEtub3dsZWRnZSBVc2FnZSAgICAg4oaQIE9ic2VydmFiaWxpdHnvvIhrbm93bGVkZ2VfdHlwZSDkvb/nlKjpopHmrKHvvIkKLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CgondXNlIHN0cmljdCc7Cgpjb25zdCBmcyA9IHJlcXVpcmUoJ2ZzJyk7CmNvbnN0IHBhdGggPSByZXF1aXJlKCdwYXRoJyk7CmNvbnN0IHsgY3JlYXRlUmVnaXN0cnlQcm92aWRlciB9ID0gcmVxdWlyZSgnLi4vcmVnaXN0cnkvcmVnaXN0cnlQcm92aWRlcicpOwpjb25zdCB7IEpzb25PYnNlcnZhYmlsaXR5U3RvcmUgfSA9IHJlcXVpcmUoJy4uL29ic2VydmFiaWxpdHkvanNvbk9ic2VydmFiaWxpdHlTdG9yZScpOwpjb25zdCB7IGFnZ3JlZ2F0ZUhlYWx0aFNjb3JlIH0gPSByZXF1aXJlKCcuLi9rbm93bGVkZ2VIZWFsdGhTY29yZScpOwoKLy8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCi8vIOm7mOiupOaVsOaNrua6kOi3r+W+hO+8iOWFqOmDqOS4uuaXouacieWPquivu+S6p+eJqe+8iQovLyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KY29uc3QgV0VBUFBfUk9PVCA9IHBhdGgucmVzb2x2ZShfX2Rpcm5hbWUsICcuLicsICcuLicsICcuLicpOwpjb25zdCBERUZBVUxUX1BBVEhTID0gewogIHJlZ2lzdHJ5UGF0aDogcGF0aC5qb2luKFdFQVBQX1JPT1QsICd0ZXN0cycsICdwaWxvdC1vMScsICdvMS1yZWdpc3RyeS5qc29uJyksCiAgY2VydGlmaWNhdGVQYXRoOiBwYXRoLmpvaW4oV0VBUFBfUk9PVCwgJ3Rlc3RzJywgJ3BpbG90LW8xJywgJ28xLWNlcnRpZmljYXRlLmpzb24nKSwKICBjb3JwdXNQYXRoOiBwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAnLi4nLCAnY29ycHVzLmpzb24nKSwKICByZWdyZXNzaW9uUGF0aDogcGF0aC5qb2luKFdFQVBQX1JPT1QsICd0ZXN0cycsICdwaWxvdC1uNScsICdhcnRpZmFjdHMnLCAncmVncmVzc2lvbi1yZXBvcnQuanNvbicpLAogIHJlYWRpbmVzc1BhdGg6IHBhdGguam9pbihXRUFQUF9ST09ULCAndGVzdHMnLCAncGlsb3QtbjUnLCAnYXJ0aWZhY3RzJywgJ28wLXJlYWRpbmVzcy1yZXBvcnQuanNvbicpLAogIG9ic2VydmFiaWxpdHlQYXRoOiBudWxsLCAvLyBudWxsIOKGkiDkvb/nlKggSnNvbk9ic2VydmFiaWxpdHlTdG9yZSDpu5jorqTot6/lvoQKfTsKCi8qKiDlj6ror7sgSlNPTu+8m+Wksei0pei/lOWbniBudWxs77yI57y65aSx5Y2zIE4vQe+8jOS4jeS8qumAoO+8iSAqLwpmdW5jdGlvbiBzYWZlUmVhZEpzb24oZmlsZVBhdGgpIHsKICB0cnkgewogICAgaWYgKCFmaWxlUGF0aCB8fCAhZnMuZXhpc3RzU3luYyhmaWxlUGF0aCkpIHJldHVybiBudWxsOwogICAgcmV0dXJuIEpTT04ucGFyc2UoZnMucmVhZEZpbGVTeW5jKGZpbGVQYXRoLCAndXRmLTgnKSk7CiAgfSBjYXRjaCAoZSkgewogICAgcmV0dXJuIG51bGw7CiAgfQp9CgovKiog57uf5LiA55qE44CM5LiN5Y+v55So5oyH5qCH44CN6KGo56S677ya5pi+5byPIE4vQSArIOWOn+WboCAqLwpmdW5jdGlvbiBuYShyZWFzb24pIHsKICByZXR1cm4geyBhdmFpbGFibGU6IGZhbHNlLCB2YWx1ZTogbnVsbCwgcmVhc29uOiByZWFzb24gfHwgJ2RhdGEgc291cmNlIG1pc3NpbmcnIH07Cn0KCi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQovLyDmjIfmoIcgMSAmIDLvvJpLbm93bGVkZ2UgQ291bnQgLyBSZWdpc3RyeSBTdGF0dXMKLy8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCmZ1bmN0aW9uIGJ1aWxkUmVnaXN0cnlNZXRyaWNzKHByb3ZpZGVyLCBjb3JwdXNQYXRoKSB7CiAgbGV0IHJhdyA9IG51bGw7CiAgbGV0IHVuaWZpZWQgPSBbXTsKICBsZXQgc3RhdHMgPSBudWxsOwogIHRyeSB7CiAgICByYXcgPSBwcm92aWRlci5nZXRSYXcoKTsKICAgIHN0YXRzID0gcHJvdmlkZXIuZ2V0U3RhdHMoKTsKICAgIHVuaWZpZWQgPSBwcm92aWRlci5nZXRVbmlmaWVkUmVjb3Jkcyhjb3JwdXNQYXRoKTsKICB9IGNhdGNoIChlKSB7CiAgICByZXR1cm4gewogICAgICBrbm93bGVkZ2VDb3VudDogbmEoJ3JlZ2lzdHJ5IHVucmVhZGFibGU6ICcgKyAoZSAmJiBlLm1lc3NhZ2UpKSwKICAgICAgcmVnaXN0cnlTdGF0dXM6IG5hKCdyZWdpc3RyeSB1bnJlYWRhYmxlOiAnICsgKGUgJiYgZS5tZXNzYWdlKSksCiAgICAgIHVuaWZpZWQ6IFtdLAogICAgfTsKICB9CgogIGNvbnN0IGJ5VHlwZSA9IHt9OwogIGNvbnN0IGJ5U291cmNlID0geyBjb3JwdXM6IDAsIHJlZ2lzdHJ5OiAwIH07CiAgdW5pZmllZC5mb3JFYWNoKChyKSA9PiB7CiAgICBjb25zdCB0ID0gci5rbm93bGVkZ2VfdHlwZSB8fCAnY2xhc3NpYyc7CiAgICBieVR5cGVbdF0gPSAoYnlUeXBlW3RdIHx8IDApICsgMTsKICAgIGJ5U291cmNlW3Iuc291cmNlXSA9IChieVNvdXJjZVtyLnNvdXJjZV0gfHwgMCkgKyAxOwogIH0pOwoKICByZXR1cm4gewogICAga25vd2xlZGdlQ291bnQ6IHsKICAgICAgYXZhaWxhYmxlOiB0cnVlLAogICAgICB2YWx1ZTogdW5pZmllZC5sZW5ndGgsCiAgICAgIGJyZWFrZG93bjogewogICAgICAgIGNsYXNzaWNfZ3JhbmRmYXRoZXJlZDogYnlTb3VyY2UuY29ycHVzIHx8IDAsCiAgICAgICAgY2VydGlmaWVkX29iamVjdHM6IGJ5U291cmNlLnJlZ2lzdHJ5IHx8IDAsCiAgICAgICAgYnlUeXBlLAogICAgICB9LAogICAgICBzb3VyY2U6ICdSZWdpc3RyeShnZXRVbmlmaWVkUmVjb3JkcykgPSBjb3JwdXMuanNvblvlj6ror7tdICsgbzEtcmVnaXN0cnkuanNvbicsCiAgICB9LAogICAgcmVnaXN0cnlTdGF0dXM6IHsKICAgICAgYXZhaWxhYmxlOiB0cnVlLAogICAgICB2YWx1ZTogKHN0YXRzICYmIHN0YXRzLnRvdGFsKSB8fCAwLAogICAgICBzY2hlbWE6IChyYXcgJiYgcmF3LnNjaGVtYSkgfHwgbnVsbCwKICAgICAgbmFtZXNwYWNlOiAocmF3ICYmIHJhdy5uYW1lc3BhY2UpIHx8IG51bGwsCiAgICAgIHN0b3JhZ2U6IChyYXcgJiYgcmF3LnN0b3JhZ2UpIHx8IG51bGwsCiAgICAgIGJ5U3RhdHVzOiAoc3RhdHMgJiYgc3RhdHMuYnlTdGF0dXMpIHx8IHt9LAogICAgICBieVR5cGU6IChzdGF0cyAmJiBzdGF0cy5ieVR5cGUpIHx8IHt9LAogICAgICBzb3VyY2U6ICdSZWdpc3RyeShnZXRSYXcvZ2V0U3RhdHMpJywKICAgIH0sCiAgICB1bmlmaWVkLAogIH07Cn0KCi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQovLyDmjIfmoIcgNO+8mlJlZ3Jlc3Npb24gU3RhdHVzCi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpmdW5jdGlvbiBidWlsZFJlZ3Jlc3Npb25NZXRyaWNzKHJlZ3Jlc3Npb24sIHJlYWRpbmVzcykgewogIGlmICghcmVncmVzc2lvbikgcmV0dXJuIHsgcmVncmVzc2lvblN0YXR1czogbmEoJ3JlZ3Jlc3Npb24tcmVwb3J0Lmpzb24gbm90IGZvdW5kJykgfTsKCiAgY29uc3QgYWNjID0gcmVncmVzc2lvbi5hY2NlcHRhbmNlIHx8IHt9OwogIGNvbnN0IGFjY0tleXMgPSBPYmplY3Qua2V5cyhhY2MpOwogIGNvbnN0IGFsbFBhc3MgPSBhY2NLZXlzLmxlbmd0aCA+IDAgJiYgYWNjS2V5cy5ldmVyeSgoaykgPT4gYWNjW2tdID09PSB0cnVlKTsKCiAgY29uc3Qgb3V0ID0gewogICAgYXZhaWxhYmxlOiB0cnVlLAogICAgdmFsdWU6IGFsbFBhc3MgPyAnUEFTUycgOiAnRkFJTCcsCiAgICBhY2NlcHRhbmNlOiBhY2MsCiAgICBiYXNlbGluZTogewogICAgICBjbGFzc2ljX2hpdDNfcm91dGVkOgogICAgICAgIHJlZ3Jlc3Npb24uYmFzZWxpbmUgJiYgdHlwZW9mIHJlZ3Jlc3Npb24uYmFzZWxpbmUucm91dGVkX2hpdDMgPT09ICdudW1iZXInCiAgICAgICAgICA/IHJlZ3Jlc3Npb24uYmFzZWxpbmUucm91dGVkX2hpdDMKICAgICAgICAgIDogbnVsbCwKICAgICAgY2xhc3NpY19oaXQzX2JlZm9yZToKICAgICAgICByZWdyZXNzaW9uLmJhc2VsaW5lICYmIHR5cGVvZiByZWdyZXNzaW9uLmJhc2VsaW5lLmJlZm9yZV9oaXQzID09PSAnbnVtYmVyJwogICAgICAgICAgPyByZWdyZXNzaW9uLmJhc2VsaW5lLmJlZm9yZV9oaXQzCiAgICAgICAgICA6IG51bGwsCiAgICAgIGludHJ1c2lvbl9yYXRlX3JvdXRlZDoKICAgICAgICByZWdyZXNzaW9uLmJhc2VsaW5lICYmIHR5cGVvZiByZWdyZXNzaW9uLmJhc2VsaW5lLnJvdXRlZF9pbnRydXNpb25fcmF0ZSA9PT0gJ251bWJlcicKICAgICAgICAgID8gcmVncmVzc2lvbi5iYXNlbGluZS5yb3V0ZWRfaW50cnVzaW9uX3JhdGUKICAgICAgICAgIDogbnVsbCwKICAgIH0sCiAgICBiZW5jaG1hcms6CiAgICAgIHJlZ3Jlc3Npb24uYmVuY2htYXJrICYmIHR5cGVvZiByZWdyZXNzaW9uLmJlbmNobWFyay5yb3V0ZWRfaGl0X2F0XzMgPT09ICdudW1iZXInCiAgICAgICAgPyByZWdyZXNzaW9uLmJlbmNobWFyay5yb3V0ZWRfaGl0X2F0XzMKICAgICAgICA6IG51bGwsCiAgICBwcm9kdWN0aW9uX3RmX2NoZWNrOiByZWdyZXNzaW9uLnByb2R1Y3Rpb25fdGZfY2hlY2sgfHwgbnVsbCwKICAgIHNvdXJjZTogJ1JlZ3Jlc3Npb24odGVzdHMvcGlsb3QtbjUvYXJ0aWZhY3RzL3JlZ3Jlc3Npb24tcmVwb3J0Lmpzb24pJywKICB9OwoKICBpZiAocmVhZGluZXNzICYmIHR5cGVvZiByZWFkaW5lc3MuZ29fbm9fZ28gPT09ICdib29sZWFuJykgewogICAgb3V0Lm8wX2dvX25vX2dvID0gcmVhZGluZXNzLmdvX25vX2dvOwogIH0KICByZXR1cm4geyByZWdyZXNzaW9uU3RhdHVzOiBvdXQgfTsKfQoKLy8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCi8vIOaMh+aghyAz77yaQ2l0YXRpb24gQWNjdXJhY3kKLy8gICDpnZnmgIHpnaLvvJpPLTEgUmVsZWFzZSBHYXRlIEM1LWNpdGF0aW9uIOmXqOemgee7k+iuuu+8iOaXouaIkOS6i+Wunu+8jOWPquivu++8iQovLyAgIOi/kOihjOaXtumdou+8mk9ic2VydmFiaWxpdHkg5LitIGNpdGF0aW9uX2NvdW50PjAg55qE5q+U5L6L77yI5peg6KeC5rWL5pWw5o2uIOKGkiBOL0HvvIkKLy8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCmZ1bmN0aW9uIGJ1aWxkQ2l0YXRpb25NZXRyaWNzKGNlcnRpZmljYXRlLCBvYnNlcnZhdGlvbnMpIHsKICBjb25zdCBnYXRlID0KICAgIGNlcnRpZmljYXRlICYmIGNlcnRpZmljYXRlLnJlbGVhc2VfZ2F0ZSAmJiBBcnJheS5pc0FycmF5KGNlcnRpZmljYXRlLnJlbGVhc2VfZ2F0ZS5nYXRlcykKICAgICAgPyBjZXJ0aWZpY2F0ZS5yZWxlYXNlX2dhdGUuZ2F0ZXMuZmlsdGVyKChnKSA9PiBnLmlkID09PSAnQzUtY2l0YXRpb24nKVswXQogICAgICA6IG51bGw7CgogIGNvbnN0IHJ1bnRpbWUgPQogICAgb2JzZXJ2YXRpb25zLmxlbmd0aCA+IDAKICAgICAgPyB7CiAgICAgICAgICBhdmFpbGFibGU6IHRydWUsCiAgICAgICAgICB2YWx1ZToKICAgICAgICAgICAgTWF0aC5yb3VuZCgKICAgICAgICAgICAgICAob2JzZXJ2YXRpb25zLmZpbHRlcigobykgPT4gKG8uY2l0YXRpb25fY291bnQgfHwgMCkgPiAwKS5sZW5ndGggLwogICAgICAgICAgICAgICAgb2JzZXJ2YXRpb25zLmxlbmd0aCkgKgogICAgICAgICAgICAgICAgMTAwMAogICAgICAgICAgICApIC8gMTAwMCwKICAgICAgICAgIHNhbXBsZV9zaXplOiBvYnNlcnZhdGlvbnMubGVuZ3RoLAogICAgICAgICAgc291cmNlOiAnT2JzZXJ2YWJpbGl0eShjaXRhdGlvbl9jb3VudD4wIOWNoOavlCknLAogICAgICAgIH0KICAgICAgOiBuYSgnbm8gb2JzZXJ2YXRpb24gcmVjb3JkcyB5ZXQnKTsKCiAgcmV0dXJuIHsKICAgIGNpdGF0aW9uQWNjdXJhY3k6IHsKICAgICAgYXZhaWxhYmxlOiAhIWdhdGUsCiAgICAgIHZhbHVlOiBnYXRlID8gKGdhdGUucGFzcyA/IDEuMCA6IDAuMCkgOiBudWxsLAogICAgICBnYXRlX2lkOiAnQzUtY2l0YXRpb24nLAogICAgICBnYXRlX3Bhc3M6IGdhdGUgPyBnYXRlLnBhc3MgOiBudWxsLAogICAgICBydW50aW1lX2NpdGF0aW9uX3ByZXNlbnRfcmF0ZTogcnVudGltZSwKICAgICAgc291cmNlOiAnUmVnaXN0cnkvTy0xIENlcnRpZmljYXRlKHJlbGVhc2VfZ2F0ZSBDNSkgKyBPYnNlcnZhYmlsaXR5JywKICAgICAgbm90ZTogZ2F0ZQogICAgICAgID8gJ+mdmeaAgeWAvOadpeiHqiBPLTEg6K6k6K+B6Zeo56aB57uT6K6677yb6L+Q6KGM5pe25byV55So546H5p2l6Ieq6KeC5rWL5pWw5o2u77yM5LqM6ICF5YiG5byA5ZGI546w77yM5LiN5re3566X44CCJwogICAgICAgIDogJ08tMSDor4HkuabnvLrlpLEg4oaSIOmdmeaAgeW8leeUqOWHhuehrueOhyBOL0EnLAogICAgfSwKICB9Owp9CgovLyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KLy8g5oyH5qCHIDXvvJpLUVPvvIhLbm93bGVkZ2UgUXVhbGl0eSBTY29yZe+8iQovLyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KZnVuY3Rpb24gYnVpbGRLcXNNZXRyaWNzKHByb3ZpZGVyKSB7CiAgbGV0IHJlY29yZHMgPSBbXTsKICB0cnkgewogICAgcmVjb3JkcyA9IHByb3ZpZGVyLmdldEFsbCgpOwogIH0gY2F0Y2ggKGUpIHsKICAgIHJldHVybiB7IGtxczogbmEoJ3JlZ2lzdHJ5IHVucmVhZGFibGUnKSB9OwogIH0KICBjb25zdCBzY29yZWQgPSByZWNvcmRzLmZpbHRlcigocikgPT4gdHlwZW9mIHIucXVhbGl0eV9zY29yZSA9PT0gJ251bWJlcicpOwogIGlmIChzY29yZWQubGVuZ3RoID09PSAwKSByZXR1cm4geyBrcXM6IG5hKCdubyBxdWFsaXR5X3Njb3JlIGluIHJlZ2lzdHJ5JykgfTsKCiAgY29uc3QgYXZnID0gc2NvcmVkLnJlZHVjZSgocywgcikgPT4gcyArIHIucXVhbGl0eV9zY29yZSwgMCkgLyBzY29yZWQubGVuZ3RoOwogIHJldHVybiB7CiAgICBrcXM6IHsKICAgICAgYXZhaWxhYmxlOiB0cnVlLAogICAgICB2YWx1ZTogTWF0aC5yb3VuZChhdmcgKiAxMDAwMCkgLyAxMDAwMCwKICAgICAgbWluOiBNYXRoLm1pbi5hcHBseShudWxsLCBzY29yZWQubWFwKChyKSA9PiByLnF1YWxpdHlfc2NvcmUpKSwKICAgICAgbWF4OiBNYXRoLm1heC5hcHBseShudWxsLCBzY29yZWQubWFwKChyKSA9PiByLnF1YWxpdHlfc2NvcmUpKSwKICAgICAgc2FtcGxlX3NpemU6IHNjb3JlZC5sZW5ndGgsCiAgICAgIHBlck9iamVjdDogc2NvcmVkLm1hcCgocikgPT4gKHsga25vd2xlZGdlX2lkOiByLmtub3dsZWRnZV9pZCwgcXVhbGl0eV9zY29yZTogci5xdWFsaXR5X3Njb3JlIH0pKSwKICAgICAgbm90ZTogJ+S7hee7n+iuoSBSZWdpc3RyeSDkuK3mmL7lvI/luKYgcXVhbGl0eV9zY29yZSDnmoTorqTor4Hlr7nosaHvvJtncmFuZGZhdGhlcmVkIOe7j+WFuOS4jeWPguS4ju+8iOaXoOivpeWtl+aute+8ieOAgicsCiAgICAgIHNvdXJjZTogJ1JlZ2lzdHJ5KHF1YWxpdHlfc2NvcmUpJywKICAgIH0sCiAgfTsKfQoKLy8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCi8vIOaMh+aghyA3ICYgOO+8mlF1ZXJ5IENvdW50IC8gS25vd2xlZGdlIFVzYWdlCi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpmdW5jdGlvbiBidWlsZE9ic2VydmFiaWxpdHlNZXRyaWNzKG9ic2VydmF0aW9ucywgc3RvcmVBdmFpbGFibGUpIHsKICBpZiAoIXN0b3JlQXZhaWxhYmxlKSB7CiAgICByZXR1cm4gewogICAgICBxdWVyeUNvdW50OiBuYSgnb2JzZXJ2YWJpbGl0eSBzdG9yZSBub3QgaW5pdGlhbGl6ZWQnKSwKICAgICAga25vd2xlZGdlVXNhZ2U6IG5hKCdvYnNlcnZhYmlsaXR5IHN0b3JlIG5vdCBpbml0aWFsaXplZCcpLAogICAgfTsKICB9CgogIGNvbnN0IHF1ZXJ5Q291bnQgPSB7CiAgICBhdmFpbGFibGU6IHRydWUsCiAgICB2YWx1ZTogb2JzZXJ2YXRpb25zLmxlbmd0aCwKICAgIHNvdXJjZTogJ09ic2VydmFiaWxpdHkoc3RvcmUucmVhZEFsbCknLAogIH07CgogIGlmIChvYnNlcnZhdGlvbnMubGVuZ3RoID09PSAwKSB7CiAgICByZXR1cm4gewogICAgICBxdWVyeUNvdW50LAogICAgICBrbm93bGVkZ2VVc2FnZTogbmEoJ25vIG9ic2VydmF0aW9uIHJlY29yZHMgeWV0JyksCiAgICAgIGxhdGVuY3k6IG5hKCdubyBvYnNlcnZhdGlvbiByZWNvcmRzIHlldCcpLAogICAgfTsKICB9CgogIGNvbnN0IHR5cGVGcmVxID0ge307CiAgb2JzZXJ2YXRpb25zLmZvckVhY2goKG8pID0+IHsKICAgIGNvbnN0IHR5cGVzID0gQXJyYXkuaXNBcnJheShvLmtub3dsZWRnZV90eXBlKSA/IG8ua25vd2xlZGdlX3R5cGUgOiBbXTsKICAgIGlmICh0eXBlcy5sZW5ndGggPT09IDApIHsKICAgICAgdHlwZUZyZXFbJyhub25lKSddID0gKHR5cGVGcmVxWycobm9uZSknXSB8fCAwKSArIDE7CiAgICAgIHJldHVybjsKICAgIH0KICAgIHR5cGVzLmZvckVhY2goKHQpID0+IHsKICAgICAgdHlwZUZyZXFbdF0gPSAodHlwZUZyZXFbdF0gfHwgMCkgKyAxOwogICAgfSk7CiAgfSk7CgogIGNvbnN0IGxhdGVuY2llcyA9IG9ic2VydmF0aW9ucwogICAgLm1hcCgobykgPT4gby5sYXRlbmN5X21zKQogICAgLmZpbHRlcigoeCkgPT4gdHlwZW9mIHggPT09ICdudW1iZXInKTsKICBjb25zdCBsYXRlbmN5ID0KICAgIGxhdGVuY2llcy5sZW5ndGggPiAwCiAgICAgID8gewogICAgICAgICAgYXZhaWxhYmxlOiB0cnVlLAogICAgICAgICAgdmFsdWU6IE1hdGgucm91bmQobGF0ZW5jaWVzLnJlZHVjZSgocywgeCkgPT4gcyArIHgsIDApIC8gbGF0ZW5jaWVzLmxlbmd0aCksCiAgICAgICAgICBwOTU6IGxhdGVuY2llcy5zbGljZSgpLnNvcnQoKGEsIGIpID0+IGEgLSBiKVsKICAgICAgICAgICAgTWF0aC5tYXgoMCwgTWF0aC5jZWlsKGxhdGVuY2llcy5sZW5ndGggKiAwLjk1KSAtIDEpCiAgICAgICAgICBdLAogICAgICAgICAgc2FtcGxlX3NpemU6IGxhdGVuY2llcy5sZW5ndGgsCiAgICAgICAgICBzb3VyY2U6ICdPYnNlcnZhYmlsaXR5KGxhdGVuY3lfbXMpJywKICAgICAgICB9CiAgICAgIDogbmEoJ25vIGxhdGVuY3kgc2FtcGxlcycpOwoKICByZXR1cm4gewogICAgcXVlcnlDb3VudCwKICAgIGtub3dsZWRnZVVzYWdlOiB7CiAgICAgIGF2YWlsYWJsZTogdHJ1ZSwKICAgICAgdmFsdWU6IHR5cGVGcmVxLAogICAgICBzYW1wbGVfc2l6ZTogb2JzZXJ2YXRpb25zLmxlbmd0aCwKICAgICAgc291cmNlOiAnT2JzZXJ2YWJpbGl0eShrbm93bGVkZ2VfdHlwZSDpopHmrKEpJywKICAgIH0sCiAgICBsYXRlbmN5LAogIH07Cn0KCi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQovLyDmjIfmoIcgNu+8mkhlYWx0aCBTY29yZQovLyAgIOS4uuiupOivgeWvueixoemZhOWKoCBPLTEg6K+B5Lmm5Lit55qEIDE5IOWtl+autSBNZXRhZGF0Ye+8iOWPquivu++8ieS4jiBDNSDlvJXnlKjnu5PorrrvvJsKLy8gICDnu4/lhbjvvIhjb3JwdXPvvInml6AgMTkg5a2X5q61IG1ldGFkYXRhIOKGkiBNZXRhZGF0YSDnu7Tluqbor5rlrp7mmL7npLogTi9B44CCCi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpmdW5jdGlvbiBidWlsZEhlYWx0aE1ldHJpY3ModW5pZmllZCwgY2VydGlmaWNhdGUsIHJlZ3Jlc3Npb25TdGF0dXMpIHsKICBpZiAoIXVuaWZpZWQgfHwgdW5pZmllZC5sZW5ndGggPT09IDApIHJldHVybiB7IGhlYWx0aFNjb3JlOiBuYSgnbm8ga25vd2xlZGdlIHJlY29yZHMnKSB9OwoKICBjb25zdCBtZXRhQnlJZCA9IHt9OwogIGlmIChjZXJ0aWZpY2F0ZSAmJiBjZXJ0aWZpY2F0ZS5rbm93bGVkZ2VfaWQgJiYgY2VydGlmaWNhdGUubWV0YWRhdGEpIHsKICAgIG1ldGFCeUlkW2NlcnRpZmljYXRlLmtub3dsZWRnZV9pZF0gPSBjZXJ0aWZpY2F0ZS5tZXRhZGF0YTsKICB9CiAgbGV0IGNpdGF0aW9uUGFzc0J5SWQgPSB7fTsKICBpZiAoY2VydGlmaWNhdGUgJiYgY2VydGlmaWNhdGUucmVsZWFzZV9nYXRlICYmIEFycmF5LmlzQXJyYXkoY2VydGlmaWNhdGUucmVsZWFzZV9nYXRlLmdhdGVzKSkgewogICAgY29uc3QgYzUgPSBjZXJ0aWZpY2F0ZS5yZWxlYXNlX2dhdGUuZ2F0ZXMuZmlsdGVyKChnKSA9PiBnLmlkID09PSAnQzUtY2l0YXRpb24nKVswXTsKICAgIGlmIChjNSkgY2l0YXRpb25QYXNzQnlJZFtjZXJ0aWZpY2F0ZS5rbm93bGVkZ2VfaWRdID0gISFjNS5wYXNzOwogIH0KCiAgY29uc3QgZW5yaWNoZWQgPSB1bmlmaWVkLm1hcCgocikgPT4gewogICAgY29uc3Qgb3V0ID0gT2JqZWN0LmFzc2lnbih7fSwgcik7CiAgICBpZiAobWV0YUJ5SWRbci5rbm93bGVkZ2VfaWRdKSBvdXQubWV0YWRhdGEgPSBtZXRhQnlJZFtyLmtub3dsZWRnZV9pZF07CiAgICBpZiAoY2l0YXRpb25QYXNzQnlJZFtyLmtub3dsZWRnZV9pZF0gIT09IHVuZGVmaW5lZCkgewogICAgICBvdXQuY2l0YXRpb25fcGFzcyA9IGNpdGF0aW9uUGFzc0J5SWRbci5rbm93bGVkZ2VfaWRdOwogICAgfQogICAgcmV0dXJuIG91dDsKICB9KTsKCiAgY29uc3QgY3R4ID0ge307CiAgaWYgKHJlZ3Jlc3Npb25TdGF0dXMgJiYgcmVncmVzc2lvblN0YXR1cy5hdmFpbGFibGUpIHsKICAgIGlmICh0eXBlb2YgcmVncmVzc2lvblN0YXR1cy5iYXNlbGluZS5jbGFzc2ljX2hpdDNfcm91dGVkID09PSAnbnVtYmVyJykgewogICAgICBjdHgucmV0cmlldmFsSGl0MyA9IHJlZ3Jlc3Npb25TdGF0dXMuYmFzZWxpbmUuY2xhc3NpY19oaXQzX3JvdXRlZDsKICAgIH0KICAgIGN0eC5yZWdyZXNzaW9uQWNjZXB0ID0gcmVncmVzc2lvblN0YXR1cy52YWx1ZSA9PT0gJ1BBU1MnOwogIH0KICAvLyBGZWVkYmFjayAvIFVzYWdlIOS4jeS8oCDihpIga25vd2xlZGdlSGVhbHRoU2NvcmUg5YaF6YOo5qCH6K6wIE4vQe+8iOS4jeS8qumAoO+8iQoKICBjb25zdCBhZ2cgPSBhZ2dyZWdhdGVIZWFsdGhTY29yZShlbnJpY2hlZCwgY3R4KTsKICByZXR1cm4gewogICAgaGVhbHRoU2NvcmU6IHsKICAgICAgYXZhaWxhYmxlOiB0cnVlLAogICAgICB2YWx1ZTogYWdnLmF2ZXJhZ2VTY29yZSwKICAgICAgcGVyUmVjb3JkOiBhZ2cucGVyUmVjb3JkLAogICAgICBuYURpbWVuc2lvbnM6IGFnZy5uYURpbWVuc2lvbnMsCiAgICAgIG5vdGU6CiAgICAgICAgJ04vQSDnu7Tluqblt7LmjInmnYPph43ph43lvZLkuIDljJbliZTpmaTvvIzmnKrku6Xku7vkvZXpu5jorqTlgLzloavlhYXjgILnvLrlpLHnu7TvvJonICsKICAgICAgICAoYWdnLm5hRGltZW5zaW9ucy5sZW5ndGggPyBhZ2cubmFEaW1lbnNpb25zLmpvaW4oJyAvICcpIDogJ+aXoCcpLAogICAgICBzb3VyY2U6ICdrbm93bGVkZ2VIZWFsdGhTY29yZShSZWdpc3RyeSBtZXRhZGF0YSArIFJlZ3Jlc3Npb24g5LiK5LiL5paHKScsCiAgICB9LAogIH07Cn0KCi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQovLyDkuLvlhaXlj6MKLy8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCi8qKgogKiDmnoTlu7ogRGFzaGJvYXJkIOW/q+eFp++8iOe6r+WPquivu++8ieOAggogKiBAcGFyYW0ge29iamVjdH0gY29uZmlnIHsgcmVnaXN0cnlQYXRoLCBjZXJ0aWZpY2F0ZVBhdGgsIGNvcnB1c1BhdGgsCiAqICAgICAgICAgICAgICAgICAgICAgICAgICByZWdyZXNzaW9uUGF0aCwgcmVhZGluZXNzUGF0aCwgb2JzZXJ2YWJpbGl0eVBhdGgsIHN0b3JlIH0KICogQHJldHVybnMge29iamVjdH0geyBnZW5lcmF0ZWRfYXQsIHNvdXJjZXMsIG1ldHJpY3MsIGRlZ3JhZGVkIH0KICovCmZ1bmN0aW9uIGJ1aWxkRGFzaGJvYXJkKGNvbmZpZykgewogIGNvbmZpZyA9IE9iamVjdC5hc3NpZ24oe30sIERFRkFVTFRfUEFUSFMsIGNvbmZpZyB8fCB7fSk7CgogIGNvbnN0IHByb3ZpZGVyID0gY3JlYXRlUmVnaXN0cnlQcm92aWRlcih7CiAgICB0eXBlOiAnanNvbicsCiAgICBmaWxlUGF0aDogY29uZmlnLnJlZ2lzdHJ5UGF0aCwKICAgIGNvcnB1c1BhdGg6IGNvbmZpZy5jb3JwdXNQYXRoLAogIH0pOwoKICBjb25zdCBjZXJ0aWZpY2F0ZSA9IHNhZmVSZWFkSnNvbihjb25maWcuY2VydGlmaWNhdGVQYXRoKTsKICBjb25zdCByZWdyZXNzaW9uID0gc2FmZVJlYWRKc29uKGNvbmZpZy5yZWdyZXNzaW9uUGF0aCk7CiAgY29uc3QgcmVhZGluZXNzID0gc2FmZVJlYWRKc29uKGNvbmZpZy5yZWFkaW5lc3NQYXRoKTsKCiAgbGV0IHN0b3JlID0gY29uZmlnLnN0b3JlIHx8IG51bGw7CiAgbGV0IHN0b3JlQXZhaWxhYmxlID0gdHJ1ZTsKICBpZiAoIXN0b3JlKSB7CiAgICB0cnkgewogICAgICBzdG9yZSA9IG5ldyBKc29uT2JzZXJ2YWJpbGl0eVN0b3JlKAogICAgICAgIGNvbmZpZy5vYnNlcnZhYmlsaXR5UGF0aCA/IHsgZmlsZVBhdGg6IGNvbmZpZy5vYnNlcnZhYmlsaXR5UGF0aCB9IDoge30KICAgICAgKTsKICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgc3RvcmVBdmFpbGFibGUgPSBmYWxzZTsKICAgIH0KICB9CiAgbGV0IG9ic2VydmF0aW9ucyA9IFtdOwogIHRyeSB7CiAgICBvYnNlcnZhdGlvbnMgPSBzdG9yZSA/IHN0b3JlLnJlYWRBbGwoKSA6IFtdOwogIH0gY2F0Y2ggKGUpIHsKICAgIG9ic2VydmF0aW9ucyA9IFtdOwogICAgc3RvcmVBdmFpbGFibGUgPSBmYWxzZTsKICB9CgogIGNvbnN0IHJlZyA9IGJ1aWxkUmVnaXN0cnlNZXRyaWNzKHByb3ZpZGVyLCBjb25maWcuY29ycHVzUGF0aCk7CiAgY29uc3QgcmVnciA9IGJ1aWxkUmVncmVzc2lvbk1ldHJpY3MocmVncmVzc2lvbiwgcmVhZGluZXNzKTsKICBjb25zdCBjaXRlID0gYnVpbGRDaXRhdGlvbk1ldHJpY3MoY2VydGlmaWNhdGUsIG9ic2VydmF0aW9ucyk7CiAgY29uc3Qga3FzID0gYnVpbGRLcXNNZXRyaWNzKHByb3ZpZGVyKTsKICBjb25zdCBvYnMgPSBidWlsZE9ic2VydmFiaWxpdHlNZXRyaWNzKG9ic2VydmF0aW9ucywgc3RvcmVBdmFpbGFibGUpOwogIGNvbnN0IGhlYWx0aCA9IGJ1aWxkSGVhbHRoTWV0cmljcyhyZWcudW5pZmllZCwgY2VydGlmaWNhdGUsIHJlZ3IucmVncmVzc2lvblN0YXR1cyk7CgogIGNvbnN0IG1ldHJpY3MgPSBPYmplY3QuYXNzaWduKAogICAgewogICAgICBrbm93bGVkZ2VDb3VudDogcmVnLmtub3dsZWRnZUNvdW50LAogICAgICByZWdpc3RyeVN0YXR1czogcmVnLnJlZ2lzdHJ5U3RhdHVzLAogICAgfSwKICAgIGNpdGUsCiAgICByZWdyLAogICAga3FzLAogICAgaGVhbHRoLAogICAgb2JzCiAgKTsKCiAgY29uc3QgZGVncmFkZWQgPSBPYmplY3Qua2V5cyhtZXRyaWNzKS5maWx0ZXIoKGspID0+IG1ldHJpY3Nba10gJiYgbWV0cmljc1trXS5hdmFpbGFibGUgPT09IGZhbHNlKTsKCiAgcmV0dXJuIHsKICAgIGdlbmVyYXRlZF9hdDogbmV3IERhdGUoKS50b0lTT1N0cmluZygpLAogICAgdmVyc2lvbjogJ2Rhc2hib2FyZC1tdnAvdjEuMC4xJywKICAgIHNvdXJjZXM6IHsKICAgICAgcmVnaXN0cnk6IGNvbmZpZy5yZWdpc3RyeVBhdGgsCiAgICAgIGNlcnRpZmljYXRlOiBjb25maWcuY2VydGlmaWNhdGVQYXRoLAogICAgICBjb3JwdXM6IGNvbmZpZy5jb3JwdXNQYXRoLAogICAgICByZWdyZXNzaW9uOiBjb25maWcucmVncmVzc2lvblBhdGgsCiAgICAgIHJlYWRpbmVzczogY29uZmlnLnJlYWRpbmVzc1BhdGgsCiAgICAgIG9ic2VydmFiaWxpdHk6IHN0b3JlICYmIHN0b3JlLmZpbGVQYXRoID8gc3RvcmUuZmlsZVBhdGggOiAnKGN1c3RvbSBzdG9yZSknLAogICAgfSwKICAgIHJlYWRvbmx5OiB0cnVlLAogICAgcmVjb21wdXRlc19yZXRyaWV2YWw6IGZhbHNlLAogICAgbWV0cmljcywKICAgIGRlZ3JhZGVkLAogIH07Cn0KCm1vZHVsZS5leHBvcnRzID0gewogIGJ1aWxkRGFzaGJvYXJkLAogIERFRkFVTFRfUEFUSFMsCiAgLy8g5a+85Ye65a2Q5p6E5bu65Zmo5L6/5LqO5Y2V5rWLCiAgYnVpbGRSZWdpc3RyeU1ldHJpY3MsCiAgYnVpbGRSZWdyZXNzaW9uTWV0cmljcywKICBidWlsZENpdGF0aW9uTWV0cmljcywKICBidWlsZEtxc01ldHJpY3MsCiAgYnVpbGRPYnNlcnZhYmlsaXR5TWV0cmljcywKICBidWlsZEhlYWx0aE1ldHJpY3MsCn07Cg==
+// ============================================================
+// Knowledge Platform Dashboard MVP（Phase P+ / Phase P §2）
+// ------------------------------------------------------------
+// 只读指标聚合。严格约束（来自用户 + docs/66 §2）：
+//   · 数据来源 **只能是**：Registry / Observability / Regression 产物。
+//   · **禁止重新计算检索逻辑** —— 本模块不 require rag.js、不做向量检索、
+//     不调用 embedding，只读取既有产物中的既成事实。
+//   · 缺失指标必须显示 N/A（available:false），**不得伪造**。
+//   · 只读：不写任何文件、不修改任何资产。
+//
+// 八项指标（对齐 Phase P+ 第四阶段要求）：
+//   1. Knowledge Count     ← Registry（统一视图：corpus 经典 + 认证对象）
+//   2. Registry Status     ← Registry（schema / namespace / 状态分布）
+//   3. Citation Accuracy   ← Registry(O-1 C5 门禁) + Observability(运行时引用率)
+//   4. Regression Status   ← Regression（regression-report.json acceptance）
+//   5. KQS                 ← Registry（quality_score）
+//   6. Health Score        ← knowledgeHealthScore（七维，缺失维 N/A）
+//   7. Query Count         ← Observability（观测记录条数）
+//   8. Knowledge Usage     ← Observability（knowledge_type 使用频次）
+// ============================================================
+
+'use strict';
+
+const fs = require('fs');
+const path = require('path');
+const { createRegistryProvider } = require('../registry/registryProvider');
+const { JsonObservabilityStore } = require('../observability/jsonObservabilityStore');
+const { aggregateHealthScore } = require('../knowledgeHealthScore');
+
+// ------------------------------------------------------------
+// 默认数据源路径（全部为既有只读产物）
+// ------------------------------------------------------------
+const WEAPP_ROOT = path.resolve(__dirname, '..', '..', '..');
+const DEFAULT_PATHS = {
+  registryPath: path.join(WEAPP_ROOT, 'tests', 'pilot-o1', 'o1-registry.json'),
+  certificatePath: path.join(WEAPP_ROOT, 'tests', 'pilot-o1', 'o1-certificate.json'),
+  corpusPath: path.resolve(__dirname, '..', 'corpus.json'),
+  regressionPath: path.join(WEAPP_ROOT, 'tests', 'pilot-n5', 'artifacts', 'regression-report.json'),
+  readinessPath: path.join(WEAPP_ROOT, 'tests', 'pilot-n5', 'artifacts', 'o0-readiness-report.json'),
+  observabilityPath: null, // null → 使用 JsonObservabilityStore 默认路径
+};
+
+/** 只读 JSON；失败返回 null（缺失即 N/A，不伪造） */
+function safeReadJson(filePath) {
+  try {
+    if (!filePath || !fs.existsSync(filePath)) return null;
+    return JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+  } catch (e) {
+    return null;
+  }
+}
+
+/** 统一的「不可用指标」表示：显式 N/A + 原因 */
+function na(reason) {
+  return { available: false, value: null, reason: reason || 'data source missing' };
+}
+
+// ------------------------------------------------------------
+// 指标 1 & 2：Knowledge Count / Registry Status
+// ------------------------------------------------------------
+function buildRegistryMetrics(provider, corpusPath) {
+  let raw = null;
+  let unified = [];
+  let stats = null;
+  try {
+    raw = provider.getRaw();
+    stats = provider.getStats();
+    unified = provider.getUnifiedRecords(corpusPath);
+  } catch (e) {
+    return {
+      knowledgeCount: na('registry unreadable: ' + (e && e.message)),
+      registryStatus: na('registry unreadable: ' + (e && e.message)),
+      unified: [],
+    };
+  }
+
+  const byType = {};
+  const bySource = { corpus: 0, registry: 0 };
+  unified.forEach((r) => {
+    const t = r.knowledge_type || 'classic';
+    byType[t] = (byType[t] || 0) + 1;
+    bySource[r.source] = (bySource[r.source] || 0) + 1;
+  });
+
+  return {
+    knowledgeCount: {
+      available: true,
+      value: unified.length,
+      breakdown: {
+        classic_grandfathered: bySource.corpus || 0,
+        certified_objects: bySource.registry || 0,
+        byType,
+      },
+      source: 'Registry(getUnifiedRecords) = corpus.json[只读] + o1-registry.json',
+    },
+    registryStatus: {
+      available: true,
+      value: (stats && stats.total) || 0,
+      schema: (raw && raw.schema) || null,
+      namespace: (raw && raw.namespace) || null,
+      storage: (raw && raw.storage) || null,
+      byStatus: (stats && stats.byStatus) || {},
+      byType: (stats && stats.byType) || {},
+      source: 'Registry(getRaw/getStats)',
+    },
+    unified,
+  };
+}
+
+// ------------------------------------------------------------
+// 指标 4：Regression Status
+// ------------------------------------------------------------
+function buildRegressionMetrics(regression, readiness) {
+  if (!regression) return { regressionStatus: na('regression-report.json not found') };
+
+  const acc = regression.acceptance || {};
+  const accKeys = Object.keys(acc);
+  const allPass = accKeys.length > 0 && accKeys.every((k) => acc[k] === true);
+
+  const out = {
+    available: true,
+    value: allPass ? 'PASS' : 'FAIL',
+    acceptance: acc,
+    baseline: {
+      classic_hit3_routed:
+        regression.baseline && typeof regression.baseline.routed_hit3 === 'number'
+          ? regression.baseline.routed_hit3
+          : null,
+      classic_hit3_before:
+        regression.baseline && typeof regression.baseline.before_hit3 === 'number'
+          ? regression.baseline.before_hit3
+          : null,
+      intrusion_rate_routed:
+        regression.baseline && typeof regression.baseline.routed_intrusion_rate === 'number'
+          ? regression.baseline.routed_intrusion_rate
+          : null,
+    },
+    benchmark:
+      regression.benchmark && typeof regression.benchmark.routed_hit_at_3 === 'number'
+        ? regression.benchmark.routed_hit_at_3
+        : null,
+    production_tf_check: regression.production_tf_check || null,
+    source: 'Regression(tests/pilot-n5/artifacts/regression-report.json)',
+  };
+
+  if (readiness && typeof readiness.go_no_go === 'boolean') {
+    out.o0_go_no_go = readiness.go_no_go;
+  }
+  return { regressionStatus: out };
+}
+
+// ------------------------------------------------------------
+// 指标 3：Citation Accuracy
+//   静态面：O-1 Release Gate C5-citation 门禁结论（既成事实，只读）
+//   运行时面：Observability 中 citation_count>0 的比例（无观测数据 → N/A）
+// ------------------------------------------------------------
+function buildCitationMetrics(certificate, observations) {
+  const gate =
+    certificate && certificate.release_gate && Array.isArray(certificate.release_gate.gates)
+      ? certificate.release_gate.gates.filter((g) => g.id === 'C5-citation')[0]
+      : null;
+
+  const runtime =
+    observations.length > 0
+      ? {
+          available: true,
+          value:
+            Math.round(
+              (observations.filter((o) => (o.citation_count || 0) > 0).length /
+                observations.length) *
+                1000
+            ) / 1000,
+          sample_size: observations.length,
+          source: 'Observability(citation_count>0 占比)',
+        }
+      : na('no observation records yet');
+
+  return {
+    citationAccuracy: {
+      available: !!gate,
+      value: gate ? (gate.pass ? 1.0 : 0.0) : null,
+      gate_id: 'C5-citation',
+      gate_pass: gate ? gate.pass : null,
+      runtime_citation_present_rate: runtime,
+      source: 'Registry/O-1 Certificate(release_gate C5) + Observability',
+      note: gate
+        ? '静态值来自 O-1 认证门禁结论；运行时引用率来自观测数据，二者分开呈现，不混算。'
+        : 'O-1 证书缺失 → 静态引用准确率 N/A',
+    },
+  };
+}
+
+// ------------------------------------------------------------
+// 指标 5：KQS（Knowledge Quality Score）
+// ------------------------------------------------------------
+function buildKqsMetrics(provider) {
+  let records = [];
+  try {
+    records = provider.getAll();
+  } catch (e) {
+    return { kqs: na('registry unreadable') };
+  }
+  const scored = records.filter((r) => typeof r.quality_score === 'number');
+  if (scored.length === 0) return { kqs: na('no quality_score in registry') };
+
+  const avg = scored.reduce((s, r) => s + r.quality_score, 0) / scored.length;
+  return {
+    kqs: {
+      available: true,
+      value: Math.round(avg * 10000) / 10000,
+      min: Math.min.apply(null, scored.map((r) => r.quality_score)),
+      max: Math.max.apply(null, scored.map((r) => r.quality_score)),
+      sample_size: scored.length,
+      perObject: scored.map((r) => ({ knowledge_id: r.knowledge_id, quality_score: r.quality_score })),
+      note: '仅统计 Registry 中显式带 quality_score 的认证对象；grandfathered 经典不参与（无该字段）。',
+      source: 'Registry(quality_score)',
+    },
+  };
+}
+
+// ------------------------------------------------------------
+// 指标 7 & 8：Query Count / Knowledge Usage
+// ------------------------------------------------------------
+function buildObservabilityMetrics(observations, storeAvailable) {
+  if (!storeAvailable) {
+    return {
+      queryCount: na('observability store not initialized'),
+      knowledgeUsage: na('observability store not initialized'),
+    };
+  }
+
+  const queryCount = {
+    available: true,
+    value: observations.length,
+    source: 'Observability(store.readAll)',
+  };
+
+  if (observations.length === 0) {
+    return {
+      queryCount,
+      knowledgeUsage: na('no observation records yet'),
+      latency: na('no observation records yet'),
+    };
+  }
+
+  const typeFreq = {};
+  observations.forEach((o) => {
+    const types = Array.isArray(o.knowledge_type) ? o.knowledge_type : [];
+    if (types.length === 0) {
+      typeFreq['(none)'] = (typeFreq['(none)'] || 0) + 1;
+      return;
+    }
+    types.forEach((t) => {
+      typeFreq[t] = (typeFreq[t] || 0) + 1;
+    });
+  });
+
+  const latencies = observations
+    .map((o) => o.latency_ms)
+    .filter((x) => typeof x === 'number');
+  const latency =
+    latencies.length > 0
+      ? {
+          available: true,
+          value: Math.round(latencies.reduce((s, x) => s + x, 0) / latencies.length),
+          p95: latencies.slice().sort((a, b) => a - b)[
+            Math.max(0, Math.ceil(latencies.length * 0.95) - 1)
+          ],
+          sample_size: latencies.length,
+          source: 'Observability(latency_ms)',
+        }
+      : na('no latency samples');
+
+  return {
+    queryCount,
+    knowledgeUsage: {
+      available: true,
+      value: typeFreq,
+      sample_size: observations.length,
+      source: 'Observability(knowledge_type 频次)',
+    },
+    latency,
+  };
+}
+
+// ------------------------------------------------------------
+// 指标 6：Health Score
+//   为认证对象附加 O-1 证书中的 19 字段 Metadata（只读）与 C5 引用结论；
+//   经典（corpus）无 19 字段 metadata → Metadata 维度诚实显示 N/A。
+// ------------------------------------------------------------
+function buildHealthMetrics(unified, certificate, regressionStatus) {
+  if (!unified || unified.length === 0) return { healthScore: na('no knowledge records') };
+
+  const metaById = {};
+  if (certificate && certificate.knowledge_id && certificate.metadata) {
+    metaById[certificate.knowledge_id] = certificate.metadata;
+  }
+  let citationPassById = {};
+  if (certificate && certificate.release_gate && Array.isArray(certificate.release_gate.gates)) {
+    const c5 = certificate.release_gate.gates.filter((g) => g.id === 'C5-citation')[0];
+    if (c5) citationPassById[certificate.knowledge_id] = !!c5.pass;
+  }
+
+  const enriched = unified.map((r) => {
+    const out = Object.assign({}, r);
+    if (metaById[r.knowledge_id]) out.metadata = metaById[r.knowledge_id];
+    if (citationPassById[r.knowledge_id] !== undefined) {
+      out.citation_pass = citationPassById[r.knowledge_id];
+    }
+    return out;
+  });
+
+  const ctx = {};
+  if (regressionStatus && regressionStatus.available) {
+    if (typeof regressionStatus.baseline.classic_hit3_routed === 'number') {
+      ctx.retrievalHit3 = regressionStatus.baseline.classic_hit3_routed;
+    }
+    ctx.regressionAccept = regressionStatus.value === 'PASS';
+  }
+  // Feedback / Usage 不传 → knowledgeHealthScore 内部标记 N/A（不伪造）
+
+  const agg = aggregateHealthScore(enriched, ctx);
+  return {
+    healthScore: {
+      available: true,
+      value: agg.averageScore,
+      perRecord: agg.perRecord,
+      naDimensions: agg.naDimensions,
+      note:
+        'N/A 维度已按权重重归一化剔除，未以任何默认值填充。缺失维：' +
+        (agg.naDimensions.length ? agg.naDimensions.join(' / ') : '无'),
+      source: 'knowledgeHealthScore(Registry metadata + Regression 上下文)',
+    },
+  };
+}
+
+// ------------------------------------------------------------
+// 主入口
+// ------------------------------------------------------------
+/**
+ * 构建 Dashboard 快照（纯只读）。
+ * @param {object} config { registryPath, certificatePath, corpusPath,
+ *                          regressionPath, readinessPath, observabilityPath, store }
+ * @returns {object} { generated_at, sources, metrics, degraded }
+ */
+function buildDashboard(config) {
+  config = Object.assign({}, DEFAULT_PATHS, config || {});
+
+  const provider = createRegistryProvider({
+    type: 'json',
+    filePath: config.registryPath,
+    corpusPath: config.corpusPath,
+  });
+
+  const certificate = safeReadJson(config.certificatePath);
+  const regression = safeReadJson(config.regressionPath);
+  const readiness = safeReadJson(config.readinessPath);
+
+  let store = config.store || null;
+  let storeAvailable = true;
+  if (!store) {
+    try {
+      store = new JsonObservabilityStore(
+        config.observabilityPath ? { filePath: config.observabilityPath } : {}
+      );
+    } catch (e) {
+      storeAvailable = false;
+    }
+  }
+  let observations = [];
+  try {
+    observations = store ? store.readAll() : [];
+  } catch (e) {
+    observations = [];
+    storeAvailable = false;
+  }
+
+  const reg = buildRegistryMetrics(provider, config.corpusPath);
+  const regr = buildRegressionMetrics(regression, readiness);
+  const cite = buildCitationMetrics(certificate, observations);
+  const kqs = buildKqsMetrics(provider);
+  const obs = buildObservabilityMetrics(observations, storeAvailable);
+  const health = buildHealthMetrics(reg.unified, certificate, regr.regressionStatus);
+
+  const metrics = Object.assign(
+    {
+      knowledgeCount: reg.knowledgeCount,
+      registryStatus: reg.registryStatus,
+    },
+    cite,
+    regr,
+    kqs,
+    health,
+    obs
+  );
+
+  const degraded = Object.keys(metrics).filter((k) => metrics[k] && metrics[k].available === false);
+
+  return {
+    generated_at: new Date().toISOString(),
+    version: 'dashboard-mvp/v1.0.1',
+    sources: {
+      registry: config.registryPath,
+      certificate: config.certificatePath,
+      corpus: config.corpusPath,
+      regression: config.regressionPath,
+      readiness: config.readinessPath,
+      observability: store && store.filePath ? store.filePath : '(custom store)',
+    },
+    readonly: true,
+    recomputes_retrieval: false,
+    metrics,
+    degraded,
+  };
+}
+
+module.exports = {
+  buildDashboard,
+  DEFAULT_PATHS,
+  // 导出子构建器便于单测
+  buildRegistryMetrics,
+  buildRegressionMetrics,
+  buildCitationMetrics,
+  buildKqsMetrics,
+  buildObservabilityMetrics,
+  buildHealthMetrics,
+};

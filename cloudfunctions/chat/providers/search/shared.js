@@ -1,1 +1,55 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIHByb3ZpZGVycy9zZWFyY2gvc2hhcmVkLmpzCi8vICAgUGhhc2UgUTItNC1B77ya5pCc57Si5oiQ5pys5L+d5oqk77yI6L276YeP5pel6YWN6aKd6K6h5pWw5Zmo77yJ44CCCi8vCi8vICAg6K6+6K6h77ya6L+b56iL5YaF5oyJIFVUQyDml6XmnJ/orqHmlbDnmoTmn6Xor6LphY3pop3lrojljavjgIIKLy8gICAgIMK3IOS7heWvueOAjOecn+WuniBwcm92aWRlcuOAje+8iHRhdmlseS9iaW5nL3NlcnDvvInorqHotLnvvJttb2NrL25vbmUg5LiN6K6h44CCCi8vICAgICDCtyDlkb3kuK3nvJPlrZjnmoTosIPnlKjkuI3orqHlhaXphY3pop3vvIhpbmRleC5qcyDlnKjnvJPlrZjlkb3kuK3ml7bnm7TmjqXov5Tlm57vvIzkuI3osIPnlKjmnKzlrojljavvvInjgIIKLy8gICAgIMK3IOaXoOaVsOaNruW6k+S+nei1lu+8iGJ1aWxkLW9ubHkg6Zi25q6177yJ77yb5LqR5Ye95pWw5Ya35ZCv5Yqo5Lya6YeN572u6K6h5pWw77yM5bGe5bey55+l5bGA6ZmQ77yMCi8vICAgICAgIOi3qOWunuS+i+W8uuS4gOiHtOmcgOWQjue7reaOpSBzZWFyY2hfcXVvdGEg6ZuG5ZCI77yI6KeBIEltcGxlbWVudGF0aW9uIFJlcG9ydO+8ieOAggovLwovLyAgIOaOpeWPo++8mmNyZWF0ZUNvc3RHdWFyZChnZXRRdW90YSkKLy8gICAgIGdldFF1b3RhKCkg6L+U5Zue5b2T5pel6YWN6aKd77yI5Yqo5oCB6K+75Y+W546v5aKD5Y+Y6YeP77yM5L6/5LqO5rWL6K+V5rOo5YWl77yJ44CCCi8vICAgICDov5Tlm57lr7nosaHvvJphbGxvd2VkKCkgLyByZW1haW5pbmcoKSAvIHJlY29yZCgpIC8gcmVzZXQoKQovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KJ3VzZSBzdHJpY3QnOwoKZnVuY3Rpb24gcGFkKG4pIHsgcmV0dXJuIChuIDwgMTAgPyAnMCcgOiAnJykgKyBuOyB9CgpmdW5jdGlvbiB1dGNEYXRlS2V5KCkgewogIHZhciBkID0gbmV3IERhdGUoKTsKICByZXR1cm4gZC5nZXRVVENGdWxsWWVhcigpICsgJy0nICsgcGFkKGQuZ2V0VVRDTW9udGgoKSArIDEpICsgJy0nICsgcGFkKGQuZ2V0VVRDRGF0ZSgpKTsKfQoKZnVuY3Rpb24gY3JlYXRlQ29zdEd1YXJkKGdldFF1b3RhKSB7CiAgdmFyIGNvdW50cyA9IHt9OyAvLyB7ICdZWVlZLU1NLUREJzogbnVtYmVyIH0KCiAgZnVuY3Rpb24gcXVvdGEoKSB7CiAgICB2YXIgcSA9ICh0eXBlb2YgZ2V0UXVvdGEgPT09ICdmdW5jdGlvbicpID8gZ2V0UXVvdGEoKSA6IDUwMDsKICAgIHJldHVybiAodHlwZW9mIHEgPT09ICdudW1iZXInICYmIHEgPj0gMCkgPyBxIDogNTAwOwogIH0KICBmdW5jdGlvbiB1c2VkKCkgewogICAgcmV0dXJuIGNvdW50c1t1dGNEYXRlS2V5KCldIHx8IDA7CiAgfQoKICByZXR1cm4gewogICAgLy8g5piv5ZCm5LuN5Y+v5Y+R6LW35LiA5qyh55yf5a6e5qOA57SiCiAgICBhbGxvd2VkOiBmdW5jdGlvbiAoKSB7CiAgICAgIHJldHVybiB1c2VkKCkgPCBxdW90YSgpOwogICAgfSwKICAgIC8vIOW9k+aXpeWJqeS9memFjeminQogICAgcmVtYWluaW5nOiBmdW5jdGlvbiAoKSB7CiAgICAgIHJldHVybiBNYXRoLm1heCgwLCBxdW90YSgpIC0gdXNlZCgpKTsKICAgIH0sCiAgICAvLyDorrDlvZXkuIDmrKHmiJDlip/orqHotLnosIPnlKgKICAgIHJlY29yZDogZnVuY3Rpb24gKCkgewogICAgICB2YXIgayA9IHV0Y0RhdGVLZXkoKTsKICAgICAgY291bnRzW2tdID0gKGNvdW50c1trXSB8fCAwKSArIDE7CiAgICB9LAogICAgLy8g5rWL6K+VL+mHjee9rueUqAogICAgcmVzZXQ6IGZ1bmN0aW9uICgpIHsgY291bnRzID0ge307IH0sCiAgICBfdXNlZDogdXNlZCwKICB9Owp9Cgptb2R1bGUuZXhwb3J0cyA9IHsgY3JlYXRlQ29zdEd1YXJkOiBjcmVhdGVDb3N0R3VhcmQgfTsK
+// ============================================================
+// providers/search/shared.js
+//   Phase Q2-4-A：搜索成本保护（轻量日配额计数器）。
+//
+//   设计：进程内按 UTC 日期计数的查询配额守卫。
+//     · 仅对「真实 provider」（tavily/bing/serp）计费；mock/none 不计。
+//     · 命中缓存的调用不计入配额（index.js 在缓存命中时直接返回，不调用本守卫）。
+//     · 无数据库依赖（build-only 阶段）；云函数冷启动会重置计数，属已知局限，
+//       跨实例强一致需后续接 search_quota 集合（见 Implementation Report）。
+//
+//   接口：createCostGuard(getQuota)
+//     getQuota() 返回当日配额（动态读取环境变量，便于测试注入）。
+//     返回对象：allowed() / remaining() / record() / reset()
+// ============================================================
+'use strict';
+
+function pad(n) { return (n < 10 ? '0' : '') + n; }
+
+function utcDateKey() {
+  var d = new Date();
+  return d.getUTCFullYear() + '-' + pad(d.getUTCMonth() + 1) + '-' + pad(d.getUTCDate());
+}
+
+function createCostGuard(getQuota) {
+  var counts = {}; // { 'YYYY-MM-DD': number }
+
+  function quota() {
+    var q = (typeof getQuota === 'function') ? getQuota() : 500;
+    return (typeof q === 'number' && q >= 0) ? q : 500;
+  }
+  function used() {
+    return counts[utcDateKey()] || 0;
+  }
+
+  return {
+    // 是否仍可发起一次真实检索
+    allowed: function () {
+      return used() < quota();
+    },
+    // 当日剩余配额
+    remaining: function () {
+      return Math.max(0, quota() - used());
+    },
+    // 记录一次成功计费调用
+    record: function () {
+      var k = utcDateKey();
+      counts[k] = (counts[k] || 0) + 1;
+    },
+    // 测试/重置用
+    reset: function () { counts = {}; },
+    _used: used,
+  };
+}
+
+module.exports = { createCostGuard: createCostGuard };

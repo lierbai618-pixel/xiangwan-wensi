@@ -1,1 +1,27 @@
-Lyog5ZCR5pma6Zeu5oCdIC0g5YWo5bGA57q45oSf57Gz6Imy5Li76aKYICovCnBhZ2UgewogIGJhY2tncm91bmQ6ICNmM2VkZTE7CiAgY29sb3I6ICMyZjJhMjI7CiAgZm9udC1mYW1pbHk6IC1hcHBsZS1zeXN0ZW0sICJQaW5nRmFuZyBTQyIsICJNaWNyb3NvZnQgWWFIZWkiLCBzYW5zLXNlcmlmOwogIGZvbnQtc2l6ZTogMzBycHg7CiAgbGluZS1oZWlnaHQ6IDEuNzsKfQoKdmlldywgdGV4dCwgdGV4dGFyZWEsIGJ1dHRvbiB7CiAgYm94LXNpemluZzogYm9yZGVyLWJveDsKfQoKLyog5Li76aKY6ImyICovCi5jLXBhcGVyIHsgYmFja2dyb3VuZDogI2YzZWRlMTsgfQouYy1pbmsgeyBjb2xvcjogIzJmMmEyMjsgfQouYy1hY2NlbnQgeyBjb2xvcjogIzljM2IyZTsgfQouYy1tdXRlZCB7IGNvbG9yOiAjOGE4MTcwOyB9CgovKiDpgJrnlKjmjInpkq7ph43nva4gKi8KYnV0dG9uIHsKICBtYXJnaW46IDA7CiAgcGFkZGluZzogMDsKICBiYWNrZ3JvdW5kOiB0cmFuc3BhcmVudDsKICBsaW5lLWhlaWdodDogbm9ybWFsOwp9CmJ1dHRvbjo6YWZ0ZXIgeyBib3JkZXI6IG5vbmU7IH0K
+/* 向晚问思 - 全局纸感米色主题 */
+page {
+  background: #f3ede1;
+  color: #2f2a22;
+  font-family: -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-size: 30rpx;
+  line-height: 1.7;
+}
+
+view, text, textarea, button {
+  box-sizing: border-box;
+}
+
+/* 主题色 */
+.c-paper { background: #f3ede1; }
+.c-ink { color: #2f2a22; }
+.c-accent { color: #9c3b2e; }
+.c-muted { color: #8a8170; }
+
+/* 通用按钮重置 */
+button {
+  margin: 0;
+  padding: 0;
+  background: transparent;
+  line-height: normal;
+}
+button::after { border: none; }

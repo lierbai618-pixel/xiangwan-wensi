@@ -1,1 +1,51 @@
-ewogICJnZW5lcmF0ZWRBdCI6ICIyMDI2LTA5LTIxVDA0OjE1OjQ0LjY1MFoiLAogICJnZW5Qcm9tcHQiOiAi5oiR5LuK5bm0MzDlsoHvvIzlt6XkvZznqLPlrprkvYbmgLvop4nlvpfmsqHku4DkuYjmhI/kuYnvvIzmg7PmlLnlj5jlj4jmgJXlpLHljrvnjrDlnKjnmoTkuIDliIfjgILmiJHor6XmgI7kuYjlip7vvJ8iLAogICJyZXN1bHRzIjogWwogICAgewogICAgICAibGFiZWwiOiAiYWduZXMtMi4wLWZsYXNoIiwKICAgICAgInJvbGUiOiAi546w5b25IMK3IOeUn+aIkOmmlumAie+8iG9yZGVyIC00MO+8iSIsCiAgICAgICJiYXNlVVJMIjogImh0dHBzOi8vYXBpaHViLmFnbmVzLWFpLmNvbS92MSIsCiAgICAgICJtb2RlbCI6ICJhZ25lcy0yLjAtZmxhc2giLAogICAgICAib2siOiBmYWxzZSwKICAgICAgInN0YXR1cyI6IDAsCiAgICAgICJtcyI6IDEwNzYyLAogICAgICAiY2prIjogMCwKICAgICAgImhhc1RoaW5raW5nIjogbnVsbCwKICAgICAgInJlYXNvbmluZ0xlbiI6IDAsCiAgICAgICJ0b2tlbnMiOiBudWxsLAogICAgICAiZmluaXNoIjogbnVsbCwKICAgICAgImVyciI6ICJmZXRjaCBmYWlsZWQiCiAgICB9LAogICAgewogICAgICAibGFiZWwiOiAicXdlbi1wbHVzIiwKICAgICAgInJvbGUiOiAi546w5b25IMK3IOeUn+aIkOWFnOW6le+8iG9yZGVyIC0zMO+8iSIsCiAgICAgICJiYXNlVVJMIjogImh0dHBzOi8vZGFzaHNjb3BlLmFsaXl1bmNzLmNvbS9jb21wYXRpYmxlLW1vZGUvdjEiLAogICAgICAibW9kZWwiOiAicXdlbi1wbHVzIiwKICAgICAgIm9rIjogdHJ1ZSwKICAgICAgInN0YXR1cyI6IDIwMCwKICAgICAgIm1zIjogMTU4ODcsCiAgICAgICJjamsiOiA3OTksCiAgICAgICJoYXNUaGlua2luZyI6IGZhbHNlLAogICAgICAicmVhc29uaW5nTGVuIjogMCwKICAgICAgInRva2VucyI6IDcwMiwKICAgICAgImZpbmlzaCI6ICJzdG9wIiwKICAgICAgImVyciI6ICIiCiAgICB9LAogICAgewogICAgICAibGFiZWwiOiAic3RlcC0zLjUtZmxhc2ggQGhjbnNlYyIsCiAgICAgICJyb2xlIjogIueOsOW9uSDCtyDmnIDnu4jlhZzlupXvvIhvcmRlciAxMO+8iSIsCiAgICAgICJiYXNlVVJMIjogImh0dHBzOi8vYXBpLmhjbnNlYy5jbi92MSIsCiAgICAgICJtb2RlbCI6ICJzdGVwLTMuNS1mbGFzaCIsCiAgICAgICJvayI6IGZhbHNlLAogICAgICAic3RhdHVzIjogNTAzLAogICAgICAibXMiOiAyMzgsCiAgICAgICJjamsiOiAwLAogICAgICAiaGFzVGhpbmtpbmciOiBudWxsLAogICAgICAicmVhc29uaW5nTGVuIjogMCwKICAgICAgInRva2VucyI6IG51bGwsCiAgICAgICJmaW5pc2giOiBudWxsLAogICAgICAiZXJyIjogIk5vIGF2YWlsYWJsZSBjaGFubmVsIGZvciBtb2RlbCBzdGVwLTMuNS1mbGFzaCB1bmRlciBncm91cCBhdXRvIChkaXN0cmlidXRvcikgKHJlcXVlc3QgaWQ6IDIwMjYwOTIxMDQxNTQ0NDUyNTQzODk3ODI2OGQ5ZDZ0TWl5ZUhzQSkiCiAgICB9CiAgXQp9
+{
+  "generatedAt": "2026-09-21T04:15:44.650Z",
+  "genPrompt": "我今年30岁，工作稳定但总觉得没什么意义，想改变又怕失去现在的一切。我该怎么办？",
+  "results": [
+    {
+      "label": "agnes-2.0-flash",
+      "role": "现役 · 生成首选（order -40）",
+      "baseURL": "https://apihub.agnes-ai.com/v1",
+      "model": "agnes-2.0-flash",
+      "ok": false,
+      "status": 0,
+      "ms": 10762,
+      "cjk": 0,
+      "hasThinking": null,
+      "reasoningLen": 0,
+      "tokens": null,
+      "finish": null,
+      "err": "fetch failed"
+    },
+    {
+      "label": "qwen-plus",
+      "role": "现役 · 生成兜底（order -30）",
+      "baseURL": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+      "model": "qwen-plus",
+      "ok": true,
+      "status": 200,
+      "ms": 15887,
+      "cjk": 799,
+      "hasThinking": false,
+      "reasoningLen": 0,
+      "tokens": 702,
+      "finish": "stop",
+      "err": ""
+    },
+    {
+      "label": "step-3.5-flash @hcnsec",
+      "role": "现役 · 最终兜底（order 10）",
+      "baseURL": "https://api.hcnsec.cn/v1",
+      "model": "step-3.5-flash",
+      "ok": false,
+      "status": 503,
+      "ms": 238,
+      "cjk": 0,
+      "hasThinking": null,
+      "reasoningLen": 0,
+      "tokens": null,
+      "finish": null,
+      "err": "No available channel for model step-3.5-flash under group auto (distributor) (request id: 202609210415444525438978268d9d6tMiyeHsA)"
+    }
+  ]
+}

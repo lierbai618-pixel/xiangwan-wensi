@@ -1,1 +1,34 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIHByb3ZpZGVycy9zZWFyY2gvc2VycC5qcwovLyAgIFBoYXNlIFEyLTHvvJpTZXJwQVBJ77yIR29vZ2xlIOe7k+aenO+8iea6kOmqqOaetu+8iOWAmemAie+8jOacquWQr+eUqO+8ieOAggovLyAgIOWOn+WIme+8muaXoCBBUEkgS2V5IOKGkiDnq4vljbMgb2s6ZmFsc2XvvIhmYWlsLXNvZnTvvInjgIIKLy8gICDnnJ/lrp7mv4DmtLvmnaHku7bvvJpTRUFSQ0hfUFJPVklERVI9c2VycCDkuJQgRlJFU0hORVNTX0ZBQ1RVQUxfRU5BQkxFRD10cnVlCi8vICAg5LiU6YWN572uIFNFUlBBUElfS0VZ44CCCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQondXNlIHN0cmljdCc7Cgp2YXIgdXRpbCA9IHJlcXVpcmUoJy4vdXRpbCcpOwoKZnVuY3Rpb24gc2VhcmNoKHF1ZXJ5LCBvcHRzLCBub2RlRmV0Y2gpIHsKICB2YXIga2V5ID0gKHByb2Nlc3MuZW52LlNFUlBBUElfS0VZIHx8ICcnKS50cmltKCk7CiAgaWYgKCFrZXkpIHsKICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUoeyBvazogZmFsc2UsIHByb3ZpZGVyOiAnc2VycCcsIHJlc3VsdHM6IFtdLCByZWFzb246ICdub19hcGlfa2V5JyB9KTsKICB9CiAgdmFyIGVuZHBvaW50ID0gKHByb2Nlc3MuZW52LlNFUlBBUElfVVJMIHx8ICdodHRwczovL3NlcnBhcGkuY29tL3NlYXJjaC5qc29uJykudHJpbSgpOwogIHZhciB1cmwgPSBlbmRwb2ludCArICc/ZW5naW5lPWdvb2dsZSZxPScgKyBlbmNvZGVVUklDb21wb25lbnQocXVlcnkpICsgJyZudW09NSZhcGlfa2V5PScgKyBlbmNvZGVVUklDb21wb25lbnQoa2V5KTsKCiAgcmV0dXJuIHV0aWwuaHR0cEdldEpzb24obm9kZUZldGNoLCB1cmwsIHt9LCA4MDAwKS50aGVuKGZ1bmN0aW9uIChkYXRhKSB7CiAgICB2YXIgcmF3ID0gKGRhdGEgJiYgZGF0YS5vcmdhbmljX3Jlc3VsdHMpIHx8IFtdOwogICAgdmFyIHJlc3VsdHMgPSBbXTsKICAgIGZvciAodmFyIGkgPSAwOyBpIDwgcmF3Lmxlbmd0aCAmJiByZXN1bHRzLmxlbmd0aCA8IDU7IGkrKykgewogICAgICB2YXIgbiA9IHV0aWwubm9ybWFsaXplUmVzdWx0KHJhd1tpXSk7CiAgICAgIGlmIChuKSByZXN1bHRzLnB1c2gobik7CiAgICB9CiAgICBpZiAoIXJlc3VsdHMubGVuZ3RoKSB7CiAgICAgIHJldHVybiB7IG9rOiBmYWxzZSwgcHJvdmlkZXI6ICdzZXJwJywgcmVzdWx0czogW10sIHJlYXNvbjogJ25vX3Jlc3VsdHMnIH07CiAgICB9CiAgICByZXR1cm4geyBvazogdHJ1ZSwgcHJvdmlkZXI6ICdzZXJwJywgcmVzdWx0czogcmVzdWx0cywgcmVhc29uOiAnJyB9OwogIH0pOwp9Cgptb2R1bGUuZXhwb3J0cyA9IHsgc2VhcmNoOiBzZWFyY2ggfTsK
+// ============================================================
+// providers/search/serp.js
+//   Phase Q2-1：SerpAPI（Google 结果）源骨架（候选，未启用）。
+//   原则：无 API Key → 立即 ok:false（fail-soft）。
+//   真实激活条件：SEARCH_PROVIDER=serp 且 FRESHNESS_FACTUAL_ENABLED=true
+//   且配置 SERPAPI_KEY。
+// ============================================================
+'use strict';
+
+var util = require('./util');
+
+function search(query, opts, nodeFetch) {
+  var key = (process.env.SERPAPI_KEY || '').trim();
+  if (!key) {
+    return Promise.resolve({ ok: false, provider: 'serp', results: [], reason: 'no_api_key' });
+  }
+  var endpoint = (process.env.SERPAPI_URL || 'https://serpapi.com/search.json').trim();
+  var url = endpoint + '?engine=google&q=' + encodeURIComponent(query) + '&num=5&api_key=' + encodeURIComponent(key);
+
+  return util.httpGetJson(nodeFetch, url, {}, 8000).then(function (data) {
+    var raw = (data && data.organic_results) || [];
+    var results = [];
+    for (var i = 0; i < raw.length && results.length < 5; i++) {
+      var n = util.normalizeResult(raw[i]);
+      if (n) results.push(n);
+    }
+    if (!results.length) {
+      return { ok: false, provider: 'serp', results: [], reason: 'no_results' };
+    }
+    return { ok: true, provider: 'serp', results: results, reason: '' };
+  });
+}
+
+module.exports = { search: search };

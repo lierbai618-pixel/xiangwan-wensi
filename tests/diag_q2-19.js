@@ -1,1 +1,72 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09DQovLyBRMi0xOSDlv6vpgJ/or4rmlq3vvJrjgIzmiL/kuLvmmK/osIHjgI3liLDlupXljaHlnKjlk6rkuIDmraUNCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQ0KJ3VzZSBzdHJpY3QnOw0KDQpwcm9jZXNzLmVudi5GUkVTSE5FU1NfRU5BQkxFRCA9ICd0cnVlJzsNCnByb2Nlc3MuZW52LkZSRVNITkVTU19GQUNUVUFMX0VOQUJMRUQgPSAndHJ1ZSc7DQpwcm9jZXNzLmVudi5TRUFSQ0hfUFJPVklERVIgPSAncXdlbic7DQpwcm9jZXNzLmVudi5TRUFSQ0hfVElNRU9VVF9NUyA9ICcxNTAwMCc7DQpwcm9jZXNzLmVudi5RV0VOX1NFQVJDSF9CQVNFX1VSTCA9ICdodHRwczovL2Rhc2hzY29wZS5hbGl5dW5jcy5jb20vY29tcGF0aWJsZS1tb2RlL3YxJzsNCnByb2Nlc3MuZW52LlFXRU5fU0VBUkNIX0FQSV9LRVkgPSAnc2stWU9VUl9BUElfS0VZX0hFUkUnOw0KcHJvY2Vzcy5lbnYuUVdFTl9TRUFSQ0hfTU9ERUwgPSAnZGVlcHNlZWstdjQtZmxhc2gtMDczMSc7DQpwcm9jZXNzLmVudi5RV0VOX1NFQVJDSF9TWU5USF9NT0RFID0gJ3RydWUnOw0KcHJvY2Vzcy5lbnYuU0VBUkNIX0NBTkFSWV9FTkFCTEVEID0gJ3RydWUnOw0KcHJvY2Vzcy5lbnYuU0VBUkNIX0NBTkFSWV9PUEVOSURTID0gJ1lPVVJfQURNSU5fT1BFTklEJzsNCnByb2Nlc3MuZW52LlBSSVZBQ1lfR0FURV9FTkFCTEVEID0gJ3RydWUnOw0KDQp2YXIgY2xhc3NpZmllciA9IHJlcXVpcmUoJy4uL2Nsb3VkZnVuY3Rpb25zL2NoYXQvZnJlc2huZXNzL2V2ZW50Q2xhc3NpZmllcicpOw0KdmFyIENBVEVHT1JZID0gcmVxdWlyZSgnLi4vY2xvdWRmdW5jdGlvbnMvY2hhdC9mcmVzaG5lc3Mvc2NoZW1hJykuQ0FURUdPUlk7DQp2YXIgZnJlc2huZXNzID0gcmVxdWlyZSgnLi4vY2xvdWRmdW5jdGlvbnMvY2hhdC9mcmVzaG5lc3MnKTsNCnZhciBtYXliZUhhbmRsZSA9IGZyZXNobmVzcy5tYXliZUhhbmRsZTsNCg0KdmFyIE1PREVMUyA9IFt7DQogIG5hbWU6ICdkZWVwc2Vlay12NC1mbGFzaC0wNzMxJywNCiAgYmFzZVVSTDogJ2h0dHBzOi8vZGFzaHNjb3BlLmFsaXl1bmNzLmNvbS9jb21wYXRpYmxlLW1vZGUvdjEnLA0KICBhcGlLZXk6ICdzay1ZT1VSX0FQSV9LRVlfSEVSRScsDQogIG1vZGVsOiAnZGVlcHNlZWstdjQtZmxhc2gtMDczMScsDQogIHRpbWVvdXQ6IDI1MDAwDQp9XTsNCg0KYXN5bmMgZnVuY3Rpb24gcnVuKCkgew0KICB2YXIgcXVlcnkgPSAn5oi/5Li75piv6LCBJzsNCiAgY29uc29sZS5sb2coJz09PSBRMi0xOSDor4rmlq3vvJrjgIwnICsgcXVlcnkgKyAn44CNID09PVxuJyk7DQoNCiAgLy8gU3RlcCAxOiDliIbnsbvlmagNCiAgY29uc29sZS5sb2coJ+OAkFN0ZXAgMeOAkeWIhuexu+WZqCcpOw0KICB2YXIgY2xzID0gY2xhc3NpZmllci5jbGFzc2lmeUNhdGVnb3J5KHF1ZXJ5LCBudWxsKTsNCiAgY29uc29sZS5sb2coJyAgY2F0ZWdvcnk6JywgY2xzLmNhdGVnb3J5LCAnfCByZWFzb246JywgY2xzLnJlYXNvbiwgJ3wgc2lnbmFsczonLCBKU09OLnN0cmluZ2lmeShjbHMuc2lnbmFscykpOw0KICBjb25zb2xlLmxvZygnJyk7DQoNCiAgLy8gU3RlcCAyOiDlhajpk77ot68NCiAgY29uc29sZS5sb2coJ+OAkFN0ZXAgMuOAkW1heWJlSGFuZGxlIOWFqOmTvui3rycpOw0KICB2YXIgdDAgPSBEYXRlLm5vdygpOw0KICB2YXIgcmVzID0gYXdhaXQgbWF5YmVIYW5kbGUocXVlcnksIHsNCiAgICBtb2RlbHM6IE1PREVMUywNCiAgICBvcGVuaWQ6ICdZT1VSX0FETUlOX09QRU5JRCcsDQogICAgYW5zd2VyTW9kZTogJ3RoaW5rJywNCiAgICBoaXN0b3J5OiBbXQ0KICB9KTsNCiAgdmFyIGVsYXBzZWQgPSBEYXRlLm5vdygpIC0gdDA7DQogIGNvbnNvbGUubG9nKCcgIOiAl+aXtjonLCBlbGFwc2VkICsgJ21zJyk7DQoNCiAgaWYgKCFyZXMpIHsNCiAgICBjb25zb2xlLmxvZygnICDinYwg6L+U5ZueIG51bGzvvIjmnKrmjqXnrqHvvIknKTsNCiAgICByZXR1cm47DQogIH0NCg0KICBjb25zb2xlLmxvZygnICBtb2RlOicsIHJlcy5tb2RlKTsNCiAgaWYgKHJlcy5mcmVzaG5lc3MpIHsNCiAgICBjb25zb2xlLmxvZygnICBkb3duZ3JhZGVkOicsIHJlcy5mcmVzaG5lc3MuZG93bmdyYWRlZCk7DQogICAgY29uc29sZS5sb2coJyAgZG93bmdyYWRlX3JlYXNvbjonLCByZXMuZnJlc2huZXNzLmRvd25ncmFkZV9yZWFzb24pOw0KICAgIGNvbnNvbGUubG9nKCcgIGNhdGVnb3J5OicsIHJlcy5mcmVzaG5lc3MuY2F0ZWdvcnkpOw0KICAgIGNvbnNvbGUubG9nKCcgIHNlYXJjaF9wcm92aWRlcjonLCByZXMuZnJlc2huZXNzLnNlYXJjaF9wcm92aWRlcik7DQogICAgY29uc29sZS5sb2coJyAgc291cmNlX2NvbmZpZGVuY2U6JywgcmVzLmZyZXNobmVzcy5zb3VyY2VfY29uZmlkZW5jZSk7DQogICAgY29uc29sZS5sb2coJyAgZ3VhcmRWaW9sYXRpb25zOicsIEpTT04uc3RyaW5naWZ5KHJlcy5mcmVzaG5lc3MuZ3VhcmRWaW9sYXRpb25zIHx8IFtdKSk7DQogIH0NCiAgY29uc29sZS5sb2coJycpOw0KICBjb25zb2xlLmxvZygnLS0tIOWbnuetlOWJjSA0MDAg5a2XIC0tLScpOw0KICBjb25zb2xlLmxvZygocmVzLmFuc3dlciB8fCAnKOaXoOWbnuetlCknKS5zbGljZSgwLCA0MDApKTsNCn0NCg0KcnVuKCkuY2F0Y2goZnVuY3Rpb24oZSkgeyBjb25zb2xlLmVycm9yKCflvILluLg6JywgZSk7IHByb2Nlc3MuZXhpdCgxKTsgfSk7DQo=
+// ============================================================
+// Q2-19 快速诊断：「房主是谁」到底卡在哪一步
+// ============================================================
+'use strict';
+
+process.env.FRESHNESS_ENABLED = 'true';
+process.env.FRESHNESS_FACTUAL_ENABLED = 'true';
+process.env.SEARCH_PROVIDER = 'qwen';
+process.env.SEARCH_TIMEOUT_MS = '15000';
+process.env.QWEN_SEARCH_BASE_URL = 'https://dashscope.aliyuncs.com/compatible-mode/v1';
+process.env.QWEN_SEARCH_API_KEY = 'sk-YOUR_API_KEY_HERE';
+process.env.QWEN_SEARCH_MODEL = 'deepseek-v4-flash-0731';
+process.env.QWEN_SEARCH_SYNTH_MODE = 'true';
+process.env.SEARCH_CANARY_ENABLED = 'true';
+process.env.SEARCH_CANARY_OPENIDS = 'YOUR_ADMIN_OPENID';
+process.env.PRIVACY_GATE_ENABLED = 'true';
+
+var classifier = require('../cloudfunctions/chat/freshness/eventClassifier');
+var CATEGORY = require('../cloudfunctions/chat/freshness/schema').CATEGORY;
+var freshness = require('../cloudfunctions/chat/freshness');
+var maybeHandle = freshness.maybeHandle;
+
+var MODELS = [{
+  name: 'deepseek-v4-flash-0731',
+  baseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  apiKey: 'sk-YOUR_API_KEY_HERE',
+  model: 'deepseek-v4-flash-0731',
+  timeout: 25000
+}];
+
+async function run() {
+  var query = '房主是谁';
+  console.log('=== Q2-19 诊断：「' + query + '」 ===\n');
+
+  // Step 1: 分类器
+  console.log('【Step 1】分类器');
+  var cls = classifier.classifyCategory(query, null);
+  console.log('  category:', cls.category, '| reason:', cls.reason, '| signals:', JSON.stringify(cls.signals));
+  console.log('');
+
+  // Step 2: 全链路
+  console.log('【Step 2】maybeHandle 全链路');
+  var t0 = Date.now();
+  var res = await maybeHandle(query, {
+    models: MODELS,
+    openid: 'YOUR_ADMIN_OPENID',
+    answerMode: 'think',
+    history: []
+  });
+  var elapsed = Date.now() - t0;
+  console.log('  耗时:', elapsed + 'ms');
+
+  if (!res) {
+    console.log('  ❌ 返回 null（未接管）');
+    return;
+  }
+
+  console.log('  mode:', res.mode);
+  if (res.freshness) {
+    console.log('  downgraded:', res.freshness.downgraded);
+    console.log('  downgrade_reason:', res.freshness.downgrade_reason);
+    console.log('  category:', res.freshness.category);
+    console.log('  search_provider:', res.freshness.search_provider);
+    console.log('  source_confidence:', res.freshness.source_confidence);
+    console.log('  guardViolations:', JSON.stringify(res.freshness.guardViolations || []));
+  }
+  console.log('');
+  console.log('--- 回答前 400 字 ---');
+  console.log((res.answer || '(无回答)').slice(0, 400));
+}
+
+run().catch(function(e) { console.error('异常:', e); process.exit(1); });

@@ -1,1 +1,97 @@
-IyBQaGFzZSBRMiDmlbDmja7pmpTnprvop4TojIPvvIhEYXRhIElzb2xhdGlvbu+8iQoKPiDniYjmnKzvvJp2MS4w77yI6K6+6K6h5Ya757uT56i/77yM56aB5q2i5Luj56CB5L+u5pS577yJCj4g54q25oCB77yaUGhhc2UgUTItMAo+IOaguOW/g+WOn+WIme+8iOiuoeWIkuS5pu+8ie+8muaQnOe0oui0n+i0o+S6i+Wunu+8jFJBRyDotJ/otKPmmbrmhafvvIzmqKHlnovotJ/otKPmgJ3ogIPvvJvkupLogZTnvZHmlbDmja7msLjkuI3msaHmn5Pplb/mnJ/nn6Xor4blupPjgIIKPiDlhbPogZTvvJpQaGFzZS1RMi1BcmNoaXRlY3R1cmUubWQgwqc244CBUGhhc2UtUTItU2VhcmNoLVBvbGljeS5tZAoKLS0tCgojIyAxLiDmsLjkuYXnn6Xor4blupPnpoHlhpnnoazop4TliJkKCuS7peS4i+i1hOS6p+S4uuWGu+e7k+mVv+acn+efpeivhu+8jFEyIOS7u+S9lemYtuautSoq56aB5q2i5YaZ5YWlL+S/ruaUuSoq77yaCgp8IOi1hOS6pyB8IOemgeatouaTjeS9nCB8CnwtLS18LS0tfAp8IGBjb3JwdXMuanNvbmAgfCDinYwgaW5nZXN044CB4p2MIOi/veWKoOOAgeKdjCDkv67mlLnmnaHnm64gfAp8IGBlbWJlZGRpbmdgIHwg4p2MIOWvueaQnOe0oue7k+aenOWBmuWQkemHj+WMluWFpeW6kyB8CnwgYG1ldGFkYXRhYCB8IOKdjCDlhpnlhaXmkJzntKLmnaXmupAv5pe26Ze0L+adpea6kOagh+iusCB8Cnwg55+l6K+G5bqT6ZuG5ZCI77yI5LqR5pWw5o2u5bqT77yJIHwg4p2MIOaPkuWFpSBzZWFyY2gg57uT5p6c5paH5qGjIHwKCioq5ZSv5LiA5Y+v5L+h5LqL5a6e5bqV5bqnKirvvJpTZWFyY2ggUHJvdmlkZXIg6L+U5Zue55qEIGByZXN1bHRzYCDku4XlrZjlnKjkuo4qKuivt+axguWkhOeQhuWGheWtmCoq5Lit77yM6ZqP5Zue562U55Sf5oiQ57uT5p2f5Y2z6YeK5pS+44CCCgotLS0KCiMjIDIuIHNlYXJjaF9jb250ZXh0IOivt+axgue6p+eUn+WRveWRqOacnwoKYGBgCuivt+axguW8gOWniwogIOKGkiBTZWFyY2ggUHJvdmlkZXIuc2VhcmNoKHF1ZXJ5KSDov5Tlm54gcmVzdWx0cwogIOKGkiByZXN1bHRzIOWtmOWFpeacrOasoeiwg+eUqOeahOWxgOmDqOWPmOmHjyBzZWFyY2hDb250ZXh077yI6Zet5YyFL+ivt+axguWvueixoe+8iQogIOKGkiBGYWN0IEV4dHJhY3RvciDmir3lj5bkuovlrp4g4oaSIOazqOWFpSBSZWFzb25pbmcgUHJvbXB0CiAg4oaSIOWbnuetlOeUn+aIkCDihpIgc2VhcmNoQ29udGV4dCDpmo/lh73mlbDov5Tlm57ooqsgR0MK6K+35rGC57uT5p2fCiAg4pyFIHNlYXJjaENvbnRleHQg5LiN6JC95Lu75L2V5oyB5LmF5YyWIEtCCmBgYAoKLSBgc2VhcmNoQ29udGV4dGAgKirlj6/ku6UqKuefreaaguWtmOWcqOS6jiBgbG9nc2AgLyBgb2JzZXJ2YWJpbGl0eV9sb2dzYCDnmoQgKipjaXRhdGlvbnMg5a2X5q61KirvvIjku4UgdXJsL3RpdGxlL3NvdXJjZe+8jOingSDCpzPvvInvvIzkvYYqKue7neS4jSoq6L+b5YWlIGNvcnB1cy9lbWJlZGRpbmcvbWV0YWRhdGHjgIIKLSDnpoHmraLvvJrmioogYHNlYXJjaENvbnRleHRgIOWGmeWFpeS8muivneWOhuWPsu+8iGhpc3RvcnnvvInkvZzkuLrlkI7nu60gUkFHIOajgOe0ouivreaWmeKAlOKAlOWQpuWImemXtOaOpeaxoeafk+OAggoKLS0tCgojIyAzLiDlj6/op4LmtYvml6Xlv5cgdnMg55+l6K+G5bqT6L6555WMCgrnjrDmnInkuInpm4blkIjvvIhgbG9nc2AgLyBgcXVlc3Rpb25fbG9nc2AgLyBgb2JzZXJ2YWJpbGl0eV9sb2dzYO+8ieaYryoq6KeC5rWL5bGCKirvvIzpnZ7nn6Xor4blsYLjgIIKCnwg6ZuG5ZCIIHwg5Y+v5ZCm6K6w5b2V5pCc57Si5byV55SoIHwg5Y+v5ZCm6K6w5b2V5pCc57Si5pGY6KaB5YWo5paHIHwg5Y+v5ZCm5YaZ5YWlIGNvcnB1cyB8CnwtLS18LS0tfC0tLXwtLS18CnwgYG9ic2VydmFiaWxpdHlfbG9nc2AgfCDinIUgY2l0YXRpb25zKHVybC90aXRsZS9zb3VyY2UpIHwg4pqg77iPIOS7heiEseaVj+WQjueJh+autSB8IOKdjCDnpoHmraIgfAp8IGBsb2dzYCB8IOKche+8iOWmgumAgueUqO+8iSB8IOKaoO+4jyDlj5cgT0JTLTAwOS1DIOe6puadnyB8IOKdjCDnpoHmraIgfAp8IGBxdWVzdGlvbl9sb2dzYCB8IOS4jea2ieWPiiB8IOS4jea2ieWPiiB8IOKdjCDnpoHmraIgfAp8IGBjb3JwdXNgIC8g55+l6K+G5bqTIHwg4oCU4oCUIHwg4oCU4oCUIHwg4p2MIOawuOi/nOemgeatoiB8CgotICoqUElJIOiEseaVjyoq77ya5pCc57SiIHNuaXBwZXQg5Y+v6IO95ZCr55So5oi3L+esrOS4ieaWuSBQSUnvvIzokL3lupPliY3lv4Xpobvov4cgYHBpaVNjcnViLm1hc2tg77yI5rK/55SoIENSLTAwMu+8ieOAgk9CUy0wMDktQyDlt7LmjIflh7ogYGxvZ3NgIOaYjuaWh+makOengeaVnuWPo+Wkp+S6jiBgb2JzZXJ2YWJpbGl0eV9sb2dzYO+8jOaQnOe0ouaOpeWFpeWQjuatpOaVnuWPo+aJqeWkp+KAlOKAlCoqUTItMyDpobvlsIbmkJzntKIgc25pcHBldCDohLHmlY/lkI7lho3orrDlvZUqKuOAggotICoq5byV55SoIOKJoCDnn6Xor4YqKu+8mmBjaXRhdGlvbnNgIOaYr+WHuuWkhOagh+azqO+8jOS4jeaYr+efpeivhuayiea3gOOAggoKLS0tCgojIyA0LiDpmpTnprvov53lj43mo4DmtYvvvIjmtYvor5UvQ0kg5pat6KiA77yJCgpRMi0xLzItMi8yLTMg5q+P6Zi25q6157uT5p2f5b+F6aG76LeR77yaCgpgYGBqcwovLyDkvKrku6PnoIHvvJrpmpTnprvmlq3oqIAKY29uc3QgYmVmb3JlID0gc2hhMjU2KGNvcnB1cy5qc29uKSArIHNoYTI1NihlbWJlZGRpbmdEaXIpICsgc2hhMjU2KG1ldGFkYXRhKTsKYXdhaXQgcnVuU2VhcmNoUGlwZWxpbmUodGVzdFF1ZXJ5KTsgICAgICAgICAgLy8g5ZCr55yf5a6eL21vY2sg5pCc57SiCmNvbnN0IGFmdGVyICA9IHNoYTI1Nihjb3JwdXMuanNvbikgKyBzaGEyNTYoZW1iZWRkaW5nRGlyKSArIHNoYTI1NihtZXRhZGF0YSk7CmFzc2VydChiZWZvcmUgPT09IGFmdGVyLCAnS0Ig6KKr5pCc57Si5rGh5p+T77yBJyk7ICAvLyDlv4XpobsgNC80ICsgZW1iZWRkaW5nIOWFqOS4gOiHtApgYGAKCi0g5Y2V5YWD5rWL6K+V5Lit77yaYG1vY2tgIHByb3ZpZGVyIOazqOWFpeWQq+OAjOWBh+S6i+WunuOAjeeahOe7k+aenO+8jOaWreiogOacgOe7iCBgY29ycHVzYCDml6DmlrDlop7mlofmoaPjgIIKLSDpm4bmiJDmtYvor5XkuK3vvJrmlq3oqIAgYHJlc3VsdC5jaXRhdGlvbnNgIOWtmOWcqOS9hiBgcmFnYCDmo4DntKLor63mlpnkuI3lkKvmkJzntKLmlofmnKzjgIIKCi0tLQoKIyMgNS4g56Gs5oCn56aB5q2i5riF5Y2V77yI6L+d5Y+N5Y2z5Zue5rua77yJCgoxLiDinYwg5pCc57Si57uT5p6cIGBpbmdlc3RgIOi/myBjb3JwdXMKMi4g4p2MIOWvueaQnOe0oue7k+aenOWBmiBgZW1iZWRkaW5nYCDlubblhaXlupMKMy4g4p2MIOS/ruaUuSBjb3JwdXMgYG1ldGFkYXRhYCDmoIforrDjgIzmnaXoh6rmkJzntKLjgI0KNC4g4p2MIOaKiuaQnOe0ouaWh+acrOWGmeWFpSBgaGlzdG9yeWAg5L2c5Li65ZCO57utIFJBRyDor63mlpkKNS4g4p2MIOaKiuaQnOe0oiBzbmlwcGV0IOWOn+aWh++8iOacquiEseaVj++8ieWGmeWFpSBgbG9nc2AvYG9ic2VydmFiaWxpdHlfbG9nc2AKNi4g4p2MIOS7u+S9leiuqeS6kuiBlOe9keaVsOaNrui/m+WFpeOAjOmVv+acn+iusOW/hi/nlKjmiLfnlLvlg4/jgI3nmoTot6/lvoQKCi0tLQoKIyMgNi4g5LiO5pei5pyJ6ZqQ56eBL+ingua1i+mXrumimOeahOWFs+iBlAoKLSAqKk9CUy0wMDktQ++8iGxvZ3Mg5piO5paH5pWe5Y+j77yJKirvvJrmkJzntKLmjqXlhaXkvJrmlrDlop4gc25pcHBldC91cmwg5piO5paH44CCYFEyLTNgIOmhu+WcqCBgbG9nT2JzZXJ2YXRpb25gIOiwg+eUqOWJjeWvuSBzZWFyY2gg55u45YWz5a2X5q616ISx5pWP77yb5oiW5ZyoIGBvYnNlcnZhYmlsaXR5X2xvZ3NgIOS7heWtmCBjaXRhdGlvbnPvvIzkuI3lrZggc25pcHBldCDlhajmlofjgIIKLSAqKkNSLTAwNe+8iG1zZ1NlY0NoZWNrIDAlIOWPr+eUqO+8iSoq77ya5pCc57Si5paH5pys5ZGI546w5YmN55qEIGBtc2dTZWNDaGVja2Ag5LuN5Y+XIGAtNTAxMDAxYC9gLTQwMDAzYCDlvbHlk43vvIxRMi0xIOaOpeWFpeaXtumcgOehruiupOWuieWFqOaJq+aPj+mZjee6p+etlueVpe+8iOayv+eUqCBgU0VDX0RFR1JBREVfT05fQVBJX0VSUk9SYCDpu5jorqQgdHJ1Ze+8ieOAggoKLS0tCgojIyA3LiDmnKzpmLbmrrXvvIhRMi0w77yJ57qm5p2fCgotIOKdjCDkuI3lhpnku7vkvZXpmpTnprvmo4DmtYvku6PnoIHvvIjku4Xorr7orqHop4TojIPvvInjgIIKLSDinYwg5LiN5L+u5pS5IGBjb3JwdXMuanNvbmAgLyBgcmFnLmpzYCAvIGBvYnNlcnZhYmlsaXR5TG9nZ2VyLmpzYCAvIGBwaWlTY3J1Yi5qc2DjgIIKLSDinIUg5pys6KeE6IyD5L2c5Li6IFEyIOWFqOmYtuauteaVsOaNruWuieWFqOeahOW8uuWItuWfuue6v++8jOavj+asoeaPkOS6pC/pg6jnvbLliY3mr5Tlr7kgU0hB44CCCg==
+﻿# Phase Q2 数据隔离规范（Data Isolation）
+
+> 版本：v1.0（设计冻结稿，禁止代码修改）
+> 状态：Phase Q2-0
+> 核心原则（计划书）：搜索负责事实，RAG 负责智慧，模型负责思考；互联网数据永不污染长期知识库。
+> 关联：Phase-Q2-Architecture.md §6、Phase-Q2-Search-Policy.md
+
+---
+
+## 1. 永久知识库禁写硬规则
+
+以下资产为冻结长期知识，Q2 任何阶段**禁止写入/修改**：
+
+| 资产 | 禁止操作 |
+|---|---|
+| `corpus.json` | ❌ ingest、❌ 追加、❌ 修改条目 |
+| `embedding` | ❌ 对搜索结果做向量化入库 |
+| `metadata` | ❌ 写入搜索来源/时间/来源标记 |
+| 知识库集合（云数据库） | ❌ 插入 search 结果文档 |
+
+**唯一可信事实底座**：Search Provider 返回的 `results` 仅存在于**请求处理内存**中，随回答生成结束即释放。
+
+---
+
+## 2. search_context 请求级生命周期
+
+```
+请求开始
+  → Search Provider.search(query) 返回 results
+  → results 存入本次调用的局部变量 searchContext（闭包/请求对象）
+  → Fact Extractor 抽取事实 → 注入 Reasoning Prompt
+  → 回答生成 → searchContext 随函数返回被 GC
+请求结束
+  ✅ searchContext 不落任何持久化 KB
+```
+
+- `searchContext` **可以**短暂存在于 `logs` / `observability_logs` 的 **citations 字段**（仅 url/title/source，见 §3），但**绝不**进入 corpus/embedding/metadata。
+- 禁止：把 `searchContext` 写入会话历史（history）作为后续 RAG 检索语料——否则间接污染。
+
+---
+
+## 3. 可观测日志 vs 知识库边界
+
+现有三集合（`logs` / `question_logs` / `observability_logs`）是**观测层**，非知识层。
+
+| 集合 | 可否记录搜索引用 | 可否记录搜索摘要全文 | 可否写入 corpus |
+|---|---|---|---|
+| `observability_logs` | ✅ citations(url/title/source) | ⚠️ 仅脱敏后片段 | ❌ 禁止 |
+| `logs` | ✅（如适用） | ⚠️ 受 OBS-009-C 约束 | ❌ 禁止 |
+| `question_logs` | 不涉及 | 不涉及 | ❌ 禁止 |
+| `corpus` / 知识库 | —— | —— | ❌ 永远禁止 |
+
+- **PII 脱敏**：搜索 snippet 可能含用户/第三方 PII，落库前必须过 `piiScrub.mask`（沿用 CR-002）。OBS-009-C 已指出 `logs` 明文隐私敞口大于 `observability_logs`，搜索接入后此敞口扩大——**Q2-3 须将搜索 snippet 脱敏后再记录**。
+- **引用 ≠ 知识**：`citations` 是出处标注，不是知识沉淀。
+
+---
+
+## 4. 隔离违反检测（测试/CI 断言）
+
+Q2-1/2-2/2-3 每阶段结束必须跑：
+
+```js
+// 伪代码：隔离断言
+const before = sha256(corpus.json) + sha256(embeddingDir) + sha256(metadata);
+await runSearchPipeline(testQuery);          // 含真实/mock 搜索
+const after  = sha256(corpus.json) + sha256(embeddingDir) + sha256(metadata);
+assert(before === after, 'KB 被搜索污染！');  // 必须 4/4 + embedding 全一致
+```
+
+- 单元测试中：`mock` provider 注入含「假事实」的结果，断言最终 `corpus` 无新增文档。
+- 集成测试中：断言 `result.citations` 存在但 `rag` 检索语料不含搜索文本。
+
+---
+
+## 5. 硬性禁止清单（违反即回滚）
+
+1. ❌ 搜索结果 `ingest` 进 corpus
+2. ❌ 对搜索结果做 `embedding` 并入库
+3. ❌ 修改 corpus `metadata` 标记「来自搜索」
+4. ❌ 把搜索文本写入 `history` 作为后续 RAG 语料
+5. ❌ 把搜索 snippet 原文（未脱敏）写入 `logs`/`observability_logs`
+6. ❌ 任何让互联网数据进入「长期记忆/用户画像」的路径
+
+---
+
+## 6. 与既有隐私/观测问题的关联
+
+- **OBS-009-C（logs 明文敞口）**：搜索接入会新增 snippet/url 明文。`Q2-3` 须在 `logObservation` 调用前对 search 相关字段脱敏；或在 `observability_logs` 仅存 citations，不存 snippet 全文。
+- **CR-005（msgSecCheck 0% 可用）**：搜索文本呈现前的 `msgSecCheck` 仍受 `-501001`/`-40003` 影响，Q2-1 接入时需确认安全扫描降级策略（沿用 `SEC_DEGRADE_ON_API_ERROR` 默认 true）。
+
+---
+
+## 7. 本阶段（Q2-0）约束
+
+- ❌ 不写任何隔离检测代码（仅设计规范）。
+- ❌ 不修改 `corpus.json` / `rag.js` / `observabilityLogger.js` / `piiScrub.js`。
+- ✅ 本规范作为 Q2 全阶段数据安全的强制基线，每次提交/部署前比对 SHA。

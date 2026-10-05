@@ -1,1 +1,166 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0NCiIiIg0K57uf5LiA5LiJ57u0IGJlbmNobWFya++8mumAn+W6pihUVEZUL+aAu+iAl+aXtikgKyDovpPlh7rplb/luqYo5Lit5paH5a2X56ymKSArIOi0qOmHjyhxd2VuLXBsdXMg6K+E5a6hIDAtMTApDQrlkIzkuIDnu4Qgc3lzdGVtICsgMyDkuKrkuK3mlocgcHJvbXB077yM6KaG55uWIDcg5Liq5YCZ6YCJ5qih5Z6L77yM5ZCM5LiA546v5aKDKOaymeeuseebtOi/ninlhazlubPlr7nmr5TjgIINCue6r+agh+WHhuW6kyB1cmxsaWIg5a6e546w77yM6buY6K6k55u06L+e44CB5LiN6LWw5Luj55CG44CCDQoiIiINCmltcG9ydCBvcywgc3lzLCBqc29uLCB0aW1lLCBkYXRldGltZSwgcmUsIHNzbCwgdXJsbGliLnJlcXVlc3QNCg0KIyDlvLrliLbnm7Tov57vvJrmuIXpmaTku6PnkIbnjq/looPlj5jph4/vvIh1cmxsaWIg6buY6K6k5LiN6K+75Luj55CG77yM6L+Z6YeM5LuF6Ziy5b6h77yJDQpmb3IgayBpbiBbJ0hUVFBfUFJPWFknLCAnSFRUUFNfUFJPWFknLCAnaHR0cF9wcm94eScsICdodHRwc19wcm94eScsICdBTExfUFJPWFknLCAnYWxsX3Byb3h5J106DQogICAgb3MuZW52aXJvbi5wb3AoaywgTm9uZSkNCm9zLmVudmlyb25bJ05PX1BST1hZJ10gPSAnKicNCm9zLmVudmlyb25bJ25vX3Byb3h5J10gPSAnKicNCg0KU1RFUEZVTl9LRVkgPSAnMWE0Sjg4ODVTOGUzNmlOU1gxOHpBeDlGcmxxdzRsQmV3N3pmY0FROUxvdUIzWlZ0TTVnZTZjZEVkU051ekxwdU4nDQpIQ05TRUNfS0VZID0gJ3NrLVlPVVJfQVBJX0tFWV9IRVJFJw0KUVdFTl9LRVkgICA9ICdzay1ZT1VSX0FQSV9LRVlfSEVSRScNCkFHTkVTX0tFWSAgPSAnc2stWU9VUl9BUElfS0VZX0hFUkUnDQoNCkNBTkRJREFURVMgPSBbDQogICAgKCdzdGVwZnVuLXN0ZXAzNScsICAgICAgICdzdGVwLTMuNS1mbGFzaCcsICAgICAgICdodHRwczovL2FwaS5zdGVwZnVuLmNvbS92MScsICAgICAgICAgICBTVEVQRlVOX0tFWSksDQogICAgKCdzdGVwZnVuLXN0ZXAzNS0yNjAzJywgJ3N0ZXAtMy41LWZsYXNoLTI2MDMnLCAgJ2h0dHBzOi8vYXBpLnN0ZXBmdW4uY29tL3YxJywgICAgICAgICAgIFNURVBGVU5fS0VZKSwNCiAgICAoJ3N0ZXBmdW4tc3RlcDM3JywgICAgICAnc3RlcC0zLjctZmxhc2gnLCAgICAgICAnaHR0cHM6Ly9hcGkuc3RlcGZ1bi5jb20vdjEnLCAgICAgICAgICAgU1RFUEZVTl9LRVkpLA0KICAgICgnc3RlcGZ1bi0xby12aXNpb24nLCAgICdzdGVwLTFvLXR1cmJvLXZpc2lvbicsICdodHRwczovL2FwaS5zdGVwZnVuLmNvbS92MScsICAgICAgICAgICBTVEVQRlVOX0tFWSksDQogICAgKCdoY25zZWMtc3RlcDM1JywgICAgICAgJ3N0ZXAtMy41LWZsYXNoJywgICAgICAgJ2h0dHBzOi8vYXBpLmhjbnNlYy5jbi92MScsICAgICAgICAgICAgIEhDTlNFQ19LRVkpLA0KICAgICgncXdlbi1wbHVzJywgICAgICAgICAgICdxd2VuLXBsdXMnLCAgICAgICAgICAgICdodHRwczovL2Rhc2hzY29wZS5hbGl5dW5jcy5jb20vY29tcGF0aWJsZS1tb2RlL3YxJywgUVdFTl9LRVkpLA0KICAgICgnYWduZXMnLCAgICAgICAgICAgICAgICdhZ25lcy0yLjAtZmxhc2gnLCAgICAgICdodHRwczovL2FwaWh1Yi5hZ25lcy1haS5jb20vdjEnLCAgICAgICAgQUdORVNfS0VZKSwNCl0NCg0KUFJPTVBUUyA9IFsNCiAgICAoJ1AxLeWTsueQhicsICAn5aaC5L2V6Z2i5a+55Lq655Sf55qE5peg5bi477yfJyksDQogICAgKCdQMi3mg4XmhJ8nLCAgJ+aIkeaAu+inieW+l+iHquW3seavlOWIq+S6uuW3ru+8jOW+iOeEpuiZke+8jOivpeaAjuS5iOWKnu+8nycpLA0KICAgICgnUDMt55+l6K+GJywgICfnlKjkuInlj6Xor53or7TmmI7igJznpbjlha7npo/kuYvmiYDlgJrigJ3nmoTlkKvkuYnvvIzlubbngrnlh7rlroPlh7roh6rlk6rpg6jlhbjnsY3jgIInKSwNCl0NCg0KU1lTID0gKCfkvaDmmK/kuIDkuKrmnInmtJ7lr5/lipvnmoTkuK3mlofmgJ3ovqjliqnmiYvjgILlm57nrZTopoHnnJ/or5rjgIHmnInnu5PmnoTjgIHlvJXnlKjmgbDlvZPvvIzkuI3nvJbpgKDvvJsnDQogICAgICAgJ+WvueaDhee7quexu+mXrumimOWFiOaOpeS9j+WvueaWueaEn+WPl++8jOWGjee7meWPr+aJp+ihjOeahOinhuinkuOAguebtOaOpeWbnuetlO+8jOS4jemHjeWkjemXrumimOOAgicpDQoNCkpVREdFX1NZUyA9ICgNCiAgICAn5L2g5piv5Lil6LCo55qE5Lit5paH5Zue562U6LSo6YeP6K+E5a6h44CC6ZKI5a+557uZ5a6a55qE44CM55So5oi36Zeu6aKY44CN5ZKM44CM5qih5Z6L5Zue562U44CN77yM5oyJ5Lul5LiLIHJ1YnJpYyDmiZMgMC0xMCDliIbvvJpcbicNCiAgICAnMSkg55u45YWz5oCnKDAtMinvvJrmmK/lkKbntKfmiaPpl67popjjgIHmsqHmnInot5HpophcbicNCiAgICAnMikg5YeG56Gu5oCnKDAtMinvvJrkuovlrp4v5byV55So5piv5ZCm5q2j56Gu44CB5pyJ5peg57yW6YCg77yI5aaC4oCc56W45YWu56aP5LmL5omA5YCa4oCd6aG75Ye66Ieq44CK6YGT5b6357uP44CL77yJXG4nDQogICAgJzMpIOa3seW6pigwLTIp77ya5piv5ZCm5pyJ5oCd6L6o5bGC5qyh77yM6ICM6Z2e5aWX6K+dXG4nDQogICAgJzQpIOWFseaDhS/pgILphY0oMC0yKe+8muWvueaDhee7qumimOaYr+WQpuWFiOaOpeS9j+aEn+WPl++8m+WvueefpeivhumimOaYr+WQpuWHhuehruS4lOaYk+aHglxuJw0KICAgICc1KSDlj6/or7vmgKcoMC0yKe+8mue7k+aehOa4heaZsOOAgeS4reaWh+a1geeVheOAgeS4jei/h+efreS5n+S4jei/h+awtFxuJw0KICAgICfku4XovpPlh7rkuIDooYwgSlNPTu+8mnsic2NvcmUiOiA8MC0xMCDmlbDlgLw+LCAicmVhc29uIjogIjwyMOWtl+WGheeCueivhD4ifScNCikNCg0KQ1RYID0gc3NsLmNyZWF0ZV9kZWZhdWx0X2NvbnRleHQoKQ0KDQoNCmRlZiBfc3RyZWFtKHVybCwgaGVhZGVycywgcGF5bG9hZCwgdGltZW91dCk6DQogICAgZGF0YSA9IGpzb24uZHVtcHMocGF5bG9hZCkuZW5jb2RlKCd1dGYtOCcpDQogICAgcmVxID0gdXJsbGliLnJlcXVlc3QuUmVxdWVzdCh1cmwsIGRhdGE9ZGF0YSwgaGVhZGVycz1oZWFkZXJzLCBtZXRob2Q9J1BPU1QnKQ0KICAgIHJlc3AgPSB1cmxsaWIucmVxdWVzdC51cmxvcGVuKHJlcSwgdGltZW91dD10aW1lb3V0LCBjb250ZXh0PUNUWCkNCiAgICBmb3IgcmF3IGluIHJlc3A6DQogICAgICAgIHlpZWxkIHJhdw0KDQoNCmRlZiBjYWxsX3N0cmVhbShjbGFiZWwsIGJhc2VfdXJsLCBhcGlfa2V5LCBtb2RlbCwgcHJvbXB0LCB0aW1lb3V0KToNCiAgICB1cmwgPSBiYXNlX3VybC5yc3RyaXAoJy8nKSArICcvY2hhdC9jb21wbGV0aW9ucycNCiAgICBoZWFkZXJzID0geydBdXRob3JpemF0aW9uJzogJ0JlYXJlciAnICsgYXBpX2tleSwgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJ30NCiAgICBwYXlsb2FkID0gew0KICAgICAgICAnbW9kZWwnOiBtb2RlbCwNCiAgICAgICAgJ21lc3NhZ2VzJzogW3sncm9sZSc6ICdzeXN0ZW0nLCAnY29udGVudCc6IFNZU30sIHsncm9sZSc6ICd1c2VyJywgJ2NvbnRlbnQnOiBwcm9tcHR9XSwNCiAgICAgICAgJ3N0cmVhbSc6IFRydWUsDQogICAgICAgICd0ZW1wZXJhdHVyZSc6IDAuNywNCiAgICB9DQogICAgbGFzdF9lcnIgPSBOb25lDQogICAgZm9yIGF0dGVtcHQgaW4gcmFuZ2UoMik6DQogICAgICAgIHQwID0gdGltZS50aW1lKCkNCiAgICAgICAgdHRmdCA9IE5vbmUNCiAgICAgICAgdGV4dCA9ICcnDQogICAgICAgIHRyeToNCiAgICAgICAgICAgIGZvciByYXcgaW4gX3N0cmVhbSh1cmwsIGhlYWRlcnMsIHBheWxvYWQsIHRpbWVvdXQpOg0KICAgICAgICAgICAgICAgIGlmIG5vdCByYXc6DQogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlDQogICAgICAgICAgICAgICAgcyA9IHJhdy5kZWNvZGUoJ3V0Zi04JywgJ3JlcGxhY2UnKQ0KICAgICAgICAgICAgICAgIGlmIG5vdCBzLnN0YXJ0c3dpdGgoJ2RhdGE6Jyk6DQogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlDQogICAgICAgICAgICAgICAgZGF0YSA9IHNbNTpdLnN0cmlwKCkNCiAgICAgICAgICAgICAgICBpZiBkYXRhID09ICdbRE9ORV0nOg0KICAgICAgICAgICAgICAgICAgICBicmVhaw0KICAgICAgICAgICAgICAgIHRyeToNCiAgICAgICAgICAgICAgICAgICAgb2JqID0ganNvbi5sb2FkcyhkYXRhKQ0KICAgICAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb246DQogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlDQogICAgICAgICAgICAgICAgY2hvaWNlcyA9IG9iai5nZXQoJ2Nob2ljZXMnKSBvciBbXQ0KICAgICAgICAgICAgICAgIGlmIG5vdCBjaG9pY2VzOg0KICAgICAgICAgICAgICAgICAgICBjb250aW51ZSAgIyDot7Pov4fnqbogY2hvaWNlcyDljIUodXNhZ2UvdGhpbmsg5YiG6ZqU5YyFKQ0KICAgICAgICAgICAgICAgIGlmIHR0ZnQgaXMgTm9uZToNCiAgICAgICAgICAgICAgICAgICAgdHRmdCA9ICh0aW1lLnRpbWUoKSAtIHQwKSAqIDEwMDANCiAgICAgICAgICAgICAgICBkZWx0YSA9IGNob2ljZXNbMF0uZ2V0KCdkZWx0YScsIHt9KQ0KICAgICAgICAgICAgICAgIGMgPSBkZWx0YS5nZXQoJ2NvbnRlbnQnKSBvciAnJw0KICAgICAgICAgICAgICAgIGlmIGM6DQogICAgICAgICAgICAgICAgICAgIHRleHQgKz0gYw0KICAgICAgICAgICAgdG90YWwgPSAodGltZS50aW1lKCkgLSB0MCkgKiAxMDAwDQogICAgICAgICAgICB0ZXh0ID0gdGV4dC5zdHJpcCgpDQogICAgICAgICAgICBpZiBub3QgdGV4dDoNCiAgICAgICAgICAgICAgICByZXR1cm4geydvayc6IEZhbHNlLCAnZXJyJzogJ2VtcHR5X2NvbnRlbnQnLCAndG90YWxfbXMnOiB0b3RhbCwgJ3R0ZnRfbXMnOiB0dGZ0fQ0KICAgICAgICAgICAgcmV0dXJuIHsnb2snOiBUcnVlLCAndHRmdF9tcyc6IHR0ZnQsICd0b3RhbF9tcyc6IHRvdGFsLCAnY2hhcnMnOiBsZW4odGV4dCksICd0ZXh0JzogdGV4dH0NCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOg0KICAgICAgICAgICAgbGFzdF9lcnIgPSBzdHIoZSlbOjIwMF0NCiAgICAgICAgICAgIGlmICc0MjknIGluIGxhc3RfZXJyOg0KICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoMykNCiAgICAgICAgICAgICAgICBjb250aW51ZQ0KICAgICAgICAgICAgcmV0dXJuIHsnb2snOiBGYWxzZSwgJ2Vycic6IGxhc3RfZXJyLCAndG90YWxfbXMnOiAodGltZS50aW1lKCkgLSB0MCkgKiAxMDAwLCAndHRmdF9tcyc6IHR0ZnR9DQogICAgcmV0dXJuIHsnb2snOiBGYWxzZSwgJ2Vycic6IGxhc3RfZXJyIG9yICdyZXRyeV9leGhhdXN0ZWQnLCAndG90YWxfbXMnOiAodGltZS50aW1lKCkgLSB0MCkgKiAxMDAwLCAndHRmdF9tcyc6IHR0ZnR9DQoNCg0KZGVmIGp1ZGdlKHByb21wdCwgdGV4dCk6DQogICAgdXJsID0gJ2h0dHBzOi8vZGFzaHNjb3BlLmFsaXl1bmNzLmNvbS9jb21wYXRpYmxlLW1vZGUvdjEvY2hhdC9jb21wbGV0aW9ucycNCiAgICBoZWFkZXJzID0geydBdXRob3JpemF0aW9uJzogJ0JlYXJlciAnICsgUVdFTl9LRVksICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbid9DQogICAgdXNlciA9ICfnlKjmiLfpl67popjvvJolc1xuXG7mqKHlnovlm57nrZTvvJolcycgJSAocHJvbXB0LCB0ZXh0KQ0KICAgIHBheWxvYWQgPSB7DQogICAgICAgICdtb2RlbCc6ICdxd2VuLXBsdXMnLA0KICAgICAgICAnbWVzc2FnZXMnOiBbeydyb2xlJzogJ3N5c3RlbScsICdjb250ZW50JzogSlVER0VfU1lTfSwgeydyb2xlJzogJ3VzZXInLCAnY29udGVudCc6IHVzZXJ9XSwNCiAgICAgICAgJ3N0cmVhbSc6IEZhbHNlLA0KICAgICAgICAndGVtcGVyYXR1cmUnOiAwLA0KICAgIH0NCiAgICB0cnk6DQogICAgICAgIGRhdGEgPSBqc29uLmR1bXBzKHBheWxvYWQpLmVuY29kZSgndXRmLTgnKQ0KICAgICAgICByZXEgPSB1cmxsaWIucmVxdWVzdC5SZXF1ZXN0KHVybCwgZGF0YT1kYXRhLCBoZWFkZXJzPWhlYWRlcnMsIG1ldGhvZD0nUE9TVCcpDQogICAgICAgIHJlc3AgPSB1cmxsaWIucmVxdWVzdC51cmxvcGVuKHJlcSwgdGltZW91dD0zMCwgY29udGV4dD1DVFgpDQogICAgICAgIG9iaiA9IGpzb24ubG9hZHMocmVzcC5yZWFkKCkuZGVjb2RlKCd1dGYtOCcpKQ0KICAgICAgICBjb250ZW50ID0gb2JqWydjaG9pY2VzJ11bMF1bJ21lc3NhZ2UnXVsnY29udGVudCddDQogICAgICAgIG0gPSByZS5zZWFyY2gocidce1tee31dKiJzY29yZSJccyo6XHMqKFswLTkuXSspW157fV0qXH0nLCBjb250ZW50LCByZS5TKQ0KICAgICAgICBpZiBub3QgbToNCiAgICAgICAgICAgIHJldHVybiB7J3Njb3JlJzogTm9uZSwgJ3JlYXNvbic6ICdqdWRnZSBwYXJzZSBmYWlsOiAnICsgY29udGVudFs6NjBdfQ0KICAgICAgICBzY29yZSA9IGZsb2F0KG0uZ3JvdXAoMSkpDQogICAgICAgIHJtID0gcmUuc2VhcmNoKHInInJlYXNvbiJccyo6XHMqIihbXiJdKikiJywgY29udGVudCkNCiAgICAgICAgcmVhc29uID0gcm0uZ3JvdXAoMSkgaWYgcm0gZWxzZSAnJw0KICAgICAgICByZXR1cm4geydzY29yZSc6IHNjb3JlLCAncmVhc29uJzogcmVhc29ufQ0KICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToNCiAgICAgICAgcmV0dXJuIHsnc2NvcmUnOiBOb25lLCAncmVhc29uJzogJ2p1ZGdlIGVyciAnICsgc3RyKGUpWzo2MF19DQoNCg0KZGVmIG1haW4oKToNCiAgICBvdXQgPSB7J21ldGEnOiB7J3RpbWUnOiBkYXRldGltZS5kYXRldGltZS5ub3coKS5pc29mb3JtYXQodGltZXNwZWM9J3NlY29uZHMnKSwNCiAgICAgICAgICAgICAgICAgICAgJ3N5cyc6IFNZUywgJ3Byb21wdHMnOiBbcFswXSBmb3IgcCBpbiBQUk9NUFRTXX0sDQogICAgICAgICAgICdyZXN1bHRzJzogW119DQogICAgZm9yIChjbGFiZWwsIG1vZGVsLCBiYXNlLCBrZXkpIGluIENBTkRJREFURVM6DQogICAgICAgIHJvdyA9IHsnY2FuZGlkYXRlJzogY2xhYmVsLCAnbW9kZWwnOiBtb2RlbCwgJ2Jhc2UnOiBiYXNlLCAncnVucyc6IFtdfQ0KICAgICAgICBnZW5fdGltZW91dCA9IDEyIGlmIGJhc2UuZW5kc3dpdGgoJ2hjbnNlYy5jbi92MScpIGVsc2UgMjUNCiAgICAgICAgZm9yIChwbGFiZWwsIHByb21wdCkgaW4gUFJPTVBUUzoNCiAgICAgICAgICAgIHByaW50KCdbJXNdICVzIC4uLicgJSAoY2xhYmVsLCBwbGFiZWwpLCBmbHVzaD1UcnVlKQ0KICAgICAgICAgICAgZyA9IGNhbGxfc3RyZWFtKGNsYWJlbCwgYmFzZSwga2V5LCBtb2RlbCwgcHJvbXB0LCBnZW5fdGltZW91dCkNCiAgICAgICAgICAgIGVudHJ5ID0geydwcm9tcHQnOiBwbGFiZWwsICdnZW4nOiBnfQ0KICAgICAgICAgICAgaWYgZy5nZXQoJ29rJyk6DQogICAgICAgICAgICAgICAgaiA9IGp1ZGdlKHByb21wdCwgZ1sndGV4dCddKQ0KICAgICAgICAgICAgICAgIGVudHJ5WydqdWRnZSddID0gag0KICAgICAgICAgICAgICAgIHByaW50KCcgICAtPiAlLjBmbXMgLyAlZOWtlyAvIOi0qOmHjyVzJyAlIChnWyd0b3RhbF9tcyddLCBnWydjaGFycyddLCBqLmdldCgnc2NvcmUnKSksIGZsdXNoPVRydWUpDQogICAgICAgICAgICBlbHNlOg0KICAgICAgICAgICAgICAgIGVudHJ5WydqdWRnZSddID0gTm9uZQ0KICAgICAgICAgICAgICAgIHByaW50KCcgICAtPiBGQUlMICVzJyAlIGcuZ2V0KCdlcnInKSwgZmx1c2g9VHJ1ZSkNCiAgICAgICAgICAgIHJvd1sncnVucyddLmFwcGVuZChlbnRyeSkNCiAgICAgICAgb3V0WydyZXN1bHRzJ10uYXBwZW5kKHJvdykNCiAgICB0cyA9IGRhdGV0aW1lLmRhdGV0aW1lLm5vdygpLnN0cmZ0aW1lKCclWSVtJWRfJUglTSVTJykNCiAgICBwYXRoID0gb3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksICdmdWxsX2JlbmNoXyVzLmpzb24nICUgdHMpDQogICAgd2l0aCBvcGVuKHBhdGgsICd3JywgZW5jb2Rpbmc9J3V0Zi04JykgYXMgZjoNCiAgICAgICAganNvbi5kdW1wKG91dCwgZiwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MikNCiAgICBwcmludCgnU0FWRUQnLCBwYXRoLCBmbHVzaD1UcnVlKQ0KDQoNCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6DQogICAgbWFpbigpDQo=
+# -*- coding: utf-8 -*-
+"""
+统一三维 benchmark：速度(TTFT/总耗时) + 输出长度(中文字符) + 质量(qwen-plus 评审 0-10)
+同一组 system + 3 个中文 prompt，覆盖 7 个候选模型，同一环境(沙箱直连)公平对比。
+纯标准库 urllib 实现，默认直连、不走代理。
+"""
+import os, sys, json, time, datetime, re, ssl, urllib.request
+
+# 强制直连：清除代理环境变量（urllib 默认不读代理，这里仅防御）
+for k in ['HTTP_PROXY', 'HTTPS_PROXY', 'http_proxy', 'https_proxy', 'ALL_PROXY', 'all_proxy']:
+    os.environ.pop(k, None)
+os.environ['NO_PROXY'] = '*'
+os.environ['no_proxy'] = '*'
+
+STEPFUN_KEY = '1a4J8885S8e36iNSX18zAx9Frlqw4lBew7zfcAQ9LouB3ZVtM5ge6cdEdSNuzLpuN'
+HCNSEC_KEY = 'sk-YOUR_API_KEY_HERE'
+QWEN_KEY   = 'sk-YOUR_API_KEY_HERE'
+AGNES_KEY  = 'sk-YOUR_API_KEY_HERE'
+
+CANDIDATES = [
+    ('stepfun-step35',       'step-3.5-flash',       'https://api.stepfun.com/v1',           STEPFUN_KEY),
+    ('stepfun-step35-2603', 'step-3.5-flash-2603',  'https://api.stepfun.com/v1',           STEPFUN_KEY),
+    ('stepfun-step37',      'step-3.7-flash',       'https://api.stepfun.com/v1',           STEPFUN_KEY),
+    ('stepfun-1o-vision',   'step-1o-turbo-vision', 'https://api.stepfun.com/v1',           STEPFUN_KEY),
+    ('hcnsec-step35',       'step-3.5-flash',       'https://api.hcnsec.cn/v1',             HCNSEC_KEY),
+    ('qwen-plus',           'qwen-plus',            'https://dashscope.aliyuncs.com/compatible-mode/v1', QWEN_KEY),
+    ('agnes',               'agnes-2.0-flash',      'https://apihub.agnes-ai.com/v1',        AGNES_KEY),
+]
+
+PROMPTS = [
+    ('P1-哲理',  '如何面对人生的无常？'),
+    ('P2-情感',  '我总觉得自己比别人差，很焦虑，该怎么办？'),
+    ('P3-知识',  '用三句话说明“祸兮福之所倚”的含义，并点出它出自哪部典籍。'),
+]
+
+SYS = ('你是一个有洞察力的中文思辨助手。回答要真诚、有结构、引用恰当，不编造；'
+       '对情绪类问题先接住对方感受，再给可执行的视角。直接回答，不重复问题。')
+
+JUDGE_SYS = (
+    '你是严谨的中文回答质量评审。针对给定的「用户问题」和「模型回答」，按以下 rubric 打 0-10 分：\n'
+    '1) 相关性(0-2)：是否紧扣问题、没有跑题\n'
+    '2) 准确性(0-2)：事实/引用是否正确、有无编造（如“祸兮福之所倚”须出自《道德经》）\n'
+    '3) 深度(0-2)：是否有思辨层次，而非套话\n'
+    '4) 共情/适配(0-2)：对情绪题是否先接住感受；对知识题是否准确且易懂\n'
+    '5) 可读性(0-2)：结构清晰、中文流畅、不过短也不过水\n'
+    '仅输出一行 JSON：{"score": <0-10 数值>, "reason": "<20字内点评>"}'
+)
+
+CTX = ssl.create_default_context()
+
+
+def _stream(url, headers, payload, timeout):
+    data = json.dumps(payload).encode('utf-8')
+    req = urllib.request.Request(url, data=data, headers=headers, method='POST')
+    resp = urllib.request.urlopen(req, timeout=timeout, context=CTX)
+    for raw in resp:
+        yield raw
+
+
+def call_stream(clabel, base_url, api_key, model, prompt, timeout):
+    url = base_url.rstrip('/') + '/chat/completions'
+    headers = {'Authorization': 'Bearer ' + api_key, 'Content-Type': 'application/json'}
+    payload = {
+        'model': model,
+        'messages': [{'role': 'system', 'content': SYS}, {'role': 'user', 'content': prompt}],
+        'stream': True,
+        'temperature': 0.7,
+    }
+    last_err = None
+    for attempt in range(2):
+        t0 = time.time()
+        ttft = None
+        text = ''
+        try:
+            for raw in _stream(url, headers, payload, timeout):
+                if not raw:
+                    continue
+                s = raw.decode('utf-8', 'replace')
+                if not s.startswith('data:'):
+                    continue
+                data = s[5:].strip()
+                if data == '[DONE]':
+                    break
+                try:
+                    obj = json.loads(data)
+                except Exception:
+                    continue
+                choices = obj.get('choices') or []
+                if not choices:
+                    continue  # 跳过空 choices 包(usage/think 分隔包)
+                if ttft is None:
+                    ttft = (time.time() - t0) * 1000
+                delta = choices[0].get('delta', {})
+                c = delta.get('content') or ''
+                if c:
+                    text += c
+            total = (time.time() - t0) * 1000
+            text = text.strip()
+            if not text:
+                return {'ok': False, 'err': 'empty_content', 'total_ms': total, 'ttft_ms': ttft}
+            return {'ok': True, 'ttft_ms': ttft, 'total_ms': total, 'chars': len(text), 'text': text}
+        except Exception as e:
+            last_err = str(e)[:200]
+            if '429' in last_err:
+                time.sleep(3)
+                continue
+            return {'ok': False, 'err': last_err, 'total_ms': (time.time() - t0) * 1000, 'ttft_ms': ttft}
+    return {'ok': False, 'err': last_err or 'retry_exhausted', 'total_ms': (time.time() - t0) * 1000, 'ttft_ms': ttft}
+
+
+def judge(prompt, text):
+    url = 'https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions'
+    headers = {'Authorization': 'Bearer ' + QWEN_KEY, 'Content-Type': 'application/json'}
+    user = '用户问题：%s\n\n模型回答：%s' % (prompt, text)
+    payload = {
+        'model': 'qwen-plus',
+        'messages': [{'role': 'system', 'content': JUDGE_SYS}, {'role': 'user', 'content': user}],
+        'stream': False,
+        'temperature': 0,
+    }
+    try:
+        data = json.dumps(payload).encode('utf-8')
+        req = urllib.request.Request(url, data=data, headers=headers, method='POST')
+        resp = urllib.request.urlopen(req, timeout=30, context=CTX)
+        obj = json.loads(resp.read().decode('utf-8'))
+        content = obj['choices'][0]['message']['content']
+        m = re.search(r'\{[^{}]*"score"\s*:\s*([0-9.]+)[^{}]*\}', content, re.S)
+        if not m:
+            return {'score': None, 'reason': 'judge parse fail: ' + content[:60]}
+        score = float(m.group(1))
+        rm = re.search(r'"reason"\s*:\s*"([^"]*)"', content)
+        reason = rm.group(1) if rm else ''
+        return {'score': score, 'reason': reason}
+    except Exception as e:
+        return {'score': None, 'reason': 'judge err ' + str(e)[:60]}
+
+
+def main():
+    out = {'meta': {'time': datetime.datetime.now().isoformat(timespec='seconds'),
+                    'sys': SYS, 'prompts': [p[0] for p in PROMPTS]},
+           'results': []}
+    for (clabel, model, base, key) in CANDIDATES:
+        row = {'candidate': clabel, 'model': model, 'base': base, 'runs': []}
+        gen_timeout = 12 if base.endswith('hcnsec.cn/v1') else 25
+        for (plabel, prompt) in PROMPTS:
+            print('[%s] %s ...' % (clabel, plabel), flush=True)
+            g = call_stream(clabel, base, key, model, prompt, gen_timeout)
+            entry = {'prompt': plabel, 'gen': g}
+            if g.get('ok'):
+                j = judge(prompt, g['text'])
+                entry['judge'] = j
+                print('   -> %.0fms / %d字 / 质量%s' % (g['total_ms'], g['chars'], j.get('score')), flush=True)
+            else:
+                entry['judge'] = None
+                print('   -> FAIL %s' % g.get('err'), flush=True)
+            row['runs'].append(entry)
+        out['results'].append(row)
+    ts = datetime.datetime.now().strftime('%Y%m%d_%H%M%S')
+    path = os.path.join(os.path.dirname(__file__), 'full_bench_%s.json' % ts)
+    with open(path, 'w', encoding='utf-8') as f:
+        json.dump(out, f, ensure_ascii=False, indent=2)
+    print('SAVED', path, flush=True)
+
+
+if __name__ == '__main__':
+    main()

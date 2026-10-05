@@ -1,1 +1,160 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIE9ic2VydmFiaWxpdHlMb2dnZXIg4oCUIOingua1i+iusOW9leaehOW7uiArIOW8guatpeiQveW6k++8iFBoYXNlIFAr77yJCi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQovLyDmiormr4/mrKHnlKjmiLfor7fmsYLnmoTlhbPplK7ov5DooYzml7bkuovlrp7orrDlvZXkuLrkuIDmnaHop4LmtYvorrDlvZXvvIzkvpsgRGFzaGJvYXJkIC8KLy8gSGVhbHRoIFNjb3JlIC8gQWxlcnQg5raI6LS544CC6K6+6K6h5Y6f5YiZ77yI5a+56b2Q55So5oi357qm5p2f77yJ77yaCi8vICAgwrcg5LiN5b2x5ZON5Zue562U6ZO+6Lev77ya5pys5qih5Z2X5ZyoIGdlbmVyYXRlQW5zd2VyIOi/lOWbnuWQjuiwg+eUqO+8jOWPquivuyByZXN1bHTjgIIKLy8gICDCtyDlpLHotKXkuI3og73pmLvmlq3lm57nrZTvvJpzdG9yZS53cml0ZSDmsLjkuI3mipvlh7rvvJtmaXJlLWFuZC1mb3JnZXTjgIIKLy8gICDCtyDlvILmraXlhpnlhaXkvJjlhYjvvJrkuI0gYXdhaXQg6JC95bqT77yM5Li75rWB56iL56uL5Y2z6L+U5Zue44CCCi8vICAgwrcg5Y+q6K+76LCD55So55+l6K+G6Lev55Sx77ya6YCa6L+HIHJlcXVpcmUoJy4uL2tub3dsZWRnZVJvdXRlcicpLnJvdXRlUXVlc3Rpb24KLy8gICAgIOWkjeeul+i3r+eUseWGs+etlueUqOS6juingua1i++8iOiwg+eUqOWGu+e7k+e6r+WHveaVsO+8jOmdnuS/ruaUue+8ieOAggovLwovLyDmlbDmja7mtYHvvJpBbnN3ZXIgUnVudGltZSDihpIgT2JzZXJ2YWJpbGl0eSBMb2dnZXIg4oaSIFN0b3JhZ2UKLy8KLy8gZG9jcy82MiDCpzkg5Y2B5LqM5a2X5q615aWR57qm6KaG55uW5bqm77yIUGhhc2Ug4pGlIOa1i+ivlemUgeWumu+8jOivmuWunuiusOW9le+8ie+8mgovLyAgIOKchSDlt7LokL3lupMoNinvvJprbm93bGVkZ2VfdHlwZSAvIGZhbGxiYWNrX3JlYXNvbiAvIGRvbWFpbiAvIGludGVudCAvCi8vICAgICAgICAgICAgICAgIHBvbGljeV9uYW1lIC8gcm91dGVyX2VuYWJsZWQKLy8gICDil5Ag562J5Lu36KaG55uWKDEp77yaY2l0YXRpb25fc291cmNlIOKJiCByZXRyaWV2YWxfcmVzdWx077yI5qCH6aKY5YiX6KGo77yM6Z2eIGRpc3BsYXlfdGV4dO+8iQovLyAgIOKdjCDmnKropobnm5YoNSnvvJpyZXRyaWV2YWxfbW9kZSAvIHJvdXRlcl9hZGp1c3RtZW50IC8gcmVyYW5rX3Njb3JlIC8KLy8gICAgICAgICAgICAgICAgY2h1bmtfaWQgLyB2ZWN0b3Jfc2NvcmUKLy8gICDmnKropobnm5bpobnlnYfkvY3kuo4qKuWGu+e7k+eahCByYWcuanMg5qOA57Si5YaF6YOoKirvvIzlj5blgLzlv4XpobvlnKggcmFnLmpzIOWGhemDqOWfi+eCue+8jAovLyAgIOS4jiBQaGFzZSBQK+OAjOmbtuWGu+e7k+i1hOS6p+aUueWKqOOAjee6puadn+WGsueqgSDihpIg5piO56Gu5o6o6L+f6IezIFBoYXNlIFEg5aSE55CG44CCCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQoKJ3VzZSBzdHJpY3QnOwoKLy8g5Y+q6K+76LCD55So5Ya757uT55qEIEtub3dsZWRnZSBSb3V0ZXLvvIzlpI3nrpfot6/nlLHlhrPnrZbnlKjkuo7op4LmtYvvvIjpnZ7kv67mlLnvvIkKbGV0IF9yb3V0ZVF1ZXN0aW9uID0gbnVsbDsKZnVuY3Rpb24gZ2V0Um91dGVRdWVzdGlvbigpIHsKICBpZiAoX3JvdXRlUXVlc3Rpb24pIHJldHVybiBfcm91dGVRdWVzdGlvbjsKICB0cnkgewogICAgY29uc3Qga3IgPSByZXF1aXJlKCcuLi9rbm93bGVkZ2VSb3V0ZXInKTsKICAgIF9yb3V0ZVF1ZXN0aW9uID0ga3IgJiYga3Iucm91dGVRdWVzdGlvbjsKICB9IGNhdGNoIChlKSB7CiAgICBfcm91dGVRdWVzdGlvbiA9IG51bGw7CiAgfQogIHJldHVybiBfcm91dGVRdWVzdGlvbjsKfQoKLyoqIOmAieaLqeWtmOWCqOWunueOsO+8muS6keerr+aYvuW8j+W8gOWQr+eUqCBDbG91ZO+8jOWQpuWImem7mOiupCBKU09O77yI5Y+v5rWL44CB6ZmN57qn77yJICovCmZ1bmN0aW9uIGNyZWF0ZURlZmF1bHRTdG9yZSgpIHsKICBpZiAocHJvY2Vzcy5lbnYuS05PV0xFREdFX09CU0VSVkFCSUxJVFlfU1RPUkUgPT09ICdjbG91ZCcpIHsKICAgIHRyeSB7CiAgICAgIGNvbnN0IHsgQ2xvdWRPYnNlcnZhYmlsaXR5U3RvcmUgfSA9IHJlcXVpcmUoJy4vY2xvdWRPYnNlcnZhYmlsaXR5U3RvcmUnKTsKICAgICAgcmV0dXJuIG5ldyBDbG91ZE9ic2VydmFiaWxpdHlTdG9yZSgpOwogICAgfSBjYXRjaCAoZSkgewogICAgICAvKiDlm57pgIAgSlNPTiAqLwogICAgfQogIH0KICBjb25zdCB7IEpzb25PYnNlcnZhYmlsaXR5U3RvcmUgfSA9IHJlcXVpcmUoJy4vanNvbk9ic2VydmFiaWxpdHlTdG9yZScpOwogIHJldHVybiBuZXcgSnNvbk9ic2VydmFiaWxpdHlTdG9yZSgpOwp9CgovKiog5p6E5bu65LiA5p2h6KeC5rWL6K6w5b2V77yI57qv5Ye95pWw77yM5L6/5LqO5Y2V5rWL77yJICovCmZ1bmN0aW9uIGJ1aWxkT2JzZXJ2YXRpb25SZWNvcmQob3B0cykgewogIG9wdHMgPSBvcHRzIHx8IHt9OwogIGNvbnN0IHJlc3VsdCA9IG9wdHMucmVzdWx0IHx8IHt9OwogIGNvbnN0IGNpdGF0aW9ucyA9IEFycmF5LmlzQXJyYXkocmVzdWx0LmNpdGF0aW9ucykgPyByZXN1bHQuY2l0YXRpb25zIDogW107CiAgY29uc3QgaW50ZW50ID0gb3B0cy5pbnRlbnQgfHwge307CgogIC8vIOWPquivu+Wkjeeul+i3r+eUseWGs+etlu+8iGtub3dsZWRnZVJvdXRlci5yb3V0ZVF1ZXN0aW9uIOaYr+WGu+e7k+e6r+WHveaVsO+8iQogIGxldCByb3V0ZXJEZWNpc2lvbiA9IG51bGw7CiAgY29uc3QgcnEgPSBnZXRSb3V0ZVF1ZXN0aW9uKCk7CiAgaWYgKHJxKSB7CiAgICB0cnkgewogICAgICByb3V0ZXJEZWNpc2lvbiA9IHJxKHsKICAgICAgICBpbnRlbnRJbmZvOiBpbnRlbnQsCiAgICAgICAgZG9tYWluOiBpbnRlbnQuZG9tYWluLAogICAgICAgIHF1ZXN0aW9uOiBvcHRzLnF1ZXJ5LAogICAgICB9KTsKICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgcm91dGVyRGVjaXNpb24gPSBudWxsOwogICAgfQogIH0KCiAgY29uc3Qga25vd2xlZGdlVHlwZXMgPSBbXTsKICBjaXRhdGlvbnMuZm9yRWFjaCgoYykgPT4gewogICAgY29uc3QgdCA9IChjICYmIGMua25vd2xlZGdlX3R5cGUpIHx8ICdjbGFzc2ljJzsKICAgIGlmIChrbm93bGVkZ2VUeXBlcy5pbmRleE9mKHQpIDwgMCkga25vd2xlZGdlVHlwZXMucHVzaCh0KTsKICB9KTsKCiAgcmV0dXJuIHsKICAgIHF1ZXJ5OiBvcHRzLnF1ZXJ5IHx8ICcnLAogICAgYW5zd2VyX2lkOiBvcHRzLmFuc3dlcklkIHx8ICcnLAogICAgY29udmVyc2F0aW9uX2lkOiBvcHRzLmNvbnZlcnNhdGlvbklkIHx8ICcnLAogICAgb3BlbmlkOiBvcHRzLm9wZW5pZCB8fCAndW5rbm93bicsCiAgICAvLyAtLS0gZG9jcy82MiDCpzkg5aWR57qm5a2X5q6177yI5Y+v5LuO5YWl5Y+C6Zu25oiQ5pys6I635Y+W55qE6YOo5YiG77yJLS0tCiAgICBkb21haW46IGludGVudC5kb21haW4gIT09IHVuZGVmaW5lZCA/IGludGVudC5kb21haW4gOiBudWxsLAogICAgaW50ZW50OiBpbnRlbnQudHlwZSAhPT0gdW5kZWZpbmVkID8gaW50ZW50LnR5cGUgOiBudWxsLAogICAgcG9saWN5X25hbWU6IGludGVudC5rbm93bGVkZ2VQb2xpY3kgIT09IHVuZGVmaW5lZCA/IGludGVudC5rbm93bGVkZ2VQb2xpY3kgOiBudWxsLAogICAgcm91dGVyX2VuYWJsZWQ6IChwcm9jZXNzLmVudi5LQl9ST1VURVJfRU5BQkxFRCB8fCAndHJ1ZScpLnRvTG93ZXJDYXNlKCkgIT09ICdmYWxzZScsCiAgICByb3V0ZXJfZGVjaXNpb246IHJvdXRlckRlY2lzaW9uCiAgICAgID8gewogICAgICAgICAgcHJpb3JpdHlEb21haW5zOiByb3V0ZXJEZWNpc2lvbi5wcmlvcml0eURvbWFpbnMsCiAgICAgICAgICBrbm93bGVkZ2VQcmlvcml0eTogcm91dGVyRGVjaXNpb24ua25vd2xlZGdlUHJpb3JpdHksCiAgICAgICAgICBwcmVmZXJyZWRUeXBlczogcm91dGVyRGVjaXNpb24ucHJlZmVycmVkVHlwZXMsCiAgICAgICAgICByZWFzb246IHJvdXRlckRlY2lzaW9uLnJlYXNvbiwKICAgICAgICB9CiAgICAgIDogbnVsbCwKICAgIGZhbGxiYWNrX3JlYXNvbjogcm91dGVyRGVjaXNpb24gPyByb3V0ZXJEZWNpc2lvbi5yZWFzb24gOiBudWxsLAogICAga25vd2xlZGdlX3R5cGU6IGtub3dsZWRnZVR5cGVzLAogICAgcmV0cmlldmFsX3Jlc3VsdDogY2l0YXRpb25zLm1hcCgoYykgPT4gKGMgJiYgYy50aXRsZSkgfHwgJycpLAogICAgY2l0YXRpb25fY291bnQ6IGNpdGF0aW9ucy5sZW5ndGgsCiAgICBsYXRlbmN5X21zOiB0eXBlb2Ygb3B0cy5sYXRlbmN5TXMgPT09ICdudW1iZXInID8gb3B0cy5sYXRlbmN5TXMgOiBudWxsLAogICAgLy8gUGhhc2UgUe+8mkZyZXNobmVzcyBMYXllciDop4LmtYvlrZfmrrXvvIjlop7ph4/vvIzpnZ7ng63ngrnot6/lvoTmgZLkuLogbnVsbO+8jOWQkeWQjuWFvOWuue+8iQogICAgZnJlc2huZXNzOiByZXN1bHQuZnJlc2huZXNzCiAgICAgID8gewogICAgICAgICAgY2F0ZWdvcnk6IHJlc3VsdC5mcmVzaG5lc3MuY2F0ZWdvcnkgfHwgbnVsbCwKICAgICAgICAgIHVzZXJfaW50ZW50OiByZXN1bHQuZnJlc2huZXNzLnVzZXJfaW50ZW50IHx8IG51bGwsCiAgICAgICAgICBldmVudF9zdGF0dXM6IHJlc3VsdC5mcmVzaG5lc3MuZXZlbnRfc3RhdHVzIHx8IG51bGwsCiAgICAgICAgICBzb3VyY2VfY29uZmlkZW5jZTogcmVzdWx0LmZyZXNobmVzcy5zb3VyY2VfY29uZmlkZW5jZSB8fCBudWxsLAogICAgICAgICAgZG93bmdyYWRlZDogISFyZXN1bHQuZnJlc2huZXNzLmRvd25ncmFkZWQsCiAgICAgICAgICBkb3duZ3JhZGVfcmVhc29uOiByZXN1bHQuZnJlc2huZXNzLmRvd25ncmFkZV9yZWFzb24gfHwgbnVsbCwKICAgICAgICAgIGJvdW5kYXJ5OiByZXN1bHQuZnJlc2huZXNzLmJvdW5kYXJ5IHx8IG51bGwsIC8vIFEwIMKnMy4077yaZXZlbnRfaWQvbGV2ZWwvc2lnbmFscy90aW1lc3RhbXAKICAgICAgICAgIGd1YXJkX3Zpb2xhdGlvbnM6IHJlc3VsdC5mcmVzaG5lc3MuZ3VhcmRfdmlvbGF0aW9ucyB8fCBbXSwKICAgICAgICB9CiAgICAgIDogbnVsbCwKICAgIC8vIFBoYXNlIFLvvJpDYXBhYmlsaXR5IExheWVyIOingua1i+Wtl+aute+8iOWinumHj++8jOmdnuW3peWFt+i3r+W+hOaBkuS4uiBudWxs77yM5ZCR5ZCO5YW85a6577yJCiAgICAvLyDpmpDnp4HvvJrkvY3nva7nsbvlj6rorrDlvZXog73lipvlkI3kuI7mjojmnYPnirbmgIHvvIznu53kuI3okL3lupPlnZDmoIcv5Zyw5Z2A5piO5paH44CCCiAgICBjYXBhYmlsaXR5OiByZXN1bHQuY2FwYWJpbGl0eQogICAgICA/IHsKICAgICAgICAgIG5hbWU6IHJlc3VsdC5jYXBhYmlsaXR5LmNhcGFiaWxpdHkgfHwgbnVsbCwKICAgICAgICAgIHN1Yl90eXBlOiByZXN1bHQuY2FwYWJpbGl0eS5zdWJfdHlwZSB8fCBudWxsLAogICAgICAgICAgY29uZmlkZW5jZTogcmVzdWx0LmNhcGFiaWxpdHkuY29uZmlkZW5jZSB8fCBudWxsLAogICAgICAgICAgc2lnbmFsczogcmVzdWx0LmNhcGFiaWxpdHkuc2lnbmFscyB8fCBbXSwKICAgICAgICAgIGVtb3Rpb25hbDogISFyZXN1bHQuY2FwYWJpbGl0eS5lbW90aW9uYWwsCiAgICAgICAgICB0b29sX29rOiAhIXJlc3VsdC5jYXBhYmlsaXR5LnRvb2xfb2ssCiAgICAgICAgICB0b29sX3JlYXNvbjogcmVzdWx0LmNhcGFiaWxpdHkudG9vbF9yZWFzb24gfHwgbnVsbCwKICAgICAgICAgIGJ5cGFzc19yYWc6ICEhcmVzdWx0LmNhcGFiaWxpdHkuYnlwYXNzX3JhZywKICAgICAgICAgIGhhc19pbnZpdGU6ICEhcmVzdWx0LmNhcGFiaWxpdHkuaGFzX2ludml0ZSwKICAgICAgICB9CiAgICAgIDogbnVsbCwKICAgIGNyZWF0ZWRfYXQ6IG5ldyBEYXRlKCkudG9JU09TdHJpbmcoKSwKICB9Owp9CgovKioKICog6K6w5b2V5LiA5qyh6KeC5rWL44CCZmlyZS1hbmQtZm9yZ2V077yM57ud5LiN6Zi75aGeL+aKm+mUmeWIsOS4u+mTvui3r+OAggogKiBAcGFyYW0ge29iamVjdH0gb3B0cyB7IHF1ZXJ5LCBhbnN3ZXJJZCwgY29udmVyc2F0aW9uSWQsIHJlc3VsdCwgaW50ZW50LCBsYXRlbmN5TXMsIG9wZW5pZCwgc3RvcmU/IH0KICogQHJldHVybnMge29iamVjdH0g5p6E5bu65aW955qE6K6w5b2V77yI5Y2z5L2/6JC95bqT5aSx6LSl5Lmf6L+U5Zue77yM5L6/5LqO5rWL6K+V77yJCiAqLwpmdW5jdGlvbiBsb2dPYnNlcnZhdGlvbihvcHRzKSB7CiAgY29uc3QgcmVjb3JkID0gYnVpbGRPYnNlcnZhdGlvblJlY29yZChvcHRzKTsKICBjb25zdCBzdG9yZSA9IChvcHRzICYmIG9wdHMuc3RvcmUpIHx8IGNyZWF0ZURlZmF1bHRTdG9yZSgpOwogIHRyeSB7CiAgICAvLyDlvILmraXlhpnlhaXkvJjlhYggKyDlpLHotKXlronlhajvvJrkuI0gYXdhaXTvvIzplJnor6/ku4XorrDlvZUKICAgIFByb21pc2UucmVzb2x2ZShzdG9yZS53cml0ZShyZWNvcmQpKS5jYXRjaCgoZSkgPT4gewogICAgICBjb25zb2xlLmVycm9yKCdbT2JzZXJ2YWJpbGl0eUxvZ2dlcl0gc3RvcmUud3JpdGUgZmFpbGVkOicsIGUgJiYgZS5tZXNzYWdlKTsKICAgIH0pOwogIH0gY2F0Y2ggKGUpIHsKICAgIC8vIOaegeerr+aDheWGteS4iyBzdG9yZS53cml0ZSDlkIzmraXmipvplJnkuZ/kuI3lvbHlk43kuLvmtYHnqIsKICAgIGNvbnNvbGUuZXJyb3IoJ1tPYnNlcnZhYmlsaXR5TG9nZ2VyXSB1bmV4cGVjdGVkIGVycm9yOicsIGUgJiYgZS5tZXNzYWdlKTsKICB9CiAgcmV0dXJuIHJlY29yZDsKfQoKbW9kdWxlLmV4cG9ydHMgPSB7CiAgbG9nT2JzZXJ2YXRpb24sCiAgYnVpbGRPYnNlcnZhdGlvblJlY29yZCwKICBjcmVhdGVEZWZhdWx0U3RvcmUsCn07Cg==
+// ============================================================
+// ObservabilityLogger — 观测记录构建 + 异步落库（Phase P+）
+// ------------------------------------------------------------
+// 把每次用户请求的关键运行时事实记录为一条观测记录，供 Dashboard /
+// Health Score / Alert 消费。设计原则（对齐用户约束）：
+//   · 不影响回答链路：本模块在 generateAnswer 返回后调用，只读 result。
+//   · 失败不能阻断回答：store.write 永不抛出；fire-and-forget。
+//   · 异步写入优先：不 await 落库，主流程立即返回。
+//   · 只读调用知识路由：通过 require('../knowledgeRouter').routeQuestion
+//     复算路由决策用于观测（调用冻结纯函数，非修改）。
+//
+// 数据流：Answer Runtime → Observability Logger → Storage
+//
+// docs/62 §9 十二字段契约覆盖度（Phase ⑥ 测试锁定，诚实记录）：
+//   ✅ 已落库(6)：knowledge_type / fallback_reason / domain / intent /
+//                policy_name / router_enabled
+//   ◐ 等价覆盖(1)：citation_source ≈ retrieval_result（标题列表，非 display_text）
+//   ❌ 未覆盖(5)：retrieval_mode / router_adjustment / rerank_score /
+//                chunk_id / vector_score
+//   未覆盖项均位于**冻结的 rag.js 检索内部**，取值必须在 rag.js 内部埋点，
+//   与 Phase P+「零冻结资产改动」约束冲突 → 明确推迟至 Phase Q 处理。
+// ============================================================
+
+'use strict';
+
+// 只读调用冻结的 Knowledge Router，复算路由决策用于观测（非修改）
+let _routeQuestion = null;
+function getRouteQuestion() {
+  if (_routeQuestion) return _routeQuestion;
+  try {
+    const kr = require('../knowledgeRouter');
+    _routeQuestion = kr && kr.routeQuestion;
+  } catch (e) {
+    _routeQuestion = null;
+  }
+  return _routeQuestion;
+}
+
+/** 选择存储实现：云端显式开启用 Cloud，否则默认 JSON（可测、降级） */
+function createDefaultStore() {
+  if (process.env.KNOWLEDGE_OBSERVABILITY_STORE === 'cloud') {
+    try {
+      const { CloudObservabilityStore } = require('./cloudObservabilityStore');
+      return new CloudObservabilityStore();
+    } catch (e) {
+      /* 回退 JSON */
+    }
+  }
+  const { JsonObservabilityStore } = require('./jsonObservabilityStore');
+  return new JsonObservabilityStore();
+}
+
+/** 构建一条观测记录（纯函数，便于单测） */
+function buildObservationRecord(opts) {
+  opts = opts || {};
+  const result = opts.result || {};
+  const citations = Array.isArray(result.citations) ? result.citations : [];
+  const intent = opts.intent || {};
+
+  // 只读复算路由决策（knowledgeRouter.routeQuestion 是冻结纯函数）
+  let routerDecision = null;
+  const rq = getRouteQuestion();
+  if (rq) {
+    try {
+      routerDecision = rq({
+        intentInfo: intent,
+        domain: intent.domain,
+        question: opts.query,
+      });
+    } catch (e) {
+      routerDecision = null;
+    }
+  }
+
+  const knowledgeTypes = [];
+  citations.forEach((c) => {
+    const t = (c && c.knowledge_type) || 'classic';
+    if (knowledgeTypes.indexOf(t) < 0) knowledgeTypes.push(t);
+  });
+
+  return {
+    query: opts.query || '',
+    answer_id: opts.answerId || '',
+    conversation_id: opts.conversationId || '',
+    openid: opts.openid || 'unknown',
+    // --- docs/62 §9 契约字段（可从入参零成本获取的部分）---
+    domain: intent.domain !== undefined ? intent.domain : null,
+    intent: intent.type !== undefined ? intent.type : null,
+    policy_name: intent.knowledgePolicy !== undefined ? intent.knowledgePolicy : null,
+    router_enabled: (process.env.KB_ROUTER_ENABLED || 'true').toLowerCase() !== 'false',
+    router_decision: routerDecision
+      ? {
+          priorityDomains: routerDecision.priorityDomains,
+          knowledgePriority: routerDecision.knowledgePriority,
+          preferredTypes: routerDecision.preferredTypes,
+          reason: routerDecision.reason,
+        }
+      : null,
+    fallback_reason: routerDecision ? routerDecision.reason : null,
+    knowledge_type: knowledgeTypes,
+    retrieval_result: citations.map((c) => (c && c.title) || ''),
+    citation_count: citations.length,
+    latency_ms: typeof opts.latencyMs === 'number' ? opts.latencyMs : null,
+    // Phase Q：Freshness Layer 观测字段（增量，非热点路径恒为 null，向后兼容）
+    freshness: result.freshness
+      ? {
+          category: result.freshness.category || null,
+          user_intent: result.freshness.user_intent || null,
+          event_status: result.freshness.event_status || null,
+          source_confidence: result.freshness.source_confidence || null,
+          downgraded: !!result.freshness.downgraded,
+          downgrade_reason: result.freshness.downgrade_reason || null,
+          boundary: result.freshness.boundary || null, // Q0 §3.4：event_id/level/signals/timestamp
+          guard_violations: result.freshness.guard_violations || [],
+        }
+      : null,
+    // Phase R：Capability Layer 观测字段（增量，非工具路径恒为 null，向后兼容）
+    // 隐私：位置类只记录能力名与授权状态，绝不落库坐标/地址明文。
+    capability: result.capability
+      ? {
+          name: result.capability.capability || null,
+          sub_type: result.capability.sub_type || null,
+          confidence: result.capability.confidence || null,
+          signals: result.capability.signals || [],
+          emotional: !!result.capability.emotional,
+          tool_ok: !!result.capability.tool_ok,
+          tool_reason: result.capability.tool_reason || null,
+          bypass_rag: !!result.capability.bypass_rag,
+          has_invite: !!result.capability.has_invite,
+        }
+      : null,
+    created_at: new Date().toISOString(),
+  };
+}
+
+/**
+ * 记录一次观测。fire-and-forget，绝不阻塞/抛错到主链路。
+ * @param {object} opts { query, answerId, conversationId, result, intent, latencyMs, openid, store? }
+ * @returns {object} 构建好的记录（即使落库失败也返回，便于测试）
+ */
+function logObservation(opts) {
+  const record = buildObservationRecord(opts);
+  const store = (opts && opts.store) || createDefaultStore();
+  try {
+    // 异步写入优先 + 失败安全：不 await，错误仅记录
+    Promise.resolve(store.write(record)).catch((e) => {
+      console.error('[ObservabilityLogger] store.write failed:', e && e.message);
+    });
+  } catch (e) {
+    // 极端情况下 store.write 同步抛错也不影响主流程
+    console.error('[ObservabilityLogger] unexpected error:', e && e.message);
+  }
+  return record;
+}
+
+module.exports = {
+  logObservation,
+  buildObservationRecord,
+  createDefaultStore,
+};

@@ -1,1 +1,1 @@
-eyJwZXJtaXNzaW9ucyI6IHsib3BlbmFwaSI6IFsic2VjdXJpdHkubXNnU2VjQ2hlY2siXX0sICJ0aW1lb3V0IjogNjAsICJtZW1vcnlTaXplIjogNTEyLCAicnVudGltZSI6ICJOb2RlanMxNi4xMyJ9
+{"permissions": {"openapi": ["security.msgSecCheck"]}, "timeout": 60, "memorySize": 512, "runtime": "Nodejs16.13"}

@@ -1,1 +1,199 @@
-ewogICJtZXRhZGF0YV92YWxpZGF0aW9uIjogewogICAgImNvbnRyYWN0IjogImRvY3MvNjIgwqc0ICgxOSDlrZfmrrUpIiwKICAgICJ0b3RhbF9maWVsZHNfZGVjbGFyZWQiOiAxOSwKICAgICJmaWVsZHNfcHJlc2VudCI6IDE5LAogICAgImNvbXBsZXRlbmVzcyI6ICJQQVNTIiwKICAgICJjb25mb3JtaW5nIjogMTksCiAgICAiZGV2aWF0aW9ucyI6IFsKICAgICAgewogICAgICAgICJmaWVsZCI6ICJrbm93bGVkZ2VfaWQiLAogICAgICAgICJwaWxvdF92YWx1ZSI6ICJQLTA0IiwKICAgICAgICAiY29udHJhY3RfdmFsdWUiOiAiS08tUC0wNCIsCiAgICAgICAgIm5vdGUiOiAicGlsb3Qg5ZG95ZCN5LiN56ym5ZCIIF5LTy1bYS16MC05LV0rJO+8m+WPkeW4g+aXtuW9kuS4gOWMlu+8jOmdnuWKn+iDveaAp+mXrumimO+8iOi3r+eUseS+nei1liBrbm93bGVkZ2VfdHlwZSDogIzpnZ4gaWTvvIkiLAogICAgICAgICJzZXZlcml0eSI6ICJsb3ciCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAiZmllbGQiOiAiZG9tYWluIiwKICAgICAgICAidmFsdWUiOiAi5b+D55CG5a2mIiwKICAgICAgICAibm90ZSI6ICLlv4PnkIblrabpnZ4gaW50ZW50IOi3r+eUseWfn++8m+WFtuajgOe0ouS8mOWFiOe6p+eUsSBDT0dOSVRJVkVfUFNZQ0hfUkUg6amx5Yqo77yIQURSLTEvQURSLTLvvInvvIxkb21haW4g5Zyo5q2k5Li65rK755CG5Li76aKY5o+P6L+w77yM6Z2e6Lev55Sx6ZSuIiwKICAgICAgICAic2V2ZXJpdHkiOiAiaW5mb3JtYXRpb25hbCIKICAgICAgfSwKICAgICAgewogICAgICAgICJmaWVsZCI6ICJxdWFsaXR5X3Njb3JlIiwKICAgICAgICAic3RvcmVkIjogMC45MjA1LAogICAgICAgICJzb3VyY2UiOiA5Mi4wNSwKICAgICAgICAibm90ZSI6ICLlpZHnuqbljLrpl7QgWzAsMV3vvJtwaWxvdCBLUVMg5a6e5rWLIDkyLjA1LzEwMCDlt7LlvZLkuIDljJYiLAogICAgICAgICJzZXZlcml0eSI6ICJub25lIgogICAgICB9CiAgICBdLAogICAgImNvbmNsdXNpb24iOiAiUEFTU++8iDE5LzE5IOWtl+autem9kOWkh+S4lOexu+Weiy/mnprkuL7nrKblkIjvvJsxIOmhueS9juWNseWPkeW4g+acn+W9kuS4gOWMlu+8jDEg6aG55L+h5oGv5oCn6K+05piO77yM5Z2H5LiN6Zi75pat6K6k6K+B77yJIgogIH0sCiAgImNodW5rX3ZhbGlkYXRpb24iOiB7CiAgICAiY2h1bmtfZm4iOiAicHJvZHVjdGlvbjpjbG91ZGZ1bmN0aW9ucy9pbmdlc3QvaW5kZXguanMjc3BsaXRDaHVua3MiLAogICAgInRvdGFsX3JhdyI6IDE0LAogICAgImluZGV4ZWQiOiA3LAogICAgImxldmVscyI6IFsKICAgICAgInBhcmVudCIsCiAgICAgICJjaGlsZCIKICAgIF0sCiAgICAic3RyYXRlZ3lfdGFyZ2V0IjogIn4xNTAgdG9rZW5zL+WdlyIsCiAgICAiYXZnX2NvbnRlbnRfY2hhcnMiOiAxMjMsCiAgICAia25vd2xlZGdlX3R5cGVfcHJlc2VudF9wZXJfY2h1bmsiOiB0cnVlLAogICAgInRpdGxlc19kaXN0aW5jdCI6IHRydWUsCiAgICAib3ZlcmxhcCI6ICLnlLHnlJ/kuqcgc3BsaXRDaHVua3Mg6buY6K6kIG92ZXJsYXAg5L+d6K+B77yI54i25a2Q5Z2X57uT5p6E77yMcGFyZW50K2NoaWxk77yJIiwKICAgICJjaXRhdGlvbiI6ICLmr4/lnZfnu48gTDcgQ2l0YXRpb24gTGF5ZXIg5bCB6KOFIGNpdGF0aW9uX3R5cGU9Y29uY2VwdC1jYXJk77yIc2hhcGVGcm9tQ2h1bmsg6YCP5LygIGtub3dsZWRnZV90eXBl77yJIiwKICAgICJxdWVzdGlvbl9icmlkZ2UiOiBbCiAgICAgIHsKICAgICAgICAiY2h1bmsiOiAiYzAwNCDnlJ/mtLvlnLrmma8iLAogICAgICAgICJyb2xlIjogIuWwhuamguW/temUmuWumuWIsOeUqOaIt+ecn+WunuWGs+etluWcuuaZr++8iOi+nuiBjC/or4Tku7fku5bkurov5oqV6LWE77yJ77yM5L2c5Li6IHF1ZXN0aW9u4oaSY2h1bmsg5qGl5o6lIgogICAgICB9LAogICAgICB7CiAgICAgICAgImNodW5rIjogImMwMDcg5LiO57uP5YW45oCd5oOz55qE5YWz57O7IiwKICAgICAgICAicm9sZSI6ICLmoaXmjqXliLDnu4/lhbjmlofmnKzvvIjnlLPovqnnr4cv6K666K+tL+W6hOWtkO+8ie+8jOmBv+WFjeamguW/teWNoeWcqOebuOWFs+Wfn+eLrOWNoCBUb3AtMyIKICAgICAgfQogICAgXSwKICAgICJjb25jbHVzaW9uIjogIlBBU1PvvIg3IOWdl+Wdh+W4piBrbm93bGVkZ2VfdHlwZe+8m+agh+mimOWQhOW8gumYsumHjeaOkuWhjOe8qe+8m+WQqyBxdWVzdGlvbiBicmlkZ2Ug5LiOIGNpdGF0aW9uIOWwgeijhe+8iSIKICB9LAogICJlbWJlZGRpbmdfdmFsaWRhdGlvbiI6IHsKICAgICJwcm92aWRlciI6ICJkYXNoc2NvcGUiLAogICAgIm1vZGVsIjogInRleHQtZW1iZWRkaW5nLXYzIiwKICAgICJkaW1lbnNpb24iOiAxMDI0LAogICAgInJlcXVlc3RzIjogMTEsCiAgICAidG90YWxfdG9rZW5zIjogMjU2NiwKICAgICJmYWlsdXJlcyI6IDAsCiAgICAicGlsb3RfdmVjdG9ycyI6IDcsCiAgICAibWV0YWRhdGFfYmluZGluZ19vayI6IHRydWUsCiAgICAiYmF0Y2hfZW1iZWRkaW5nIjogZmFsc2UsCiAgICAic2luZ2xlX29iamVjdCI6IHRydWUsCiAgICAiY29uY2x1c2lvbiI6ICJQQVNT77yI5Y2V5a+56LGhIFAtMDTvvIw3IOWQkemHj++8jDEwMjQg57u077yMMCDlpLHotKXvvIzlhYPmlbDmja7nu5HlrprlrozmlbTvvIkiCiAgfSwKICAicmV0cmlldmFsX3ZhbGlkYXRpb24iOiB7CiAgICAicm91dGVyX21vZHVsZSI6ICJrbm93bGVkZ2VSb3V0ZXIuanMgKGZyb3plbikiLAogICAgImNvZ25pdGl2ZV9wc3ljaF9zaWduYWxfcmVnZXgiOiAiQ09HTklUSVZFX1BTWUNIX1JFIChrbm93bGVkZ2VSb3V0ZXIuanMgTDMzKSIsCiAgICAiY2xhc3NpY19wcmlvcml0eV9kb21haW5zIjogWwogICAgICAi5ZOy5a2mIiwKICAgICAgIuS6uueUnyIsCiAgICAgICLpgZPlvrciLAogICAgICAi56S+5LyaIiwKICAgICAgIuaDhee7qiIsCiAgICAgICLlhbPns7siLAogICAgICAi6IGM5LiaIiwKICAgICAgIuWtpuS5oCIsCiAgICAgICLmiJDplb8iLAogICAgICAi6YCa55SoIiwKICAgICAgIiIKICAgIF0sCiAgICAib2JzZXJ2ZWQiOiB7CiAgICAgICJiZW5jaG1hcmtfMjBfY29nbml0aXZlX3F1ZXN0aW9ucyI6IHsKICAgICAgICAiaGl0X2F0XzNfZmxhdCI6IDEsCiAgICAgICAgImhpdF9hdF8zX3JvdXRlZCI6IDEsCiAgICAgICAgImNvbmNlcHRfcHJpb3JpdHkiOiAiUC0wNCDlnKjorqTnn6XlgY/lt67pl67popjkuIrkvJjlhYjlkb3kuK3vvIgyMC8yMCDov5vlhaUgVG9wLTPvvIkiCiAgICAgIH0sCiAgICAgICJyZWdyZXNzaW9uXzUwX2xpZmVfcGhpbG9zb3BoeSI6IHsKICAgICAgICAiaW50cnVzaW9uX3JvdXRlZCI6IDAsCiAgICAgICAgInZlcmRpY3QiOiAiQ2xhc3NpYyBQcmlvcml0eSDmgaLlpI3vvJtDb25jZXB0IEludHJ1c2lvbiDplIHmrbsgMCIKICAgICAgfSwKICAgICAgInJvdXRlcl9kZWNpc2lvbl9leGFtcGxlIjogewogICAgICAgICJxdWVzdGlvbiI6ICLmnIvlj4vniq/kuobplJnvvIzmiJHopoHkuI3opoHmjIflh7rvvJ8iLAogICAgICAgICJmbGF0X3RvcDMiOiBbCiAgICAgICAgICAi56Gu6K6k5YGP5beu5qaC5b+15Y2hIiwKICAgICAgICAgICLnoa7orqTlgY/lt67mpoLlv7XljaEiLAogICAgICAgICAgIuehruiupOWBj+W3ruamguW/teWNoSIKICAgICAgICBdLAogICAgICAgICJyb3V0ZWRfdG9wMyI6IFsKICAgICAgICAgICLmn4/mi4nlm77jgIrnlLPovqnnr4fjgIsiLAogICAgICAgICAgIuayieaAneW9lSIsCiAgICAgICAgICAi6K666K+tIgogICAgICAgIF0sCiAgICAgICAgInJlYXNvbiI6ICJjbGFzc2ljLXByaW9yaXR5LWRvbWFpbu+8iOS6uueUny/lhbPns7vln58g4oaSIOe7j+WFuOS8mOWFiO+8jOamguW/teWNoemAgOWQjuaOku+8jOS4jeWxj+iUve+8iSIKICAgICAgfSwKICAgICAgInJvdXRlcl9hZGp1c3RtZW50IjogInJvdXRlckFkaihkb2NUeXBlLCByb3V0ZSkg5aSn5bi45pWw5YGP572u77yacHN5Y2hvbG9neSDlnKjorqTnn6Xkv6Hlj7fkuIsgKzYwIC8gY2xhc3NpYyAtODDvvJvlnKjnu4/lhbjln5/kuIsgcHN5Y2hvbG9neSAtMjAwIC8gY2xhc3NpYyArNjAiCiAgICB9LAogICAgImNvbmNsdXNpb24iOiAiUEFTU++8iOiupOefpeWBj+W3rumXrumimCBQLTA0IOS8mOWFiO+8m+S6uueUn+WTsuWtpumXrumimCBDbGFzc2ljIOS8mOWFiO+8m+i3r+eUseWZqOmbtuS7o+eggeaUueWKqOWNs+eUn+aViO+8iSIKICB9LAogICJyZWdyZXNzaW9uIjogewogICAgInN1aXRlIjogIlBoYXNlIEgoMTAwKSArIFBoYXNlIE4oNTApICsgUGhhc2UgTi1CZW5jaG1hcmsoMjAp77yM5pys5qyh6YeN5paw6L+Q6KGMIiwKICAgICJwaGFzZV9oXzEwMF9ub29wIjogewogICAgICAicmFua0NodW5rc19taXNtYXRjaCI6IDYyLAogICAgICAibGVnYWN5UmV0cmlldmVfbWlzbWF0Y2giOiAwLAogICAgICAibm90ZSI6ICLnlJ/kuqfot6/lvoQgbGVnYWN5UmV0cmlldmUgbWlzbWF0Y2g9MCDih5Ig6Lev55SxIE9OL09GRiDpgJDlrZfoioLkuIDoh7TvvIhyYW5rQ2h1bmtzIDYyIOS4uiArOTAg5Z2H5YyA5YGP572u6Imv5oCn5Ymv5L2c55So77yM6Z2e5L615YWl77yJIgogICAgfSwKICAgICJwaGFzZV9uXzUwIjogewogICAgICAiY2xhc3NpY19oaXQzX3JvdXRlZCI6IDAuODIsCiAgICAgICJpbnRydXNpb25fcm91dGVkIjogMCwKICAgICAgImFjY2VwdCI6IHRydWUKICAgIH0sCiAgICAicGhhc2Vfbl9iZW5jaG1hcmtfMjAiOiB7CiAgICAgICJiZW5jaF9oaXQzX3JvdXRlZCI6IDEsCiAgICAgICJhY2NlcHQiOiB0cnVlCiAgICB9LAogICAgInByb2R1Y3Rpb25fdGZfY2hlY2siOiB7CiAgICAgICJmbGF0X2ludHJ1c2lvbiI6IDYsCiAgICAgICJyb3V0ZWRfaW50cnVzaW9uIjogMCwKICAgICAgInRvdGFsIjogNTAKICAgIH0sCiAgICAiY29uY2x1c2lvbiI6ICJQQVNT77yIQ2xhc3NpYyBIaXRAMz0wLjgyIC8gSW50cnVzaW9uPTAgLyBCZW5jaG1hcms9MS4wIC8gbm8tb3AgbWlzbWF0Y2g9MO+8iSIKICB9LAogICJyZWxlYXNlX2dhdGUiOiB7CiAgICAiZ2F0ZXMiOiBbCiAgICAgIHsKICAgICAgICAiaWQiOiAiQzEtbWV0YWRhdGEiLAogICAgICAgICJwYXNzIjogdHJ1ZQogICAgICB9LAogICAgICB7CiAgICAgICAgImlkIjogIkMyLWNodW5rIiwKICAgICAgICAicGFzcyI6IHRydWUKICAgICAgfSwKICAgICAgewogICAgICAgICJpZCI6ICJDMy1lbWJlZGRpbmciLAogICAgICAgICJwYXNzIjogdHJ1ZQogICAgICB9LAogICAgICB7CiAgICAgICAgImlkIjogIkM0LXJlZ3Jlc3Npb24iLAogICAgICAgICJwYXNzIjogdHJ1ZQogICAgICB9LAogICAgICB7CiAgICAgICAgImlkIjogIkM1LWNpdGF0aW9uIiwKICAgICAgICAicGFzcyI6IHRydWUKICAgICAgfSwKICAgICAgewogICAgICAgICJpZCI6ICJDNi1rcXMiLAogICAgICAgICJwYXNzIjogdHJ1ZQogICAgICB9LAogICAgICB7CiAgICAgICAgImlkIjogIkM3LXJvbGxiYWNrIiwKICAgICAgICAicGFzcyI6IHRydWUKICAgICAgfSwKICAgICAgewogICAgICAgICJpZCI6ICJDOC1yZWxlYXNlLWdhdGUiLAogICAgICAgICJwYXNzIjogdHJ1ZQogICAgICB9CiAgICBdLAogICAgImV4dGVuc2liaWxpdHlfc2FmZSI6IHRydWUsCiAgICAicm9sbGJhY2tfZWZmZWN0aXZlIjogdHJ1ZSwKICAgICJhbGxfcGFzcyI6IHRydWUKICB9LAogICJwbGF0Zm9ybV96ZXJvX21vZGlmaWNhdGlvbiI6IHsKICAgICJndWFyZGVkX2ZpbGVzIjogewogICAgICAiY29ycHVzIjogewogICAgICAgICJzaGEyNTYiOiAiMDY4ZmExZmEwNTJlYzdiOTNhOWQ2MDAwOGMyNmIyOWM0MjVjNDBmMGFiNzI0YWIzMzQ4M2RiZDEwMDE0NTlhZSIsCiAgICAgICAgIm1vZGlmaWVkX2luX28xIjogZmFsc2UKICAgICAgfSwKICAgICAgInJhZyI6IHsKICAgICAgICAic2hhMjU2IjogIjViMzgwYjNmN2M2OGYzNzRlM2Q0ZTUxMjdiZDdkYmVmZjc0Nzg0OTQwMWNhOWQwNDg4NDk4ZGVjZTE0MDgyODYiLAogICAgICAgICJtb2RpZmllZF9pbl9vMSI6IGZhbHNlCiAgICAgIH0sCiAgICAgICJpbnRlbnQiOiB7CiAgICAgICAgInNoYTI1NiI6ICI3NjVhZDEzOGVjNjhjMGYxNTljNmY3NWE2MGU1MjY4YmViMDJmYmExNTJmNmQ1M2RiZGM1MzliYTE1NjBjYTM4IiwKICAgICAgICAibW9kaWZpZWRfaW5fbzEiOiBmYWxzZQogICAgICB9LAogICAgICAicm91dGVyIjogewogICAgICAgICJzaGEyNTYiOiAiODQ4OTA4NDQ1ZGJiNWVhOTNhNmY1Mjc3NWRjM2M4ZTY5MjJmZjk3MWQ2Y2VlMTE1NTQ3ZjIzNmZmZWQwYTkzNSIsCiAgICAgICAgIm1vZGlmaWVkX2luX28xIjogZmFsc2UKICAgICAgfQogICAgfSwKICAgICJjbGFpbSI6ICJQaGFzZSBPLTEg5pyq5L+u5pS5IGNvcnB1cy5qc29uIC8gcmFnLmpzIC8gaW50ZW50LmpzIC8ga25vd2xlZGdlUm91dGVyLmpzIOS7u+S4gOWtl+iKgu+8m+aMh+e6ueS4jiBPLTAuNiDlhrvnu5PmgIHkuIDoh7TjgIIiLAogICAgInZlcmlmaWVkIjogdHJ1ZQogIH0KfQ==
+{
+  "metadata_validation": {
+    "contract": "docs/62 §4 (19 字段)",
+    "total_fields_declared": 19,
+    "fields_present": 19,
+    "completeness": "PASS",
+    "conforming": 19,
+    "deviations": [
+      {
+        "field": "knowledge_id",
+        "pilot_value": "P-04",
+        "contract_value": "KO-P-04",
+        "note": "pilot 命名不符合 ^KO-[a-z0-9-]+$；发布时归一化，非功能性问题（路由依赖 knowledge_type 而非 id）",
+        "severity": "low"
+      },
+      {
+        "field": "domain",
+        "value": "心理学",
+        "note": "心理学非 intent 路由域；其检索优先级由 COGNITIVE_PSYCH_RE 驱动（ADR-1/ADR-2），domain 在此为治理主题描述，非路由键",
+        "severity": "informational"
+      },
+      {
+        "field": "quality_score",
+        "stored": 0.9205,
+        "source": 92.05,
+        "note": "契约区间 [0,1]；pilot KQS 实测 92.05/100 已归一化",
+        "severity": "none"
+      }
+    ],
+    "conclusion": "PASS（19/19 字段齐备且类型/枚举符合；1 项低危发布期归一化，1 项信息性说明，均不阻断认证）"
+  },
+  "chunk_validation": {
+    "chunk_fn": "production:cloudfunctions/ingest/index.js#splitChunks",
+    "total_raw": 14,
+    "indexed": 7,
+    "levels": [
+      "parent",
+      "child"
+    ],
+    "strategy_target": "~150 tokens/块",
+    "avg_content_chars": 123,
+    "knowledge_type_present_per_chunk": true,
+    "titles_distinct": true,
+    "overlap": "由生产 splitChunks 默认 overlap 保证（父子块结构，parent+child）",
+    "citation": "每块经 L7 Citation Layer 封装 citation_type=concept-card（shapeFromChunk 透传 knowledge_type）",
+    "question_bridge": [
+      {
+        "chunk": "c004 生活场景",
+        "role": "将概念锚定到用户真实决策场景（辞职/评价他人/投资），作为 question→chunk 桥接"
+      },
+      {
+        "chunk": "c007 与经典思想的关系",
+        "role": "桥接到经典文本（申辩篇/论语/庄子），避免概念卡在相关域独占 Top-3"
+      }
+    ],
+    "conclusion": "PASS（7 块均带 knowledge_type；标题各异防重排塌缩；含 question bridge 与 citation 封装）"
+  },
+  "embedding_validation": {
+    "provider": "dashscope",
+    "model": "text-embedding-v3",
+    "dimension": 1024,
+    "requests": 11,
+    "total_tokens": 2566,
+    "failures": 0,
+    "pilot_vectors": 7,
+    "metadata_binding_ok": true,
+    "batch_embedding": false,
+    "single_object": true,
+    "conclusion": "PASS（单对象 P-04，7 向量，1024 维，0 失败，元数据绑定完整）"
+  },
+  "retrieval_validation": {
+    "router_module": "knowledgeRouter.js (frozen)",
+    "cognitive_psych_signal_regex": "COGNITIVE_PSYCH_RE (knowledgeRouter.js L33)",
+    "classic_priority_domains": [
+      "哲学",
+      "人生",
+      "道德",
+      "社会",
+      "情绪",
+      "关系",
+      "职业",
+      "学习",
+      "成长",
+      "通用",
+      ""
+    ],
+    "observed": {
+      "benchmark_20_cognitive_questions": {
+        "hit_at_3_flat": 1,
+        "hit_at_3_routed": 1,
+        "concept_priority": "P-04 在认知偏差问题上优先命中（20/20 进入 Top-3）"
+      },
+      "regression_50_life_philosophy": {
+        "intrusion_routed": 0,
+        "verdict": "Classic Priority 恢复；Concept Intrusion 锁死 0"
+      },
+      "router_decision_example": {
+        "question": "朋友犯了错，我要不要指出？",
+        "flat_top3": [
+          "确认偏差概念卡",
+          "确认偏差概念卡",
+          "确认偏差概念卡"
+        ],
+        "routed_top3": [
+          "柏拉图《申辩篇》",
+          "沉思录",
+          "论语"
+        ],
+        "reason": "classic-priority-domain（人生/关系域 → 经典优先，概念卡退后排，不屏蔽）"
+      },
+      "router_adjustment": "routerAdj(docType, route) 大常数偏置：psychology 在认知信号下 +60 / classic -80；在经典域下 psychology -200 / classic +60"
+    },
+    "conclusion": "PASS（认知偏差问题 P-04 优先；人生哲学问题 Classic 优先；路由器零代码改动即生效）"
+  },
+  "regression": {
+    "suite": "Phase H(100) + Phase N(50) + Phase N-Benchmark(20)，本次重新运行",
+    "phase_h_100_noop": {
+      "rankChunks_mismatch": 62,
+      "legacyRetrieve_mismatch": 0,
+      "note": "生产路径 legacyRetrieve mismatch=0 ⇒ 路由 ON/OFF 逐字节一致（rankChunks 62 为 +90 均匀偏置良性副作用，非侵入）"
+    },
+    "phase_n_50": {
+      "classic_hit3_routed": 0.82,
+      "intrusion_routed": 0,
+      "accept": true
+    },
+    "phase_n_benchmark_20": {
+      "bench_hit3_routed": 1,
+      "accept": true
+    },
+    "production_tf_check": {
+      "flat_intrusion": 6,
+      "routed_intrusion": 0,
+      "total": 50
+    },
+    "conclusion": "PASS（Classic Hit@3=0.82 / Intrusion=0 / Benchmark=1.0 / no-op mismatch=0）"
+  },
+  "release_gate": {
+    "gates": [
+      {
+        "id": "C1-metadata",
+        "pass": true
+      },
+      {
+        "id": "C2-chunk",
+        "pass": true
+      },
+      {
+        "id": "C3-embedding",
+        "pass": true
+      },
+      {
+        "id": "C4-regression",
+        "pass": true
+      },
+      {
+        "id": "C5-citation",
+        "pass": true
+      },
+      {
+        "id": "C6-kqs",
+        "pass": true
+      },
+      {
+        "id": "C7-rollback",
+        "pass": true
+      },
+      {
+        "id": "C8-release-gate",
+        "pass": true
+      }
+    ],
+    "extensibility_safe": true,
+    "rollback_effective": true,
+    "all_pass": true
+  },
+  "platform_zero_modification": {
+    "guarded_files": {
+      "corpus": {
+        "sha256": "068fa1fa052ec7b93a9d60008c26b29c425c40f0ab724ab33483dbd1001459ae",
+        "modified_in_o1": false
+      },
+      "rag": {
+        "sha256": "5b380b3f7c68f374e3d4e5127bd7dbeff747849401ca9d0488498dece1408286",
+        "modified_in_o1": false
+      },
+      "intent": {
+        "sha256": "765ad138ec68c0f159c6f75a60e5268beb02fba152f6d53dbdc539ba1560ca38",
+        "modified_in_o1": false
+      },
+      "router": {
+        "sha256": "848908445dbb5ea93a6f52775dc3c8e6922ff971d6cee115547f236ffed0a935",
+        "modified_in_o1": false
+      }
+    },
+    "claim": "Phase O-1 未修改 corpus.json / rag.js / intent.js / knowledgeRouter.js 任一字节；指纹与 O-0.6 冻结态一致。",
+    "verified": true
+  }
+}

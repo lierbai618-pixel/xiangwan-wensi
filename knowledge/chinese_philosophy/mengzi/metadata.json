@@ -1,1 +1,32 @@
-ewogICJpZCI6ICJtZW5nemkiLAogICJ0aXRsZSI6ICLlrZ/lrZAiLAogICJhdXRob3IiOiAi5a2f6L2yIiwKICAidHJhbnNsYXRvciI6IG51bGwsCiAgInNvdXJjZSI6ICLku6XmnajkvK/ls7vjgIrlrZ/lrZDor5Hms6jjgIvkvZzmoKHli5jlj4LogIPvvIjoioLpgInvvIkiLAogICJlZGl0aW9uIjogIuadqOS8r+Wzu+OAiuWtn+WtkOivkeazqOOAi+agoeWLmOWPguiAgyIsCiAgInB1Ymxpc2hlciI6IG51bGwsCiAgInllYXIiOiAi5oiY5Zu977yI57qm5YWs5YWD5YmNNOS4lue6qu+8iSIsCiAgImNvcHlyaWdodF9zdGF0dXMiOiAicHVibGljLWRvbWFpbiIsCiAgImxpY2Vuc2Vfbm90ZSI6ICJDQzAgLyDlhazmnInpoobln5/vvIjljp/mlofvvIkiLAogICJ2ZXJpZmljYXRpb25fZGF0ZSI6ICIyMDI2LTA3LTI2IiwKICAiY2F0ZWdvcnkiOiAi5Lit5Zu95ZOy5a2mIiwKICAicGVyc3BlY3RpdmUiOiAi5YSS5a62IiwKICAidGhlbWVzIjogWyLpgIblooMiLCAi5oiQ6ZW/IiwgIuWkp+S4iOWkqyIsICLlnZrmjIEiLCAi5rCU6IqCIiwgIuS/rui6qyJdLAogICJwcm9ibGVtX3RhZ3MiOiBbIuWksei0pSIsICLpgIblooMiLCAi5Z2a5oyBIiwgIuaIkOmVvyIsICLlpKfkuIjlpKsiLCAi6YCJ5oupIiwgIuiHquaIkeaIkOmVvyIsICLmjKvmipgiLCAi5pS+5byDIiwgIui0o+S7uyJdLAogICJ1c2VyX3F1ZXN0aW9ucyI6IFsKICAgICLlpoLkvZXpnaLlr7nlpLHotKUiLAogICAgIuaAjuagt+aJjeiDveS4jei9u+aYk+aUvuW8gyIsCiAgICAi6YGH5Yiw5oyr5oqY5oCO5LmI56uZ6LW35p2lIiwKICAgICLmgI7moLfmiY3nrpfmnInpqqjmsJTnmoTkuroiCiAgXSwKICAic2NlbmFyaW9zIjogWyLmipfmjKvlipsiLCAi5Lq655Sf6YCJ5oupIiwgIuiHquaIkeaIkOmVvyIsICLpnZLlubTnq4vlv5ciXSwKICAiYXV0aG9yaXR5X2xldmVsIjogNSwKICAiY2l0YXRpb24iOiB7ICJ0ZW1wbGF0ZSI6ICLjgIp7dGl0bGV9wrd7c2VjdGlvbn3jgIsiLCAiZXhhbXBsZSI6ICLjgIrlrZ/lrZDCt+WRiuWtkOS4i+OAiyIgfSwKICAibGFuZ3VhZ2UiOiAiemgiLAogICJzb3VyY2VfdHlwZSI6ICJhbmNpZW50LXRleHQiLAogICJjaGFwdGVyX3NwbGl0IjogImJ5LWJvb2siLAogICJsZWdhbENvbmZpcm0iOiB0cnVlLAogICJzdGF0dXMiOiAicmVhZHkiLAogICJub3RlcyI6ICLoioLpgInjgIrlkYrlrZDkuIvjgIvjgIrmu5XmloflhazkuIvjgIvjgIrlkYrlrZDkuIrjgIvnrYnnr4fjgIIiCn0K
+{
+  "id": "mengzi",
+  "title": "孟子",
+  "author": "孟轲",
+  "translator": null,
+  "source": "以杨伯峻《孟子译注》作校勘参考（节选）",
+  "edition": "杨伯峻《孟子译注》校勘参考",
+  "publisher": null,
+  "year": "战国（约公元前4世纪）",
+  "copyright_status": "public-domain",
+  "license_note": "CC0 / 公有领域（原文）",
+  "verification_date": "2026-07-26",
+  "category": "中国哲学",
+  "perspective": "儒家",
+  "themes": ["逆境", "成长", "大丈夫", "坚持", "气节", "修身"],
+  "problem_tags": ["失败", "逆境", "坚持", "成长", "大丈夫", "选择", "自我成长", "挫折", "放弃", "责任"],
+  "user_questions": [
+    "如何面对失败",
+    "怎样才能不轻易放弃",
+    "遇到挫折怎么站起来",
+    "怎样才算有骨气的人"
+  ],
+  "scenarios": ["抗挫力", "人生选择", "自我成长", "青年立志"],
+  "authority_level": 5,
+  "citation": { "template": "《{title}·{section}》", "example": "《孟子·告子下》" },
+  "language": "zh",
+  "source_type": "ancient-text",
+  "chapter_split": "by-book",
+  "legalConfirm": true,
+  "status": "ready",
+  "notes": "节选《告子下》《滕文公下》《告子上》等篇。"
+}

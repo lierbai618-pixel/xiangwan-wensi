@@ -1,1 +1,24 @@
-ew0KICAia25vd2xlZGdlX2lkIjogIktPLVAtMDQiLA0KICAia25vd2xlZGdlX3R5cGUiOiAicHN5Y2hvbG9neSIsDQogICJkb21haW4iOiAi5b+D55CG5a2mIiwNCiAgInN1YmNhdGVnb3J5IjogIuiupOefpeWBj+W3riIsDQogICJhdXRob3JpdHkiOiAic2Vjb25kYXJ5IiwNCiAgImV2aWRlbmNlX2xldmVsIjogInN1cHBvcnRpbmciLA0KICAiY2l0YXRpb25fdHlwZSI6ICJjb25jZXB0LWNhcmQiLA0KICAic291cmNlX3R5cGUiOiAic3ludGhldGljIiwNCiAgInZlcnNpb24iOiAiMS4wLjAiLA0KICAic3RhdHVzIjogImNhbmRpZGF0ZSIsDQogICJwcmlvcml0eSI6IDAsDQogICJxdWFsaXR5X3Njb3JlIjogMC45MjA1LA0KICAiY29weXJpZ2h0IjogIm9yaWdpbmFsIiwNCiAgImNyZWF0ZWRfYXQiOiAiMjAyNi0wOC0wMVQwOTo0Mzo0MS44MDhaIiwNCiAgInVwZGF0ZWRfYXQiOiAiMjAyNi0wOC0wMVQyMjozMzoxNSswODowMCIsDQogICJyZXZpZXdfc3RhdHVzIjogImFwcHJvdmVkIiwNCiAgInJldmlld2VyIjogIllPVVJfQURNSU5fT1BFTklEIiwNCiAgImVtYmVkZGluZ192ZXJzaW9uIjogImRhc2hzY29wZS12My0xMDI0IiwNCiAgInJldHJpZXZhbF9wb2xpY3kiOiAidXNlIiwNCiAgIm9iamVjdF90eXBlIjogImNvbmNlcHQiLA0KICAibGlmZWN5Y2xlX3N0YWdlIjogInByb2R1Y3Rpb24tY2FuZGlkYXRlIiwNCiAgImxlZ2FjeV9waWxvdF9pZCI6ICJQLTA0Ig0KfQ==
+{
+  "knowledge_id": "KO-P-04",
+  "knowledge_type": "psychology",
+  "domain": "心理学",
+  "subcategory": "认知偏差",
+  "authority": "secondary",
+  "evidence_level": "supporting",
+  "citation_type": "concept-card",
+  "source_type": "synthetic",
+  "version": "1.0.0",
+  "status": "candidate",
+  "priority": 0,
+  "quality_score": 0.9205,
+  "copyright": "original",
+  "created_at": "2026-08-01T09:43:41.808Z",
+  "updated_at": "2026-08-01T22:33:15+08:00",
+  "review_status": "approved",
+  "reviewer": "YOUR_ADMIN_OPENID",
+  "embedding_version": "dashscope-v3-1024",
+  "retrieval_policy": "use",
+  "object_type": "concept",
+  "lifecycle_stage": "production-candidate",
+  "legacy_pilot_id": "P-04"
+}

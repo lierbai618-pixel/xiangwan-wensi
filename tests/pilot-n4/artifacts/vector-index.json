@@ -1,1 +1,9 @@
-ewogICJuYW1lc3BhY2UiOiAicGlsb3QiLAogICJpc29sYXRpb24iOiAicGlsb3QgbmFtZXNwYWNlIHNlcGFyYXRlIGZyb20gcHJvZHVjdGlvbjsgcHJvZHVjdGlvbiBoYXMgTk8gdmVjdG9yIGluZGV4IChlbWJlZGRpbmc6bnVsbCBpbiBpbmdlc3QgU0NIRU1BKSIsCiAgInZlY3Rvcl9jb3VudF9iZWZvcmUiOiAxNCwKICAidmVjdG9yX2NvdW50X2FmdGVyIjogMjEsCiAgImRpbWVuc2lvbiI6IDEwMjQsCiAgIm1ldGFkYXRhX2JpbmRpbmdfb2siOiB0cnVlLAogICJzZWFyY2hfYXZhaWxhYmxlIjogdHJ1ZQp9
+{
+  "namespace": "pilot",
+  "isolation": "pilot namespace separate from production; production has NO vector index (embedding:null in ingest SCHEMA)",
+  "vector_count_before": 14,
+  "vector_count_after": 21,
+  "dimension": 1024,
+  "metadata_binding_ok": true,
+  "search_available": true
+}

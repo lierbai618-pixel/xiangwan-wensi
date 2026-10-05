@@ -1,1 +1,128 @@
-IyBQaGFzZSBQKyBEZXBsb3ltZW50IOWuoeiuoe+8iOesrOS4gOmYtuautSDCtyDlj6ror7vvvIkNCg0KPiDpmLbmrrXnm67moIfvvJrpg6jnvbLliY3lj6ror7vlrqHorqHvvIznoa7orqTlvZPliY0gT2JzZXJ2YWJpbGl0eSDog73lipvnirbmgIHjgIHpu5jorqTlrZjlgqjjgIFjbG91ZCDmjqXlhaXmlrnlvI/jgIHlm57mu5rmlrnlvI/jgIINCj4g5a6h6K6h5pe26Ze077yaMjAyNi0wOC0wMg0KPiDlrqHorqHojIPlm7TvvJpgY2xvdWRmdW5jdGlvbnMvY2hhdC9vYnNlcnZhYmlsaXR5Lypg44CBYGNsb3VkZnVuY3Rpb25zL2NoYXQvY29uZmlnLmpzb25g44CBY2hhdCDkupHlh73mlbDnur/kuIrphY3nva7jgIHkupHmlbDmja7lupPjgIFEYXNoYm9hcmQg5pWw5o2u6K+75Y+W6ZO+6Lev44CCDQo+IOWuoeiuoeWOn+WIme+8mioq5Y+q6K+7KirvvIzmnKrmlLnliqjku7vkvZXlhrvnu5PotYTkuqfjgIHmnKrmlLnliqggUm91dGVyL1Byb21wdC9JbnRlbnQvUkFH44CB5pyq6YOo572y44CCDQoNCi0tLQ0KDQojIyAxLiDlrqHorqHnu5PorrrpgJ/op4gNCg0KfCDlrqHorqHpobkgfCDnu5PorrogfA0KfC0tLS0tLS0tfC0tLS0tLXwNCnwg5b2T5YmN6buY6K6kIHN0b3JhZ2UgfCAqKkpTT07vvIhsb2NhbC9maWxlIGZhbGxiYWNr77yJKiogfA0KfCBjbG91ZCBzdG9yYWdlIOaOpeWFpeaWueW8jyB8IGBLTk9XTEVER0VfT0JTRVJWQUJJTElUWV9TVE9SRT1jbG91ZGAg4oaSIGBDbG91ZE9ic2VydmFiaWxpdHlTdG9yZWDvvIh3eC1zZXJ2ZXItc2RrIOKGkiDkupHlupMgYG9ic2VydmFiaWxpdHlfbG9nc2DvvIkgfA0KfCDlm57mu5rmlrnlvI8gfCBgdGNiIGZuIGNvZGUgZG93bmxvYWRgIOWkh+S7ve+8iCoq5bey5omn6KGMKirvvIzkuqfniakgYC5kZXBsb3ktYmFja3VwL2NoYXQtcHJlLW9icy0yMDI2MDgwMmDvvInvvJvlm57mu5ogPSDph43mlrDpg6jnvbLor6XlpIfku70gfA0KfCDlm57nrZTmtYHnqIvmmK/lkKbooqvmlLnliqggfCDlkKYg4oCUIGBsb2dPYnNlcnZhdGlvbmAg5Li6IGZpcmUtYW5kLWZvcmdldO+8jOS4jSBhd2FpdOOAgeS4jeaKm+mUmeWIsOS4u+mTvui3ryB8DQp8IOWGmeWFpeWksei0peaYr+WQpumYu+aWreacjeWKoSB8IOWQpiDigJQgYHN0b3JlLndyaXRlYCDmsLjkuI3mipvlh7rvvIzplJnor6/ku4UgYGNvbnNvbGUuZXJyb3JgIHwNCnwgRGFzaGJvYXJkIOaYr+WQpumHjeeul+ajgOe0oiB8IOWQpiDigJQgYGRhc2hib2FyZC5qc2Ag5LiNIHJlcXVpcmUgYHJhZy5qc2DjgIHkuI3osIPnlKggZW1iZWRkaW5n77yM5Y+q6K+76IGa5ZCIIHwNCg0KLS0tDQoNCiMjIDIuIE9ic2VydmFiaWxpdHkg5Luj56CB5a6h6K6h77yI5Y+q6K+777yJDQoNCiMjIyAyLjEgYG9ic2VydmFiaWxpdHkvb2JzZXJ2YWJpbGl0eUxvZ2dlci5qc2ANCi0gKipMNDAtNTEgYGNyZWF0ZURlZmF1bHRTdG9yZSgpYCoq77ya5b2TIGBwcm9jZXNzLmVudi5LTk9XTEVER0VfT0JTRVJWQUJJTElUWV9TVE9SRSA9PT0gJ2Nsb3VkJ2Ag5pe2IGByZXF1aXJlKCcuL2Nsb3VkT2JzZXJ2YWJpbGl0eVN0b3JlJylgIOi/lOWbniBgQ2xvdWRPYnNlcnZhYmlsaXR5U3RvcmVg77yb5ZCm5YiZ6L+U5ZueIGBKc29uT2JzZXJ2YWJpbGl0eVN0b3JlYOOAgnJlcXVpcmUgY2xvdWQg5aSx6LSl5pe2IHRyeS9jYXRjaCDlm57pgIAgSlNPTuOAgg0KLSAqKkw1NC0xMDYgYGJ1aWxkT2JzZXJ2YXRpb25SZWNvcmQob3B0cylgKirvvJrnuq/lh73mlbDvvIzku47lhaXlj4Lpm7bmiJDmnKzmnoTpgKDorrDlvZXjgILlt7LokL3lupPlrZfmrrXvvIhkb2NzLzYyIMKnOSDopobnm5YgNi8xMiArIDEvMTIg562J5pWI77yJ77yaDQogIC0g5Z+656GA77yaYHF1ZXJ5YCAvIGBhbnN3ZXJfaWRgIC8gYGNvbnZlcnNhdGlvbl9pZGAgLyBgb3BlbmlkYCAvIGBjcmVhdGVkX2F0YA0KICAtIOi3r+eUse+8mmBrbm93bGVkZ2VfdHlwZWDvvIjmnaXoh6ogY2l0YXRpb25z77yJ44CBYHJvdXRlcl9kZWNpc2lvbmDvvIjlj6ror7vlpI3nrpcgYGtub3dsZWRnZVJvdXRlci5yb3V0ZVF1ZXN0aW9uYO+8jOWGu+e7k+e6r+WHveaVsO+8ieOAgWBmYWxsYmFja19yZWFzb25g44CBYHJvdXRlcl9lbmFibGVkYOOAgWBkb21haW5g44CBYGludGVudGDjgIFgcG9saWN5X25hbWVgDQogIC0g5qOA57Si77yI5qCH6aKY5YiX6KGo77yM6Z2eIGRpc3BsYXlfdGV4dO+8ie+8mmByZXRyaWV2YWxfcmVzdWx0YCDil5Ag562J5Lu3IGBjaXRhdGlvbl9zb3VyY2VgDQogIC0g5byV55So77yaYGNpdGF0aW9uX2NvdW50YA0KICAtIOaAp+iDve+8mmBsYXRlbmN5X21zYA0KICAtIOKdjCDmnKropobnm5YgNS8xMu+8iOS9jeS6juWGu+e7kyByYWcuanMg5YaF6YOo77yM5o6o6L+f6IezIFBoYXNlIFHvvInvvJpgcmV0cmlldmFsX21vZGVgIC8gYHJvdXRlcl9hZGp1c3RtZW50YCAvIGByZXJhbmtfc2NvcmVgIC8gYGNodW5rX2lkYCAvIGB2ZWN0b3Jfc2NvcmVgDQotICoqTDExMy0xMjYgYGxvZ09ic2VydmF0aW9uKG9wdHMpYCoq77yaZmlyZS1hbmQtZm9yZ2V077yMYFByb21pc2UucmVzb2x2ZShzdG9yZS53cml0ZShyZWNvcmQpKS5jYXRjaCguLi4pYCDkuI0gYXdhaXTvvJvlpJblsYIgdHJ5L2NhdGNoIOWFnOW6leWQjOatpeW8guW4uOOAgioq57ud5LiN6Zi75aGeL+aKm+mUmeWIsOS4u+mTvui3ryoq44CCDQoNCiMjIyAyLjIgYG9ic2VydmFiaWxpdHkvY2xvdWRPYnNlcnZhYmlsaXR5U3RvcmUuanNg77yIUGhhc2UgUCsg5bey5a6e546w77yJDQotICoqTDE4KirvvJpgdGhpcy5jb2xsZWN0aW9uID0gY29uZmlnLmNvbGxlY3Rpb24gfHwgJ29ic2VydmFiaWxpdHlfbG9ncydgIOKAlCDnm67moIfpm4blkIjlkI3lt7Llm7rljJbjgIINCi0gKipMMjItMzYgYF9nZXREYigpYCoq77ya5bu26L+fIGByZXF1aXJlKCd3eC1zZXJ2ZXItc2RrJylg77yI5pys5ZywL+a1i+ivleS4jeWKoOi9ve+8ie+8jGBjbG91ZC5pbml0KHsgZW52OiBjbG91ZC5EWU5BTUlDX0NVUlJFTlRfRU5WIH0pYO+8iOW5guetieOAgXRyeS9jYXRjaCDkv53miqTvvInjgIINCi0gKipMMzgtNDcgYHdyaXRlKHJlY29yZClgKirvvJpgZGIuY29sbGVjdGlvbiguLi4pLmFkZCh7IGRhdGE6IHsuLi5yZWNvcmQsIGNyZWF0ZVRpbWU6IGRiLnNlcnZlckRhdGUoKX0gfSlg77ybKirmsLjkuI3mipvlh7oqKu+8jOWksei0pei/lOWbniBgeyBvazogZmFsc2UgfWDjgIINCi0gKipMNDktNjEgYHJlYWRBbGwobGltaXQpYCoq77yaYG9yZGVyQnkoJ2NyZWF0ZVRpbWUnLCdkZXNjJykubGltaXQoLi4uKS5nZXQoKWDvvIzkvpsgRGFzaGJvYXJkIOivu+WPlu+8m+Wksei0pei/lOWbniBgW11g44CCDQoNCiMjIyAyLjMgYG9ic2VydmFiaWxpdHkvanNvbk9ic2VydmFiaWxpdHlTdG9yZS5qc2DvvIjpu5jorqQgLyBmYWxsYmFja++8iQ0KLSDpu5jorqTlrZjlgqjvvJpgcGF0aC5qb2luKF9fZGlybmFtZSwnb2JzZXJ2YWJpbGl0eS1zdG9yZS5qc29uJylg44CCDQotIGB3cml0ZSgpYCDov73liqDmlbDnu4TjgIHmsLjkuI3mipvlh7rvvJtgcmVhZEFsbCgpYCDor7vlj5blhajpg6jjgIIqKuacrOWcsC/mtYvor5Uv6ZmN57qn5YWc5bqVKirjgIINCg0KIyMjIDIuNCBgY2xvdWRmdW5jdGlvbnMvY2hhdC9jb25maWcuanNvbmANCmBgYGpzb24NCnsicGVybWlzc2lvbnMiOnsib3BlbmFwaSI6WyJzZWN1cml0eS5tc2dTZWNDaGVjayJdfSwidGltZW91dCI6OTAsIm1lbW9yeVNpemUiOjUxMiwicnVudGltZSI6Ik5vZGVqczE2LjEzIn0NCmBgYA0KPiDms6jmhI/vvJpjb25maWcuanNvbiAqKuaXoCBlbnYg5a2X5q61KirjgILnjq/looPlj5jph48gYEtOT1dMRURHRV9PQlNFUlZBQklMSVRZX1NUT1JFYCDpnIDnu4/kupHlh73mlbDmjqfliLblj7AgLyBgdGNiIGZuIGRlcGxveWAg55qEIGBlbnZWYXJpYWJsZXNgIOazqOWFpe+8iOingSDCpzTvvInjgIINCg0KLS0tDQoNCiMjIDMuIOW9k+WJjem7mOiupCBzdG9yYWdl77yI56Gu6K6k77yJDQoNCmBjcmVhdGVEZWZhdWx0U3RvcmUoKWAg5ZyoIGBLTk9XTEVER0VfT0JTRVJWQUJJTElUWV9TVE9SRWAg5pyq6K6+572u5oiWIOKJoCBgJ2Nsb3VkJ2Ag5pe26L+U5ZueIGBKc29uT2JzZXJ2YWJpbGl0eVN0b3JlYOOAgg0KKirnu5PorrrvvJrpu5jorqQgc3RvcmFnZSA9IEpTT07vvIhsb2NhbC9maWxlIGZhbGxiYWNr77yJKirvvIznrKblkIggU3RhZ2UgM+OAjOm7mOiupOS/neaMgSBsb2NhbC9maWxlIGZhbGxiYWNr44CN6KaB5rGC44CCDQoNCi0tLQ0KDQojIyA0LiBjbG91ZCBzdG9yYWdlIOaOpeWFpeaWueW8j++8iOehruiupO+8iQ0KDQp8IOeOr+iKgiB8IOacuuWItiB8DQp8LS0tLS0tfC0tLS0tLXwNCnwg5byA5YWzIHwgYHByb2Nlc3MuZW52LktOT1dMRURHRV9PQlNFUlZBQklMSVRZX1NUT1JFID09PSAnY2xvdWQnYCB8DQp8IOWunueOsCB8IGBDbG91ZE9ic2VydmFiaWxpdHlTdG9yZWAg5bu26L+f5Yqg6L29IGB3eC1zZXJ2ZXItc2RrYCB8DQp8IOebruagh+mbhuWQiCB8IGBvYnNlcnZhYmlsaXR5X2xvZ3Ng77yIY29sbGVjdGlvbiDlkI3lt7Llm7rljJbkuo4gTDE477yJIHwNCnwg5Yid5aeL5YyWIHwgYGNsb3VkLmluaXQoeyBlbnY6IGNsb3VkLkRZTkFNSUNfQ1VSUkVOVF9FTlYgfSlg77yI5LiO5Ye95pWw5YWl5Y+j5LiA6Ie077yJIHwNCnwg546v5aKD5rOo5YWlIHwg5LqR5Ye95pWw5o6n5Yi25Y+w44CM6YWN572uIOKGkiDnjq/looPlj5jph4/jgI3miJYgYHRjYiBmbiBkZXBsb3lgIOivu+WPliBgY2xvdWRiYXNlcmMuanNvbmAg55qEIGBmdW5jdGlvbnNbXS5lbnZWYXJpYWJsZXNgIHwNCnwg5aSx6LSl6KGM5Li6IHwgY2xvdWQgcmVxdWlyZSDlpLHotKUg4oaSIOWbnumAgCBKU09O77ybYHdyaXRlYCDlpLHotKUg4oaSIOi/lOWbniBge29rOmZhbHNlfWDvvIzkuI3pmLvmlq0gfA0KDQotLS0NCg0KIyMgNS4g5LqR5pWw5o2u5bqT6YWN572u5pa55byP77yI56Gu6K6k77yJDQoNCi0g546v5aKD77yaYFlPVVJfQ0xPVURfRU5WX0lEYO+8iENsb3VkQmFzZSDkuKrkurrniYjvvIznirbmgIEgTm9ybWFs77yJ44CCDQotIOmbhuWQiOWIm+W7uu+8mmB0Y2IgZGIgbm9zcWwgZXhlY3V0ZSAtLWNvbW1hbmQgJ1t7IlRhYmxlTmFtZSI6Im9ic2VydmFiaWxpdHlfbG9ncyIsIkNvbW1hbmRUeXBlIjoiQ09NTUFORCIsIkNvbW1hbmQiOiJ7XCJjcmVhdGVcIjpcIm9ic2VydmFiaWxpdHlfbG9nc1wifSJ9XSdg44CCDQotIOadg+mZkO+8muS6keWHveaVsOe7jyBgd3gtc2VydmVyLXNka2DvvIhhZG1pbu+8ieWGmeWFpS/or7vlj5bvvIwqKue7lei/h+mbhuWQiOadg+mZkOinhOWImSoq77yM5pWF6ZuG5ZCI6buY6K6k5p2D6ZmQ5LiN5b2x5ZON5LqR5Ye95pWw6K+75YaZ44CCDQotIOW3sumqjOivge+8mmBvYnNlcnZhYmlsaXR5X2xvZ3NgIOmbhuWQiCAqKuW3suWIm+W7uuOAgeW9k+WJjSAwIOadoeaWh+ahoyoq77yIY291bnQgYG49MGDvvInjgIINCg0KLS0tDQoNCiMjIDYuIERhc2hib2FyZCDmlbDmja7or7vlj5bpk77ot6/vvIjnoa7orqTvvIkNCg0KYGRhc2hib2FyZC9kYXNoYm9hcmQuanNgIOKGkiBgYnVpbGREYXNoYm9hcmQoY29uZmlnKWDvvJoNCjEuIGBjb25maWcuc3RvcmVgIOS8mOWFiO+8m+e8uuecgSBgbmV3IEpzb25PYnNlcnZhYmlsaXR5U3RvcmUoLi4uKWDjgIINCjIuIGBvYnNlcnZhdGlvbnMgPSBzdG9yZS5yZWFkQWxsKClg77yITDM3MS0zNzLvvInigJQg5LqR546v5aKD5Lyg5YWlIGBDbG91ZE9ic2VydmFiaWxpdHlTdG9yZWAg5a6e5L6L5Y2z5Y+v6K+75Y+WIGBvYnNlcnZhYmlsaXR5X2xvZ3Ng44CCDQozLiBgYnVpbGRPYnNlcnZhYmlsaXR5TWV0cmljcyhvYnNlcnZhdGlvbnMpYO+8iEwyMjQtMjg077yJ77yaDQogICAtIGBxdWVyeUNvdW50LnZhbHVlID0gb2JzZXJ2YXRpb25zLmxlbmd0aGANCiAgIC0gYGtub3dsZWRnZVVzYWdlLnZhbHVlID0ga25vd2xlZGdlX3R5cGUg6aKR5qyhYA0KICAgLSBgbGF0ZW5jeS52YWx1ZSA9IOWdh+WAvGDvvIjmnaXoh6ogYGxhdGVuY3lfbXNg77yJDQo0LiBgYnVpbGRDaXRhdGlvbk1ldHJpY3Ng77yaYHJ1bnRpbWVfY2l0YXRpb25fcHJlc2VudF9yYXRlID0gY2l0YXRpb25fY291bnQ+MCDljaDmr5Rg44CCDQo1LiAqKk4vQSDor5rlrp4qKu+8mmBzdG9yZUF2YWlsYWJsZT1mYWxzZWAg5oiWIGBvYnNlcnZhdGlvbnMubGVuZ3RoPT09MGAg4oaSIGBuYSgnLi4uJylg77yIYGF2YWlsYWJsZTpmYWxzZSwgdmFsdWU6bnVsbGDvvInvvIwqKue7neS4jeS8qumAoCoq44CCDQoNCj4g5rKZ566x5YaFIGB3eC1zZXJ2ZXItc2RrYCDkuI3lj6/nlKjvvIzmlYUgU3RhZ2UgNSDpqozor4HlsIbku6XjgIxgdGNiIGRiIG5vc3FsYCDmi4nlj5bnnJ/lrp7kupHlupPorrDlvZUg4oaSIOacrOWcsOeUqOecn+WuniBgZGFzaGJvYXJkLmpzYCArIOmAgumFjSBzdG9yZSDogZrlkIjjgI3mlrnlvI/lrozmiJDvvIzkvb/nlKjnnJ/lrp7ku6PnoIEgKyDnnJ/lrp7mlbDmja7vvIzkuI3mlLnliqjku7vkvZXmlofku7bjgIINCg0KLS0tDQoNCiMjIDcuIOWbnua7muaWueW8j++8iOehruiupO+8iQ0KDQotICoq5aSH5Lu95bey5omn6KGMKirvvJpgdGNiIGZuIGNvZGUgZG93bmxvYWQgY2hhdCAuZGVwbG95LWJhY2t1cC9jaGF0LXByZS1vYnMtMjAyNjA4MDJgDQogIC0g5Lqn54mp77yaYGFjdGlvbkxpYnJhcnkuanNgIC8gYGNvbmZpZy5qc29uYCAvIGBjb3JwdXMuanNvbmAgLyBgaW5kZXguanNg77yINzU0MkLvvIznoa7orqQqKuaXoCoqIGBsb2dPYnNlcnZhdGlvbmAg5Z+L54K577yM5Y2z6YOo572y5YmN5Z+657q/77yJLyBgaW50ZW50LmpzYCAvIGBub2RlX21vZHVsZXNgIC8gYHBhY2thZ2UtbG9jay5qc29uYOOAgg0KICAtIOe6v+S4iuWHveaVsOW9k+WJjemFjee9ru+8mnRpbWVvdXQ9NjDjgIFtZW1vcnk9NTEy44CBcnVudGltZT1Ob2RlanMxNi4xM+OAgWVudj1gQURNSU5fT1BFTklEPVlPVVJfQURNSU5fT1BFTklELi4uYOOAgWF1dG8taW5zdGFsbCBkZXBzPVRSVUXjgIINCi0gKirlm57mu5rmk43kvZwqKu+8iOS6jOmAieS4gO+8ie+8mg0KICAxLiBgdGNiIGZuIGNvZGUgdXBkYXRlIGNoYXQgLmRlcGxveS1iYWNrdXAvY2hhdC1wcmUtb2JzLTIwMjYwODAyYCDigJTigJQg55u05o6l6L+Y5Y6f5Luj56CB77yI5o6o6I2Q77yM5pyA5b+r77yJ44CCDQogIDIuIOaIluWwhiBgS05PV0xFREdFX09CU0VSVkFCSUxJVFlfU1RPUkVgIOaUueWbnumdniBgY2xvdWRg77yI5L+d55WZ5paw5Luj56CB5L2G5YWz6Zet5LqR5YaZ5YWl77yM6ZmN57qn5YiwIEpTT04gZmFsbGJhY2vvvInjgIINCi0gKirlm57mu5rlronlhajmgKcqKu+8mk9ic2VydmFiaWxpdHkg5Li6IGZpcmUtYW5kLWZvcmdldCDml4Hot6/vvIzlm57mu5rkuI3lvbHlk43ml6LmnInlm57nrZTpk77ot6/vvJtgb2JzZXJ2YWJpbGl0eV9sb2dzYCDkuK3lt7LlhpnlhaXorrDlvZXkv53nlZnvvIjlj6ror7vvvIzml6DlrrPvvInjgIINCg0KLS0tDQoNCiMjIDguIOmDqOe9suWJjemjjumZqeS4juWvueetlg0KDQp8IOmjjumZqSB8IOWvueetliB8DQp8LS0tLS0tfC0tLS0tLXwNCnwg6YOo572y5pe2IGBlbnZWYXJpYWJsZXNgIOaVtOS9k+imhueblu+8jOivr+WIoCBgQURNSU5fT1BFTklEYCB8IGBjbG91ZGJhc2VyYy5qc29uYCDkuK0qKuaYvuW8j+S/neeVmSoqIGBBRE1JTl9PUEVOSURgICsg5paw5aKeIGBLTk9XTEVER0VfT0JTRVJWQUJJTElUWV9TVE9SRWAgfA0KfCDpg6jnvbLph43nva7lh73mlbDphY3nva7vvIh0aW1lb3V0L21lbW9yeS9ydW50aW1l77yJIHwgYGNsb3VkYmFzZXJjLmpzb25gIOmUgeWumiB0aW1lb3V0PTYw77yI57q/5LiK5a6e6ZmF5YC877yM6Z2eIGNvbmZpZy5qc29uIOeahCA5MO+8ieOAgW1lbW9yeT01MTLjgIFydW50aW1lPU5vZGVqczE2LjEzIHwNCnwg6ZuG5ZCI5pyq5bu65a+86Ie06aaW5YaZ5aSx6LSlIHwg5bey5YWI6KGM5Yib5bu6IGBvYnNlcnZhYmlsaXR5X2xvZ3Ng77yIY291bnQ9MCDpqozor4HpgJrov4fvvIkgfA0KfCDkupHlhpnlhaXlpLHotKXlvbHlk43nlKjmiLflm57nrZQgfCDkuI3lj6/og70g4oCUIGB3cml0ZWAg5rC45LiN5oqb5Ye677yM5Li76ZO+6Lev5LiNIGF3YWl0IHwNCnwg5pys5Zyw5pegIGB3eC1zZXJ2ZXItc2RrYCDoh7QgRGFzaGJvYXJkIOaXoOazleebtOi/nuS6keW6kyB8IFN0YWdlIDUg55So44CM5ouJ5Y+W55yf5a6e6K6w5b2VICsg55yf5a6eIGRhc2hib2FyZC5qcyDogZrlkIjjgI3mm7/ku6PvvIzkuI3kvp3otZbmnKzlnLAgU0RLIHwNCg0KLS0tDQoNCiMjIDkuIOWuoeiuoeetvue9sg0KDQotIOWPquivu+WuoeiuoeWujOaIkO+8jOacquWPkeeOsOmcgOS/ruaUueWGu+e7k+i1hOS6py/ot6/nlLEvUHJvbXB0L0ludGVudC9SQUcg5LmL5aSE44CCDQotIE9ic2VydmFiaWxpdHkg5Luj56CB77yIUGhhc2UgUCsg5bey5Lqk5LuY77yJ5ruh6Laz6YOo572y5YmN572u5p2h5Lu277ya5aSx6LSl5a6J5YWo44CBZmlyZS1hbmQtZm9yZ2V044CBc3RvcmFnZSDlj6/liIfmjaLjgIFEYXNoYm9hcmQg5Y+q6K+76IGa5ZCI44CCDQotIOWkh+S7veS6p+eJqeWwseS9je+8jOWbnua7mui3r+W+hOaYjuehruOAgg0KLSAqKuW7uuiurui/m+WFpeesrOS6jOmYtuaute+8iENsb3VkIE9ic2VydmFiaWxpdHkgU3RvcmFnZe+8ieS4juesrOS4iemYtuaute+8iOeOr+Wig+WIh+aNou+8ieeahOWunumZheaJp+ihjOOAgioqDQo=
+﻿# Phase P+ Deployment 审计（第一阶段 · 只读）
+
+> 阶段目标：部署前只读审计，确认当前 Observability 能力状态、默认存储、cloud 接入方式、回滚方式。
+> 审计时间：2026-08-02
+> 审计范围：`cloudfunctions/chat/observability/*`、`cloudfunctions/chat/config.json`、chat 云函数线上配置、云数据库、Dashboard 数据读取链路。
+> 审计原则：**只读**，未改动任何冻结资产、未改动 Router/Prompt/Intent/RAG、未部署。
+
+---
+
+## 1. 审计结论速览
+
+| 审计项 | 结论 |
+|--------|------|
+| 当前默认 storage | **JSON（local/file fallback）** |
+| cloud storage 接入方式 | `KNOWLEDGE_OBSERVABILITY_STORE=cloud` → `CloudObservabilityStore`（wx-server-sdk → 云库 `observability_logs`） |
+| 回滚方式 | `tcb fn code download` 备份（**已执行**，产物 `.deploy-backup/chat-pre-obs-20260802`）；回滚 = 重新部署该备份 |
+| 回答流程是否被改动 | 否 — `logObservation` 为 fire-and-forget，不 await、不抛错到主链路 |
+| 写入失败是否阻断服务 | 否 — `store.write` 永不抛出，错误仅 `console.error` |
+| Dashboard 是否重算检索 | 否 — `dashboard.js` 不 require `rag.js`、不调用 embedding，只读聚合 |
+
+---
+
+## 2. Observability 代码审计（只读）
+
+### 2.1 `observability/observabilityLogger.js`
+- **L40-51 `createDefaultStore()`**：当 `process.env.KNOWLEDGE_OBSERVABILITY_STORE === 'cloud'` 时 `require('./cloudObservabilityStore')` 返回 `CloudObservabilityStore`；否则返回 `JsonObservabilityStore`。require cloud 失败时 try/catch 回退 JSON。
+- **L54-106 `buildObservationRecord(opts)`**：纯函数，从入参零成本构造记录。已落库字段（docs/62 §9 覆盖 6/12 + 1/12 等效）：
+  - 基础：`query` / `answer_id` / `conversation_id` / `openid` / `created_at`
+  - 路由：`knowledge_type`（来自 citations）、`router_decision`（只读复算 `knowledgeRouter.routeQuestion`，冻结纯函数）、`fallback_reason`、`router_enabled`、`domain`、`intent`、`policy_name`
+  - 检索（标题列表，非 display_text）：`retrieval_result` ◐ 等价 `citation_source`
+  - 引用：`citation_count`
+  - 性能：`latency_ms`
+  - ❌ 未覆盖 5/12（位于冻结 rag.js 内部，推迟至 Phase Q）：`retrieval_mode` / `router_adjustment` / `rerank_score` / `chunk_id` / `vector_score`
+- **L113-126 `logObservation(opts)`**：fire-and-forget，`Promise.resolve(store.write(record)).catch(...)` 不 await；外层 try/catch 兜底同步异常。**绝不阻塞/抛错到主链路**。
+
+### 2.2 `observability/cloudObservabilityStore.js`（Phase P+ 已实现）
+- **L18**：`this.collection = config.collection || 'observability_logs'` — 目标集合名已固化。
+- **L22-36 `_getDb()`**：延迟 `require('wx-server-sdk')`（本地/测试不加载），`cloud.init({ env: cloud.DYNAMIC_CURRENT_ENV })`（幂等、try/catch 保护）。
+- **L38-47 `write(record)`**：`db.collection(...).add({ data: {...record, createTime: db.serverDate()} })`；**永不抛出**，失败返回 `{ ok: false }`。
+- **L49-61 `readAll(limit)`**：`orderBy('createTime','desc').limit(...).get()`，供 Dashboard 读取；失败返回 `[]`。
+
+### 2.3 `observability/jsonObservabilityStore.js`（默认 / fallback）
+- 默认存储：`path.join(__dirname,'observability-store.json')`。
+- `write()` 追加数组、永不抛出；`readAll()` 读取全部。**本地/测试/降级兜底**。
+
+### 2.4 `cloudfunctions/chat/config.json`
+```json
+{"permissions":{"openapi":["security.msgSecCheck"]},"timeout":90,"memorySize":512,"runtime":"Nodejs16.13"}
+```
+> 注意：config.json **无 env 字段**。环境变量 `KNOWLEDGE_OBSERVABILITY_STORE` 需经云函数控制台 / `tcb fn deploy` 的 `envVariables` 注入（见 §4）。
+
+---
+
+## 3. 当前默认 storage（确认）
+
+`createDefaultStore()` 在 `KNOWLEDGE_OBSERVABILITY_STORE` 未设置或 ≠ `'cloud'` 时返回 `JsonObservabilityStore`。
+**结论：默认 storage = JSON（local/file fallback）**，符合 Stage 3「默认保持 local/file fallback」要求。
+
+---
+
+## 4. cloud storage 接入方式（确认）
+
+| 环节 | 机制 |
+|------|------|
+| 开关 | `process.env.KNOWLEDGE_OBSERVABILITY_STORE === 'cloud'` |
+| 实现 | `CloudObservabilityStore` 延迟加载 `wx-server-sdk` |
+| 目标集合 | `observability_logs`（collection 名已固化于 L18） |
+| 初始化 | `cloud.init({ env: cloud.DYNAMIC_CURRENT_ENV })`（与函数入口一致） |
+| 环境注入 | 云函数控制台「配置 → 环境变量」或 `tcb fn deploy` 读取 `cloudbaserc.json` 的 `functions[].envVariables` |
+| 失败行为 | cloud require 失败 → 回退 JSON；`write` 失败 → 返回 `{ok:false}`，不阻断 |
+
+---
+
+## 5. 云数据库配置方式（确认）
+
+- 环境：`YOUR_CLOUD_ENV_ID`（CloudBase 个人版，状态 Normal）。
+- 集合创建：`tcb db nosql execute --command '[{"TableName":"observability_logs","CommandType":"COMMAND","Command":"{\"create\":\"observability_logs\"}"}]'`。
+- 权限：云函数经 `wx-server-sdk`（admin）写入/读取，**绕过集合权限规则**，故集合默认权限不影响云函数读写。
+- 已验证：`observability_logs` 集合 **已创建、当前 0 条文档**（count `n=0`）。
+
+---
+
+## 6. Dashboard 数据读取链路（确认）
+
+`dashboard/dashboard.js` → `buildDashboard(config)`：
+1. `config.store` 优先；缺省 `new JsonObservabilityStore(...)`。
+2. `observations = store.readAll()`（L371-372）— 云环境传入 `CloudObservabilityStore` 实例即可读取 `observability_logs`。
+3. `buildObservabilityMetrics(observations)`（L224-284）：
+   - `queryCount.value = observations.length`
+   - `knowledgeUsage.value = knowledge_type 频次`
+   - `latency.value = 均值`（来自 `latency_ms`）
+4. `buildCitationMetrics`：`runtime_citation_present_rate = citation_count>0 占比`。
+5. **N/A 诚实**：`storeAvailable=false` 或 `observations.length===0` → `na('...')`（`available:false, value:null`），**绝不伪造**。
+
+> 沙箱内 `wx-server-sdk` 不可用，故 Stage 5 验证将以「`tcb db nosql` 拉取真实云库记录 → 本地用真实 `dashboard.js` + 适配 store 聚合」方式完成，使用真实代码 + 真实数据，不改动任何文件。
+
+---
+
+## 7. 回滚方式（确认）
+
+- **备份已执行**：`tcb fn code download chat .deploy-backup/chat-pre-obs-20260802`
+  - 产物：`actionLibrary.js` / `config.json` / `corpus.json` / `index.js`（7542B，确认**无** `logObservation` 埋点，即部署前基线）/ `intent.js` / `node_modules` / `package-lock.json`。
+  - 线上函数当前配置：timeout=60、memory=512、runtime=Nodejs16.13、env=`ADMIN_OPENID=YOUR_ADMIN_OPENID...`、auto-install deps=TRUE。
+- **回滚操作**（二选一）：
+  1. `tcb fn code update chat .deploy-backup/chat-pre-obs-20260802` —— 直接还原代码（推荐，最快）。
+  2. 或将 `KNOWLEDGE_OBSERVABILITY_STORE` 改回非 `cloud`（保留新代码但关闭云写入，降级到 JSON fallback）。
+- **回滚安全性**：Observability 为 fire-and-forget 旁路，回滚不影响既有回答链路；`observability_logs` 中已写入记录保留（只读，无害）。
+
+---
+
+## 8. 部署前风险与对策
+
+| 风险 | 对策 |
+|------|------|
+| 部署时 `envVariables` 整体覆盖，误删 `ADMIN_OPENID` | `cloudbaserc.json` 中**显式保留** `ADMIN_OPENID` + 新增 `KNOWLEDGE_OBSERVABILITY_STORE` |
+| 部署重置函数配置（timeout/memory/runtime） | `cloudbaserc.json` 锁定 timeout=60（线上实际值，非 config.json 的 90）、memory=512、runtime=Nodejs16.13 |
+| 集合未建导致首写失败 | 已先行创建 `observability_logs`（count=0 验证通过） |
+| 云写入失败影响用户回答 | 不可能 — `write` 永不抛出，主链路不 await |
+| 本地无 `wx-server-sdk` 致 Dashboard 无法直连云库 | Stage 5 用「拉取真实记录 + 真实 dashboard.js 聚合」替代，不依赖本地 SDK |
+
+---
+
+## 9. 审计签署
+
+- 只读审计完成，未发现需修改冻结资产/路由/Prompt/Intent/RAG 之处。
+- Observability 代码（Phase P+ 已交付）满足部署前置条件：失败安全、fire-and-forget、storage 可切换、Dashboard 只读聚合。
+- 备份产物就位，回滚路径明确。
+- **建议进入第二阶段（Cloud Observability Storage）与第三阶段（环境切换）的实际执行。**

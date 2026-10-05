@@ -1,1 +1,1 @@
-W3siVGFibGVOYW1lIjoibW9kZWxfY29uZmlnIiwiQ29tbWFuZFR5cGUiOiJRVUVSWSIsIkNvbW1hbmQiOiJ7XCJmaW5kXCI6XCJtb2RlbF9jb25maWdcIixcImZpbHRlclwiOnt9LFwibGltaXRcIjoxMDB9In1dCg==
+[{"TableName":"model_config","CommandType":"QUERY","Command":"{\"find\":\"model_config\",\"filter\":{},\"limit\":100}"}]

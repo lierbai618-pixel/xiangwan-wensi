@@ -1,1 +1,84 @@
-Ly8gUGhhc2UgRSBzbW9rZSB0ZXN077ya5Zue562U5Y+C5pWw5YyWICsg6L+96Zeu6YeN5YaZICsg5oCd5oOz6Lev57q/Ci8vIOi/kOihjO+8mm5vZGUgc2NyaXB0cy90ZXN0X3BoYXNlZS5qcwpjb25zdCBwYXRoID0gcmVxdWlyZSgicGF0aCIpOwpjb25zdCByYWcgPSByZXF1aXJlKHBhdGguam9pbihfX2Rpcm5hbWUsICIuLiIsICJjbG91ZGZ1bmN0aW9ucyIsICJjaGF0IiwgInJhZy5qcyIpKTsKCmxldCBwYXNzID0gMCwgZmFpbCA9IDA7CmZ1bmN0aW9uIG9rKG5hbWUsIGNvbmQpIHsKICBpZiAoY29uZCkgeyBwYXNzKys7IGNvbnNvbGUubG9nKCIgIOKckyAiICsgbmFtZSk7IH0KICBlbHNlIHsgZmFpbCsrOyBjb25zb2xlLmxvZygiICDinJcgIiArIG5hbWUpOyB9Cn0KCmNvbnNvbGUubG9nKCJcblsxXSDlm57nrZTlj4LmlbDljJYgcmVzb2x2ZUFuc3dlclBhcmFtcyIpOwpjb25zdCBwMSA9IHJhZy5yZXNvbHZlQW5zd2VyUGFyYW1zKCJwbGFpbiIpOwpjb25zdCBwMiA9IHJhZy5yZXNvbHZlQW5zd2VyUGFyYW1zKCJkZWVwIik7CmNvbnN0IHAzID0gcmFnLnJlc29sdmVBbnN3ZXJQYXJhbXMoImNsYXNzaWMiKTsKb2soInBsYWluIOKGkiBkZXB0aCAxIiwgcDEuZGVwdGggPT09IDEpOwpvaygiZGVlcCDihpIgZGVwdGggMyIsIHAyLmRlcHRoID09PSAzKTsKb2soImNsYXNzaWMg4oaSIGNsYXNzaWNfd2VpZ2h0IDAuOSIsIHAzLmNsYXNzaWNfd2VpZ2h0ID09PSAwLjkpOwpvaygi6Z2e5rOVIG1vZGUg5Zue6YCAIHBsYWluIiwgcmFnLnJlc29sdmVBbnN3ZXJQYXJhbXMoInh4eCIpLmtleSA9PT0gInBsYWluIik7CmNvbnN0IHBPYmogPSByYWcucmVzb2x2ZUFuc3dlclBhcmFtcyh7IHByZXNldDogImRlZXAiLCBjbGFzc2ljX3dlaWdodDogMC45LCBkZXB0aDogMiB9KTsKb2soIuWPguaVsOWvueixoeimhueblu+8mnByZXNldCBkZWVwICsg6KaG55uWIGRlcHRoPTIvY3c9MC45IiwgcE9iai5rZXkgPT09ICJkZWVwIiAmJiBwT2JqLmRlcHRoID09PSAyICYmIHBPYmouY2xhc3NpY193ZWlnaHQgPT09IDAuOSk7Cm9rKCLlj4LmlbDotornlYzooqsgY2xhbXDvvIhkZXB0aCA5IOKGkiAz77yJIiwgcmFnLnJlc29sdmVBbnN3ZXJQYXJhbXMoeyBwcmVzZXQ6ICJwbGFpbiIsIGRlcHRoOiA5IH0pLmRlcHRoID09PSAzKTsKCmNvbnNvbGUubG9nKCJcblsyXSBidWlsZFJvbGVQcm9tcHQg55Sx5Y+C5pWw5riy5p+T77yM5L+d5oyB5LiJ6aKE6K6+6K+t5LmJIik7CmNvbnN0IHJwUGxhaW4gPSByYWcuYnVpbGRSb2xlUHJvbXB0KCJwbGFpbiIpOwpjb25zdCBycERlZXAgPSByYWcuYnVpbGRSb2xlUHJvbXB0KCJkZWVwIik7CmNvbnN0IHJwQ2xhc3NpYyA9IHJhZy5idWlsZFJvbGVQcm9tcHQoImNsYXNzaWMiKTsKb2soImRlZXAg5ZCr44CO6KeG6KeS5LiAIC8g6KeG6KeS5LqM44CPIiwgL+inhuinkuS4gCBcLyDop4bop5LkuowvLnRlc3QocnBEZWVwKSk7Cm9rKCJjbGFzc2ljIOWQq+OAjue7j+WFuOWOn+aWh+S4uuS4u+i9tOOAjyIsIC/nu4/lhbjljp/mlofkuLrkuLvovbQvLnRlc3QocnBDbGFzc2ljKSk7Cm9rKCJwbGFpbiDlubPlrp7nroDnn60iLCAv5bmz5a6eLy50ZXN0KHJwUGxhaW4pKTsKb2soIuaJgOaciemihOiuvuWQq+acgOmrmOe6puadn++8iOWNseacuuS8mOWFiOe6p++8iSIsIC/ljbHmnLrmnIDpq5jkvJjlhYjnuqcvLnRlc3QocnBQbGFpbikgJiYgL+WNseacuuacgOmrmOS8mOWFiOe6py8udGVzdChycERlZXApKTsKb2soIuWPguaVsOWvueixoeS5n+iDveaehOW7uiBwcm9tcHQiLCAv6KeG6KeS5LiALy50ZXN0KHJhZy5idWlsZFJvbGVQcm9tcHQoeyBwcmVzZXQ6ICJkZWVwIiB9KSkpOwoKY29uc29sZS5sb2coIlxuWzNdIOi/vemXrumHjeWGmSByZXdyaXRlUXVlcnkiKTsKY29uc3QgaGlzdCA9IFsKICB7IHJvbGU6ICJ1c2VyIiwgY29udGVudDogIuaIkeivpeWmguS9lemdouWvueWksei0pe+8nyIgfSwKICB7IHJvbGU6ICJhc3Npc3RhbnQiLCBjb250ZW50OiAi4oCm4oCm77yI5LiK5LiA6L2u5Zue562U77yJ4oCm4oCmIiB9LApdOwpjb25zdCBydzEgPSByYWcucmV3cml0ZVF1ZXJ5KCLpgqPlpoLmnpzmiJHmmK/lrabnlJ/lkaLvvJ8iLCBoaXN0KTsKb2soIuefrei/vemXruiiq+ivhuWIq+S4uiBmb2xsb3dVcCIsIHJ3MS5mb2xsb3dVcCA9PT0gdHJ1ZSk7Cm9rKCLmo4DntKLpl67popjooaXlhajkuIrmlociLCBydzEucmV0cmlldmFsUXVlcnkuaW5kZXhPZigi5aaC5L2V6Z2i5a+55aSx6LSlIikgPj0gMCAmJiBydzEucmV0cmlldmFsUXVlcnkuaW5kZXhPZigi5a2m55SfIikgPj0gMCk7Cm9rKCJjb250ZXh0UmVmID0g5LiK5LiA6ZeuIiwgcncxLmNvbnRleHRSZWYgPT09ICLmiJHor6XlpoLkvZXpnaLlr7nlpLHotKXvvJ8iKTsKY29uc3QgcncyID0gcmFnLnJld3JpdGVRdWVyeSgi5oiR5pyA6L+R5bel5L2c5Y6L5Yqb5b6I5aSn77yM5oCO5LmI6LCD6IqC5oOF57uq77yfIiwgaGlzdCk7Cm9rKCLlrozmlbTmlrDpl67popjkuI3liKTkuLrov73pl64iLCBydzIuZm9sbG93VXAgPT09IGZhbHNlKTsKb2soIuaWsOmXrumimCByZXRyaWV2YWxRdWVyeSA9IOWOn+aWhyIsIHJ3Mi5yZXRyaWV2YWxRdWVyeSA9PT0gIuaIkeacgOi/keW3peS9nOWOi+WKm+W+iOWkp++8jOaAjuS5iOiwg+iKguaDhee7qu+8nyIpOwpjb25zdCBydzMgPSByYWcucmV3cml0ZVF1ZXJ5KCLpgqPlpoLmnpzmiJHmmK/lrabnlJ/lkaLvvJ8iLCBbXSk7Cm9rKCLml6Dljoblj7Lml7bkuI3or6/liKTov73pl64iLCBydzMuZm9sbG93VXAgPT09IGZhbHNlKTsKCmNvbnNvbGUubG9nKCJcbls0XSDmgJ3mg7Pot6/nur8gYnVpbGRSb3V0ZSIpOwpjb25zdCBjaXRlcyA9IFsKICB7IHRpdGxlOiAi6K666K+tIiwgdGFnczogWyLlrabkuaAiLCAi6KGM5YqoIiwgIuaIkOmVvyJdIH0sCiAgeyB0aXRsZTogIuayieaAneW9lSIsIHRhZ3M6IFsi5oOF57uqIiwgIuiHquaIkSJdIH0sCl07CmNvbnN0IHIgPSByYWcuYnVpbGRSb3V0ZSgi5oiR5a2m5Lmg5rKh5Yqo5Yqb77yM5oOF57uq5Lmf5beuIiwgY2l0ZXMpOwpvaygiZGltZW5zaW9ucyDpnZ7nqbrkuJQg4omkMyIsIHIuZGltZW5zaW9ucy5sZW5ndGggPiAwICYmIHIuZGltZW5zaW9ucy5sZW5ndGggPD0gMyk7Cm9rKCLmjqjojZDkuabmnaXoh6ogY2l0YXRpb25zIiwgci5ib29rcy5pbmRleE9mKCLorrror60iKSA+PSAwICYmIHIuYm9va3MuaW5kZXhPZigi5rKJ5oCd5b2VIikgPj0gMCk7Cm9rKCJjb3JlIOS4gOWPpeivnemdnuepuiIsIHR5cGVvZiByLmNvcmUgPT09ICJzdHJpbmciICYmIHIuY29yZS5sZW5ndGggPiAwKTsKY29uc3QgckVtcHR5ID0gcmFnLmJ1aWxkUm91dGUoIumaj+S+v+mXrumXriIsIFtdKTsKb2soIuaXoCBjaXRhdGlvbnMg5Lmf5pyJ5YWc5bqVIGRpbWVuc2lvbiIsIHJFbXB0eS5kaW1lbnNpb25zLmxlbmd0aCA+PSAxKTsKCmNvbnNvbGUubG9nKCJcbls1XSBnZW5lcmF0ZUFuc3dlciDnq6/liLDnq6/vvIjmnKzlnLDot6/lvoTvvIzml6DmqKHlnovvvIkiKTsKKGFzeW5jICgpID0+IHsKICBjb25zdCByZXMgPSBhd2FpdCByYWcuZ2VuZXJhdGVBbnN3ZXIoIumCo+WmguaenOaIkeaYr+WtpueUn+WRou+8nyIsIHsKICAgIHR1cm46IDEsCiAgICBtb2RlbHM6IFtdLAogICAgbW9kZTogImNsYXNzaWMiLAogICAgaGlzdG9yeTogWwogICAgICB7IHJvbGU6ICJ1c2VyIiwgY29udGVudDogIuaIkeivpeWmguS9lemdouWvueWksei0pe+8nyIgfSwKICAgICAgeyByb2xlOiAiYXNzaXN0YW50IiwgY29udGVudDogIuKApuKApiIgfSwKICAgICAgeyByb2xlOiAidXNlciIsIGNvbnRlbnQ6ICLpgqPlpoLmnpzmiJHmmK/lrabnlJ/lkaLvvJ8iIH0sIC8vIOWJjeerryBoaXN0b3J5IOW4uOWQq+acrOi9rgogICAgXSwKICB9KTsKICBvaygi6L+U5Zue5pys5Zyw5Zue562UIiwgcmVzLm1vZGUgPT09ICJsb2NhbCIgJiYgdHlwZW9mIHJlcy5hbnN3ZXIgPT09ICJzdHJpbmciKTsKICBvaygi5bim5Zue5oCd5oOz6Lev57q/IHJvdXRlIiwgcmVzLnJvdXRlICYmIHJlcy5yb3V0ZS5kaW1lbnNpb25zLmxlbmd0aCA+IDApOwogIG9rKCJfcGFyYW1zIOiusOW9leino+aekOWQjueahOWPguaVsCIsIHJlcy5wYXJhbXMgIT09IHVuZGVmaW5lZCB8fCByZXMuX3BhcmFtcy5rZXkgPT09ICJjbGFzc2ljIik7CiAgb2soInJldHJpZXZhbC5mb2xsb3dVcCA9IHRydWXvvIjov73pl67or4bliKvotK/pgJrvvIkiLCByZXMucmV0cmlldmFsICYmIHJlcy5yZXRyaWV2YWwuZm9sbG93VXAgPT09IHRydWUpOwogIG9rKCJjaXRhdGlvbnMg5p2l6IeqIDEwIOacrOe7j+WFuO+8iOaXoOaVj+aEn+azhOa8j++8iSIsCiAgICAocmVzLmNpdGF0aW9ucyB8fCBbXSkuZXZlcnkoKGMpID0+ICEv5q+b5rO95LicfOWunui3teiuunznn5vnm77orrp86K665oyB5LmF5oiYLy50ZXN0KGMudGl0bGUpKSk7CiAgY29uc3QgbGVhayA9IC/mr5vms73kuJx85a6e6Le16K66fOefm+ebvuiuunzorrrmjIHkuYXmiJh85ZCM5b+X5L2g5aW9Ly50ZXN0KHJlcy5hbnN3ZXIpOwogIG9rKCLlm57nrZTml6DmlY/mhJ/ms4TmvI8iLCBsZWFrID09PSBmYWxzZSk7CgogIGNvbnNvbGUubG9nKCJcbue7k+aenO+8miIgKyBwYXNzICsgIiDpgJrov4cgLyAiICsgZmFpbCArICIg5aSx6LSlIik7CiAgcHJvY2Vzcy5leGl0KGZhaWwgPyAxIDogMCk7Cn0pKCk7Cg==
+// Phase E smoke test：回答参数化 + 追问重写 + 思想路线
+// 运行：node scripts/test_phasee.js
+const path = require("path");
+const rag = require(path.join(__dirname, "..", "cloudfunctions", "chat", "rag.js"));
+
+let pass = 0, fail = 0;
+function ok(name, cond) {
+  if (cond) { pass++; console.log("  ✓ " + name); }
+  else { fail++; console.log("  ✗ " + name); }
+}
+
+console.log("\n[1] 回答参数化 resolveAnswerParams");
+const p1 = rag.resolveAnswerParams("plain");
+const p2 = rag.resolveAnswerParams("deep");
+const p3 = rag.resolveAnswerParams("classic");
+ok("plain → depth 1", p1.depth === 1);
+ok("deep → depth 3", p2.depth === 3);
+ok("classic → classic_weight 0.9", p3.classic_weight === 0.9);
+ok("非法 mode 回退 plain", rag.resolveAnswerParams("xxx").key === "plain");
+const pObj = rag.resolveAnswerParams({ preset: "deep", classic_weight: 0.9, depth: 2 });
+ok("参数对象覆盖：preset deep + 覆盖 depth=2/cw=0.9", pObj.key === "deep" && pObj.depth === 2 && pObj.classic_weight === 0.9);
+ok("参数越界被 clamp（depth 9 → 3）", rag.resolveAnswerParams({ preset: "plain", depth: 9 }).depth === 3);
+
+console.log("\n[2] buildRolePrompt 由参数渲染，保持三预设语义");
+const rpPlain = rag.buildRolePrompt("plain");
+const rpDeep = rag.buildRolePrompt("deep");
+const rpClassic = rag.buildRolePrompt("classic");
+ok("deep 含『视角一 / 视角二』", /视角一 \/ 视角二/.test(rpDeep));
+ok("classic 含『经典原文为主轴』", /经典原文为主轴/.test(rpClassic));
+ok("plain 平实简短", /平实/.test(rpPlain));
+ok("所有预设含最高约束（危机优先级）", /危机最高优先级/.test(rpPlain) && /危机最高优先级/.test(rpDeep));
+ok("参数对象也能构建 prompt", /视角一/.test(rag.buildRolePrompt({ preset: "deep" })));
+
+console.log("\n[3] 追问重写 rewriteQuery");
+const hist = [
+  { role: "user", content: "我该如何面对失败？" },
+  { role: "assistant", content: "……（上一轮回答）……" },
+];
+const rw1 = rag.rewriteQuery("那如果我是学生呢？", hist);
+ok("短追问被识别为 followUp", rw1.followUp === true);
+ok("检索问题补全上文", rw1.retrievalQuery.indexOf("如何面对失败") >= 0 && rw1.retrievalQuery.indexOf("学生") >= 0);
+ok("contextRef = 上一问", rw1.contextRef === "我该如何面对失败？");
+const rw2 = rag.rewriteQuery("我最近工作压力很大，怎么调节情绪？", hist);
+ok("完整新问题不判为追问", rw2.followUp === false);
+ok("新问题 retrievalQuery = 原文", rw2.retrievalQuery === "我最近工作压力很大，怎么调节情绪？");
+const rw3 = rag.rewriteQuery("那如果我是学生呢？", []);
+ok("无历史时不误判追问", rw3.followUp === false);
+
+console.log("\n[4] 思想路线 buildRoute");
+const cites = [
+  { title: "论语", tags: ["学习", "行动", "成长"] },
+  { title: "沉思录", tags: ["情绪", "自我"] },
+];
+const r = rag.buildRoute("我学习没动力，情绪也差", cites);
+ok("dimensions 非空且 ≤3", r.dimensions.length > 0 && r.dimensions.length <= 3);
+ok("推荐书来自 citations", r.books.indexOf("论语") >= 0 && r.books.indexOf("沉思录") >= 0);
+ok("core 一句话非空", typeof r.core === "string" && r.core.length > 0);
+const rEmpty = rag.buildRoute("随便问问", []);
+ok("无 citations 也有兜底 dimension", rEmpty.dimensions.length >= 1);
+
+console.log("\n[5] generateAnswer 端到端（本地路径，无模型）");
+(async () => {
+  const res = await rag.generateAnswer("那如果我是学生呢？", {
+    turn: 1,
+    models: [],
+    mode: "classic",
+    history: [
+      { role: "user", content: "我该如何面对失败？" },
+      { role: "assistant", content: "……" },
+      { role: "user", content: "那如果我是学生呢？" }, // 前端 history 常含本轮
+    ],
+  });
+  ok("返回本地回答", res.mode === "local" && typeof res.answer === "string");
+  ok("带回思想路线 route", res.route && res.route.dimensions.length > 0);
+  ok("_params 记录解析后的参数", res.params !== undefined || res._params.key === "classic");
+  ok("retrieval.followUp = true（追问识别贯通）", res.retrieval && res.retrieval.followUp === true);
+  ok("citations 来自 10 本经典（无敏感泄漏）",
+    (res.citations || []).every((c) => !/毛泽东|实践论|矛盾论|论持久战/.test(c.title)));
+  const leak = /毛泽东|实践论|矛盾论|论持久战|同志你好/.test(res.answer);
+  ok("回答无敏感泄漏", leak === false);
+
+  console.log("\n结果：" + pass + " 通过 / " + fail + " 失败");
+  process.exit(fail ? 1 : 0);
+})();

@@ -1,1 +1,67 @@
-cGFnZSB7IGJhY2tncm91bmQ6ICNlZmU0Y2Y7IH0KLnBhZ2UgewogIG1pbi1oZWlnaHQ6IDEwMHZoOwogIHBhZGRpbmc6IDQwcnB4IDMycnB4IDcwcnB4OwogIGJveC1zaXppbmc6IGJvcmRlci1ib3g7CiAgYmFja2dyb3VuZDogI2VmZTRjZjsKICBjb2xvcjogIzJkMjYxYzsKfQoKLmhlcm8geyB0ZXh0LWFsaWduOiBjZW50ZXI7IG1hcmdpbi1ib3R0b206IDM0cnB4OyB9Ci5oZXJvLWtpY2tlciB7IGZvbnQtc2l6ZTogMjRycHg7IGNvbG9yOiAjOWIyZjI1OyBsZXR0ZXItc3BhY2luZzogNHJweDsgfQouaGVyby10aXRsZSB7IGZvbnQtc2l6ZTogNDJycHg7IGZvbnQtd2VpZ2h0OiA4MDA7IG1hcmdpbi10b3A6IDEycnB4OyB9Ci5oZXJvLXN1YiB7IGZvbnQtc2l6ZTogMjVycHg7IGNvbG9yOiAjN2E2ZDU4OyBtYXJnaW4tdG9wOiAxMnJweDsgfQoKLmVtcHR5IHsgdGV4dC1hbGlnbjogY2VudGVyOyBtYXJnaW4tdG9wOiAxMjBycHg7IH0KLmVtcHR5LWVtb2ppIHsgZm9udC1zaXplOiA5MHJweDsgfQouZW1wdHktdGV4dCB7IG1hcmdpbi10b3A6IDIwcnB4OyBmb250LXNpemU6IDMwcnB4OyBjb2xvcjogIzVhNGQzYzsgfQouZW1wdHktdGlwIHsgbWFyZ2luLXRvcDogMTJycHg7IGZvbnQtc2l6ZTogMjRycHg7IGNvbG9yOiAjOWI4Yzc0OyB9CgoubGlzdCB7IGRpc3BsYXk6IGZsZXg7IGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47IGdhcDogMjJycHg7IH0KLmZhdi1jYXJkIHsKICBiYWNrZ3JvdW5kOiAjZmZmYWYwOwogIGJvcmRlcjogMXJweCBzb2xpZCByZ2JhKDExNSwgODMsIDQ5LCAwLjE4KTsKICBib3JkZXItcmFkaXVzOiAxNHJweDsKICBvdmVyZmxvdzogaGlkZGVuOwogIGJveC1zaGFkb3c6IDAgMTRycHggMzJycHggcmdiYSg3NiwgNTMsIDMzLCAwLjEpOwp9Ci5mYXYtaGVhZCB7IHBhZGRpbmc6IDI4cnB4IDMwcnB4OyB9Ci5mYXYtdGFncyB7IGRpc3BsYXk6IGZsZXg7IGdhcDogMTJycHg7IGZsZXgtd3JhcDogd3JhcDsgbWFyZ2luLWJvdHRvbTogMTRycHg7IH0KLmZhdi10YWcgewogIGZvbnQtc2l6ZTogMjBycHg7CiAgY29sb3I6ICNmZmY4ZWE7CiAgcGFkZGluZzogNHJweCAxNnJweDsKICBib3JkZXItcmFkaXVzOiAzMHJweDsKfQouZmF2LXRhZy5zYWdlIHsgYmFja2dyb3VuZDogIzliMmYyNTsgfQouZmF2LXRhZy5zb2NyYXRpYyB7IGJhY2tncm91bmQ6ICM3YTVjYWI7IH0KLmZhdi10YWcubW9kZSB7IGJhY2tncm91bmQ6ICNiMDdhM2U7IH0KLmZhdi1xIHsKICBmb250LXNpemU6IDI4cnB4OwogIGZvbnQtd2VpZ2h0OiA2MDA7CiAgY29sb3I6ICMyZDI2MWM7CiAgbGluZS1oZWlnaHQ6IDEuNTsKfQouZmF2LXRvZ2dsZSB7IG1hcmdpbi10b3A6IDE0cnB4OyBmb250LXNpemU6IDIycnB4OyBjb2xvcjogIzliOGM3NDsgfQoKLmZhdi1ib2R5IHsgYm9yZGVyLXRvcDogMXJweCBzb2xpZCByZ2JhKDEyNiwgOTMsIDUyLCAwLjE0KTsgcGFkZGluZzogMjZycHggMzBycHggMjJycHg7IGJhY2tncm91bmQ6ICNmYmY0ZTQ7IH0KLmZhdi1hbnN3ZXIgewogIGZvbnQtc2l6ZTogMjdycHg7CiAgbGluZS1oZWlnaHQ6IDEuNzQ7CiAgY29sb3I6ICM0MzM4Mjg7CiAgd2hpdGUtc3BhY2U6IHByZS13cmFwOwp9Ci5mYXYtYWN0aW9ucyB7IGRpc3BsYXk6IGZsZXg7IGdhcDogMTZycHg7IG1hcmdpbi10b3A6IDI0cnB4OyB9Ci5mYXYtYWN0IHsKICBmbGV4OiAxOwogIHRleHQtYWxpZ246IGNlbnRlcjsKICBwYWRkaW5nOiAxOHJweCAwOwogIGJvcmRlci1yYWRpdXM6IDEwcnB4OwogIGZvbnQtc2l6ZTogMjZycHg7CiAgZm9udC13ZWlnaHQ6IDYwMDsKICBjb2xvcjogIzhhMzIyYTsKICBiYWNrZ3JvdW5kOiAjZjNlYWQ4OwogIGJvcmRlcjogMXJweCBzb2xpZCByZ2JhKDEzOSwgNzIsIDQzLCAwLjIyKTsKfQouZmF2LWFjdC5kYW5nZXIgeyBjb2xvcjogI2EzMmQyZDsgfQouZmF2LWFjdDphY3RpdmUgeyB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoMXJweCk7IH0K
+page { background: #efe4cf; }
+.page {
+  min-height: 100vh;
+  padding: 40rpx 32rpx 70rpx;
+  box-sizing: border-box;
+  background: #efe4cf;
+  color: #2d261c;
+}
+
+.hero { text-align: center; margin-bottom: 34rpx; }
+.hero-kicker { font-size: 24rpx; color: #9b2f25; letter-spacing: 4rpx; }
+.hero-title { font-size: 42rpx; font-weight: 800; margin-top: 12rpx; }
+.hero-sub { font-size: 25rpx; color: #7a6d58; margin-top: 12rpx; }
+
+.empty { text-align: center; margin-top: 120rpx; }
+.empty-emoji { font-size: 90rpx; }
+.empty-text { margin-top: 20rpx; font-size: 30rpx; color: #5a4d3c; }
+.empty-tip { margin-top: 12rpx; font-size: 24rpx; color: #9b8c74; }
+
+.list { display: flex; flex-direction: column; gap: 22rpx; }
+.fav-card {
+  background: #fffaf0;
+  border: 1rpx solid rgba(115, 83, 49, 0.18);
+  border-radius: 14rpx;
+  overflow: hidden;
+  box-shadow: 0 14rpx 32rpx rgba(76, 53, 33, 0.1);
+}
+.fav-head { padding: 28rpx 30rpx; }
+.fav-tags { display: flex; gap: 12rpx; flex-wrap: wrap; margin-bottom: 14rpx; }
+.fav-tag {
+  font-size: 20rpx;
+  color: #fff8ea;
+  padding: 4rpx 16rpx;
+  border-radius: 30rpx;
+}
+.fav-tag.sage { background: #9b2f25; }
+.fav-tag.socratic { background: #7a5cab; }
+.fav-tag.mode { background: #b07a3e; }
+.fav-q {
+  font-size: 28rpx;
+  font-weight: 600;
+  color: #2d261c;
+  line-height: 1.5;
+}
+.fav-toggle { margin-top: 14rpx; font-size: 22rpx; color: #9b8c74; }
+
+.fav-body { border-top: 1rpx solid rgba(126, 93, 52, 0.14); padding: 26rpx 30rpx 22rpx; background: #fbf4e4; }
+.fav-answer {
+  font-size: 27rpx;
+  line-height: 1.74;
+  color: #433828;
+  white-space: pre-wrap;
+}
+.fav-actions { display: flex; gap: 16rpx; margin-top: 24rpx; }
+.fav-act {
+  flex: 1;
+  text-align: center;
+  padding: 18rpx 0;
+  border-radius: 10rpx;
+  font-size: 26rpx;
+  font-weight: 600;
+  color: #8a322a;
+  background: #f3ead8;
+  border: 1rpx solid rgba(139, 72, 43, 0.22);
+}
+.fav-act.danger { color: #a32d2d; }
+.fav-act:active { transform: translateY(1rpx); }

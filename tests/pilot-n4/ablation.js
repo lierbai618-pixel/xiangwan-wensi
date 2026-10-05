@@ -1,1 +1,133 @@
-LyoqCiAqIFBoYXNlIE4tNCBBYmxhdGlvbiDigJQg5a6a5L2N5Zue5b2S5LiL6ZmN5qC55Zug5bm26aqM6K+B57yT6Kej5pa55qGICiAqIOWPmOS9k++8mgogKiAgVjAgYmFzZWxpbmUgICAgICAgIDog5YWo6YOoIGNoaWxkIGNodW5rIOWFpee0ouW8lQogKiAgVjEgbm8tY3Jvc3NyZWYgICAgIDog56e76Zmk5ZCr57uP5YW45Lmm5ZCN55qE44CM5LiO57uP5YW45oCd5oOz55qE5YWz57O744CNY2h1bmsKICogIFYyIGNvcmUtb25seSAgICAgICA6IOS7heS/neeVmeamguW/teWGheaguO+8iOWumuS5iS/mnaXmupAv6KGo546wL+W6lOWvuS/ovrnnlYzvvInvvIznp7vpmaTnlJ/mtLvlnLrmma8gKyDkuqTlj4nlvJXnlKgKICogIFYzIGNvcmUrZG9tYWluLWdhdGU6IFYyICsg6K+N6Z2i5Z+f6Ze477yI5p+l6K+i5peg6K6k55+l5YGP5beu5L+h5Y+35YiZIHBpbG90IOS4jeWPguS4juWAmemAie+8iQogKiDlj6ror7vnlJ/kuqfotYTkuqfvvIzkuqfnianlhpkgYXJ0aWZhY3RzL2FibGF0aW9uLmpzb24KICovCmNvbnN0IGZzID0gcmVxdWlyZSgiZnMiKTsKY29uc3QgcGF0aCA9IHJlcXVpcmUoInBhdGgiKTsKY29uc3QgUk9PVCA9IHBhdGgucmVzb2x2ZShfX2Rpcm5hbWUsICIuLiIsICIuLiIpOwpjb25zdCBBUlQgPSBwYXRoLmpvaW4oX19kaXJuYW1lLCAiYXJ0aWZhY3RzIik7CmNvbnN0IE1PREVMID0gInRleHQtZW1iZWRkaW5nLXYzIiwgRElNID0gMTAyNDsKY29uc3QgS0VZID0gcHJvY2Vzcy5lbnYuREFTSFNDT1BFX0FQSV9LRVkgfHwgIiI7CmNvbnN0IEVQID0gImh0dHBzOi8vZGFzaHNjb3BlLmFsaXl1bmNzLmNvbS9jb21wYXRpYmxlLW1vZGUvdjEvZW1iZWRkaW5ncyI7Cgpjb25zdCB7IHNwbGl0Q2h1bmtzIH0gPSByZXF1aXJlKHBhdGguam9pbihST09ULCAiY2xvdWRmdW5jdGlvbnMiLCAiaW5nZXN0IiwgImluZGV4LmpzIikpOwpjb25zdCBjb3JwdXMgPSBKU09OLnBhcnNlKGZzLnJlYWRGaWxlU3luYyhwYXRoLmpvaW4oUk9PVCwgImNsb3VkZnVuY3Rpb25zIiwgImNoYXQiLCAiY29ycHVzLmpzb24iKSwgInV0ZjgiKSk7CmNvbnN0IHJlZ1JhdyA9IEpTT04ucGFyc2UoZnMucmVhZEZpbGVTeW5jKHBhdGguam9pbihST09ULCAicGhhc2UtZy1yZWdyZXNzaW9uLXRlc3QuanNvbiIpLCAidXRmOCIpKTsKY29uc3QgcmVnU2V0ID0gKHJlZ1Jhdy5yZWNvcmRzIHx8IFtdKS5maWx0ZXIoKHIpID0+IHIgJiYgci5xdWVzdGlvbik7CmNvbnN0IGJlbmNoID0gSlNPTi5wYXJzZShmcy5yZWFkRmlsZVN5bmMocGF0aC5qb2luKF9fZGlybmFtZSwgImJlbmNobWFyay5qc29uIiksICJ1dGY4IikpOwpjb25zdCBzcmMgPSBmcy5yZWFkRmlsZVN5bmMocGF0aC5qb2luKF9fZGlybmFtZSwgInNvdXJjZSIsICJQLTA0LWNvbmZpcm1hdGlvbi1iaWFzLm1kIiksICJ1dGY4Iik7Cgpjb25zdCBhbGwgPSBzcGxpdENodW5rcyhzcmMsIHsgdGl0bGU6ICLnoa7orqTlgY/lt67mpoLlv7XljaEiIH0pLmZpbHRlcigoYykgPT4gYy5sZXZlbCA9PT0gImNoaWxkIik7CmNvbnN0IENST1NTUkVGID0gL+eUs+i+qeevh3zorrror6185bqE5a2QfOiLj+agvOaLieW6lXzkupXom5kvOwpjb25zdCBMSUZFU0NFTkUgPSAv55Sf5rS75Zy65pmvLzsKY29uc3Qgc2VjID0gKGMpID0+IGMuc2VjdGlvbiB8fCAiIjsKCmNvbnN0IHZhcmlhbnRzID0gewogIFYwX2Jhc2VsaW5lOiBhbGwsCiAgVjFfbm9fY3Jvc3NyZWY6IGFsbC5maWx0ZXIoKGMpID0+ICFDUk9TU1JFRi50ZXN0KGMuY29udGVudCkpLAogIFYyX2NvcmVfb25seTogYWxsLmZpbHRlcigoYykgPT4gIUNST1NTUkVGLnRlc3QoYy5jb250ZW50KSAmJiAhTElGRVNDRU5FLnRlc3Qoc2VjKGMpKSAmJiAhL+WcqOWGs+WumuaYr+WQpui+nuiBjHznrKzkuIDljbDosaHlvaLmiJDlkI585oyB5LuT5LmL5ZCOLy50ZXN0KGMuY29udGVudCkpLAp9Owp2YXJpYW50cy5WM19jb3JlX2RvbWFpbl9nYXRlID0gdmFyaWFudHMuVjJfY29yZV9vbmx5OwoKY29uc3QgR0FURSA9IC/lgY/lt6586K+B5o2ufOWPjeivgXzljbDor4F85a6i6KeCfOWFiOWFpeS4uuS4u3znrKzkuIDljbDosaF856Gu6K6kfOmqjOWwuHzlvILop4F85Y+q55yLfOmAieaLqeaApy87Cgphc3luYyBmdW5jdGlvbiBlbWJlZCh0ZXh0cykgewogIGNvbnN0IG91dCA9IFtdOwogIGZvciAobGV0IGkgPSAwOyBpIDwgdGV4dHMubGVuZ3RoOyBpICs9IDEwKSB7CiAgICBjb25zdCByID0gYXdhaXQgZmV0Y2goRVAsIHsKICAgICAgbWV0aG9kOiAiUE9TVCIsCiAgICAgIGhlYWRlcnM6IHsgQXV0aG9yaXphdGlvbjogIkJlYXJlciAiICsgS0VZLCAiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb24iIH0sCiAgICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KHsgbW9kZWw6IE1PREVMLCBpbnB1dDogdGV4dHMuc2xpY2UoaSwgaSArIDEwKSwgZGltZW5zaW9uczogRElNLCBlbmNvZGluZ19mb3JtYXQ6ICJmbG9hdCIgfSksCiAgICB9KTsKICAgIGlmICghci5vaykgdGhyb3cgbmV3IEVycm9yKCJlbWJlZCAiICsgci5zdGF0dXMgKyAiICIgKyAoYXdhaXQgci50ZXh0KCkpLnNsaWNlKDAsIDIwMCkpOwogICAgY29uc3QgZCA9IGF3YWl0IHIuanNvbigpOwogICAgb3V0LnB1c2goLi4uZC5kYXRhLnNvcnQoKGEsIGIpID0+IGEuaW5kZXggLSBiLmluZGV4KS5tYXAoKHgpID0+IHguZW1iZWRkaW5nKSk7CiAgfQogIHJldHVybiBvdXQ7Cn0KY29uc3QgY29zID0gKGEsIGIpID0+IHsgbGV0IGQgPSAwLCB4ID0gMCwgeSA9IDA7IGZvciAobGV0IGkgPSAwOyBpIDwgYS5sZW5ndGg7IGkrKykgeyBkICs9IGFbaV0gKiBiW2ldOyB4ICs9IGFbaV0gKiBhW2ldOyB5ICs9IGJbaV0gKiBiW2ldOyB9IHJldHVybiBkIC8gKE1hdGguc3FydCh4KSAqIE1hdGguc3FydCh5KSB8fCAxKTsgfTsKY29uc3QgbmRjZyA9IChmLCBuUmVsLCBrKSA9PiB7IGxldCBkY2cgPSAwOyBmb3IgKGxldCBpID0gMDsgaSA8IGYubGVuZ3RoICYmIGkgPCBrOyBpKyspIGlmIChmW2ldKSBkY2cgKz0gMSAvIE1hdGgubG9nMihpICsgMik7IGxldCBpZGNnID0gMDsgZm9yIChsZXQgaSA9IDA7IGkgPCBNYXRoLm1pbihrLCBuUmVsKTsgaSsrKSBpZGNnICs9IDEgLyBNYXRoLmxvZzIoaSArIDIpOyByZXR1cm4gaWRjZyA/IGRjZyAvIGlkY2cgOiAwOyB9OwoKKGFzeW5jICgpID0+IHsKICBjb25zdCBjbGFzc2ljVGV4dCA9IGNvcnB1cy5tYXAoKGMpID0+IFtjLnRpdGxlLCBjLnNvdXJjZSwgYy5zZWN0aW9uLCBjLnRleHQsIGMuc3VtbWFyeSwgKGMudGFncyB8fCBbXSkuam9pbigiICIpLCBjLm1vZGVyblVzYWdlXS5maWx0ZXIoQm9vbGVhbikuam9pbigiICIpKTsKICBjb25zdCBjbGFzc2ljVmVjcyA9IGF3YWl0IGVtYmVkKGNsYXNzaWNUZXh0KTsKICBjb25zdCBjbGFzc2ljSWR4ID0gY29ycHVzLm1hcCgoYywgaSkgPT4gKHsgYm9vazogYy50aXRsZSwga2luZDogImNsYXNzaWMiLCB2ZWM6IGNsYXNzaWNWZWNzW2ldIH0pKTsKCiAgY29uc3QgdW5pcSA9IFsuLi5uZXcgU2V0KE9iamVjdC52YWx1ZXModmFyaWFudHMpLmZsYXQoKS5tYXAoKGMpID0+IGMuY29udGVudCkpXTsKICBjb25zdCB1bmlxVmVjcyA9IGF3YWl0IGVtYmVkKHVuaXEpOwogIGNvbnN0IHZlY09mID0gbmV3IE1hcCh1bmlxLm1hcCgodCwgaSkgPT4gW3QsIHVuaXFWZWNzW2ldXSkpOwoKICBjb25zdCByZWdWZWNzID0gYXdhaXQgZW1iZWQocmVnU2V0Lm1hcCgocikgPT4gci5xdWVzdGlvbikpOwogIGNvbnN0IGJlbmNoVmVjcyA9IGF3YWl0IGVtYmVkKGJlbmNoLnF1ZXN0aW9ucy5tYXAoKHEpID0+IHEucXVlc3Rpb24pKTsKCiAgY29uc3QgSyA9IDM7CiAgY29uc3QgcmVzdWx0ID0ge307CiAgZm9yIChjb25zdCBbbmFtZSwgY2h1bmtzXSBvZiBPYmplY3QuZW50cmllcyh2YXJpYW50cykpIHsKICAgIGNvbnN0IGdhdGUgPSBuYW1lID09PSAiVjNfY29yZV9kb21haW5fZ2F0ZSI7CiAgICBjb25zdCBwaWxvdElkeCA9IGNodW5rcy5tYXAoKGMsIGkpID0+ICh7IGJvb2s6ICLnoa7orqTlgY/lt67mpoLlv7XljaEiLCBraW5kOiAicGlsb3QiLCB2ZWM6IHZlY09mLmdldChjLmNvbnRlbnQpLCBjaWQ6IGkgfSkpOwoKICAgIC8vIHJlZ3Jlc3Npb24KICAgIGxldCBiSGl0ID0gMCwgYUhpdCA9IDAsIGludHIgPSAwLCBkaXNwID0gMCwgYU1yciA9IDAsIGJNcnIgPSAwOwogICAgY29uc3QgZGlzcExpc3QgPSBbXTsKICAgIHJlZ1NldC5mb3JFYWNoKChyLCBpKSA9PiB7CiAgICAgIGNvbnN0IHEgPSByZWdWZWNzW2ldOwogICAgICBjb25zdCBhbGxvd1BpbG90ID0gIWdhdGUgfHwgR0FURS50ZXN0KHIucXVlc3Rpb24pOwogICAgICBjb25zdCBiZWZvcmUgPSBjbGFzc2ljSWR4Lm1hcCgoaXQpID0+ICh7IC4uLml0LCBzOiBjb3MocSwgaXQudmVjKSB9KSkuc29ydCgoYSwgYikgPT4gYi5zIC0gYS5zKS5zbGljZSgwLCBLKTsKICAgICAgY29uc3QgcG9vbCA9IGFsbG93UGlsb3QgPyBjbGFzc2ljSWR4LmNvbmNhdChwaWxvdElkeCkgOiBjbGFzc2ljSWR4OwogICAgICBjb25zdCBhZnRlciA9IHBvb2wubWFwKChpdCkgPT4gKHsgLi4uaXQsIHM6IGNvcyhxLCBpdC52ZWMpIH0pKS5zb3J0KChhLCBiKSA9PiBiLnMgLSBhLnMpLnNsaWNlKDAsIEspOwogICAgICBjb25zdCBoaXQgPSAodCkgPT4gdC5zb21lKCh4KSA9PiAoci5leHBlY3RlZF9ib29rcyB8fCBbXSkuc29tZSgoYikgPT4geC5ib29rICYmICh4LmJvb2sgPT09IGIgfHwgeC5ib29rLmluY2x1ZGVzKGIpIHx8IGIuaW5jbHVkZXMoeC5ib29rKSkpKTsKICAgICAgY29uc3QgbXJyID0gKHQpID0+IHsgZm9yIChsZXQgaiA9IDA7IGogPCB0Lmxlbmd0aDsgaisrKSBpZiAoKHIuZXhwZWN0ZWRfYm9va3MgfHwgW10pLnNvbWUoKGIpID0+IHRbal0uYm9vayAmJiAodFtqXS5ib29rID09PSBiIHx8IHRbal0uYm9vay5pbmNsdWRlcyhiKSB8fCBiLmluY2x1ZGVzKHRbal0uYm9vaykpKSkgcmV0dXJuIDEgLyAoaiArIDEpOyByZXR1cm4gMDsgfTsKICAgICAgY29uc3QgaEIgPSBoaXQoYmVmb3JlKSwgaEEgPSBoaXQoYWZ0ZXIpOwogICAgICBpZiAoaEIpIGJIaXQrKzsgaWYgKGhBKSBhSGl0Kys7CiAgICAgIGJNcnIgKz0gbXJyKGJlZm9yZSk7IGFNcnIgKz0gbXJyKGFmdGVyKTsKICAgICAgaWYgKGFmdGVyLnNvbWUoKHgpID0+IHgua2luZCA9PT0gInBpbG90IikpIGludHIrKzsKICAgICAgaWYgKGhCICYmICFoQSkgeyBkaXNwKys7IGRpc3BMaXN0LnB1c2goci5pZCk7IH0KICAgIH0pOwoKICAgIC8vIGJlbmNobWFyawogICAgbGV0IGgxID0gMCwgaDMgPSAwLCBtcnJTID0gMCwgbmRjZ1MgPSAwOwogICAgYmVuY2gucXVlc3Rpb25zLmZvckVhY2goKHFxLCBpKSA9PiB7CiAgICAgIGNvbnN0IHEgPSBiZW5jaFZlY3NbaV07CiAgICAgIGNvbnN0IGFsbG93UGlsb3QgPSAhZ2F0ZSB8fCBHQVRFLnRlc3QocXEucXVlc3Rpb24pOwogICAgICBjb25zdCBwb29sID0gYWxsb3dQaWxvdCA/IGNsYXNzaWNJZHguY29uY2F0KHBpbG90SWR4KSA6IGNsYXNzaWNJZHg7CiAgICAgIGNvbnN0IHRvcCA9IHBvb2wubWFwKChpdCkgPT4gKHsgLi4uaXQsIHM6IGNvcyhxLCBpdC52ZWMpIH0pKS5zb3J0KChhLCBiKSA9PiBiLnMgLSBhLnMpLnNsaWNlKDAsIEspOwogICAgICBjb25zdCBmID0gdG9wLm1hcCgodCkgPT4gdC5raW5kID09PSAicGlsb3QiKTsKICAgICAgaWYgKGZbMF0pIGgxKys7CiAgICAgIGlmIChmLnNvbWUoQm9vbGVhbikpIGgzKys7CiAgICAgIGNvbnN0IGZyID0gZi5pbmRleE9mKHRydWUpOwogICAgICBtcnJTICs9IGZyID49IDAgPyAxIC8gKGZyICsgMSkgOiAwOwogICAgICBuZGNnUyArPSBuZGNnKGYsIHBpbG90SWR4Lmxlbmd0aCwgSyk7CiAgICB9KTsKCiAgICBjb25zdCBtID0gcmVnU2V0Lmxlbmd0aCwgbiA9IGJlbmNoLnF1ZXN0aW9ucy5sZW5ndGg7CiAgICByZXN1bHRbbmFtZV0gPSB7CiAgICAgIGNodW5rc19pbmRleGVkOiBjaHVua3MubGVuZ3RoLAogICAgICByZWdyZXNzaW9uOiB7CiAgICAgICAgYmVmb3JlX2hpdDM6ICsoYkhpdCAvIG0pLnRvRml4ZWQoNCksIGFmdGVyX2hpdDM6ICsoYUhpdCAvIG0pLnRvRml4ZWQoNCksCiAgICAgICAgZGVsdGFfaGl0OiArKChhSGl0IC0gYkhpdCkgLyBtKS50b0ZpeGVkKDQpLAogICAgICAgIGJlZm9yZV9tcnI6ICsoYk1yciAvIG0pLnRvRml4ZWQoNCksIGFmdGVyX21ycjogKyhhTXJyIC8gbSkudG9GaXhlZCg0KSwKICAgICAgICBkZWx0YV9tcnI6ICsoKGFNcnIgLSBiTXJyKSAvIG0pLnRvRml4ZWQoNCksCiAgICAgICAgaW50cnVzaW9uX3JhdGU6ICsoaW50ciAvIG0pLnRvRml4ZWQoNCksIGRpc3BsYWNlZDogZGlzcCwgZGlzcGxhY2VkX2lkczogZGlzcExpc3QsCiAgICAgICAgcGFzczogZGlzcCA9PT0gMCAmJiBhSGl0ID49IGJIaXQsCiAgICAgIH0sCiAgICAgIGJlbmNobWFyazogewogICAgICAgIGhpdF9hdF8xOiArKGgxIC8gbikudG9GaXhlZCg0KSwgaGl0X2F0XzM6ICsoaDMgLyBuKS50b0ZpeGVkKDQpLAogICAgICAgIG1ycjogKyhtcnJTIC8gbikudG9GaXhlZCg0KSwgbmRjZ19hdF8zOiArKG5kY2dTIC8gbikudG9GaXhlZCg0KSwKICAgICAgICBwYXNzOiBoMyAvIG4gPj0gMC45LAogICAgICB9LAogICAgfTsKICAgIHJlc3VsdFtuYW1lXS5nYXRlX292ZXJhbGwgPSByZXN1bHRbbmFtZV0ucmVncmVzc2lvbi5wYXNzICYmIHJlc3VsdFtuYW1lXS5iZW5jaG1hcmsucGFzczsKICAgIGNvbnNvbGUubG9nKG5hbWUsICJjaHVua3M9IiArIGNodW5rcy5sZW5ndGgsCiAgICAgICJ8IFJFRyBhZnRlcj0iICsgcmVzdWx0W25hbWVdLnJlZ3Jlc3Npb24uYWZ0ZXJfaGl0MywgIs6UPSIgKyByZXN1bHRbbmFtZV0ucmVncmVzc2lvbi5kZWx0YV9oaXQsCiAgICAgICJkaXNwPSIgKyByZXN1bHRbbmFtZV0ucmVncmVzc2lvbi5kaXNwbGFjZWQsICJpbnRyPSIgKyByZXN1bHRbbmFtZV0ucmVncmVzc2lvbi5pbnRydXNpb25fcmF0ZSwKICAgICAgInwgQkVOQ0ggaGl0QDM9IiArIHJlc3VsdFtuYW1lXS5iZW5jaG1hcmsuaGl0X2F0XzMsICJtcnI9IiArIHJlc3VsdFtuYW1lXS5iZW5jaG1hcmsubXJyLAogICAgICAifCBQQVNTPSIgKyByZXN1bHRbbmFtZV0uZ2F0ZV9vdmVyYWxsKTsKICB9CiAgZnMud3JpdGVGaWxlU3luYyhwYXRoLmpvaW4oQVJULCAiYWJsYXRpb24uanNvbiIpLCBKU09OLnN0cmluZ2lmeSh7IG5vdGU6ICJQaGFzZSBOLTQg5qC55Zug5raI6J6N5a6e6aqMIiwgdmFyaWFudHM6IHJlc3VsdCB9LCBudWxsLCAyKSwgInV0ZjgiKTsKICBjb25zb2xlLmxvZygiXG5hcnRpZmFjdHMvYWJsYXRpb24uanNvbiB3cml0dGVuIik7Cn0pKCkuY2F0Y2goKGUpID0+IHsgY29uc29sZS5lcnJvcigiRkFJTCIsIGUubWVzc2FnZSk7IHByb2Nlc3MuZXhpdCgxKTsgfSk7Cg==
+/**
+ * Phase N-4 Ablation — 定位回归下降根因并验证缓解方案
+ * 变体：
+ *  V0 baseline        : 全部 child chunk 入索引
+ *  V1 no-crossref     : 移除含经典书名的「与经典思想的关系」chunk
+ *  V2 core-only       : 仅保留概念内核（定义/来源/表现/应对/边界），移除生活场景 + 交叉引用
+ *  V3 core+domain-gate: V2 + 词面域闸（查询无认知偏差信号则 pilot 不参与候选）
+ * 只读生产资产，产物写 artifacts/ablation.json
+ */
+const fs = require("fs");
+const path = require("path");
+const ROOT = path.resolve(__dirname, "..", "..");
+const ART = path.join(__dirname, "artifacts");
+const MODEL = "text-embedding-v3", DIM = 1024;
+const KEY = process.env.DASHSCOPE_API_KEY || "";
+const EP = "https://dashscope.aliyuncs.com/compatible-mode/v1/embeddings";
+
+const { splitChunks } = require(path.join(ROOT, "cloudfunctions", "ingest", "index.js"));
+const corpus = JSON.parse(fs.readFileSync(path.join(ROOT, "cloudfunctions", "chat", "corpus.json"), "utf8"));
+const regRaw = JSON.parse(fs.readFileSync(path.join(ROOT, "phase-g-regression-test.json"), "utf8"));
+const regSet = (regRaw.records || []).filter((r) => r && r.question);
+const bench = JSON.parse(fs.readFileSync(path.join(__dirname, "benchmark.json"), "utf8"));
+const src = fs.readFileSync(path.join(__dirname, "source", "P-04-confirmation-bias.md"), "utf8");
+
+const all = splitChunks(src, { title: "确认偏差概念卡" }).filter((c) => c.level === "child");
+const CROSSREF = /申辩篇|论语|庄子|苏格拉底|井蛙/;
+const LIFESCENE = /生活场景/;
+const sec = (c) => c.section || "";
+
+const variants = {
+  V0_baseline: all,
+  V1_no_crossref: all.filter((c) => !CROSSREF.test(c.content)),
+  V2_core_only: all.filter((c) => !CROSSREF.test(c.content) && !LIFESCENE.test(sec(c)) && !/在决定是否辞职|第一印象形成后|持仓之后/.test(c.content)),
+};
+variants.V3_core_domain_gate = variants.V2_core_only;
+
+const GATE = /偏差|证据|反证|印证|客观|先入为主|第一印象|确认|验尸|异见|只看|选择性/;
+
+async function embed(texts) {
+  const out = [];
+  for (let i = 0; i < texts.length; i += 10) {
+    const r = await fetch(EP, {
+      method: "POST",
+      headers: { Authorization: "Bearer " + KEY, "Content-Type": "application/json" },
+      body: JSON.stringify({ model: MODEL, input: texts.slice(i, i + 10), dimensions: DIM, encoding_format: "float" }),
+    });
+    if (!r.ok) throw new Error("embed " + r.status + " " + (await r.text()).slice(0, 200));
+    const d = await r.json();
+    out.push(...d.data.sort((a, b) => a.index - b.index).map((x) => x.embedding));
+  }
+  return out;
+}
+const cos = (a, b) => { let d = 0, x = 0, y = 0; for (let i = 0; i < a.length; i++) { d += a[i] * b[i]; x += a[i] * a[i]; y += b[i] * b[i]; } return d / (Math.sqrt(x) * Math.sqrt(y) || 1); };
+const ndcg = (f, nRel, k) => { let dcg = 0; for (let i = 0; i < f.length && i < k; i++) if (f[i]) dcg += 1 / Math.log2(i + 2); let idcg = 0; for (let i = 0; i < Math.min(k, nRel); i++) idcg += 1 / Math.log2(i + 2); return idcg ? dcg / idcg : 0; };
+
+(async () => {
+  const classicText = corpus.map((c) => [c.title, c.source, c.section, c.text, c.summary, (c.tags || []).join(" "), c.modernUsage].filter(Boolean).join(" "));
+  const classicVecs = await embed(classicText);
+  const classicIdx = corpus.map((c, i) => ({ book: c.title, kind: "classic", vec: classicVecs[i] }));
+
+  const uniq = [...new Set(Object.values(variants).flat().map((c) => c.content))];
+  const uniqVecs = await embed(uniq);
+  const vecOf = new Map(uniq.map((t, i) => [t, uniqVecs[i]]));
+
+  const regVecs = await embed(regSet.map((r) => r.question));
+  const benchVecs = await embed(bench.questions.map((q) => q.question));
+
+  const K = 3;
+  const result = {};
+  for (const [name, chunks] of Object.entries(variants)) {
+    const gate = name === "V3_core_domain_gate";
+    const pilotIdx = chunks.map((c, i) => ({ book: "确认偏差概念卡", kind: "pilot", vec: vecOf.get(c.content), cid: i }));
+
+    // regression
+    let bHit = 0, aHit = 0, intr = 0, disp = 0, aMrr = 0, bMrr = 0;
+    const dispList = [];
+    regSet.forEach((r, i) => {
+      const q = regVecs[i];
+      const allowPilot = !gate || GATE.test(r.question);
+      const before = classicIdx.map((it) => ({ ...it, s: cos(q, it.vec) })).sort((a, b) => b.s - a.s).slice(0, K);
+      const pool = allowPilot ? classicIdx.concat(pilotIdx) : classicIdx;
+      const after = pool.map((it) => ({ ...it, s: cos(q, it.vec) })).sort((a, b) => b.s - a.s).slice(0, K);
+      const hit = (t) => t.some((x) => (r.expected_books || []).some((b) => x.book && (x.book === b || x.book.includes(b) || b.includes(x.book))));
+      const mrr = (t) => { for (let j = 0; j < t.length; j++) if ((r.expected_books || []).some((b) => t[j].book && (t[j].book === b || t[j].book.includes(b) || b.includes(t[j].book)))) return 1 / (j + 1); return 0; };
+      const hB = hit(before), hA = hit(after);
+      if (hB) bHit++; if (hA) aHit++;
+      bMrr += mrr(before); aMrr += mrr(after);
+      if (after.some((x) => x.kind === "pilot")) intr++;
+      if (hB && !hA) { disp++; dispList.push(r.id); }
+    });
+
+    // benchmark
+    let h1 = 0, h3 = 0, mrrS = 0, ndcgS = 0;
+    bench.questions.forEach((qq, i) => {
+      const q = benchVecs[i];
+      const allowPilot = !gate || GATE.test(qq.question);
+      const pool = allowPilot ? classicIdx.concat(pilotIdx) : classicIdx;
+      const top = pool.map((it) => ({ ...it, s: cos(q, it.vec) })).sort((a, b) => b.s - a.s).slice(0, K);
+      const f = top.map((t) => t.kind === "pilot");
+      if (f[0]) h1++;
+      if (f.some(Boolean)) h3++;
+      const fr = f.indexOf(true);
+      mrrS += fr >= 0 ? 1 / (fr + 1) : 0;
+      ndcgS += ndcg(f, pilotIdx.length, K);
+    });
+
+    const m = regSet.length, n = bench.questions.length;
+    result[name] = {
+      chunks_indexed: chunks.length,
+      regression: {
+        before_hit3: +(bHit / m).toFixed(4), after_hit3: +(aHit / m).toFixed(4),
+        delta_hit: +((aHit - bHit) / m).toFixed(4),
+        before_mrr: +(bMrr / m).toFixed(4), after_mrr: +(aMrr / m).toFixed(4),
+        delta_mrr: +((aMrr - bMrr) / m).toFixed(4),
+        intrusion_rate: +(intr / m).toFixed(4), displaced: disp, displaced_ids: dispList,
+        pass: disp === 0 && aHit >= bHit,
+      },
+      benchmark: {
+        hit_at_1: +(h1 / n).toFixed(4), hit_at_3: +(h3 / n).toFixed(4),
+        mrr: +(mrrS / n).toFixed(4), ndcg_at_3: +(ndcgS / n).toFixed(4),
+        pass: h3 / n >= 0.9,
+      },
+    };
+    result[name].gate_overall = result[name].regression.pass && result[name].benchmark.pass;
+    console.log(name, "chunks=" + chunks.length,
+      "| REG after=" + result[name].regression.after_hit3, "Δ=" + result[name].regression.delta_hit,
+      "disp=" + result[name].regression.displaced, "intr=" + result[name].regression.intrusion_rate,
+      "| BENCH hit@3=" + result[name].benchmark.hit_at_3, "mrr=" + result[name].benchmark.mrr,
+      "| PASS=" + result[name].gate_overall);
+  }
+  fs.writeFileSync(path.join(ART, "ablation.json"), JSON.stringify({ note: "Phase N-4 根因消融实验", variants: result }, null, 2), "utf8");
+  console.log("\nartifacts/ablation.json written");
+})().catch((e) => { console.error("FAIL", e.message); process.exit(1); });

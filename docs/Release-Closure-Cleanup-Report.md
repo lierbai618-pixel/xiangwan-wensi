@@ -1,1 +1,105 @@
-IyBSZWxlYXNlIENsb3N1cmUgQ2xlYW51cCBSZXBvcnQKCj4g6Zi25q6177yaUmVsZWFzZSBDbG9zdXJlIOaUtuWwvua4heeQhu+8iENsZWFudXAgRmxvd++8iQo+IOaJp+ihjOinkuiJsu+8mlJlbGVhc2UgTWFuYWdlciArIFJlbGVhc2UgR3VhcmRpYW4KPiDmiafooYzmgKfotKjvvJrlj6ror7vlrqHorqEgKyDlj5fpmZDmuIXnkIbvvIjku4XliKDnrZbnlaXlhYHorrjnmoTkuLTml7Yv6YOo572y57yT5a2Y77yb5pyq5pS55Lu75L2V5Luj56CB44CB5pyq5pS55Ya757uT6LWE5Lqn44CB5pyq6YeN5paw6YOo572y44CB5pyqIGNvbW1pdC9wdXNo77yJCj4g5pe26Ze077yaMjAyNi0wOC0wNiAxMDozNiBHTVQrOAoKLS0tCgojIyAxLiBQcmUtZXhlY3V0aW9uIFNjYW7vvIjmiafooYzliY3miavmj4/vvIkKCiMjIyAxLjEg5omr5o+P5Y+R546w6aG55LiO5YiG57G7Cgp8IOi3r+W+hCB8IOaWh+S7tuaVsCB8IOWkp+WwjyB8IOWIhuexuyB8IOWkhOe9riB8CnwtLS18LS0tfC0tLXwtLS18LS0tfAp8IGB3ZWFwcC8uZGVwbG95LXRtcC9gIHwgMTcgfCAyMzAuNyBLQiB8IOmDqOe9suS4tOaXtuS6p+eJqe+8iGAuZGVwbG95LXRtcC9g77yJIHwg4pyFIOWIoOmZpO+8iOetlueVpeWFgeiuuO+8iSB8CnwgYEQ6L1VzZXJzL2Y0MTA5L2NoYXRfZGw0L2AgfCA2NDI4IHwgMzUuMDYgTUIgfCDkuLTml7bkuIvovb3nm67lvZUgLyDkupHlh73mlbDkuIvovb3nvJPlrZggfCDinIUg5Yig6Zmk77yI562W55Wl5YWB6K6477yJIHwKfCBgd2VhcHAvLnJlbGVhc2VfdG1wX2NoYXRfZGV0YWlsLmpzb25gIHwgMSB8IH4xNyBLQiB8IOiHqui6q+mBl+eVmeS4tOaXtuaWh+S7tu+8iGAucmVsZWFzZV90bXBfYO+8iSB8IOKchSDliKDpmaTvvIjnrZbnlaXlhYHorrjvvIkgfAp8IGB3ZWFwcC8uZGVwbG95LWJhY2t1cC9gIHwgNjQwNSB8IDM0LjkzIE1CIHwg6YOo572y5aSH5Lu977yI5ZCrIGBjaGF0LXByZS1vYnMtMjAyNjA4MDIvYCDlm57mu5rln7rnur8gKyBvYnMg6KeC5a+f56yU6K6w77yJIHwg4puUIOS4jeehruWumu+8jOS4jeWIoO+8jOW+heS6uuW3peehruiupCB8CnwgYHdlYXBwL0FJX0NPTlRFWFQvYCB8IDE0IHwgMjUuOCBLQiB8IEFJIOiHquWKqOeUn+aIkOmhueebruS4iuS4i+aWh+aWh+aho++8iOacquagh+iusCB0ZW1wL2NhY2hlL2FydGlmYWN077yJIHwg4puUIOS4jeehruWumu+8jOS4jeWIoO+8jOW+heS6uuW3peehruiupCB8Cgo+IOivtOaYju+8mmBEOi9Vc2Vycy9mNDEwOS9jaGF0X2RsNGAg5Li65pys6L2uIFJlbGVhc2UgQ2xvc3VyZSDpqozor4HmnJ/pl7QgYHRjYiBmbiBjb2RlIGRvd25sb2FkYCDmi4nlj5bnmoTkupHnq6/lh73mlbDlhajph4/ljIXnvJPlrZjvvJvlhbbkvZkgYGNoYXRfY29kZV9kbGAvYGNoYXRfZGwzYCDnrYnop6PmnpDlj5jkvZPot6/lvoTnu4/moLjmn6XlnYfkuI3lrZjlnKjvvIhBQlNFTlTvvInjgIIKCiMjIyAxLjIg5LiN56Gu5a6a5paH5Lu25aSE55CG77yI6YG15a6I44CM5Y+R546w5LiN56Gu5a6a5paH5Lu256uL5Y2z5YGc5q2i5Yig6Zmk44CN6KeE5YiZ77yJCgotICoqYC5kZXBsb3ktYmFja3VwL2AqKu+8muWQjeS4uiBiYWNrdXDvvIzlhoXlkKvmlbTljIXlm57mu5rlpIfku70gYGNoYXQtcHJlLW9icy0yMDI2MDgwMi9g77yI5bGe5Zue5rua5a6J5YWo6LWE5Lqn77yJ77yM5LiN5Zyo5YWB6K645Yig6Zmk5riF5Y2V77yI5LuFIGAuZGVwbG95LXRtcC9gIOaYjuehruWIl+WHuu+8ie+8jOWIpOWumuS4uioq5LiN56Gu5a6aIOKGkiDkuI3liKDpmaTvvIznrYnlvoXkurrlt6Xnoa7orqQqKuOAggotICoqYEFJX0NPTlRFWFQvYCoq77yaMTQg5LiqIEFJIOiHquWKqOeUn+aIkOeahOmhueebruS4iuS4i+aWh+aWh+aho++8iGAwMF9QUk9KRUNULm1kYOKApmAxMV9UT0RPLm1kYOOAgWBQUk9KRUNUX01BUC5tZGDjgIFgUkVBRE1FX0FJLm1kYO+8ie+8jOacquagh+iusCB0ZW1wL2NhY2hlL2FydGlmYWN077yM5Lu35YC85LiN56Gu5a6aIOKGkiAqKuS4jeWIoOmZpO+8jOetieW+heS6uuW3peehruiupCoq44CCCgotLS0KCiMjIDIuIENsZWFudXAgU3VtbWFyee+8iOa4heeQhuaRmOimge+8iQoKIyMjIOWIoOmZpOaVsOmHj++8mjMg6aG577yIMiDnm67lvZUgKyAxIOaWh+S7tu+8iQoKIyMjIOWIoOmZpOi3r+W+hO+8mgoKfCAjIHwg6Lev5b6EIHwg57G75Z6LIHwg5aSn5bCPIHwg562W55Wl5L6d5o2uIHwKfC0tLXwtLS18LS0tfC0tLXwtLS18CnwgMSB8IGBEOi/kuI3nn6XpgZPmmK/llaUv5pWZ5ZGYL3dlYXBwLy5kZXBsb3ktdG1wL2AgfCDnm67lvZUgfCAyMzAuNyBLQiB8IGAuZGVwbG95LXRtcC9g77yI5piO56Gu5YWB6K6477yJIHwKfCAyIHwgYEQ6L1VzZXJzL2Y0MTA5L2NoYXRfZGw0L2AgfCDnm67lvZUgfCAzNS4wNiBNQiB8IOS4tOaXtuS4i+i9veebruW9lSAvIOS6keWHveaVsOS4i+i9vee8k+WtmO+8iOaYjuehruWFgeiuuO+8iSB8CnwgMyB8IGBEOi/kuI3nn6XpgZPmmK/llaUv5pWZ5ZGYL3dlYXBwLy5yZWxlYXNlX3RtcF9jaGF0X2RldGFpbC5qc29uYCB8IOaWh+S7tiB8IH4xNyBLQiB8IOiHqui6q+mBl+eVmeS4tOaXtuaWh+S7tu+8iGAucmVsZWFzZV90bXBfYO+8iSB8Cgo+IOWQiOiuoemHiuaUvue6piAqKjM1LjMgTUIqKuOAguWIoOmZpOWQjiBgZ2l0IHN0YXR1c2Ag5bey5pegIGBkZXBsb3ktdG1wYCAvIGByZWxlYXNlX3RtcGAgLyBgY2hhdF9kbCpgIOS7u+S9leS4tOaXtuS6p+eJqeiusOW9leOAggoKLS0tCgojIyAzLiBQcm90ZWN0ZWQgQXNzZXRzIENoZWNr77yI5Y+X5L+d5oqk6LWE5Lqn5qC46aqM77yJCgojIyMgMy4xIOWGu+e7k+i1hOS6pyBTSEEyNTbvvIjmuIXnkIblkI7lpI3moKHvvIkKCnwg5paH5Lu2IHwgU0hBMjU2IHwgTy0wLjYgYmFzZWxpbmUgfCDnu5PmnpwgfAp8LS0tfC0tLXwtLS18LS0tfAp8IGNvcnB1cy5qc29uIHwgYGRiMDFmYmM5MjA2NGNiZWEzYTY2ODhhOTgxNjBiNmE3MGM5ZTE1MDI1OWI1NDA2M2M4ZTJlOTY5NzRlYWJjOGJgIHwgYGRiMDFmYmM54oCmZWFiYzhiYCB8IOKchSBNQVRDSCB8CnwgaW50ZW50LmpzIHwgYDc2NWFkMTM4ZWM2OGMwZjE1OWM2Zjc1YTYwZTUyNjhiZWIwMmZiYTE1MmY2ZDUzZGJkYzUzOWJhMTU2MGNhMzhgIHwgYDc2NWFkMTM44oCmNjBjYTM4YCB8IOKchSBNQVRDSCB8CnwgcmFnLmpzIHwgYDViMzgwYjNmN2M2OGYzNzRlM2Q0ZTUxMjdiZDdkYmVmZjc0Nzg0OTQwMWNhOWQwNDg4NDk4ZGVjZTE0MDgyODZgIHwgYDViMzgwYjNm4oCmODI4NmAgfCDinIUgTUFUQ0ggfAp8IGtub3dsZWRnZVJvdXRlci5qcyB8IGA4NDg5MDg0NDVkYmI1ZWE5M2E2ZjUyNzc1ZGMzYzhlNjkyMmZmOTcxZDZjZWUxMTU1NDdmMjM2ZmZlZDBhOTM1YCB8IGA4NDg5MDg0NOKApmQwYTkzNWAgfCDinIUgTUFUQ0ggfAoKPiDms6jvvJpgZ2l0IHN0YXR1c2Ag5LitIGNvcnB1cy5qc29uIC8gcmFnLmpzIOS7jeaYvuekuiBgTWDvvIzkuLogUGhhc2UgRy9DUi0wMDIg6YGX55WZ5pyq5o+Q5Lqk5bel5L2c5Yy65beu5byC77ybU0hBMjU2IOe7j+WkjeagoemAkOWtl+iKguS4gOiHtO+8jOmdnuacrOasoea4heeQhuW8leWFpeeahOWPmOabtOOAggoKIyMjIDMuMiDlhbPplK7mlofku7blrZjlnKjmgKfnoa7orqQKCnwg5paH5Lu2IHwg54q25oCBIHwg5aSn5bCPIHwKfC0tLXwtLS18LS0tfAp8IGBjbG91ZGZ1bmN0aW9ucy9jaGF0L2luZGV4LmpzYCB8IOKchSBFWElTVFMgfCAxNDA5MSBCIHwKfCBgY2xvdWRmdW5jdGlvbnMvY2hhdC9zZWN1cml0eS9pbnB1dEd1YXJkLmpzYCB8IOKchSBFWElTVFMgfCAyMTk5IEIgfAp8IGBjbG91ZGZ1bmN0aW9ucy9jaGF0L3NlY3VyaXR5L3BpaVNjcnViLmpzYCB8IOKchSBFWElTVFMgfCAxNTQ1IEIgfAp8IGBjbG91ZGZ1bmN0aW9ucy9jaGF0L2luZGV4LmpzLnByZUNSLmJha2DvvIhDUi0wMDIg5Zue5rua5Z+657q/77yJIHwg4pyFIEVYSVNUUyB8IDEwODk4IEIgfAp8IGBzZWFyY2gvdGVzdC9maXh0dXJlcy5qc29uYO+8iFBoYXNlIFMtMC4zIOa1i+ivlei1hOS6p++8iSB8IOKchSBFWElTVFMgfCAyMjIwNCBCIHwKCi0tLQoKIyMgNC4gUHJvZHVjdGlvbiBJbXBhY3TvvIjnlJ/kuqflvbHlk43vvIkKCnwg57u05bqmIHwg57uT6K66IHwKfC0tLXwtLS18Cnwg5Luj56CB5b2x5ZONIHwg5peg44CC5pyq5L+u5pS55Lu75L2V55Sf5Lqn5Luj56CB77yb5LuF6aqM6K+B5paH5Lu25a2Y5Zyo5oCn77yM5pyq5pS55YqoIGluZGV4LmpzIC8gc2VjdXJpdHkvKiAvIOWGu+e7k+i1hOS6p+OAgiB8Cnwg6YOo572y5b2x5ZONIHwg5peg44CC5pyq6YeN5paw6YOo572y77yb5LqR56uvIGBjaGF0YO+8iEZ1bmN0aW9uSWQgYGxhbS04YThwNXZzeGDvvInov5DooYzniYjmnKzkuI3lj5jjgIIgfAp8IOi/kOihjOW9seWTjSB8IOaXoOOAguWIoOmZpOWvueixoeWdh+S4uuacrOWcsOS4tOaXti/nvJPlrZjkuqfnianvvIzkuI3lvbHlk43kupHnq6/lh73mlbDov5DooYzvvIzkuqbkuI3lvbHlk40gYHdlYXBwL2Ag5YaF5Lu75L2V5rqQ56CB44CB5paH5qGj44CB5rWL6K+V5Z+657q/44CCIHwKCi0tLQoKIyMgNS4gRmluYWwgR2F0ZQoKIyMjIFJFTEVBU0UgQ0xPU1VSRTogKipQQVNTKioKCioq5Yik5a6a5L6d5o2u77yaKioKLSDnrZbnlaXlhYHorrjnmoTkuLTml7Yv6YOo572y57yT5a2Y5Lqn54mp5bey5YWo6YOo5riF55CG77yIMyDpobnvvInvvIzml6DmrovnlZnjgIIKLSDlhrvnu5Plm5votYTkuqcgU0hBMjU2IOa4heeQhuWQjuWkjeagoSDiiaEgTy0wLjbvvIzpm7bmvILnp7vjgIIKLSBDUi0wMDIg5paH5Lu277yIaW5kZXguanMgLyBzZWN1cml0eS9pbnB1dEd1YXJkLmpzIC8gc2VjdXJpdHkvcGlpU2NydWIuanPvvInjgIHlm57mu5rln7rnur/jgIFQaGFzZSBTLTAuMyBmaXh0dXJlcy5qc29uIOWdh+WujOWlveWtmOWcqOOAggotIOacquWPkeeOsOS7u+S9leivr+WIoOeUn+S6p+S7o+eggSAvIOaWh+ahoyAvIOa1i+ivleWfuue6v+OAggotIOS4jeehruWumuaWh+S7tu+8iGAuZGVwbG95LWJhY2t1cC9g44CBQUlfQ09OVEVYVC/vvInkuKXmoLzmjInop4TliJnkv53nlZnjgIHmnKrliKDpmaTvvIzlvoXkurrlt6Xnoa7orqTjgIIKCioq5b6F5Lq65bel56Gu6K6k6aG577yI6Z2e6Zi75aGe77yJ77yaKioKLSBgd2VhcHAvLmRlcGxveS1iYWNrdXAvYO+8iDM0LjkzIE1C77yM5Zue5rua5aSH5Lu977yJ4oCU4oCUIOaYr+WQpuS/neeVmeS4uuWuieWFqOi1hOS6p++8jOaIluWPpuWtmOWQjua4heeQhuOAggotIGB3ZWFwcC9BSV9DT05URVhUL2DvvIgyNS44IEtC77yMQUkg55Sf5oiQ5LiK5LiL5paH77yJ4oCU4oCUIOaYr+WQpuS/neeVmeOAggoKLS0tCgojIyA2LiDlgZzmraLngrkKCuaKpeWRiuWujOaIkOWNs+WBnOatouOAggrmnKrov5vlhaXvvJpTMC41IEJha2Utb2ZmIC8gUzEgU2VhcmNoIC8gUHJvdmlkZXIg5o6l5YWlIC8g5Yqf6IO95byA5Y+R44CCCuacquaJp+ihjO+8muS7o+eggeS/ruaUuSAvIOmHjeaWsOmDqOe9siAvIGNvbW1pdCAvIHB1c2jjgIIKCuetieW+heS6uuW3pe+8muehruiupCBgLmRlcGxveS1iYWNrdXAvYCDkuI4gYEFJX0NPTlRFWFQvYCDnmoTlpITnva7vvIzmiJbkuIvovr7kuIvkuIDmraXmjIfku6TjgIIK
+﻿# Release Closure Cleanup Report
+
+> 阶段：Release Closure 收尾清理（Cleanup Flow）
+> 执行角色：Release Manager + Release Guardian
+> 执行性质：只读审计 + 受限清理（仅删策略允许的临时/部署缓存；未改任何代码、未改冻结资产、未重新部署、未 commit/push）
+> 时间：2026-08-06 10:36 GMT+8
+
+---
+
+## 1. Pre-execution Scan（执行前扫描）
+
+### 1.1 扫描发现项与分类
+
+| 路径 | 文件数 | 大小 | 分类 | 处置 |
+|---|---|---|---|---|
+| `weapp/.deploy-tmp/` | 17 | 230.7 KB | 部署临时产物（`.deploy-tmp/`） | ✅ 删除（策略允许） |
+| `D:/Users/f4109/chat_dl4/` | 6428 | 35.06 MB | 临时下载目录 / 云函数下载缓存 | ✅ 删除（策略允许） |
+| `weapp/.release_tmp_chat_detail.json` | 1 | ~17 KB | 自身遗留临时文件（`.release_tmp_`） | ✅ 删除（策略允许） |
+| `weapp/.deploy-backup/` | 6405 | 34.93 MB | 部署备份（含 `chat-pre-obs-20260802/` 回滚基线 + obs 观察笔记） | ⛔ 不确定，不删，待人工确认 |
+| `weapp/AI_CONTEXT/` | 14 | 25.8 KB | AI 自动生成项目上下文文档（未标记 temp/cache/artifact） | ⛔ 不确定，不删，待人工确认 |
+
+> 说明：`D:/Users/f4109/chat_dl4` 为本轮 Release Closure 验证期间 `tcb fn code download` 拉取的云端函数全量包缓存；其余 `chat_code_dl`/`chat_dl3` 等解析变体路径经核查均不存在（ABSENT）。
+
+### 1.2 不确定文件处理（遵守「发现不确定文件立即停止删除」规则）
+
+- **`.deploy-backup/`**：名为 backup，内含整包回滚备份 `chat-pre-obs-20260802/`（属回滚安全资产），不在允许删除清单（仅 `.deploy-tmp/` 明确列出），判定为**不确定 → 不删除，等待人工确认**。
+- **`AI_CONTEXT/`**：14 个 AI 自动生成的项目上下文文档（`00_PROJECT.md`…`11_TODO.md`、`PROJECT_MAP.md`、`README_AI.md`），未标记 temp/cache/artifact，价值不确定 → **不删除，等待人工确认**。
+
+---
+
+## 2. Cleanup Summary（清理摘要）
+
+### 删除数量：3 项（2 目录 + 1 文件）
+
+### 删除路径：
+
+| # | 路径 | 类型 | 大小 | 策略依据 |
+|---|---|---|---|---|
+| 1 | `D:/不知道是啥/教员/weapp/.deploy-tmp/` | 目录 | 230.7 KB | `.deploy-tmp/`（明确允许） |
+| 2 | `D:/Users/f4109/chat_dl4/` | 目录 | 35.06 MB | 临时下载目录 / 云函数下载缓存（明确允许） |
+| 3 | `D:/不知道是啥/教员/weapp/.release_tmp_chat_detail.json` | 文件 | ~17 KB | 自身遗留临时文件（`.release_tmp_`） |
+
+> 合计释放约 **35.3 MB**。删除后 `git status` 已无 `deploy-tmp` / `release_tmp` / `chat_dl*` 任何临时产物记录。
+
+---
+
+## 3. Protected Assets Check（受保护资产核验）
+
+### 3.1 冻结资产 SHA256（清理后复校）
+
+| 文件 | SHA256 | O-0.6 baseline | 结果 |
+|---|---|---|---|
+| corpus.json | `db01fbc92064cbea3a6688a98160b6a70c9e150259b54063c8e2e96974eabc8b` | `db01fbc9…eabc8b` | ✅ MATCH |
+| intent.js | `765ad138ec68c0f159c6f75a60e5268beb02fba152f6d53dbdc539ba1560ca38` | `765ad138…60ca38` | ✅ MATCH |
+| rag.js | `5b380b3f7c68f374e3d4e5127bd7dbeff747849401ca9d0488498dece1408286` | `5b380b3f…8286` | ✅ MATCH |
+| knowledgeRouter.js | `848908445dbb5ea93a6f52775dc3c8e6922ff971d6cee115547f236ffed0a935` | `84890844…d0a935` | ✅ MATCH |
+
+> 注：`git status` 中 corpus.json / rag.js 仍显示 `M`，为 Phase G/CR-002 遗留未提交工作区差异；SHA256 经复校逐字节一致，非本次清理引入的变更。
+
+### 3.2 关键文件存在性确认
+
+| 文件 | 状态 | 大小 |
+|---|---|---|
+| `cloudfunctions/chat/index.js` | ✅ EXISTS | 14091 B |
+| `cloudfunctions/chat/security/inputGuard.js` | ✅ EXISTS | 2199 B |
+| `cloudfunctions/chat/security/piiScrub.js` | ✅ EXISTS | 1545 B |
+| `cloudfunctions/chat/index.js.preCR.bak`（CR-002 回滚基线） | ✅ EXISTS | 10898 B |
+| `search/test/fixtures.json`（Phase S-0.3 测试资产） | ✅ EXISTS | 22204 B |
+
+---
+
+## 4. Production Impact（生产影响）
+
+| 维度 | 结论 |
+|---|---|
+| 代码影响 | 无。未修改任何生产代码；仅验证文件存在性，未改动 index.js / security/* / 冻结资产。 |
+| 部署影响 | 无。未重新部署；云端 `chat`（FunctionId `lam-8a8p5vsx`）运行版本不变。 |
+| 运行影响 | 无。删除对象均为本地临时/缓存产物，不影响云端函数运行，亦不影响 `weapp/` 内任何源码、文档、测试基线。 |
+
+---
+
+## 5. Final Gate
+
+### RELEASE CLOSURE: **PASS**
+
+**判定依据：**
+- 策略允许的临时/部署缓存产物已全部清理（3 项），无残留。
+- 冻结四资产 SHA256 清理后复校 ≡ O-0.6，零漂移。
+- CR-002 文件（index.js / security/inputGuard.js / security/piiScrub.js）、回滚基线、Phase S-0.3 fixtures.json 均完好存在。
+- 未发现任何误删生产代码 / 文档 / 测试基线。
+- 不确定文件（`.deploy-backup/`、AI_CONTEXT/）严格按规则保留、未删除，待人工确认。
+
+**待人工确认项（非阻塞）：**
+- `weapp/.deploy-backup/`（34.93 MB，回滚备份）—— 是否保留为安全资产，或另存后清理。
+- `weapp/AI_CONTEXT/`（25.8 KB，AI 生成上下文）—— 是否保留。
+
+---
+
+## 6. 停止点
+
+报告完成即停止。
+未进入：S0.5 Bake-off / S1 Search / Provider 接入 / 功能开发。
+未执行：代码修改 / 重新部署 / commit / push。
+
+等待人工：确认 `.deploy-backup/` 与 `AI_CONTEXT/` 的处置，或下达下一步指令。

@@ -1,1 +1,102 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIHNjcmlwdHMvc21va2Vfc2VhcnhuZy5qcwovLyAgIFBoYXNlIFEyLTnvvJpTZWFyWE5HIOWbveWGheWunuS+i+mDqOe9suWQjueahOWQiOinhOWGkueDn+a1i+ivleOAggovLwovLyAgIOeUqOmAlO+8mkIx77yI5Zu95YaF6YOo572y77yJ5a6M5oiQ5ZCO77yM5a+5IFNFQVJYTkdfQkFTRV9VUkwg5YGaIEpTT04gQVBJIOWGkueDn++8jAovLyAgICAgICAgIOW5tuagoemqjOi/lOWbnue7k+aenOeahCBlbmdpbmUg5piv5ZCm5bGe5LqO44CQ5Zu95YaF55m95ZCN5Y2V44CR4oCU4oCUCi8vICAgICAgICAg5LiA5pem5qOA5Ye66Leo5aKD5byV5pOO77yIYmluZy9nb29nbGUvZGRnL3RhdmlseS4uLu+8ieWNsyBGQUlM77yMCi8vICAgICAgICAg6K+B5piO5a6e5L6L6K+v6YWN77yM5b+F6aG75Zue5p+lIHNldHRpbmdzLnltbOOAggovLwovLyAgIOeUqOazle+8mgovLyAgICAgU0VBUlhOR19CQVNFX1VSTD1odHRwczovL3NlYXJjaC5leGFtcGxlLmNvbSBcCi8vICAgICBTRUFSWE5HX0FQSV9LRVk9PHRva2VuPiBcCi8vICAgICBub2RlIHNjcmlwdHMvc21va2Vfc2VhcnhuZy5qcwovLyAgIOaIlu+8mm5vZGUgc2NyaXB0cy9zbW9rZV9zZWFyeG5nLmpzIDxiYXNlVXJsPiA8YXBpS2V5PgovLwovLyAgIOS+nei1lu+8mk5vZGUgMTgrIOWFqOWxgCBmZXRjaO+8iOS6keWHveaVsOi/kOihjOaXtiBOb2RlMTYuMTMg5LiN6LeR5pys6ISa5pys77yMCi8vICAgICAgICAg5pys6ISa5pys5LuF5Zyo5pys5ZywL0NJIOi/kOe7tOS+p+aJp+ihjO+8ieOAgue7neS4jeS/ruaUueS7u+S9leWGu+e7k+i1hOS6p+OAggovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KJ3VzZSBzdHJpY3QnOwoKLy8g5Lil5qC85Zu95YaF5byV5pOO77yI6buY6K6k5ZCv55So77yM6Zu26Leo5aKD77yJCnZhciBTVFJJQ1RfRE9NRVNUSUMgPSB7IGJhaWR1OiB0cnVlLCBzb2dvdTogdHJ1ZSwgc286IHRydWUsICczNjAnOiB0cnVlIH07Ci8vIOWPr+mAieOAgemcgCBQSVBMIOivhOS8sO+8iOe7tOWfuuezu+acjeWKoeWZqOS9jeS6juWig+Wklu+8iQp2YXIgQk9SREVSTElORSA9IHsgd2lraWRhdGE6IHRydWUsIHdpa2lwZWRpYTogdHJ1ZSB9OwoKZnVuY3Rpb24gcGFyc2VBcmdzKCkgewogIHZhciBiYXNlID0gcHJvY2Vzcy5lbnYuU0VBUlhOR19CQVNFX1VSTCB8fCAocHJvY2Vzcy5hcmd2WzJdIHx8ICcnKTsKICB2YXIga2V5ID0gcHJvY2Vzcy5lbnYuU0VBUlhOR19BUElfS0VZIHx8IChwcm9jZXNzLmFyZ3ZbM10gfHwgJycpOwogIHJldHVybiB7IGJhc2U6IChiYXNlIHx8ICcnKS50cmltKCksIGtleTogKGtleSB8fCAnJykudHJpbSgpIH07Cn0KCmFzeW5jIGZ1bmN0aW9uIG1haW4oKSB7CiAgdmFyIGFyZ3MgPSBwYXJzZUFyZ3MoKTsKICBpZiAoIWFyZ3MuYmFzZSkgewogICAgY29uc29sZS5lcnJvcignW0ZBSUxdIOacquaPkOS+myBTRUFSWE5HX0JBU0VfVVJM77yIZW52IOaIliBhcmd2WzJd77yJJyk7CiAgICBwcm9jZXNzLmV4aXQoMik7CiAgfQogIHZhciB1cmwgPSBhcmdzLmJhc2UucmVwbGFjZSgvXC8rJC8sICcnKSArICcvc2VhcmNoP3E9JyArCiAgICBlbmNvZGVVUklDb21wb25lbnQoJ+WQkeaZmumXruaAnSDogZTnvZHmtYvor5UnKSArICcmZm9ybWF0PWpzb24nOwoKICB2YXIgaGVhZGVycyA9IHsgQWNjZXB0OiAnYXBwbGljYXRpb24vanNvbicgfTsKICBpZiAoYXJncy5rZXkpIGhlYWRlcnNbJ0F1dGhvcml6YXRpb24nXSA9ICdCZWFyZXIgJyArIGFyZ3Mua2V5OwoKICB2YXIgcmVzLCBkYXRhOwogIHRyeSB7CiAgICByZXMgPSBhd2FpdCBmZXRjaCh1cmwsIHsgaGVhZGVyczogaGVhZGVycyB9KTsKICB9IGNhdGNoIChlKSB7CiAgICBjb25zb2xlLmVycm9yKCdbRkFJTF0g6K+35rGC5byC5bi477yaJyArIChlICYmIGUubWVzc2FnZSA/IGUubWVzc2FnZSA6IGUpKTsKICAgIHByb2Nlc3MuZXhpdCgzKTsKICB9CgogIGlmIChyZXMuc3RhdHVzICE9PSAyMDApIHsKICAgIGNvbnNvbGUuZXJyb3IoJ1tGQUlMXSBIVFRQICcgKyByZXMuc3RhdHVzICsgJ++8iOacn+acmyAyMDDvvIknKTsKICAgIHByb2Nlc3MuZXhpdCg0KTsKICB9CiAgdHJ5IHsKICAgIGRhdGEgPSBhd2FpdCByZXMuanNvbigpOwogIH0gY2F0Y2ggKGUpIHsKICAgIGNvbnNvbGUuZXJyb3IoJ1tGQUlMXSDlk43lupTpnZ4gSlNPTu+8micgKyAoZSAmJiBlLm1lc3NhZ2UgPyBlLm1lc3NhZ2UgOiBlKSk7CiAgICBwcm9jZXNzLmV4aXQoNSk7CiAgfQoKICB2YXIgcmVzdWx0cyA9IChkYXRhICYmIEFycmF5LmlzQXJyYXkoZGF0YS5yZXN1bHRzKSkgPyBkYXRhLnJlc3VsdHMgOiBbXTsKICBpZiAoIXJlc3VsdHMubGVuZ3RoKSB7CiAgICBjb25zb2xlLmVycm9yKCdbV0FSTl0gSFRUUCAyMDAg5L2G5peg57uT5p6c77yI5a6e5L6L5Y+v6IO95pyq6L+U5Zue77yM5oiW5p+l6K+i6KKr6L+H5ruk77yJJyk7CiAgICAvLyDkuI3oh7Tlkb3lpLHotKXvvIzkvYbmj5DnpLoKICB9CgogIC8vIOaUtumbhiBlbmdpbmUg5YiG5biDCiAgdmFyIGRpc3QgPSB7fTsKICByZXN1bHRzLmZvckVhY2goZnVuY3Rpb24gKHIpIHsKICAgIHZhciBlID0gciAmJiByLmVuZ2luZSA/IHIuZW5naW5lIDogJ3Vua25vd24nOwogICAgZGlzdFtlXSA9IChkaXN0W2VdIHx8IDApICsgMTsKICB9KTsKCiAgdmFyIGNyb3NzQm9yZGVyID0gW107CiAgdmFyIGJvcmRlcmxpbmUgPSBbXTsKICBPYmplY3Qua2V5cyhkaXN0KS5mb3JFYWNoKGZ1bmN0aW9uIChlKSB7CiAgICBpZiAoU1RSSUNUX0RPTUVTVElDW2VdKSByZXR1cm47CiAgICBpZiAoQk9SREVSTElORVtlXSkgeyBib3JkZXJsaW5lLnB1c2goZSArICcoJyArIGRpc3RbZV0gKyAnKScpOyByZXR1cm47IH0KICAgIGNyb3NzQm9yZGVyLnB1c2goZSArICcoJyArIGRpc3RbZV0gKyAnKScpOwogIH0pOwoKICBjb25zb2xlLmxvZygnPT09IFNlYXJYTkcg5YaS54Of57uT5p6cID09PScpOwogIGNvbnNvbGUubG9nKCdlbmRwb2ludCA6ICcgKyBhcmdzLmJhc2UpOwogIGNvbnNvbGUubG9nKCdodHRwICAgICA6ICcgKyByZXMuc3RhdHVzKTsKICBjb25zb2xlLmxvZygncmVzdWx0cyAgOiAnICsgcmVzdWx0cy5sZW5ndGgpOwogIGNvbnNvbGUubG9nKCdlbmdpbmXliIbluIM6ICcgKyBKU09OLnN0cmluZ2lmeShkaXN0KSk7CgogIGlmIChjcm9zc0JvcmRlci5sZW5ndGgpIHsKICAgIGNvbnNvbGUuZXJyb3IoJ1tGQUlMXSDmo4Dlh7rot6jlooPlvJXmk47vvJonICsgY3Jvc3NCb3JkZXIuam9pbignLCAnKSArICcg4oCU4oCUIOWunuS+i+ivr+mFje+8jOWbnuafpSBzZXR0aW5ncy55bWwnKTsKICAgIHByb2Nlc3MuZXhpdCg2KTsKICB9CiAgaWYgKGJvcmRlcmxpbmUubGVuZ3RoKSB7CiAgICBjb25zb2xlLmxvZygnW1dBUk5dIOWQq+mcgOivhOS8sOeahOe7tOWfuuezu+W8leaTju+8micgKyBib3JkZXJsaW5lLmpvaW4oJywgJykgKwogICAgICAnIOKAlOKAlCDoi6XopoHmsYLkuKXmoLzpm7bot6jlooPvvIzor7flnKggc2V0dGluZ3MueW1sIOazqOmHiuaOiSB3aWtpZGF0YS93aWtpcGVkaWEnKTsKICB9CiAgY29uc29sZS5sb2coJ1tQQVNTXSDmnKrmo4Dlh7rot6jlooPlvJXmk47vvJtkYXRhX3JvdXRlIOWPr+S/neaMgSBkb21lc3RpYycpOwogIHByb2Nlc3MuZXhpdCgwKTsKfQoKbWFpbigpOwo=
+// ============================================================
+// scripts/smoke_searxng.js
+//   Phase Q2-9：SearXNG 国内实例部署后的合规冒烟测试。
+//
+//   用途：B1（国内部署）完成后，对 SEARXNG_BASE_URL 做 JSON API 冒烟，
+//         并校验返回结果的 engine 是否属于【国内白名单】——
+//         一旦检出跨境引擎（bing/google/ddg/tavily...）即 FAIL，
+//         证明实例误配，必须回查 settings.yml。
+//
+//   用法：
+//     SEARXNG_BASE_URL=https://search.example.com \
+//     SEARXNG_API_KEY=<token> \
+//     node scripts/smoke_searxng.js
+//   或：node scripts/smoke_searxng.js <baseUrl> <apiKey>
+//
+//   依赖：Node 18+ 全局 fetch（云函数运行时 Node16.13 不跑本脚本，
+//         本脚本仅在本地/CI 运维侧执行）。绝不修改任何冻结资产。
+// ============================================================
+'use strict';
+
+// 严格国内引擎（默认启用，零跨境）
+var STRICT_DOMESTIC = { baidu: true, sogou: true, so: true, '360': true };
+// 可选、需 PIPL 评估（维基系服务器位于境外）
+var BORDERLINE = { wikidata: true, wikipedia: true };
+
+function parseArgs() {
+  var base = process.env.SEARXNG_BASE_URL || (process.argv[2] || '');
+  var key = process.env.SEARXNG_API_KEY || (process.argv[3] || '');
+  return { base: (base || '').trim(), key: (key || '').trim() };
+}
+
+async function main() {
+  var args = parseArgs();
+  if (!args.base) {
+    console.error('[FAIL] 未提供 SEARXNG_BASE_URL（env 或 argv[2]）');
+    process.exit(2);
+  }
+  var url = args.base.replace(/\/+$/, '') + '/search?q=' +
+    encodeURIComponent('向晚问思 联网测试') + '&format=json';
+
+  var headers = { Accept: 'application/json' };
+  if (args.key) headers['Authorization'] = 'Bearer ' + args.key;
+
+  var res, data;
+  try {
+    res = await fetch(url, { headers: headers });
+  } catch (e) {
+    console.error('[FAIL] 请求异常：' + (e && e.message ? e.message : e));
+    process.exit(3);
+  }
+
+  if (res.status !== 200) {
+    console.error('[FAIL] HTTP ' + res.status + '（期望 200）');
+    process.exit(4);
+  }
+  try {
+    data = await res.json();
+  } catch (e) {
+    console.error('[FAIL] 响应非 JSON：' + (e && e.message ? e.message : e));
+    process.exit(5);
+  }
+
+  var results = (data && Array.isArray(data.results)) ? data.results : [];
+  if (!results.length) {
+    console.error('[WARN] HTTP 200 但无结果（实例可能未返回，或查询被过滤）');
+    // 不致命失败，但提示
+  }
+
+  // 收集 engine 分布
+  var dist = {};
+  results.forEach(function (r) {
+    var e = r && r.engine ? r.engine : 'unknown';
+    dist[e] = (dist[e] || 0) + 1;
+  });
+
+  var crossBorder = [];
+  var borderline = [];
+  Object.keys(dist).forEach(function (e) {
+    if (STRICT_DOMESTIC[e]) return;
+    if (BORDERLINE[e]) { borderline.push(e + '(' + dist[e] + ')'); return; }
+    crossBorder.push(e + '(' + dist[e] + ')');
+  });
+
+  console.log('=== SearXNG 冒烟结果 ===');
+  console.log('endpoint : ' + args.base);
+  console.log('http     : ' + res.status);
+  console.log('results  : ' + results.length);
+  console.log('engine分布: ' + JSON.stringify(dist));
+
+  if (crossBorder.length) {
+    console.error('[FAIL] 检出跨境引擎：' + crossBorder.join(', ') + ' —— 实例误配，回查 settings.yml');
+    process.exit(6);
+  }
+  if (borderline.length) {
+    console.log('[WARN] 含需评估的维基系引擎：' + borderline.join(', ') +
+      ' —— 若要求严格零跨境，请在 settings.yml 注释掉 wikidata/wikipedia');
+  }
+  console.log('[PASS] 未检出跨境引擎；data_route 可保持 domestic');
+  process.exit(0);
+}
+
+main();

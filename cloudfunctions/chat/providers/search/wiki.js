@@ -1,1 +1,75 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIHByb3ZpZGVycy9zZWFyY2gvd2lraS5qcwovLyAgIFBoYXNlIFEyLTI1LUPvvJpXaWtpcGVkaWEg5qOA57Si5rqQ77yI6Zu2IGtleeOAgeS6i+WunuWei+OAgeWFrOW8gOWPguiAg++8ieOAggovLwovLyAgIOWumuS9je+8muS4jiB0YXZpbHkvYmluZy9zZXJwL2JyYXZlIOWQjOexu+eahOOAjOe6r+ajgOe0ouOAjXByb3ZpZGVy4oCU4oCU5Y+q5ouJ5YWs5byACi8vICAgICDnmb7np5Hkuovlrp7niYfmrrXvvIjmoIfpopgrVVJMK+aRmOimgSvmnaXmupDvvInvvIzkuI3oh6rluKYgTExNIOe7vOWQiOOAguajgOe0oue7k+aenOS6pOe7mQovLyAgICAg5LiK5bGCIGZyZXNobmVzcyDmtYHnqIvvvJpmYXN0IOaooeW8j+ebtOetlOWOn+Wni+eJh+aute+8jHRoaW5rIOaooeW8j+aKveS6i+WunuWQjueUseeOsOaciQovLyAgICAg55Sf5oiQ5Zmo57uH5oiQ5LqU5q615byP44CC6Zu26aKd5aSWIHN5bnRoZXNpcyDku6PnoIHvvIzkuI3norDlhrvnu5PotYTkuqfjgIIKLy8KLy8gICDimqDvuI8g5LiOIEJyYXZlIOeahOWFs+mUruWMuuWIq++8iOWQiOinhOWPo+W+hO+8ie+8mgovLyAgICAgwrcg6Zu2IEFQSSBrZXnjgIHpm7bms6jlhozvvIzml6DllYbkuJrmkJzntKLlvJXmk47nmoTjgIznlKjmiLfljp/or53lh7rlooPjgI3po47pmanjgIIKLy8gICAgIMK3IOS7heS8oOi+k+OAjOWFrOW8gOS6i+WunuafpeivouOAje+8jOS4jeWQq+S7u+S9leeUqOaItyBQSUkgLyDouqvku70gLyDmlY/mhJ/lhoXlrrnjgIIKLy8gICAgIMK3IOacjeWKoeWZqOiZveWcqOWig+Wklu+8iCB0ZWNobmljYWxseSBjcm9zc19ib3JkZXLvvInvvIzkvYbmlbDmja7mgKfotKjkuLrlhazlvIDlj4LogIPvvIwKLy8gICAgICAg5LiOIEJyYXZl77yI5pW05q6155So5oi35p+l6K+i5Lqk5ZWG5Lia5pCc57Si5byV5pOO77yJ6aOO6Zmp6YeP57qn5LiN5ZCM44CCCi8vICAgICDCtyDms6jvvJp6aC53aWtpcGVkaWEub3JnIOWcqOWkp+mZhue9kee7nOeOr+Wig+WPr+i+vuaAp+S4jeeos+Wumu+8jOeUn+S6p+mhu+ecn+acuumqjOivgeOAggovLwovLyAgIOa/gOa0u+adoeS7tu+8mlNFQVJDSF9QUk9WSURFUj13aWtpICsgRlJFU0hORVNTX0ZBQ1RVQUxfRU5BQkxFRD10cnVl44CCCi8vICAgICDvvIjml6DpnIAga2V577yb5pegIG5vZGVGZXRjaCDml7Ygb2s6ZmFsc2Ugbm9fZmV0Y2gg5LyY6ZuF6ZmN57qn44CC77yJCi8vCi8vICAg6YWN572u77yI546v5aKD5Y+Y6YeP77yJ77yaCi8vICAgICBXSUtJX0xBTkcgICAgICAgIOivreiogC/nq5nngrnvvIjpu5jorqQgemjvvJvlj6/pgIkgZW4g562J77yJCi8vICAgICBXSUtJX1VTRVJfQUdFTlQgIOiHquWumuS5iSBVQe+8iOm7mOiupCBYaWFuZ1dlbldlblNpLzEuMO+8jOmDqOWIhuermeeCueimgeaxgu+8iQovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KJ3VzZSBzdHJpY3QnOwoKdmFyIHV0aWwgPSByZXF1aXJlKCcuL3V0aWwnKTsKCmZ1bmN0aW9uIF9zdHJpcFRhZ3MocykgewogIGlmICghcykgcmV0dXJuICcnOwogIHJldHVybiAoJycgKyBzKS5yZXBsYWNlKC88W14+XSs+L2csICcnKS5yZXBsYWNlKC9ccysvZywgJyAnKS50cmltKCk7Cn0KCmZ1bmN0aW9uIHNlYXJjaChxdWVyeSwgb3B0cywgbm9kZUZldGNoKSB7CiAgaWYgKHR5cGVvZiBub2RlRmV0Y2ggIT09ICdmdW5jdGlvbicpIHsKICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUoeyBvazogZmFsc2UsIHByb3ZpZGVyOiAnd2lraScsIHJlc3VsdHM6IFtdLCByZWFzb246ICdub19mZXRjaCcgfSk7CiAgfQogIHZhciBtYXhSZXN1bHRzID0gdXRpbC50b0ludChwcm9jZXNzLmVudi5TRUFSQ0hfTUFYX1JFU1VMVFMsIDUpOwogIHZhciBsYW5nID0gKHByb2Nlc3MuZW52LldJS0lfTEFORyB8fCAnemgnKS50cmltKCk7CiAgdmFyIHVhID0gKHByb2Nlc3MuZW52LldJS0lfVVNFUl9BR0VOVCB8fCAnWGlhbmdXZW5XZW5TaS8xLjAgKGZhY3R1YWwtcmVmZXJlbmNlKScpLnRyaW0oKTsKCiAgLy8gV2lraXBlZGlhIOW8gOaUviBzZWFyY2ggQVBJ77yI5peg6ZyAIGtlee+8m29yaWdpbj0qIOS7hea1j+iniOWZqCBDT1JTIOeUqO+8jOacjeWKoeerr+W/veeVpeaXoOWmqO+8iQogIHZhciBlbmRwb2ludCA9ICdodHRwczovLycgKyBsYW5nICsgJy53aWtpcGVkaWEub3JnL3cvYXBpLnBocCc7CiAgdmFyIHVybCA9IGVuZHBvaW50ICsKICAgICc/YWN0aW9uPXF1ZXJ5Jmxpc3Q9c2VhcmNoJnNyc2VhcmNoPScgKyBlbmNvZGVVUklDb21wb25lbnQocXVlcnkpICsKICAgICcmc3JsaW1pdD0nICsgZW5jb2RlVVJJQ29tcG9uZW50KFN0cmluZyhtYXhSZXN1bHRzKSkgKwogICAgJyZmb3JtYXQ9anNvbiZvcmlnaW49Kic7CiAgdmFyIGhlYWRlcnMgPSB7CiAgICAnQWNjZXB0JzogJ2FwcGxpY2F0aW9uL2pzb24nLAogICAgJ1VzZXItQWdlbnQnOiB1YSwKICB9OwoKICAvLyDkvKDovpMvSFRUUCDplJnor6/nlLEgdXRpbC5odHRwR2V0SnNvbiDmipvlh7og4oaSIGluZGV4LmpzIHdpdGhSZXRyeSDph43or5XvvJsKICAvLyDmraTlpITku4XlpITnkIbjgIzlt7LmiJDlip/ov5Tlm57kvYbml6Dlj6/nlKjnu5PmnpzjgI3nmoTnoa7lrprmgKfmg4XlvaLvvIjov5Tlm54gb2s6ZmFsc2XvvIzkuI3ph43or5XvvInjgIIKICByZXR1cm4gdXRpbC5odHRwR2V0SnNvbihub2RlRmV0Y2gsIHVybCwgaGVhZGVycywgODAwMCkudGhlbihmdW5jdGlvbiAoZGF0YSkgewogICAgdmFyIHJhdyA9IChkYXRhICYmIGRhdGEucXVlcnkgJiYgZGF0YS5xdWVyeS5zZWFyY2gpIHx8IFtdOwogICAgdmFyIHJlc3VsdHMgPSBbXTsKICAgIGZvciAodmFyIGkgPSAwOyBpIDwgcmF3Lmxlbmd0aCAmJiByZXN1bHRzLmxlbmd0aCA8IG1heFJlc3VsdHM7IGkrKykgewogICAgICB2YXIgaXRlbSA9IHJhd1tpXTsKICAgICAgaWYgKCFpdGVtIHx8IHR5cGVvZiBpdGVtICE9PSAnb2JqZWN0JykgY29udGludWU7CiAgICAgIHZhciBub3JtYWxpemVkID0gdXRpbC5ub3JtYWxpemVSZXN1bHQoewogICAgICAgIHRpdGxlOiBpdGVtLnRpdGxlLAogICAgICAgIHVybDogJ2h0dHBzOi8vJyArIGxhbmcgKyAnLndpa2lwZWRpYS5vcmcvd2lraS8nICsgZW5jb2RlVVJJQ29tcG9uZW50KChpdGVtLnRpdGxlIHx8ICcnKS5yZXBsYWNlKC8gL2csICdfJykpLAogICAgICAgIGNvbnRlbnQ6IF9zdHJpcFRhZ3MoaXRlbS5zbmlwcGV0KSwKICAgICAgICBzb3VyY2U6ICdXaWtpcGVkaWEnLAogICAgICB9KTsKICAgICAgaWYgKG5vcm1hbGl6ZWQpIHJlc3VsdHMucHVzaChub3JtYWxpemVkKTsKICAgIH0KICAgIGlmICghcmVzdWx0cy5sZW5ndGgpIHsKICAgICAgcmV0dXJuIHsgb2s6IGZhbHNlLCBwcm92aWRlcjogJ3dpa2knLCByZXN1bHRzOiBbXSwgcmVhc29uOiAnbm9fcmVzdWx0cycgfTsKICAgIH0KICAgIHJldHVybiB7IG9rOiB0cnVlLCBwcm92aWRlcjogJ3dpa2knLCByZXN1bHRzOiByZXN1bHRzLCByZWFzb246ICcnIH07CiAgfSk7Cn0KCm1vZHVsZS5leHBvcnRzID0geyBzZWFyY2g6IHNlYXJjaCB9Owo=
+// ============================================================
+// providers/search/wiki.js
+//   Phase Q2-25-C：Wikipedia 检索源（零 key、事实型、公开参考）。
+//
+//   定位：与 tavily/bing/serp/brave 同类的「纯检索」provider——只拉公开
+//     百科事实片段（标题+URL+摘要+来源），不自带 LLM 综合。检索结果交给
+//     上层 freshness 流程：fast 模式直答原始片段，think 模式抽事实后由现有
+//     生成器织成五段式。零额外 synthesis 代码，不碰冻结资产。
+//
+//   ⚠️ 与 Brave 的关键区别（合规口径）：
+//     · 零 API key、零注册，无商业搜索引擎的「用户原话出境」风险。
+//     · 仅传输「公开事实查询」，不含任何用户 PII / 身份 / 敏感内容。
+//     · 服务器虽在境外（ technically cross_border），但数据性质为公开参考，
+//       与 Brave（整段用户查询交商业搜索引擎）风险量级不同。
+//     · 注：zh.wikipedia.org 在大陆网络环境可达性不稳定，生产须真机验证。
+//
+//   激活条件：SEARCH_PROVIDER=wiki + FRESHNESS_FACTUAL_ENABLED=true。
+//     （无需 key；无 nodeFetch 时 ok:false no_fetch 优雅降级。）
+//
+//   配置（环境变量）：
+//     WIKI_LANG        语言/站点（默认 zh；可选 en 等）
+//     WIKI_USER_AGENT  自定义 UA（默认 XiangWenWenSi/1.0，部分站点要求）
+// ============================================================
+'use strict';
+
+var util = require('./util');
+
+function _stripTags(s) {
+  if (!s) return '';
+  return ('' + s).replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
+}
+
+function search(query, opts, nodeFetch) {
+  if (typeof nodeFetch !== 'function') {
+    return Promise.resolve({ ok: false, provider: 'wiki', results: [], reason: 'no_fetch' });
+  }
+  var maxResults = util.toInt(process.env.SEARCH_MAX_RESULTS, 5);
+  var lang = (process.env.WIKI_LANG || 'zh').trim();
+  var ua = (process.env.WIKI_USER_AGENT || 'XiangWenWenSi/1.0 (factual-reference)').trim();
+
+  // Wikipedia 开放 search API（无需 key；origin=* 仅浏览器 CORS 用，服务端忽略无妨）
+  var endpoint = 'https://' + lang + '.wikipedia.org/w/api.php';
+  var url = endpoint +
+    '?action=query&list=search&srsearch=' + encodeURIComponent(query) +
+    '&srlimit=' + encodeURIComponent(String(maxResults)) +
+    '&format=json&origin=*';
+  var headers = {
+    'Accept': 'application/json',
+    'User-Agent': ua,
+  };
+
+  // 传输/HTTP 错误由 util.httpGetJson 抛出 → index.js withRetry 重试；
+  // 此处仅处理「已成功返回但无可用结果」的确定性情形（返回 ok:false，不重试）。
+  return util.httpGetJson(nodeFetch, url, headers, 8000).then(function (data) {
+    var raw = (data && data.query && data.query.search) || [];
+    var results = [];
+    for (var i = 0; i < raw.length && results.length < maxResults; i++) {
+      var item = raw[i];
+      if (!item || typeof item !== 'object') continue;
+      var normalized = util.normalizeResult({
+        title: item.title,
+        url: 'https://' + lang + '.wikipedia.org/wiki/' + encodeURIComponent((item.title || '').replace(/ /g, '_')),
+        content: _stripTags(item.snippet),
+        source: 'Wikipedia',
+      });
+      if (normalized) results.push(normalized);
+    }
+    if (!results.length) {
+      return { ok: false, provider: 'wiki', results: [], reason: 'no_results' };
+    }
+    return { ok: true, provider: 'wiki', results: results, reason: '' };
+  });
+}
+
+module.exports = { search: search };

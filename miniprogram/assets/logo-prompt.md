@@ -1,1 +1,64 @@
-IyDlkJHmmZrpl67mgJ0gTG9nbyDnlJ/lm77mj5DnpLror40KCiMjIOeUqOmAlArnlJ/miJDjgIzlkJHmmZrpl67mgJ3jgI3lsI/nqIvluo/nmoTlm77moIfvvIjlpLTlg4/vvInpq5jmuIXkvY3lm77jgILlvZPliY3nn6Lph4/nqL8gYGxvZ28teGlhbmd3YW4uc3ZnYCDlt7LlsLHnu6rvvIwK5pys5o+Q56S66K+N55So5LqO55Sf5oiQ5pu057K+6Ie055qEIFBOR++8iOmAgueUqOS6juW+ruS/oeWktOWDj+S4iuS8oOOAgeWumOe9kSBmYXZpY29u44CB5ZCv5Yqo6aG177yJ44CCCgrorr7orqHor63kuYnvvJoKLSAqKuWQkeaZmioqID0g6buE5piP6JC95pel77yM5Y2K5rKJ6L+c5bGx77yI5ZG85bqU5p2O5ZWG6ZqQ44CK5LmQ5ri45Y6f44CLIuWQkeaZmuaEj+S4jemAgiLvvIkKLSAqKumXruaAnSoqID0g6JC95pel5Lit5LiA6YGT5byA5Y+j5ZyG546v77yI5pyq5a6M5oiQ55qE5oCd57SiIC8g5LiA5Liq6L+Y5rKh5oOz6YCP55qE6Zeu77yJCi0g6YWN6Imy77ya57Gz6Imy5bqVIGAjZWZlNGNmYOOAgeiQveaXpeaaluapmSBgI2U4OWE1Y2Ag4oaSIOa3see7ryBgIzliMmYyNWDjgIHlvIDlj6Pnjq/mtYXnsbMgYCNmYmVlZGVgCgotLS0KCiMjIOS4reaWh+aPkOekuuivje+8iOmAgumFjeWNs+aipiAvIOmAmuS5ieS4h+ebuCAvIOixhuWMhSAvIOmGkuWbvu+8iQpgYGAK5p6B566A6aOO5qC855qE5bCP56iL5bqPIGxvZ28g5Zu+5qCH77yM5q2j5pa55b2iIDE6MSDmnoTlm77jgILog4zmma/mmK/muKnmmpbnmoTnsbPoibLvvIgjZWZlNGNm77yJ44CCCueUu+mdouS4reWkruaYr+S4gOi9ruWklemYs++8jOminOiJsuS7juaaluapme+8iCNlODlhNWPvvInlubPmu5HmuJDlj5jliLDmt7Hnu6/nuqLvvIgjOWIyZjI177yJ77yMCuWklemYs+S4i+WNiumDqOWIhuWNiuayieWFpeS4pOmBk+W5s+e8k+WxguWPoOeahOi/nOWxseWJquW9seS5i+S4reOAggrlpJXpmLPmraPkuK3lpK7mnInkuIDkuKrmtYXnsbPoibLvvIgjZmJlZWRl77yJ55qE5byA5Y+j5ZyG546v77yM5YOP5LiA5Liq5LiN5a6M5pW055qE5oCd6ICD5ZyI44CCCuaVtOS9k+WuiemdmeOAgeWGheecgeOAgeacieS5puWNt+awlO+8jOWkp+mHj+eVmeeZve+8jOaJgeW5s+efoumHj+mjjuagvO+8jOaflOWSjOeahOaaluiJsuWFieaZle+8jArpq5jnuqflk5HlhYnotKjmhJ/vvIzovbvlvq7mn5TlkozpmLTlvbHjgILml6DmloflrZfjgIHml6DlrZfmr43jgIHml6DnrKblj7fjgIHml6Agd2F0ZXJtYXJr44CCCmBgYAoKIyMg6Iux5paH5o+Q56S66K+N77yI6YCC6YWNIE1pZGpvdXJuZXkgLyBEQUxMwrdFIC8gSW1hZ2VHZW7vvIkKYGBgCk1pbmltYWxpc3Qgc3F1YXJlIGFwcCBsb2dvIGljb24sIDE6MSBjb21wb3NpdGlvbiwgd2FybSBwYXJjaG1lbnQgYmFja2dyb3VuZCAoI2VmZTRjZikuCkNlbnRlcmVkIGEgc2V0dGluZyBzdW4gZ3JhZGllbnQgZnJvbSB3YXJtIGFtYmVyICgjZTg5YTVjKSB0byBkZWVwIGNyaW1zb24gKCM5YjJmMjUpLApoYWxmIHN1bmsgYmVoaW5kIHR3byBjYWxtIGxheWVyZWQgaGlsbCBzaWxob3VldHRlcy4KSW5zaWRlIHRoZSBzdW4gYSB0aGluIGJyb2tlbiByaW5nIChvcGVuIGNpcmNsZSwgbGlrZSBhbiB1bmZpbmlzaGVkIHRob3VnaHQpIGluIGxpZ2h0IGNyZWFtICgjZmJlZWRlKS4KUXVpZXQsIGludHJvc3BlY3RpdmUsIGxpdGVyYXJ5IG1vb2QsIGxvdHMgb2YgbmVnYXRpdmUgc3BhY2UsIGZsYXQgdmVjdG9yIHN0eWxlLApzb2Z0IHdhcm0gZ2xvdywgcHJlbWl1bSBtYXR0ZSBmaW5pc2gsIHN1YnRsZSBzb2Z0IHNoYWRvdy4KTm8gdGV4dCwgbm8gbGV0dGVycywgbm8gc3ltYm9scywgbm8gd2F0ZXJtYXJrLgpgYGAKCiMjIOi0n+WQkeaPkOekuu+8iE5lZ2F0aXZlIFByb21wdO+8iQpgYGAKbm8gdGV4dCwgbm8gbGV0dGVycywgbm8gd29yZHMsIG5vIG51bWJlcnMsIG5vIHdhdGVybWFyaywgbm8gc2lnbmF0dXJlLApubyByZWFsaXN0aWMgcGhvdG8sIG5vIDNkIHJlbmRlciwgbm8gY2xheW1hdGlvbiwgbm8gY2x1dHRlciwgbm8gY2hhcmFjdGVycywgbm8gZmFjZSwKbm8gZ3JhZGllbnQgbWVzaCBub2lzZSwgbm8gZXh0cmEgZGVjb3JhdGlvbnMKYGBgCgojIyDlj4LmlbDlu7rorq4KLSDmr5TkvovvvJpgLS1hciAxOjFg77yITWlkam91cm5lee+8iS8gYHNpemUgMTAyNHgxMDI0YCDmiJYgYDE1MzZ4MTUzNmDvvIjmm7TmuIXmmbDvvIkKLSDpo47moLzvvJpmbGF0IC8gbWluaW1hbGlzdCAvIHZlY3Rvcu+8iOS4jeimgeeUqCByZWFsaXN0aWMgLyAzZO+8iQotIOW+ruS/oeWktOWDj+acgOe7iOmcgOijgeaIkCAqKjE0NMOXMTQ0IOWchuinkioq77yM55Sf5Zu+5ZCO6K+35L+d55WZ5Lit5b+D6JC95pel5Yy65Z+f5LiN6KKr6KOB5o6JCi0g5omB5bmz6Imy5Z2X5ZyoIDE0NHB4IOWwj+WwuuWvuOS4i+acgOa4heaZsO+8m+mBv+WFjee7huiFu+e6ueeQhu+8iOWwj+WbvuS8mueziu+8iQoKLS0tCgojIyDlpIfpgInvvJrmhI/looPmj5LnlLvniYjvvIjnlKjkuo7lkK/liqjpobUgLyDlrpjnvZEgYmFubmVy77yM6Z2e5aS05YOP77yJCmBgYApBIHNlcmVuZSBkdXNrIGxhbmRzY2FwZSBpbGx1c3RyYXRpb246IGEgbGFyZ2UgbG93IHN1biBpbiBhbWJlci10by1jcmltc29uIGdyYWRpZW50CnNpbmtpbmcgYmVoaW5kIHNvZnQgbGF5ZXJlZCBoaWxscywgd2FybSBwYXJjaG1lbnQgc2t5IHdpdGggZ2VudGxlIGNsb3VkIHN0cmVha3MsCmEgZmFpbnQgYnJva2VuIHJpbmcgb2YgbGlnaHQgaG92ZXJpbmcgbmVhciB0aGUgc3VuIHN1Z2dlc3RpbmcgYSB0aG91Z2h0ZnVsIHF1ZXN0aW9uLgpRdWlldCBsaXRlcmFyeSBhdG1vc3BoZXJlLCBtdXRlZCB3YXJtIHBhbGV0dGUsIG1pbmltYWxpc3QgZmxhdCBhcnQsCnBsZW50eSBvZiBuZWdhdGl2ZSBzcGFjZSwgbm8gdGV4dCwgbm8gd2F0ZXJtYXJrLgpgYGAKCiMjIOazqOaEj+S6i+mhuQoxLiDlvq7kv6HlpLTlg4/lvLrliLYgMTQ0w5cxNDQg5LiU5ZyG6KeS6KOB5YiH77yM55Sf5Zu+6K+35L+d6K+B5Li75L2T77yI6JC95pel77yJ5bGF5Lit44CCCjIuIOiLpeeUqOS6juWktOWDj++8jOW8uueDiOW7uuiurueUqOS4iumdoueahOOAjOaJgeW5s+eJiOOAje+8jOe6ueeQhueJiOS7hemAguWQiOWkp+WbvuWcuuaZr+OAggozLiDnlJ/lm77lkI7pnIDovawgUE5H77yb5b2T5YmN6IW+6K6v5LqR5Zu+5YOP5Lu75Yqh6L6+IDE1MCDkuIrpmZDml7YgSW1hZ2VHZW4g5LiN5Y+v55So77yMCiAgIOmFjemineaBouWkjeWQjuWPr+eUsSBTZW5pb3IgRGV2ZWxvcGVyIOebtOaOpeiwg+eUqCBJbWFnZUdlbiDnm7Tlh7rjgIIKNC4gTG9nbyDkuI3liqDmloflrZfvvIgxNDRweCDliqDlrZflv4Xns4rvvInvvIzlsI/nqIvluo/lkI3np7DotbDlhazkvJflubPlj7DjgIzlsI/nqIvluo/lkI3np7DjgI3lrZfmrrXjgIIK
+﻿# 向晚问思 Logo 生图提示词
+
+## 用途
+生成「向晚问思」小程序的图标（头像）高清位图。当前矢量稿 `logo-xiangwan.svg` 已就绪，
+本提示词用于生成更精致的 PNG（适用于微信头像上传、官网 favicon、启动页）。
+
+设计语义：
+- **向晚** = 黄昏落日，半沉远山（呼应李商隐《乐游原》"向晚意不适"）
+- **问思** = 落日中一道开口圆环（未完成的思索 / 一个还没想透的问）
+- 配色：米色底 `#efe4cf`、落日暖橙 `#e89a5c` → 深绯 `#9b2f25`、开口环浅米 `#fbeede`
+
+---
+
+## 中文提示词（适配即梦 / 通义万相 / 豆包 / 醒图）
+```
+极简风格的小程序 logo 图标，正方形 1:1 构图。背景是温暖的米色（#efe4cf）。
+画面中央是一轮夕阳，颜色从暖橙（#e89a5c）平滑渐变到深绯红（#9b2f25），
+夕阳下半部分半沉入两道平缓层叠的远山剪影之中。
+夕阳正中央有一个浅米色（#fbeede）的开口圆环，像一个不完整的思考圈。
+整体安静、内省、有书卷气，大量留白，扁平矢量风格，柔和的暖色光晕，
+高级哑光质感，轻微柔和阴影。无文字、无字母、无符号、无 watermark。
+```
+
+## 英文提示词（适配 Midjourney / DALL·E / ImageGen）
+```
+Minimalist square app logo icon, 1:1 composition, warm parchment background (#efe4cf).
+Centered a setting sun gradient from warm amber (#e89a5c) to deep crimson (#9b2f25),
+half sunk behind two calm layered hill silhouettes.
+Inside the sun a thin broken ring (open circle, like an unfinished thought) in light cream (#fbeede).
+Quiet, introspective, literary mood, lots of negative space, flat vector style,
+soft warm glow, premium matte finish, subtle soft shadow.
+No text, no letters, no symbols, no watermark.
+```
+
+## 负向提示（Negative Prompt）
+```
+no text, no letters, no words, no numbers, no watermark, no signature,
+no realistic photo, no 3d render, no claymation, no clutter, no characters, no face,
+no gradient mesh noise, no extra decorations
+```
+
+## 参数建议
+- 比例：`--ar 1:1`（Midjourney）/ `size 1024x1024` 或 `1536x1536`（更清晰）
+- 风格：flat / minimalist / vector（不要用 realistic / 3d）
+- 微信头像最终需裁成 **144×144 圆角**，生图后请保留中心落日区域不被裁掉
+- 扁平色块在 144px 小尺寸下最清晰；避免细腻纹理（小图会糊）
+
+---
+
+## 备选：意境插画版（用于启动页 / 官网 banner，非头像）
+```
+A serene dusk landscape illustration: a large low sun in amber-to-crimson gradient
+sinking behind soft layered hills, warm parchment sky with gentle cloud streaks,
+a faint broken ring of light hovering near the sun suggesting a thoughtful question.
+Quiet literary atmosphere, muted warm palette, minimalist flat art,
+plenty of negative space, no text, no watermark.
+```
+
+## 注意事项
+1. 微信头像强制 144×144 且圆角裁切，生图请保证主体（落日）居中。
+2. 若用于头像，强烈建议用上面的「扁平版」，纹理版仅适合大图场景。
+3. 生图后需转 PNG；当前腾讯云图像任务达 150 上限时 ImageGen 不可用，
+   配额恢复后可由 Senior Developer 直接调用 ImageGen 直出。
+4. Logo 不加文字（144px 加字必糊），小程序名称走公众平台「小程序名称」字段。

@@ -1,1 +1,22 @@
-Ly8g5ZCR5pma6Zeu5oCdIC0g6ZqQ56eB5pS/562WICYg55So5oi35Y2P6K6u6aG1Ci8vIOeLrOeri+WPr+iuv+mXrumhtemdou+8jOS+m+makOengeaOiOadg+W8ueeql+OAgeWFs+S6jumhteWFpeWPo+i3s+i9rOOAguWGheWuueS4uumdmeaAgeWxleekuuOAggpQYWdlKHsKICBkYXRhOiB7CiAgICB0YWI6ICJwcml2YWN5IiwgLy8gcHJpdmFjeSB8IHRlcm1zCiAgICAvLyAyMDI2LTA5LTIx77ya5paw5aKe44CM5Ymq6LS05p2/5YaZ5YWl44CN5oqr6Zyy5p2h55uu77yI5Lq65qC85rWL6K+V6aG15aSW6ZO+5aSN5Yi25Yqf6IO955qE5YmN572u5aOw5piO77yJCiAgICB1cGRhdGVkQXQ6ICIyMDI2LTA5LTIxIiwKICB9LAoKICBvbkxvYWQob3B0aW9ucykgewogICAgaWYgKG9wdGlvbnMgJiYgb3B0aW9ucy50YWIgPT09ICJ0ZXJtcyIpIHsKICAgICAgdGhpcy5zZXREYXRhKHsgdGFiOiAidGVybXMiIH0pOwogICAgfQogIH0sCgogIHN3aXRjaFRhYihlKSB7CiAgICBjb25zdCB0YWIgPSBlLmN1cnJlbnRUYXJnZXQuZGF0YXNldC50YWI7CiAgICBpZiAodGFiICYmIHRhYiAhPT0gdGhpcy5kYXRhLnRhYikgewogICAgICB0aGlzLnNldERhdGEoeyB0YWIgfSk7CiAgICB9CiAgfSwKfSk7Cg==
+// 向晚问思 - 隐私政策 & 用户协议页
+// 独立可访问页面，供隐私授权弹窗、关于页入口跳转。内容为静态展示。
+Page({
+  data: {
+    tab: "privacy", // privacy | terms
+    // 2026-09-21：新增「剪贴板写入」披露条目（人格测试页外链复制功能的前置声明）
+    updatedAt: "2026-09-21",
+  },
+
+  onLoad(options) {
+    if (options && options.tab === "terms") {
+      this.setData({ tab: "terms" });
+    }
+  },
+
+  switchTab(e) {
+    const tab = e.currentTarget.dataset.tab;
+    if (tab && tab !== this.data.tab) {
+      this.setData({ tab });
+    }
+  },
+});

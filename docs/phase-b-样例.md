@@ -1,1 +1,173 @@
-IyBQaGFzZSBCIOmqjOivgeagt+S+iyDigJQg5pawIFByb21wdCDpo47moLzlrp7mtYsKCj4g55So6YCU77ya5Zyo6YOo572y5ZCO44CB6L+b5YWlIFBoYXNlIEMg5LmL5YmN77yM55So6L+Z5Lqb5qC35L6L6aqM6K+BIGByYWcuanNgIOeahOaWsCBgcm9sZVByb21wdGDvvIjlk7LlrabmgJ3ovqjliqnmiYvvvInmmK/lkKbnnJ/mraPnrKblkIggYDAyLUFJ5Zue562U6KeE6IyDLm1kYCDlrprkuYnnmoTpo47moLzjgIIKPgo+IOivtOaYju+8muS7peS4i+agt+S+i+S4uioq5oyJ5pawIFByb21wdCDkuI4gT3V0cHV0IENvbnRyYWN0IOaJi+W3peaSsOWGmeeahOebruagh+i+k+WHuuiMg+S+iyoq77yI6Z2e6L+Q6KGM5Lqn54mp77yJ77yM55So5LqO6K+E5a6h5LiO6Ieq5Yqo5rWL6K+V5a+554Wn44CC5omA5pyJ5byV55So5Z2H5Li655yf5a6e5YWs5pyJ6aKG5Z+f57uP5YW45Y6f5paH77yb6YOo5YiG5Li65aSW5paH5YW457GN55qE5Lit5paH5oSP6K+R77yM5bey5qCH5rOo44CCCj4KPiDpqozmlLblr7nnhacgYDAxLeS6p+WTgeWumuS5iS5tZGAg56ysIDExIOiKgu+8muKRoOeQhuino+mXrumimCDikaHiiaUxIOWPr+i/vea6r+W8leeUqCDikaLiiaUyIOinhuinkiDikaPljp/mlocv6Kej6K+75YiG56a7IOKRpOKJpTEg5byA5pS+6Zeu6aKYIOKRpeaXoOWUr+S4gOetlOahiOOAggoKLS0tCgojIyDmoLfkvosgMSDigJQg5oiQ6ZW/IC8g6L+36IyrCgoqKueUqOaItyoq77ya5oiR5oC76KeJ5b6X6Ieq5bex5Zyo5Y6f5Zyw5omT6L2s77yM5piO5piO5b6I5Yqq5Yqb77yM5Y2055yL5LiN5Yiw5pa55ZCR44CCCgoqKkFJKirvvJoK44CQ55CG6Kej44CR6L+Z56eNIuWKquWKm+WNtOayoeaWueWQkSLnmoTnlrLmg6vlvojnnJ/lrp7vvIzkuI3mmK/kvaDkuI3lpJ/lpb3vvIzluLjluLjmmK/mlrnlkJHmhJ/ov5jmsqHplb/lh7rmnaXjgIIKCuOAkOWIhuaekOOAkQotICoq5YSS5a626KeG6KeSKirvvJrlrZ/lrZDmiorlm7DlooPnnIvkvZzno6jngrzlv4PmgKfnmoTov4fnqIvvvIzkuI3miorlgZzmu57lvZPmiJDlpLHotKXjgIIKLSAqKumBk+Wutuinhuinkioq77ya5bqE5a2Q5o+Q6YaS5Lq65LiN5b+F55So5pyJ6ZmQ55qE55Sf5ZG95Y676L+95peg6ZmQ55qE55uu5qCH77yM5YWI55yL5riF6Ieq5bex55yf5q2j6KaB5LuA5LmI44CCCgrjgJDnu4/lhbjljp/mlofjgJEK44CK5a2f5a2QwrflkYrlrZDkuIvjgIvvvJoi5aSp5bCG6ZmN5aSn5Lu75LqO5piv5Lq65Lmf77yM5b+F5YWI6Ium5YW25b+D5b+X77yM5Yqz5YW2562L6aqo77yM6aW/5YW25L2T6IKk77yM56m65LmP5YW26Lqr77yM6KGM5ouC5Lmx5YW25omA5Li677yM5omA5Lul5Yqo5b+D5b+N5oCn77yM5pu+55uK5YW25omA5LiN6IO944CCIgrjgIrluoTlrZDCt+WFu+eUn+S4u+OAi++8miLlkL7nlJ/kuZ/mnInmtq/vvIzogIznn6XkuZ/ml6Dmtq/jgILku6XmnInmtq/pmo/ml6Dmtq/vvIzmroblt7LvvIEiCgoqKkFJIOino+ivuyoqCuWtn+WtkOeahOivneW4uOiiq+ivr+ivu+aIkCLlkIPoi6bmmK/nm67nmoQi77yb6L+Z6YeM5pu05YOP5piv6K+077yM5Zuw6aG/5pys6Lqr5Zyo6YC85L2g5oqK5qih57OK55qE5Yqb5rCU5Y+Y5oiQ5riF5pmw55qE5pa55ZCR44CC5bqE5a2Q5YiZ5Y+N5ZCR5o+Q6YaS77ya5aaC5p6c55uu5qCH6ZO65b6X5aSq5a6977yM5Y+N6ICM5Lya5oqK6Ieq5bex6ICX5bmy44CC5Lik6ICF5ZCI6LW35p2l55yL77yM5L2g55qEIuWOn+WcsOaJk+i9rCLkuZ/orrjkuI3mmK/msqHliqrlipvvvIzogIzmmK/mkYrlrZDpk7rlvpflpKrlpKfjgIHmsqHogZrnhKbjgIIKCuOAkOeOsOWunuOAkQotIOS7iuWkqe+8muaKiiLliqrlipsi5YiX5oiQ5LiJ5Lu25YW35L2T55qE5LqL77yM5ZyI5Ye65pyA6K6p5L2g6L+36Iyr55qE5LiA5Lu244CCCi0g5pys5ZGo77ya6YCJ5LiA5Liq5pyA5bCP55qE5pa55ZCR6K+V5LiA5ZGo77yM5YW25LuW5YWI5pS+5LiL44CCCi0g6ZW/5pyf77ya5YWB6K645pa55ZCR5oWi5oWi5riF5pmw77yM5LiN6KaB5rGC5LiA5qyh5oOz6YCP44CCCgrjgJDmgJ3ogIPjgJHlpoLmnpzmmoLml7bmlL7kuIsi5b+F6aG75om+5Yiw5aSn5pa55ZCRIueahOaJp+W/te+8jOS9oOacgOaDs+WFiOaKiuaJi+WktOWTquS4gOS7tuWwj+S6i+WBmumhuu+8nwoKLS0tCgojIyDmoLfkvosgMiDigJQg54Sm6JmRCgoqKueUqOaItyoq77ya5oiR6LaK5oOz6LaK5oWM77yM5pma5LiK552h5LiN552A77yM5oC76KeJ5b6X6KaB5Ye65LqL44CCCgoqKkFJKirvvJoK44CQ55CG6Kej44CR5rex5aSc55qE54Sm6JmR5pyA6Zq+54as77yM6Lqr5L2T5bey57uP5b6I57Sv5LqG77yM6ISR5a2Q6L+Y5Zyo6L2s77yM6L+Z5b6I5raI6ICX5L2g44CCCgrjgJDliIbmnpDjgJEKLSAqKumBk+Wutuinhuinkioq77ya6ICB5a2Q6K6yIuefpeatoiLvvIznn6XpgZPlk6rph4zor6XlgZzvvIzlj43ogIzog73plb/kuYXjgIIKLSAqKuaWr+WkmuiRm+inhuinkioq77ya5oqKIuaIkeiDveaOp+WItueahCLlkowi5LiN6IO95o6n5Yi255qEIuWIhuW8gO+8jOW+iOWkmuaFjOadpeiHquaKiuS4pOiAhea3t+WcqOS4gOi1t+OAggoK44CQ57uP5YW45Y6f5paH44CRCuOAiumBk+W+t+e7j8K356ys5Zub5Y2B5Zub56ug44CL77yaIuefpei2s+S4jei+se+8jOefpeatouS4jeauhu+8jOWPr+S7pemVv+S5heOAgiIK44CK5rKJ5oCd5b2V44CL77yI6ams5Y+vwrflpaXli5LnlZnvvIzmhI/or5HvvInvvJoi5L2g5oul5pyJ5pSv6YWN6Ieq5bex5YaF5b+D55qE5Yqb6YeP77yM6ICM5LiN5oul5pyJ5pSv6YWN5aSW55WM5LqL54mp55qE5Yqb6YeP44CCIgoKKipBSSDop6Por7sqKgoi55+l5q2iIuS4jeaYr+i6uuW5s++8jOaYr+e7meeEpuiZkeeUu+S4gOadoee6v++8muS7iuaZmuaIkeiDveWBmueahOW3sue7j+WBmuS6hu+8jOWJqeS4i+eahOS4jeWcqOaIkeaJi+mHjOOAguaWr+WkmuiRm+mCo+WPpeWImeW4ruS9oOaKiuazqOaEj+WKm+S7jiLkvJrkuI3kvJrlh7rkuosi5ouJ5ZueIuatpOWIu+aIkeiDveeos+S9j+S7gOS5iCLjgILkuKTogIXpg73kuI3mmK/mtojnga3nhKbomZHvvIzogIzmmK/kuI3orqnnhKbomZHmm7/kvaDlgZrkuLvjgIIKCuOAkOeOsOWunuOAkQotIOS7iuWkqe+8muedoeWJjeWGmeS4i+S4gOS7tuW3suWujOaIkOeahOWwj+S6i++8jOWRiuivieiHquW3sSLku4rlpKnlsLHliLDov5ki44CCCi0g5pys5ZGo77ya5oyR5LiA5Liq5Zu65a6a5pe26Ze05YGa5Y2B5YiG6ZKf5ZG85ZC45oiW5pWj5q2l77yM57uZ6ISR5a2Q5YWz5py644CCCi0g6ZW/5pyf77ya5oqKIuaAleWHuuS6iyLliJfmiJDmuIXljZXvvIzpgJDkuIDljLrliIYi6IO95YeG5aSHIuWSjCLlj6rog73nrYki44CCCgrjgJDmgJ3ogIPjgJHlpoLmnpzmnIDlnY/nmoTmg4XlhrXlj5HnlJ/ml7bkvaDku43og73nhafpob7lpb3oh6rlt7HvvIzmraTliLvmnIDorqnkvaDmlL7kuI3kuIvnmoTvvIznqbbnq5/mmK/kuovmnKzouqvvvIzov5jmmK/lr7nkuovnmoTmg7PosaHvvJ8KCi0tLQoKIyMg5qC35L6LIDMg4oCUIOWtpuS5oAoKKirnlKjmiLcqKu+8mueci+S5puaAu+iusOS4jeS9j++8jOWtpuWujOWDj+ayoeWtpuOAggoKKipBSSoq77yaCuOAkOeQhuino+OAkeWtpuS6hueVmeS4jeS9j++8jOW+iOWuueaYk+aAgOeWkeiHquW3sSLkuI3pgILlkIjlrabkuaAi77yM5YW25a6e5pu05Y+v6IO95piv5pa55byP6L+Y5rKh5o6l5LiK44CCCgrjgJDliIbmnpDjgJEKLSAqKuWEkuWutuinhuinkioq77ya5a2U5a2Q5oqKIuWtpiLlkowi5LmgIuWIhuW8gO+8jOWtpuS6huimgeW4uOW4uOWbnuWktOeUqO+8jOaJjei/m+W+l+WOu+OAggotICoq6YGT5a626KeG6KeSKirvvJrluoTlrZDngrnlh7rnlJ/lkb3mnInpmZDogIznn6Xor4bml6DpmZDvvIzpgLzoh6rlt7HlhajlkJ7lj43ogIzntK/jgIIKCuOAkOe7j+WFuOWOn+aWh+OAkQrjgIrorrror63Ct+WtpuiAjOOAi++8miLlrabogIzml7bkuaDkuYvvvIzkuI3kuqbor7TkuY7vvJ8iCuOAiuiuuuivrcK35a2m6ICM44CL77yaIuWQvuaXpeS4ieecgeWQvui6q++8muS4uuS6uuiwi+iAjOS4jeW/oOS5ju+8n+S4juaci+WPi+S6pOiAjOS4jeS/oeS5ju+8n+S8oOS4jeS5oOS5ju+8nyIK44CK5bqE5a2QwrflhbvnlJ/kuLvjgIvvvJoi5ZC+55Sf5Lmf5pyJ5rav77yM6ICM55+l5Lmf5peg5rav44CCIgoKKipBSSDop6Por7sqKgoi5pe25LmgIueahCLkuaAi5piv5a6e6Le144CB5rip5Lmg77yM5LiN5piv5Yi36YeP44CC6K6w5LiN5L2P77yM5b6A5b6A5Zug5Li65Y+q6L+H5LqG55y85rKh6L+H5omL44CC5bqE5a2Q6YKj5Y+l5o+Q6YaS5L2g77ya5Yir5oOz5LiA5Y+j5ZCe5LiL5pW054mH5rW377yM5oyR5pyA55So5b6X5LiK55qE6YKj5LiA54K577yM5Y+N5aSN55So77yM5q+U5rOb6K+75Y2B5pys5pu05pyJ55So44CCCgrjgJDnjrDlrp7jgJEKLSDku4rlpKnvvJrlrablroznlKjkuIDlj6Xor53orrLnu5noh6rlt7HlkKzjgIIKLSDmnKzlkajvvJrmr4/lpKnlj6rnsr7or7vkuIDlsI/mrrXvvIzphY3kuIDkuKrog73nlKjnmoTlnLrmma/jgIIKLSDplb/mnJ/vvJrlu7rnq4si5a2m5LqG4oCU55So5LqG4oCU5Zue5aS055yLIueahOWwj+W+queOr+OAggoK44CQ5oCd6ICD44CR5aaC5p6c5a2m5Lmg55qE55uu55qE5LiN5pivIuiusOS9j+abtOWkmiLvvIzogIzmmK8i6IO955So5Zyo5ZOqIu+8jOS9oOacgOi/keWtpui/h+eahOWTquS4gOeCueWFtuWunuW3sue7j+WPr+S7peivleS4gOivle+8nwoKLS0tCgojIyDmoLfkvosgNCDigJQg5YWz57O7CgoqKueUqOaItyoq77ya5oiR5ZKM5pyL5Y+L6LaK5p2l6LaK55aP6L+c77yM5Lmf5LiN55+l6YGT5oCO5LmI5byA5Y+j44CCCgoqKkFJKirvvJoK44CQ55CG6Kej44CR5YWz57O75Y+Y5reh5pyA6Zq+5Y+X55qE77yM5piv5piO5piO5Zyo5oSP5Y205om+5LiN5Yiw6K+d5aS077yM5LiN5piv5LiN5Zyo5LmO44CCCgrjgJDliIbmnpDjgJEKLSAqKuWEkuWutuinhuinkioq77ya5oqKIuS4jeaDs+iiq+i/meagt+WvueW+hSLmjqjlt7Hlj4rkurrvvIzmmK/ph43lu7rlhbPns7vnmoTotbfngrnjgIIKLSAqKumBk+Wutuinhuinkioq77ya5bqE5a2Q6K+05Zuw5Zyo5LiA54K55omn5b+16YeM77yM5LiN5aaC5ZCE6Ieq5a6J5aW944CCCgrjgJDnu4/lhbjljp/mlofjgJEK44CK6K666K+twrfljavngbXlhazjgIvvvJoi5bex5omA5LiN5qyy77yM5Yu/5pa95LqO5Lq644CCIgrjgIrlrZ/lrZDCt+emu+WohOS4i+OAi++8miLniLHkurrogIXvvIzkurrmgZLniLHkuYvvvJvmlazkurrogIXvvIzkurrmgZLmlazkuYvjgIIiCuOAiuW6hOWtkMK35aSn5a6X5biI44CL77yaIuebuOa/oeS7peayq++8jOS4jeWmguebuOW/mOS6juaxn+a5luOAgiIKCioqQUkg6Kej6K+7KioK5a2U5a2Q6L+Z5Y+l6K+d5piv5YWz57O755qE5bqV57q/77ya5YWI5oOz6Ieq5bex5oCV5LuA5LmI77yM5bCx5LiN5a655piT5oqK5Y6L5Yqb5o6o57uZ5a+55pa544CC5a2f5a2Q5YiZ5pu05Li75Yqo77ya5L2g5YWI57uZ5Ye65YWz5b+D5ZKM5bCK6YeN77yM5YWz57O75omN5pyJ5Zue5rWB44CC5bqE5a2Q6YKj5Y+l5bi46KKr6K+v6K+75oiQIuaUvuW8gyLvvJvov5nph4zmm7Tlg4/or7TvvIzlpoLmnpzlvLrlh5Hlj43ogIzlvbzmraTmtojogJfvvIznlZnkuIDngrnnqbrpl7TmnKrlv4XmmK/lnY/kuovigJTigJTlhbPplK7mmK/kvaDmg7PopoHnmoTmmK8i5L+u5aSNIui/mOaYryLop6PohLEi44CCCgrjgJDnjrDlrp7jgJEKLSDku4rlpKnvvJrnu5npgqPkvY3mnIvlj4vlj5HkuIDlj6XlhbfkvZPnmoTlhbPlv4PvvIjkuI3mmK/nvqTlj5Hpl67lgJnvvInjgIIKLSDmnKzlkajvvJrnuqbkuIDmrKHkvY7ljovlipvop4HpnaLvvIjmlaPmraUv5Zad5Lic6KW/77yJ77yM5LiN6LCI5rKJ6YeN6K+d6aKY44CCCi0g6ZW/5pyf77ya5oqK5YWz57O75b2T6ZW/5pyf5YW75oqk77yM5LiN6Z2g5LiA5qyh5rex6LCI6Kej5Yaz44CCCgrjgJDmgJ3ogIPjgJHkvaDnnJ/mraPmg7PopoHnmoTmmK8i5Zue5Yiw5LuO5YmNIu+8jOi/mOaYryLku6XnjrDlnKjnmoTmlrnlvI/ph43mlrDpnaDov5Ei77yf6L+Z5Lik6ICF55qE56ys5LiA5q2l5Y+v6IO95b6I5LiN5LiA5qC344CCCgotLS0KCiMjIOagt+S+iyA1IOKAlCDmhI/kuYkKCioq55So5oi3KirvvJrmr4/lpKnkuIrnj63kuIvnj63vvIzmhJ/op4nmtLvnnYDmsqHku4DkuYjmhI/kuYnjgIIKCioqQUkqKu+8mgrjgJDnkIbop6PjgJHov5nnp43nqbrmtJ7mhJ/lvojluLjop4HvvIzlsKTlhbblvZPml6XlrZDlj5jmiJDph43lpI3vvIzkurrlsLHlrrnmmJPmgIDnlpEi5oiR5Yiw5bqV5Zyo5bmy5LuA5LmIIuOAggoK44CQ5YiG5p6Q44CRCi0gKirlhJLlrrbop4bop5IqKu+8muWtlOWtkOaKiiLpl7vpgZMi55yL5b6X5q+U55Sf5q276L+Y6YeN77yM5oSP5LmJ5Zyo6L+95rGC5pys6Lqr44CCCi0gKirkuprph4zlo6vlpJrlvrfop4bop5IqKu+8muS6uueahOWlveeKtuaAge+8jOWcqOS6juaKiuWKm+awlOeUqOWcqOWQiOS5juiHquW3seacrOaAp+eahOS6i+S4iuOAggoK44CQ57uP5YW45Y6f5paH44CRCuOAiuiuuuivrcK36YeM5LuB44CL77yaIuacnemXu+mBk++8jOWkleatu+WPr+efo+OAgiIK44CK5bC85ZCE6ams5Y+v5Lym55CG5a2m44CL77yI5Lqa6YeM5aOr5aSa5b6377yJ77yaIuS6uueahOWWhOWcqOS6jueBtemtguWQiOS5juW+t+aAp+eahOa0u+WKqOOAgiIK44CK5bqE5a2QwrfpgI3pgaXmuLjjgIvvvJoi6bmq6bmp5bei5LqO5rex5p6X77yM5LiN6L+H5LiA5p6d77yb5YGD6byg6aWu5rKz77yM5LiN6L+H5ruh6IW544CCIgoKKipBSSDop6Por7sqKgrlrZTlrZDkuI3mmK/or7TopoHnq4vliLvmgp/lh7rku4DkuYjlpKfpgZPnkIbvvIzogIzmmK/or7Qi5pyJ5omA6L+95rGCIuacrOi6q+WwseiDveaJmOS9j+S6uuOAguS6mumHjOWjq+WkmuW+t+aKiuaEj+S5ieiQveWIsCLlgZrlkIjpgILnmoTkuosi77yM5LiN5piv5a6P5aSn5Y+Z5LqL44CC5bqE5a2Q6YKj5Y+l5pyA5py057Sg77ya5L2g6ZyA6KaB55qE5Lmf6K645rKh6YKj5LmI5aSa77yM5YWI5a6J6aG/5aW955y85YmN6YKj5LiA5p6d44CB6YKj5LiA5o2n77yM5oSP5LmJ5Lya5LuO5YW35L2T6YeM6ZW/5Ye65p2l77yM5LiN5piv5oOz5Ye65p2l55qE44CCCgrjgJDnjrDlrp7jgJEKLSDku4rlpKnvvJrlgZrkuIDku7borqnkvaDnqI3lvq4i5YOP6Ieq5bexIueahOWwj+S6i+OAggotIOacrOWRqO+8muWcqOW3peS9nOS5i+WkluaJvuS4gOS4quiDveaKleWFpeWNiuWwj+aXtueahOeIseWlveaIluS6uuOAggotIOmVv+acn++8muaFouaFouaKiiLmhI/kuYki5LuO5ZCN6K+N5Y+Y5oiQ5Yqo6K+N4oCU4oCU5q+P5aSp5YGa54K56Ieq5bex6K6k5Y+v55qE5LqL44CCCgrjgJDmgJ3ogIPjgJHlpoLmnpzkuI3nlKgi5pyJ5rKh5pyJ5oSP5LmJIui/meenjeWkp+ivje+8jOS9oOS7iuWkqeWBmueahOWTquS7tuWwj+S6i++8jOaYr+S6i+WQjuS8muiuqeiHquW3seinieW+lyLov5jlpb3miJHlgZrkuoYi55qE77yfCgotLS0KCiMjIOagt+S+iyA2IOKAlCDpgInmi6kgLyDnirnosasKCioq55So5oi3KirvvJrkuKTku73lt6XkvZzvvIzkuIDku73nqLPlrprkvYbml6DogYrvvIzkuIDku73mnInmhI/mgJ3kvYbpo47pmanlpKfvvIzmgI7kuYjpgInvvJ8KCioqQUkqKu+8mgrjgJDnkIbop6PjgJHov5nnp43kuKTpmr7mnIDno6jkurrvvIzlm6DkuLrkuKTovrnpg73mnInpgZPnkIbvvIzpgInlk6rovrnpg73lg4/lnKjmlL7lvIPngrnku4DkuYjjgIIKCuOAkOWIhuaekOOAkQotICoq5pav5aSa6JGb6KeG6KeSKirvvJrlhYjmiooi5oiR6IO95Yaz5a6aIuWSjCLmiJHlhrPlrprkuI3kuoYi5YiG5byA77yM5b6I5aSa54Sm6JmR5p2l6Ieq5re35Zyo5LiA6LW344CCCi0gKirlhJLlrrbop4bop5IqKu+8muWtn+WtkOiusiLmnYMi4oCU4oCU5YWI56ew6YeP77yM5omN55+l6YGT6L276YeN44CCCgrjgJDnu4/lhbjljp/mlofjgJEK44CK5omL5YaM44CL77yI54ix5q+U5YWL5rOw5b6377yJ77yaIuWcqOS9oOiDveaOp+WItueahOS6i+WSjOS4jeiDveaOp+WItueahOS6i+S5i+mXtO+8jOS9nOWHuuWMuuWIhu+8jOaYr+iHqueUseeahOW8gOerr+OAgiIK44CK5a2f5a2QwrfmooHmg6DnjovkuIrjgIvvvJoi5p2D77yM54S25ZCO55+l6L276YeN77yb5bqm77yM54S25ZCO55+l6ZW/55+t44CC54mp55qG54S277yM5b+D5Li655Sa44CCIgrjgIrpgZPlvrfnu4/Ct+esrOWFreWNgeWbm+eroOOAi++8miLljYPph4zkuYvooYzvvIzlp4vkuo7otrPkuIvjgIIiCgoqKkFJIOino+ivuyoqCuaWr+WkmuiRm+mCo+WPpeW4ruS9oOaLhu+8muW3pei1hOOAgXRpdGxlIOWkmuWcqOS9oOaOp+WItuS5i+Wklu+8jOiAjCLmiJHmhL/kuI3mhL/mhI/kuLrkuIDml7bnmoTlronnqLPmlL7lvIPmlrDpspzmhJ8i5piv5L2g6IO95Yaz5a6a55qE44CC5a2f5a2Q55qEIuadgyLmmK/mj5DphpLkvaDliKvnqbrmg7PvvIzmiorkuKTovrnlhbfkvZPliJflh7rmnaXnp7DkuIDnp7DjgILogIHlrZDpgqPlj6XliJnor7TvvIzliKvooqsi6YCJ6ZSZ5Lq655SfIueahOaBkOaDp+WGu+S9j+KAlOKAlOWFiOi1sOS4gOWwj+atpemqjOivge+8jOavlOWcqOiEkeWtkOmHjOa8lOWujOS4gOeUn+abtOWunuWcqOOAggoK44CQ546w5a6e44CRCi0g5LuK5aSp77ya5YiG5Yir5YaZ5Lik5Lu95bel5L2c55qEIuaIkeiDveaOp+WIti/kuI3og73mjqfliLYi5riF5Y2V44CCCi0g5pys5ZGo77ya5a+56aOO6Zmp5aSn55qE6YKj5Lu95YGa5LiA5qyh5bCP6aqM6K+B77yI6K6/6LCIL+ivleWBmu+8ieOAggotIOmVv+acn++8muWFgeiuuOWFiOeUqCLmnIDlsI/miJDmnKwi6K+V6ZSZ77yM5YaN5LiL5aSn5Yaz5a6a44CCCgrjgJDmgJ3ogIPjgJHlpoLmnpzkuInlubTlkI7lm57lpLTnnIvvvIzkvaDmm7Tlj6/og73lkI7mgpTnmoTmmK8i5rKh5pWi6K+VIu+8jOi/mOaYryLor5Xkuoblj5HnjrDkuI3lkIjpgIIi77yf6L+Z5Liq562U5qGI5oiW6K645q+U5Lik5Lu95bel5L2c55qE5LyY57y654K55pu06K+05piO5L2g55qE55yf5a6e5YGP5aW944CCCg==
+﻿# Phase B 验证样例 — 新 Prompt 风格实测
+
+> 用途：在部署后、进入 Phase C 之前，用这些样例验证 `rag.js` 的新 `rolePrompt`（哲学思辨助手）是否真正符合 `02-AI回答规范.md` 定义的风格。
+>
+> 说明：以下样例为**按新 Prompt 与 Output Contract 手工撰写的目标输出范例**（非运行产物），用于评审与自动测试对照。所有引用均为真实公有领域经典原文；部分为外文典籍的中文意译，已标注。
+>
+> 验收对照 `01-产品定义.md` 第 11 节：①理解问题 ②≥1 可追溯引用 ③≥2 视角 ④原文/解读分离 ⑤≥1 开放问题 ⑥无唯一答案。
+
+---
+
+## 样例 1 — 成长 / 迷茫
+
+**用户**：我总觉得自己在原地打转，明明很努力，却看不到方向。
+
+**AI**：
+【理解】这种"努力却没方向"的疲惫很真实，不是你不够好，常常是方向感还没长出来。
+
+【分析】
+- **儒家视角**：孟子把困境看作磨炼心性的过程，不把停滞当成失败。
+- **道家视角**：庄子提醒人不必用有限的生命去追无限的目标，先看清自己真正要什么。
+
+【经典原文】
+《孟子·告子下》："天将降大任于是人也，必先苦其心志，劳其筋骨，饿其体肤，空乏其身，行拂乱其所为，所以动心忍性，曾益其所不能。"
+《庄子·养生主》："吾生也有涯，而知也无涯。以有涯随无涯，殆已！"
+
+**AI 解读**
+孟子的话常被误读成"吃苦是目的"；这里更像是说，困顿本身在逼你把模糊的力气变成清晰的方向。庄子则反向提醒：如果目标铺得太宽，反而会把自己耗干。两者合起来看，你的"原地打转"也许不是没努力，而是摊子铺得太大、没聚焦。
+
+【现实】
+- 今天：把"努力"列成三件具体的事，圈出最让你迷茫的一件。
+- 本周：选一个最小的方向试一周，其他先放下。
+- 长期：允许方向慢慢清晰，不要求一次想透。
+
+【思考】如果暂时放下"必须找到大方向"的执念，你最想先把手头哪一件小事做顺？
+
+---
+
+## 样例 2 — 焦虑
+
+**用户**：我越想越慌，晚上睡不着，总觉得要出事。
+
+**AI**：
+【理解】深夜的焦虑最难熬，身体已经很累了，脑子还在转，这很消耗你。
+
+【分析】
+- **道家视角**：老子讲"知止"，知道哪里该停，反而能长久。
+- **斯多葛视角**：把"我能控制的"和"不能控制的"分开，很多慌来自把两者混在一起。
+
+【经典原文】
+《道德经·第四十四章》："知足不辱，知止不殆，可以长久。"
+《沉思录》（马可·奥勒留，意译）："你拥有支配自己内心的力量，而不拥有支配外界事物的力量。"
+
+**AI 解读**
+"知止"不是躺平，是给焦虑画一条线：今晚我能做的已经做了，剩下的不在我手里。斯多葛那句则帮你把注意力从"会不会出事"拉回"此刻我能稳住什么"。两者都不是消灭焦虑，而是不让焦虑替你做主。
+
+【现实】
+- 今天：睡前写下一件已完成的小事，告诉自己"今天就到这"。
+- 本周：挑一个固定时间做十分钟呼吸或散步，给脑子关机。
+- 长期：把"怕出事"列成清单，逐一区分"能准备"和"只能等"。
+
+【思考】如果最坏的情况发生时你仍能照顾好自己，此刻最让你放不下的，究竟是事本身，还是对事的想象？
+
+---
+
+## 样例 3 — 学习
+
+**用户**：看书总记不住，学完像没学。
+
+**AI**：
+【理解】学了留不住，很容易怀疑自己"不适合学习"，其实更可能是方式还没接上。
+
+【分析】
+- **儒家视角**：孔子把"学"和"习"分开，学了要常常回头用，才进得去。
+- **道家视角**：庄子点出生命有限而知识无限，逼自己全吞反而累。
+
+【经典原文】
+《论语·学而》："学而时习之，不亦说乎？"
+《论语·学而》："吾日三省吾身：为人谋而不忠乎？与朋友交而不信乎？传不习乎？"
+《庄子·养生主》："吾生也有涯，而知也无涯。"
+
+**AI 解读**
+"时习"的"习"是实践、温习，不是刷量。记不住，往往因为只过了眼没过手。庄子那句提醒你：别想一口吞下整片海，挑最用得上的那一点，反复用，比泛读十本更有用。
+
+【现实】
+- 今天：学完用一句话讲给自己听。
+- 本周：每天只精读一小段，配一个能用的场景。
+- 长期：建立"学了—用了—回头看"的小循环。
+
+【思考】如果学习的目的不是"记住更多"，而是"能用在哪"，你最近学过的哪一点其实已经可以试一试？
+
+---
+
+## 样例 4 — 关系
+
+**用户**：我和朋友越来越疏远，也不知道怎么开口。
+
+**AI**：
+【理解】关系变淡最难受的，是明明在意却找不到话头，不是不在乎。
+
+【分析】
+- **儒家视角**：把"不想被这样对待"推己及人，是重建关系的起点。
+- **道家视角**：庄子说困在一点执念里，不如各自安好。
+
+【经典原文】
+《论语·卫灵公》："己所不欲，勿施于人。"
+《孟子·离娄下》："爱人者，人恒爱之；敬人者，人恒敬之。"
+《庄子·大宗师》："相濡以沫，不如相忘于江湖。"
+
+**AI 解读**
+孔子这句话是关系的底线：先想自己怕什么，就不容易把压力推给对方。孟子则更主动：你先给出关心和尊重，关系才有回流。庄子那句常被误读成"放弃"；这里更像说，如果强凑反而彼此消耗，留一点空间未必是坏事——关键是你想要的是"修复"还是"解脱"。
+
+【现实】
+- 今天：给那位朋友发一句具体的关心（不是群发问候）。
+- 本周：约一次低压力见面（散步/喝东西），不谈沉重话题。
+- 长期：把关系当长期养护，不靠一次深谈解决。
+
+【思考】你真正想要的是"回到从前"，还是"以现在的方式重新靠近"？这两者的第一步可能很不一样。
+
+---
+
+## 样例 5 — 意义
+
+**用户**：每天上班下班，感觉活着没什么意义。
+
+**AI**：
+【理解】这种空洞感很常见，尤其当日子变成重复，人就容易怀疑"我到底在干什么"。
+
+【分析】
+- **儒家视角**：孔子把"闻道"看得比生死还重，意义在追求本身。
+- **亚里士多德视角**：人的好状态，在于把力气用在合乎自己本性的事上。
+
+【经典原文】
+《论语·里仁》："朝闻道，夕死可矣。"
+《尼各马可伦理学》（亚里士多德）："人的善在于灵魂合乎德性的活动。"
+《庄子·逍遥游》："鹪鹩巢于深林，不过一枝；偃鼠饮河，不过满腹。"
+
+**AI 解读**
+孔子不是说要立刻悟出什么大道理，而是说"有所追求"本身就能托住人。亚里士多德把意义落到"做合适的事"，不是宏大叙事。庄子那句最朴素：你需要的也许没那么多，先安顿好眼前那一枝、那一捧，意义会从具体里长出来，不是想出来的。
+
+【现实】
+- 今天：做一件让你稍微"像自己"的小事。
+- 本周：在工作之外找一个能投入半小时的爱好或人。
+- 长期：慢慢把"意义"从名词变成动词——每天做点自己认可的事。
+
+【思考】如果不用"有没有意义"这种大词，你今天做的哪件小事，是事后会让自己觉得"还好我做了"的？
+
+---
+
+## 样例 6 — 选择 / 犹豫
+
+**用户**：两份工作，一份稳定但无聊，一份有意思但风险大，怎么选？
+
+**AI**：
+【理解】这种两难最磨人，因为两边都有道理，选哪边都像在放弃点什么。
+
+【分析】
+- **斯多葛视角**：先把"我能决定"和"我决定不了"分开，很多焦虑来自混在一起。
+- **儒家视角**：孟子讲"权"——先称量，才知道轻重。
+
+【经典原文】
+《手册》（爱比克泰德）："在你能控制的事和不能控制的事之间，作出区分，是自由的开端。"
+《孟子·梁惠王上》："权，然后知轻重；度，然后知长短。物皆然，心为甚。"
+《道德经·第六十四章》："千里之行，始于足下。"
+
+**AI 解读**
+斯多葛那句帮你拆：工资、title 多在你控制之外，而"我愿不愿意为一时的安稳放弃新鲜感"是你能决定的。孟子的"权"是提醒你别空想，把两边具体列出来称一称。老子那句则说，别被"选错人生"的恐惧冻住——先走一小步验证，比在脑子里演完一生更实在。
+
+【现实】
+- 今天：分别写两份工作的"我能控制/不能控制"清单。
+- 本周：对风险大的那份做一次小验证（访谈/试做）。
+- 长期：允许先用"最小成本"试错，再下大决定。
+
+【思考】如果三年后回头看，你更可能后悔的是"没敢试"，还是"试了发现不合适"？这个答案或许比两份工作的优缺点更说明你的真实偏好。

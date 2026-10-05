@@ -1,1 +1,65 @@
-IyAwNCDCtyDmlbDmja7lupPvvIhEYXRhYmFzZSBTdHJ1Y3R1cmXvvIkKCj4gKirliLfmlrDkuo4gMjAyNi0wOC0wN++8iOe7iOagoeiHsyBRMi0xNe+8iSoq77ya5aKe6KGlIGBvYnNlcnZhYmlsaXR5X2xvZ3NgIOmbhuWQiOS4jiLop4LmtYvlj5bmlbDnuqrlvosi44CC5ZG95ZCN5Yay56qB5qCH5rOo5LuN5aaC5a6e5L+d55WZ77yI5Luj56CB5Li655yf5a6e5p2l5rqQ77yJ44CCCgojIyDpm4blkIjmgLvooajvvIjku6PnoIHnnJ/lrp7mj5Dlj5bvvIkKCnwg6ZuG5ZCI5ZCN77yI5Luj56CB77yJIHwg5a6a5LmJ5aSEIHwg55So6YCUIHwKfC0tLS0tLS0tLS0tLS0tLXwtLS0tLS0tLXwtLS0tLS18CnwgYGxvZ3NgIHwgYWRtaW4vaW5kZXguanMsIGNoYXQvaW5kZXguanMgfCDov5DooYzml6Xlv5cgfAp8IGBtb2RlbF9jb25maWdgIHwgYWRtaW4vaW5kZXguanMsIGNoYXQvaW5kZXguanMgfCDmqKHlnosv5a+G6ZKl6YWN572u77yIKirogZTnvZHmkJzntKLlpI3nlKjmraTpm4blkIjnmoTnmb7ngrzmqKHlnosqKu+8iSB8CnwgYHF1ZXN0aW9uX2xvZ3NgIHwgYWRtaW4vaW5kZXguanMsIGNoYXQvaW5kZXguanMgfCDmhI/lm77liIbnsbvml6Xlv5cgfAp8IGBhbnN3ZXJfZmVlZGJhY2tgIHwgYWRtaW4vaW5kZXguanMsIGZlZWRiYWNrL2luZGV4LmpzIHwg5Zue562U5Y+N6aaIIHwKfCBgYW5zd2VyX3F1YWxpdHlfbG9nYCB8IGFkbWluL2luZGV4LmpzLCBmZWVkYmFjay9pbmRleC5qcyB8IOi0qOmHj+aXpeW/lyB8CnwgYGNvbnZlcnNhdGlvbnNgIHwgaGlzdG9yeS9pbmRleC5qc++8iENPTExFQ1RJT049ImNvbnZlcnNhdGlvbnMi77yJIHwg5Lya6K+d5Y6G5Y+yIHwKfCBgY2h1bmtzYCB8IGNoYXQvcmFnLmpzLCBpbmdlc3QvaW5kZXguanMgfCDnn6Xor4bliIblnZcgfAp8IGBkb2N1bWVudHNgIHwgaW5nZXN0L2luZGV4LmpzIHwg5paH5qGj5rqQIHwKfCBgb2JzZXJ2YWJpbGl0eV9sb2dzYCB8IGNoYXTvvIhLTk9XTEVER0VfT0JTRVJWQUJJTElUWV9TVE9SRT1jbG91ZCDnlJ/mlYjvvIkgfCDovajpgZPmtL7lj5Ev6KeC5rWL5qC35pys77yIUGhhc2UgUiDotbfvvIkgfAoKPiDogZTnvZHmkJzntKLnu5PmnpwqKuS4jeWFpeW6kyoq77yI5LuFIHJ1bnRpbWUgY29udGV4dO+8jOeUsSBgZnJlc2huZXNzUnVudGltZUd1YXJkLmpzYCDkv53or4HvvInvvIzmlYXml6Dni6znq4si5pCc57Si57uT5p6cIumbhuWQiOOAggoKIyMg4pqg77iPIOS4juS7u+WKoea4heWNleeahOWRveWQjeS4jeS4gOiHtO+8iOW/hemhu+aMh+WHuu+8jOS4jeW+l+eMnOa1i++8iQoKfCDku7vliqHkuabopoHmsYIgfCDku6PnoIHlrp7pmYUgfCDnirbmgIEgfAp8LS0tLS0tLS0tLS18LS0tLS0tLS0tfC0tLS0tLXwKfCBgcXVhbGl0eV9sb2dzYCB8IGBhbnN3ZXJfcXVhbGl0eV9sb2dgIHwgKirlkb3lkI3kuI3kuIDoh7QqKiB8CnwgYG1ldGFkYXRhYO+8iOS9nOS4uueLrOeri+mbhuWQiO+8iSB8IOS7heS9nOS4uiBgZG9jdW1lbnRzYC9gY2h1bmtzYCDnmoQqKuWtl+autSoq77yM6Z2e54us56uL6ZuG5ZCIIHwgKirmlofmoaPkuI7ku6PnoIHlhrLnqoEqKiB8CnwgYGNvbnZlcnNhdGlvbmAgfCBgY29udmVyc2F0aW9uc2DvvIhoaXN0b3J5IOS6keWHveaVsO+8iSB8ICoq5ZG95ZCN5LiN5LiA6Ie0KiogfAp8IGBoaXN0b3J5YCB8IGBjb252ZXJzYXRpb25zYO+8iGhpc3Rvcnkg5LqR5Ye95pWw77yJIHwgKirlkb3lkI3kuI3kuIDoh7QqKiB8Cgo+ICoq6KeE5YiZKirvvJrku6PnoIHkuLrnnJ/lrp7mnaXmupDjgILkuIrooajmoIfms6jnmoQgNCDlpITlhrLnqoEqKuacquaTheiHquS/ruaUuSoq77yM5LuF5aaC5a6e6K6w5b2V77yM562J5b6F56Gu6K6k44CCCgojIyDop4LmtYvlj5bmlbDnuqrlvovvvIjov53lj43ljbPlgYfmlYXpmpzvvIkKCjEuIOWIpCLlgZzmu54iKirnpoEgYGZpbmRgK2BsaW1pdGAqKu+8iOS8mua8j+eciy/or6/liKTvvInvvIzpobsgYCRncm91cGAg6IGa5ZCI5oiWIGBzb3J0OntjcmVhdGVUaW1lOi0xfWDjgIIKMi4g5Y2V6ZuG5ZCI57uT6K66Kirlv4XpobvkuqTlj4nlr7notKYqKiBgbG9nc2AgLyBgcXVlc3Rpb25fbG9nc2AgLyBgb2JzZXJ2YWJpbGl0eV9sb2dzYO+8iOWQjOasoeivt+axguWQjOatpeWGme+8jOmAkOaXpeadoeaVsOmhu+ebuOetie+8ieOAggozLiDjgIznlpHkvLzjgI0qKuS4jeW+lyoq5L2c5Li6IENSIOeri+mhueWJjeaPkO+8jOmhu+WFiOmqjOivge+8iENSLTAwOSDljbPlm6AgYGZpbmQrbGltaXRgIOivr+WIpOiAjCBWT0lE77yJ44CCCjQuIOi/h+a7pOaXpeacn+eUqCBgeyIkZGF0ZSI6eyIkbnVtYmVyTG9uZyI6Ijxtcz4ifX1g44CCCjUuIGB0Y2IgZm4gbG9nYCBDTEkgMy42LjQg5LiN5Y+v55SoIOKGkiDmlLnnlKjmlbDmja7lupPlr7notKbvvJtgdGNiIGZuIGRldGFpbGAg5Y+v5ZCQ57q/5LiK5rqQ56CB6aqMIuS6keerr+KJn+acrOWcsCLjgIIKCiMjIOWFs+ezu+WbvgoKYGBgbWVybWFpZAplckRpYWdyYW0KICAgIGNvbnZlcnNhdGlvbnMgfHwtLW97IGNoYXQgOiAi5oyJIG9wZW5pZCDpmpTnprsiCiAgICBsb2dzIHx8LS1veyBhZG1pbiA6ICLlhpnml6Xlv5ciCiAgICBxdWVzdGlvbl9sb2dzIHx8LS1veyBjaGF0IDogIuiusOaEj+WbviIKICAgIGFuc3dlcl9mZWVkYmFjayB8fC0tb3sgZmVlZGJhY2sgOiAi5pS25Y+N6aaIIgogICAgYW5zd2VyX3F1YWxpdHlfbG9nIHx8LS1veyBmZWVkYmFjayA6ICLorrDotKjph48iCiAgICBjaHVua3MgfHwtLW97IGRvY3VtZW50cyA6ICLliIblnZfoh6rmlofmoaMiCiAgICBtb2RlbF9jb25maWcgfHwtLW97IGFkbWluIDogIuS+m+aooeWei+mFjee9riIKICAgIG9ic2VydmFiaWxpdHlfbG9ncyB8fC0tb3sgY2hhdCA6ICLorrDovajpgZPmtL7lj5EiCmBgYAoKIyMg5a2X5q6156S65L6L77yIY29udmVyc2F0aW9uc++8iQoKYGBganMKewogIF9pZDogImNvbnZfeHh4IiwKICBvcGVuaWQ6ICJvYm1aVDMuLi4iLCAgIC8vIOeUqOaIt+ecn+WuniBvcGVuaWTvvIjkupHlvIDlj5HmoLzlvI/vvIkKICB0aXRsZTogIum7mOiupOagh+mimCIsCiAgbWVzc2FnZXM6IFtdLCAgICAgICAgICAvLyDlr7nor53ova7mrKEKICBjcmVhdGVUaW1lOiBkYi5zZXJ2ZXJEYXRlKCksCiAgdXBkYXRlVGltZTogZGIuc2VydmVyRGF0ZSgpCn0KYGBgCg==
+﻿# 04 · 数据库（Database Structure）
+
+> **刷新于 2026-08-07（终校至 Q2-15）**：增补 `observability_logs` 集合与"观测取数纪律"。命名冲突标注仍如实保留（代码为真实来源）。
+
+## 集合总表（代码真实提取）
+
+| 集合名（代码） | 定义处 | 用途 |
+|---------------|--------|------|
+| `logs` | admin/index.js, chat/index.js | 运行日志 |
+| `model_config` | admin/index.js, chat/index.js | 模型/密钥配置（**联网搜索复用此集合的百炼模型**） |
+| `question_logs` | admin/index.js, chat/index.js | 意图分类日志 |
+| `answer_feedback` | admin/index.js, feedback/index.js | 回答反馈 |
+| `answer_quality_log` | admin/index.js, feedback/index.js | 质量日志 |
+| `conversations` | history/index.js（COLLECTION="conversations"） | 会话历史 |
+| `chunks` | chat/rag.js, ingest/index.js | 知识分块 |
+| `documents` | ingest/index.js | 文档源 |
+| `observability_logs` | chat（KNOWLEDGE_OBSERVABILITY_STORE=cloud 生效） | 轨道派发/观测样本（Phase R 起） |
+
+> 联网搜索结果**不入库**（仅 runtime context，由 `freshnessRuntimeGuard.js` 保证），故无独立"搜索结果"集合。
+
+## ⚠️ 与任务清单的命名不一致（必须指出，不得猜测）
+
+| 任务书要求 | 代码实际 | 状态 |
+|-----------|---------|------|
+| `quality_logs` | `answer_quality_log` | **命名不一致** |
+| `metadata`（作为独立集合） | 仅作为 `documents`/`chunks` 的**字段**，非独立集合 | **文档与代码冲突** |
+| `conversation` | `conversations`（history 云函数） | **命名不一致** |
+| `history` | `conversations`（history 云函数） | **命名不一致** |
+
+> **规则**：代码为真实来源。上表标注的 4 处冲突**未擅自修改**，仅如实记录，等待确认。
+
+## 观测取数纪律（违反即假故障）
+
+1. 判"停滞"**禁 `find`+`limit`**（会漏看/误判），须 `$group` 聚合或 `sort:{createTime:-1}`。
+2. 单集合结论**必须交叉对账** `logs` / `question_logs` / `observability_logs`（同次请求同步写，逐日条数须相等）。
+3. 「疑似」**不得**作为 CR 立项前提，须先验证（CR-009 即因 `find+limit` 误判而 VOID）。
+4. 过滤日期用 `{"$date":{"$numberLong":"<ms>"}}`。
+5. `tcb fn log` CLI 3.6.4 不可用 → 改用数据库对账；`tcb fn detail` 可吐线上源码验"云端≟本地"。
+
+## 关系图
+
+```mermaid
+erDiagram
+    conversations ||--o{ chat : "按 openid 隔离"
+    logs ||--o{ admin : "写日志"
+    question_logs ||--o{ chat : "记意图"
+    answer_feedback ||--o{ feedback : "收反馈"
+    answer_quality_log ||--o{ feedback : "记质量"
+    chunks ||--o{ documents : "分块自文档"
+    model_config ||--o{ admin : "供模型配置"
+    observability_logs ||--o{ chat : "记轨道派发"
+```
+
+## 字段示例（conversations）
+
+```js
+{
+  _id: "conv_xxx",
+  openid: "obmZT3...",   // 用户真实 openid（云开发格式）
+  title: "默认标题",
+  messages: [],          // 对话轮次
+  createTime: db.serverDate(),
+  updateTime: db.serverDate()
+}
+```

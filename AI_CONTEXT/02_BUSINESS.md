@@ -1,1 +1,44 @@
-IyAwMiDCtyDkuJrliqHpgLvovpHvvIhCdXNpbmVzcyBGbG9377yJCgo+ICoq5Yi35paw5LqOIDIwMjYtMDgtMDfvvIjnu4jmoKHoh7MgUTItMTXvvIkqKu+8muihpeWFheWbm+aooeW8j+OAgUZyZXNobmVzcyDlnKjnur/mkJzntKLjgIHkvKDorrDlubvop4npmLLmiqTjgIIKCiMjIOeUqOaIt+WujOaVtOS9v+eUqOi3r+W+hAoKYGBgCummlumhtShob21lKSDilIDilIDov5vlhaXilIDilIDilrYg5a+56K+dKGNoYXQpIOKUgOKUgOafpeeci+KUgOKUgOKWtiDljoblj7IoaGlzdG9yeS9zZXNzaW9ucykKICAgICDilIIgICAgICAgICAgICAgICAgICAgIOKUgiDlvJXnu48v6IGU572RICAgICAgIOKUgiDkvJror53liJfooagKICAgICDilIIgICAgICAgICAgICAgICAgICAgIOKWvCAgICAgICAgICAgICAgICDilrwKICDor7TmmI4oYWJvdXQpIOKXgOKUgOKUgOS6p+WTgeS7i+e7jSAg5byV55So5Y2hKENpdGF0aW9uKSAgIOWPjemmiChmZWVkYmFjaykKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDilIIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDilrwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg5ZCO5Y+wKGFkbWluKSDilIDilIDnrqHnkIblkZjilIDilIDilrYg5qih5Z6LL+aXpeW/l+euoeeQhgpgYGAKCiMjIOavj+S4qumhtemdoui0n+i0o+S7gOS5iAoKfCDpobXpnaIgfCDot6/lvoQgfCDogYzotKMgfAp8LS0tLS0tfC0tLS0tLXwtLS0tLS18Cnwg6aaW6aG1IHwgYG1pbmlwcm9ncmFtL3BhZ2VzL2hvbWUvYCB8IOiQveWcsOmhtSAvIOS6p+WTgeWFpeWPoyAvIOWvvOiIquWIsOWvueivnSAvICoq5Zub5qih5byP6YCJ5oupKirvvIhGYXN08J+MkC9EZWVw8J+Tmi9UaGlua/CfjIXvvIkgfAp8IOWvueivnSB8IGBtaW5pcHJvZ3JhbS9wYWdlcy9jaGF0L2AgfCDovpPlhaXmoYYg4oaSIOiwgyBjaGF0IOS6keWHveaVsCDihpIg5riy5p+T5Zue562U77yb6ZqQ56eB5rWu5bGC77yI6aaW5qyh6L+b5YWl5pyq5ZCM5oSP5pe25by55Ye677yJ77yb5byV55So5Y2h5bGV56S657uP5YW45Ye65aSE77yb6IGU572R57uT5p6c5qCH5rOo5p2l5rqQIHwKfCDor7TmmI4gfCBgbWluaXByb2dyYW0vcGFnZXMvYWJvdXQvYCB8IOS6p+WTgeeQhuW/teOAgeS9v+eUqOivtOaYjuOAgei3s+i9rOmakOengeWNj+iuriB8Cnwg5Lmm5bqTIHwgYG1pbmlwcm9ncmFtL3BhZ2VzL2Jvb2tzL2AgfCDnu4/lhbjkuablupPmtY/op4jvvIhjb3JwdXMuanNvbiDnmoQgMzcg6YOo57uP5YW477yJIHwKfCDlkI7lj7AgfCBgbWluaXByb2dyYW0vcGFnZXMvYWRtaW4vYCB8IOeuoeeQhuWRmO+8muaooeWei+mFjee9riBDUlVE44CBcXVlc3Rpb25fbG9ncyAvIGFuc3dlcl9xdWFsaXR5X2xvZyDmn6XnnIsgfAp8IOmakOengSB8IGBtaW5pcHJvZ3JhbS9wYWdlcy9wcml2YWN5L2AgfCDjgIrpmpDnp4HmlL/nrZbjgIvjgIrnlKjmiLfljY/orq7jgIvlhajmlofpobUgfAp8IOS8muivnSB8IGBtaW5pcHJvZ3JhbS9wYWdlcy9zZXNzaW9ucy9gIHwg5b2T5YmN55So5oi35Lya6K+d5YiX6KGo77yIY29udmVyc2F0aW9ucyDpm4blkIjvvIkgfAoKIyMg5qC45b+D5Lia5Yqh6KeE5YiZCgoxLiAqKuS4jeabv+eUqOaIt+WBmuWGs+Wumioq77yaQUkg57uZ5ZCv5Y+R77yI57uP5YW45Y6f5paHICsg6Kej6K+7ICsg6IGU572R5LqL5a6e77yJ77yM55So5oi36Ieq5bex5Yik5patCjIuICoq5YWI5YGa5Lq65YaN5byV57uPKirvvJrlm57nrZTkupTmrrXlvI/vvIjnkIbop6PihpLliIbmnpDihpLooYzliqjihpLnu4/lhbjihpLmgJ3ogIPvvInlpZHnuqbkuI3lj6/noLTlnY8KMy4gKirlhoXlrrnlronlhagqKu+8mmNoYXQg5LqR5Ye95pWw5YWI6LeRIGBtc2dTZWNDaGVja2DvvIzov53op4TmlofmnKzkuI3ov5sgTExNCjQuICoq5Lya6K+d6ZqU56a7KirvvJrmr4/kuKogb3BlbmlkIOeahOS8muivneeLrOeri+WtmOS6jiBgY29udmVyc2F0aW9uc2Ag6ZuG5ZCICjUuICoq5byV55So5Y+v6L+95rqvKirvvJrmr4/lpITnu4/lhbjlvJXnlKjluKYgYHNvdXJjZWDvvIjlpoLjgIrorrror63Ct+WtpuiAjOOAi++8ie+8jOWPr+eCueWHu+i3s+S5puW6kwo2LiAqKuS4ieWxguiDveWKm+WIhua1gSoq77yaCiAgIC0g56Gu5a6a5oCn5a6e5pe25LqL5a6e77yI5pe26Ze0L+WkqeawlO+8ieKGkiBDYXBhYmlsaXR577yM57uV6L+HIFJBRy/mkJzntKIKICAgLSDkuovku7bog4zmma8v5pe25pWI5YaF5a65IOKGkiBGcmVzaG5lc3Mg5Zyo57q/5pCc57Si77yI5Y+X5oqk5qCP566h5o6n77yMYGRhdGFfcm91dGU9ZG9tZXN0aWNg77yJCiAgIC0g57uP5YW45oCd6L6oIOKGkiBLbm93bGVkZ2UgUkFHCiAgIC0g5a6e5pe26IO95YqbL+iBlOe9kee7k+aenCoq5rC45LiNKirov5sgY29ycHVzIC8gZW1iZWRkaW5nIC8g6Z2gIFByb21wdCDnlJ/miJDkuovlrp4KNy4gKirlj43lubvop4nnoazpl7gqKu+8mgogICAtIOWGt+mZjee6p++8iOaXoOS6i+Wunua6kO+8ieKGkiBXZW5EYW8g5Y+N5oCd5aKe5by677yM5LiN57yW6YCg77yIUTEtQu+8iQogICAtIOS8oOiusOi6q+S7vemXruazle+8iCJYWOaYr+iwgSLvvInihpIg6Kem5Y+R6IGU572R5qC45a6e77yM5peg5rqQ5YiZ6K+a5a6e6ZmN57qn77yM57ud5LiN57yW6YCg5a2m5Y6GL+mZouagoS/lh7rnlJ/vvIhRMi0xNe+8iQo4LiAqKuiBlOe9keaQnOe0ouS6i+WunumalOemuyoq77ya5pCc57Si57uT5p6c5Y+q5L2cIHJ1bnRpbWUgY29udGV4dO+8jOS4jei/myBjb3JwdXMvZW1iZWRkaW5nL+mVv+acn+e8k+WtmO+8iOingSBgZnJlc2huZXNzUnVudGltZUd1YXJkLmpzYO+8iQo=
+﻿# 02 · 业务逻辑（Business Flow）
+
+> **刷新于 2026-08-07（终校至 Q2-15）**：补充四模式、Freshness 在线搜索、传记幻觉防护。
+
+## 用户完整使用路径
+
+```
+首页(home) ──进入──▶ 对话(chat) ──查看──▶ 历史(history/sessions)
+     │                    │ 引经/联网       │ 会话列表
+     │                    ▼                ▼
+  说明(about) ◀──产品介绍  引用卡(Citation)   反馈(feedback)
+                                   │
+                                   ▼
+                              后台(admin) ──管理员──▶ 模型/日志管理
+```
+
+## 每个页面负责什么
+
+| 页面 | 路径 | 职责 |
+|------|------|------|
+| 首页 | `miniprogram/pages/home/` | 落地页 / 产品入口 / 导航到对话 / **四模式选择**（Fast🌐/Deep📚/Think🌅） |
+| 对话 | `miniprogram/pages/chat/` | 输入框 → 调 chat 云函数 → 渲染回答；隐私浮层（首次进入未同意时弹出）；引用卡展示经典出处；联网结果标注来源 |
+| 说明 | `miniprogram/pages/about/` | 产品理念、使用说明、跳转隐私协议 |
+| 书库 | `miniprogram/pages/books/` | 经典书库浏览（corpus.json 的 37 部经典） |
+| 后台 | `miniprogram/pages/admin/` | 管理员：模型配置 CRUD、question_logs / answer_quality_log 查看 |
+| 隐私 | `miniprogram/pages/privacy/` | 《隐私政策》《用户协议》全文页 |
+| 会话 | `miniprogram/pages/sessions/` | 当前用户会话列表（conversations 集合） |
+
+## 核心业务规则
+
+1. **不替用户做决定**：AI 给启发（经典原文 + 解读 + 联网事实），用户自己判断
+2. **先做人再引经**：回答五段式（理解→分析→行动→经典→思考）契约不可破坏
+3. **内容安全**：chat 云函数先跑 `msgSecCheck`，违规文本不进 LLM
+4. **会话隔离**：每个 openid 的会话独立存于 `conversations` 集合
+5. **引用可追溯**：每处经典引用带 `source`（如《论语·学而》），可点击跳书库
+6. **三层能力分流**：
+   - 确定性实时事实（时间/天气）→ Capability，绕过 RAG/搜索
+   - 事件背景/时效内容 → Freshness 在线搜索（受护栏管控，`data_route=domestic`）
+   - 经典思辨 → Knowledge RAG
+   - 实时能力/联网结果**永不**进 corpus / embedding / 靠 Prompt 生成事实
+7. **反幻觉硬闸**：
+   - 冷降级（无事实源）→ WenDao 反思增强，不编造（Q1-B）
+   - 传记身份问法（"XX是谁"）→ 触发联网核实，无源则诚实降级，绝不编造学历/院校/出生（Q2-15）
+8. **联网搜索事实隔离**：搜索结果只作 runtime context，不进 corpus/embedding/长期缓存（见 `freshnessRuntimeGuard.js`）

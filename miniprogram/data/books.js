@@ -1,1 +1,87 @@
-Ly8g5ZCR5pma6Zeu5oCdIMK3IOe7j+WFuOmYheivu+a4heWNle+8iDEwIOacrOW3suWFpeW6k+WFrOeJiOe7j+WFuO+8iQovLyDlrZfmrrXvvJppZCAvIHRpdGxlIC8gYXV0aG9yIC8gcGVyc3BlY3RpdmUo5a2m5rS+KSAvIGludHJvKOeugOS7iykgLyBzYW1wbGUo56S65L6L5pGY5b2VKQovLyDkuI4ga25vd2xlZGdlL2luZGV4Lmpzb24g55qEIHJlYWR5IOS5puebruS/neaMgeS4gOiHtO+8m+aWsOWinuS5puebruaXtuS4pOWkhOWQjOatpeOAggpjb25zdCBib29rcyA9IFsKICB7CiAgICBpZDogImx1bnl1IiwKICAgIHRpdGxlOiAi6K666K+tIiwKICAgIGF1dGhvcjogIuWtlOWtkOWPiuWFtuW8n+WtkCIsCiAgICBwZXJzcGVjdGl2ZTogIuWEkuWutiIsCiAgICBpbnRybzogIuiusOW9leWtlOWtkOS4juWFtuW8n+WtkOiogOihjOeahOivreW9leS9k+e7j+WFuOOAguiwiOWtpuS5oOOAgeS/rui6q+OAgeWkhOS4luS4juS4uuaUv++8jOivreiogOW5s+WunuWNtOW4uOiDveeFp+ingeaXpeW4uOWkhOWig+OAgiIsCiAgICBzYW1wbGU6ICLlrabogIzml7bkuaDkuYvvvIzkuI3kuqbor7TkuY7vvJ8iLAogIH0sCiAgewogICAgaWQ6ICJtZW5nemkiLAogICAgdGl0bGU6ICLlrZ/lrZAiLAogICAgYXV0aG9yOiAi5a2f6L2yIiwKICAgIHBlcnNwZWN0aXZlOiAi5YSS5a62IiwKICAgIGludHJvOiAi5Lul6ZuE6L6p6ZiQ6L+w5oCn5ZaE44CB5YW75rCU5LiO6YCG5aKD5oiQ6ZW/44CC5YWz5LqO44CM5Lq65aaC5L2V5Zyo5Zuw6aG/5Lit6ZW/5Ye65Yqb6YeP44CN77yM6Iez5LuK5LuN5pyJ5ZCv5Y+R44CCIiwKICAgIHNhbXBsZTogIuWkqeWwhumZjeWkp+S7u+S6juaYr+S6uuS5n++8jOW/heWFiOiLpuWFtuW/g+W/l+KApuKApiIsCiAgfSwKICB7CiAgICBpZDogImRheHVlIiwKICAgIHRpdGxlOiAi5aSn5a2mIiwKICAgIGF1dGhvcjogIuabvuWtkCIsCiAgICBwZXJzcGVjdGl2ZTogIuWEkuWutiIsCiAgICBpbnRybzogIuS4iee6suWFq+ebrueahOS/rui6q+asoeesrO+8muS7juagvOeJqeiHtOefpeWIsOS/rui6q+m9kOWutuOAguaPkOmGkuaIkeS7rO+8jOaUueWPmOWklueVjOS5i+WJjeWFiOWbnuWIsOiHqui6q+WPr+aUueS5i+WkhOOAgiIsCiAgICBzYW1wbGU6ICLoh6rlpKnlrZDku6Xoh7Pkuo7lurbkurrvvIzlo7nmmK/nmobku6Xkv67ouqvkuLrmnKzjgIIiLAogIH0sCiAgewogICAgaWQ6ICJ6aG9uZ3lvbmciLAogICAgdGl0bGU6ICLkuK3lurgiLAogICAgYXV0aG9yOiAi5a2Q5oCdIiwKICAgIHBlcnNwZWN0aXZlOiAi5YSS5a62IiwKICAgIGludHJvOiAi6K6y44CM5Lit44CN5LiO44CM5ZKM44CN77ya5oOF57uq5pyq6LW35pe25a6I5Lit77yM6LW35LqG6KaB5pyJ5YiG5a+45Zyw6KGo6L6+44CC6LCI5bmz6KGh5LiO5YiG5a+477yM6ICM6Z2e5bmz5bq444CCIiwKICAgIHNhbXBsZTogIuWWnOaAkuWTgOS5kOS5i+acquWPke+8jOiwk+S5i+S4re+8m+WPkeiAjOeahuS4reiKgu+8jOiwk+S5i+WSjOOAgiIsCiAgfSwKICB7CiAgICBpZDogImRhb2RlamluZyIsCiAgICB0aXRsZTogIumBk+W+t+e7jyIsCiAgICBhdXRob3I6ICLogIHlrZAiLAogICAgcGVyc3BlY3RpdmU6ICLpgZPlrrYiLAogICAgaW50cm86ICLku6XjgIzpgZPjgI3kuI7jgIzml6DkuLrjgI3nnIvkuJbnlYzjgILorrLkuI3kuonjgIHoh6rnn6XkuI7mn5Tpn6fvvIzluLjmj5DkvpvkuIDnp43pgIDkuIDmraXjgIHmjaLlj4Lnhafns7vnmoTmuIXphpLjgIIiLAogICAgc2FtcGxlOiAi55+l5Lq66ICF5pm677yM6Ieq55+l6ICF5piO44CCIiwKICB9LAogIHsKICAgIGlkOiAiemh1YW5nemkiLAogICAgdGl0bGU6ICLluoTlrZAiLAogICAgYXV0aG9yOiAi5bqE5ZGoIiwKICAgIHBlcnNwZWN0aXZlOiAi6YGT5a62IiwKICAgIGludHJvOiAi5oOz6LGh5aWH5bSb44CB6Ieq5Zyo5rSS6ISx44CC55So5a+T6KiA5p2+5Yqo5Lq66KKr55y85YmN5bC65bqm5Zuw5L2P55qE5omn5b+177yM5pWZ5L2g5o2i5pu05aSn55qE5Y+C54Wn57O755yL6Ieq5bex44CCIiwKICAgIHNhbXBsZTogIuWQvueUn+S5n+aciea2r++8jOiAjOefpeS5n+aXoOa2r+OAgiIsCiAgfSwKICB7CiAgICBpZDogIm1lZGl0YXRpb25zIiwKICAgIHRpdGxlOiAi5rKJ5oCd5b2VIiwKICAgIGF1dGhvcjogIumprOWPr8K35aWl5YuS55WZIiwKICAgIHBlcnNwZWN0aXZlOiAi5pav5aSa6JGbIiwKICAgIGludHJvOiAi572X6ams55qH5bid5YaZ57uZ6Ieq5bex55qE5Lq655Sf56yU6K6w44CC5qC45b+D5piv77ya5oqK5rOo5oSP5Yqb5pS+5Zue6Ieq5bex6IO95o6M5o6n55qE5Yik5pat5LiO5oCB5bqm77yM5aSW55WM57q35omw5L6/5bCR5LqbIGZvb3Rob2xk44CCIiwKICAgIHNhbXBsZTogIuWbsOaJsOS6uueahOS4jeaYr+S6i+eJqe+8jOiAjOaYr+S6uuWvueS6i+eJqeeahOeci+azleOAgiIsCiAgfSwKICB7CiAgICBpZDogImVuY2hpcmlkaW9uIiwKICAgIHRpdGxlOiAi54ix5q+U5YWL5rOw5b6344CK5omL5YaM44CLIiwKICAgIGF1dGhvcjogIueIseavlOWFi+azsOW+tyIsCiAgICBwZXJzcGVjdGl2ZTogIuaWr+WkmuiRmyIsCiAgICBpbnRybzogIuaWr+WkmuiRm+Wtpua0vueahOWunuaTjeaJi+WGjOOAgui1t+eCueW+iOactOe0oO+8muWIhua4heOAjOaIkeiDveWBmuS4u+eahOOAjeWSjOOAjOaIkeS4jeiDveWBmuS4u+eahOOAje+8jOWFiOaKiuWKm+awlOeUqOWvueWcsOaWueOAgiIsCiAgICBzYW1wbGU6ICLmnInkupvkuovlnKjmiJHku6zog73lipvojIPlm7TkuYvlhoXvvIzmnInkupvkuovkuI3lnKjjgIIiLAogIH0sCiAgewogICAgaWQ6ICJhcG9sb2d5IiwKICAgIHRpdGxlOiAi5p+P5ouJ5Zu+44CK55Sz6L6p56+H44CLIiwKICAgIGF1dGhvcjogIuafj+aLieWbviIsCiAgICBwZXJzcGVjdGl2ZTogIuafj+aLieWbviAvIOiLj+agvOaLieW6lSIsCiAgICBpbnRybzogIuiusOW9leiLj+agvOaLieW6leWcqOazleW6reS4iueahOiHqui+qeOAguWFs+S6juiHquecgeOAgeivmuWunumdouWvueaXoOefpe+8jOS7peWPiuOAjOacque7j+ecgeWvn+eahOS6uueUn+S4jeWAvOW+l+i/h+OAjeOAgiIsCiAgICBzYW1wbGU6ICLmnKrnu4/nnIHlr5/nmoTkurrnlJ/kuI3lgLzlvpfov4fjgIIiLAogIH0sCiAgewogICAgaWQ6ICJuaWNvbWFjaGVhbl9ldGhpY3MiLAogICAgdGl0bGU6ICLlsLzlkITpqazlj6/kvKbnkIblrabvvIjoioLpgInvvIkiLAogICAgYXV0aG9yOiAi5Lqa6YeM5aOr5aSa5b63IiwKICAgIHBlcnNwZWN0aXZlOiAi5Lqa6YeM5aOr5aSa5b63IiwKICAgIGludHJvOiAi5o6i6K6o5b635oCn5LiO5bm456aP77ya5oiR5Lus5oiQ5Li65LuA5LmI5qC355qE5Lq677yM5Y+W5Yaz5LqO5q+P5aSp6YeN5aSN55qE5bCP6YCJ5oup77yb5Y2T6LaK5piv5LiA56eN56iz5a6a55qE5Lmg5oOv44CCIiwKICAgIHNhbXBsZTogIuaIkeS7rOaYr+S7gOS5iO+8jOS5g+aYr+eUseaIkeS7rOWPjeWkjeeahOihjOS4uuaJgOmAoOWwseeahOOAgiIsCiAgfSwKXTsKCm1vZHVsZS5leHBvcnRzID0geyBib29rcyB9Owo=
+// 向晚问思 · 经典阅读清单（10 本已入库公版经典）
+// 字段：id / title / author / perspective(学派) / intro(简介) / sample(示例摘录)
+// 与 knowledge/index.json 的 ready 书目保持一致；新增书目时两处同步。
+const books = [
+  {
+    id: "lunyu",
+    title: "论语",
+    author: "孔子及其弟子",
+    perspective: "儒家",
+    intro: "记录孔子与其弟子言行的语录体经典。谈学习、修身、处世与为政，语言平实却常能照见日常处境。",
+    sample: "学而时习之，不亦说乎？",
+  },
+  {
+    id: "mengzi",
+    title: "孟子",
+    author: "孟轲",
+    perspective: "儒家",
+    intro: "以雄辩阐述性善、养气与逆境成长。关于「人如何在困顿中长出力量」，至今仍有启发。",
+    sample: "天将降大任于是人也，必先苦其心志……",
+  },
+  {
+    id: "daxue",
+    title: "大学",
+    author: "曾子",
+    perspective: "儒家",
+    intro: "三纲八目的修身次第：从格物致知到修身齐家。提醒我们，改变外界之前先回到自身可改之处。",
+    sample: "自天子以至于庶人，壹是皆以修身为本。",
+  },
+  {
+    id: "zhongyong",
+    title: "中庸",
+    author: "子思",
+    perspective: "儒家",
+    intro: "讲「中」与「和」：情绪未起时守中，起了要有分寸地表达。谈平衡与分寸，而非平庸。",
+    sample: "喜怒哀乐之未发，谓之中；发而皆中节，谓之和。",
+  },
+  {
+    id: "daodejing",
+    title: "道德经",
+    author: "老子",
+    perspective: "道家",
+    intro: "以「道」与「无为」看世界。讲不争、自知与柔韧，常提供一种退一步、换参照系的清醒。",
+    sample: "知人者智，自知者明。",
+  },
+  {
+    id: "zhuangzi",
+    title: "庄子",
+    author: "庄周",
+    perspective: "道家",
+    intro: "想象奇崛、自在洒脱。用寓言松动人被眼前尺度困住的执念，教你换更大的参照系看自己。",
+    sample: "吾生也有涯，而知也无涯。",
+  },
+  {
+    id: "meditations",
+    title: "沉思录",
+    author: "马可·奥勒留",
+    perspective: "斯多葛",
+    intro: "罗马皇帝写给自己的人生笔记。核心是：把注意力放回自己能掌控的判断与态度，外界纷扰便少些 foothold。",
+    sample: "困扰人的不是事物，而是人对事物的看法。",
+  },
+  {
+    id: "enchiridion",
+    title: "爱比克泰德《手册》",
+    author: "爱比克泰德",
+    perspective: "斯多葛",
+    intro: "斯多葛学派的实操手册。起点很朴素：分清「我能做主的」和「我不能做主的」，先把力气用对地方。",
+    sample: "有些事在我们能力范围之内，有些事不在。",
+  },
+  {
+    id: "apology",
+    title: "柏拉图《申辩篇》",
+    author: "柏拉图",
+    perspective: "柏拉图 / 苏格拉底",
+    intro: "记录苏格拉底在法庭上的自辩。关于自省、诚实面对无知，以及「未经省察的人生不值得过」。",
+    sample: "未经省察的人生不值得过。",
+  },
+  {
+    id: "nicomachean_ethics",
+    title: "尼各马可伦理学（节选）",
+    author: "亚里士多德",
+    perspective: "亚里士多德",
+    intro: "探讨德性与幸福：我们成为什么样的人，取决于每天重复的小选择；卓越是一种稳定的习惯。",
+    sample: "我们是什么，乃是由我们反复的行为所造就的。",
+  },
+];
+
+module.exports = { books };

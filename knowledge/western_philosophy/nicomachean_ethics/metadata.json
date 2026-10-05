@@ -1,1 +1,32 @@
-ewogICJpZCI6ICJuaWNvbWFjaGVhbl9ldGhpY3MiLAogICJ0aXRsZSI6ICLlsLzlkITpqazlj6/kvKbnkIblrabvvIjoioLpgInvvIkiLAogICJhdXRob3IiOiAi5Lqa6YeM5aOr5aSa5b63IiwKICAidHJhbnNsYXRvciI6ICLlhazniYjoi7Hor5HvvIhXLiBELiBSb3NzIOetie+8ieS9nOagoeWLmOWPguiAgyIsCiAgInNvdXJjZSI6ICJBcmlzdG90bGUsIE5pY29tYWNoZWFuIEV0aGljc++8iOWFrOeJiOiLseivkeiKgumAie+8iSIsCiAgImVkaXRpb24iOiAi5YWs54mI6Iux6K+R6IqC6YCJIiwKICAicHVibGlzaGVyIjogbnVsbCwKICAieWVhciI6ICLnuqblhazlhYPliY0gNCDkuJbnuqoiLAogICJjb3B5cmlnaHRfc3RhdHVzIjogInB1YmxpYy1kb21haW4iLAogICJsaWNlbnNlX25vdGUiOiAiQ0MwIC8g5YWs5pyJ6aKG5Z+f77yI5Y6f5paH77yM5Y+k5biM6IWK5paH77yb6Iux5paH5Li65YWs54mI6K+R5pys77yJIiwKICAidmVyaWZpY2F0aW9uX2RhdGUiOiAiMjAyNi0wNy0yNiIsCiAgImNhdGVnb3J5IjogIuilv+aWueWTsuWtpiIsCiAgInBlcnNwZWN0aXZlIjogIuS6mumHjOWjq+WkmuW+tyIsCiAgInRoZW1lcyI6IFsi5Lmg5oOvIiwgIuWNk+i2iiIsICLplb/mnJ/kuLvkuYkiLCAi5ZOB5b63IiwgIuihjOWKqCIsICLnm67nmoQiXSwKICAicHJvYmxlbV90YWdzIjogWyLkuaDmg68iLCAi6ZW/5pyf5Li75LmJIiwgIuWdmuaMgSIsICLljZPotooiLCAi6KGM5YqoIiwgIuWTgeW+tyIsICLkuLrku4DkuYjnn6XpgZPpgZPnkIbljbTlgZrkuI3liLAiLCAi5aaC5L2V5Z+55YW75aW95Lmg5oOvIl0sCiAgInVzZXJfcXVlc3Rpb25zIjogWwogICAgIuS4uuS7gOS5iOefpemBk+mBk+eQhuWNtOWBmuS4jeWIsCIsCiAgICAi5aaC5L2V5Z+55YW75aW95Lmg5oOvIiwKICAgICLmgI7moLfplb/mnJ/lnZrmjIHkuIDku7bkuosiLAogICAgIuS8mOengOaYr+WkqeeUn+eahOi/mOaYr+e7g+WHuuadpeeahCIKICBdLAogICJzY2VuYXJpb3MiOiBbIuS5oOaDr+WFu+aIkCIsICLplb/mnJ/kuLvkuYkiLCAi6Ieq5oiR566h55CGIiwgIuWTgeW+t+WfueWFuyJdLAogICJhdXRob3JpdHlfbGV2ZWwiOiA1LAogICJjaXRhdGlvbiI6IHsgInRlbXBsYXRlIjogIuOAint0aXRsZX3Ct3tzZWN0aW9ufeOAiyIsICJleGFtcGxlIjogIuOAiuWwvOWQhOmprOWPr+S8pueQhuWtpsK35LiA5YiH6KGM5Li655qG5pyJ5omA5rGC55qE5aW944CLIiB9LAogICJsYW5ndWFnZSI6ICJ6aCIsCiAgInNvdXJjZV90eXBlIjogInRyYW5zbGF0aW9uIiwKICAiY2hhcHRlcl9zcGxpdCI6ICJieS1jaGFwdGVyIiwKICAibGVnYWxDb25maXJtIjogdHJ1ZSwKICAic3RhdHVzIjogInJlYWR5IiwKICAibm90ZXMiOiAi6IqC6YCJ56ys5LiA5Y2344CB56ys5LqM5Y2377yb5YWs54mI6Iux6K+R5qCh5YuY77yM5Lit5paH5Li65b+g5a6e6L2s6K+R44CCIgp9Cg==
+{
+  "id": "nicomachean_ethics",
+  "title": "尼各马可伦理学（节选）",
+  "author": "亚里士多德",
+  "translator": "公版英译（W. D. Ross 等）作校勘参考",
+  "source": "Aristotle, Nicomachean Ethics（公版英译节选）",
+  "edition": "公版英译节选",
+  "publisher": null,
+  "year": "约公元前 4 世纪",
+  "copyright_status": "public-domain",
+  "license_note": "CC0 / 公有领域（原文，古希腊文；英文为公版译本）",
+  "verification_date": "2026-07-26",
+  "category": "西方哲学",
+  "perspective": "亚里士多德",
+  "themes": ["习惯", "卓越", "长期主义", "品德", "行动", "目的"],
+  "problem_tags": ["习惯", "长期主义", "坚持", "卓越", "行动", "品德", "为什么知道道理却做不到", "如何培养好习惯"],
+  "user_questions": [
+    "为什么知道道理却做不到",
+    "如何培养好习惯",
+    "怎样长期坚持一件事",
+    "优秀是天生的还是练出来的"
+  ],
+  "scenarios": ["习惯养成", "长期主义", "自我管理", "品德培养"],
+  "authority_level": 5,
+  "citation": { "template": "《{title}·{section}》", "example": "《尼各马可伦理学·一切行为皆有所求的好》" },
+  "language": "zh",
+  "source_type": "translation",
+  "chapter_split": "by-chapter",
+  "legalConfirm": true,
+  "status": "ready",
+  "notes": "节选第一卷、第二卷；公版英译校勘，中文为忠实转译。"
+}

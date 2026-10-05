@@ -1,1 +1,78 @@
-IyBQaGFzZSBRMi0xOO+8muWIhuexu+WZqOi3r+eUsSArIOWQiOaIkOW6leW6p+aKpOagj+S/ruWkje+8iOecn+acuue6p+err+WIsOerr++8iQoKKirml6XmnJ8qKjogMjAyNi0wOC0wNyAyMToyNeKAkzIyOjEwCioq54q25oCBKio6IOKchSBDT01QTEVURUQgLyDlt7Lpg6jnvbIKKirop6blj5EqKjog55So5oi3IuebtOaOpeS/ruWkjSLigJTigJRRMi0xNyDotoXml7bkv67lpI3pg6jnvbLlkI7vvIznnJ/mnLrku43otbDjgIxwZXJzb25faWRlbnRpdHlfYm91bmRhcnnjgI3pmY3nuqfmqKHmnb/jgIIKCiMjIOmXrumimOeOsOixoQpRMi0xNyDkv67kuobmkJzntKLlsYLotoXml7YvVVJM77yM5L2G44CM5LuY6Iiq5piv6LCB44CN5LuN6ZmN57qn44CC5pys5qyh5YaZ5LqG5LiA5p2hKirotK/nqb8gbWF5YmVIYW5kbGUg55qE5YWo6ZO+6LevIGUyZSoq77yI55yf5a6e6LCD55m+54K8IEFQSe+8ie+8jOWPkeeOsOagueWboOS4jeWcqOaQnOe0ouWxgu+8jOiAjOWcqCoq5LiK5bGC5YiG57G75LiO5oqk5qCPKirvvJoKCnwg6Zeu5rOVIHwg546w6LGhIHwg5qC55ZugIHwKfC0tLS0tLXwtLS0tLS18LS0tLS0tfAp8IOS7mOiIquaYr+iwgSB8IDZtcyDokL0gYGNhdGVnb3J5LUMtZ3VpZGFuY2VgIOmZjee6p++8jOacquiwg+aQnOe0oiB8IOWIhuexu+WZqOaKiuS6uueJqei6q+S7veWIpOaIkCBDIHwKfCDku5joiKrmmK/osIEo5L+u5YiG57G75ZCOKSB8IOiQvSBgY29uZmxpY3RpbmdfaW5mb2Ag6ZmN57qnIHwg5ZCI5oiQ5Y2V5rqQ5ZCrIua+hOa4hS/lj43ovawi5o6q6L6e6KKr6K+v5Yik5aSa5rqQ5Yay56qBIHwKfCDku5joiKrmmK/osIEo5L+u5Yay56qB5ZCOKSB8IOiQvSBgZ3VhcmRfcmVqZWN0ZWQ6bWlzc2luZy11bmtub3duLWFja2AgfCDlkIjmiJDlupXluqcgdW5rbm93bl9wb2ludHMg6Z2e56m677yM5by65Yi2IuaXoOazleehruiupCLmjqrovp4gfAp8IOS7iuWkqeacieS7gOS5iOenkeaKgOaWsOmXuyB8IOWBtuWPkSBgZ3VhcmRfcmVqZWN0ZWQ6bWlzc2luZy1zeW50aC1kaXNjbGFpbWVyYCB8IOWFjei0o+WjsOaYjuWvhOaJmOaooeWei+maj+acuui+k+WHuu+8jHRlbXBlcmF0dXJlIOS4i+aXtueBteaXtuS4jeeBtSB8Cnwg5LuY6Iiq55qE5a2m5Y6G5piv5LuA5LmIIHwg6L+U5ZueIG51bGzvvIjotbDljp8gUkFH77yM5LiN5qOA57Si77yJIHwgUEVSU09OX0lERU5USVRZX1JFIOWPquiupCJY5piv6LCBIu+8jOa8j+S6hiJY55qE5a2m5Y6GIiB8CgojIyDmoLnlm6DliIbmnpDvvIg0IOS4qiBidWfvvIkKCiMjIyBCdWcgMe+8muS6uueJqei6q+S7veinhOWImeiiqyBpbnRlbnQg5bGC5oqi5YWI5oiq6IOh77yI5Li75Zug77yJCioq5paH5Lu2Kio6IGBmcmVzaG5lc3MvZXZlbnRDbGFzc2lmaWVyLmpzYApgY2xhc3NpZnlDYXRlZ29yeWAg5Lit77yaCi0g56ysIOKRpCDmraUgYGludGVudEZhY3R1YWwg4oaSIENg77yI57qmIDIxMiDooYzvvInmjpLlnKgKLSDnrKwg4pGlIOatpSBgaXNQZXJzb25JZGVudGl0eSDihpIgQmDvvIjnuqYgMjQwIOihjO+8iSoq5LmL5YmNKioKCuWGu+e7kyBgaW50ZW50LmpzYCDmiorjgIzku5joiKrmmK/osIHjgI3liKTmiJAgYHR5cGU6J2tub3dsZWRnZSdgIOKGkiBgaW50ZW50RmFjdHVhbGAg5ZG95LitIOKGkiDlhYjov5Tlm54gQ+OAggpRMi0xNSDliqDnmoQi5Lq654mp6Lqr5Lu95by65Yi25b2SIEIi6KeE5YiZ5b2i5ZCM6Jma6K6+77yI5rC46L+c5Yiw5LiN5LqG77yJ44CCCgoqKuS/ruWkjSoqOiDmioogYGlzUGVyc29uSWRlbnRpdHkg4oaSIEJgIOaPkOWJjeWIsOesrCDikaEtYyDkuYvlkI7jgIHikaIgZmFjdE9ubHkg5LiOIOKRpCBpbnRlbnRGYWN0dWFsICoq5LmL5YmNKirvvIjmlrDlop4g4pGhLWQg5Z2X77yJ77yM5bm25Yig6Zmk5pyr5bC+6YeN5aSN55qEIOKRpSDlnZfjgIIKCiMjIyBCdWcgMu+8mlBFUlNPTl9JREVOVElUWV9SRSDopobnm5bov4fnqoQK5Y+q5Yy56YWNIGBY5piv6LCBIC8gWOaYr+S7gOS5iOS6uiAvIFjmmK/kvZXorrjkurpgIOetie+8jOa8j+S6hiBgWOeahOWtpuWOhuaYr+S7gOS5iGAg6L+Z57G75bGe5oCn6Zeu5rOVIOKGkiDooqsgaW50ZW50LmpzIOWIpCBrbm93bGVkZ2Ug4oaSIOiQvSBBIOKGkiDotbDljp8gUkFHIOS4jeajgOe0ouOAggoqKuS/ruWkjSoqOiDmraPliJnov73liqAgYC57MiwxMH3nmoQo5a2m5Y6GfOe7j+WOhnzlsaXljoZ855Sf5bmzfOiDjOaZr3znroDku4t86LWE5paZfOi/keWGtSko5pivfOaciXzlpoLkvZV85oCO5qC3fOaAjuS5iOagt3zlkovmoLd85piv5LuA5LmIKWDjgIIKCiMjIyBCdWcgM++8muWQiOaIkOW6leW6p+iiq+WGsueqgS/mnKrnn6Xnoazmo4Dor6/mnYAKLSBgZnJlc2huZXNzL2luZGV4LmpzOjI1MGAgYGNvbmZsaWN0aW5nX2luZm9gIOmZjee6p++8muWvuSoq5Y2V5rqQ5ZCI5oiQKiooTE9XIOe9ruS/oSkg6K+v6Kem5Y+R4oCU4oCU55m+54K857u85ZCI5paH5a2X5ZCrIua+hOa4hS/lj43ovawi5Y+Z6L+w5o6q6L6e77yM6Z2e55yf5a6e5aSa5rqQ5Yay56qB44CCCi0gYHJlc3BvbmRlci5ndWFyZE91dHB1dGAgYG1pc3NpbmctdW5rbm93bi1hY2tub3dsZWRnZW1lbnRg77ya5ZCI5oiQ5bqV5bqnIHVua25vd25fcG9pbnRzIOmdnuepuu+8jOW8uuWItuimgeaxgiLml6Dms5Xnoa7orqQi5o6q6L6e77yM5L2G5ZCI5oiQ5qih5byP5bey55SxIuiBlOe9keWFjei0o+WjsOaYjiLopobnm5bkuI3noa7lrprmgKfjgIIKKirkv67lpI0qKjoKLSBgZnJlc2huZXNzL2luZGV4LmpzYO+8mmAhZXh0cmFjdGlvbi5oYXNTeW50aGVzaXplZCAmJmAg5a6I5oqk5Yay56qB6ZmN57qn44CCCi0gYHJlc3BvbmRlci5ndWFyZE91dHB1dGDvvJpgIXN5bnRoZXNpemVkICYmYCDlrojmiqTmnKrnn6Xmib/orqTnoazmo4DjgIIKCiMjIyBCdWcgNO+8muWQiOaIkOWFjei0o+WjsOaYjuS+nei1luaooeWei+maj+acuui+k+WHuu+8iGZsYWt577yJCmByZXNwb25kZXIuZ2VuZXJhdGVGcmVzaG5lc3NBbnN3ZXJgIOWvuSBgbWlzc2luZy1zeW50aC1kaXNjbGFpbWVyYCDnm7TmjqXnoazmi5Ig4oaSIOWBtuWPkemZjee6p+OAggoqKuS/ruWkjSoqOiDlkIjmiJDlupXluqfku4XnvLrlhY3otKPlo7DmmI7ml7bvvIwqKueoi+W6j+WMlui/veWKoCoq5qCH5YeG5YWN6LSj5bC+5rOo77yI56Gu5a6a5oCn5ruh6Laz6K+a5a6e6KaB5rGC77yM5LiN5Lii5YaF5a6544CB5LiN6ZmN57qn77yJ77yaCmBcblxu77yI5Lul5LiK5Li6572R57uc57u85ZCI5YaF5a6577yM5pyq57uP54us56uL5qC45a6e77yM5LuF5L6b5Y+C6ICD77yJYOOAguWFtuS7lui/neinhO+8iOepuuetlC/lvZLlm6Dmlq3lrpov5Lyg6K6w5bm76KeJ562J77yJ5LuN56Gs5ouS44CCCgojIyDpqozor4Hnu5PmnpwKCmBgYAo9PT0gUTItMTggZTJl77yIMyDpl67ms5Ugw5cgMiDova7vvIznnJ/lrp7osIPnmb7ngrwgQVBJ77yJPT09CuS7mOiIquaYr+iwgSAgICAgICAgICAgIOKchSBC57G75o6l566hICsg5ZCr5YWN6LSj5aOw5piOICsg5aSn5LiT5a2m5Y6G5L+h5oGvCuS7iuWkqeacieS7gOS5iOenkeaKgOaWsOmXuyAg4pyFIELnsbvmjqXnrqEgKyDlkKvlhY3otKPlo7DmmI4gKyDnnJ/lrp7mlrDpl7vmnaHnm64K5LuY6Iiq55qE5a2m5Y6G5piv5LuA5LmIICAgIOKchSBC57G75o6l566hICsg5ZCr5YWN6LSj5aOw5piOICsg5aSn5LiT5a2m5Y6G5qC45a6eCuS4pOi9ruWbnuWQiOWdhyAzIFBBU1MgLyAwIEZBSUwKCj09PSBRMi0xOCDliIbnsbvlmajlm57lvZLvvIg4IOmXruazle+8iT09PQrku5joiKrmmK/osIHihpJCIC8g5LuY6Iiq55qE5a2m5Y6G4oaSQiAvIOaWsOmXu+KGkkIgLyDmlrDnlLXlvbHihpJCCuS6uueUn+aEj+S5ieKGkkEgLyDorrror63ku4HihpJBIC8g6L+Z5Lu25LqL5L2g5oCO5LmI55yL4oaSQihsb3fihpLmvoTmuIUpIC8g5piO5pif5Ye66L2o4oaSRAo4IFBBU1MgLyAwIEZBSUwKYGBgCgojIyDkv67mlLnmlofku7bmuIXljZXvvIjlnYfpnZ7lhrvnu5PotYTkuqfvvIkKfCDmlofku7YgfCDmlLnliqggfAp8LS0tLS0tfC0tLS0tLXwKfCBgZnJlc2huZXNzL2V2ZW50Q2xhc3NpZmllci5qc2AgfCDkurrnianouqvku73lvZIgQiDliY3nva4o4pGhLWQpICsgUEVSU09OX0lERU5USVRZX1JFIOaJqeWxnuaAp+mXruazlSB8CnwgYGZyZXNobmVzcy9yZXNwb25kZXIuanNgIHwg5ZCI5oiQ5bqV5bqn5YWNIHVua25vd24tYWNrIOehrOajgO+8m+e8uuWFjei0o+WjsOaYjueoi+W6j+WMlui/veWKoCB8CnwgYGZyZXNobmVzcy9pbmRleC5qc2AgfCDlkIjmiJDljZXmupDosYHlhY0gY29uZmxpY3RpbmdfaW5mbyDpmY3nuqcgfAoKKirlhrvnu5PotYTkuqcgU0hBIDQvNCDkuI3lj5gqKjogY29ycHVzLmpzb24gYGRiMDFmYmM54oCmYCAvIGludGVudC5qcyBgNzY1YWQxMzjigKZgIC8gcmFnLmpzIGA0ZmIyZGNhNOKApmAgLyBrbm93bGVkZ2VSb3V0ZXIuanMgYDg0ODkwODQ04oCmYAoKIyMg55Sf5Lqn5YWl5Y+j56Gu6K6kCmBjaGF0L2luZGV4LmpzOjMzNWAg5bey5bCGIGBtb2RlbHMvb3BlbmlkL2Fuc3dlck1vZGUvc2VhcmNoUHJvdmlkZXIvZmFjdHVhbEVuYWJsZWRgIOS8oOWFpSBgbWF5YmVIYW5kbGVg77yM55yf5py66LWw5LiO5pys5ZywIGUyZSDlkIzkuIDpk77ot6/vvIjnur/kuIrnlKggbW9kZWxfY29uZmlnIOeahCBxd2VuLXBsdXMg55Sf5oiQ5Zue562U77yM56iL5bqP5YyW5YWN6LSj6L+95Yqg5YWc5bqV5raI6Zmk6ZqP5py65oCn77yJ44CCCgojIyDnjrDnirYKLSDinIUg6YOo572y5oiQ5Yqf77yIYHRjYiBmbiBkZXBsb3kgY2hhdCAtLWZvcmNlYO+8iQotIOKchSDkurrnianouqvku70v5paw6Ze754Ot54K5L+WxnuaAp+mXruazlSDkuInnsbvlnYfnqLPlrprogZTnvZEKLSDim5Qg5pyqIGNvbW1pdO+8iOaMieaDr+S+i+eVmeeUqOaIt++8iQotIOivmuWunui+ueeVjO+8muWQiOaIkOaooeW8j+aXoOeLrOeri+adpea6kCBVUkzjgIHnva7kv6HpmY3nuqfvvIznkIborrrku43mnInmqKHlnovnu7zlkIjor6/lt67vvJvpnIAi5bim5p2l5rqQ6Zu25bm76KeJIuS4peiwqOiBlOe9keWPr+WIh+iFvuiur+S6kSBXU0HvvIhRMi0xMiDpgILphY3lmaggdGVuY2VudFdzYVNlYXJjaC5qcyDlsLHnu6rvvIzmlLkgU0VBUkNIX1BST1ZJREVSPXRlbmNlbnQg5Y2z5Y+v77yJCg==
+﻿# Phase Q2-18：分类器路由 + 合成底座护栏修复（真机级端到端）
+
+**日期**: 2026-08-07 21:25–22:10
+**状态**: ✅ COMPLETED / 已部署
+**触发**: 用户"直接修复"——Q2-17 超时修复部署后，真机仍走「person_identity_boundary」降级模板。
+
+## 问题现象
+Q2-17 修了搜索层超时/URL，但「付航是谁」仍降级。本次写了一条**贯穿 maybeHandle 的全链路 e2e**（真实调百炼 API），发现根因不在搜索层，而在**上层分类与护栏**：
+
+| 问法 | 现象 | 根因 |
+|------|------|------|
+| 付航是谁 | 6ms 落 `category-C-guidance` 降级，未调搜索 | 分类器把人物身份判成 C |
+| 付航是谁(修分类后) | 落 `conflicting_info` 降级 | 合成单源含"澄清/反转"措辞被误判多源冲突 |
+| 付航是谁(修冲突后) | 落 `guard_rejected:missing-unknown-ack` | 合成底座 unknown_points 非空，强制"无法确认"措辞 |
+| 今天有什么科技新闻 | 偶发 `guard_rejected:missing-synth-disclaimer` | 免责声明寄托模型随机输出，temperature 下时灵时不灵 |
+| 付航的学历是什么 | 返回 null（走原 RAG，不检索） | PERSON_IDENTITY_RE 只认"X是谁"，漏了"X的学历" |
+
+## 根因分析（4 个 bug）
+
+### Bug 1：人物身份规则被 intent 层抢先截胡（主因）
+**文件**: `freshness/eventClassifier.js`
+`classifyCategory` 中：
+- 第 ⑤ 步 `intentFactual → C`（约 212 行）排在
+- 第 ⑥ 步 `isPersonIdentity → B`（约 240 行）**之前**
+
+冻结 `intent.js` 把「付航是谁」判成 `type:'knowledge'` → `intentFactual` 命中 → 先返回 C。
+Q2-15 加的"人物身份强制归 B"规则形同虚设（永远到不了）。
+
+**修复**: 把 `isPersonIdentity → B` 提前到第 ②-c 之后、③ factOnly 与 ⑤ intentFactual **之前**（新增 ②-d 块），并删除末尾重复的 ⑥ 块。
+
+### Bug 2：PERSON_IDENTITY_RE 覆盖过窄
+只匹配 `X是谁 / X是什么人 / X是何许人` 等，漏了 `X的学历是什么` 这类属性问法 → 被 intent.js 判 knowledge → 落 A → 走原 RAG 不检索。
+**修复**: 正则追加 `.{2,10}的(学历|经历|履历|生平|背景|简介|资料|近况)(是|有|如何|怎样|怎么样|咋样|是什么)`。
+
+### Bug 3：合成底座被冲突/未知硬检误杀
+- `freshness/index.js:250` `conflicting_info` 降级：对**单源合成**(LOW 置信) 误触发——百炼综合文字含"澄清/反转"叙述措辞，非真实多源冲突。
+- `responder.guardOutput` `missing-unknown-acknowledgement`：合成底座 unknown_points 非空，强制要求"无法确认"措辞，但合成模式已由"联网免责声明"覆盖不确定性。
+**修复**:
+- `freshness/index.js`：`!extraction.hasSynthesized &&` 守护冲突降级。
+- `responder.guardOutput`：`!synthesized &&` 守护未知承认硬检。
+
+### Bug 4：合成免责声明依赖模型随机输出（flaky）
+`responder.generateFreshnessAnswer` 对 `missing-synth-disclaimer` 直接硬拒 → 偶发降级。
+**修复**: 合成底座仅缺免责声明时，**程序化追加**标准免责尾注（确定性满足诚实要求，不丢内容、不降级）：
+`\n\n（以上为网络综合内容，未经独立核实，仅供参考）`。其他违规（空答/归因断定/传记幻觉等）仍硬拒。
+
+## 验证结果
+
+```
+=== Q2-18 e2e（3 问法 × 2 轮，真实调百炼 API）===
+付航是谁            ✅ B类接管 + 含免责声明 + 大专学历信息
+今天有什么科技新闻  ✅ B类接管 + 含免责声明 + 真实新闻条目
+付航的学历是什么    ✅ B类接管 + 含免责声明 + 大专学历核实
+两轮回合均 3 PASS / 0 FAIL
+
+=== Q2-18 分类器回归（8 问法）===
+付航是谁→B / 付航的学历→B / 新闻→B / 新电影→B
+人生意义→A / 论语仁→A / 这件事你怎么看→B(low→澄清) / 明星出轨→D
+8 PASS / 0 FAIL
+```
+
+## 修改文件清单（均非冻结资产）
+| 文件 | 改动 |
+|------|------|
+| `freshness/eventClassifier.js` | 人物身份归 B 前置(②-d) + PERSON_IDENTITY_RE 扩属性问法 |
+| `freshness/responder.js` | 合成底座免 unknown-ack 硬检；缺免责声明程序化追加 |
+| `freshness/index.js` | 合成单源豁免 conflicting_info 降级 |
+
+**冻结资产 SHA 4/4 不变**: corpus.json `db01fbc9…` / intent.js `765ad138…` / rag.js `4fb2dca4…` / knowledgeRouter.js `84890844…`
+
+## 生产入口确认
+`chat/index.js:335` 已将 `models/openid/answerMode/searchProvider/factualEnabled` 传入 `maybeHandle`，真机走与本地 e2e 同一链路（线上用 model_config 的 qwen-plus 生成回答，程序化免责追加兜底消除随机性）。
+
+## 现状
+- ✅ 部署成功（`tcb fn deploy chat --force`）
+- ✅ 人物身份/新闻热点/属性问法 三类均稳定联网
+- ⛔ 未 commit（按惯例留用户）
+- 诚实边界：合成模式无独立来源 URL、置信降级，理论仍有模型综合误差；需"带来源零幻觉"严谨联网可切腾讯云 WSA（Q2-12 适配器 tencentWsaSearch.js 就绪，改 SEARCH_PROVIDER=tencent 即可）

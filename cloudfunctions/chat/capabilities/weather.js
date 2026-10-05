@@ -1,1 +1,153 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIENhcGFiaWxpdHkgTGF5ZXIg4oCUIHdlYXRoZXIuanPvvIjlpKnmsJTog73lipvvvIkKLy8gICBQaGFzZSBS77ya5a6e5pe25aSp5rCU5p+l6K+i44CCCi8vCi8vICAg5LiOIHRpbWUuanMg55qE5pys6LSo5Yy65Yir77yaCi8vICAgICDml7bpl7TmnaXoh6rns7vnu5/ml7bpkp/vvIzmsLjov5zlj6/lvpfvvJvlpKnmsJTkvp3otZblpJbpg6jmlbDmja7mupDvvIzlj6/og73kuI3lj6/lvpfjgIIKLy8gICAgIOWboOatpOacrOaooeWdl+eahOaguOW/g+S4jeaYryLmn6XlpKnmsJQi77yM6ICM5pivKirlnKjmlbDmja7mupDnvLrkvY3ml7blpoLkvZXkvZPpnaLlm57lupQqKuOAggovLwovLyAgIOmTgeW+i++8mgovLyAgICAgwrcg57ud5LiN57yW6YCg5aSp5rCU77yI5LiA5Liq6ZSZ55qE5rip5bqm5Lya6K6p55So5oi356m/6ZSZ6KGj5pyN77yM6L+Z5piv55yf5a6e5Lyk5a6z77yJ44CCCi8vICAgICDCtyDnu53kuI3nlKgi5oiR5peg5rOV6IGU572RIiLmiJHlgZrkuI3liLAi6L+Z57G76Ieq5pud55+t5p2/ICsg5peg5Ye66Lev55qE5Zue562U44CCCi8vICAgICAgIOato+ehruWnv+aAge+8muWjsOaYjuiDveWKm+i+ueeVjCDihpIg57uZ5Y+v6KGM5pu/5Luj6Lev5b6EIOKGkiDkv53nlZnkurrmgKfljJbmlLblsL7jgIIKLy8gICAgIMK3IOaVsOaNrua6kOacqumFjee9ruaYryoq5Lqn5ZOB54q25oCBKirvvIzkuI3mmK8qKuiDveWKm+e8uumZtyoq77yM5o6q6L6e6aG75L2T546w6L+Z5LiA54K544CCCi8vCi8vICAgUHJvdmlkZXIg5omp5bGV54K577ya546v5aKD5Y+Y6YePIFdFQVRIRVJfUFJPVklERVLvvIjpu5jorqQgbm9uZe+8ieOAggovLyAgIOaOpeWFpeecn+Wunua6kOaXtuWPqumcgOWunueOsCBmZXRjaEZyb21Qcm92aWRlcu+8jOWFtuS9memTvui3r+S4jeWKqOOAggovLwovLyAgIOacrOaooeWdl+S4jei/m+WFpeefpeivhuW6k+OAgeS4jei/m+WFpSBlbWJlZGRpbmfjgIHkuI3lvbHlk40gUkFH44CCCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQondXNlIHN0cmljdCc7Cgp2YXIgaHR0cHMgPSByZXF1aXJlKCdodHRwcycpOwoKdmFyIFBST1ZJREVSID0gKHByb2Nlc3MuZW52LldFQVRIRVJfUFJPVklERVIgfHwgJ25vbmUnKS50b0xvd2VyQ2FzZSgpOwp2YXIgUFJPVklERVJfS0VZID0gcHJvY2Vzcy5lbnYuV0VBVEhFUl9BUElfS0VZIHx8ICcnOwp2YXIgVElNRU9VVF9NUyA9IHBhcnNlSW50KHByb2Nlc3MuZW52LldFQVRIRVJfVElNRU9VVF9NUyB8fCAnMzAwMCcsIDEwKTsKCi8qKiDmnIDlsI8gaHR0cHMgR0VU77yITm9kZSAxNi4xMyDml6Dljp/nlJ8gZmV0Y2jvvIznpoHmraLlvJXlhaXmlrDkvp3otZbvvIkgKi8KZnVuY3Rpb24gaHR0cEdldEpzb24odXJsLCB0aW1lb3V0TXMpIHsKICByZXR1cm4gbmV3IFByb21pc2UoZnVuY3Rpb24gKHJlc29sdmUpIHsKICAgIHZhciBkb25lID0gZmFsc2U7CiAgICB2YXIgZmluaXNoID0gZnVuY3Rpb24gKHIpIHsgaWYgKCFkb25lKSB7IGRvbmUgPSB0cnVlOyByZXNvbHZlKHIpOyB9IH07CiAgICB0cnkgewogICAgICB2YXIgcmVxID0gaHR0cHMuZ2V0KHVybCwgZnVuY3Rpb24gKHJlcykgewogICAgICAgIHZhciBib2R5ID0gJyc7CiAgICAgICAgcmVzLm9uKCdkYXRhJywgZnVuY3Rpb24gKGMpIHsgYm9keSArPSBjOyB9KTsKICAgICAgICByZXMub24oJ2VuZCcsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgIGZpbmlzaCh7IG9rOiB0cnVlLCBkYXRhOiBKU09OLnBhcnNlKGJvZHkpIH0pOwogICAgICAgICAgfSBjYXRjaCAoZSkgewogICAgICAgICAgICBmaW5pc2goeyBvazogZmFsc2UsIHJlYXNvbjogJ2JhZF9qc29uJyB9KTsKICAgICAgICAgIH0KICAgICAgICB9KTsKICAgICAgfSk7CiAgICAgIHJlcS5vbignZXJyb3InLCBmdW5jdGlvbiAoKSB7IGZpbmlzaCh7IG9rOiBmYWxzZSwgcmVhc29uOiAnbmV0d29ya19lcnJvcicgfSk7IH0pOwogICAgICByZXEuc2V0VGltZW91dCh0aW1lb3V0TXMgfHwgVElNRU9VVF9NUywgZnVuY3Rpb24gKCkgewogICAgICAgIHJlcS5kZXN0cm95KCk7CiAgICAgICAgZmluaXNoKHsgb2s6IGZhbHNlLCByZWFzb246ICd0aW1lb3V0JyB9KTsKICAgICAgfSk7CiAgICB9IGNhdGNoIChlKSB7CiAgICAgIGZpbmlzaCh7IG9rOiBmYWxzZSwgcmVhc29uOiAnbmV0d29ya19lcnJvcicgfSk7CiAgICB9CiAgfSk7Cn0KCi8qKgogKiDnnJ/lrp7mlbDmja7mupDmjqXlhaXngrnvvIhQaGFzZSBSMiDlkK/nlKjvvInjgIIKICog5b2T5YmNIFBST1ZJREVSPW5vbmXvvJrnm7TmjqXov5Tlm57kuI3lj6/nlKjvvIzotbDog73lipvovrnnlYzlo7DmmI7jgIIKICovCmFzeW5jIGZ1bmN0aW9uIGZldGNoRnJvbVByb3ZpZGVyKGNpdHkpIHsKICBpZiAoUFJPVklERVIgPT09ICdub25lJyB8fCAhUFJPVklERVJfS0VZKSB7CiAgICByZXR1cm4geyBvazogZmFsc2UsIHJlYXNvbjogJ25vX3Byb3ZpZGVyJyB9OwogIH0KICAvLyDpooTnlZnvvJrmjIkgcHJvdmlkZXIg5ou86KOF6K+35rGC44CC5pyq6aqM6K+B55qE5rqQ5LiN5YWB6K645LiK57q/77yM5pWF5q2k5aSE5L+d5oyB5L+d5a6I44CCCiAgdmFyIHVybCA9IHByb2Nlc3MuZW52LldFQVRIRVJfQVBJX1VSTCB8fCAnJzsKICBpZiAoIXVybCkgcmV0dXJuIHsgb2s6IGZhbHNlLCByZWFzb246ICdub19wcm92aWRlcicgfTsKICB2YXIgZnVsbCA9IHVybAogICAgLnJlcGxhY2UoJ3tjaXR5fScsIGVuY29kZVVSSUNvbXBvbmVudChjaXR5IHx8ICcnKSkKICAgIC5yZXBsYWNlKCd7a2V5fScsIGVuY29kZVVSSUNvbXBvbmVudChQUk9WSURFUl9LRVkpKTsKICB2YXIgcmVzID0gYXdhaXQgaHR0cEdldEpzb24oZnVsbCwgVElNRU9VVF9NUyk7CiAgaWYgKCFyZXMub2spIHJldHVybiB7IG9rOiBmYWxzZSwgcmVhc29uOiByZXMucmVhc29uIH07CiAgcmV0dXJuIHsgb2s6IHRydWUsIHJhdzogcmVzLmRhdGEgfTsKfQoKLy8g5LuO6Zeu5Y+l6YeM5bC95Yqb5o+Q5Y+W5Z+O5biC77yI5rKh5pyJ5bCx5LiN54yc77yJCnZhciBDSVRZX1JFID0gLyhbXHU0ZTAwLVx1OWZhNV17Miw4fT8pKOW4gnzljLp85Y6/KT9ccyoo5LuK5aSpfOaYjuWkqXzlkI7lpKl8546w5ZyofOeahCk/XHMqKOWkqeawlHzmsJTmuKl85rip5bqmKS91OwpmdW5jdGlvbiBleHRyYWN0Q2l0eShxdWVyeSkgewogIHZhciBxID0gKHF1ZXJ5IHx8ICcnKS50b1N0cmluZygpOwogIHZhciBtID0gcS5tYXRjaChDSVRZX1JFKTsKICBpZiAoIW0pIHJldHVybiAnJzsKICB2YXIgYyA9IChtWzFdIHx8ICcnKS50cmltKCk7CiAgLy8g6L+H5ruk5o6J5pe26Ze06K+N5LiO5rOb5oyH6K+N6KKr6K+v5b2T5Z+O5biCCiAgaWYgKC9eKOS7iuWkqXzmmI7lpKl85ZCO5aSpfOeOsOWcqHzlpJbpnaJ85aSW5aS0fOi/mei+uXzpgqPovrl86L+Z6YeMfOmCo+mHjHzmiJHku6x85L2g5LusfOS4gOS4i3zor7fpl64pJC91LnRlc3QoYykpIHJldHVybiAnJzsKICBpZiAoYy5sZW5ndGggPCAyKSByZXR1cm4gJyc7CiAgcmV0dXJuIGM7Cn0KCi8vIOiDveWKm+i+ueeVjOWjsOaYju+8iOaVsOaNrua6kOe8uuS9jeaXtueahOagh+WHhuWbnuW6lO+8iQpmdW5jdGlvbiBib3VuZGFyeVRleHQoY2l0eSwgaGFzQ2l0eSkgewogIHZhciB3aGVyZSA9IGhhc0NpdHkgPyBjaXR5IDogJ+S9oOaJgOWcqOeahOWfjuW4gic7CiAgcmV0dXJuICflpKnmsJTov5nnsbvlrp7ml7bmlbDmja7vvIzmiJHov5nph4zov5jmsqHmnInmjqXlhaXlj6/kv6HnmoTmsJTosaHmlbDmja7mupDvvIzmiYDku6XkuI3og73nu5nkvaDkuIDkuKrlhbfkvZPnmoTmuKnluqbmiJbpmY3pm6jmpoLnjofigJTigJQnICsKICAgICfov5nnp43kuovlroHlj6/kuI3or7TvvIzkuZ/kuI3og73or7TplJnvvIznqb/plJnooaPmnI3jgIHmsqHluKbkvJ7pg73mmK/lrp7lrp7lnKjlnKjnmoTpurvng6bjgIInICsKICAgICfmn6UnICsgd2hlcmUgKyAn55qE5a6e5pe25aSp5rCU77yM5omL5py66Ieq5bim55qE5aSp5rCU5bqU55So5oiW5b6u5L+h5pCc57SiIuWkqeawlCLpg73mmK/lh6Dnp5Lpkp/nmoTkuovjgIInOwp9CgovLyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KLy8gcmVzb2x2ZSh7IHF1ZXJ5LCBzdWJUeXBlIH0pCi8vICAg6L+U5ZueIHsgb2ssIGNhcGFiaWxpdHksIGZhY3QsIGRhdGEsIHJlYXNvbiB9Ci8vICAgb2s9ZmFsc2Ug6KGo56S65peg5rOV57uZ5Ye65LqL5a6e77yM5L2GIGZhY3Qg5LuN5piv5LiA5q615Y+v55u05o6l5L2/55So55qE6K+a5a6e5Zue5bqU44CCCi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQphc3luYyBmdW5jdGlvbiByZXNvbHZlKGlucHV0KSB7CiAgaW5wdXQgPSBpbnB1dCB8fCB7fTsKICB2YXIgcXVlcnkgPSAoaW5wdXQucXVlcnkgfHwgJycpLnRvU3RyaW5nKCk7CiAgdmFyIGNpdHkgPSBleHRyYWN0Q2l0eShxdWVyeSk7CgogIHZhciBnb3QgPSBhd2FpdCBmZXRjaEZyb21Qcm92aWRlcihjaXR5KTsKICBpZiAoIWdvdC5vaykgewogICAgcmV0dXJuIHsKICAgICAgb2s6IGZhbHNlLAogICAgICBjYXBhYmlsaXR5OiAnd2VhdGhlcl9xdWVyeScsCiAgICAgIHN1YlR5cGU6IGlucHV0LnN1YlR5cGUgfHwgJ3RvZGF5JywKICAgICAgcmVhc29uOiBnb3QucmVhc29uIHx8ICdub19wcm92aWRlcicsCiAgICAgIGZhY3Q6IGJvdW5kYXJ5VGV4dChjaXR5LCAhIWNpdHkpLAogICAgICBkYXRhOiB7IGNpdHk6IGNpdHksIHByb3ZpZGVyOiBQUk9WSURFUiB9LAogICAgfTsKICB9CgogIC8vIOW3suaOpeWFpeecn+Wunua6kOaXtueahOagvOW8j+WMlu+8iOWtl+auteWQjemajyBwcm92aWRlciDogIzlrprvvIzmraTlpITlgZrpmLLlvqHlvI/or7vlj5bvvIkKICB2YXIgcmF3ID0gZ290LnJhdyB8fCB7fTsKICB2YXIgdGVtcCA9IHJhdy50ZW1wICE9PSB1bmRlZmluZWQgPyByYXcudGVtcCA6IChyYXcudGVtcGVyYXR1cmUgIT09IHVuZGVmaW5lZCA/IHJhdy50ZW1wZXJhdHVyZSA6IG51bGwpOwogIHZhciB0ZXh0ID0gcmF3LnRleHQgfHwgcmF3LndlYXRoZXIgfHwgJyc7CiAgaWYgKHRlbXAgPT09IG51bGwgJiYgIXRleHQpIHsKICAgIHJldHVybiB7CiAgICAgIG9rOiBmYWxzZSwKICAgICAgY2FwYWJpbGl0eTogJ3dlYXRoZXJfcXVlcnknLAogICAgICBzdWJUeXBlOiBpbnB1dC5zdWJUeXBlIHx8ICd0b2RheScsCiAgICAgIHJlYXNvbjogJ2luY29tcGxldGVfZGF0YScsCiAgICAgIGZhY3Q6IGJvdW5kYXJ5VGV4dChjaXR5LCAhIWNpdHkpLAogICAgICBkYXRhOiB7IGNpdHk6IGNpdHksIHByb3ZpZGVyOiBQUk9WSURFUiB9LAogICAgfTsKICB9CgogIHZhciBwYXJ0cyA9IFtdOwogIGlmIChjaXR5KSBwYXJ0cy5wdXNoKGNpdHkpOwogIHBhcnRzLnB1c2goJ+W9k+WJjScpOwogIGlmICh0ZXh0KSBwYXJ0cy5wdXNoKHRleHQpOwogIGlmICh0ZW1wICE9PSBudWxsKSBwYXJ0cy5wdXNoKHRlbXAgKyAn4oSDJyk7CgogIHJldHVybiB7CiAgICBvazogdHJ1ZSwKICAgIGNhcGFiaWxpdHk6ICd3ZWF0aGVyX3F1ZXJ5JywKICAgIHN1YlR5cGU6IGlucHV0LnN1YlR5cGUgfHwgJ3RvZGF5JywKICAgIGZhY3Q6IHBhcnRzLmpvaW4oJyAnKSArICfjgILvvIjmlbDmja7mnaXmupDvvJonICsgUFJPVklERVIgKyAn77yJJywKICAgIGRhdGE6IHsgY2l0eTogY2l0eSwgcHJvdmlkZXI6IFBST1ZJREVSLCB0ZW1wOiB0ZW1wLCB0ZXh0OiB0ZXh0IH0sCiAgfTsKfQoKbW9kdWxlLmV4cG9ydHMgPSB7CiAgcmVzb2x2ZTogcmVzb2x2ZSwKICBleHRyYWN0Q2l0eTogZXh0cmFjdENpdHksCiAgYm91bmRhcnlUZXh0OiBib3VuZGFyeVRleHQsCiAgUFJPVklERVI6IFBST1ZJREVSLAp9Owo=
+// ============================================================
+// Capability Layer — weather.js（天气能力）
+//   Phase R：实时天气查询。
+//
+//   与 time.js 的本质区别：
+//     时间来自系统时钟，永远可得；天气依赖外部数据源，可能不可得。
+//     因此本模块的核心不是"查天气"，而是**在数据源缺位时如何体面回应**。
+//
+//   铁律：
+//     · 绝不编造天气（一个错的温度会让用户穿错衣服，这是真实伤害）。
+//     · 绝不用"我无法联网""我做不到"这类自曝短板 + 无出路的回答。
+//       正确姿态：声明能力边界 → 给可行替代路径 → 保留人性化收尾。
+//     · 数据源未配置是**产品状态**，不是**能力缺陷**，措辞须体现这一点。
+//
+//   Provider 扩展点：环境变量 WEATHER_PROVIDER（默认 none）。
+//   接入真实源时只需实现 fetchFromProvider，其余链路不动。
+//
+//   本模块不进入知识库、不进入 embedding、不影响 RAG。
+// ============================================================
+'use strict';
+
+var https = require('https');
+
+var PROVIDER = (process.env.WEATHER_PROVIDER || 'none').toLowerCase();
+var PROVIDER_KEY = process.env.WEATHER_API_KEY || '';
+var TIMEOUT_MS = parseInt(process.env.WEATHER_TIMEOUT_MS || '3000', 10);
+
+/** 最小 https GET（Node 16.13 无原生 fetch，禁止引入新依赖） */
+function httpGetJson(url, timeoutMs) {
+  return new Promise(function (resolve) {
+    var done = false;
+    var finish = function (r) { if (!done) { done = true; resolve(r); } };
+    try {
+      var req = https.get(url, function (res) {
+        var body = '';
+        res.on('data', function (c) { body += c; });
+        res.on('end', function () {
+          try {
+            finish({ ok: true, data: JSON.parse(body) });
+          } catch (e) {
+            finish({ ok: false, reason: 'bad_json' });
+          }
+        });
+      });
+      req.on('error', function () { finish({ ok: false, reason: 'network_error' }); });
+      req.setTimeout(timeoutMs || TIMEOUT_MS, function () {
+        req.destroy();
+        finish({ ok: false, reason: 'timeout' });
+      });
+    } catch (e) {
+      finish({ ok: false, reason: 'network_error' });
+    }
+  });
+}
+
+/**
+ * 真实数据源接入点（Phase R2 启用）。
+ * 当前 PROVIDER=none：直接返回不可用，走能力边界声明。
+ */
+async function fetchFromProvider(city) {
+  if (PROVIDER === 'none' || !PROVIDER_KEY) {
+    return { ok: false, reason: 'no_provider' };
+  }
+  // 预留：按 provider 拼装请求。未验证的源不允许上线，故此处保持保守。
+  var url = process.env.WEATHER_API_URL || '';
+  if (!url) return { ok: false, reason: 'no_provider' };
+  var full = url
+    .replace('{city}', encodeURIComponent(city || ''))
+    .replace('{key}', encodeURIComponent(PROVIDER_KEY));
+  var res = await httpGetJson(full, TIMEOUT_MS);
+  if (!res.ok) return { ok: false, reason: res.reason };
+  return { ok: true, raw: res.data };
+}
+
+// 从问句里尽力提取城市（没有就不猜）
+var CITY_RE = /([\u4e00-\u9fa5]{2,8}?)(市|区|县)?\s*(今天|明天|后天|现在|的)?\s*(天气|气温|温度)/u;
+function extractCity(query) {
+  var q = (query || '').toString();
+  var m = q.match(CITY_RE);
+  if (!m) return '';
+  var c = (m[1] || '').trim();
+  // 过滤掉时间词与泛指词被误当城市
+  if (/^(今天|明天|后天|现在|外面|外头|这边|那边|这里|那里|我们|你们|一下|请问)$/u.test(c)) return '';
+  if (c.length < 2) return '';
+  return c;
+}
+
+// 能力边界声明（数据源缺位时的标准回应）
+function boundaryText(city, hasCity) {
+  var where = hasCity ? city : '你所在的城市';
+  return '天气这类实时数据，我这里还没有接入可信的气象数据源，所以不能给你一个具体的温度或降雨概率——' +
+    '这种事宁可不说，也不能说错，穿错衣服、没带伞都是实实在在的麻烦。' +
+    '查' + where + '的实时天气，手机自带的天气应用或微信搜索"天气"都是几秒钟的事。';
+}
+
+// ------------------------------------------------------------
+// resolve({ query, subType })
+//   返回 { ok, capability, fact, data, reason }
+//   ok=false 表示无法给出事实，但 fact 仍是一段可直接使用的诚实回应。
+// ------------------------------------------------------------
+async function resolve(input) {
+  input = input || {};
+  var query = (input.query || '').toString();
+  var city = extractCity(query);
+
+  var got = await fetchFromProvider(city);
+  if (!got.ok) {
+    return {
+      ok: false,
+      capability: 'weather_query',
+      subType: input.subType || 'today',
+      reason: got.reason || 'no_provider',
+      fact: boundaryText(city, !!city),
+      data: { city: city, provider: PROVIDER },
+    };
+  }
+
+  // 已接入真实源时的格式化（字段名随 provider 而定，此处做防御式读取）
+  var raw = got.raw || {};
+  var temp = raw.temp !== undefined ? raw.temp : (raw.temperature !== undefined ? raw.temperature : null);
+  var text = raw.text || raw.weather || '';
+  if (temp === null && !text) {
+    return {
+      ok: false,
+      capability: 'weather_query',
+      subType: input.subType || 'today',
+      reason: 'incomplete_data',
+      fact: boundaryText(city, !!city),
+      data: { city: city, provider: PROVIDER },
+    };
+  }
+
+  var parts = [];
+  if (city) parts.push(city);
+  parts.push('当前');
+  if (text) parts.push(text);
+  if (temp !== null) parts.push(temp + '℃');
+
+  return {
+    ok: true,
+    capability: 'weather_query',
+    subType: input.subType || 'today',
+    fact: parts.join(' ') + '。（数据来源：' + PROVIDER + '）',
+    data: { city: city, provider: PROVIDER, temp: temp, text: text },
+  };
+}
+
+module.exports = {
+  resolve: resolve,
+  extractCity: extractCity,
+  boundaryText: boundaryText,
+  PROVIDER: PROVIDER,
+};

@@ -1,1 +1,32 @@
-ewogICJpZCI6ICJkYW9kZWppbmciLAogICJ0aXRsZSI6ICLpgZPlvrfnu48iLAogICJhdXRob3IiOiAi6ICB5a2Q77yI5p2O6ICz77yJIiwKICAidHJhbnNsYXRvciI6IG51bGwsCiAgInNvdXJjZSI6ICLku6XnjovlvLzmnKzkvZzmoKHli5jlj4LogIPvvIjoioLpgInvvIkiLAogICJlZGl0aW9uIjogIueOi+W8vOacrOOAiumBk+W+t+e7j+OAi+agoeWLmOWPguiAgyIsCiAgInB1Ymxpc2hlciI6IG51bGwsCiAgInllYXIiOiAi5pil56eL77yI57qm5YWs5YWD5YmNNuS4lue6qu+8iSIsCiAgImNvcHlyaWdodF9zdGF0dXMiOiAicHVibGljLWRvbWFpbiIsCiAgImxpY2Vuc2Vfbm90ZSI6ICJDQzAgLyDlhazmnInpoobln5/vvIjljp/mlofvvIkiLAogICJ2ZXJpZmljYXRpb25fZGF0ZSI6ICIyMDI2LTA3LTI2IiwKICAiY2F0ZWdvcnkiOiAi5Lit5Zu95ZOy5a2mIiwKICAicGVyc3BlY3RpdmUiOiAi6YGT5a62IiwKICAidGhlbWVzIjogWyLoh6rnhLYiLCAi5p+U5byxIiwgIuS4jeS6iSIsICLoh6rnn6UiLCAi5peg5Li6IiwgIuassuacmyIsICLlhoXogJciXSwKICAicHJvYmxlbV90YWdzIjogWyLlhoXogJciLCAi54Sm6JmRIiwgIuassuacmyIsICLoh6rnn6UiLCAi6aG65YW26Ieq54S2IiwgIuS4jeS6iSIsICLlkozoh6rlt7Hlkozop6MiLCAi5YeP5bCR5YaF6ICXIiwgIuaUvuS4iyJdLAogICJ1c2VyX3F1ZXN0aW9ucyI6IFsKICAgICLlpoLkvZXkuI7oh6rlt7Hlkozop6MiLAogICAgIuaAjuagt+WHj+WwkeWGheiAlyIsCiAgICAi5Li65LuA5LmI6LaK5oOz5o6n5Yi26LaK57SvIiwKICAgICLlpoLkvZXorqTor4boh6rlt7EiCiAgXSwKICAic2NlbmFyaW9zIjogWyLoh6rmiJHlkozop6MiLCAi5oOF57uq5YaF6ICXIiwgIuiHquaIkeiupOivhiIsICLnlJ/mtLvoioLlpY8iXSwKICAiYXV0aG9yaXR5X2xldmVsIjogNSwKICAiY2l0YXRpb24iOiB7ICJ0ZW1wbGF0ZSI6ICLjgIp7dGl0bGV9wrd7c2VjdGlvbn3jgIsiLCAiZXhhbXBsZSI6ICLjgIrpgZPlvrfnu4/Ct+esrOS4ieWNgeS4ieeroOOAiyIgfSwKICAibGFuZ3VhZ2UiOiAiemgiLAogICJzb3VyY2VfdHlwZSI6ICJhbmNpZW50LXRleHQiLAogICJjaGFwdGVyX3NwbGl0IjogImJ5LWNoYXB0ZXIiLAogICJsZWdhbENvbmZpcm0iOiB0cnVlLAogICJzdGF0dXMiOiAicmVhZHkiLAogICJub3RlcyI6ICLoioLpgInnrKzkuIDjgIHlhavjgIHkuozljYHkupTjgIHkuInljYHkuInnq6DjgIIiCn0K
+{
+  "id": "daodejing",
+  "title": "道德经",
+  "author": "老子（李耳）",
+  "translator": null,
+  "source": "以王弼本作校勘参考（节选）",
+  "edition": "王弼本《道德经》校勘参考",
+  "publisher": null,
+  "year": "春秋（约公元前6世纪）",
+  "copyright_status": "public-domain",
+  "license_note": "CC0 / 公有领域（原文）",
+  "verification_date": "2026-07-26",
+  "category": "中国哲学",
+  "perspective": "道家",
+  "themes": ["自然", "柔弱", "不争", "自知", "无为", "欲望", "内耗"],
+  "problem_tags": ["内耗", "焦虑", "欲望", "自知", "顺其自然", "不争", "和自己和解", "减少内耗", "放下"],
+  "user_questions": [
+    "如何与自己和解",
+    "怎样减少内耗",
+    "为什么越想控制越累",
+    "如何认识自己"
+  ],
+  "scenarios": ["自我和解", "情绪内耗", "自我认识", "生活节奏"],
+  "authority_level": 5,
+  "citation": { "template": "《{title}·{section}》", "example": "《道德经·第三十三章》" },
+  "language": "zh",
+  "source_type": "ancient-text",
+  "chapter_split": "by-chapter",
+  "legalConfirm": true,
+  "status": "ready",
+  "notes": "节选第一、八、二十五、三十三章。"
+}

@@ -1,1 +1,170 @@
-IyBQaGFzZSBRMi0xN++8muiBlOe9keaQnOe0oui2heaXtuagueWboOS/ruWkjQoKKirml6XmnJ8qKjogMjAyNi0wOC0wNyAyMToxMyAgCioq54q25oCBKio6IOKchSBDT01QTEVURUQgLyDlt7Lpg6jnvbIgIAoqKuinpuWPkSoqOiDnlKjmiLflj43ppogi6L+Y5piv5LiN6KGMIuKAlOKAlOaIquWbvuaYvuekuiBwZXJzb25faWRlbnRpdHlfYm91bmRhcnkg6ZmN57qn5qih5p2/CgojIyDpl67popjnjrDosaEKCueUqOaIt+WcqOWwj+eoi+W6j+mXriLku5joiKrmmK/osIEi77yM5Zue562U5Li677yaCgo+IOWFs+S6jui/meS4quS6uueahOWFt+S9k+iDjOaZr++8iOWtpuWOhuOAgee7j+WOhuOAgeWxpeWOhuetie+8ie+8jOaIkeayoeacieWPr+mdoOeahOS/oeaBr+adpea6kOWPr+S7peaguOWunu+8jOS4jeiDveWHreWNsOixoee7meS9oOe7huiKguKAlOKAlOi/meexu+S/oeaBr+mUmeS4gOWkhOWwseWPr+iDveivr+WvvOS9oOOAggoK6L+Z5pivIGBkb3duZ3JhZGUuanNgIOeahCBgUEVSU09OX0lERU5USVRZX1RFTVBMQVRFU2Ag6ZmN57qn5paH5qGI77yM6K+05piO6ZO+6Lev6LWw5Yiw5LqG77yaCjEuIGV2ZW50Q2xhc3NpZmllciDmraPnoa7lvZLkuLogQiDnsbvvvIhwZXJzb24taWRlbnRpdHnvvIninIUKMi4gZnJlc2huZXNzL2luZGV4LmpzIOi/m+WFpSBDYXRlZ29yeSBCIOWujOaVtOmTvui3ryDinIUKMy4gYHNlYXJjaExheWVyLnNlYXJjaCgpYCDov5Tlm54gYCFyZXRyaWV2YWwub2sgfHwgIXJlc3VsdHMubGVuZ3RoYCDinYwg4oaSIOmZjee6pwoKIyMg5qC55Zug5YiG5p6Q77yI5LiJ5bGCYnVn5Y+g5Yqg77yJCgojIyMgQnVnIDE6IFVSTCDmi7zmjqXnvLrlpLHvvIhIVFRQIDQwNO+8iQoKKirmlofku7YqKjogYHByb3ZpZGVycy9zZWFyY2gvcXdlblNlYXJjaC5qczoxMTItMTE1YAoK546v5aKD5Y+Y6YeP5YiG5pSv55u05o6l5L2/55SoIGBRV0VOX1NFQVJDSF9CQVNFX1VSTGAg5Y6f5YC85L2c5Li66K+35rGCIFVSTO+8mgoKYGBgamF2YXNjcmlwdAovLyDkv67lpI3liY3vvIjinYwg57y65bCRIC9jaGF0L2NvbXBsZXRpb25z77yJCmlmIChlbnZCYXNlKSB7CiAgICBiYXNlVXJsID0gZW52QmFzZTsgIC8vICJodHRwczovL2Rhc2hzY29wZS5hbGl5dW5jcy5jb20vY29tcGF0aWJsZS1tb2RlL3YxIgp9CmBgYAoK6ICMIG1vZGVsQ29uZmlnIOWIhuaUr++8iOesrDExOOihjO+8ieacieato+ehrueahOaLvOaOpemAu+i+ke+8mgoKYGBgamF2YXNjcmlwdAovLyBtb2RlbENvbmZpZyDliIbmlK/vvIjinIUg5q2j56Gu77yJCmJhc2VVcmwgPSBtYy5iYXNlVVJMLnJlcGxhY2UoL1wvKyQvLCAnJykucmVwbGFjZSgvXC9jaGF0XC9jb21wbGV0aW9ucyQvaSwgJycpICsgJy9jaGF0L2NvbXBsZXRpb25zJzsKYGBgCgoqKue7k+aenCoqOiDor7fmsYLlj5HliLAgYC92MWDvvIjnm67lvZXvvInogIzpnZ4gYC92MS9jaGF0L2NvbXBsZXRpb25zYO+8iOerr+eCue+8ieKGkiBIVFRQIDQwNAoKIyMjIEJ1ZyAyOiBTRUFSQ0hfVElNRU9VVF9NUyDov4fnn63vvIjkuLvlm6DvvIkKCioq5paH5Lu2Kio6IGBjbG91ZGJhc2VyYy5qc29uYCDihpIg546v5aKD5Y+Y6YePIGBTRUFSQ0hfVElNRU9VVF9NUz0zMDAwYAoKKirlrp7mtYvmlbDmja4qKjoKCnwg5oyH5qCHIHwg5YC8IHwKfC0tLS0tLXwtLS0tLXwKfCDnmb7ngrwgZGVlcHNlZWstdjQtZmxhc2gtMDczMSArIGVuYWJsZV9zZWFyY2gg5a6e6ZmF6ICX5pe2IHwgKio5MDAwfjkyMDBtcyoqIHwKfCBTRUFSQ0hfVElNRU9VVF9NUyDphY3nva4gfCAqKjMwMDBtc++8iDPnp5LvvIkqKiB8Cnwgc2VhcmNoTGF5ZXIgd2l0aFRpbWVvdXQgfCAz56eS5p2A6K+35rGCIOKGkiB0aW1lb3V0IHwKfCB3aXRoUmV0cnkg6YeN6K+V5qyh5pWwIHwgMu+8iOWFsTPmrKHlsJ3or5XvvIkgfAp8IOaAu+etieW+heaXtumXtCB8IH4xMOenkuWQjuacgOe7iCBwcm92aWRlcl9leGNlcHRpb24gfAoKKirlvbHlk40qKjog5Y2z5L2/IFVSTCDmraPnoa7vvIwz56eS6LaF5pe25Lmf5Lya5p2A5q275omA5pyJ5pCc57Si6K+35rGC44CCCgojIyMgQnVnIDM6IGh0dHBQb3N0SnNvbiDmnKrkvKDpgJIgdGltZW91dO+8iOmakOWMv+WboOWtkO+8iQoKKirmlofku7YqKjogYHByb3ZpZGVycy9zZWFyY2gvdXRpbC5qczo3Ni04OWAKCmBgYGphdmFzY3JpcHQKLy8g5L+u5aSN5YmN77yI4p2MIHRpbWVvdXQg5Y+C5pWw6KKr5b+955Wl77yJCmZ1bmN0aW9uIGh0dHBQb3N0SnNvbihub2RlRmV0Y2gsIHVybCwgYm9keSwgaGVhZGVycywgdGltZW91dCkgewogIHJldHVybiBub2RlRmV0Y2godXJsLCB7CiAgICBtZXRob2Q6ICdQT1NUJywKICAgIGhlYWRlcnM6IGhlYWRlcnMgfHwgeyAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nIH0sCiAgICBib2R5OiBKU09OLnN0cmluZ2lmeShib2R5IHx8IHt9KSwKICAgIC8vIOKaoO+4jyB0aW1lb3V0IOWPguaVsOacquS8oOmAku+8gW5vZGVGZXRjaCDnlKjoh6rouqvpu5jorqTlgLwgODAwMG1zCiAgfSkudGhlbiguLi4pCn0KYGBgCgrogIwgYGV2ZW50UmV0cmlldmVyLm5vZGVGZXRjaGDvvIjnrKw0NeihjO+8iem7mOiupCB0aW1lb3V0PTgwMDBtc++8mgoKYGBgamF2YXNjcmlwdAp0aW1lb3V0OiAob3B0aW9ucyAmJiBvcHRpb25zLnRpbWVvdXQpIHx8IDgwMDAsCmBgYAoKKirlj6DliqDmlYjlupQqKjogCi0gcXdlblNlYXJjaCDkvKAgdGltZW91dD04MDAwIOe7mSBodHRwUG9zdEpzb24g4oaSIOiiq+W/veeVpQotIG5vZGVGZXRjaCDnlKjpu5jorqQgODAwMG1zCi0g55m+54K85a6e6ZmFIDkyMDBtcyA+IDgwMDBtcyDihpIgbm9kZUZldGNoIOWGhemDqCB0aW1lb3V0Ci0gc2VhcmNoTGF5ZXIg5aSW5bGCIDE156eSIHdpdGhUaW1lb3V0IOiZveeEtuayoeWIsO+8jOS9huWGheWxgiBQcm9taXNlIOW3siByZWplY3QKCiMjIOS/ruWkjeaWueahiAoKIyMjIEZpeCAxOiBVUkwg5ou85o6l57uf5LiA77yIcXdlblNlYXJjaC5qc++8iQoKYGBgamF2YXNjcmlwdAppZiAoZW52QmFzZSkgewogICAgYmFzZVVybCA9IGVudkJhc2UucmVwbGFjZSgvXC8rJC8sICcnKS5yZXBsYWNlKC9cL2NoYXRcL2NvbXBsZXRpb25zJC9pLCAnJykgKyAnL2NoYXQvY29tcGxldGlvbnMnOwogICAgLy8gLi4uCn0KYGBgCgojIyMgRml4IDI6IOi2heaXtuaUvuWuve+8iGNsb3VkYmFzZXJjLmpzb27vvIkKCmBgYGRpZmYKLSAiU0VBUkNIX1RJTUVPVVRfTVMiOiAiMzAwMCIsCisgIlNFQVJDSF9USU1FT1VUX01TIjogIjE1MDAwIiwKYGBgCgojIyMgRml4IDM6IHRpbWVvdXQg6YCP5Lyg77yIdXRpbC5qc++8iQoKYGBgamF2YXNjcmlwdApmdW5jdGlvbiBodHRwUG9zdEpzb24obm9kZUZldGNoLCB1cmwsIGJvZHksIGhlYWRlcnMsIHRpbWVvdXQpIHsKICByZXR1cm4gbm9kZUZldGNoKHVybCwgewogICAgbWV0aG9kOiAnUE9TVCcsCiAgICBoZWFkZXJzOiBoZWFkZXJzIHx8IHsgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJyB9LAogICAgYm9keTogSlNPTi5zdHJpbmdpZnkoYm9keSB8fCB7fSksCisgICB0aW1lb3V0OiB0aW1lb3V0IHx8IDIwMDAwLCAgLy8g4pyFIOecn+ato+S8oOmAkue7mSBub2RlRmV0Y2gKICB9KS50aGVuKC4uLikKfQoKZnVuY3Rpb24gaHR0cEdldEpzb24obm9kZUZldGNoLCB1cmwsIGhlYWRlcnMsIHRpbWVvdXQpIHsKICByZXR1cm4gbm9kZUZldGNoKHVybCwgewogICAgbWV0aG9kOiAnR0VUJywKICAgIGhlYWRlcnM6IGhlYWRlcnMgfHwge30sCisgICB0aW1lb3V0OiB0aW1lb3V0IHx8IDIwMDAwLCAgLy8g4pyFIOWQjOatpeS/ruWkjQogIH0pLnRoZW4oLi4uKQp9CmBgYAoKIyMjIEZpeCA0OiBxd2VuU2VhcmNoIOWGhemDqOi2heaXtuWvuem9kO+8iHF3ZW5TZWFyY2guanPvvIkKCmBgYGRpZmYKLSByZXR1cm4gdXRpbC5odHRwUG9zdEpzb24obm9kZUZldGNoLCBiYXNlVXJsLCBib2R5LCBoZWFkZXJzLCA4MDAwKS50aGVuKC4uLikKKyByZXR1cm4gdXRpbC5odHRwUG9zdEpzb24obm9kZUZldGNoLCBiYXNlVXJsLCBib2R5LCBoZWFkZXJzLCAxNTAwMCkudGhlbiguLi4pCmBgYAoKIyMg6aqM6K+B57uT5p6cCgpgYGAKPT09IFEyLTE3IOerr+WIsOerr+mqjOivge+8mjE156eS6LaF5pe25LiL5pCc57Si6ZO+6LevID09PQoK44CQ5Y2V5YWDMeOAkXF3ZW5TZWFyY2gg55u05o6l6LCD55m+54K8IEFQSQogIOiAl+aXtjogOTA1MW1zICDinIUgb2s9dHJ1ZSByZWFzb249c3ludGhfY29udGVudCBzeW50aGVzaXplZD10cnVlCiAgc25pcHBldCDljIXlkKsgIuS7mOiIqiIg4pyFICDljIXlkKsgIuWkp+S4kyIg4pyFCgrjgJDljZXlhYMy44CRc2VhcmNoTGF5ZXIg5a6M5pW06ZO+6Lev77yIcHJpdmFjeUdhdGXihpJjYW5hcnlHYXRl4oaScXdlbuKGkndpdGhUaW1lb3V0PTE1c++8iQogIOiAl+aXtjogNzg3NG1zICDinIUgb2s9dHJ1ZSByZWFzb249c3ludGhfY29udGVudCBwcm92aWRlcj1xd2VuCiAgZGF0YV9yb3V0ZT1kb21lc3RpYyDinIUKCuOAkOWNleWFgzPjgJHlm57lvZLpqozor4HvvJoz56eS6LaF5pe25bqUIHRpbWVvdXQKICDinIUgM+enkui2heaXtiDihpIgb2s9ZmFsc2UgcmVhc29uPXRpbWVvdXQKCj09PSDnu5PmnpzvvJoxOSBQQVNTIC8gMCBGQUlMID09PQpgYGAKCiMjIOS/ruaUueaWh+S7tua4heWNlQoKfCDmlofku7YgfCDmlLnliqggfCDlhrvnu5PotYTkuqcgfAp8LS0tLS0tfC0tLS0tLXwtLS0tLS0tLS18CnwgYGNsb3VkYmFzZXJjLmpzb25gIHwgU0VBUkNIX1RJTUVPVVRfTVMgM3PihpIxNXMgfCBOL0HvvIjphY3nva7vvIkgfAp8IGBwcm92aWRlcnMvc2VhcmNoL3F3ZW5TZWFyY2guanNgIHwgVVJM5ou85o6lICsgdGltZW91dCA4c+KGkjE1cyB8IOmdnuWGu+e7kyB8CnwgYHByb3ZpZGVycy9zZWFyY2gvdXRpbC5qc2AgfCBodHRwUG9zdEpzb24vaHR0cEdldEpzb24g6YCP5LygIHRpbWVvdXQgfCDpnZ7lhrvnu5MgfAoKKirlhrvnu5PotYTkuqcgU0hBIDQvNCDkuI3lj5gqKjoKLSBjb3JwdXMuanNvbjogYGRiMDFmYmM5Li4uYAotIGludGVudC5qczogYDc2NWFkMTM4Li4uYAotIHJhZy5qczogYDRmYjJkY2E0Li4uYAotIGtub3dsZWRnZVJvdXRlci5qczogYDg0ODkwODQ0Li4uYAoKIyMg55So5oi35L2T6aqM5Y+Y5YyWCgoqKuS/ruWkjeWJjSoqOiDpl64i5LuY6Iiq5piv6LCBIiDihpIg6ZmN57qn5qih5p2/IuaIkeayoeacieWPr+mdoOadpea6kCIKKirkv67lpI3lkI4qKjog6ZeuIuS7mOiIquaYr+iwgSIg4oaSIOeZvueCvOWQiOaIkOW6leW6p++8iOWQq+Wkp+S4k+WtpuWOhuOAgeiEseWPo+engOWGoOWGm+etieS/oeaBr++8iSsgIuacque7j+eLrOeri+aguOWuniLlhY3otKPlo7DmmI4KCuKaoO+4jyDms6jmhI/vvJrlkIjmiJDlupXluqfmqKHlvI/ml6Dni6znq4vmnaXmupDpk77mjqXvvIznva7kv6HluqbkvY7kuo7nnJ/Ct+aQnOe0okFQSeOAguWQjue7reWPr+WIh+iFvuiur+S6kVdTQeiOt+W+l+W4plVSTOeahOe7k+aehOWMlue7k+aenOOAggo=
+﻿# Phase Q2-17：联网搜索超时根因修复
+
+**日期**: 2026-08-07 21:13  
+**状态**: ✅ COMPLETED / 已部署  
+**触发**: 用户反馈"还是不行"——截图显示 person_identity_boundary 降级模板
+
+## 问题现象
+
+用户在小程序问"付航是谁"，回答为：
+
+> 关于这个人的具体背景（学历、经历、履历等），我没有可靠的信息来源可以核实，不能凭印象给你细节——这类信息错一处就可能误导你。
+
+这是 `downgrade.js` 的 `PERSON_IDENTITY_TEMPLATES` 降级文案，说明链路走到了：
+1. eventClassifier 正确归为 B 类（person-identity）✅
+2. freshness/index.js 进入 Category B 完整链路 ✅
+3. `searchLayer.search()` 返回 `!retrieval.ok || !results.length` ❌ → 降级
+
+## 根因分析（三层bug叠加）
+
+### Bug 1: URL 拼接缺失（HTTP 404）
+
+**文件**: `providers/search/qwenSearch.js:112-115`
+
+环境变量分支直接使用 `QWEN_SEARCH_BASE_URL` 原值作为请求 URL：
+
+```javascript
+// 修复前（❌ 缺少 /chat/completions）
+if (envBase) {
+    baseUrl = envBase;  // "https://dashscope.aliyuncs.com/compatible-mode/v1"
+}
+```
+
+而 modelConfig 分支（第118行）有正确的拼接逻辑：
+
+```javascript
+// modelConfig 分支（✅ 正确）
+baseUrl = mc.baseURL.replace(/\/+$/, '').replace(/\/chat\/completions$/i, '') + '/chat/completions';
+```
+
+**结果**: 请求发到 `/v1`（目录）而非 `/v1/chat/completions`（端点）→ HTTP 404
+
+### Bug 2: SEARCH_TIMEOUT_MS 过短（主因）
+
+**文件**: `cloudbaserc.json` → 环境变量 `SEARCH_TIMEOUT_MS=3000`
+
+**实测数据**:
+
+| 指标 | 值 |
+|------|-----|
+| 百炼 deepseek-v4-flash-0731 + enable_search 实际耗时 | **9000~9200ms** |
+| SEARCH_TIMEOUT_MS 配置 | **3000ms（3秒）** |
+| searchLayer withTimeout | 3秒杀请求 → timeout |
+| withRetry 重试次数 | 2（共3次尝试） |
+| 总等待时间 | ~10秒后最终 provider_exception |
+
+**影响**: 即使 URL 正确，3秒超时也会杀死所有搜索请求。
+
+### Bug 3: httpPostJson 未传递 timeout（隐匿因子）
+
+**文件**: `providers/search/util.js:76-89`
+
+```javascript
+// 修复前（❌ timeout 参数被忽略）
+function httpPostJson(nodeFetch, url, body, headers, timeout) {
+  return nodeFetch(url, {
+    method: 'POST',
+    headers: headers || { 'Content-Type': 'application/json' },
+    body: JSON.stringify(body || {}),
+    // ⚠️ timeout 参数未传递！nodeFetch 用自身默认值 8000ms
+  }).then(...)
+}
+```
+
+而 `eventRetriever.nodeFetch`（第45行）默认 timeout=8000ms：
+
+```javascript
+timeout: (options && options.timeout) || 8000,
+```
+
+**叠加效应**: 
+- qwenSearch 传 timeout=8000 给 httpPostJson → 被忽略
+- nodeFetch 用默认 8000ms
+- 百炼实际 9200ms > 8000ms → nodeFetch 内部 timeout
+- searchLayer 外层 15秒 withTimeout 虽然没到，但内层 Promise 已 reject
+
+## 修复方案
+
+### Fix 1: URL 拼接统一（qwenSearch.js）
+
+```javascript
+if (envBase) {
+    baseUrl = envBase.replace(/\/+$/, '').replace(/\/chat\/completions$/i, '') + '/chat/completions';
+    // ...
+}
+```
+
+### Fix 2: 超时放宽（cloudbaserc.json）
+
+```diff
+- "SEARCH_TIMEOUT_MS": "3000",
++ "SEARCH_TIMEOUT_MS": "15000",
+```
+
+### Fix 3: timeout 透传（util.js）
+
+```javascript
+function httpPostJson(nodeFetch, url, body, headers, timeout) {
+  return nodeFetch(url, {
+    method: 'POST',
+    headers: headers || { 'Content-Type': 'application/json' },
+    body: JSON.stringify(body || {}),
++   timeout: timeout || 20000,  // ✅ 真正传递给 nodeFetch
+  }).then(...)
+}
+
+function httpGetJson(nodeFetch, url, headers, timeout) {
+  return nodeFetch(url, {
+    method: 'GET',
+    headers: headers || {},
++   timeout: timeout || 20000,  // ✅ 同步修复
+  }).then(...)
+}
+```
+
+### Fix 4: qwenSearch 内部超时对齐（qwenSearch.js）
+
+```diff
+- return util.httpPostJson(nodeFetch, baseUrl, body, headers, 8000).then(...)
++ return util.httpPostJson(nodeFetch, baseUrl, body, headers, 15000).then(...)
+```
+
+## 验证结果
+
+```
+=== Q2-17 端到端验证：15秒超时下搜索链路 ===
+
+【单元1】qwenSearch 直接调百炼 API
+  耗时: 9051ms  ✅ ok=true reason=synth_content synthesized=true
+  snippet 包含 "付航" ✅  包含 "大专" ✅
+
+【单元2】searchLayer 完整链路（privacyGate→canaryGate→qwen→withTimeout=15s）
+  耗时: 7874ms  ✅ ok=true reason=synth_content provider=qwen
+  data_route=domestic ✅
+
+【单元3】回归验证：3秒超时应 timeout
+  ✅ 3秒超时 → ok=false reason=timeout
+
+=== 结果：19 PASS / 0 FAIL ===
+```
+
+## 修改文件清单
+
+| 文件 | 改动 | 冻结资产 |
+|------|------|---------|
+| `cloudbaserc.json` | SEARCH_TIMEOUT_MS 3s→15s | N/A（配置） |
+| `providers/search/qwenSearch.js` | URL拼接 + timeout 8s→15s | 非冻结 |
+| `providers/search/util.js` | httpPostJson/httpGetJson 透传 timeout | 非冻结 |
+
+**冻结资产 SHA 4/4 不变**:
+- corpus.json: `db01fbc9...`
+- intent.js: `765ad138...`
+- rag.js: `4fb2dca4...`
+- knowledgeRouter.js: `84890844...`
+
+## 用户体验变化
+
+**修复前**: 问"付航是谁" → 降级模板"我没有可靠来源"
+**修复后**: 问"付航是谁" → 百炼合成底座（含大专学历、脱口秀冠军等信息）+ "未经独立核实"免责声明
+
+⚠️ 注意：合成底座模式无独立来源链接，置信度低于真·搜索API。后续可切腾讯云WSA获得带URL的结构化结果。

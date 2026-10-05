@@ -1,1 +1,300 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIHByb3ZpZGVycy9zZWFyY2gvcXdlblNlYXJjaC5qcwovLyAgIFBoYXNlIFEyLTEz77ya6Zi/6YeM5LqR55m+54K8KERhc2hTY29wZSkg6IGU572R5pCc57SiIFByb3ZpZGVyIEFkYXB0ZXLjgIIKLy8gICAgIOWfuuS6jueUqOaIt+OAjOeOsOacieS4rei9rCBBUEnjgI3mjqXlhaXvvIzlrprkvY3kuLrjgIxxd2Vu44CNcHJvdmlkZXIg5qe95L2N77yMCi8vICAgICDkvZzkuLrnjrDmnIkgc2VhcmNoTGF5ZXIg55qE55yf5a6e5Zu95YaF5qOA57Si5rqQ77yIZGF0YV9yb3V0ZT1kb21lc3RpY++8ieOAggovLwovLyAgIOKaoO+4jyDmnrbmnoTnuqbmnZ/vvIjljJbop6MgUTItMTEg6K+E5Lyw5YWz5YiH77yM5Yqh5b+F6YG15a6I77yJ77yaCi8vICAgICDnmb7ngrwgY2hhdC9jb21wbGV0aW9ucyDlvIDlkK8gZW5hYmxlX3NlYXJjaCDlkI7vvIzlk43lupTlkIzml7bljIXlkKsKLy8gICAgICAgKGEpIGNob2ljZXNbMF0ubWVzc2FnZS5jb250ZW50ICAgICAgICDigJTigJQg5qih5Z6L44CM57u85ZCI5ZCO55qE5Zue562U44CN77yI5Y+v6IO96Ieq6KGM57yW6YCgL+e7vOWQiOWunuaXtuS6i+Wunu+8iQovLyAgICAgICAoYikgY2hvaWNlc1swXS5tZXNzYWdlLmV4dGVuZGVkLnNlYXJjaF9pbmZvLnNlYXJjaF9yZXN1bHRzIOKAlOKAlCDnu5PmnoTljJbmo4DntKLnu5PmnpzmlbDnu4QKLy8gICAgIOacrOmAgumFjeWZqOOAkOWPquaPkOWPliAoYikg5L2c5Li6IHJ1bnRpbWUgY29udGV4dCDlloLnu5kgZmFjdCBleHRyYWN0aW9u44CR77yMCi8vICAgICDjgJDnu53kuI3ph4fnlKggKGEpIOS9nOS4uuS6i+WunuW6leW6p+aIluacgOe7iOetlOahiOOAkeKAlOKAlOS6i+WunumalOemu+S4jiB0ZW5jZW50L2RvbWVzdGljIOWujOWFqOS4gOiHtO+8jAovLyAgICAg5LuO6ICM5raI6ZmkIFEyLTExIOaMh+WHuueahOOAjOaooeWei+W3peWFt+e7lei/h+S6i+WunumalOemu+OAgeiHquihjOe7vOWQiOWunuaXtuS6i+WunuOAjemjjumZqeOAggovLwovLyAgIOiuvuiuoeWOn+WIme+8iOS4juaXouacieecn+WuniBwcm92aWRlciDkuIDoh7TvvInvvJoKLy8gICAgIMK3IOS7heW9kyBRV0VOX1NFQVJDSF9CQVNFX1VSTCDphY3nva7ml7bmiY3ogZTnvZHvvJvlkKbliJnnq4vljbMgb2s6ZmFsc2XvvIhmYWlsLXNvZnTvvInjgIIKLy8gICAgIMK3IOS8oOi+ky9IVFRQIOmUmeivr+eUsSB1dGlsLmh0dHBQb3N0SnNvbiDmipvlh7og4oaSIGluZGV4LmpzIOeahCB3aXRoUmV0cnkg6YeN6K+V77ybCi8vICAgICAgIOatpOWkhOS7heWkhOeQhuOAjOW3suaIkOWKn+i/lOWbnuS9huaXoOWPr+eUqOe7k+aenOOAjeeahOehruWumuaAp+aDheW9ou+8iOi/lOWbniBvazpmYWxzZe+8jOS4jemHjeivle+8ieOAggovLyAgICAgwrcg57uT5p6c57uPIHV0aWwubm9ybWFsaXplUmVzdWx0IOagh+WHhuWMluOAggovLyAgICAgwrcgcHJvdmlkZXIg5ZCN5Zu65a6aICdxd2VuJyDihpIgZGF0YV9yb3V0ZSDmgZLlrpogJ2RvbWVzdGljJ++8iOmYv+mHjOS6keWbveWGheiKgueCue+8jOmbtui3qOWig++8ieOAggovLwovLyAgIOmFjee9ru+8iOeOr+Wig+WPmOmHj++8jOiwg+eUqOaXtuivu+WPlu+8jOaUr+aMgea1i+ivleazqOWFpeS4jumDqOe9suWIh+aNou+8ie+8mgovLyAgICAgUVdFTl9TRUFSQ0hfQkFTRV9VUkwgICAgICAg5b+F6aG777yb5Lit6L2sIEFQSSDnmoQgY2hhdC9jb21wbGV0aW9ucyDnq6/ngrnvvIhPcGVuQUkg5YW85a656Lev5b6E77yJCi8vICAgICBRV0VOX1NFQVJDSF9BUElfS0VZICAgICAgICDlj6/pgInvvJvpibTmnYMgQmVhcmVyIFRva2Vu77yI5Lit6L2s6Iul5bey5Luj5oyB5a+G6ZKl5Y+v55WZ56m677yJCi8vICAgICBRV0VOX1NFQVJDSF9NT0RFTCAgICAgICAgICDmqKHlnovlkI3vvIjpu5jorqQgJ3F3ZW4tcGx1cyfvvIkKLy8gICAgIFFXRU5fU0VBUkNIX0VOQUJMRV9TRUFSQ0ggIOaYr+WQpuW8gOWQr+iBlOe9ke+8iOm7mOiupCAndHJ1ZSfvvIznva4gJ2ZhbHNlJyDlhbPpl63vvIkKLy8gICAgIFFXRU5fU0VBUkNIX1JFU1VMVFNfUEFUSCAgIOajgOe0oue7k+aenOaVsOe7hOWcqOWTjeW6lOS4reeahCBkb3QtcGF0aO+8iOm7mOiupOingeS4i++8iQovLyAgICAgUVdFTl9TRUFSQ0hfRVhUUkFfQk9EWSAgICAg6ZmE5Yqg5Zu65a6aIGJvZHkg5a2X5q6177yISlNPTiDlrZfnrKbkuLLvvIzlj6/pgInvvIzlpoLkuK3ovazopoHmsYLpop3lpJblj4LmlbDvvIkKLy8gICAgIFFXRU5fU0VBUkNIX0ZJRUxEX1RJVExFICAgIOe7k+aenOmhueagh+mimOWtl+aute+8iOm7mOiupCAndGl0bGUn77yJCi8vICAgICBRV0VOX1NFQVJDSF9GSUVMRF9VUkwgICAgICDnu5Pmnpzpobnpk77mjqXlrZfmrrXvvIjpu5jorqQgJ3VybCfvvIkKLy8gICAgIFFXRU5fU0VBUkNIX0ZJRUxEX1NOSVBQRVQgIOe7k+aenOmhueaRmOimgeWtl+aute+8iOm7mOiupCAnY29udGVudCfvvIznvLrlpLHlm57pgIAgc3VtbWFyeS9kZXNjcmlwdGlvbu+8iQovLyAgICAgUVdFTl9TRUFSQ0hfRklFTERfU09VUkNFICAg57uT5p6c6aG55p2l5rqQ5a2X5q6177yI6buY6K6kICd0aXRsZSfvvIkKLy8KLy8gICDimqDvuI8g5pWw5o2u5Ye65aKD6L6555WM77yaZGF0YV9yb3V0ZT1kb21lc3RpYyDnmoTmraPnoa7mgKfkvp3otZbmiYDmjqXlhaUgQVBJIOS4ugovLyAgICAg5Zu95YaF5ZCI6KeE5pyN5Yqh77yI6Zi/6YeM5LqR5Zu95YaF6IqC54K577yM5pyN5Yqh5Zmo5LiO5pWw5o2u5Z2H55WZ5aKD77yJ44CC6YCC6YWN5bGC5LiN5YGa6Leo5aKD5rqQ44CCCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQondXNlIHN0cmljdCc7Cgp2YXIgdXRpbCA9IHJlcXVpcmUoJy4vdXRpbCcpOwovLyBQaGFzZSBRMi0yNu+8muS4ieaooeW8j+S6uuagvOWxgu+8iOmdnuWGu+e7k++8ieOAguS4jiBhZ25lc1NlYXJjaCDlr7nnp7DmjqXlhaXvvIxmYXN04oaS6YCa55So5Yqp5omL77yMdGhpbmvihpLnu5PlkIjkvZPjgIIKLy8g5rOo5oSP77ya5pys5paH5Lu25L2N5LqOIHByb3ZpZGVycy9zZWFyY2gv77yMbW9kZVBlcnNvbmEg5ZyoIGNsb3VkZnVuY3Rpb25zL2NoYXQvIOague+8jOmcgOS4iuS4pOe6p+OAggp2YXIgbW9kZVBlcnNvbmEgPSByZXF1aXJlKCcuLi8uLi9tb2RlUGVyc29uYScpOwoKLy8gLS0tLSDphY3nva7or7vlj5bvvIjosIPnlKjml7bor7vlj5bvvIzkv53or4Hpg6jnvbLliIfmjaLljbPml7bnlJ/mlYjvvIktLS0tCmZ1bmN0aW9uIGNmZyhuYW1lLCBkZWYpIHsKICB2YXIgdiA9IHByb2Nlc3MuZW52W25hbWVdOwogIHJldHVybiAodiA9PT0gdW5kZWZpbmVkIHx8IHYgPT09IG51bGwpID8gZGVmIDogdjsKfQoKLy8gLS0tLSBkb3QtcGF0aCDop6PmnpDvvIhOb2RlMTYg5YW85a6577yM5peg5Y+v6YCJ6ZO+77yJLS0tLQpmdW5jdGlvbiByZXNvbHZlUGF0aChvYmosIHApIHsKICBpZiAoIXAgfHwgIW9iaikgcmV0dXJuIHVuZGVmaW5lZDsKICB2YXIgcGFydHMgPSAoJycgKyBwKS5zcGxpdCgnLicpOwogIHZhciBjdXIgPSBvYmo7CiAgZm9yICh2YXIgaSA9IDA7IGkgPCBwYXJ0cy5sZW5ndGg7IGkrKykgewogICAgaWYgKGN1ciA9PT0gbnVsbCB8fCBjdXIgPT09IHVuZGVmaW5lZCkgcmV0dXJuIHVuZGVmaW5lZDsKICAgIGN1ciA9IGN1cltwYXJ0c1tpXV07CiAgfQogIHJldHVybiBjdXI7Cn0KCi8vIC0tLS0g5qOA57Si57uT5p6c5pWw57uE5o+Q5Y+W77ya5LyY5YWI6Ieq5a6a5LmJ6Lev5b6E77yM5YW25qyh5bi46KeB55m+54K8L0Rhc2hTY29wZSDlvaLnirYgLS0tLQovLyAgIOKaoO+4jyDlj6rlj5Ygc2VhcmNoX3Jlc3VsdHMg5pWw57uE77ybW2JdIG1lc3NhZ2UuY29udGVudO+8iOaooeWei+e7vOWQiOetlOahiO+8ieawuOi/nOS4jeiiq+W8leeUqOOAggpmdW5jdGlvbiBwaWNrUmVzdWx0cyhkYXRhKSB7CiAgaWYgKCFkYXRhIHx8IHR5cGVvZiBkYXRhICE9PSAnb2JqZWN0JykgcmV0dXJuIFtdOwogIC8vIDEpIOeUqOaIt+aYvuW8j+mFjee9ruWtl+aute+8iOaUr+aMgSBkb3QtcGF0aO+8iQogIHZhciBjdXN0b20gPSAoY2ZnKCdRV0VOX1NFQVJDSF9SRVNVTFRTX1BBVEgnLAogICAgJ2Nob2ljZXMuMC5tZXNzYWdlLmV4dGVuZGVkLnNlYXJjaF9pbmZvLnNlYXJjaF9yZXN1bHRzJykgfHwgJycpLnRyaW0oKTsKICBpZiAoY3VzdG9tKSB7CiAgICB2YXIgdiA9IHJlc29sdmVQYXRoKGRhdGEsIGN1c3RvbSk7CiAgICBpZiAoQXJyYXkuaXNBcnJheSh2KSAmJiB2Lmxlbmd0aCkgcmV0dXJuIHY7CiAgfQogIC8vIDIpIOW4uOingeeZvueCvC9EYXNoU2NvcGUg5b2i54q25YWc5bqV5o6i5rWL77yI6YG/5YWN56Gs57yW5Y2V5LiAIEFQSSDnu4boioLvvIzpmY3kvY7nvJbpgKDpo47pmanvvIkKICB2YXIgcHJvYmVzID0gWwogICAgJ2Nob2ljZXMuMC5tZXNzYWdlLmV4dGVuZGVkLnNlYXJjaF9pbmZvLnNlYXJjaF9yZXN1bHRzJywKICAgICdvdXRwdXQuY2hvaWNlcy4wLm1lc3NhZ2UuZXh0ZW5kZWQuc2VhcmNoX2luZm8uc2VhcmNoX3Jlc3VsdHMnLAogICAgJ2Nob2ljZXMuMC5tZXNzYWdlLnNlYXJjaF9pbmZvLnNlYXJjaF9yZXN1bHRzJywKICAgICdjaG9pY2VzLjAubWVzc2FnZS5leHRlbmRlZC5zZWFyY2hfcmVzdWx0cycsCiAgICAnc2VhcmNoX3Jlc3VsdHMnLAogICAgJ3NlYXJjaFJlc3VsdHMnLAogICAgJ3dlYl9zZWFyY2hfcmVzdWx0cycsCiAgICAncmVzdWx0cycKICBdOwogIGZvciAodmFyIGkgPSAwOyBpIDwgcHJvYmVzLmxlbmd0aDsgaSsrKSB7CiAgICB2YXIgYXJyID0gcmVzb2x2ZVBhdGgoZGF0YSwgcHJvYmVzW2ldKTsKICAgIGlmIChBcnJheS5pc0FycmF5KGFycikgJiYgYXJyLmxlbmd0aCkgcmV0dXJuIGFycjsKICB9CiAgcmV0dXJuIFtdOwp9CgovLyAtLS0tIFEyLTE277ya55m+54K8IE9wZW5BSSDlhbzlrrnmqKHlvI/kuI3ov5Tlm57nu5PmnoTljJYgc2VhcmNoX3Jlc3VsdHPvvIwKLy8gICDku4Xov5Tlm57mqKHlnovnu7zlkIjmloflrZcoY2hvaWNlc1swXS5tZXNzYWdlLmNvbnRlbnQp44CC5b2T5peg57uT5p6E5YyW5pWw57uE5pe277yMCi8vICAg6YCA6ICM5Y+WIGNvbnRlbnQg5L2c5Li644CM5qih5Z6L5ZCI5oiQ5LqL5a6e5bqV5bqn44CNKFVOVkVSSUZJRUQp77yM5LuN5Y+XIHJlc3BvbmRlcgovLyAgIOWPjeW5u+inieehrOajgOe6puadn+OAgue7neS4jeaKiiBjb250ZW50IOW9k+acgOe7iOetlOahiOebtOaOpeS4i+WPkeOAggovLyAgIOWPr+eUqCBRV0VOX1NFQVJDSF9TWU5USF9NT0RFPWZhbHNlIOWFs+mXreatpOWbnumAgO+8iOaBouWkjeS4peagvCBub19yZXN1bHRzIOmZjee6p++8ieOAggpmdW5jdGlvbiBwaWNrU3ludGhlc2l6ZWRDb250ZW50KGRhdGEpIHsKICBpZiAoIWRhdGEgfHwgdHlwZW9mIGRhdGEgIT09ICdvYmplY3QnKSByZXR1cm4gJyc7CiAgdmFyIG1zZyA9IGRhdGEuY2hvaWNlcyAmJiBkYXRhLmNob2ljZXNbMF0gJiYgZGF0YS5jaG9pY2VzWzBdLm1lc3NhZ2U7CiAgaWYgKCFtc2cpIHJldHVybiAnJzsKICB2YXIgYyA9IChtc2cuY29udGVudCB8fCAnJykudG9TdHJpbmcoKS50cmltKCk7CiAgaWYgKCFjKSByZXR1cm4gJyc7CiAgLy8g6L+H5ruk5piO5pi+5ouS562UL+epuuazm++8jOmBv+WFjeaKiuOAjOaIkeaXoOazleiOt+WPluWunuaXtuaVsOaNruKApuOAjeW9k+S6i+WunuW6leW6p+OAggogIC8vICAg5Y6f6YC76L6R5Y+q5oumIDw4MCDlrZfnmoTnn63mi5LnrZTvvIzlr7zoh7Tplb/mi5LnrZTvvIjlpoLjgIzmiJHnm67liY3ml6Dms5Xojrflj5blrp7ml7bmlbDmja7vvIzlu7rorq7kvaDigKbjgI3vvIkKICAvLyAgIOiiq+W9k+S9nOacieaViOe7vOWQiOWGheWuuee8k+WtmOS4i+WPke+8jOeUqOaIt+eci+WIsCLkuI3og73ogZTnvZEi44CC5omp5Yiw77ya5Y+l6aaW5ouS562U6K+NKOS7u+aEj+mVv+W6pikKICAvLyAgICsg5Y+l5LitIuaXoOazlS/msqHmnIkgKyDlrp7ml7Yv5pyA5pawL+W9k+WJjSArIOaVsOaNri/kv6Hmga8v6KGM5oOFIuW8uuaLkuetlOS/oeWPt++8jOS4gOW+i+S4ouW8gyDihpIgb2s6ZmFsc2Ug6K+a5a6e6ZmN57qn44CCCiAgaWYgKC9eKOaKseatiXzlr7nkuI3otbd85oiRKOaaguaXtik/KOaXoOazlXzkuI3og7185rKh5pyJfOS4jeWkqua4healmnzmsqHmnInlj6/pnaApKS91LnRlc3QoYykpIHJldHVybiAnJzsKICBpZiAoL+aXoOazlSjojrflj5Z86K6/6ZeufOafpeWIsHzlvpfliLB86L+e5o6lKS57MCw4fSjlrp7ml7Z85pyA5pawfOW9k+WJjXzogZTnvZF8572R57ucKS91LnRlc3QoYykpIHJldHVybiAnJzsKICBpZiAoL+ayoeaciSjlrp7ml7Z85pyA5pawfOW9k+WJjXzlj6/pnaDnmoQ/fOiBlOe9kSkuezAsOH0o5pWw5o2ufOS/oeaBr3zooYzmg4V857uT5p6cKS91LnRlc3QoYykpIHJldHVybiAnJzsKICBpZiAoL+aaguaXtijml6Dms5V85LiN6IO9fOayoeaciSkuezAsMTB9KOaPkOS+m3zojrflj5Z85p+l5YiwfOWbnuetlCkvdS50ZXN0KGMpKSByZXR1cm4gJyc7CiAgcmV0dXJuIGM7Cn0KCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQovLyDlhoXnva4gbm9kZUZldGNo77yIUTItMjHvvJrkuI3kvp3otZblpJbpg6jkvKDlhaXnmoQgZXZlbnRSZXRyaWV2ZXIubm9kZUZldGNo77yMCi8vICAg6YKj5Liq5a6e546w5pyJ5ZON5bqU5oiq5patL+epuuWGheWuuemXrumimOOAguiHquW7uueJiOacrOS4jiByYWcuanMg55qEIG5vZGVGZXRjaCDlkIzmnoTvvIkKLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmZ1bmN0aW9uIF9ub2RlRmV0Y2godSwgb3B0cykgewogIG9wdHMgPSBvcHRzIHx8IHt9OwogIHJldHVybiBuZXcgUHJvbWlzZShmdW5jdGlvbiAocmVzb2x2ZSwgcmVqZWN0KSB7CiAgICB2YXIgdXJsUCA9IHJlcXVpcmUoJ3VybCcpOwogICAgdmFyIHBhcnNlZCA9IHVybFAucGFyc2UodSk7CiAgICB2YXIgbW9kID0gcGFyc2VkLnByb3RvY29sID09PSAnaHR0cHM6JyA/IHJlcXVpcmUoJ2h0dHBzJykgOiByZXF1aXJlKCdodHRwJyk7CiAgICB2YXIgcmVxT3B0cyA9IHsKICAgICAgaG9zdG5hbWU6IHBhcnNlZC5ob3N0bmFtZSwKICAgICAgcG9ydDogcGFyc2VkLnBvcnQgfHwgKHBhcnNlZC5wcm90b2NvbCA9PT0gJ2h0dHBzOicgPyA0NDMgOiA4MCksCiAgICAgIHBhdGg6IHBhcnNlZC5wYXRobmFtZSArIChwYXJzZWQuc2VhcmNoIHx8ICcnKSwKICAgICAgbWV0aG9kOiAob3B0cy5tZXRob2QgfHwgJ0dFVCcpLnRvVXBwZXJDYXNlKCksCiAgICAgIGhlYWRlcnM6IG9wdHMuaGVhZGVycyB8fCB7fSwKICAgICAgdGltZW91dDogb3B0cy50aW1lb3V0IHx8IDIwMDAwLAogICAgfTsKICAgIHZhciByZXEgPSBtb2QucmVxdWVzdChyZXFPcHRzLCBmdW5jdGlvbiAocmVzKSB7CiAgICAgIHZhciBjaHVua3MgPSBbXTsKICAgICAgcmVzLm9uKCdkYXRhJywgZnVuY3Rpb24gKGMpIHsgY2h1bmtzLnB1c2goYyk7IH0pOwogICAgICByZXMub24oJ2VuZCcsIGZ1bmN0aW9uICgpIHsKICAgICAgICB2YXIgYnVmID0gQnVmZmVyLmNvbmNhdChjaHVua3MpOwogICAgICAgIHJlc29sdmUoewogICAgICAgICAgb2s6IHJlcy5zdGF0dXNDb2RlID49IDIwMCAmJiByZXMuc3RhdHVzQ29kZSA8IDMwMCwKICAgICAgICAgIHN0YXR1czogcmVzLnN0YXR1c0NvZGUsCiAgICAgICAgICBqc29uOiBmdW5jdGlvbiAoKSB7IHJldHVybiBKU09OLnBhcnNlKGJ1Zi50b1N0cmluZygpKTsgfSwKICAgICAgICAgIHRleHQ6IGZ1bmN0aW9uICgpIHsgcmV0dXJuIGJ1Zi50b1N0cmluZygpOyB9LAogICAgICAgIH0pOwogICAgICB9KTsKICAgIH0pOwogICAgcmVxLm9uKCdlcnJvcicsIHJlamVjdCk7CiAgICByZXEub24oJ3RpbWVvdXQnLCBmdW5jdGlvbiAoKSB7IHJlcS5kZXN0cm95KCk7IHJlamVjdChuZXcgRXJyb3IoJ3RpbWVvdXQnKSk7IH0pOwogICAgaWYgKG9wdHMuYm9keSkgcmVxLndyaXRlKG9wdHMuYm9keSk7CiAgICByZXEuZW5kKCk7CiAgfSk7Cn0KCmZ1bmN0aW9uIF9tYWtlU3ludGhSZXN1bHQoc3ludGgpIHsKICBpZiAoIXN5bnRoKSByZXR1cm4geyBvazogZmFsc2UsIHByb3ZpZGVyOiAncXdlbicsIHJlc3VsdHM6IFtdLCByZWFzb246ICdub19yZXN1bHRzJyB9OwogIHZhciBzeW50aEl0ZW0gPSB1dGlsLm5vcm1hbGl6ZVJlc3VsdCh7CiAgICB0aXRsZTogJycsIHVybDogJycsIGNvbnRlbnQ6IHN5bnRoLCBzb3VyY2U6ICdiYWlsaWFuLXN5bnRoZXNpemVkJwogIH0pOwogIGlmICghc3ludGhJdGVtKSByZXR1cm4geyBvazogZmFsc2UsIHByb3ZpZGVyOiAncXdlbicsIHJlc3VsdHM6IFtdLCByZWFzb246ICdub19yZXN1bHRzJyB9OwogIHN5bnRoSXRlbS5zeW50aGVzaXplZCA9IHRydWU7CiAgcmV0dXJuIHsgb2s6IHRydWUsIHByb3ZpZGVyOiAncXdlbicsIHJlc3VsdHM6IFtzeW50aEl0ZW1dLCByZWFzb246ICdzeW50aF9jb250ZW50Jywgc3ludGhlc2l6ZWQ6IHRydWUgfTsKfQoKLy8gUTItMjfvvJrkuLvmqKHlnovpop3luqbliLDmnJ8v5LiN5a2Y5Zyo5pe277yM6ZSZ6K+v5bGe44CM5o2i5qih5Z6L5Y+v6Kej5Yaz44CN57G75omN6ZmN57qn5aSH55So5qih5Z6L44CCCi8vICAg6LaF5pe2L+e9kee7nOaKluWKqOS4jeWQq++8iOW3sueUseS4iuWxgiB3aXRoUmV0cnkg5aSE55CG77yJ77yb5YW25L2Z77yINDA0L+aooeWei+S4jeWtmOWcqC/pop3luqbogJflsL0v5qyg6LS577yJ5ZG95Lit44CCCmZ1bmN0aW9uIGlzRmFsbGJhY2tXb3J0aHkoZXJyKSB7CiAgdmFyIG0gPSAoZXJyICYmIGVyci5tZXNzYWdlKSA/ICgnJyArIGVyci5tZXNzYWdlKSA6ICcnOwogIHJldHVybiAvNDA0Ly50ZXN0KG0pCiAgICB8fCAvTW9kZWwgbm90IGV4aXN0L2kudGVzdChtKQogICAgfHwgL21vZGVsW15hLXpdKihub3R8aW52YWxpZHx1bmtub3duKS9pLnRlc3QobSkKICAgIHx8IC9xdW90YS9pLnRlc3QobSkKICAgIHx8IC/kvZnpop0vaS50ZXN0KG0pCiAgICB8fCAvYmFsYW5jZS9pLnRlc3QobSkKICAgIHx8IC9leGNlZWQvaS50ZXN0KG0pCiAgICB8fCAvUmVzb3VyY2VbXmEtel0qbm90W15hLXpdKmV4aXN0L2kudGVzdChtKQogICAgfHwgL1RoZSBtb2RlbCAoaXMgKT8obm90fGludmFsaWQpL2kudGVzdChtKTsKfQoKZnVuY3Rpb24gc2VhcmNoKHF1ZXJ5LCBvcHRzLCBub2RlRmV0Y2gpIHsKICAvLyDnq6/ngrnmnaXmupDkvJjlhYjnuqfvvIjljJbop6PjgIzlkI7lj7DphY3nva7kuIDmrKHvvIzmkJzntKLoh6rliqjlpI3nlKjjgI3or4nmsYLvvInvvJoKICAvLyAgIOKRoCBRV0VOX1NFQVJDSF8qIGVudu+8iOaYvuW8j+imhueblu+8jOWIqeS6jua1i+ivlS/ni6znq4vkuK3ovazvvIkKICAvLyAgIOKRoSBvcHRzLnNlYXJjaE1vZGVsQ29uZmln77yI5p2l6Ieq5ZCO5Y+wIG1vZGVsX2NvbmZpZyDnmoTpppbkuKrlkK/nlKjmqKHlnovvvIxjaGF0IOWFpeWPo+avj+ivt+axguazqOWFpe+8iQogIC8vICAg4pGiIOWdh+aXoCDihpIgbm9fZW5kcG9pbnQg56Gu5a6a5oCn6ZmN57qn77yI5LiO5ZCEIHByb3ZpZGVyIOaXoCBrZXkg6KGM5Li65LiA6Ie077yJCiAgdmFyIGVudkJhc2UgPSAoY2ZnKCdRV0VOX1NFQVJDSF9CQVNFX1VSTCcsICcnKSB8fCAnJykudHJpbSgpOwogIHZhciBtYyA9IChvcHRzICYmIG9wdHMuc2VhcmNoTW9kZWxDb25maWcpIHx8IG51bGw7CiAgdmFyIGJhc2VVcmwsIGFwaUtleTsKICBpZiAoZW52QmFzZSkgewogICAgYmFzZVVybCA9IGVudkJhc2UucmVwbGFjZSgvXC8rJC8sICcnKS5yZXBsYWNlKC9cL2NoYXRcL2NvbXBsZXRpb25zJC9pLCAnJykgKyAnL2NoYXQvY29tcGxldGlvbnMnOwogICAgYXBpS2V5ID0gKGNmZygnUVdFTl9TRUFSQ0hfQVBJX0tFWScsICcnKSB8fCAnJykudHJpbSgpOwogIH0gZWxzZSBpZiAobWMgJiYgbWMuYmFzZVVSTCkgewogICAgLy8g5aSN55So5ZCO5Y+wIG1vZGVsX2NvbmZpZ++8iOS4jiByYWcuanMgY2FsbE9uZU1vZGVsIOWQjOaehOeahOerr+eCueaLvOijhe+8iQogICAgYmFzZVVybCA9IChtYy5iYXNlVVJMIHx8ICcnKS50b1N0cmluZygpLnRyaW0oKS5yZXBsYWNlKC9cLyskLywgJycpLnJlcGxhY2UoL1wvY2hhdFwvY29tcGxldGlvbnMkL2ksICcnKSArICcvY2hhdC9jb21wbGV0aW9ucyc7CiAgICBhcGlLZXkgPSAobWMuYXBpS2V5IHx8ICcnKS50b1N0cmluZygpLnRyaW0oKTsKICB9IGVsc2UgewogICAgcmV0dXJuIFByb21pc2UucmVzb2x2ZSh7IG9rOiBmYWxzZSwgcHJvdmlkZXI6ICdxd2VuJywgcmVzdWx0czogW10sIHJlYXNvbjogJ25vX2VuZHBvaW50JyB9KTsKICB9CgogIC8vIFEyLTI377ya5Li75qih5Z6L77yI5YWI54On5b+r5Yiw5pyf6aKd5bqm77yM5aaCIHF3ZW4tdHVyYm/vvIkrIOWkh+eUqOaooeWei++8iOmineW6puWIsOacn+WQjuaXoOmcgOmHjemDqOe9suiHquWKqOWIh+aNou+8jOWmgiBxd2VuMy44LW1heO+8ieOAggogIHZhciBwcmltYXJ5TW9kZWwgPSBlbnZCYXNlCiAgICA/IChjZmcoJ1FXRU5fU0VBUkNIX01PREVMJywgJ3F3ZW4tcGx1cycpIHx8ICdxd2VuLXBsdXMnKS50cmltKCkKICAgIDogKG1jLm1vZGVsIHx8ICdxd2VuLXBsdXMnKS50b1N0cmluZygpLnRyaW0oKTsKICB2YXIgZmFsbGJhY2tNb2RlbCA9IChjZmcoJ1FXRU5fU0VBUkNIX0ZBTExCQUNLX01PREVMJywgJycpIHx8ICcnKS50cmltKCk7CgogIHZhciBtYXhSZXN1bHRzID0gdXRpbC50b0ludChjZmcoJ1NFQVJDSF9NQVhfUkVTVUxUUycsICc1JyksIDUpOwogIHZhciBlbmFibGVTZWFyY2ggPSAoY2ZnKCdRV0VOX1NFQVJDSF9FTkFCTEVfU0VBUkNIJywgJ3RydWUnKSB8fCAndHJ1ZScpLnRyaW0oKSAhPT0gJ2ZhbHNlJyAmJiAhcGVyc29uYVB1cmU7CiAgLy8gUTItMjbvvJpmb3JjZWRfc2VhcmNoIOaYr+eZvueCvOecn+ato+inpuWPkeiBlOe9keajgOe0oueahOW8gOWFs+OAggogIC8vICAg5a6e5rWL77ya5LuF5LygIGVuYWJsZV9zZWFyY2gg5pe25qih5Z6L5LuN5oyJ44CM56a757q/5YWI6aqM44CN5ouS562U5a6e5pe26Zeu6aKY77ybCiAgLy8gICDooaUgc2VhcmNoX29wdGlvbnMuZm9yY2VkX3NlYXJjaCDlkI4gMTAvMTAg5ZG95Lit55yf5a6e6KGM5oOF5pWw5o2u44CC6buY6K6k5byA5ZCv44CCCiAgdmFyIGZvcmNlZFNlYXJjaCA9IChjZmcoJ1FXRU5fU0VBUkNIX0ZPUkNFRF9TRUFSQ0gnLCAndHJ1ZScpIHx8ICd0cnVlJykudHJpbSgpICE9PSAnZmFsc2UnOwogIHZhciBleHRyYUJvZHkgPSAoY2ZnKCdRV0VOX1NFQVJDSF9FWFRSQV9CT0RZJywgJycpIHx8ICcnKS50cmltKCk7CiAgdmFyIHN5bnRoTW9kZSA9IChjZmcoJ1FXRU5fU0VBUkNIX1NZTlRIX01PREUnLCAndHJ1ZScpIHx8ICd0cnVlJykudHJpbSgpICE9PSAnZmFsc2UnOwogIC8vIFEyLTI277ya5oyJIGFuc3dlck1vZGUg5YiH5o2i5Lq65qC877yI5LiOIGFnbmVzU2VhcmNoIOWvueensO+8ieOAgmRlZXAg5LiN5a6a5LmJ5Lq65qC8IOKGkiDlm57pgIDpu5jorqTvvIwKICAvLyAgIOS/neivgeWGu+e7kyByYWcuanMgUk9MRV9QUk9NUFQg55qE5oCd6L6o5YaF5qC45LiN6KKr5pys5bGC6KaG55uW44CCCiAgLy8gUGhhc2UgWO+8mnNhZ2Uvc29jcmF0aWMg5Y2z44CM5Lq65qC85r+A5rS744CN44CC5Lq65qC85r+A5rS75LiU5peg6ZyA6IGU572R77yIbmV0d29ya05lZWRlZD09PWZhbHNl77yM55SxCiAgLy8gICBpbmRleC5qcyDlr7nlhYPpl67popgv5Lq65qC85o+Q6Zeu6K6+5a6a77yJ5pe277yM5YWz6Zet6IGU572R5qOA57Si77yM57qv5Lq65qC855Sf5oiQ4oCU4oCU6YG/5YWN6IGU572R5Zmq6Z+z5rGh5p+TCiAgLy8gICDkurrmoLzlj6PlkLvkuJTmm7Tlv6vjgIIKICB2YXIgc2FnZVZhbCA9IChvcHRzICYmIG9wdHMuc2FnZSkgfHwgJ25vbmUnOwogIHZhciBzb2NyYXRpY1ZhbCA9ICEhKG9wdHMgJiYgb3B0cy5zb2NyYXRpYyk7CiAgdmFyIHBlcnNvbmFBY3RpdmUgPSAoc2FnZVZhbCAmJiBzYWdlVmFsICE9PSAnbm9uZScpIHx8IHNvY3JhdGljVmFsOwogIHZhciBwZXJzb25hID0gbW9kZVBlcnNvbmEucGVyc29uYUZvcihvcHRzICYmIG9wdHMuYW5zd2VyTW9kZSwgeyBzYWdlOiBzYWdlVmFsLCBzb2NyYXRpYzogc29jcmF0aWNWYWwgfSk7CiAgdmFyIHBlcnNvbmFQdXJlID0gcGVyc29uYUFjdGl2ZSAmJiAob3B0cyAmJiBvcHRzLm5ldHdvcmtOZWVkZWQgPT09IGZhbHNlKTsKCiAgLy8g5Y2V5qyh5qih5Z6L6LCD55So77yIZG9TZWFyY2gg5YyF6KO577yM5L6/5LqO5Li74oaS5aSH6ZmN57qn77yJCiAgZnVuY3Rpb24gZG9TZWFyY2gobW9kZWwpIHsKICAgIHZhciBib2R5ID0gewogICAgICBtb2RlbDogbW9kZWwsCiAgICAgIG1lc3NhZ2VzOiBbCiAgICAgICAgeyByb2xlOiAnc3lzdGVtJywgY29udGVudDogcGVyc29uYSB8fCAn5L2g5piv5LiA5Liq55+l6K+G6Zeu562U5Yqp5omL44CC6K+35o+Q5L6b5L+h5oGv5a+G5bqm6auY44CB57uG6IqC5YWF5a6e55qE5Zue562U77yM55u05o6l57uZ5Ye65YWz6ZSu5LqL5a6e77yM5LiN6YeN5aSN6Zeu6aKY44CB5LiN5a6i5aWX5byA5Zy644CCJyB9LAogICAgICAgIHsgcm9sZTogJ3VzZXInLCBjb250ZW50OiBxdWVyeSB9CiAgICAgIF0sCiAgICAgIHN0cmVhbTogZmFsc2UsCiAgICAgIG1heF90b2tlbnM6IDEwMjQgIC8vIFEyLTIy77yaMTAyNHTiiYg2MDDkuK3mloflrZfvvJtzeXN0ZW0gcHJvbXB05L+d6K+B5L+h5oGv5a+G5bqm5LiA5qyh5Yiw5L2N77yM5peg6ZyA57ut5YaZ44CCNTEy6L+H55+t5qih5Z6L5ouS562UCiAgICB9OwogICAgLy8gZW5hYmxlX3NlYXJjaCDku4XlnKjlvIDlkK/ml7bkuIvlj5HvvJtwZXJzb25hUHVyZe+8iOS6uuagvOe6r+eUn+aIkO+8ieaXtiBlbmFibGVTZWFyY2g9ZmFsc2XvvIzkuI3lj5HpgIHor6XlrZfmrrXvvIwKICAgIC8vICAg6YG/5YWN5YW85a655qih5byP56uv54K55a+5IGVuYWJsZV9zZWFyY2g6ZmFsc2Ug55qE5byC5bi46KGM5Li65ouW5oWiL+aLkuetlOOAggogICAgaWYgKGVuYWJsZVNlYXJjaCkgewogICAgICBib2R5LmVuYWJsZV9zZWFyY2ggPSB0cnVlOwogICAgICBpZiAoZm9yY2VkU2VhcmNoKSBib2R5LnNlYXJjaF9vcHRpb25zID0geyBmb3JjZWRfc2VhcmNoOiB0cnVlIH07CiAgICB9CiAgICBpZiAoZXh0cmFCb2R5KSB7CiAgICAgIHRyeSB7CiAgICAgICAgdmFyIGV4dHJhID0gSlNPTi5wYXJzZShleHRyYUJvZHkpOwogICAgICAgIGlmIChleHRyYSAmJiB0eXBlb2YgZXh0cmEgPT09ICdvYmplY3QnKSB7CiAgICAgICAgICBmb3IgKHZhciBlayBpbiBleHRyYSkgewogICAgICAgICAgICBpZiAoT2JqZWN0LnByb3RvdHlwZS5oYXNPd25Qcm9wZXJ0eS5jYWxsKGV4dHJhLCBlaykpIGJvZHlbZWtdID0gZXh0cmFbZWtdOwogICAgICAgICAgfQogICAgICAgIH0KICAgICAgfSBjYXRjaCAoZSkgewogICAgICAgIC8vIOmUmeivr+mFjee9ruW/veeVpe+8jOe7neS4jeW9seWTjeS4u+a1geeoiwogICAgICB9CiAgICB9CgogICAgdmFyIGhlYWRlcnMgPSB7CiAgICAgICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicsCiAgICAgICdBY2NlcHQnOiAnYXBwbGljYXRpb24vanNvbicKICAgIH07CiAgICBpZiAoYXBpS2V5KSBoZWFkZXJzWydBdXRob3JpemF0aW9uJ10gPSAnQmVhcmVyICcgKyBhcGlLZXk7CgogICAgLy8g5Lyg6L6TL0hUVFAg6ZSZ6K+v5oqb5Ye6IOKGkiBpbmRleC5qcyB3aXRoUmV0cnkg6YeN6K+V77yb6LaF5pe255SxIHNlYXJjaCgpIOWkluWxgiB3aXRoVGltZW91dCDmlr3liqDjgIIKICAgIC8vIOS8mOWFiOWPlue7k+aehOWMliBzZWFyY2hfcmVzdWx0cyDmlbDnu4TvvIjkuovlrp7pmpTnprvmnIDkvbPlrp7ot7XvvInvvJsKICAgIC8vICAg6Iul55m+54K8IE9wZW5BSSDlhbzlrrnmqKHlvI/lj6rov5Tlm57mqKHlnovnu7zlkIjmloflrZfvvIzliJnmjIkgUTItMTYg6YCA5YyW5Li65ZCI5oiQ5bqV5bqnKFVOVkVSSUZJRUQp44CCCiAgICByZXR1cm4gdXRpbC5odHRwUG9zdEpzb24oX25vZGVGZXRjaCwgYmFzZVVybCwgYm9keSwgaGVhZGVycywgKG9wdHMgJiYgb3B0cy50aW1lb3V0KSB8fCAxMjAwMCkudGhlbihmdW5jdGlvbiAoZGF0YSkgewogICAgICB2YXIgcmF3ID0gcGlja1Jlc3VsdHMoZGF0YSk7CiAgICAgIHZhciByZXN1bHRzID0gW107CiAgICAgIGZvciAodmFyIGkgPSAwOyBpIDwgcmF3Lmxlbmd0aCAmJiByZXN1bHRzLmxlbmd0aCA8IG1heFJlc3VsdHM7IGkrKykgewogICAgICAgIHZhciBpdGVtID0gcmF3W2ldOwogICAgICAgIGlmICghaXRlbSB8fCB0eXBlb2YgaXRlbSAhPT0gJ29iamVjdCcpIGNvbnRpbnVlOwogICAgICAgIHZhciBmVGl0bGUgPSAoY2ZnKCdRV0VOX1NFQVJDSF9GSUVMRF9USVRMRScsICd0aXRsZScpIHx8ICd0aXRsZScpLnRyaW0oKTsKICAgICAgICB2YXIgZlVybCA9IChjZmcoJ1FXRU5fU0VBUkNIX0ZJRUxEX1VSTCcsICd1cmwnKSB8fCAndXJsJykudHJpbSgpOwogICAgICAgIHZhciBmU25pcHBldCA9IChjZmcoJ1FXRU5fU0VBUkNIX0ZJRUxEX1NOSVBQRVQnLCAnY29udGVudCcpIHx8ICdjb250ZW50JykudHJpbSgpOwogICAgICAgIHZhciBmU291cmNlID0gKGNmZygnUVdFTl9TRUFSQ0hfRklFTERfU09VUkNFJywgJ3RpdGxlJykgfHwgJ3RpdGxlJykudHJpbSgpOwogICAgICAgIHZhciBub3JtYWxpemVkID0gdXRpbC5ub3JtYWxpemVSZXN1bHQoewogICAgICAgICAgdGl0bGU6IGl0ZW1bZlRpdGxlXSwKICAgICAgICAgIHVybDogaXRlbVtmVXJsXSwKICAgICAgICAgIGNvbnRlbnQ6IGl0ZW1bZlNuaXBwZXRdIHx8IGl0ZW0uc3VtbWFyeSB8fCBpdGVtLmRlc2NyaXB0aW9uIHx8IGl0ZW0uY29udGVudCwKICAgICAgICAgIHNvdXJjZTogaXRlbVtmU291cmNlXQogICAgICAgIH0pOwogICAgICAgIGlmIChub3JtYWxpemVkKSByZXN1bHRzLnB1c2gobm9ybWFsaXplZCk7CiAgICAgIH0KICAgICAgaWYgKHJlc3VsdHMubGVuZ3RoKSB7CiAgICAgICAgcmV0dXJuIHsgb2s6IHRydWUsIHByb3ZpZGVyOiAncXdlbicsIHJlc3VsdHM6IHJlc3VsdHMsIHJlYXNvbjogJycgfTsKICAgICAgfQogICAgICAvLyBRMi0xNitRMi0yMu+8muaXoOe7k+aehOWMluaVsOe7hCDihpIg6YCA5YyW5Li65qih5Z6L5ZCI5oiQ5bqV5bqn77yIVU5WRVJJRklFRO+8jOWPl+WPjeW5u+iniee6puadn++8ieOAggogICAgICBpZiAoc3ludGhNb2RlKSB7CiAgICAgICAgdmFyIHN5bnRoID0gcGlja1N5bnRoZXNpemVkQ29udGVudChkYXRhKTsKICAgICAgICBpZiAoc3ludGgpIHJldHVybiBfbWFrZVN5bnRoUmVzdWx0KHN5bnRoKTsKICAgICAgfQogICAgICByZXR1cm4geyBvazogZmFsc2UsIHByb3ZpZGVyOiAncXdlbicsIHJlc3VsdHM6IFtdLCByZWFzb246ICdub19yZXN1bHRzJyB9OwogICAgfSk7CiAgfQoKICAvLyBRMi0yN++8muS4u+aooeWei+Wksei0peS4lOmUmeivr+WxnuOAjOaNouaooeWei+WPr+ino+WGs+OAjeexuyDihpIg6Ieq5Yqo6ZmN57qn5aSH55So5qih5Z6L77yI5aaCIHF3ZW4tdHVyYm8g5Yiw5pyf5YiHIHF3ZW4zLjgtbWF477yJ77yMCiAgLy8gICDml6DpnIDph43mlrDpg6jnvbLjgILotoXml7Yv572R57uc5oqW5Yqo5LiN5Zyo5YW25YiX77yI5LiK5bGCIHdpdGhSZXRyeSDlt7LlpITnkIbvvInjgIIKICByZXR1cm4gZG9TZWFyY2gocHJpbWFyeU1vZGVsKS5jYXRjaChmdW5jdGlvbiAoZXJyKSB7CiAgICBpZiAoZmFsbGJhY2tNb2RlbCAmJiBmYWxsYmFja01vZGVsICE9PSBwcmltYXJ5TW9kZWwgJiYgaXNGYWxsYmFja1dvcnRoeShlcnIpKSB7CiAgICAgIGNvbnNvbGUud2FybignW3F3ZW5dIOS4u+aooeWeiyAnICsgcHJpbWFyeU1vZGVsICsgJyDlpLHotKXvvIzpmY3nuqflpIfnlKggJyArIGZhbGxiYWNrTW9kZWwgKyAn77yaJyArIChlcnIgJiYgZXJyLm1lc3NhZ2UpKTsKICAgICAgcmV0dXJuIGRvU2VhcmNoKGZhbGxiYWNrTW9kZWwpOwogICAgfQogICAgdGhyb3cgZXJyOwogIH0pOwp9Cgptb2R1bGUuZXhwb3J0cyA9IHsgc2VhcmNoOiBzZWFyY2ggfTsK
+// ============================================================
+// providers/search/qwenSearch.js
+//   Phase Q2-13：阿里云百炼(DashScope) 联网搜索 Provider Adapter。
+//     基于用户「现有中转 API」接入，定位为「qwen」provider 槽位，
+//     作为现有 searchLayer 的真实国内检索源（data_route=domestic）。
+//
+//   ⚠️ 架构约束（化解 Q2-11 评估关切，务必遵守）：
+//     百炼 chat/completions 开启 enable_search 后，响应同时包含
+//       (a) choices[0].message.content        —— 模型「综合后的回答」（可能自行编造/综合实时事实）
+//       (b) choices[0].message.extended.search_info.search_results —— 结构化检索结果数组
+//     本适配器【只提取 (b) 作为 runtime context 喂给 fact extraction】，
+//     【绝不采用 (a) 作为事实底座或最终答案】——事实隔离与 tencent/domestic 完全一致，
+//     从而消除 Q2-11 指出的「模型工具绕过事实隔离、自行综合实时事实」风险。
+//
+//   设计原则（与既有真实 provider 一致）：
+//     · 仅当 QWEN_SEARCH_BASE_URL 配置时才联网；否则立即 ok:false（fail-soft）。
+//     · 传输/HTTP 错误由 util.httpPostJson 抛出 → index.js 的 withRetry 重试；
+//       此处仅处理「已成功返回但无可用结果」的确定性情形（返回 ok:false，不重试）。
+//     · 结果经 util.normalizeResult 标准化。
+//     · provider 名固定 'qwen' → data_route 恒定 'domestic'（阿里云国内节点，零跨境）。
+//
+//   配置（环境变量，调用时读取，支持测试注入与部署切换）：
+//     QWEN_SEARCH_BASE_URL       必须；中转 API 的 chat/completions 端点（OpenAI 兼容路径）
+//     QWEN_SEARCH_API_KEY        可选；鉴权 Bearer Token（中转若已代持密钥可留空）
+//     QWEN_SEARCH_MODEL          模型名（默认 'qwen-plus'）
+//     QWEN_SEARCH_ENABLE_SEARCH  是否开启联网（默认 'true'，置 'false' 关闭）
+//     QWEN_SEARCH_RESULTS_PATH   检索结果数组在响应中的 dot-path（默认见下）
+//     QWEN_SEARCH_EXTRA_BODY     附加固定 body 字段（JSON 字符串，可选，如中转要求额外参数）
+//     QWEN_SEARCH_FIELD_TITLE    结果项标题字段（默认 'title'）
+//     QWEN_SEARCH_FIELD_URL      结果项链接字段（默认 'url'）
+//     QWEN_SEARCH_FIELD_SNIPPET  结果项摘要字段（默认 'content'，缺失回退 summary/description）
+//     QWEN_SEARCH_FIELD_SOURCE   结果项来源字段（默认 'title'）
+//
+//   ⚠️ 数据出境边界：data_route=domestic 的正确性依赖所接入 API 为
+//     国内合规服务（阿里云国内节点，服务器与数据均留境）。适配层不做跨境源。
+// ============================================================
+'use strict';
+
+var util = require('./util');
+// Phase Q2-26：三模式人格层（非冻结）。与 agnesSearch 对称接入，fast→通用助手，think→结合体。
+// 注意：本文件位于 providers/search/，modePersona 在 cloudfunctions/chat/ 根，需上两级。
+var modePersona = require('../../modePersona');
+
+// ---- 配置读取（调用时读取，保证部署切换即时生效）----
+function cfg(name, def) {
+  var v = process.env[name];
+  return (v === undefined || v === null) ? def : v;
+}
+
+// ---- dot-path 解析（Node16 兼容，无可选链）----
+function resolvePath(obj, p) {
+  if (!p || !obj) return undefined;
+  var parts = ('' + p).split('.');
+  var cur = obj;
+  for (var i = 0; i < parts.length; i++) {
+    if (cur === null || cur === undefined) return undefined;
+    cur = cur[parts[i]];
+  }
+  return cur;
+}
+
+// ---- 检索结果数组提取：优先自定义路径，其次常见百炼/DashScope 形状 ----
+//   ⚠️ 只取 search_results 数组；[b] message.content（模型综合答案）永远不被引用。
+function pickResults(data) {
+  if (!data || typeof data !== 'object') return [];
+  // 1) 用户显式配置字段（支持 dot-path）
+  var custom = (cfg('QWEN_SEARCH_RESULTS_PATH',
+    'choices.0.message.extended.search_info.search_results') || '').trim();
+  if (custom) {
+    var v = resolvePath(data, custom);
+    if (Array.isArray(v) && v.length) return v;
+  }
+  // 2) 常见百炼/DashScope 形状兜底探测（避免硬编单一 API 细节，降低编造风险）
+  var probes = [
+    'choices.0.message.extended.search_info.search_results',
+    'output.choices.0.message.extended.search_info.search_results',
+    'choices.0.message.search_info.search_results',
+    'choices.0.message.extended.search_results',
+    'search_results',
+    'searchResults',
+    'web_search_results',
+    'results'
+  ];
+  for (var i = 0; i < probes.length; i++) {
+    var arr = resolvePath(data, probes[i]);
+    if (Array.isArray(arr) && arr.length) return arr;
+  }
+  return [];
+}
+
+// ---- Q2-16：百炼 OpenAI 兼容模式不返回结构化 search_results，
+//   仅返回模型综合文字(choices[0].message.content)。当无结构化数组时，
+//   退而取 content 作为「模型合成事实底座」(UNVERIFIED)，仍受 responder
+//   反幻觉硬检约束。绝不把 content 当最终答案直接下发。
+//   可用 QWEN_SEARCH_SYNTH_MODE=false 关闭此回退（恢复严格 no_results 降级）。
+function pickSynthesizedContent(data) {
+  if (!data || typeof data !== 'object') return '';
+  var msg = data.choices && data.choices[0] && data.choices[0].message;
+  if (!msg) return '';
+  var c = (msg.content || '').toString().trim();
+  if (!c) return '';
+  // 过滤明显拒答/空泛，避免把「我无法获取实时数据…」当事实底座。
+  //   原逻辑只拦 <80 字的短拒答，导致长拒答（如「我目前无法获取实时数据，建议你…」）
+  //   被当作有效综合内容缓存下发，用户看到"不能联网"。扩到：句首拒答词(任意长度)
+  //   + 句中"无法/没有 + 实时/最新/当前 + 数据/信息/行情"强拒答信号，一律丢弃 → ok:false 诚实降级。
+  if (/^(抱歉|对不起|我(暂时)?(无法|不能|没有|不太清楚|没有可靠))/u.test(c)) return '';
+  if (/无法(获取|访问|查到|得到|连接).{0,8}(实时|最新|当前|联网|网络)/u.test(c)) return '';
+  if (/没有(实时|最新|当前|可靠的?|联网).{0,8}(数据|信息|行情|结果)/u.test(c)) return '';
+  if (/暂时(无法|不能|没有).{0,10}(提供|获取|查到|回答)/u.test(c)) return '';
+  return c;
+}
+
+// ============================================================
+// 内置 nodeFetch（Q2-21：不依赖外部传入的 eventRetriever.nodeFetch，
+//   那个实现有响应截断/空内容问题。自建版本与 rag.js 的 nodeFetch 同构）
+// ============================================================
+function _nodeFetch(u, opts) {
+  opts = opts || {};
+  return new Promise(function (resolve, reject) {
+    var urlP = require('url');
+    var parsed = urlP.parse(u);
+    var mod = parsed.protocol === 'https:' ? require('https') : require('http');
+    var reqOpts = {
+      hostname: parsed.hostname,
+      port: parsed.port || (parsed.protocol === 'https:' ? 443 : 80),
+      path: parsed.pathname + (parsed.search || ''),
+      method: (opts.method || 'GET').toUpperCase(),
+      headers: opts.headers || {},
+      timeout: opts.timeout || 20000,
+    };
+    var req = mod.request(reqOpts, function (res) {
+      var chunks = [];
+      res.on('data', function (c) { chunks.push(c); });
+      res.on('end', function () {
+        var buf = Buffer.concat(chunks);
+        resolve({
+          ok: res.statusCode >= 200 && res.statusCode < 300,
+          status: res.statusCode,
+          json: function () { return JSON.parse(buf.toString()); },
+          text: function () { return buf.toString(); },
+        });
+      });
+    });
+    req.on('error', reject);
+    req.on('timeout', function () { req.destroy(); reject(new Error('timeout')); });
+    if (opts.body) req.write(opts.body);
+    req.end();
+  });
+}
+
+function _makeSynthResult(synth) {
+  if (!synth) return { ok: false, provider: 'qwen', results: [], reason: 'no_results' };
+  var synthItem = util.normalizeResult({
+    title: '', url: '', content: synth, source: 'bailian-synthesized'
+  });
+  if (!synthItem) return { ok: false, provider: 'qwen', results: [], reason: 'no_results' };
+  synthItem.synthesized = true;
+  return { ok: true, provider: 'qwen', results: [synthItem], reason: 'synth_content', synthesized: true };
+}
+
+// Q2-27：主模型额度到期/不存在时，错误属「换模型可解决」类才降级备用模型。
+//   超时/网络抖动不含（已由上层 withRetry 处理）；其余（404/模型不存在/额度耗尽/欠费）命中。
+function isFallbackWorthy(err) {
+  var m = (err && err.message) ? ('' + err.message) : '';
+  return /404/.test(m)
+    || /Model not exist/i.test(m)
+    || /model[^a-z]*(not|invalid|unknown)/i.test(m)
+    || /quota/i.test(m)
+    || /余额/i.test(m)
+    || /balance/i.test(m)
+    || /exceed/i.test(m)
+    || /Resource[^a-z]*not[^a-z]*exist/i.test(m)
+    || /The model (is )?(not|invalid)/i.test(m);
+}
+
+function search(query, opts, nodeFetch) {
+  // 端点来源优先级（化解「后台配置一次，搜索自动复用」诉求）：
+  //   ① QWEN_SEARCH_* env（显式覆盖，利于测试/独立中转）
+  //   ② opts.searchModelConfig（来自后台 model_config 的首个启用模型，chat 入口每请求注入）
+  //   ③ 均无 → no_endpoint 确定性降级（与各 provider 无 key 行为一致）
+  var envBase = (cfg('QWEN_SEARCH_BASE_URL', '') || '').trim();
+  var mc = (opts && opts.searchModelConfig) || null;
+  var baseUrl, apiKey;
+  if (envBase) {
+    baseUrl = envBase.replace(/\/+$/, '').replace(/\/chat\/completions$/i, '') + '/chat/completions';
+    apiKey = (cfg('QWEN_SEARCH_API_KEY', '') || '').trim();
+  } else if (mc && mc.baseURL) {
+    // 复用后台 model_config（与 rag.js callOneModel 同构的端点拼装）
+    baseUrl = (mc.baseURL || '').toString().trim().replace(/\/+$/, '').replace(/\/chat\/completions$/i, '') + '/chat/completions';
+    apiKey = (mc.apiKey || '').toString().trim();
+  } else {
+    return Promise.resolve({ ok: false, provider: 'qwen', results: [], reason: 'no_endpoint' });
+  }
+
+  // Q2-27：主模型（先烧快到期额度，如 qwen-turbo）+ 备用模型（额度到期后无需重部署自动切换，如 qwen3.8-max）。
+  var primaryModel = envBase
+    ? (cfg('QWEN_SEARCH_MODEL', 'qwen-plus') || 'qwen-plus').trim()
+    : (mc.model || 'qwen-plus').toString().trim();
+  var fallbackModel = (cfg('QWEN_SEARCH_FALLBACK_MODEL', '') || '').trim();
+
+  var maxResults = util.toInt(cfg('SEARCH_MAX_RESULTS', '5'), 5);
+  var enableSearch = (cfg('QWEN_SEARCH_ENABLE_SEARCH', 'true') || 'true').trim() !== 'false' && !personaPure;
+  // Q2-26：forced_search 是百炼真正触发联网检索的开关。
+  //   实测：仅传 enable_search 时模型仍按「离线先验」拒答实时问题；
+  //   补 search_options.forced_search 后 10/10 命中真实行情数据。默认开启。
+  var forcedSearch = (cfg('QWEN_SEARCH_FORCED_SEARCH', 'true') || 'true').trim() !== 'false';
+  var extraBody = (cfg('QWEN_SEARCH_EXTRA_BODY', '') || '').trim();
+  var synthMode = (cfg('QWEN_SEARCH_SYNTH_MODE', 'true') || 'true').trim() !== 'false';
+  // Q2-26：按 answerMode 切换人格（与 agnesSearch 对称）。deep 不定义人格 → 回退默认，
+  //   保证冻结 rag.js ROLE_PROMPT 的思辨内核不被本层覆盖。
+  // Phase X：sage/socratic 即「人格激活」。人格激活且无需联网（networkNeeded===false，由
+  //   index.js 对元问题/人格提问设定）时，关闭联网检索，纯人格生成——避免联网噪音污染
+  //   人格口吻且更快。
+  var sageVal = (opts && opts.sage) || 'none';
+  var socraticVal = !!(opts && opts.socratic);
+  var personaActive = (sageVal && sageVal !== 'none') || socraticVal;
+  var persona = modePersona.personaFor(opts && opts.answerMode, { sage: sageVal, socratic: socraticVal });
+  var personaPure = personaActive && (opts && opts.networkNeeded === false);
+
+  // 单次模型调用（doSearch 包裹，便于主→备降级）
+  function doSearch(model) {
+    var body = {
+      model: model,
+      messages: [
+        { role: 'system', content: persona || '你是一个知识问答助手。请提供信息密度高、细节充实的回答，直接给出关键事实，不重复问题、不客套开场。' },
+        { role: 'user', content: query }
+      ],
+      stream: false,
+      max_tokens: 1024  // Q2-22：1024t≈600中文字；system prompt保证信息密度一次到位，无需续写。512过短模型拒答
+    };
+    // enable_search 仅在开启时下发；personaPure（人格纯生成）时 enableSearch=false，不发送该字段，
+    //   避免兼容模式端点对 enable_search:false 的异常行为拖慢/拒答。
+    if (enableSearch) {
+      body.enable_search = true;
+      if (forcedSearch) body.search_options = { forced_search: true };
+    }
+    if (extraBody) {
+      try {
+        var extra = JSON.parse(extraBody);
+        if (extra && typeof extra === 'object') {
+          for (var ek in extra) {
+            if (Object.prototype.hasOwnProperty.call(extra, ek)) body[ek] = extra[ek];
+          }
+        }
+      } catch (e) {
+        // 错误配置忽略，绝不影响主流程
+      }
+    }
+
+    var headers = {
+      'Content-Type': 'application/json',
+      'Accept': 'application/json'
+    };
+    if (apiKey) headers['Authorization'] = 'Bearer ' + apiKey;
+
+    // 传输/HTTP 错误抛出 → index.js withRetry 重试；超时由 search() 外层 withTimeout 施加。
+    // 优先取结构化 search_results 数组（事实隔离最佳实践）；
+    //   若百炼 OpenAI 兼容模式只返回模型综合文字，则按 Q2-16 退化为合成底座(UNVERIFIED)。
+    return util.httpPostJson(_nodeFetch, baseUrl, body, headers, (opts && opts.timeout) || 12000).then(function (data) {
+      var raw = pickResults(data);
+      var results = [];
+      for (var i = 0; i < raw.length && results.length < maxResults; i++) {
+        var item = raw[i];
+        if (!item || typeof item !== 'object') continue;
+        var fTitle = (cfg('QWEN_SEARCH_FIELD_TITLE', 'title') || 'title').trim();
+        var fUrl = (cfg('QWEN_SEARCH_FIELD_URL', 'url') || 'url').trim();
+        var fSnippet = (cfg('QWEN_SEARCH_FIELD_SNIPPET', 'content') || 'content').trim();
+        var fSource = (cfg('QWEN_SEARCH_FIELD_SOURCE', 'title') || 'title').trim();
+        var normalized = util.normalizeResult({
+          title: item[fTitle],
+          url: item[fUrl],
+          content: item[fSnippet] || item.summary || item.description || item.content,
+          source: item[fSource]
+        });
+        if (normalized) results.push(normalized);
+      }
+      if (results.length) {
+        return { ok: true, provider: 'qwen', results: results, reason: '' };
+      }
+      // Q2-16+Q2-22：无结构化数组 → 退化为模型合成底座（UNVERIFIED，受反幻觉约束）。
+      if (synthMode) {
+        var synth = pickSynthesizedContent(data);
+        if (synth) return _makeSynthResult(synth);
+      }
+      return { ok: false, provider: 'qwen', results: [], reason: 'no_results' };
+    });
+  }
+
+  // Q2-27：主模型失败且错误属「换模型可解决」类 → 自动降级备用模型（如 qwen-turbo 到期切 qwen3.8-max），
+  //   无需重新部署。超时/网络抖动不在其列（上层 withRetry 已处理）。
+  return doSearch(primaryModel).catch(function (err) {
+    if (fallbackModel && fallbackModel !== primaryModel && isFallbackWorthy(err)) {
+      console.warn('[qwen] 主模型 ' + primaryModel + ' 失败，降级备用 ' + fallbackModel + '：' + (err && err.message));
+      return doSearch(fallbackModel);
+    }
+    throw err;
+  });
+}
+
+module.exports = { search: search };

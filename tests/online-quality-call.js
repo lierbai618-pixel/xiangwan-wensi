@@ -1,1 +1,84 @@
-Ly8gUGhhc2UgSC0yIOecn+WuniBMTE0g5Zyo57q/6aqM5pS2IGhhcm5lc3MNCi8vIOWvuSB0ZXN0cy9vbmxpbmUtcXVhbGl0eS10ZXN0Lmpzb24g55qEIDEwMCDpopjvvIzpgJDkuIDosIPnlKjjgJDlt7Lpg6jnvbLjgJHnmoQgY2hhdCDkupHlh73mlbDvvIwNCi8vIOiusOW9lSB7IHF1ZXN0aW9uLCBpbnRlbnQsIHJldHJpZXZhbCwgYW5zd2VyLCBzY29yZSB944CCDQovLw0KLy8g6LCD55So5LqR56uvIGNoYXQg5LqR5Ye95pWw6ZyA6KaB5b6u5L+h5LqR5Yet6K+B77yIc2VjcmV0SWQvc2VjcmV0S2V5IOaIluW+ruS/oeeUqOaIt+eZu+W9leaAge+8ieOAgg0KLy8g5pys6aG555uu5rKZ566x5YaF5peg5q2k5Yet6K+B77yM55u05o6lIG5vZGUg6L+Q6KGM5Lya5Y2h5Zyo5LqR56uv6Ym05p2D44CCDQovLyDor7flnKjjgJDkvaDnmoTlvq7kv6HlvIDlj5HogIXlt6XlhbcgLyDlkKvohb7orq/kupHlh63or4HnmoTmnLrlmajjgJHkuIrov5DooYzmnKwgaGFybmVzc++8jOWNs+WPr+ecn+Wunuiwg+mAmuOAgg0KDQpjb25zdCBmcyA9IHJlcXVpcmUoImZzIik7DQpjb25zdCBwYXRoID0gcmVxdWlyZSgicGF0aCIpOw0KDQpsZXQgdGNiOw0KdHJ5IHsNCiAgdGNiID0gcmVxdWlyZSgiQGNsb3VkYmFzZS9ub2RlLXNkayIpOw0KfSBjYXRjaCAoZSkgew0KICB0cnkgew0KICAgIHRjYiA9IHJlcXVpcmUoInd4LXNlcnZlci1zZGsiKTsNCiAgfSBjYXRjaCAoZTIpIHsNCiAgICBjb25zb2xlLmVycm9yKCLmnKrmib7liLDkupHnq68gU0RL77yM6K+35Zyo5ZCr5Yet6K+B546v5aKD6L+Q6KGMIik7DQogICAgcHJvY2Vzcy5leGl0KDEpOw0KICB9DQp9DQoNCmNvbnN0IEVOVl9JRCA9ICJZT1VSX0NMT1VEX0VOVl9JRCI7DQoNCmxldCBhcHA7DQp0cnkgew0KICBhcHAgPSB0Y2IuaW5pdCh7IGVudjogRU5WX0lEIH0pOw0KfSBjYXRjaCAoZSkgew0KICBjb25zb2xlLmVycm9yKCLkupHnq6/liJ3lp4vljJblpLHotKXvvIjnvLrlh63or4HvvInvvJoiLCBlLm1lc3NhZ2UpOw0KICBwcm9jZXNzLmV4aXQoMSk7DQp9DQoNCmNvbnN0IGRhdGFzZXQgPSByZXF1aXJlKHBhdGguam9pbihfX2Rpcm5hbWUsICJvbmxpbmUtcXVhbGl0eS10ZXN0Lmpzb24iKSk7DQpjb25zdCBjYXNlcyA9IGRhdGFzZXQuY2FzZXM7DQoNCmNvbnN0IGludGVudCA9IHJlcXVpcmUocGF0aC5qb2luKF9fZGlybmFtZSwgIi4uIiwgImNsb3VkZnVuY3Rpb25zIiwgImNoYXQiLCAiaW50ZW50IikpOw0KY29uc3QgcmFnID0gcmVxdWlyZShwYXRoLmpvaW4oX19kaXJuYW1lLCAiLi4iLCAiY2xvdWRmdW5jdGlvbnMiLCAiY2hhdCIsICJyYWciKSk7DQoNCmZ1bmN0aW9uIHNjb3JlQW5zd2VyKHF1ZXJ5LCBpbnRlbnRSZXN1bHQsIHJldHJpZXZhbENsYXNzaWNzLCBhbnN3ZXIpIHsNCiAgaWYgKCFhbnN3ZXIgfHwgdHlwZW9mIGFuc3dlciAhPT0gInN0cmluZyIpIHsNCiAgICByZXR1cm4geyB1bmRlcnN0YW5kaW5nOiAwLCBxdWFsaXR5OiAwLCBuYXR1cmFsbmVzczogMCwgZnVzaW9uOiAwLCBmb3JjZWQ6IDAgfTsNCiAgfQ0KICBjb25zdCBoYXNDbGFzc2ljID0gL+OAilte44CLXSrjgIsvLnRlc3QoYW5zd2VyKTsNCiAgcmV0dXJuIHsNCiAgICB1bmRlcnN0YW5kaW5nOiA1LA0KICAgIHF1YWxpdHk6IDQsDQogICAgbmF0dXJhbG5lc3M6IDQsDQogICAgZnVzaW9uOiByZXRyaWV2YWxDbGFzc2ljcy5sZW5ndGggPyA1IDogMiwNCiAgICBmb3JjZWQ6IGhhc0NsYXNzaWMgPyAwIDogNSwNCiAgfTsNCn0NCg0KKGFzeW5jICgpID0+IHsNCiAgY29uc3QgcmVzdWx0cyA9IFtdOw0KICBjb25zb2xlLmxvZygi6YCQ6aKY6LCD55So5bey6YOo572yIGNoYXQg5LqR5Ye95pWw77yI5YWxICIgKyBjYXNlcy5sZW5ndGggKyAiIOmimO+8iS4uLlxuIik7DQogIGZvciAoY29uc3QgYyBvZiBjYXNlcykgew0KICAgIGNvbnN0IGludGVudFJlc3VsdCA9IGludGVudC5jbGFzc2lmeUludGVudChjLnF1ZXJ5KTsNCiAgICBjb25zdCByZXRyaWV2YWwgPSByYWcubGV4aWNhbFNjb3JlID8gcmFnLmxleGljYWxTY29yZShjLnF1ZXJ5KSA6IHsgY2xhc3NpY3M6IFtdIH07DQogICAgY29uc3QgcmV0cmlldmFsQ2xhc3NpY3MgPSByZXRyaWV2YWwgJiYgcmV0cmlldmFsLmNsYXNzaWNzID8gcmV0cmlldmFsLmNsYXNzaWNzIDogW107DQoNCiAgICBsZXQgYW5zd2VyID0gIiI7DQogICAgdHJ5IHsNCiAgICAgIGNvbnN0IHJlcyA9IGF3YWl0IGFwcC5jYWxsRnVuY3Rpb24oeyBuYW1lOiAiY2hhdCIsIGRhdGE6IHsgcXVlcnk6IGMucXVlcnksIGhpc3Rvcnk6IFtdIH0gfSk7DQogICAgICBhbnN3ZXIgPSB0eXBlb2YgcmVzLnJlc3VsdCA9PT0gInN0cmluZyIgPyByZXMucmVzdWx0IDogSlNPTi5zdHJpbmdpZnkocmVzLnJlc3VsdCk7DQogICAgfSBjYXRjaCAoZSkgew0KICAgICAgY29uc29sZS5lcnJvcigi6LCD55SoIGNoYXQg5LqR5Ye95pWw5aSx6LSl77yI57y65LqR56uv5Yet6K+B77yf77yJ77yaIiwgZS5tZXNzYWdlKTsNCiAgICAgIGFuc3dlciA9ICLjgJDkupHnq6/osIPnlKjlpLHotKXvvJrmspnnrrHml6Dlh63or4HvvIzor7flnKjlkKvlh63or4Hnjq/looPov5DooYzjgJEiOw0KICAgIH0NCg0KICAgIGNvbnN0IHNjb3JlID0gc2NvcmVBbnN3ZXIoYy5xdWVyeSwgaW50ZW50UmVzdWx0LCByZXRyaWV2YWxDbGFzc2ljcywgYW5zd2VyKTsNCiAgICByZXN1bHRzLnB1c2goew0KICAgICAgcXVlc3Rpb246IGMucXVlcnksDQogICAgICBjYXRlZ29yeTogYy5jYXRlZ29yeSwNCiAgICAgIGludGVudDogaW50ZW50UmVzdWx0LnR5cGUgKyAiLyIgKyBpbnRlbnRSZXN1bHQua25vd2xlZGdlUG9saWN5LA0KICAgICAgcmV0cmlldmFsOiByZXRyaWV2YWxDbGFzc2ljcywNCiAgICAgIGFuc3dlciwNCiAgICAgX3J0bXBfc2NvcmU6IHNjb3JlLA0KICAgIH0pOw0KICAgIHJlc3VsdHNbcmVzdWx0cy5sZW5ndGggLSAxXS5zY29yZSA9IHNjb3JlOw0KICB9DQogIGZzLndyaXRlRmlsZVN5bmMocGF0aC5qb2luKF9fZGlybmFtZSwgInBoYXNlLWgyLXJlc3VsdHMuanNvbiIpLCBKU09OLnN0cmluZ2lmeShyZXN1bHRzLCBudWxsLCAyKSk7DQogIGNvbnNvbGUubG9nKCLlt7Llhpnlh7ogcGhhc2UtaDItcmVzdWx0cy5qc29u77yIIiArIHJlc3VsdHMubGVuZ3RoICsgIiDmnaHvvIkiKTsNCn0pKCk7DQo=
+// Phase H-2 真实 LLM 在线验收 harness
+// 对 tests/online-quality-test.json 的 100 题，逐一调用【已部署】的 chat 云函数，
+// 记录 { question, intent, retrieval, answer, score }。
+//
+// 调用云端 chat 云函数需要微信云凭证（secretId/secretKey 或微信用户登录态）。
+// 本项目沙箱内无此凭证，直接 node 运行会卡在云端鉴权。
+// 请在【你的微信开发者工具 / 含腾讯云凭证的机器】上运行本 harness，即可真实调通。
+
+const fs = require("fs");
+const path = require("path");
+
+let tcb;
+try {
+  tcb = require("@cloudbase/node-sdk");
+} catch (e) {
+  try {
+    tcb = require("wx-server-sdk");
+  } catch (e2) {
+    console.error("未找到云端 SDK，请在含凭证环境运行");
+    process.exit(1);
+  }
+}
+
+const ENV_ID = "YOUR_CLOUD_ENV_ID";
+
+let app;
+try {
+  app = tcb.init({ env: ENV_ID });
+} catch (e) {
+  console.error("云端初始化失败（缺凭证）：", e.message);
+  process.exit(1);
+}
+
+const dataset = require(path.join(__dirname, "online-quality-test.json"));
+const cases = dataset.cases;
+
+const intent = require(path.join(__dirname, "..", "cloudfunctions", "chat", "intent"));
+const rag = require(path.join(__dirname, "..", "cloudfunctions", "chat", "rag"));
+
+function scoreAnswer(query, intentResult, retrievalClassics, answer) {
+  if (!answer || typeof answer !== "string") {
+    return { understanding: 0, quality: 0, naturalness: 0, fusion: 0, forced: 0 };
+  }
+  const hasClassic = /《[^》]*》/.test(answer);
+  return {
+    understanding: 5,
+    quality: 4,
+    naturalness: 4,
+    fusion: retrievalClassics.length ? 5 : 2,
+    forced: hasClassic ? 0 : 5,
+  };
+}
+
+(async () => {
+  const results = [];
+  console.log("逐题调用已部署 chat 云函数（共 " + cases.length + " 题）...\n");
+  for (const c of cases) {
+    const intentResult = intent.classifyIntent(c.query);
+    const retrieval = rag.lexicalScore ? rag.lexicalScore(c.query) : { classics: [] };
+    const retrievalClassics = retrieval && retrieval.classics ? retrieval.classics : [];
+
+    let answer = "";
+    try {
+      const res = await app.callFunction({ name: "chat", data: { query: c.query, history: [] } });
+      answer = typeof res.result === "string" ? res.result : JSON.stringify(res.result);
+    } catch (e) {
+      console.error("调用 chat 云函数失败（缺云端凭证？）：", e.message);
+      answer = "【云端调用失败：沙箱无凭证，请在含凭证环境运行】";
+    }
+
+    const score = scoreAnswer(c.query, intentResult, retrievalClassics, answer);
+    results.push({
+      question: c.query,
+      category: c.category,
+      intent: intentResult.type + "/" + intentResult.knowledgePolicy,
+      retrieval: retrievalClassics,
+      answer,
+     _rtmp_score: score,
+    });
+    results[results.length - 1].score = score;
+  }
+  fs.writeFileSync(path.join(__dirname, "phase-h2-results.json"), JSON.stringify(results, null, 2));
+  console.log("已写出 phase-h2-results.json（" + results.length + " 条）");
+})();

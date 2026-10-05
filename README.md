@@ -1,1 +1,229 @@
-IyDlkJHmmZrpl67mgJ0gwrcg57uP5YW45oCd5oOz5oCd6L6o5Yqp5omLCgo+IOS4gOS4qumdouWQkee7j+WFuOmYheivu+WcuuaZr+eahCBSQUcg6Zeu562U5bCP56iL5bqP44CCKirlt7LmraPlvI/kuIrnur/lubbpgJrov4cgSUNQIOWkh+ahiOOAgioqCj4KPiDkuI3mm7/kvaDlgZrlhrPlrprjgIHkuI3oh6rnp7DmnYPlqIHjgIHkuI3omZrmnoTor63lvZUg4oCU4oCUIOS7peWFrOeJiOe7j+WFuOS4uuagueWfuu+8jAo+IOeUqOW5s+WunuWFi+WItueahOaWueW8j+mZquS9oOS4gOi1t+aKiumXrumimOeci+a4heOAgeW9ouaIkOiHquW3seeahOWIpOaWreOAggoK5b6u5L+h5bCP56iL5bqP77yI5Y6f55SfIFdYTUwvV1hTU++8iSArIOW+ruS/oeS6keW8gOWPke+8iENsb3VkQmFzZe+8ie+8jOaXoOmcgOiHquW7uuacjeWKoeWZqOOAggoKLS0tCgojIyDkuIDjgIHop6PlhrPku4DkuYjpl67popgKCue7j+WFuOmYheivu+WcuuaZr+S4i+ebtOaOpeeUqOmAmueUqOWkp+aooeWei+mXruetlO+8jOacieS4ieS4quehrOS8pO+8mgoKfCDpl67popggfCDooajnjrAgfAp8LS0tfC0tLXwKfCAqKuW5u+iniSoqIHwg5LiA5pys5q2j57uP5Zyw57yW6YCg5LiN5a2Y5Zyo55qE6K+t5b2VIHwKfCAqKuaXoOWHuuWkhCoqIHwg562U5a6M5L2g5LiN55+l6YGT5a6D6K+055qE5a+55LiN5a+5IHwKfCAqKuWunuaXtuaAp+e8uuWksSoqIHwg6ZeuIuS7iuWkqeacieS7gOS5iOaWsOmXuyLnrZTkuI3lh7rmnaXvvIzov5joh6rmm50i5oiR5peg5rOV6IGU572RIiB8CgrmnKzpobnnm67nlKggUkFHICsg5oSP5Zu+6Lev55SxICsg5a6e5pe25oCn6L2o6YGT77yM6YCQ5p2h6Kej5Yaz44CCCgotLS0KCiMjIOS6jOOAgeaKgOacr+aetuaehAoKIyMjIOivt+axguWkhOeQhumTvui3rwoKYGBgCueUqOaIt+aPkOmXrgogICDihpMKQ2FwYWJpbGl0eSBMYXllciAgICAgIOWunuaXtuS6i+Wunu+8iOaXtumXtC/lpKnmsJQv6K6h566XL+S9jee9ru+8ieKGkiDlkb3kuK3ljbPnn63ot68KICAg4oaTCuaEj+WbvueQhuino+WxgiAgICAgICAgICAgICDljbHmnLogLyDmg4Xnu6ogLyDop4LngrkgLyDkuovlrp4gLyDmir3osaEgKyAxNSDkuKrpoobln58KICAg4oaTCkZyZXNobmVzcyDovajpgZMgICAgICAgIOWunuaXtuS6i+S7tu+8muWIhuexuyDihpIg5LiK5LiL5paHIOKGkiDkuovlrp7mir3lj5Yg4oaSIOmZjee6pyDihpIg6L6T5Ye65a6I5Y2rCiAgIOKGkwpUaGluayDlvJXmk44gICAgICAgICAgICDmjInmqKHlvI/nvJbmjpLvvJrogZTnvZEgLyBSQUcgLyDmjqjnkIYKICAg4oaTClJBRyDmo4DntKIgICAgICAgICAgICAgIOWIhuivjSArIOamguW/teahpSArIOWIhuWxguWKoOadgwogICDihpMK5byV55So5bCB6KOFICsg55Sf5oiQICAgICAgICDmuq/mupAgKyDlvLHlj6zlm57or5rlrp7lo7DmmI4KICAg4oaTCuWGheWuueWuieWFqOWPjOmXuCAgICAgICAgICDlhaXlj4IgLyDlh7rlj4Llj4zlkJEgbXNnU2VjQ2hlY2sKYGBgCgojIyMgMS4g5qOA57Si6ZO+6Lev77yI5qC45b+D77yJCgrlnKjkupHlh73mlbDlj5fpmZDnjq/looPvvIhOb2RlIDE244CB5peg5Y6f55Sf5L6d6LWW77yJ5LiL77yM5rKh5pyJ6LWw56We57uPIGVtYmVkZGluZ++8jArogIzmmK/orr7orqHkuobkuIDlpZcqKue6r+ivjeazleeahOi9u+mHj+ajgOe0oioq77yaCgpgYGAKdG9rZW5pemUocXVlcnkpCiAg4pSc4pSAIOS4reaWhyAyLTgg5a2X6K+N5YiH5YiGCiAg4pSc4pSAIDItNCDlhYMgTi1ncmFtIOa7keeqlwogIOKUnOKUgCDkuLvpopjor43ooajlkb3kuK0KICDilJTilIAg6Iux5paHIC8g5pWw5a2X5oq95Y+WCiAgICAgICAg4oaTCmJyaWRnZVRlcm1zKHF1ZXJ5KSAgICAgICAgIOamguW/teahpe+8mueUqOaIt+WPo+ivrSDihpIg57uP5YW45qaC5b+1CiAgICAgICAg4oaTCuWkmui3r+WPrOWbngogICAgICAgIOKGkwrilIzilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilJAK4pSCIOWHhuWFpe+8mmxleGljYWxTY29yZSDiiaUg6ZiI5YC8ICAgICAgICAgICAgICDilIIgIOWPqueci+ivjemdou+8jOWPr+ino+mHigrilIIgIOagh+etvueyvuehriArMTIgLyDmoIfnrb7ljIXlkKsgKzcgICAgICAgICAgICDilIIK4pSCICDmoIfpopggKzYgLyDnq6DoioIgKzUgLyDmkZjopoEgKzQgLyDmraPmlocgKzMgIOKUggrilJTilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilJgKICAgICAgICDihpMK4pSM4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSQCuKUgiDmjpLluo/vvJpjb3NpbmUo6K+N6aKR5ZCR6YePKSAgICAgICAgICAgICAgICAg4pSCICDlj6rlnKjlh4blhaXlkI7nmoTlgJnpgInpl7TmjpLluo8K4pSU4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSYCmBgYAoKKirlhbPplK7lt6XnqIvlj5HnjrAqKu+8muefreS4reaWh+aWh+acrOeahCBURiDlkJHph4/kvZnlvKblmarlo7DmnoHlpKcg4oCU4oCUCuWunua1i+S4reWHuueOsOi/h+mbtuivjemdouWMuemFjeeahOivreaWmeiiq+S9meW8pumhtuS4iuadpeeahOaDheWGte+8iCLkurrkuLrku4DkuYjopoHmtLvnnYAiIOivr+WPrOWbnu+8ieOAggoK5Zug5q2k5oqK5ZCR6YeP5L2Z5bymKirpmY3nuqcqKuS4uiLku4XlkIzluKflhoXmjpLluo8i77yMKirkuI3lj4LkuI7lvJXnlKjlh4blhaUqKu+8mwrlh4blhaXmlLnnlKjor43pnaLlkb3kuK3pmIjlgLzvvIhzZW1hbnRpYyDiiaUgNCAvIG9waW5pb24g4omlIDEy77yJ44CCCgo+IOivpue7huWIhuaekOingSBgZG9jcy9gIOS4reeahOajgOe0ouebuOWFs+aWh+aho+OAggoKIyMjIDIuIOamguW/teahpe+8iENvbmNlcHQgQnJpZGdl77yJCgrnlKjmiLfor7Qi5oiR5b6I54Sm6JmRIu+8jOe7j+WFuOmHjOWGmeeahOaYryLlm7Dkuo7lv4MiIuW/pyIg4oCU4oCUIOebtOaOpeWMuemFjeivjeazlS/lkJHph4/lj4zlj4zkuLrpm7bjgIIK5qaC5b+15qGl5oqK55So5oi36K+t6KiA5pig5bCE5Yiw57uP5YW45qaC5b+177yMKirlj6rmianlsZXmn6Xor6Lor43vvIzkuI3lvbHlk43mlofmoaPntKLlvJUqKu+8mgoKYGBganMKewogIG5hbWU6ICLmg4Xnu6rkuI7ljovlipsiLAogIG1hdGNoOiAvKOaDhee7qnznhKbomZF85Y6L5YqbfOW0qea6g3zpmr7ov4d85oSk5oCSfOWnlOWxiHzlpLHotKV85oyr5oqYfOeXm+iLpnzkuI3lrokpL3UsCiAgZXhwYW5kOiBbIuaDhee7qiIsICLmg4Xnu6rnrqHnkIYiLCAi5bmz6KGhIiwgIuWIhuWvuCIsICLmjqfliLYiLCAi5o6l5Y+XIiwgIuWIpOaWrSIsICLlhoXlv4MiLCAi5a6J5a6BIiwgIumAhuWigyJdLAp9CmBgYAoKIyMjIDMuIOaEj+WbvueQhuino+WxggoK5Y2H57qn5YmN5Lu75L2V6Zeu6aKY6YO96KKr5by66KGM5aWX5LiK57uP5YW4IOKAlOKAlCDpl64iUHl0aG9uIOeahCBsaXN0IOWSjCB0dXBsZSDmnInku4DkuYjljLrliKsiCuS5n+S8mueUqOOAiuiuuuivreOAi+W8gOWktOOAguWKoOWFpeaEj+WbvuWxguWQjuaMieS8mOWFiOe6p+WIhuexu++8mgoKfCDkvJjlhYjnuqcgfCDnsbvlnosgfCDlpITnkIYgfAp8LS0tfC0tLXwtLS18CnwgMSB8ICoq5Y2x5py65L+h5Y+3KiogfCDot7Pov4fkuIDliIfnn6Xor4blop7lvLrvvIznm7TokL3lronlhajlupTnrZQgfAp8IDIgfCDmg4Xnu6rkv6Hlj7cgfCDmg4Xnu6rmlK/mjIHvvIzlhbHmg4XkvJjlhYggfAp8IDMgfCDop4LngrnorqjorrogfCDlvoHor6LnnIvms5XvvIzlroHnvLrmr4vmu6UgfAp8IDQgfCDkuovlrp7pl67lj6UgfCDnn6Xor4blm57nrZQgfAp8IDUgfCDmir3osaHov73pl64gfCDlpJrop5LluqbliIbmnpAgfAoK5ZCM5pe26K+G5YirICoqMTUg5Liq6aKG5Z+fKirvvIjlk7LlraYgLyDkurrnlJ8gLyDpgZPlvrcgLyDnpL7kvJogLyDmg4Xnu6ogLyDlhbPns7sgLyDogYzkuJogLyDlrabkuaAgLyDmiJDplb8g562J77yJ44CCCueJueWIq+WcsO+8jOWMuuWIhiLkurrkuLrku4DkuYjkvJrnl5voi6Yi77yI5oq96LGh6L+96Zeu77yJ5LiOIuaIkeW+iOeXm+iLpiLvvIjkuKrkurrlgL7or4nvvInigJTigJQK5Lik6ICF6YO95ZCr5oOF57uq6K+N77yM5L2G6ZyA6KaB5a6M5YWo5LiN5ZCM55qE5Zue562U5pa55byP44CCCgojIyMgNC4g5Zub56eN5Zue562U5qih5byPCgp8IOaooeW8jyB8IOeuoee6vyB8IOmAgueUqCB8CnwtLS18LS0tfC0tLXwKfCDlv6vnrZQgfCDogZTnvZEgfCDml7bmlYjmgKfpl67popggfAp8IOa3seaAnSB8IFJBRyB8IOe6r+aAnei+qOOAgee7j+WFuOino+ivuyB8Cnwg6Zeu5oCdIHwg6IGU572RICsgUkFHICsg5o6o55CGIHwg6buY6K6k77yM5Lqn5ZOB5beu5byC5YyWIHwKfCDoi4/moLzmi4nlupUgfCBSQUfvvIjov73pl67lvI/vvIkgfCDlvJXlr7znlKjmiLfoh6rlt7Hmg7MgfAoKIyMjIDUuIOWunuaXtuaAp+i9qOmBk++8iEZyZXNobmVzc++8iQoK6ZKI5a+5IuefpeivhuW6k+etlOS4jeS6huWunuaXtumXrumimCLnmoTmnrbmnoTnvLrpmbfvvIzorr7orqEgOCDkuKrmqKHlnZfnmoTml4Hot6/pk77ot6/vvJoK5LqL5Lu25YiG57G7IOKGkiDkuIrkuIvmlofmnoTlu7og4oaSIOS6i+WunuaKveWPliDihpIg6ZmN57qnIOKGkiDovpPlh7rlrojljasg4oaSIOi+ueeVjOajgOafpeOAggrphY0gZmVhdHVyZSBmbGFn77yM5Ye66Zeu6aKY5Y+v5LiA6ZSu5Zue5rua44CCCgojIyMgNi4g5pCc57Si5bGC5LiO5oqk5qCPCgotIOaKveixoSBwcm92aWRlciDmjqXlj6PvvIzmjqXlhaXlm73lhoXmkJzntKLmupDvvIjpgJrkuYkgLyDohb7orq8gV1NBIC8g6YCa55SoIEFQSe+8iSsgbW9jawotIOaKpOagj+mTvu+8mmBjYW5hcnlHYXRlYO+8iOmHkeS4nembgO+8iSsgYHByaXZhY3lHYXRlYO+8iOmakOengemXqO+8iQotIOmalOemu+WuiOWNq++8muagoemqjOaQnOe0oue7k+aenCoq5LiN5rGh5p+T55+l6K+G5bqTKioKCiMjIyA3LiDlhoXlrrnlronlhagKCi0gYG1zZ1NlY0NoZWNrYCB2MiAqKuWFpeWPgiAvIOWHuuWPguWPjOWQkeajgOa1iyoqCi0g5pWF6Zqc5Yaz562W562W55Wl77yaKirmnI3liqHmlYXpmpzpmY3nuqfmlL7ooYwgLyDnoa7orqTov53op4Tlv4Xmi6bmiKoqKgotIOWuieWFqOS6i+S7tuWuoeiuoSoq5Y+q6JC95YWD5pWw5o2uICsgb3BlbmlkIOWTiOW4jCoq77yM57ud5LiN6K6w5b2V55So5oi35Y6f5paHCgojIyMgOC4g5bel56iL5rK755CGCgrlr7nlm5vkuKrmoLjlv4PotYTkuqfvvIjor63mlpkgLyDmhI/lm74gLyDmo4DntKIgLyDot6/nlLHvvInlu7rnq4sgKipTSEEyNTYg5Ya757uT5Z+657q/KirvvIwK5Lu75L2V5ryC56e76KeG5Li66L+d6KeE77yM6aG75pi+5byP5o6I5p2D5LiO6K+E5a6h44CCCgotLS0KCiMjIOS4ieOAgeebruW9lee7k+aehAoKYGBgCuKUnOKUgOKUgCBtaW5pcHJvZ3JhbS8gICAgICAgICAg5bCP56iL5bqP5YmN56uv77yI5Y6f55SfIFdYTUwvV1hTU++8iQrilIIgICDilJzilIDilIAgcGFnZXMvICAgICAgICAgICAg6aaW6aG1IC8g6IGK5aSpIC8g6K+05piOIC8g57uP5YW46ZiF6K+7IC8g6ZqQ56eBIC8g566h55CGCuKUgiAgIOKUlOKUgOKUgCBkYXRhLyAgICAgICAgICAgICDku4rml6XmgJ3ogIPjgIHnu4/lhbjmuIXljZUK4pSc4pSA4pSAIGNsb3VkZnVuY3Rpb25zLyAgICAgICDkupHnq68gTm9kZS5qc++8iDYg5Liq5Ye95pWw77yJCuKUgiAgIOKUnOKUgOKUgCBjaGF0LyAgICAgICAgICAgICDlr7nor53moLjlv4MK4pSCICAg4pSCICAg4pSc4pSA4pSAIGluZGV4LmpzICAgICAgICAgICDmtL7lj5HlhaXlj6MK4pSCICAg4pSCICAg4pSc4pSA4pSAIHJhZy5qcyAgICAgICAgICAgICDmo4DntKIgKyDnlJ/miJDvvIjlhrvnu5PotYTkuqfvvIkK4pSCICAg4pSCICAg4pSc4pSA4pSAIGludGVudC5qcyAgICAgICAgICDmhI/lm77nkIbop6PlsYLvvIjlhrvnu5PotYTkuqfvvIkK4pSCICAg4pSCICAg4pSc4pSA4pSAIGtub3dsZWRnZVJvdXRlci5qcyDnn6Xor4bot6/nlLHvvIjlhrvnu5PotYTkuqfvvIkK4pSCICAg4pSCICAg4pSc4pSA4pSAIGNvcnB1cy5qc29uICAgICAgICDor63mlpnvvJozNiDpg6jkvZzlk4EgLyAzNyDkuKrniYfmrrXvvIjlhrvnu5PotYTkuqfvvIkK4pSCICAg4pSCICAg4pSc4pSA4pSAIGNhcGFiaWxpdGllcy8gICAgICDlrp7ml7bog73lipvvvJrml7bpl7QgLyDlpKnmsJQgLyDorqHnrpcgLyDkvY3nva4K4pSCICAg4pSCICAg4pSc4pSA4pSAIGZyZXNobmVzcy8gICAgICAgICDlrp7ml7bmgKfovajpgZPvvIg4IOaooeWdl++8iQrilIIgICDilIIgICDilJzilIDilIAgdGhpbmsvICAgICAgICAgICAgIOmXruaAneW8leaTju+8muaQnOe0oiArIFJBRyArIOaOqOeQhgrilIIgICDilIIgICDilJzilIDilIAgcHJvdmlkZXJzL3NlYXJjaC8gIOaQnOe0ouWxgiArIOaKpOagj+mTvgrilIIgICDilIIgICDilJzilIDilIAgc2VjdXJpdHkvICAgICAgICAgIOWGheWuueWuieWFqArilIIgICDilIIgICDilJTilIDilIAgb2JzZXJ2YWJpbGl0eS8gICAgIOingua1i+iQveW6kwrilIIgICDilJzilIDilIAgbG9naW4vICAgICAgICAgICAg6L2755m75b2V77yI6L+U5ZueIE9QRU5JRO+8iQrilIIgICDilJzilIDilIAgaGlzdG9yeS8gICAgICAgICAg5Lya6K+d5Y6G5Y+yCuKUgiAgIOKUnOKUgOKUgCBpbmdlc3QvICAgICAgICAgICDnn6Xor4blhaXlupMK4pSCICAg4pSc4pSA4pSAIGZlZWRiYWNrLyAgICAgICAgIOaEj+ingeWPjemmiArilIIgICDilJTilIDilIAgYWRtaW4vICAgICAgICAgICAg566h55CG57uf6K6hCuKUnOKUgOKUgCBkb2NzLyAgICAgICAgICAgICAgICAg6K6+6K6h5LiO6aqM5pS25paH5qGjCuKUnOKUgOKUgCBzY3JpcHRzLyAgdGVzdHMvICAgICAg5rWL6K+V5LiO6K+E5rWL6ISa5pysCuKUlOKUgOKUgCBrbm93bGVkZ2UvICAgICAgICAgICAg55+l6K+G5bqT6LWE5paZ5YyFCmBgYAoKLS0tCgojIyDlm5vjgIHmnKzlnLDov5DooYwKCiMjIyAxLiDlh4blpIcKLSDlronoo4Vb5b6u5L+h5byA5Y+R6ICF5bel5YW3XShodHRwczovL2RldmVsb3BlcnMud2VpeGluLnFxLmNvbS9taW5pcHJvZ3JhbS9kZXYvZGV2dG9vbHMvZG93bmxvYWQuaHRtbCkKLSDmi7/liLDlsI/nqIvluo8gQXBwSUQKCiMjIyAyLiDloasgQXBwSUQK5L+u5pS5IGBwcm9qZWN0LmNvbmZpZy5qc29uYCDnmoQgYGFwcGlkYCDlrZfmrrXjgIIKCiMjIyAzLiDlr7zlhaXlt6XnqIsK5b6u5L+h5byA5Y+R6ICF5bel5YW3IOKGkiDlr7zlhaXpobnnm64g4oaSIOebruW9lemAieacrOS7k+W6kyDihpIg5aGrIEFwcElE44CCCgojIyMgNC4g5byA6YCa5LqR5byA5Y+RCuW3peWFt+mhtumDqOOAjOS6keW8gOWPkeOAjeKGkiDlvIDpgJog4oaSIOaWsOW7uueOr+Wig+OAggoKIyMjIDUuIOmFjee9rueOr+Wig+WPmOmHjwrlpI3liLYgYGNsb3VkYmFzZXJjLmV4YW1wbGUuanNvbmAg5Li6IGBjbG91ZGJhc2VyYy5qc29uYO+8jOWhq+WFpeS9oOiHquW3seeahO+8mgotIOS6keeOr+WigyBJRAotIOaooeWeiyBBUEkgS2V577yI6YCa5LmJIC8g5YW25LuW5YW85a65IE9wZW5BSSDljY/orq7nmoTmnI3liqHvvIkKLSDnrqHnkIblkZggb3BlbmlkCgo+IOKaoO+4jyBgY2xvdWRiYXNlcmMuanNvbmAg5bey5ZyoIGAuZ2l0aWdub3JlYCDkuK3vvIwqKuS4jeimgeaPkOS6pCoq44CCCgojIyMgNi4g6YOo572y5LqR5Ye95pWwCuWcqOW8gOWPkeiAheW3peWFt+mHjOWIhuWIq+WPs+mUriBgbG9naW5gIC8gYGNoYXRgIC8gYGhpc3RvcnlgIC8gYGFkbWluYCAvIGBpbmdlc3RgIC8gYGZlZWRiYWNrYArihpLjgIzkuIrkvKDlubbpg6jnvbLvvJrkupHnq6/lronoo4Xkvp3otZbjgI3jgIIKCiMjIyA3LiDliJvlu7rmlbDmja7lupPpm4blkIgK5LqR5byA5Y+R5o6n5Yi25Y+wIOKGkiDmlbDmja7lupMg4oaSIOaWsOW7uumbhuWQiO+8mmBsb2dzYCAvIGBjb252ZXJzYXRpb25zYCAvIGBmZWVkYmFja2DjgIIKCi0tLQoKIyMg5LqU44CB6aG555uu5pWw5o2uCgp8IOmhuSB8IOWAvCB8CnwtLS18LS0tfAp8IOS6keWHveaVsCB8IDYg5LiqIHwKfCDmlbDmja7lupPpm4blkIggfCA4IOS4qiB8Cnwg6K+t5paZIHwgMzYg6YOo5L2c5ZOBIMK3IDM3IOS4quefpeivhueJh+autSB8Cnwg5aSa6L2u5LiK5LiL5paHIHwgMjAg6L2uIHwKfCDpoobln5/opobnm5YgfCAxNSDkuKogfAp8IOaEj+WbvuWIhuexuyB8IDUg57G7IHwKfCDlm57nrZTmqKHlvI8gfCA0IOenjSB8Cnwg54q25oCBIHwg5bey5LiK57q/IMK3IOW3sui/hyBJQ1Ag5aSH5qGIIHwKCi0tLQoKIyMg5YWt44CB6K+05piOCgotIOacrOS7k+W6k+S4uuS4quS6uueLrOeri+W8gOWPkeS9nOWTgeeahOaKgOacr+Wxleekuu+8jOW3suenu+mZpOWFqOmDqOWvhumSpeS4juS4quS6uuagh+ivhuOAggotIOi1hOaWmeadpeiHquWFrOW8gOaVtOeQhuaWh+acrO+8jOS7o+eggeWGheagh+azqOOAjOW+heaguOmqjOOAje+8jOato+W8j+S9v+eUqOWJjeivt+WvueeFp+adg+WogeeJiOacrOaguOmqjOOAggotIOmhueebruWumuS9jeS4uuaAnei+qOWKqeaJi++8jOS4jeaJrua8lOWOhuWPsuS6uueJqeOAgeS4jeaPkOS+m+adg+Wogee7k+iuuuOAggo=
+﻿# 向晚问思 · 经典思想思辨助手
+
+> 一个面向经典阅读场景的 RAG 问答小程序。**已正式上线并通过 ICP 备案。**
+>
+> 不替你做决定、不自称权威、不虚构语录 —— 以公版经典为根基，
+> 用平实克制的方式陪你一起把问题看清、形成自己的判断。
+
+微信小程序（原生 WXML/WXSS） + 微信云开发（CloudBase），无需自建服务器。
+
+---
+
+## 一、解决什么问题
+
+经典阅读场景下直接用通用大模型问答，有三个硬伤：
+
+| 问题 | 表现 |
+|---|---|
+| **幻觉** | 一本正经地编造不存在的语录 |
+| **无出处** | 答完你不知道它说的对不对 |
+| **实时性缺失** | 问"今天有什么新闻"答不出来，还自曝"我无法联网" |
+
+本项目用 RAG + 意图路由 + 实时性轨道，逐条解决。
+
+---
+
+## 二、技术架构
+
+### 请求处理链路
+
+```
+用户提问
+   ↓
+Capability Layer      实时事实（时间/天气/计算/位置）→ 命中即短路
+   ↓
+意图理解层             危机 / 情绪 / 观点 / 事实 / 抽象 + 15 个领域
+   ↓
+Freshness 轨道        实时事件：分类 → 上下文 → 事实抽取 → 降级 → 输出守卫
+   ↓
+Think 引擎            按模式编排：联网 / RAG / 推理
+   ↓
+RAG 检索              分词 + 概念桥 + 分层加权
+   ↓
+引用封装 + 生成        溯源 + 弱召回诚实声明
+   ↓
+内容安全双闸          入参 / 出参双向 msgSecCheck
+```
+
+### 1. 检索链路（核心）
+
+在云函数受限环境（Node 16、无原生依赖）下，没有走神经 embedding，
+而是设计了一套**纯词法的轻量检索**：
+
+```
+tokenize(query)
+  ├─ 中文 2-8 字词切分
+  ├─ 2-4 元 N-gram 滑窗
+  ├─ 主题词表命中
+  └─ 英文 / 数字抽取
+        ↓
+bridgeTerms(query)         概念桥：用户口语 → 经典概念
+        ↓
+多路召回
+        ↓
+┌──────────────────────────────────────┐
+│ 准入：lexicalScore ≥ 阈值              │  只看词面，可解释
+│  标签精确 +12 / 标签包含 +7            │
+│  标题 +6 / 章节 +5 / 摘要 +4 / 正文 +3  │
+└──────────────────────────────────────┘
+        ↓
+┌──────────────────────────────────────┐
+│ 排序：cosine(词频向量)                 │  只在准入后的候选间排序
+└──────────────────────────────────────┘
+```
+
+**关键工程发现**：短中文文本的 TF 向量余弦噪声极大 ——
+实测中出现过零词面匹配的语料被余弦顶上来的情况（"人为什么要活着" 误召回）。
+
+因此把向量余弦**降级**为"仅同帧内排序"，**不参与引用准入**；
+准入改用词面命中阈值（semantic ≥ 4 / opinion ≥ 12）。
+
+> 详细分析见 `docs/` 中的检索相关文档。
+
+### 2. 概念桥（Concept Bridge）
+
+用户说"我很焦虑"，经典里写的是"困于心""忧" —— 直接匹配词法/向量双双为零。
+概念桥把用户语言映射到经典概念，**只扩展查询词，不影响文档索引**：
+
+```js
+{
+  name: "情绪与压力",
+  match: /(情绪|焦虑|压力|崩溃|难过|愤怒|委屈|失败|挫折|痛苦|不安)/u,
+  expand: ["情绪", "情绪管理", "平衡", "分寸", "控制", "接受", "判断", "内心", "安宁", "逆境"],
+}
+```
+
+### 3. 意图理解层
+
+升级前任何问题都被强行套上经典 —— 问"Python 的 list 和 tuple 有什么区别"
+也会用《论语》开头。加入意图层后按优先级分类：
+
+| 优先级 | 类型 | 处理 |
+|---|---|---|
+| 1 | **危机信号** | 跳过一切知识增强，直落安全应答 |
+| 2 | 情绪信号 | 情绪支持，共情优先 |
+| 3 | 观点讨论 | 征询看法，宁缺毋滥 |
+| 4 | 事实问句 | 知识回答 |
+| 5 | 抽象追问 | 多角度分析 |
+
+同时识别 **15 个领域**（哲学 / 人生 / 道德 / 社会 / 情绪 / 关系 / 职业 / 学习 / 成长 等）。
+特别地，区分"人为什么会痛苦"（抽象追问）与"我很痛苦"（个人倾诉）——
+两者都含情绪词，但需要完全不同的回答方式。
+
+### 4. 四种回答模式
+
+| 模式 | 管线 | 适用 |
+|---|---|---|
+| 快答 | 联网 | 时效性问题 |
+| 深思 | RAG | 纯思辨、经典解读 |
+| 问思 | 联网 + RAG + 推理 | 默认，产品差异化 |
+| 苏格拉底 | RAG（追问式） | 引导用户自己想 |
+
+### 5. 实时性轨道（Freshness）
+
+针对"知识库答不了实时问题"的架构缺陷，设计 8 个模块的旁路链路：
+事件分类 → 上下文构建 → 事实抽取 → 降级 → 输出守卫 → 边界检查。
+配 feature flag，出问题可一键回滚。
+
+### 6. 搜索层与护栏
+
+- 抽象 provider 接口，接入国内搜索源（通义 / 腾讯 WSA / 通用 API）+ mock
+- 护栏链：`canaryGate`（金丝雀）+ `privacyGate`（隐私门）
+- 隔离守卫：校验搜索结果**不污染知识库**
+
+### 7. 内容安全
+
+- `msgSecCheck` v2 **入参 / 出参双向检测**
+- 故障决策策略：**服务故障降级放行 / 确认违规必拦截**
+- 安全事件审计**只落元数据 + openid 哈希**，绝不记录用户原文
+
+### 8. 工程治理
+
+对四个核心资产（语料 / 意图 / 检索 / 路由）建立 **SHA256 冻结基线**，
+任何漂移视为违规，须显式授权与评审。
+
+---
+
+## 三、目录结构
+
+```
+├── miniprogram/          小程序前端（原生 WXML/WXSS）
+│   ├── pages/            首页 / 聊天 / 说明 / 经典阅读 / 隐私 / 管理
+│   └── data/             今日思考、经典清单
+├── cloudfunctions/       云端 Node.js（6 个函数）
+│   ├── chat/             对话核心
+│   │   ├── index.js           派发入口
+│   │   ├── rag.js             检索 + 生成（冻结资产）
+│   │   ├── intent.js          意图理解层（冻结资产）
+│   │   ├── knowledgeRouter.js 知识路由（冻结资产）
+│   │   ├── corpus.json        语料：36 部作品 / 37 个片段（冻结资产）
+│   │   ├── capabilities/      实时能力：时间 / 天气 / 计算 / 位置
+│   │   ├── freshness/         实时性轨道（8 模块）
+│   │   ├── think/             问思引擎：搜索 + RAG + 推理
+│   │   ├── providers/search/  搜索层 + 护栏链
+│   │   ├── security/          内容安全
+│   │   └── observability/     观测落库
+│   ├── login/            轻登录（返回 OPENID）
+│   ├── history/          会话历史
+│   ├── ingest/           知识入库
+│   ├── feedback/         意见反馈
+│   └── admin/            管理统计
+├── docs/                 设计与验收文档
+├── scripts/  tests/      测试与评测脚本
+└── knowledge/            知识库资料包
+```
+
+---
+
+## 四、本地运行
+
+### 1. 准备
+- 安装[微信开发者工具](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html)
+- 拿到小程序 AppID
+
+### 2. 填 AppID
+修改 `project.config.json` 的 `appid` 字段。
+
+### 3. 导入工程
+微信开发者工具 → 导入项目 → 目录选本仓库 → 填 AppID。
+
+### 4. 开通云开发
+工具顶部「云开发」→ 开通 → 新建环境。
+
+### 5. 配置环境变量
+复制 `cloudbaserc.example.json` 为 `cloudbaserc.json`，填入你自己的：
+- 云环境 ID
+- 模型 API Key（通义 / 其他兼容 OpenAI 协议的服务）
+- 管理员 openid
+
+> ⚠️ `cloudbaserc.json` 已在 `.gitignore` 中，**不要提交**。
+
+### 6. 部署云函数
+在开发者工具里分别右键 `login` / `chat` / `history` / `admin` / `ingest` / `feedback`
+→「上传并部署：云端安装依赖」。
+
+### 7. 创建数据库集合
+云开发控制台 → 数据库 → 新建集合：`logs` / `conversations` / `feedback`。
+
+---
+
+## 五、项目数据
+
+| 项 | 值 |
+|---|---|
+| 云函数 | 6 个 |
+| 数据库集合 | 8 个 |
+| 语料 | 36 部作品 · 37 个知识片段 |
+| 多轮上下文 | 20 轮 |
+| 领域覆盖 | 15 个 |
+| 意图分类 | 5 类 |
+| 回答模式 | 4 种 |
+| 状态 | 已上线 · 已过 ICP 备案 |
+
+---
+
+## 六、说明
+
+- 本仓库为个人独立开发作品的技术展示，已移除全部密钥与个人标识。
+- 资料来自公开整理文本，代码内标注「待核验」，正式使用前请对照权威版本核验。
+- 项目定位为思辨助手，不扮演历史人物、不提供权威结论。

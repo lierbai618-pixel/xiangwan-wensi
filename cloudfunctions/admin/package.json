@@ -1,1 +1,9 @@
-ewogICJuYW1lIjogImFkbWluIiwKICAidmVyc2lvbiI6ICIxLjAuMCIsCiAgImRlc2NyaXB0aW9uIjogIuWQkeaZmumXruaAnSAtIOeuoeeQhuS6keWHveaVsO+8iOe7n+iuoeeUqOaIt+S4juWvueivnSArIOmXrumimOa0nuWvn++8iSIsCiAgIm1haW4iOiAiaW5kZXguanMiLAogICJkZXBlbmRlbmNpZXMiOiB7CiAgICAid3gtc2VydmVyLXNkayI6ICJ+Mi42LjMiCiAgfQp9Cg==
+{
+  "name": "admin",
+  "version": "1.0.0",
+  "description": "向晚问思 - 管理云函数（统计用户与对话 + 问题洞察）",
+  "main": "index.js",
+  "dependencies": {
+    "wx-server-sdk": "~2.6.3"
+  }
+}

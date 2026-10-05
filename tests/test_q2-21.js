@@ -1,1 +1,91 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09DQovLyBRMi0yMSDpqozor4HvvJptYXhfdG9rZW5zPTIwMDAg5ZCO5Zue562U5a6M5pW05oCnDQovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0NCid1c2Ugc3RyaWN0JzsNCg0KcHJvY2Vzcy5lbnYuRlJFU0hORVNTX0VOQUJMRUQgPSAndHJ1ZSc7DQpwcm9jZXNzLmVudi5GUkVTSE5FU1NfRkFDVFVBTF9FTkFCTEVEID0gJ3RydWUnOw0KcHJvY2Vzcy5lbnYuU0VBUkNIX1BST1ZJREVSID0gJ3F3ZW4nOw0KcHJvY2Vzcy5lbnYuU0VBUkNIX1RJTUVPVVRfTVMgPSAnMTUwMDAnOw0KcHJvY2Vzcy5lbnYuUVdFTl9TRUFSQ0hfQkFTRV9VUkwgPSAnaHR0cHM6Ly9kYXNoc2NvcGUuYWxpeXVuY3MuY29tL2NvbXBhdGlibGUtbW9kZS92MSc7DQpwcm9jZXNzLmVudi5RV0VOX1NFQVJDSF9BUElfS0VZID0gJ3NrLVlPVVJfQVBJX0tFWV9IRVJFJzsNCnByb2Nlc3MuZW52LlFXRU5fU0VBUkNIX01PREVMID0gJ2RlZXBzZWVrLXY0LWZsYXNoLTA3MzEnOw0KcHJvY2Vzcy5lbnYuUVdFTl9TRUFSQ0hfU1lOVEhfTU9ERSA9ICd0cnVlJzsNCnByb2Nlc3MuZW52LlNFQVJDSF9DQU5BUllfRU5BQkxFRCA9ICd0cnVlJzsNCnByb2Nlc3MuZW52LlNFQVJDSF9DQU5BUllfT1BFTklEUyA9ICdZT1VSX0FETUlOX09QRU5JRCc7DQpwcm9jZXNzLmVudi5QUklWQUNZX0dBVEVfRU5BQkxFRCA9ICd0cnVlJzsNCg0KdmFyIGZyZXNobmVzcyA9IHJlcXVpcmUoJy4uL2Nsb3VkZnVuY3Rpb25zL2NoYXQvZnJlc2huZXNzJyk7DQp2YXIgbWF5YmVIYW5kbGUgPSBmcmVzaG5lc3MubWF5YmVIYW5kbGU7DQoNCnZhciBNT0RFTFMgPSBbew0KICBuYW1lOiAnZGVlcHNlZWstdjQtZmxhc2gtMDczMScsDQogIGJhc2VVUkw6ICdodHRwczovL2Rhc2hzY29wZS5hbGl5dW5jcy5jb20vY29tcGF0aWJsZS1tb2RlL3YxJywNCiAgYXBpS2V5OiAnc2stWU9VUl9BUElfS0VZX0hFUkUnLA0KICBtb2RlbDogJ2RlZXBzZWVrLXY0LWZsYXNoLTA3MzEnLA0KICB0aW1lb3V0OiAyNTAwMA0KfV07DQoNCmFzeW5jIGZ1bmN0aW9uIHRlc3RPbmUocXVlcnkpIHsNCiAgY29uc29sZS5sb2coJ1xuPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PScpOw0KICBjb25zb2xlLmxvZygn6Zeu5rOVOiAiJyArIHF1ZXJ5ICsgJyInKTsNCiAgdmFyIHQwID0gRGF0ZS5ub3coKTsNCiAgdmFyIHJlcyA9IGF3YWl0IG1heWJlSGFuZGxlKHF1ZXJ5LCB7DQogICAgbW9kZWxzOiBNT0RFTFMsDQogICAgb3BlbmlkOiAnWU9VUl9BRE1JTl9PUEVOSUQnLA0KICAgIGFuc3dlck1vZGU6ICd0aGluaycsDQogICAgaGlzdG9yeTogW10NCiAgfSk7DQogIHZhciBlbGFwc2VkID0gRGF0ZS5ub3coKSAtIHQwOw0KICANCiAgaWYgKCFyZXMpIHsgY29uc29sZS5sb2coJ+KdjCBudWxsJyk7IHJldHVybiBmYWxzZTsgfQ0KICANCiAgdmFyIGFucyA9IHJlcy5hbnN3ZXIgfHwgJyc7DQogIGNvbnNvbGUubG9nKCfogJfml7Y6JywgZWxhcHNlZCwgJ21zJyk7DQogIGNvbnNvbGUubG9nKCfplb/luqY6JywgYW5zLmxlbmd0aCwgJ+WtlycpOw0KICBjb25zb2xlLmxvZygnZGlyZWN0X2ZhY3R1YWw6JywgISEocmVzLmZyZXNobmVzcyAmJiByZXMuZnJlc2huZXNzLmRpcmVjdF9mYWN0dWFsKSk7DQogIGNvbnNvbGUubG9nKCdkb3duZ3JhZGVkOicsICEhKHJlcy5mcmVzaG5lc3MgJiYgcmVzLmZyZXNobmVzcy5kb3duZ3JhZGVkKSk7DQogIA0KICAvLyDmo4Dmn6XlrozmlbTmgKcNCiAgdmFyIGNvbXBsZXRlID0gdHJ1ZTsNCiAgaWYgKGFucy5sZW5ndGggPCA0MDApIHsgY29uc29sZS5sb2coJ+KaoO+4jyDlgY/nn60oPDQwMOWtlyknKTsgY29tcGxldGUgPSBmYWxzZTsgfQ0KICBlbHNlIGlmIChhbnMubGVuZ3RoIDwgODAwKSB7IGNvbnNvbGUubG9nKCfimqDvuI8g5Lit562J6ZW/5bqmKDQwMC04MDApJyk7IH0NCiAgZWxzZSB7IGNvbnNvbGUubG9nKCfinIUg6ZW/5bqm5YWF6LazKD44MDDlrZcpJyk7IH0NCiAgDQogIC8vIOajgOafpeaYr+WQpuaIquaWre+8iOacgOWQjuS4gOS4quWujOaVtOWPpeWtkOS5i+WQjuaYr+WQpue0p+i3n+WFjei0o+WjsOaYju+8iQ0KICB2YXIgaGFzRGlzY2xhaW1lciA9IC/vvIjku6XkuIrkuLrnvZHnu5znu7zlkIjlhoXlrrkvdS50ZXN0KGFucyk7DQogIGlmICghaGFzRGlzY2xhaW1lcikgeyBjb25zb2xlLmxvZygn4pqg77iPIOe8uuWFjei0o+WjsOaYjicpOyBjb21wbGV0ZSA9IGZhbHNlOyB9DQogIA0KICAvLyDmo4Dmn6XlhbPplK7kv6Hmga/ngrnvvIjmiL/kuLvku7vvvIkNCiAgaWYgKHF1ZXJ5LmluZGV4T2YoJ+aIvycpID49IDApIHsNCiAgICB2YXIgcG9pbnRzID0gWyfmiL/nu43ojoknLCAn5Li05rKCJywgJ+WIneS4rScsICfohLHlj6Pnp4AnLCAn5YGc5ryUJywgJ+S6ieiuriddOw0KICAgIHZhciBmb3VuZCA9IHBvaW50cy5maWx0ZXIoZnVuY3Rpb24ocCkgeyByZXR1cm4gYW5zLmluZGV4T2YocCkgPj0gMDsgfSk7DQogICAgY29uc29sZS5sb2coJ+WFs+mUruS/oeaBr+eCuTonLCBmb3VuZC5sZW5ndGggKyAnLycgKyBwb2ludHMubGVuZ3RoLCBmb3VuZC5qb2luKCcsICcpKTsNCiAgICBpZiAoZm91bmQubGVuZ3RoIDwgNCkgY29tcGxldGUgPSBmYWxzZTsNCiAgfQ0KICANCiAgLy8g5LuY6IiqDQogIGlmIChxdWVyeS5pbmRleE9mKCfku5joiKonKSA+PSAwKSB7DQogICAgdmFyIHBvaW50czIgPSBbJzE5OTQnLCAn5aSn5LiTJywgJ+iEseWPo+engCcsICdQYXNzaW9uJywgJ+WWnOWJp+S5i+eOiyddOw0KICAgIC8vIOS/ruWkje+8muaooeWei+W4uOi+k+WHuuWwj+WGmSBwYXNzaW9u77yM5Y6fIGluZGV4T2Yg5aSn5bCP5YaZ5pWP5oSf5Lya6K+v5Yik57y65aSxIOKGkiDnu5/kuIDlsI/lhpnmr5Tlr7kNCiAgICB2YXIgYW5zTG93ZXIgPSBhbnMudG9Mb3dlckNhc2UoKTsNCiAgICB2YXIgZm91bmQyID0gcG9pbnRzMi5maWx0ZXIoZnVuY3Rpb24ocCkgeyByZXR1cm4gYW5zTG93ZXIuaW5kZXhPZihwLnRvTG93ZXJDYXNlKCkpID49IDA7IH0pOw0KICAgIGNvbnNvbGUubG9nKCflhbPplK7kv6Hmga/ngrk6JywgZm91bmQyLmxlbmd0aCArICcvJyArIHBvaW50czIubGVuZ3RoLCBmb3VuZDIuam9pbignLCAnKSk7DQogICAgaWYgKGZvdW5kMi5sZW5ndGggPCA0KSBjb21wbGV0ZSA9IGZhbHNlOw0KICB9DQogIA0KICBjb25zb2xlLmxvZygnXG4tLS0g5a6M5pW05Zue562UIC0tLScpOw0KICBjb25zb2xlLmxvZyhhbnMpOw0KICBjb25zb2xlLmxvZygnXG4tLS0gW+e7k+adnywg5YWxJyArIGFucy5sZW5ndGggKyAn5a2XXSAtLS0nKTsNCiAgcmV0dXJuIGNvbXBsZXRlICYmICFyZXMuZnJlc2huZXNzLmRvd25ncmFkZWQ7DQp9DQoNCmFzeW5jIGZ1bmN0aW9uIHJ1bigpIHsNCiAgY29uc29sZS5sb2coJz09PSBRMi0yMSDlm57nrZTlrozmlbTmgKfpqozor4HvvIhtYXhfdG9rZW5zPTIwMDDvvIk9PT1cbicpOw0KICB2YXIgcjEgPSBhd2FpdCB0ZXN0T25lKCfohLHlj6Pnp4DmvJTlkZjmiL/kuLvku7snKTsNCiAgdmFyIHIyID0gYXdhaXQgdGVzdE9uZSgn5LuY6Iiq5piv6LCBJyk7DQogIHZhciBwYXNzID0gKHIxPzE6MCkrKHIyPzE6MCk7DQogIGNvbnNvbGUubG9nKCdcbj09PSBRMi0yMSDnu5PmnpzvvJonICsgcGFzcyArICcvMiBQQVNTID09PScpOw0KICBpZiAocGFzcyA8IDIpIHByb2Nlc3MuZXhpdCgxKTsNCn0NCnJ1bigpLmNhdGNoKGZ1bmN0aW9uKGUpIHsgY29uc29sZS5lcnJvcihlKTsgcHJvY2Vzcy5leGl0KDEpOyB9KTsNCg==
+// ============================================================
+// Q2-21 验证：max_tokens=2000 后回答完整性
+// ============================================================
+'use strict';
+
+process.env.FRESHNESS_ENABLED = 'true';
+process.env.FRESHNESS_FACTUAL_ENABLED = 'true';
+process.env.SEARCH_PROVIDER = 'qwen';
+process.env.SEARCH_TIMEOUT_MS = '15000';
+process.env.QWEN_SEARCH_BASE_URL = 'https://dashscope.aliyuncs.com/compatible-mode/v1';
+process.env.QWEN_SEARCH_API_KEY = 'sk-YOUR_API_KEY_HERE';
+process.env.QWEN_SEARCH_MODEL = 'deepseek-v4-flash-0731';
+process.env.QWEN_SEARCH_SYNTH_MODE = 'true';
+process.env.SEARCH_CANARY_ENABLED = 'true';
+process.env.SEARCH_CANARY_OPENIDS = 'YOUR_ADMIN_OPENID';
+process.env.PRIVACY_GATE_ENABLED = 'true';
+
+var freshness = require('../cloudfunctions/chat/freshness');
+var maybeHandle = freshness.maybeHandle;
+
+var MODELS = [{
+  name: 'deepseek-v4-flash-0731',
+  baseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  apiKey: 'sk-YOUR_API_KEY_HERE',
+  model: 'deepseek-v4-flash-0731',
+  timeout: 25000
+}];
+
+async function testOne(query) {
+  console.log('\n========================================');
+  console.log('问法: "' + query + '"');
+  var t0 = Date.now();
+  var res = await maybeHandle(query, {
+    models: MODELS,
+    openid: 'YOUR_ADMIN_OPENID',
+    answerMode: 'think',
+    history: []
+  });
+  var elapsed = Date.now() - t0;
+  
+  if (!res) { console.log('❌ null'); return false; }
+  
+  var ans = res.answer || '';
+  console.log('耗时:', elapsed, 'ms');
+  console.log('长度:', ans.length, '字');
+  console.log('direct_factual:', !!(res.freshness && res.freshness.direct_factual));
+  console.log('downgraded:', !!(res.freshness && res.freshness.downgraded));
+  
+  // 检查完整性
+  var complete = true;
+  if (ans.length < 400) { console.log('⚠️ 偏短(<400字)'); complete = false; }
+  else if (ans.length < 800) { console.log('⚠️ 中等长度(400-800)'); }
+  else { console.log('✅ 长度充足(>800字)'); }
+  
+  // 检查是否截断（最后一个完整句子之后是否紧跟免责声明）
+  var hasDisclaimer = /（以上为网络综合内容/u.test(ans);
+  if (!hasDisclaimer) { console.log('⚠️ 缺免责声明'); complete = false; }
+  
+  // 检查关键信息点（房主任）
+  if (query.indexOf('房') >= 0) {
+    var points = ['房绍莉', '临沂', '初中', '脱口秀', '停演', '争议'];
+    var found = points.filter(function(p) { return ans.indexOf(p) >= 0; });
+    console.log('关键信息点:', found.length + '/' + points.length, found.join(', '));
+    if (found.length < 4) complete = false;
+  }
+  
+  // 付航
+  if (query.indexOf('付航') >= 0) {
+    var points2 = ['1994', '大专', '脱口秀', 'Passion', '喜剧之王'];
+    // 修复：模型常输出小写 passion，原 indexOf 大小写敏感会误判缺失 → 统一小写比对
+    var ansLower = ans.toLowerCase();
+    var found2 = points2.filter(function(p) { return ansLower.indexOf(p.toLowerCase()) >= 0; });
+    console.log('关键信息点:', found2.length + '/' + points2.length, found2.join(', '));
+    if (found2.length < 4) complete = false;
+  }
+  
+  console.log('\n--- 完整回答 ---');
+  console.log(ans);
+  console.log('\n--- [结束, 共' + ans.length + '字] ---');
+  return complete && !res.freshness.downgraded;
+}
+
+async function run() {
+  console.log('=== Q2-21 回答完整性验证（max_tokens=2000）===\n');
+  var r1 = await testOne('脱口秀演员房主任');
+  var r2 = await testOne('付航是谁');
+  var pass = (r1?1:0)+(r2?1:0);
+  console.log('\n=== Q2-21 结果：' + pass + '/2 PASS ===');
+  if (pass < 2) process.exit(1);
+}
+run().catch(function(e) { console.error(e); process.exit(1); });

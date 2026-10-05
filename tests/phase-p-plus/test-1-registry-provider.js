@@ -1,1 +1,137 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIOa1i+ivlSAx77yaUmVnaXN0cnkgUHJvdmlkZXIg5LiA6Ie05oCnICsg5Y+v5pu/5o2i5oCnCi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQovLyDlrojmiqTnuqbmnZ/vvIhkb2NzLzY0IMKnOCBFeHRlbnNpb24gQm91bmRhcnkgLyBkb2NzLzY377yJ77yaCi8vICAgwrcgZ2V0UmF3KCkg5LiO5Y6f55SfIEpTT04ucGFyc2Ug6K+75Y+WIG8xLXJlZ2lzdHJ5Lmpzb24gKioxMDAlIOS4gOiHtCoqCi8vICAgwrcg5rS+55Sf5p+l6K+i5pa55rOV6K+t5LmJ5LiO5Y6f5aeLIHJlY29yZHMg5LiA6Ie0Ci8vICAgwrcg5oq96LGh5bGCKirlj6/mm7/mjaIqKu+8muaNouS4gOS4quWunueOsO+8iOWGheWtmCBQcm92aWRlcu+8ieWQju+8jOaJgOacieiwg+eUqOaWuQovLyAgICAg5ou/5Yiw55qE5rS+55Sf57uT5p6c5b+F6aG76YCQ5a2X6IqC55u45ZCMIOKAlOKAlCDor4HmmI4i5pyq5p2l5o2i5LqR5pWw5o2u5bqT6Zu25pS55YqoIgovLyAgIMK3IGdldFVuaWZpZWRSZWNvcmRzIOWvuSBjb3JwdXMuanNvbiDmmK8qKuWPquivuyoq77yI5ZOI5biM5LiN5Y+Y77yJCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQoKJ3VzZSBzdHJpY3QnOwoKY29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwpjb25zdCBwYXRoID0gcmVxdWlyZSgncGF0aCcpOwpjb25zdCBjcnlwdG8gPSByZXF1aXJlKCdjcnlwdG8nKTsKCmNvbnN0IENIQVQgPSBwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAnLi4nLCAnLi4nLCAnY2xvdWRmdW5jdGlvbnMnLCAnY2hhdCcpOwpjb25zdCB7IFJlZ2lzdHJ5UHJvdmlkZXIsIGNyZWF0ZVJlZ2lzdHJ5UHJvdmlkZXIgfSA9IHJlcXVpcmUocGF0aC5qb2luKENIQVQsICdyZWdpc3RyeScsICdyZWdpc3RyeVByb3ZpZGVyJykpOwoKY29uc3QgUkVHSVNUUllfUEFUSCA9IHBhdGgucmVzb2x2ZShfX2Rpcm5hbWUsICcuLicsICdwaWxvdC1vMScsICdvMS1yZWdpc3RyeS5qc29uJyk7CmNvbnN0IENPUlBVU19QQVRIID0gcGF0aC5qb2luKENIQVQsICdjb3JwdXMuanNvbicpOwoKZnVuY3Rpb24gc2hhMjU2KGZpbGUpIHsKICByZXR1cm4gY3J5cHRvLmNyZWF0ZUhhc2goJ3NoYTI1NicpLnVwZGF0ZShmcy5yZWFkRmlsZVN5bmMoZmlsZSkpLmRpZ2VzdCgnaGV4Jyk7Cn0KCi8qKiDnrKzkuoznp43lrp7njrDvvJrnuq/lhoXlrZggUHJvdmlkZXLvvIzlj6rlrp7njrAgZ2V0UmF3KCnjgILnlKjkuo7pqozor4Hmir3osaHlj6/mm7/mjaLjgIIgKi8KY2xhc3MgTWVtb3J5UmVnaXN0cnlQcm92aWRlciBleHRlbmRzIFJlZ2lzdHJ5UHJvdmlkZXIgewogIGNvbnN0cnVjdG9yKGNvbmZpZykgewogICAgc3VwZXIoY29uZmlnKTsKICAgIHRoaXMucmF3ID0gY29uZmlnLnJhdzsKICB9CiAgZ2V0UmF3KCkgewogICAgcmV0dXJuIEpTT04ucGFyc2UoSlNPTi5zdHJpbmdpZnkodGhpcy5yYXcpKTsKICB9Cn0KCm1vZHVsZS5leHBvcnRzID0gewogIG5hbWU6ICdSZWdpc3RyeSBQcm92aWRlciDkuIDoh7TmgKfkuI7lj6/mm7/mjaLmgKcnLAogIHJ1bih0KSB7CiAgICAvLyAtLS0gMS4gZ2V0UmF3KCkg5LiO5Y6f55Sf6K+75Y+W5a6M5YWo5LiA6Ie0IC0tLQogICAgY29uc3QgbmF0aXZlID0gSlNPTi5wYXJzZShmcy5yZWFkRmlsZVN5bmMoUkVHSVNUUllfUEFUSCwgJ3V0Zi04JykpOwogICAgY29uc3QgcHJvdmlkZXIgPSBjcmVhdGVSZWdpc3RyeVByb3ZpZGVyKHsKICAgICAgdHlwZTogJ2pzb24nLAogICAgICBmaWxlUGF0aDogUkVHSVNUUllfUEFUSCwKICAgICAgY29ycHVzUGF0aDogQ09SUFVTX1BBVEgsCiAgICB9KTsKICAgIGNvbnN0IHZpYVByb3ZpZGVyID0gcHJvdmlkZXIuZ2V0UmF3KCk7CgogICAgdC5kZWVwRXF1YWwodmlhUHJvdmlkZXIsIG5hdGl2ZSwgJ2dldFJhdygpIOS4juWOn+eUnyBKU09OLnBhcnNlIOe7k+aenCAxMDAlIOS4gOiHtCcpOwogICAgdC5lcXVhbCgKICAgICAgSlNPTi5zdHJpbmdpZnkodmlhUHJvdmlkZXIpLAogICAgICBKU09OLnN0cmluZ2lmeShuYXRpdmUpLAogICAgICAnZ2V0UmF3KCkg5bqP5YiX5YyW5ZCO6YCQ5a2X56ym5LiA6Ie077yI5a2X5q616aG65bqP5pyq6KKr5pS55YaZ77yJJwogICAgKTsKCiAgICAvLyAtLS0gMi4g5rS+55Sf5pa55rOV6K+t5LmJ5q2j56GuIC0tLQogICAgdC5kZWVwRXF1YWwocHJvdmlkZXIuZ2V0QWxsKCksIG5hdGl2ZS5yZWNvcmRzLCAnZ2V0QWxsKCkgPT09IHJhdy5yZWNvcmRzJyk7CgogICAgY29uc3Qgc3RhdHMgPSBwcm92aWRlci5nZXRTdGF0cygpOwogICAgdC5lcXVhbChzdGF0cy50b3RhbCwgbmF0aXZlLnJlY29yZHMubGVuZ3RoLCAnZ2V0U3RhdHMoKS50b3RhbCDnrYnkuo4gcmVjb3JkcyDplb/luqYnKTsKICAgIGNvbnN0IHN0YXR1c1N1bSA9IE9iamVjdC5rZXlzKHN0YXRzLmJ5U3RhdHVzKS5yZWR1Y2UoKHMsIGspID0+IHMgKyBzdGF0cy5ieVN0YXR1c1trXSwgMCk7CiAgICB0LmVxdWFsKHN0YXR1c1N1bSwgc3RhdHMudG90YWwsICdieVN0YXR1cyDliIbluIPmsYLlkoznrYnkuo4gdG90YWzvvIjml6DpgZfmvI8v6YeN5aSN6K6h5pWw77yJJyk7CiAgICBjb25zdCB0eXBlU3VtID0gT2JqZWN0LmtleXMoc3RhdHMuYnlUeXBlKS5yZWR1Y2UoKHMsIGspID0+IHMgKyBzdGF0cy5ieVR5cGVba10sIDApOwogICAgdC5lcXVhbCh0eXBlU3VtLCBzdGF0cy50b3RhbCwgJ2J5VHlwZSDliIbluIPmsYLlkoznrYnkuo4gdG90YWwnKTsKCiAgICBjb25zdCBmaXJzdCA9IG5hdGl2ZS5yZWNvcmRzWzBdOwogICAgdC5lcXVhbChwcm92aWRlci5nZXRCeUlkKGZpcnN0Lmtub3dsZWRnZV9pZCkubGVuZ3RoLCAxLCAnZ2V0QnlJZCDlkb3kuK3llK/kuIDorrDlvZXvvIgnICsgZmlyc3Qua25vd2xlZGdlX2lkICsgJ++8iScpOwogICAgdC5lcXVhbChwcm92aWRlci5nZXRCeUlkKCdOT1QtRVhJU1QtSUQnKS5sZW5ndGgsIDAsICdnZXRCeUlkIOacquWRveS4rei/lOWbnuepuuaVsOe7hO+8iOS4jeaKm+mUme+8iScpOwogICAgdC5lcXVhbCgKICAgICAgcHJvdmlkZXIuZ2V0QnlTdGF0dXMoZmlyc3Quc3RhdHVzKS5sZW5ndGgsCiAgICAgIG5hdGl2ZS5yZWNvcmRzLmZpbHRlcigocikgPT4gci5zdGF0dXMgPT09IGZpcnN0LnN0YXR1cykubGVuZ3RoLAogICAgICAnZ2V0QnlTdGF0dXMg6K6h5pWw5LiO5Y6f5aeL5pWw5o2u5LiA6Ie0JwogICAgKTsKICAgIHQuZXF1YWwoCiAgICAgIHByb3ZpZGVyLmdldEJ5VHlwZShmaXJzdC5rbm93bGVkZ2VfdHlwZSkubGVuZ3RoLAogICAgICBuYXRpdmUucmVjb3Jkcy5maWx0ZXIoKHIpID0+IChyLmtub3dsZWRnZV90eXBlIHx8ICdjbGFzc2ljJykgPT09IGZpcnN0Lmtub3dsZWRnZV90eXBlKS5sZW5ndGgsCiAgICAgICdnZXRCeVR5cGUg6K6h5pWw5LiO5Y6f5aeL5pWw5o2u5LiA6Ie0JwogICAgKTsKCiAgICAvLyAtLS0gMy4g5Y+v5pu/5o2i5oCn77ya5o2i5a6e546w77yM5rS+55Sf57uT5p6c5b+F6aG75a6M5YWo55u45ZCMIC0tLQogICAgY29uc3QgbWVtID0gbmV3IE1lbW9yeVJlZ2lzdHJ5UHJvdmlkZXIoeyByYXc6IG5hdGl2ZSwgY29ycHVzUGF0aDogQ09SUFVTX1BBVEggfSk7CiAgICB0LmRlZXBFcXVhbChtZW0uZ2V0QWxsKCksIHByb3ZpZGVyLmdldEFsbCgpLCAn5o2i5a6e546w5ZCOIGdldEFsbCgpIOe7k+aenOebuOWQjCcpOwogICAgdC5kZWVwRXF1YWwobWVtLmdldFN0YXRzKCksIHByb3ZpZGVyLmdldFN0YXRzKCksICfmjaLlrp7njrDlkI4gZ2V0U3RhdHMoKSDnu5Pmnpznm7jlkIwnKTsKICAgIHQuZGVlcEVxdWFsKAogICAgICBtZW0uZ2V0VW5pZmllZFJlY29yZHMoQ09SUFVTX1BBVEgpLAogICAgICBwcm92aWRlci5nZXRVbmlmaWVkUmVjb3JkcyhDT1JQVVNfUEFUSCksCiAgICAgICfmjaLlrp7njrDlkI4gZ2V0VW5pZmllZFJlY29yZHMoKSDnu5Pmnpznm7jlkIwg4oCU4oCUIOaKveixoeWxguWPr+abv+aNouaIkOeriycKICAgICk7CgogICAgLy8gLS0tIDQuIOaKveixoeWfuuexu+Wlkee6pu+8muacquWunueOsCBnZXRSYXcoKSDlv4XpobvmmL7lvI/miqXplJnvvIzkuI3pnZnpu5jov5Tlm57nqbogLS0tCiAgICBsZXQgdGhyZXcgPSBmYWxzZTsKICAgIHRyeSB7CiAgICAgIG5ldyBSZWdpc3RyeVByb3ZpZGVyKHt9KS5nZXRBbGwoKTsKICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgdGhyZXcgPSAvbXVzdCBiZSBpbXBsZW1lbnRlZC8udGVzdChlLm1lc3NhZ2UpOwogICAgfQogICAgdC5vayh0aHJldywgJ+Wfuuexu+acquWunueOsCBnZXRSYXcoKSDml7bmmL7lvI/mipvplJnvvIjkuI3pnZnpu5jpmY3nuqfkuLrnqbrmlbDmja7vvIknKTsKCiAgICAvLyAtLS0gNS4g5bel5Y6C5pyq55+l57G75Z6L5b+F6aG75oql6ZSZIC0tLQogICAgbGV0IGZhY1RocmV3ID0gZmFsc2U7CiAgICB0cnkgewogICAgICBjcmVhdGVSZWdpc3RyeVByb3ZpZGVyKHsgdHlwZTogJ215c3FsJyB9KTsKICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgZmFjVGhyZXcgPSAvVW5rbm93biByZWdpc3RyeSBwcm92aWRlciB0eXBlLy50ZXN0KGUubWVzc2FnZSk7CiAgICB9CiAgICB0Lm9rKGZhY1RocmV3LCAn5bel5Y6C5a+55pyq55+lIHByb3ZpZGVyIOexu+Wei+aYvuW8j+aKm+mUmScpOwoKICAgIC8vIC0tLSA2LiDnu5/kuIDop4blm77vvJrnu4/lhbjlj6ror7vlubblhaXvvIxjb3JwdXMuanNvbiDlk4jluIzkuI3lj5ggLS0tCiAgICBjb25zdCBiZWZvcmUgPSBzaGEyNTYoQ09SUFVTX1BBVEgpOwogICAgY29uc3QgdW5pZmllZCA9IHByb3ZpZGVyLmdldFVuaWZpZWRSZWNvcmRzKENPUlBVU19QQVRIKTsKICAgIGNvbnN0IGFmdGVyID0gc2hhMjU2KENPUlBVU19QQVRIKTsKICAgIHQuZXF1YWwoYWZ0ZXIsIGJlZm9yZSwgJ2dldFVuaWZpZWRSZWNvcmRzIOWvuSBjb3JwdXMuanNvbiDlj6ror7vvvIhTSEEyNTYg5LiN5Y+Y77yJJyk7CgogICAgY29uc3QgZnJvbUNvcnB1cyA9IHVuaWZpZWQuZmlsdGVyKChyKSA9PiByLnNvdXJjZSA9PT0gJ2NvcnB1cycpOwogICAgY29uc3QgZnJvbVJlZ2lzdHJ5ID0gdW5pZmllZC5maWx0ZXIoKHIpID0+IHIuc291cmNlID09PSAncmVnaXN0cnknKTsKICAgIGNvbnN0IGNvcnB1c1JhdyA9IEpTT04ucGFyc2UoZnMucmVhZEZpbGVTeW5jKENPUlBVU19QQVRILCAndXRmLTgnKSk7CiAgICB0LmVxdWFsKGZyb21Db3JwdXMubGVuZ3RoLCBjb3JwdXNSYXcubGVuZ3RoLCAn57uf5LiA6KeG5Zu+5Lit57uP5YW45p2h5pWwID09IGNvcnB1cy5qc29uIOadoeebruaVsCcpOwogICAgdC5lcXVhbChmcm9tUmVnaXN0cnkubGVuZ3RoLCBuYXRpdmUucmVjb3Jkcy5sZW5ndGgsICfnu5/kuIDop4blm77kuK3orqTor4Hlr7nosaHmnaHmlbAgPT0gcmVnaXN0cnkg6K6w5b2V5pWwJyk7CiAgICB0LmVxdWFsKHVuaWZpZWQubGVuZ3RoLCBjb3JwdXNSYXcubGVuZ3RoICsgbmF0aXZlLnJlY29yZHMubGVuZ3RoLCAn57uf5LiA6KeG5Zu+5oC75pWwID0g57uP5YW4ICsg6K6k6K+B77yI5peg6YeN5aSN6K6h5pWw77yJJyk7CiAgICB0Lm9rKAogICAgICB1bmlmaWVkLmV2ZXJ5KChyKSA9PiByLmtub3dsZWRnZV9pZCAmJiByLmtub3dsZWRnZV90eXBlICYmIHIuc3RhdHVzICYmIHR5cGVvZiByLnF1YWxpdHlfc2NvcmUgPT09ICdudW1iZXInKSwKICAgICAgJ+e7n+S4gOinhuWbvuavj+adoeiusOW9leWtl+auteinhOiMg+WMluWujOaVtCcKICAgICk7CiAgICB0Lm9rKAogICAgICBmcm9tQ29ycHVzLmV2ZXJ5KChyKSA9PiByLmtub3dsZWRnZV9pZC5pbmRleE9mKCdjbGFzc2ljOicpID09PSAwKSwKICAgICAgJ+e7j+WFuOiusOW9lee7n+S4gOWKoCBjbGFzc2ljOiDliY3nvIDvvIjkuI7orqTor4Hlr7nosaEgSUQg56m66Ze06ZqU56a777yJJwogICAgKTsKCiAgICAvLyAtLS0gNy4gY29ycHVzIOi3r+W+hOS4jeWPr+ivu+aXtuS8mOmbhemZjee6p++8iOS4jeaKm+mUmeOAgeS4jeS8qumAoOe7j+WFuO+8iSAtLS0KICAgIGNvbnN0IGRlZ3JhZGVkID0gcHJvdmlkZXIuZ2V0VW5pZmllZFJlY29yZHMocGF0aC5qb2luKF9fZGlybmFtZSwgJ19fbm9fc3VjaF9jb3JwdXNfXy5qc29uJykpOwogICAgdC5lcXVhbChkZWdyYWRlZC5sZW5ndGgsIG5hdGl2ZS5yZWNvcmRzLmxlbmd0aCwgJ2NvcnB1cyDkuI3lj6/or7vml7blj6rov5Tlm57orqTor4Hlr7nosaHvvIjpmY3nuqfkuI3mipvplJnjgIHkuI3kvKrpgKDvvIknKTsKCiAgICB0LmluZm8oJ+azqOWGjOihqOWunumZheWGheWuue+8micgKyBuYXRpdmUucmVjb3Jkcy5sZW5ndGggKyAnIOadoeiupOivgeWvueixoe+8jHNjaGVtYT0nICsgbmF0aXZlLnNjaGVtYSk7CiAgfSwKfTsK
+// ============================================================
+// 测试 1：Registry Provider 一致性 + 可替换性
+// ------------------------------------------------------------
+// 守护约束（docs/64 §8 Extension Boundary / docs/67）：
+//   · getRaw() 与原生 JSON.parse 读取 o1-registry.json **100% 一致**
+//   · 派生查询方法语义与原始 records 一致
+//   · 抽象层**可替换**：换一个实现（内存 Provider）后，所有调用方
+//     拿到的派生结果必须逐字节相同 —— 证明"未来换云数据库零改动"
+//   · getUnifiedRecords 对 corpus.json 是**只读**（哈希不变）
+// ============================================================
+
+'use strict';
+
+const fs = require('fs');
+const path = require('path');
+const crypto = require('crypto');
+
+const CHAT = path.resolve(__dirname, '..', '..', 'cloudfunctions', 'chat');
+const { RegistryProvider, createRegistryProvider } = require(path.join(CHAT, 'registry', 'registryProvider'));
+
+const REGISTRY_PATH = path.resolve(__dirname, '..', 'pilot-o1', 'o1-registry.json');
+const CORPUS_PATH = path.join(CHAT, 'corpus.json');
+
+function sha256(file) {
+  return crypto.createHash('sha256').update(fs.readFileSync(file)).digest('hex');
+}
+
+/** 第二种实现：纯内存 Provider，只实现 getRaw()。用于验证抽象可替换。 */
+class MemoryRegistryProvider extends RegistryProvider {
+  constructor(config) {
+    super(config);
+    this.raw = config.raw;
+  }
+  getRaw() {
+    return JSON.parse(JSON.stringify(this.raw));
+  }
+}
+
+module.exports = {
+  name: 'Registry Provider 一致性与可替换性',
+  run(t) {
+    // --- 1. getRaw() 与原生读取完全一致 ---
+    const native = JSON.parse(fs.readFileSync(REGISTRY_PATH, 'utf-8'));
+    const provider = createRegistryProvider({
+      type: 'json',
+      filePath: REGISTRY_PATH,
+      corpusPath: CORPUS_PATH,
+    });
+    const viaProvider = provider.getRaw();
+
+    t.deepEqual(viaProvider, native, 'getRaw() 与原生 JSON.parse 结果 100% 一致');
+    t.equal(
+      JSON.stringify(viaProvider),
+      JSON.stringify(native),
+      'getRaw() 序列化后逐字符一致（字段顺序未被改写）'
+    );
+
+    // --- 2. 派生方法语义正确 ---
+    t.deepEqual(provider.getAll(), native.records, 'getAll() === raw.records');
+
+    const stats = provider.getStats();
+    t.equal(stats.total, native.records.length, 'getStats().total 等于 records 长度');
+    const statusSum = Object.keys(stats.byStatus).reduce((s, k) => s + stats.byStatus[k], 0);
+    t.equal(statusSum, stats.total, 'byStatus 分布求和等于 total（无遗漏/重复计数）');
+    const typeSum = Object.keys(stats.byType).reduce((s, k) => s + stats.byType[k], 0);
+    t.equal(typeSum, stats.total, 'byType 分布求和等于 total');
+
+    const first = native.records[0];
+    t.equal(provider.getById(first.knowledge_id).length, 1, 'getById 命中唯一记录（' + first.knowledge_id + '）');
+    t.equal(provider.getById('NOT-EXIST-ID').length, 0, 'getById 未命中返回空数组（不抛错）');
+    t.equal(
+      provider.getByStatus(first.status).length,
+      native.records.filter((r) => r.status === first.status).length,
+      'getByStatus 计数与原始数据一致'
+    );
+    t.equal(
+      provider.getByType(first.knowledge_type).length,
+      native.records.filter((r) => (r.knowledge_type || 'classic') === first.knowledge_type).length,
+      'getByType 计数与原始数据一致'
+    );
+
+    // --- 3. 可替换性：换实现，派生结果必须完全相同 ---
+    const mem = new MemoryRegistryProvider({ raw: native, corpusPath: CORPUS_PATH });
+    t.deepEqual(mem.getAll(), provider.getAll(), '换实现后 getAll() 结果相同');
+    t.deepEqual(mem.getStats(), provider.getStats(), '换实现后 getStats() 结果相同');
+    t.deepEqual(
+      mem.getUnifiedRecords(CORPUS_PATH),
+      provider.getUnifiedRecords(CORPUS_PATH),
+      '换实现后 getUnifiedRecords() 结果相同 —— 抽象层可替换成立'
+    );
+
+    // --- 4. 抽象基类契约：未实现 getRaw() 必须显式报错，不静默返回空 ---
+    let threw = false;
+    try {
+      new RegistryProvider({}).getAll();
+    } catch (e) {
+      threw = /must be implemented/.test(e.message);
+    }
+    t.ok(threw, '基类未实现 getRaw() 时显式抛错（不静默降级为空数据）');
+
+    // --- 5. 工厂未知类型必须报错 ---
+    let facThrew = false;
+    try {
+      createRegistryProvider({ type: 'mysql' });
+    } catch (e) {
+      facThrew = /Unknown registry provider type/.test(e.message);
+    }
+    t.ok(facThrew, '工厂对未知 provider 类型显式抛错');
+
+    // --- 6. 统一视图：经典只读并入，corpus.json 哈希不变 ---
+    const before = sha256(CORPUS_PATH);
+    const unified = provider.getUnifiedRecords(CORPUS_PATH);
+    const after = sha256(CORPUS_PATH);
+    t.equal(after, before, 'getUnifiedRecords 对 corpus.json 只读（SHA256 不变）');
+
+    const fromCorpus = unified.filter((r) => r.source === 'corpus');
+    const fromRegistry = unified.filter((r) => r.source === 'registry');
+    const corpusRaw = JSON.parse(fs.readFileSync(CORPUS_PATH, 'utf-8'));
+    t.equal(fromCorpus.length, corpusRaw.length, '统一视图中经典条数 == corpus.json 条目数');
+    t.equal(fromRegistry.length, native.records.length, '统一视图中认证对象条数 == registry 记录数');
+    t.equal(unified.length, corpusRaw.length + native.records.length, '统一视图总数 = 经典 + 认证（无重复计数）');
+    t.ok(
+      unified.every((r) => r.knowledge_id && r.knowledge_type && r.status && typeof r.quality_score === 'number'),
+      '统一视图每条记录字段规范化完整'
+    );
+    t.ok(
+      fromCorpus.every((r) => r.knowledge_id.indexOf('classic:') === 0),
+      '经典记录统一加 classic: 前缀（与认证对象 ID 空间隔离）'
+    );
+
+    // --- 7. corpus 路径不可读时优雅降级（不抛错、不伪造经典） ---
+    const degraded = provider.getUnifiedRecords(path.join(__dirname, '__no_such_corpus__.json'));
+    t.equal(degraded.length, native.records.length, 'corpus 不可读时只返回认证对象（降级不抛错、不伪造）');
+
+    t.info('注册表实际内容：' + native.records.length + ' 条认证对象，schema=' + native.schema);
+  },
+};

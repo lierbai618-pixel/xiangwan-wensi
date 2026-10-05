@@ -1,1 +1,142 @@
-IyBQaGFzZSBSIFRlc3QgUmVwb3J0CiMjIyBDYXBhYmlsaXR5IExheWVyIOS4iue6v+WJjea1i+ivleaJp+ihjOaKpeWRigoKfCDpobkgfCDlgLwgfAp8LS0tfC0tLXwKfCDmiafooYzml7bpl7QgfCAyMDI2LTA4LTA1IDEyOjI2IChHTVQrOCkgfAp8IOaJp+ihjOi/kOihjOaXtiB8IE5vZGUgMjIuMjIuMu+8iOeUn+S6p+S4uiBOb2RlanMxNi4xM++8jOW3ruW8guingSDCpzXvvIkgfAp8IOa1i+ivleaAp+i0qCB8IOWbnuW9kumqjOivge+8jCoq5pyq5L+u5pS55Lu75L2V5rWL6K+V5pat6KiAKiogfAp8ICoq5oC75L2T57uT6K66KiogfCAqKuS4u+a1i+ivlSBQQVNT77yM5omp5bGV5o6i5rWL5Y+R546wIDEg6aG5IFAxIOe8uumZt++8iFItMDAx77yJKiogfAoKLS0tCgojIyAxLiDmiafooYznuqrlvosKCuS4peagvOmBteWuiCLkuI3kuLrkuobpgJrov4fmtYvor5XogIzkv67mlLnmtYvor5Ui77yaCgotIOacrOi9rioq5pyq5pS55YqoKiogYHRlc3RfY2FwYWJpbGl0aWVzLmpzYCAvIGB0ZXN0X2ZyZXNobmVzcy5qc2AgLyBgdGVzdF9waGFzZWUyLmpzYCDku7vkvZXkuIDooYzjgIIKLSDmianlsZXmjqLmtYvvvIhTdGVwIDQg55Sf5Lqn6aOO6Zmp77yJ5LulKirlhoXogZTmiafooYwqKuWujOaIkO+8jOacquiQveS4tOaXtuiEmuacrOOAgeacquaxoeafk+S7k+W6k+OAggotIOaOoua1i+WPkeeOsOeahOWksei0pemhueaMiee8uumZt+eZu+iusOWkhOeQhu+8jCoq5pyq6YCa6L+H5pS+5a695pat6KiA5L2/5YW2IumAmui/hyIqKuOAggoKLS0tCgojIyAyLiBTdGVwIDIg4oCUIOS4u+a1i+ivle+8mmB0ZXN0X2NhcGFiaWxpdGllcy5qc2AKCmBgYArlkb3ku6TvvJpub2RlIHdlYXBwL3NjcmlwdHMvdGVzdF9jYXBhYmlsaXRpZXMuanMK57uT5p6c77ya6YCa6L+HIDYwIC8gNjAK54q25oCB77ya5YWo6YOo6YCa6L+HIOKchQpgYGAKCiMjIyDliIbnu4Tnu5PmnpwKCnwg57uEIHwg5YaF5a65IHwg57uT5p6cIHwKfC0tLXwtLS18LS0tfAp8IEHigJNIIHwg6Lev55Sx6K+G5YirIC8g5pe26Ze0IC8g6K6h566XIC8g5aSp5rCUIC8g5L2N572uIC8g5ZCm5Yaz5bGCIC8g5qC85byP5YyWIC8g5a6J5YWo5oCnIHwg4pyFIHwKfCBJIHwg56uv5Yiw56uv6LCD55So6ZO+77yI5pe26Ze044CB6K6h566X44CB5aSp5rCU6L6555WM44CB5L2N572u6L6555WM77ybYG1vZGU9Y2FwYWJpbGl0eWDvvJvml6AgYGNpdGF0aW9uc2DvvIkgfCDinIUgNi82IHwKfCBKIHwg6KeC5rWL5a2X5q6177yI6JC95bqT44CBYGJ5cGFzc19yYWdg44CBZnJlc2huZXNzIOS6kuaWpeS4uiBudWxs44CB6Z2e6IO95Yqb6Lev5b6E5oGSIG51bGzjgIHkvY3nva7kuI3lkKvlnZDmoIfmmI7mlofvvIkgfCDinIUgNS81IHwKfCBLIHwg5LiJ5bGC6L6555WM6ZqU56a777yI6Zu25byV55SoIGNvcnB1cy9yYWcva25vd2xlZGdlUm91dGVyL2VtYmVkZGluZ++8m+S7heWPquivu+W8leeUqCBpbnRlbnQuanPvvIkgfCDinIUgMi8yIHwKCioqNjAvNjAg6L6+5oiQ77yM5LiOIFBoYXNlIFIg5byA5Y+R5Lqk5LuY5pe255qE57uT5p6c5LiA6Ie077yM5peg6KGw5YeP44CCKioKCi0tLQoKIyMgMy4gU3RlcCA0IOKAlCDmianlsZXmjqLmtYvvvJrnlJ/kuqfpo47pmakKCiMjIyAzLjEgRmFsc2UgUG9zaXRpdmUg4oCU4oCUIENhcGFiaWxpdHkg5piv5ZCm5oqi5Y2g5ZOy5a2m6Zeu6aKYCgropoHmsYLvvJrku6XkuIvlv4Xpobvlm54gUkFH44CCCgp8ICMgfCDovpPlhaUgfCDnu5PmnpwgfCDlkKblhrPkv6Hlj7cgfAp8LS0tfC0tLXwtLS18LS0tfAp8IDEgfCDml7bpl7TnmoTmhI/kuYnmmK/ku4DkuYggfCDinIUg5ZueIFJBRyB8IGB2ZXRvLW1lYW5pbmdgIHwKfCAyIHwg5pe26Ze06L+H5b6X5aW95b+r5oCO5LmI5YqeIHwg4pyFIOWbniBSQUcgfCBgdmV0by1tZXRhcGhvcmAgfAp8IDMgfCDlpoLkvZXnrqHnkIbml7bpl7QgfCDinIUg5ZueIFJBRyB8IGB2ZXRvLWxpZmVhZHZpY2VgIHwKfCA0IHwg5Lq655Sf55qE5oSP5LmJ5piv5LuA5LmIIHwg4pyFIOWbniBSQUcgfCBgdmV0by1tZWFuaW5nYCB8CnwgNSB8IOaAjuS5iOeci+W+heaXtumXtOeahOa1gemAnSB8IOKchSDlm54gUkFHIHwgYHZldG8tb3Bpbmlvbit2ZXRvLW1ldGFwaG9yYCB8CnwgNiB8IOaXtumXtOmDveWOu+WTquS6hiB8IOKchSDlm54gUkFHIHwgYHZldG8tbWV0YXBob3JgIHwKfCA3IHwg6K+l5LiN6K+l54+N5oOc5pe26Ze0IHwg4pyFIOWbniBSQUcgfCBgdmV0by1tZXRhcGhvcmAgfAp8IDggfCDml7bpl7TnmoTmnKzotKggfCDinIUg5ZueIFJBRyB8IGB2ZXRvLW1lYW5pbmdgIHwKCioqRmFsc2UgUG9zaXRpdmUgPSAwIC8gOOOAgioqCgropoHmsYLvvJrku6XkuIvlv4XpobvotbAgQ2FwYWJpbGl0eeOAggoKfCAjIHwg6L6T5YWlIHwg57uT5p6cIHwKfC0tLXwtLS18LS0tfAp8IDEgfCDnjrDlnKjlh6DngrkgfCDinIUgYHRpbWVfcXVlcnkvdGltZWAgfAp8IDIgfCDku4rlpKnlh6Dlj7cgfCDinIUgYHRpbWVfcXVlcnkvZGF0ZWAgfAp8IDMgfCDnjrDlnKjmmK/mmJ/mnJ/lh6AgfCDinIUgYHRpbWVfcXVlcnkvd2Vla2RheWAgfAp8IDQgfCAyMys0NeetieS6juWkmuWwkSB8IOKchSBgY2FsY3VsYXRpb25fcXVlcnkvYXJpdGhtZXRpY2AgfAp8IDUgfCDku4rlpKnlpKnmsJTmgI7kuYjmoLcgfCDinIUgYHdlYXRoZXJfcXVlcnkvdG9kYXlgIHwKfCA2IHwg5oiR5Zyo5ZOqIHwg4pyFIGBsb2NhdGlvbl9xdWVyeS9zZWxmYCB8CnwgNyB8ICoq546w5Zyo5YyX5Lqs5pe26Ze0KiogfCDinYwgKirlm54gUkFHKiog4oaSIFItMDAxIHwKCiMjIyAzLjIg5oOF57uq5YWx5a2YCgp8IOi+k+WFpSB8IGhpdCB8IGVtb3Rpb25hbCB8IOWIpOWumiB8CnwtLS18LS0tfC0tLXwtLS18Cnwg5oiR5aW954Sm6JmR77yM546w5Zyo5Yeg54K55LqGIHwgdHJ1ZSB8IHRydWUgfCDinIUg5LqL5a6e54Wn57uZICsg6K+t5rCU5YiH5o2iIHwKfCDnnaHkuI3nnYDvvIznjrDlnKjlh6DngrkgfCB0cnVlIHwgdHJ1ZSB8IOKchSDlkIzkuIogfAoK5oOF57uq5LiN5ZCm5Yaz5LqL5a6e6K+J5rGC77yM5LuF5pS55Y+Y5pS25bC+6K+t5rCU4oCU4oCU6K6+6K6h5oSP5Zu+5b6X5Yiw6aqM6K+B44CCCgojIyMgMy4zIEZhbHNlIE5lZ2F0aXZlIOmdoumHj+WMlu+8iDE5IOadoeiHqueEtumXruazleaOoua1i++8iQoKfCDovpPlhaUgfCDnu5PmnpwgfAp8LS0tfC0tLXwKfCDnjrDlnKjlh6DngrnkuoYgLyDlh6DngrnkuoYgLyDnjrDlnKjml7bpl7QgLyDlvZPliY3ml7bpl7QgLyDnjrDlnKjmmK/lh6DngrkgLyDmiqXkuIvml7bpl7QgfCDinIUgSElUIGB0aW1lYCB8Cnwg5LuK5aSp5piv5Yeg5Y+3IHwg4pyFIEhJVCBgZGF0ZWAgfAp8IOeOsOWcqOaYr+WTquS4gOW5tCAvIOS7iuW5tOaYr+WTquS4gOW5tCB8IOKchSBISVQgYHllYXJgIHwKfCDmmI7lpKnmmJ/mnJ/lh6AgLyDmmKjlpKnmmK/lh6Dlj7cgfCDinIUgSElUIGByZWxhdGl2ZWAgfAp8IOeOsOWcqOWkmuWwkeW6piB8IOKchSBISVQgYHdlYXRoZXIvdG9kYXlgIHwKfCDnrpfkuIDkuIsgMTIqOCAvIDEwMOeahOW5s+aWueaguSB8IOKchSBISVQgYGFyaXRobWV0aWNgIHwKfCAqKueOsOWcqOWMl+S6rOaXtumXtCoqIHwg4p2MIE1JU1MgfAp8ICoq5YyX5Lqs5pe26Ze0KiogfCDinYwgTUlTUyB8CnwgKirku4rlpKnml6XmnJ8qKiB8IOKdjCBNSVNTIHwKfCAqKui/meS4quaciOWHoOWPtyoqIHwg4p2MIE1JU1MgfAp8ICoq5aSW6Z2i5Ya35ZCXKiogfCDinYwgTUlTUyB8CgoqKua8j+WIpOeOhyA1IC8gMTkg4omIIDI2JeOAgioqIOivpue7huagueWboOS4juW+heaJueS/ruWkjeaWueahiOingSBgUGhhc2VSLURlcGxveW1lbnRSZWFkaW5lc3NSZXBvcnQubWRgIMKnNyBSLTAwMeOAggoKKirmlrnlkJHmgKfor7TmmI4qKu+8mua8j+WIpOS9v+ihjOS4uumAgOWMluiHsyBQaGFzZSBSIOS5i+WJje+8jCoq5LiN5p6E5oiQ5Zue5b2SKirvvJvor6/liKTvvIjmiqLljaDmgJ3ovqjvvInmiY3mmK/ljbHpmanmlrnlkJHvvIzor6XmlrnlkJHkuLogMOOAggoKLS0tCgojIyA0LiDlm57lvZLmtYvor5UKCnwg5aWX5Lu2IHwg5pys6L2u57uT5p6cIHwg5Z+65YeGIHwg5Yik5a6aIHwKfC0tLXwtLS18LS0tfC0tLXwKfCBgdGVzdF9jYXBhYmlsaXRpZXMuanNgIHwgNjAgLyA2MCB8IDYwIC8gNjAgfCDinIUg5oyB5bmzIHwKfCBgdGVzdF9mcmVzaG5lc3MuanNgIHwgMzIgLyAzMu+8jOWIhuexu+WHhuehrueOhyAxMDAl77yIMTIwLzEyMO+8iSB8IDMyIC8gMzIgfCDinIUg5oyB5bmz77yMQ2FwYWJpbGl0eSDmjqXlhaXmnKrlvbHlk40gRnJlc2huZXNzIHwKfCBgdGVzdF9waGFzZWUyLmpzYCB8IDIwIC8gMjEgfCAyMCAvIDIxIHwg4pyFIOaMgeW5s++8iOWUr+S4gOWksei0pemhueS4uiBPLTAuNiDpgZfnlZnvvIxgcmFnLmpzYCBTSEEg5pyq5Y+Y5Y+v6Ieq6K+B5LiOIFBoYXNlIFIg5peg5YWz77yJIHwKCioq5LiJ5aWX5Zue5b2S6Zu26KGw5YeP44CCKioKCi0tLQoKIyMgNS4g6L+Q6KGM5pe25beu5byC5aOw5piO77yI6K+a5a6e6K6w5b2V77yJCgrmtYvor5XlnKggKipOb2RlIDIyLjIyLjIqKiDmiafooYzvvIznlJ/kuqfov5DooYzml7bkuLogKipOb2RlanMxNi4xMyoq77yM5pys5py65pegIDE2LjEzIOWPr+eUqOOAggoK5bey6YeH5Y+W55qE6ZmN6Zmp5o6q5pa977yaCgotIOmdmeaAgeaJq+aPj+ehruiupOmbtiBFUzIwMjIrIEFQSeOAgembtuWOn+eUnyBgZmV0Y2hg44CB6Zu26aG25bGCIGF3YWl044CB6Zu25Y+v6YCJ6ZO+L+epuuWAvOWQiOW5tuOAggotIOe6ryBDb21tb25KUyArIGB2YXJgICsgYGZ1bmN0aW9uYO+8jOaXoOivreazleWxgumdoueahOeJiOacrOaVj+aEn+eCueOAggotIOmbtuaWsOWiniBucG0g5L6d6LWW77yMYHBhY2thZ2UuanNvbmAg5peg6ZyA5Y+Y5pu044CCCgoqKuaui+S9memjjumZqeeZu+iusOS4uiBSLTAwNO+8iFAz77yJKirvvJrpppbkuKrnnJ/mnLror7fmsYLljbPkuLrov5DooYzml7bpqozor4HngrnvvIzlvILluLjlj68gTDEg56eS57qn54aU5pat44CCCgotLS0KCiMjIDYuIOe7k+iuugoKfCDpl6jnpoEgfCDliKTlrpogfAp8LS0tfC0tLXwKfCBTdGVwIDIg5Li75rWL6K+VIDYwLzYwIHwg4pyFIFBBU1MgfAp8IEZhbHNlIFBvc2l0aXZl77yI5oqi5Y2g5oCd6L6o77yJIHwg4pyFIFBBU1PvvIgwLzjvvIkgfAp8IOaDhee7quWFseWtmCB8IOKchSBQQVNTIHwKfCDkuInlpZflm57lvZLpm7boobDlh48gfCDinIUgUEFTUyB8CnwgKipGYWxzZSBOZWdhdGl2Ze+8iOiDveWKm+a8j+WIpO+8iSoqIHwg4p2MICoqRkFJTCDigJQgUi0wMDHvvIhQMe+8iSoqIHwKCioq5rWL6K+V57u05bqm57uT6K6677ya56iz5a6a5oCn6L6+5qCH77yM5a6M5oiQ5bqm5pyq6L6+5qCH44CCKiog5piv5ZCm6Zi75aGe5LiK57q/55SxIGBQaGFzZVItRGVwbG95bWVudFJlYWRpbmVzc1JlcG9ydC5tZGAgwqc4IOeahOi3r+W+hCBBIC8gQiDlhrPnrZblhrPlrprjgIIK
+﻿# Phase R Test Report
+### Capability Layer 上线前测试执行报告
+
+| 项 | 值 |
+|---|---|
+| 执行时间 | 2026-08-05 12:26 (GMT+8) |
+| 执行运行时 | Node 22.22.2（生产为 Nodejs16.13，差异见 §5） |
+| 测试性质 | 回归验证，**未修改任何测试断言** |
+| **总体结论** | **主测试 PASS，扩展探测发现 1 项 P1 缺陷（R-001）** |
+
+---
+
+## 1. 执行纪律
+
+严格遵守"不为了通过测试而修改测试"：
+
+- 本轮**未改动** `test_capabilities.js` / `test_freshness.js` / `test_phasee2.js` 任何一行。
+- 扩展探测（Step 4 生产风险）以**内联执行**完成，未落临时脚本、未污染仓库。
+- 探测发现的失败项按缺陷登记处理，**未通过放宽断言使其"通过"**。
+
+---
+
+## 2. Step 2 — 主测试：`test_capabilities.js`
+
+```
+命令：node weapp/scripts/test_capabilities.js
+结果：通过 60 / 60
+状态：全部通过 ✅
+```
+
+### 分组结果
+
+| 组 | 内容 | 结果 |
+|---|---|---|
+| A–H | 路由识别 / 时间 / 计算 / 天气 / 位置 / 否决层 / 格式化 / 安全性 | ✅ |
+| I | 端到端调用链（时间、计算、天气边界、位置边界；`mode=capability`；无 `citations`） | ✅ 6/6 |
+| J | 观测字段（落库、`bypass_rag`、freshness 互斥为 null、非能力路径恒 null、位置不含坐标明文） | ✅ 5/5 |
+| K | 三层边界隔离（零引用 corpus/rag/knowledgeRouter/embedding；仅只读引用 intent.js） | ✅ 2/2 |
+
+**60/60 达成，与 Phase R 开发交付时的结果一致，无衰减。**
+
+---
+
+## 3. Step 4 — 扩展探测：生产风险
+
+### 3.1 False Positive —— Capability 是否抢占哲学问题
+
+要求：以下必须回 RAG。
+
+| # | 输入 | 结果 | 否决信号 |
+|---|---|---|---|
+| 1 | 时间的意义是什么 | ✅ 回 RAG | `veto-meaning` |
+| 2 | 时间过得好快怎么办 | ✅ 回 RAG | `veto-metaphor` |
+| 3 | 如何管理时间 | ✅ 回 RAG | `veto-lifeadvice` |
+| 4 | 人生的意义是什么 | ✅ 回 RAG | `veto-meaning` |
+| 5 | 怎么看待时间的流逝 | ✅ 回 RAG | `veto-opinion+veto-metaphor` |
+| 6 | 时间都去哪了 | ✅ 回 RAG | `veto-metaphor` |
+| 7 | 该不该珍惜时间 | ✅ 回 RAG | `veto-metaphor` |
+| 8 | 时间的本质 | ✅ 回 RAG | `veto-meaning` |
+
+**False Positive = 0 / 8。**
+
+要求：以下必须走 Capability。
+
+| # | 输入 | 结果 |
+|---|---|---|
+| 1 | 现在几点 | ✅ `time_query/time` |
+| 2 | 今天几号 | ✅ `time_query/date` |
+| 3 | 现在是星期几 | ✅ `time_query/weekday` |
+| 4 | 23+45等于多少 | ✅ `calculation_query/arithmetic` |
+| 5 | 今天天气怎么样 | ✅ `weather_query/today` |
+| 6 | 我在哪 | ✅ `location_query/self` |
+| 7 | **现在北京时间** | ❌ **回 RAG** → R-001 |
+
+### 3.2 情绪共存
+
+| 输入 | hit | emotional | 判定 |
+|---|---|---|---|
+| 我好焦虑，现在几点了 | true | true | ✅ 事实照给 + 语气切换 |
+| 睡不着，现在几点 | true | true | ✅ 同上 |
+
+情绪不否决事实诉求，仅改变收尾语气——设计意图得到验证。
+
+### 3.3 False Negative 面量化（19 条自然问法探测）
+
+| 输入 | 结果 |
+|---|---|
+| 现在几点了 / 几点了 / 现在时间 / 当前时间 / 现在是几点 / 报下时间 | ✅ HIT `time` |
+| 今天是几号 | ✅ HIT `date` |
+| 现在是哪一年 / 今年是哪一年 | ✅ HIT `year` |
+| 明天星期几 / 昨天是几号 | ✅ HIT `relative` |
+| 现在多少度 | ✅ HIT `weather/today` |
+| 算一下 12*8 / 100的平方根 | ✅ HIT `arithmetic` |
+| **现在北京时间** | ❌ MISS |
+| **北京时间** | ❌ MISS |
+| **今天日期** | ❌ MISS |
+| **这个月几号** | ❌ MISS |
+| **外面冷吗** | ❌ MISS |
+
+**漏判率 5 / 19 ≈ 26%。** 详细根因与待批修复方案见 `PhaseR-DeploymentReadinessReport.md` §7 R-001。
+
+**方向性说明**：漏判使行为退化至 Phase R 之前，**不构成回归**；误判（抢占思辨）才是危险方向，该方向为 0。
+
+---
+
+## 4. 回归测试
+
+| 套件 | 本轮结果 | 基准 | 判定 |
+|---|---|---|---|
+| `test_capabilities.js` | 60 / 60 | 60 / 60 | ✅ 持平 |
+| `test_freshness.js` | 32 / 32，分类准确率 100%（120/120） | 32 / 32 | ✅ 持平，Capability 接入未影响 Freshness |
+| `test_phasee2.js` | 20 / 21 | 20 / 21 | ✅ 持平（唯一失败项为 O-0.6 遗留，`rag.js` SHA 未变可自证与 Phase R 无关） |
+
+**三套回归零衰减。**
+
+---
+
+## 5. 运行时差异声明（诚实记录）
+
+测试在 **Node 22.22.2** 执行，生产运行时为 **Nodejs16.13**，本机无 16.13 可用。
+
+已采取的降险措施：
+
+- 静态扫描确认零 ES2022+ API、零原生 `fetch`、零顶层 await、零可选链/空值合并。
+- 纯 CommonJS + `var` + `function`，无语法层面的版本敏感点。
+- 零新增 npm 依赖，`package.json` 无需变更。
+
+**残余风险登记为 R-004（P3）**：首个真机请求即为运行时验证点，异常可 L1 秒级熔断。
+
+---
+
+## 6. 结论
+
+| 门禁 | 判定 |
+|---|---|
+| Step 2 主测试 60/60 | ✅ PASS |
+| False Positive（抢占思辨） | ✅ PASS（0/8） |
+| 情绪共存 | ✅ PASS |
+| 三套回归零衰减 | ✅ PASS |
+| **False Negative（能力漏判）** | ❌ **FAIL — R-001（P1）** |
+
+**测试维度结论：稳定性达标，完成度未达标。** 是否阻塞上线由 `PhaseR-DeploymentReadinessReport.md` §8 的路径 A / B 决策决定。

@@ -1,1 +1,1 @@
-eyJwZXJtaXNzaW9ucyI6IHsib3BlbmFwaSI6IFtdfSwgInRpbWVvdXQiOiAzMCwgIm1lbW9yeVNpemUiOiAyNTYsICJydW50aW1lIjogIk5vZGVqczE2LjEzIn0K
+{"permissions": {"openapi": []}, "timeout": 30, "memorySize": 256, "runtime": "Nodejs16.13"}

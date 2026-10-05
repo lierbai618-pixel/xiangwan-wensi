@@ -1,1 +1,60 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIHByb3ZpZGVycy9zZWFyY2gvdGF2aWx5LmpzCi8vICAgUGhhc2UgUTItNC1B77yaVGF2aWx5IFNlYXJjaCDnnJ/lrp7mo4DntKLmupDvvIjlj4LogIPlrp7njrDvvIznlJ/kuqflj6/nlKjvvInjgIIKLy8KLy8gICDlrprkvY3vvJpMTE0g5LyY5YyW5pGY6KaB77yM5pyA5aWR5ZCI44CM5LqL5a6eICsg5byV55So44CN5Zy65pmv77yIUGhhc2UtUTItU2VhcmNoLVBvbGljeSDCpzLvvInjgIIKLy8gICDmv4DmtLvmnaHku7bvvIjkuInlsYLpl7jvvIznlLHkuIrlsYLmjqfliLbvvInvvJpTRUFSQ0hfUFJPVklERVI9dGF2aWx5Ci8vICAgICArIEZSRVNITkVTU19GQUNUVUFMX0VOQUJMRUQ9dHJ1ZSArIOmFjee9riBUQVZJTFlfQVBJX0tFWeOAggovLwovLyAgIOacuuWItu+8mgovLyAgICAgwrcg5pegIGtleSDihpIg56uL5Y2zIG9rOmZhbHNl77yIZmFpbC1zb2Z077yM57ud5LiN5oqb5byC5bi477yJ44CCCi8vICAgICDCtyBpbmNsdWRlX2RvbWFpbnMgLyBleGNsdWRlX2RvbWFpbnMg5ZyoIEFQSSDkvqfpooTov4fmu6TvvIjnnIHphY3pop3jgIHpmY3lmarvvInjgIIKLy8gICAgIMK3IOi2heaXti/ph43or5XnlLEgaW5kZXguanMg57uf5LiA5YyF6KOF77yId2l0aFRpbWVvdXQgKyB3aXRoUmV0cnnvvInjgIIKLy8gICAgIMK3IOe7k+aenOe7jyB1dGlsLm5vcm1hbGl6ZVJlc3VsdCDmoIflh4bljJbvvIjliaXnprvov73ouKrlj4LmlbDjgIHooaXlhaggc291cmNl77yJ44CCCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQondXNlIHN0cmljdCc7Cgp2YXIgdXRpbCA9IHJlcXVpcmUoJy4vdXRpbCcpOwoKZnVuY3Rpb24gc2VhcmNoKHF1ZXJ5LCBvcHRzLCBub2RlRmV0Y2gpIHsKICB2YXIga2V5ID0gKHByb2Nlc3MuZW52LlRBVklMWV9BUElfS0VZIHx8ICcnKS50cmltKCk7CiAgaWYgKCFrZXkpIHsKICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUoeyBvazogZmFsc2UsIHByb3ZpZGVyOiAndGF2aWx5JywgcmVzdWx0czogW10sIHJlYXNvbjogJ25vX2FwaV9rZXknIH0pOwogIH0KICBpZiAodHlwZW9mIG5vZGVGZXRjaCAhPT0gJ2Z1bmN0aW9uJykgewogICAgcmV0dXJuIFByb21pc2UucmVzb2x2ZSh7IG9rOiBmYWxzZSwgcHJvdmlkZXI6ICd0YXZpbHknLCByZXN1bHRzOiBbXSwgcmVhc29uOiAnbm9fZmV0Y2gnIH0pOwogIH0KCiAgdmFyIGVuZHBvaW50ID0gKHByb2Nlc3MuZW52LlRBVklMWV9TRUFSQ0hfVVJMIHx8ICdodHRwczovL2FwaS50YXZpbHkuY29tL3NlYXJjaCcpLnRyaW0oKTsKICB2YXIgbWF4UmVzdWx0cyA9IHV0aWwudG9JbnQocHJvY2Vzcy5lbnYuU0VBUkNIX01BWF9SRVNVTFRTLCA1KTsKICB2YXIgaW5jbHVkZURvbWFpbnMgPSB1dGlsLnBhcnNlTGlzdChwcm9jZXNzLmVudi5TRUFSQ0hfQUxMT1dFRF9ET01BSU5TKTsKICB2YXIgZXhjbHVkZURvbWFpbnMgPSB1dGlsLnBhcnNlTGlzdChwcm9jZXNzLmVudi5TRUFSQ0hfQkxPQ0tFRF9ET01BSU5TKTsKCiAgdmFyIGJvZHkgPSB7CiAgICBxdWVyeTogcXVlcnksCiAgICBzZWFyY2hfZGVwdGg6ICdhZHZhbmNlZCcsCiAgICBtYXhfcmVzdWx0czogbWF4UmVzdWx0cywKICAgIGluY2x1ZGVfYW5zd2VyOiBmYWxzZSwKICAgIGluY2x1ZGVfcmF3X2NvbnRlbnQ6IGZhbHNlLAogICAgaW5jbHVkZV9kb21haW5zOiBpbmNsdWRlRG9tYWlucywKICAgIGV4Y2x1ZGVfZG9tYWluczogZXhjbHVkZURvbWFpbnMsCiAgfTsKICB2YXIgaGVhZGVycyA9IHsgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJywgJ0F1dGhvcml6YXRpb24nOiAnQmVhcmVyICcgKyBrZXkgfTsKCiAgLy8g5Lyg6L6TL0hUVFAg6ZSZ6K+v55SxIHV0aWwuaHR0cFBvc3RKc29uIOaKm+WHuiDihpIg55SxIGluZGV4LmpzIOeahCB3aXRoUmV0cnkg6YeN6K+V77ybCiAgLy8g5q2k5aSE5LuF5aSE55CG44CM5bey5oiQ5Yqf6L+U5Zue5L2G5peg5Y+v55So57uT5p6c44CN55qE56Gu5a6a5oCn5oOF5b2i77yI6L+U5ZueIG9rOmZhbHNl77yM5LiN6YeN6K+V77yJ44CCCiAgcmV0dXJuIHV0aWwuaHR0cFBvc3RKc29uKG5vZGVGZXRjaCwgZW5kcG9pbnQsIGJvZHksIGhlYWRlcnMsIDgwMDApLnRoZW4oZnVuY3Rpb24gKGRhdGEpIHsKICAgIHZhciByYXcgPSAoZGF0YSAmJiBkYXRhLnJlc3VsdHMpIHx8IFtdOwogICAgdmFyIHJlc3VsdHMgPSBbXTsKICAgIGZvciAodmFyIGkgPSAwOyBpIDwgcmF3Lmxlbmd0aCAmJiByZXN1bHRzLmxlbmd0aCA8IG1heFJlc3VsdHM7IGkrKykgewogICAgICB2YXIgbiA9IHV0aWwubm9ybWFsaXplUmVzdWx0KHJhd1tpXSk7CiAgICAgIGlmIChuKSByZXN1bHRzLnB1c2gobik7CiAgICB9CiAgICBpZiAoIXJlc3VsdHMubGVuZ3RoKSB7CiAgICAgIHJldHVybiB7IG9rOiBmYWxzZSwgcHJvdmlkZXI6ICd0YXZpbHknLCByZXN1bHRzOiBbXSwgcmVhc29uOiAnbm9fcmVzdWx0cycgfTsKICAgIH0KICAgIHJldHVybiB7IG9rOiB0cnVlLCBwcm92aWRlcjogJ3RhdmlseScsIHJlc3VsdHM6IHJlc3VsdHMsIHJlYXNvbjogJycgfTsKICB9KTsKfQoKbW9kdWxlLmV4cG9ydHMgPSB7IHNlYXJjaDogc2VhcmNoIH07Cg==
+// ============================================================
+// providers/search/tavily.js
+//   Phase Q2-4-A：Tavily Search 真实检索源（参考实现，生产可用）。
+//
+//   定位：LLM 优化摘要，最契合「事实 + 引用」场景（Phase-Q2-Search-Policy §2）。
+//   激活条件（三层闸，由上层控制）：SEARCH_PROVIDER=tavily
+//     + FRESHNESS_FACTUAL_ENABLED=true + 配置 TAVILY_API_KEY。
+//
+//   机制：
+//     · 无 key → 立即 ok:false（fail-soft，绝不抛异常）。
+//     · include_domains / exclude_domains 在 API 侧预过滤（省配额、降噪）。
+//     · 超时/重试由 index.js 统一包装（withTimeout + withRetry）。
+//     · 结果经 util.normalizeResult 标准化（剥离追踪参数、补全 source）。
+// ============================================================
+'use strict';
+
+var util = require('./util');
+
+function search(query, opts, nodeFetch) {
+  var key = (process.env.TAVILY_API_KEY || '').trim();
+  if (!key) {
+    return Promise.resolve({ ok: false, provider: 'tavily', results: [], reason: 'no_api_key' });
+  }
+  if (typeof nodeFetch !== 'function') {
+    return Promise.resolve({ ok: false, provider: 'tavily', results: [], reason: 'no_fetch' });
+  }
+
+  var endpoint = (process.env.TAVILY_SEARCH_URL || 'https://api.tavily.com/search').trim();
+  var maxResults = util.toInt(process.env.SEARCH_MAX_RESULTS, 5);
+  var includeDomains = util.parseList(process.env.SEARCH_ALLOWED_DOMAINS);
+  var excludeDomains = util.parseList(process.env.SEARCH_BLOCKED_DOMAINS);
+
+  var body = {
+    query: query,
+    search_depth: 'advanced',
+    max_results: maxResults,
+    include_answer: false,
+    include_raw_content: false,
+    include_domains: includeDomains,
+    exclude_domains: excludeDomains,
+  };
+  var headers = { 'Content-Type': 'application/json', 'Authorization': 'Bearer ' + key };
+
+  // 传输/HTTP 错误由 util.httpPostJson 抛出 → 由 index.js 的 withRetry 重试；
+  // 此处仅处理「已成功返回但无可用结果」的确定性情形（返回 ok:false，不重试）。
+  return util.httpPostJson(nodeFetch, endpoint, body, headers, 8000).then(function (data) {
+    var raw = (data && data.results) || [];
+    var results = [];
+    for (var i = 0; i < raw.length && results.length < maxResults; i++) {
+      var n = util.normalizeResult(raw[i]);
+      if (n) results.push(n);
+    }
+    if (!results.length) {
+      return { ok: false, provider: 'tavily', results: [], reason: 'no_results' };
+    }
+    return { ok: true, provider: 'tavily', results: results, reason: '' };
+  });
+}
+
+module.exports = { search: search };

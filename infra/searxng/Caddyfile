@@ -1,1 +1,31 @@
-IyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyBDYWRkeWZpbGUg4oCU4oCUIOWQkeaZmumXruaAnSBTZWFyWE5HIOWFrOe9keWHuuWPowojICAgwrcg6Ieq5Yqo55Sz6K+3L+e7reacnyBMZXQncyBFbmNyeXB0IOivgeS5pu+8iOmcgCA4MCDnq6/lj6Plj6/orr/pl64gKyDln5/lkI3lt7LlpIfmoYjvvInjgIIKIyAgIMK3IOWPjeWQkeS7o+eQhuWIsOacrOacuiAxMjcuMC4wLjE6ODA4MO+8iFNlYXJYTkcg5LuF55uR5ZCs5pys5py677yJ44CCCiMgICDCtyBCZWFyZXIgVG9rZW4g5qCh6aqM77ya5LqR5Ye95pWwIGRvbWVzdGljRnJlZVNlYXJjaC5qcyDlj5HpgIEKIyAgICAgIkF1dGhvcml6YXRpb246IEJlYXJlciA8U0VBUlhOR19BUElfS0VZPiLvvIzmraTlpITlv4XpobvkuIDoh7TjgIIKIwojIOKaoO+4jyDpg6jnvbLliY3vvJoKIyAgIDEpIOWwhiBzZWFyY2guZXhhbXBsZS5jb20g5pS55Li65L2g55qE55yf5a6e5bey5aSH5qGI5Z+f5ZCN44CCCiMgICAyKSDlsIbkuIvmlrkgUkVQTEFDRV9XSVRIX1lPVVJfS0VZIOaUueS4uuS4juS6keWHveaVsCBTRUFSWE5HX0FQSV9LRVkg55u45ZCM55qE5a+G6ZKl44CCCiMgICAzKSB7IGVtYWlsIH0g5pS55Li65L2g55qE6L+Q57u06YKu566x77yI6K+B5Lmm5rOo5YaM6IGU57O75Lq677yJ44CCCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Cgp7CiAgZW1haWwgYWRtaW5AZXhhbXBsZS5jb20KfQoKc2VhcmNoLmV4YW1wbGUuY29tIHsKICAjIOaXoOacieaViCBCZWFyZXIgVG9rZW4g5LiA5b6L5ouS57ud77yIU2VhclhORyDmnKzouqvkuI3lgZrpibTmnYPvvIznlLEgQ2FkZHkg5YWc5bqV77yJCiAgcmV2ZXJzZV9wcm94eSAxMjcuMC4wLjE6ODA4MCB7CiAgICBAbm9hdXRoIG5vdCBoZWFkZXIgQXV0aG9yaXphdGlvbiAiQmVhcmVyIFJFUExBQ0VfV0lUSF9ZT1VSX0tFWSIKICAgIHJlc3BvbmQgQG5vYXV0aCAidW5hdXRob3JpemVkIiA0MDEKICB9CgogICMg5a6J5YWo5ZON5bqU5aS0CiAgaGVhZGVyIHsKICAgIFN0cmljdC1UcmFuc3BvcnQtU2VjdXJpdHkgIm1heC1hZ2U9MzE1MzYwMDA7IgogICAgWC1Db250ZW50LVR5cGUtT3B0aW9ucyAibm9zbmlmZiIKICAgIFgtRnJhbWUtT3B0aW9ucyAiREVOWSIKICB9Cn0K
+# ============================================================
+# Caddyfile —— 向晚问思 SearXNG 公网出口
+#   · 自动申请/续期 Let's Encrypt 证书（需 80 端口可访问 + 域名已备案）。
+#   · 反向代理到本机 127.0.0.1:8080（SearXNG 仅监听本机）。
+#   · Bearer Token 校验：云函数 domesticFreeSearch.js 发送
+#     "Authorization: Bearer <SEARXNG_API_KEY>"，此处必须一致。
+#
+# ⚠️ 部署前：
+#   1) 将 search.example.com 改为你的真实已备案域名。
+#   2) 将下方 REPLACE_WITH_YOUR_KEY 改为与云函数 SEARXNG_API_KEY 相同的密钥。
+#   3) { email } 改为你的运维邮箱（证书注册联系人）。
+# ============================================================
+
+{
+  email admin@example.com
+}
+
+search.example.com {
+  # 无有效 Bearer Token 一律拒绝（SearXNG 本身不做鉴权，由 Caddy 兜底）
+  reverse_proxy 127.0.0.1:8080 {
+    @noauth not header Authorization "Bearer REPLACE_WITH_YOUR_KEY"
+    respond @noauth "unauthorized" 401
+  }
+
+  # 安全响应头
+  header {
+    Strict-Transport-Security "max-age=31536000;"
+    X-Content-Type-Options "nosniff"
+    X-Frame-Options "DENY"
+  }
+}

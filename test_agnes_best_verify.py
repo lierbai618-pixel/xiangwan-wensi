@@ -1,1 +1,93 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMw0KIyAtKi0gY29kaW5nOiB1dGYtOCAtKi0NCiIiIg0K6aqM6K+B5pyA5LyY6YWN572u77yaYWduZXMtMi4wLWZsYXNoICsgMjA0OCArIHJlYXNvbmluZ19sb3cNCua1i+ivleWFqOmDqDPkuKrpl67popjvvIznoa7orqTnqLPlrprmgKfkuI7otKjph48NCiIiIg0KDQppbXBvcnQganNvbiwgdGltZSwgaHR0cC5jbGllbnQsIHNzbA0KDQpBUElfS0VZID0gInNrLVlPVVJfQVBJX0tFWV9IRVJFIg0KSEVBREVSUyA9IHsNCiAgICAiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb247IGNoYXJzZXQ9dXRmLTgiLA0KICAgICJBY2NlcHQiOiAiYXBwbGljYXRpb24vanNvbiIsDQogICAgIkF1dGhvcml6YXRpb24iOiBmIkJlYXJlciB7QVBJX0tFWX0iLA0KfQ0KDQpRVUVTVElPTlMgPSBbDQogICAgIjIwMjblubQ45pyIOOaXpe+8jOS4reWbveS7iuWkqeacieS7gOS5iOmHjeWkp+aWsOmXu+S6i+S7tu+8nyIsDQogICAgIjIwMjTlubTnvo7lm73mgLvnu5/lpKfpgInmmK/osIHojrfog5zvvJ8iLA0KICAgICLlkJHmmZrpl67mgJ3mmK/ku4DkuYjvvJ8iLA0KXQ0KDQpCT0RZX1RFTVBMQVRFID0gew0KICAgICJtb2RlbCI6ICJhZ25lcy0yLjAtZmxhc2giLA0KICAgICJtZXNzYWdlcyI6IFsNCiAgICAgICAgeyJyb2xlIjogInN5c3RlbSIsICJjb250ZW50IjogIuS9oOaYr+efpeivhuWKqeaJi+OAguebtOe7meWFs+mUruS6i+Wunu+8jOS4jeWuouWll++8jOS4jemHjeWkjemXrumimOOAgiJ9LA0KICAgIF0sDQogICAgInN0cmVhbSI6IEZhbHNlLA0KICAgICJtYXhfdG9rZW5zIjogMjA0OCwNCiAgICAid2ViX3NlYXJjaF9vcHRpb25zIjoge30sDQogICAgInJlYXNvbmluZ19lZmZvcnQiOiAibG93IiwNCn0NCg0KDQpkZWYgY2FsbChxdWVzdGlvbik6DQogICAgYm9keSA9IGRpY3QoQk9EWV9URU1QTEFURSkNCiAgICBib2R5WyJtZXNzYWdlcyJdID0gWw0KICAgICAgICB7InJvbGUiOiAic3lzdGVtIiwgImNvbnRlbnQiOiAi5L2g5piv55+l6K+G5Yqp5omL44CC55u057uZ5YWz6ZSu5LqL5a6e77yM5LiN5a6i5aWX77yM5LiN6YeN5aSN6Zeu6aKY44CCIn0sDQogICAgICAgIHsicm9sZSI6ICJ1c2VyIiwgImNvbnRlbnQiOiBxdWVzdGlvbn0NCiAgICBdDQogICAgcGF5bG9hZCA9IGpzb24uZHVtcHMoYm9keSwgZW5zdXJlX2FzY2lpPUZhbHNlKS5lbmNvZGUoInV0Zi04IikNCiAgICBjb25uID0gaHR0cC5jbGllbnQuSFRUUFNDb25uZWN0aW9uKCJhcGlodWIuYWduZXMtYWkuY29tIiwgY29udGV4dD1zc2wuY3JlYXRlX2RlZmF1bHRfY29udGV4dCgpLCB0aW1lb3V0PTI1KQ0KICAgIHN0YXJ0ID0gdGltZS50aW1lKCkNCiAgICB0cnk6DQogICAgICAgIGNvbm4ucmVxdWVzdCgiUE9TVCIsICIvdjEvY2hhdC9jb21wbGV0aW9ucyIsIGJvZHk9cGF5bG9hZCwgaGVhZGVycz1IRUFERVJTKQ0KICAgICAgICByZXNwID0gY29ubi5nZXRyZXNwb25zZSgpDQogICAgICAgIGRhdGEgPSByZXNwLnJlYWQoKS5kZWNvZGUoInV0Zi04IikNCiAgICAgICAgZWxhcHNlZCA9IGludCgodGltZS50aW1lKCkgLSBzdGFydCkgKiAxMDAwKQ0KDQogICAgICAgIGlmIHJlc3Auc3RhdHVzICE9IDIwMDoNCiAgICAgICAgICAgIHJldHVybiBGYWxzZSwgZWxhcHNlZCwgTm9uZSwgTm9uZSwgZiJIVFRQIHtyZXNwLnN0YXR1c306IHtkYXRhWzozMDBdfSINCg0KICAgICAgICBvYmogPSBqc29uLmxvYWRzKGRhdGEpDQogICAgICAgIGNob2ljZXMgPSBvYmouZ2V0KCJjaG9pY2VzIiwgW10pDQogICAgICAgIGlmIG5vdCBjaG9pY2VzOg0KICAgICAgICAgICAgcmV0dXJuIEZhbHNlLCBlbGFwc2VkLCBOb25lLCBOb25lLCAibm8gY2hvaWNlcyINCg0KICAgICAgICBjb250ZW50ID0gY2hvaWNlc1swXS5nZXQoIm1lc3NhZ2UiLCB7fSkuZ2V0KCJjb250ZW50IiwgIiIpDQogICAgICAgIHVzYWdlID0gb2JqLmdldCgidXNhZ2UiLCB7fSkNCiAgICAgICAgcmV0dXJuIFRydWUsIGVsYXBzZWQsIGNvbnRlbnQsIHVzYWdlLCBOb25lDQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOg0KICAgICAgICBlbGFwc2VkID0gaW50KCh0aW1lLnRpbWUoKSAtIHN0YXJ0KSAqIDEwMDApDQogICAgICAgIHJldHVybiBGYWxzZSwgZWxhcHNlZCwgTm9uZSwgTm9uZSwgc3RyKGUpDQogICAgZmluYWxseToNCiAgICAgICAgY29ubi5jbG9zZSgpDQoNCg0KcHJpbnQoIumqjOivgeacgOS8mOmFjee9rjogYWduZXMtMi4wLWZsYXNoICsgMjA0OCArIHJlYXNvbmluZ19sb3ciKQ0KcHJpbnQoIj0iICogNjApDQpyZXN1bHRzID0gW10NCmZvciBpLCBxIGluIGVudW1lcmF0ZShRVUVTVElPTlMsIDEpOg0KICAgIG9rLCBsYXQsIGNvbnRlbnQsIHVzYWdlLCBlcnIgPSBjYWxsKHEpDQogICAgcmVzdWx0cy5hcHBlbmQoeyJxIjogaSwgIm9rIjogb2ssICJsYXQiOiBsYXQsICJjb250ZW50IjogY29udGVudCwgInVzYWdlIjogdXNhZ2UsICJlcnIiOiBlcnJ9KQ0KICAgIHN0YXR1cyA9ICLinIUiIGlmIG9rIGVsc2UgIuKdjCINCiAgICBwcmludChmIlxuUXtpfSAoe3N0YXR1c30pIHtsYXR9bXMiKQ0KICAgIGlmIGNvbnRlbnQ6DQogICAgICAgIHByaW50KGNvbnRlbnRbOjQwMF0gKyAoIi4uLiIgaWYgbGVuKGNvbnRlbnQpID4gNDAwIGVsc2UgIiIpKQ0KICAgIGlmIGVycjoNCiAgICAgICAgcHJpbnQoZiJFUlJPUjoge2Vycn0iKQ0KICAgIGlmIHVzYWdlOg0KICAgICAgICBjb21wID0gdXNhZ2UuZ2V0KCJjb21wbGV0aW9uX3Rva2VucyIsIDApDQogICAgICAgIHJkID0gdXNhZ2UuZ2V0KCJjb21wbGV0aW9uX3Rva2Vuc19kZXRhaWxzIiwge30pLmdldCgicmVhc29uaW5nX3Rva2VucyIsIDApDQogICAgICAgIHR4dCA9IHVzYWdlLmdldCgiY29tcGxldGlvbl90b2tlbnNfZGV0YWlscyIsIHt9KS5nZXQoInRleHRfdG9rZW5zIiwgMCkNCiAgICAgICAgcHJpbnQoZiJ1c2FnZTogY29tcD17Y29tcH0gcmVhc29uaW5nPXtyZH0gdGV4dD17dHh0fSIpDQoNCnByaW50KGYiXG57Jz0nKjYwfSIpDQpva19jb3VudCA9IHN1bSgxIGZvciByIGluIHJlc3VsdHMgaWYgclsib2siXSkNCmF2Z19sYXQgPSBzdW0oclsibGF0Il0gZm9yIHIgaW4gcmVzdWx0cykgLyBsZW4ocmVzdWx0cykNCmF2Z19sZW4gPSBzdW0obGVuKHJbImNvbnRlbnQiXSBvciAiIikgZm9yIHIgaW4gcmVzdWx0cyBpZiByWyJvayJdKSAvIG1heCgxLCBva19jb3VudCkNCnByaW50KGYi57uT5p6cOiB7b2tfY291bnR9L3tsZW4ocmVzdWx0cyl9IOaIkOWKnyB8IOW5s+Wdh+W7tui/nyB7YXZnX2xhdDouMGZ9bXMgfCDlubPlnYflrZfmlbAge2F2Z19sZW46LjBmfSIpDQoNCndpdGggb3BlbigiYWduZXNfYmVzdF9jb25maWdfdmVyaWZ5Lmpzb24iLCAidyIsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6DQogICAganNvbi5kdW1wKHJlc3VsdHMsIGYsIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTIpDQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+验证最优配置：agnes-2.0-flash + 2048 + reasoning_low
+测试全部3个问题，确认稳定性与质量
+"""
+
+import json, time, http.client, ssl
+
+API_KEY = "sk-YOUR_API_KEY_HERE"
+HEADERS = {
+    "Content-Type": "application/json; charset=utf-8",
+    "Accept": "application/json",
+    "Authorization": f"Bearer {API_KEY}",
+}
+
+QUESTIONS = [
+    "2026年8月8日，中国今天有什么重大新闻事件？",
+    "2024年美国总统大选是谁获胜？",
+    "向晚问思是什么？",
+]
+
+BODY_TEMPLATE = {
+    "model": "agnes-2.0-flash",
+    "messages": [
+        {"role": "system", "content": "你是知识助手。直给关键事实，不客套，不重复问题。"},
+    ],
+    "stream": False,
+    "max_tokens": 2048,
+    "web_search_options": {},
+    "reasoning_effort": "low",
+}
+
+
+def call(question):
+    body = dict(BODY_TEMPLATE)
+    body["messages"] = [
+        {"role": "system", "content": "你是知识助手。直给关键事实，不客套，不重复问题。"},
+        {"role": "user", "content": question}
+    ]
+    payload = json.dumps(body, ensure_ascii=False).encode("utf-8")
+    conn = http.client.HTTPSConnection("apihub.agnes-ai.com", context=ssl.create_default_context(), timeout=25)
+    start = time.time()
+    try:
+        conn.request("POST", "/v1/chat/completions", body=payload, headers=HEADERS)
+        resp = conn.getresponse()
+        data = resp.read().decode("utf-8")
+        elapsed = int((time.time() - start) * 1000)
+
+        if resp.status != 200:
+            return False, elapsed, None, None, f"HTTP {resp.status}: {data[:300]}"
+
+        obj = json.loads(data)
+        choices = obj.get("choices", [])
+        if not choices:
+            return False, elapsed, None, None, "no choices"
+
+        content = choices[0].get("message", {}).get("content", "")
+        usage = obj.get("usage", {})
+        return True, elapsed, content, usage, None
+    except Exception as e:
+        elapsed = int((time.time() - start) * 1000)
+        return False, elapsed, None, None, str(e)
+    finally:
+        conn.close()
+
+
+print("验证最优配置: agnes-2.0-flash + 2048 + reasoning_low")
+print("=" * 60)
+results = []
+for i, q in enumerate(QUESTIONS, 1):
+    ok, lat, content, usage, err = call(q)
+    results.append({"q": i, "ok": ok, "lat": lat, "content": content, "usage": usage, "err": err})
+    status = "✅" if ok else "❌"
+    print(f"\nQ{i} ({status}) {lat}ms")
+    if content:
+        print(content[:400] + ("..." if len(content) > 400 else ""))
+    if err:
+        print(f"ERROR: {err}")
+    if usage:
+        comp = usage.get("completion_tokens", 0)
+        rd = usage.get("completion_tokens_details", {}).get("reasoning_tokens", 0)
+        txt = usage.get("completion_tokens_details", {}).get("text_tokens", 0)
+        print(f"usage: comp={comp} reasoning={rd} text={txt}")
+
+print(f"\n{'='*60}")
+ok_count = sum(1 for r in results if r["ok"])
+avg_lat = sum(r["lat"] for r in results) / len(results)
+avg_len = sum(len(r["content"] or "") for r in results if r["ok"]) / max(1, ok_count)
+print(f"结果: {ok_count}/{len(results)} 成功 | 平均延迟 {avg_lat:.0f}ms | 平均字数 {avg_len:.0f}")
+
+with open("agnes_best_config_verify.json", "w", encoding="utf-8") as f:
+    json.dump(results, f, ensure_ascii=False, indent=2)

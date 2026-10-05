@@ -1,1 +1,1 @@
-eyJuYW1lIjogImNoYXQiLCAidmVyc2lvbiI6ICIxLjAuMCIsICJkZXNjcmlwdGlvbiI6ICLlkJHmmZrpl67mgJ0gLSDpl67nrZTkupHlh73mlbDvvIjmnKzlnLDmo4DntKIgKyDmnKzlnLDmi7zoo4Xlm57nrZQgKyDlr7nor53ml6Xlv5cgKyDpl67popjmtJ7lr5/vvIkiLCAibWFpbiI6ICJpbmRleC5qcyIsICJkZXBlbmRlbmNpZXMiOiB7Ind4LXNlcnZlci1zZGsiOiAifjIuNi4zIn19
+{"name": "chat", "version": "1.0.0", "description": "向晚问思 - 问答云函数（本地检索 + 本地拼装回答 + 对话日志 + 问题洞察）", "main": "index.js", "dependencies": {"wx-server-sdk": "~2.6.3"}}

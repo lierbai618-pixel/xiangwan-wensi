@@ -1,1 +1,64 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIENsb3VkT2JzZXJ2YWJpbGl0eVN0b3JlIOKAlCDop4LmtYvmlbDmja7kupHmlbDmja7lupPlrZjlgqjvvIhQaGFzZSBQK++8jOWPr+mAie+8iQovLyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KLy8g55Sf5Lqn546v5aKD5a2Y5YKo5a6e546w77ya5oqK6KeC5rWL6K6w5b2V5YaZ5YWl5LqR5pWw5o2u5bqTIG9ic2VydmFiaWxpdHlfbG9ncyDpm4blkIjjgIIKLy8gICDCtyDku4XlnKjkupHnq68gZW52IOaYvuW8j+W8gOWQr++8iEtOT1dMRURHRV9PQlNFUlZBQklMSVRZX1NUT1JFPWNsb3Vk77yJ5pe255SxCi8vICAgICBvYnNlcnZhYmlsaXR5TG9nZ2VyIOmAieaLqe+8jOS4jeW8uuWItuS+nei1luOAggovLyAgIMK3IHd4LXNlcnZlci1zZGsg5bu26L+fIHJlcXVpcmXvvIzmnKzlnLAv5rWL6K+V5LiN5Yqg6L2977yM6YG/5YWN5peg5LqR546v5aKD5oql6ZSZ44CCCi8vICAgwrcgd3JpdGUoKSDmsLjkuI3mipvlh7rvvJrlpLHotKXku4UgY29uc29sZS5lcnJvcuOAggovLwovLyDmjqXlj6PkuI4gSnNvbk9ic2VydmFiaWxpdHlTdG9yZSDkuIDoh7TvvIzlj6/kupLmjaLjgIIKLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CgondXNlIHN0cmljdCc7CgpjbGFzcyBDbG91ZE9ic2VydmFiaWxpdHlTdG9yZSB7CiAgY29uc3RydWN0b3IoY29uZmlnKSB7CiAgICBjb25maWcgPSBjb25maWcgfHwge307CiAgICB0aGlzLmNvbGxlY3Rpb24gPSBjb25maWcuY29sbGVjdGlvbiB8fCAnb2JzZXJ2YWJpbGl0eV9sb2dzJzsKICAgIHRoaXMuX2RiID0gbnVsbDsKICB9CgogIF9nZXREYigpIHsKICAgIGlmICh0aGlzLl9kYikgcmV0dXJuIHRoaXMuX2RiOwogICAgLy8g5bu26L+f5Yqg6L2977yM6YG/5YWN6Z2e5LqR56uv546v5aKDIHJlcXVpcmUg5aSx6LSlCiAgICBjb25zdCBjbG91ZCA9IHJlcXVpcmUoJ3d4LXNlcnZlci1zZGsnKTsKICAgIGlmIChjbG91ZCAmJiBjbG91ZC5pbml0ICYmICF0aGlzLl9pbml0aWFsaXplZCkgewogICAgICB0cnkgewogICAgICAgIGNsb3VkLmluaXQoeyBlbnY6IGNsb3VkLkRZTkFNSUNfQ1VSUkVOVF9FTlYgfSk7CiAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAvKiDlt7LlnKjlhaXlj6PliJ3lp4vljJbml7blv73nlaUgKi8KICAgICAgfQogICAgICB0aGlzLl9pbml0aWFsaXplZCA9IHRydWU7CiAgICB9CiAgICB0aGlzLl9kYiA9IGNsb3VkLmRhdGFiYXNlKCk7CiAgICByZXR1cm4gdGhpcy5fZGI7CiAgfQoKICBhc3luYyB3cml0ZShyZWNvcmQpIHsKICAgIHRyeSB7CiAgICAgIGNvbnN0IGRiID0gdGhpcy5fZ2V0RGIoKTsKICAgICAgYXdhaXQgZGIuY29sbGVjdGlvbih0aGlzLmNvbGxlY3Rpb24pLmFkZCh7IGRhdGE6IE9iamVjdC5hc3NpZ24oe30sIHJlY29yZCwgeyBjcmVhdGVUaW1lOiBkYi5zZXJ2ZXJEYXRlKCkgfSkgfSk7CiAgICAgIHJldHVybiB7IG9rOiB0cnVlIH07CiAgICB9IGNhdGNoIChlKSB7CiAgICAgIGNvbnNvbGUuZXJyb3IoJ1tDbG91ZE9ic2VydmFiaWxpdHlTdG9yZV0gd3JpdGUgZmFpbGVkOicsIGUgJiYgZS5tZXNzYWdlKTsKICAgICAgcmV0dXJuIHsgb2s6IGZhbHNlLCBlcnJvcjogKGUgJiYgZS5tZXNzYWdlKSB8fCAnJyArIGUgfTsKICAgIH0KICB9CgogIGFzeW5jIHJlYWRBbGwobGltaXQpIHsKICAgIHRyeSB7CiAgICAgIGNvbnN0IGRiID0gdGhpcy5fZ2V0RGIoKTsKICAgICAgY29uc3QgcmVzID0gYXdhaXQgZGIKICAgICAgICAuY29sbGVjdGlvbih0aGlzLmNvbGxlY3Rpb24pCiAgICAgICAgLm9yZGVyQnkoJ2NyZWF0ZVRpbWUnLCAnZGVzYycpCiAgICAgICAgLmxpbWl0KGxpbWl0IHx8IDEwMDApCiAgICAgICAgLmdldCgpOwogICAgICByZXR1cm4gKHJlcyAmJiByZXMuZGF0YSkgfHwgW107CiAgICB9IGNhdGNoIChlKSB7CiAgICAgIHJldHVybiBbXTsKICAgIH0KICB9Cn0KCm1vZHVsZS5leHBvcnRzID0geyBDbG91ZE9ic2VydmFiaWxpdHlTdG9yZSB9Owo=
+// ============================================================
+// CloudObservabilityStore — 观测数据云数据库存储（Phase P+，可选）
+// ------------------------------------------------------------
+// 生产环境存储实现：把观测记录写入云数据库 observability_logs 集合。
+//   · 仅在云端 env 显式开启（KNOWLEDGE_OBSERVABILITY_STORE=cloud）时由
+//     observabilityLogger 选择，不强制依赖。
+//   · wx-server-sdk 延迟 require，本地/测试不加载，避免无云环境报错。
+//   · write() 永不抛出：失败仅 console.error。
+//
+// 接口与 JsonObservabilityStore 一致，可互换。
+// ============================================================
+
+'use strict';
+
+class CloudObservabilityStore {
+  constructor(config) {
+    config = config || {};
+    this.collection = config.collection || 'observability_logs';
+    this._db = null;
+  }
+
+  _getDb() {
+    if (this._db) return this._db;
+    // 延迟加载，避免非云端环境 require 失败
+    const cloud = require('wx-server-sdk');
+    if (cloud && cloud.init && !this._initialized) {
+      try {
+        cloud.init({ env: cloud.DYNAMIC_CURRENT_ENV });
+      } catch (e) {
+        /* 已在入口初始化时忽略 */
+      }
+      this._initialized = true;
+    }
+    this._db = cloud.database();
+    return this._db;
+  }
+
+  async write(record) {
+    try {
+      const db = this._getDb();
+      await db.collection(this.collection).add({ data: Object.assign({}, record, { createTime: db.serverDate() }) });
+      return { ok: true };
+    } catch (e) {
+      console.error('[CloudObservabilityStore] write failed:', e && e.message);
+      return { ok: false, error: (e && e.message) || '' + e };
+    }
+  }
+
+  async readAll(limit) {
+    try {
+      const db = this._getDb();
+      const res = await db
+        .collection(this.collection)
+        .orderBy('createTime', 'desc')
+        .limit(limit || 1000)
+        .get();
+      return (res && res.data) || [];
+    } catch (e) {
+      return [];
+    }
+  }
+}
+
+module.exports = { CloudObservabilityStore };

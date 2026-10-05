@@ -1,1 +1,92 @@
-ew0KICAia2F0LWNvZGVyLXByby12Mi41Ijogew0KICAgICJzaW1wbGUiOiB7DQogICAgICAidHRmdHMiOiBbDQogICAgICAgIDAuNjgNCiAgICAgIF0sDQogICAgICAidG90YWxzIjogWw0KICAgICAgICAxLjEyDQogICAgICBdLA0KICAgICAgImNoYXJzIjogWw0KICAgICAgICAyMg0KICAgICAgXSwNCiAgICAgICJvayI6IDEsDQogICAgICAic2FtcGxlcyI6IFsNCiAgICAgICAgIlxuXG7ku4rlpKnpgILlkIjmgJ3ogIPvvIzlsLHlg4/mr4/kuIDlpKnpg73pgILlkIjlkbzlkLjkuIDmoLfjgIIiDQogICAgICBdLA0KICAgICAgImVycm9ycyI6IFtdDQogICAgfQ0KICB9LA0KICAiTWluaU1heC1NMyI6IHsNCiAgICAic2ltcGxlIjogew0KICAgICAgInR0ZnRzIjogWw0KICAgICAgICAwLjcxDQogICAgICBdLA0KICAgICAgInRvdGFscyI6IFsNCiAgICAgICAgMC43Mw0KICAgICAgXSwNCiAgICAgICJjaGFycyI6IFsNCiAgICAgICAgMw0KICAgICAgXSwNCiAgICAgICJvayI6IDEsDQogICAgICAic2FtcGxlcyI6IFsNCiAgICAgICAgIumAguWQiOOAgiINCiAgICAgIF0sDQogICAgICAiZXJyb3JzIjogW10NCiAgICB9DQogIH0sDQogICJzZW5zZW5vdmEtNi43LWZsYXNoLWxpdGUiOiB7DQogICAgInNpbXBsZSI6IHsNCiAgICAgICJ0dGZ0cyI6IFsNCiAgICAgICAgNC44MQ0KICAgICAgXSwNCiAgICAgICJ0b3RhbHMiOiBbDQogICAgICAgIDguNjQNCiAgICAgIF0sDQogICAgICAiY2hhcnMiOiBbDQogICAgICAgIDANCiAgICAgIF0sDQogICAgICAib2siOiAxLA0KICAgICAgInNhbXBsZXMiOiBbDQogICAgICAgICIiDQogICAgICBdLA0KICAgICAgImVycm9ycyI6IFtdDQogICAgfQ0KICB9LA0KICAic3RlcC0zLjUtZmxhc2giOiB7DQogICAgInNpbXBsZSI6IHsNCiAgICAgICJ0dGZ0cyI6IFsNCiAgICAgICAgMC40OA0KICAgICAgXSwNCiAgICAgICJ0b3RhbHMiOiBbDQogICAgICAgIDEuNTYNCiAgICAgIF0sDQogICAgICAiY2hhcnMiOiBbDQogICAgICAgIDI5DQogICAgICBdLA0KICAgICAgIm9rIjogMSwNCiAgICAgICJzYW1wbGVzIjogWw0KICAgICAgICAi5LuK5aSp6YCC5ZCI5oCd6ICD77yM5bCk5YW25piv5b2T5L2g5oS/5oSP5Li65p+Q5Liq6Zeu6aKY55WZ5Ye654mH5Yi75a6B6Z2Z55qE5pe25YCZ44CCIg0KICAgICAgXSwNCiAgICAgICJlcnJvcnMiOiBbXQ0KICAgIH0NCiAgfSwNCiAgInN0ZXAtMy41LWZsYXNoLTI2MDMiOiB7DQogICAgInNpbXBsZSI6IHsNCiAgICAgICJ0dGZ0cyI6IFsNCiAgICAgICAgMC43DQogICAgICBdLA0KICAgICAgInRvdGFscyI6IFsNCiAgICAgICAgMS43NA0KICAgICAgXSwNCiAgICAgICJjaGFycyI6IFsNCiAgICAgICAgMzUNCiAgICAgIF0sDQogICAgICAib2siOiAxLA0KICAgICAgInNhbXBsZXMiOiBbDQogICAgICAgICLku4rlpKnpnZ7luLjpgILlkIjmgJ3ogIPvvIzml6DorrrkvZXml7bkvZXlnLDvvIzmgJ3ogIPpg73og73orqnmiJHku6zmm7TmuIXmmbDlnLDorqTor4bkuJbnlYzlkozoh6rlt7HjgIIiDQogICAgICBdLA0KICAgICAgImVycm9ycyI6IFtdDQogICAgfQ0KICB9DQp9
+{
+  "kat-coder-pro-v2.5": {
+    "simple": {
+      "ttfts": [
+        0.68
+      ],
+      "totals": [
+        1.12
+      ],
+      "chars": [
+        22
+      ],
+      "ok": 1,
+      "samples": [
+        "\n\n今天适合思考，就像每一天都适合呼吸一样。"
+      ],
+      "errors": []
+    }
+  },
+  "MiniMax-M3": {
+    "simple": {
+      "ttfts": [
+        0.71
+      ],
+      "totals": [
+        0.73
+      ],
+      "chars": [
+        3
+      ],
+      "ok": 1,
+      "samples": [
+        "适合。"
+      ],
+      "errors": []
+    }
+  },
+  "sensenova-6.7-flash-lite": {
+    "simple": {
+      "ttfts": [
+        4.81
+      ],
+      "totals": [
+        8.64
+      ],
+      "chars": [
+        0
+      ],
+      "ok": 1,
+      "samples": [
+        ""
+      ],
+      "errors": []
+    }
+  },
+  "step-3.5-flash": {
+    "simple": {
+      "ttfts": [
+        0.48
+      ],
+      "totals": [
+        1.56
+      ],
+      "chars": [
+        29
+      ],
+      "ok": 1,
+      "samples": [
+        "今天适合思考，尤其是当你愿意为某个问题留出片刻宁静的时候。"
+      ],
+      "errors": []
+    }
+  },
+  "step-3.5-flash-2603": {
+    "simple": {
+      "ttfts": [
+        0.7
+      ],
+      "totals": [
+        1.74
+      ],
+      "chars": [
+        35
+      ],
+      "ok": 1,
+      "samples": [
+        "今天非常适合思考，无论何时何地，思考都能让我们更清晰地认识世界和自己。"
+      ],
+      "errors": []
+    }
+  }
+}

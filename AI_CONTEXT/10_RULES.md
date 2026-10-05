@@ -1,1 +1,52 @@
-IyAxMCDCtyDlvIDlj5Hljp/liJnvvIhSdWxlc++8iQoKPiAqKuWIt+aWsOS6jiAyMDI2LTA4LTA377yI57uI5qCh6IezIFEyLTE177yJKirvvJoqKuW6n+mZpCLpmLbmrrXkuIDku4XmlofmoaPkuI3lhpnnoIHjgIHnpoHmraLmlLnku7vkvZXmlofku7Yi55qE5pen57qi57q/KirigJTigJTor6XnuqbmnZ/lsZ4gUGhhc2UgSC0yIOivreWig++8jOmhueebruaXqeW3sui2iui/h++8iOW3suiHsyBRMi0xNe+8jOiBlOe9keaQnOe0ouW3sumDqOe9su+8ieOAggo+IOmYtuauteacgOmrmOWOn+WImeS7jeS4uu+8mioq5Luj56CB5Li655yf5a6e5p2l5rqQ77yM5paH5qGj5LuF6Kej6YeK77yb5Yay56qB5oyH5Ye677yM5LiN54yc5rWL77yM5LiN5L+u5pS577yM562J56Gu6K6k77yI6Zmk6Z2e55So5oi35piO56Gu5o6I5p2D77yJ44CCKioKCiMjIOW9k+WJjeehrOe6puadn++8iOS4jeWPr+egtO+8iQoKfCDnuqbmnZ8gfCDljp/lm6AgfAp8LS0tLS0tfC0tLS0tLXwKfCAqKuWGu+e7k+i1hOS6pyBTSEEyNTYg5a6I6ZeoKiogfCBjb3JwdXMuanNvbiAvIGludGVudC5qcyAvIHJhZy5qcyAvIGtub3dsZWRnZVJvdXRlci5qcyDmlLnliqjpobvku6UgU0hBMjU2IOavlOWvue+8jOa8guenuz3ov53op4TvvIzpobvmmL7lvI/mjojmnYMgKyDor4TlrqEgfAp8ICoq6YOo572y5YmN5b+F6K+7IGBjbG91ZGJhc2VyYy5qc29uYCoqIHwgYHRjYiBmbiBkZXBsb3lgIOWll+eUqOWFtiBlbnZWYXJpYWJsZXMvcnVudGltZS90aW1lb3V0L21lbW9yeVNpemXvvIzkuI7nlJ/kuqfkuI3kuIDoh7TkvJoqKumdmem7mOimhueblioq55Sf5Lqn546v5aKD5Y+Y6YePIHwKfCAqKuaJgOacieS6keWHveaVsOaUueWKqOmhu+mHjeaWsOmDqOe9suaJjeeUn+aViCoqIHwg5rKZ566xIGB0Y2IgZm4gZGVwbG95IDxmbj4gLS1mb3JjZWDvvIjnuqYgNTJz77yJIHwKfCAqKuS6keWHveaVsOmUgSBOb2RlanMxNi4xM++8jOemgeWOn+eUnyBmZXRjaCoqIHwg6LWwIHJhZy5qcyDlhoXnva4gbm9kZUZldGNoIC8gdXRpbC5odHRwUG9zdEpzb24gfAp8ICoq5qih5Z6L55Sx5LqR5bqTIG1vZGVsX2NvbmZpZyDphY3nva7vvIjpobvmjqfliLblj7DmiYvliqjlu7rvvIkqKiB8IOWJjeerr+mbtuaooeWei+mFjee9ru+8m+iBlOe9keaQnOe0ouWkjeeUqOWQjOS4gCBtb2RlbF9jb25maWcg55m+54K85qih5Z6LIHwKfCAqKuaKpOagj+mTvui3r+S4jeiiq+egtOWdjyoqIHwgcHJpdmFjeeKGkmNhbmFyeeKGknF1b3Rh4oaScHJvdmlkZXLihpJhdWRpdCDku7vkuIDnjq/mlLnliqjpobvkv53or4EgZmFpbC1zb2Z077yb56aB55So6Leo5aKDIHByb3ZpZGVy77yIdGF2aWx5L2Jpbmcvc2VycO+8iSB8CnwgKirkuovlrp7pmpTnprsqKiB8IOiBlOe9keaQnOe0oue7k+aenOWPquS9nCBydW50aW1lIGNvbnRleHTvvIzkuI3ov5sgY29ycHVzL2VtYmVkZGluZy9tZXRhZGF0YS/plb/mnJ/nvJPlrZjvvIhgZnJlc2huZXNzUnVudGltZUd1YXJkLmpzYO+8iSB8CnwgKirop4LmtYvlj5bmlbDnuqrlvosqKu+8iOingSBgMDRfREFUQUJBU0UubWRg77yJIHwg6L+d5Y+N5Y2z5YGH5pWF6Zqc77yIYGZpbmQrbGltaXRgIOivr+WIpOOAgWDnlpHkvLxgIOeri+mhueetie+8iSB8CgojIyDnuqLnur/vvIjkuqflk4Ev5a6J5YWo77yM5rC46L+c5LiN5Y+v56C077yJCgotIOS4jeabv+eUqOaIt+WBmuWGs+Wumu+8iOe7j+WFuOaYr+WQr+WPkeS4jeaYr+etlOahiO+8iQotIOWFiOWBmuS6uuWGjeW8lee7j++8iOS6lOauteW8j+S4jeWPr+S5seW6j++8iQotIOWGheWuueWuieWFqO+8iG1zZ1NlY0NoZWNrIOWFiOi3ke+8m+i/neinhOaWh+acrOS4jei/myBMTE3vvIkKLSDkuI3nvJbpgKDnu4/lhbggLyDkuI3nvJbpgKDkuovlrp7vvIjlhrfpmY3nuqfotbAgV2VuRGFvIOWPjeaAneWinuW8uu+8m+S8oOiusOaXoOa6kOivmuWunumZjee6p++8jFEyLTE177yJCi0g5a6e5pe26IO95YqbL+iBlOe9kee7k+aenCoq5rC45LiNKirov5sgY29ycHVzIC8gZW1iZWRkaW5nIC8g6Z2gIFByb21wdCDnlJ/miJDkuovlrp4KLSBgZGF0YV9yb3V0ZWAg5b+F6aG7IGBkb21lc3RpY2DvvIjlm73lhoXmupDvvInvvIzpm7bot6jlooMKCiMjIOWFgeiuuOa4heWNle+8iOW9k+WJje+8iQoKLSDinIUg6ZiF6K+7IC8g5YiG5p6QIC8g5bu656uL5pu05paw5paH5qGj77yI5pysIEFJX0NPTlRFWFTvvIkKLSDinIUg5Zyo55So5oi35o6I5p2D5LiL5L+u5pS5KirpnZ7lhrvnu5MqKuS7o+egge+8iGluZGV4LmpzIC8gZnJlc2huZXNzLyAvIHByb3ZpZGVycy8gLyB0aGluay8gLyBjYXBhYmlsaXRpZXMvIC8gc2VjdXJpdHkvIC8gb2JzZXJ2YWJpbGl0eS8g562J77yJCi0g4pyFIOWcqOeUqOaIt+aOiOadg+S4i+mDqOe9su+8iGB0Y2IgZm4gZGVwbG95YO+8iS8g5o+Q5Lqk77yIR2l077yJCi0g4pyFIOWGu+e7k+i1hOS6p+WcqOaYvuW8j+aOiOadgyArIFNIQTI1NiDmr5Tlr7nkuIvlj6/mlLkKCiMjIOWPkeeOsCBCdWcg5pe2Cgo+ICoq5YWI6K6w5b2V77yM5LiN5L+u5aSN77yI6Zmk6Z2e5o6I5p2D77yJ44CCKiog5L6L5aaC5pys5omr5o+P5Y+R546w55qE77yaCj4gLSBgYW5zd2VyX3F1YWxpdHlfbG9nYCB2cyBgcXVhbGl0eV9sb2dzYCDlkb3lkI3lhrLnqoHvvIjku6PnoIEgdnMg5Lu75Yqh5Lmm77yJCj4gLSBgbWV0YWRhdGFgIOWunuS4uuWtl+autemdnumbhuWQiAo+IC0gYGNvbnZlcnNhdGlvbmAvYGhpc3RvcnlgIOWunuS4uiBgY29udmVyc2F0aW9uc2AKPgo+IOWdh+W3suWcqCBgMDRfREFUQUJBU0UubWRgIOWmguWunuagh+azqO+8jOacquaUueS7o+eggeOAggo+Cj4gbXNnU2VjQ2hlY2sg55u45YWz77ya55yf5qC55ZugIGAtNTAxMDAxLy00MDAwM2Ag5LuNIDAlIOWPr+eUqO+8iE9QRU7vvInvvJtgY29uZmlnLmpzb25gIOWjsOaYjiArIOS7o+eggeiwg+eUqOWNs+eUn+aViO+8jCoq6Z2eIuW8gOmAmiLmnI3liqEqKu+8m+ecn+acuumhu+aKiiBgYXBpLmhjbnNlYy5jbmAg5YqgIHJlcXVlc3Qg55m95ZCN5Y2V77yI6IGU572R5pCc57Si5Zyo5LqR5Ye95pWw5pyN5Yqh56uv5Y+R6LW377yM5LiN57uP5bCP56iL5bqPIHd4LnJlcXVlc3TvvIzmlYXkuI3lj5fmraTpmZDvvInjgIIKCiMjIEdpdCAvIOmAmueUqOWdkQoKLSBgZ2l0IHN0YXR1c2Ag6YeM5Ya757uT5paH5Lu2IGBNYCDlpJrkuLrljoblj7LpgZfnlZnmnKrmj5DkuqTvvJvmlLnliqjku6UgU0hBMjU2IOavlOWvueS4uuWHhu+8jOWLv+WHrSBnaXQg54q25oCB5Yik5pat44CCCi0gYHRjYiBmbiBpbnZva2UgLWQgQOaWh+S7tmAg6aG7IFdpbmRvd3Mg57ud5a+56Lev5b6E77ybYGRiIG5vc3FsIGV4ZWN1dGVgIOmhuyBKU09OIOaVsOe7hOOAggotIOS4reaWh+a1i+ivleeUqCBQeXRob24g5pi+5byPIHV0Zi0477yM6YG/IEdpdCBCYXNoIGN1cmzvvIhHQksg5Lmx56CB77yJ44CCCi0g5Yig5paH5Lu26KKrIHNhZmUtZGVsZXRlIOaLpiDihpIgTm9kZSBgZnMucm1TeW5jKHAse3JlY3Vyc2l2ZTp0cnVlLGZvcmNlOnRydWV9KWDjgIIKLSDmspnnrrEgYHRjYiBmbiBkZXRhaWxgIOS7heWxleekuuWFpeWPoyBgaW5kZXguanNgIOa6kOegge+8jOS4jeWQq+S+nei1luaooeWdl++8m+mqjOivgeS+nei1luaUueWKqOmhu+mdoCBgdGNiIGZuIGRlcGxveWAg5pW05YyFICsg5rWL6K+V44CCCg==
+﻿# 10 · 开发原则（Rules）
+
+> **刷新于 2026-08-07（终校至 Q2-15）**：**废除"阶段一仅文档不写码、禁止改任何文件"的旧红线**——该约束属 Phase H-2 语境，项目早已越过（已至 Q2-15，联网搜索已部署）。
+> 阶段最高原则仍为：**代码为真实来源，文档仅解释；冲突指出，不猜测，不修改，等确认（除非用户明确授权）。**
+
+## 当前硬约束（不可破）
+
+| 约束 | 原因 |
+|------|------|
+| **冻结资产 SHA256 守门** | corpus.json / intent.js / rag.js / knowledgeRouter.js 改动须以 SHA256 比对，漂移=违规，须显式授权 + 评审 |
+| **部署前必读 `cloudbaserc.json`** | `tcb fn deploy` 套用其 envVariables/runtime/timeout/memorySize，与生产不一致会**静默覆盖**生产环境变量 |
+| **所有云函数改动须重新部署才生效** | 沙箱 `tcb fn deploy <fn> --force`（约 52s） |
+| **云函数锁 Nodejs16.13，禁原生 fetch** | 走 rag.js 内置 nodeFetch / util.httpPostJson |
+| **模型由云库 model_config 配置（须控制台手动建）** | 前端零模型配置；联网搜索复用同一 model_config 百炼模型 |
+| **护栏链路不被破坏** | privacy→canary→quota→provider→audit 任一环改动须保证 fail-soft；禁用跨境 provider（tavily/bing/serp） |
+| **事实隔离** | 联网搜索结果只作 runtime context，不进 corpus/embedding/metadata/长期缓存（`freshnessRuntimeGuard.js`） |
+| **观测取数纪律**（见 `04_DATABASE.md`） | 违反即假故障（`find+limit` 误判、`疑似` 立项等） |
+
+## 红线（产品/安全，永远不可破）
+
+- 不替用户做决定（经典是启发不是答案）
+- 先做人再引经（五段式不可乱序）
+- 内容安全（msgSecCheck 先跑；违规文本不进 LLM）
+- 不编造经典 / 不编造事实（冷降级走 WenDao 反思增强；传记无源诚实降级，Q2-15）
+- 实时能力/联网结果**永不**进 corpus / embedding / 靠 Prompt 生成事实
+- `data_route` 必须 `domestic`（国内源），零跨境
+
+## 允许清单（当前）
+
+- ✅ 阅读 / 分析 / 建立更新文档（本 AI_CONTEXT）
+- ✅ 在用户授权下修改**非冻结**代码（index.js / freshness/ / providers/ / think/ / capabilities/ / security/ / observability/ 等）
+- ✅ 在用户授权下部署（`tcb fn deploy`）/ 提交（Git）
+- ✅ 冻结资产在显式授权 + SHA256 比对下可改
+
+## 发现 Bug 时
+
+> **先记录，不修复（除非授权）。** 例如本扫描发现的：
+> - `answer_quality_log` vs `quality_logs` 命名冲突（代码 vs 任务书）
+> - `metadata` 实为字段非集合
+> - `conversation`/`history` 实为 `conversations`
+>
+> 均已在 `04_DATABASE.md` 如实标注，未改代码。
+>
+> msgSecCheck 相关：真根因 `-501001/-40003` 仍 0% 可用（OPEN）；`config.json` 声明 + 代码调用即生效，**非"开通"服务**；真机须把 `api.hcnsec.cn` 加 request 白名单（联网搜索在云函数服务端发起，不经小程序 wx.request，故不受此限）。
+
+## Git / 通用坑
+
+- `git status` 里冻结文件 `M` 多为历史遗留未提交；改动以 SHA256 比对为准，勿凭 git 状态判断。
+- `tcb fn invoke -d @文件` 须 Windows 绝对路径；`db nosql execute` 须 JSON 数组。
+- 中文测试用 Python 显式 utf-8，避 Git Bash curl（GBK 乱码）。
+- 删文件被 safe-delete 拦 → Node `fs.rmSync(p,{recursive:true,force:true})`。
+- 沙箱 `tcb fn detail` 仅展示入口 `index.js` 源码，不含依赖模块；验证依赖改动须靠 `tcb fn deploy` 整包 + 测试。

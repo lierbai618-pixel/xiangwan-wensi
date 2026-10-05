@@ -1,1 +1,113 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09DQovLyBRMi0xOSBEaXJlY3QgRmFjdHVhbCDlv6vpgJ/pgJrpgZPpqozor4ENCi8vICAg5a+55q+U77yacGVyc29uLWlkZW50aXR5KOW/q+mAn+mAmumBkykgdnMg5paw6Ze7KOS6lOauteW8jykg55qE6ICX5pe25ZKM6LSo6YePDQovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0NCid1c2Ugc3RyaWN0JzsNCg0KcHJvY2Vzcy5lbnYuRlJFU0hORVNTX0VOQUJMRUQgPSAndHJ1ZSc7DQpwcm9jZXNzLmVudi5GUkVTSE5FU1NfRkFDVFVBTF9FTkFCTEVEID0gJ3RydWUnOw0KcHJvY2Vzcy5lbnYuU0VBUkNIX1BST1ZJREVSID0gJ3F3ZW4nOw0KcHJvY2Vzcy5lbnYuU0VBUkNIX1RJTUVPVVRfTVMgPSAnMTUwMDAnOw0KcHJvY2Vzcy5lbnYuUVdFTl9TRUFSQ0hfQkFTRV9VUkwgPSAnaHR0cHM6Ly9kYXNoc2NvcGUuYWxpeXVuY3MuY29tL2NvbXBhdGlibGUtbW9kZS92MSc7DQpwcm9jZXNzLmVudi5RV0VOX1NFQVJDSF9BUElfS0VZID0gJ3NrLVlPVVJfQVBJX0tFWV9IRVJFJzsNCnByb2Nlc3MuZW52LlFXRU5fU0VBUkNIX01PREVMID0gJ2RlZXBzZWVrLXY0LWZsYXNoLTA3MzEnOw0KcHJvY2Vzcy5lbnYuUVdFTl9TRUFSQ0hfU1lOVEhfTU9ERSA9ICd0cnVlJzsNCnByb2Nlc3MuZW52LlNFQVJDSF9DQU5BUllfRU5BQkxFRCA9ICd0cnVlJzsNCnByb2Nlc3MuZW52LlNFQVJDSF9DQU5BUllfT1BFTklEUyA9ICdZT1VSX0FETUlOX09QRU5JRCc7DQpwcm9jZXNzLmVudi5QUklWQUNZX0dBVEVfRU5BQkxFRCA9ICd0cnVlJzsNCg0KdmFyIGZyZXNobmVzcyA9IHJlcXVpcmUoJy4uL2Nsb3VkZnVuY3Rpb25zL2NoYXQvZnJlc2huZXNzJyk7DQp2YXIgbWF5YmVIYW5kbGUgPSBmcmVzaG5lc3MubWF5YmVIYW5kbGU7DQoNCnZhciBNT0RFTFMgPSBbew0KICBuYW1lOiAnZGVlcHNlZWstdjQtZmxhc2gtMDczMScsDQogIGJhc2VVUkw6ICdodHRwczovL2Rhc2hzY29wZS5hbGl5dW5jcy5jb20vY29tcGF0aWJsZS1tb2RlL3YxJywNCiAgYXBpS2V5OiAnc2stWU9VUl9BUElfS0VZX0hFUkUnLA0KICBtb2RlbDogJ2RlZXBzZWVrLXY0LWZsYXNoLTA3MzEnLA0KICB0aW1lb3V0OiAyNTAwMA0KfV07DQoNCnZhciBwYXNzZWQgPSAwLCBmYWlsZWQgPSAwOw0KZnVuY3Rpb24gb2sobmFtZSwgY29uZCkgew0KICBpZiAoY29uZCkgeyBwYXNzZWQrKzsgY29uc29sZS5sb2coJyAg4pyFICcgKyBuYW1lKTsgfQ0KICBlbHNlIHsgZmFpbGVkKys7IGNvbnNvbGUubG9nKCcgIOKdjCAnICsgbmFtZSk7IH0NCn0NCg0KYXN5bmMgZnVuY3Rpb24gdGVzdE9uZShxdWVyeSwgZXhwZWN0RGlyZWN0KSB7DQogIGNvbnNvbGUubG9nKCdcbj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0nKTsNCiAgY29uc29sZS5sb2coJ+mXruazlTogJyArIHF1ZXJ5ICsgKGV4cGVjdERpcmVjdCA/ICcgW+acn+acm+W/q+mAn+mAmumBk10nIDogJyBb5pyf5pyb5LqU5q615byPXScpKTsNCiAgdmFyIHQwID0gRGF0ZS5ub3coKTsNCiAgdmFyIHJlcyA9IGF3YWl0IG1heWJlSGFuZGxlKHF1ZXJ5LCB7DQogICAgbW9kZWxzOiBNT0RFTFMsDQogICAgb3BlbmlkOiAnWU9VUl9BRE1JTl9PUEVOSUQnLA0KICAgIGFuc3dlck1vZGU6ICd0aGluaycsDQogICAgaGlzdG9yeTogW10NCiAgfSk7DQogIHZhciBlbGFwc2VkID0gRGF0ZS5ub3coKSAtIHQwOw0KICBjb25zb2xlLmxvZygn6ICX5pe2OiAnICsgZWxhcHNlZCArICdtcycpOw0KDQogIGlmICghcmVzKSB7DQogICAgY29uc29sZS5sb2coJyAg4p2MIOi/lOWbniBudWxsJyk7DQogICAgcmV0dXJuIGZhbHNlOw0KICB9DQoNCiAgdmFyIGlzRGlyZWN0ID0gISEocmVzLmZyZXNobmVzcyAmJiByZXMuZnJlc2huZXNzLmRpcmVjdF9mYWN0dWFsKTsNCiAgY29uc29sZS5sb2coJyAgbW9kZTogJyArIHJlcy5tb2RlKTsNCiAgY29uc29sZS5sb2coJyAgZG93bmdyYWRlZDogJyArICEhKHJlcy5mcmVzaG5lc3MgJiYgcmVzLmZyZXNobmVzcy5kb3duZ3JhZGVkKSk7DQogIGNvbnNvbGUubG9nKCcgIGRpcmVjdF9mYWN0dWFsOiAnICsgaXNEaXJlY3QpOw0KICBjb25zb2xlLmxvZygnICBjYXRlZ29yeTogJyArIChyZXMuZnJlc2huZXNzICYmIHJlcy5mcmVzaG5lc3MuY2F0ZWdvcnkpKTsNCiAgY29uc29sZS5sb2coJyAgcHJvdmlkZXI6ICcgKyAocmVzLmZyZXNobmVzcyAmJiByZXMuZnJlc2huZXNzLnNlYXJjaF9wcm92aWRlcikpOw0KDQogIHZhciBhbGxPayA9IHRydWU7DQoNCiAgaWYgKHJlcy5mcmVzaG5lc3MgJiYgcmVzLmZyZXNobmVzcy5kb3duZ3JhZGVkKSB7DQogICAgYWxsT2sgPSBmYWxzZTsgY29uc29sZS5sb2coJyAg4p2MIOmZjee6pzogJyArIChyZXMuZnJlc2huZXNzLmRvd25ncmFkZV9yZWFzb24gfHwgJycpKTsNCiAgfQ0KDQogIGlmIChleHBlY3REaXJlY3QpIHsNCiAgICBvaygn6LWw5b+r6YCf6YCa6YGTJywgaXNEaXJlY3QgPT09IHRydWUpOw0KICAgIGlmICghaXNEaXJlY3QpIHsgYWxsT2sgPSBmYWxzZTsgfQ0KICB9IGVsc2Ugew0KICAgIG9rKCfotbDkupTmrrXlvI/pk77ot68nLCBpc0RpcmVjdCAhPT0gdHJ1ZSk7DQogIH0NCg0KICAvLyDkuI3lho3mmK/pmY3nuqfmqKHmnb8NCiAgb2soJ+aXoOmZjee6p+aooeadv+aWh+ahiCcsIChyZXMuYW5zd2VyIHx8ICcnKS5pbmRleE9mKCfmsqHmnInlj6/pnaDnmoTkv6Hmga/mnaXmupAnKSA8IDAgJiYNCiAgICAocmVzLmFuc3dlciB8fCAnJykuaW5kZXhPZign5oiR5LiN5o6M5o+hJykgPCAwKTsNCg0KICAvLyDmnInlrp7pmYXlhoXlrrkNCiAgb2soJ+acieWunui0qOaAp+WbnuetlCcsIChyZXMuYW5zd2VyIHx8ICcnKS5sZW5ndGggPiA1MCk7DQoNCiAgLy8g5ZCr5YWN6LSj5aOw5piODQogIG9rKCflkKvogZTnvZHlhY3otKPlo7DmmI4nLCAv5pyq57uPKOeLrOeriyk/5qC45a6efOe9kee7nOe7vOWQiHzku4Xkvpvlj4LogIMvdS50ZXN0KHJlcy5hbnN3ZXIgfHwgJycpKTsNCg0KICAvLyDlpoLmnpzmmK/kurrnianmn6Xor6LvvIzlm57nrZTlupTnm7TmjqXnu5nkv6Hmga/ogIzpnZ7kupTmrrXlvI/lk7LlrabmqKHmnb8NCiAgLy8gICDimqDvuI8g55m+54K85ZCI5oiQ5bqV5bqn5a+55p6B5qih57OK5p+l6K+i5Y+v6IO95Lul6Kej6YeK5oCn5paH5a2X5byA5aS077yM6L+Z5LiN566X5ZOy5a2m5qih5p2/DQogIGlmIChleHBlY3REaXJlY3QpIHsNCiAgICB2YXIgYW5zID0gcmVzLmFuc3dlciB8fCAnJzsNCiAgICB2YXIgaXNXdWR1YW4gPSAvXuOAkOeQhuino+OAkVxzKiQvbS50ZXN0KGFucyk7ICAvLyDkupTmrrXlvI/mqKHmnb/nibnmnInmoIforrANCiAgICBvaygn6Z2e5LqU5q615byP5ZOy5a2m5qih5p2/JywgIWlzV3VkdWFuKTsNCiAgICBpZiAoaXNXdWR1YW4pIHsgYWxsT2sgPSBmYWxzZTsgfQ0KICB9DQoNCiAgY29uc29sZS5sb2coJyAgLS0tIOWbnuetlOWJjSAzMDAg5a2XIC0tLScpOw0KICBjb25zb2xlLmxvZygnICAnICsgKHJlcy5hbnN3ZXIgfHwgJycpLnNsaWNlKDAsIDMwMCkucmVwbGFjZSgvXG4vZywgJ1xuICAnKSk7DQogIHJldHVybiBhbGxPazsNCn0NCg0KYXN5bmMgZnVuY3Rpb24gcnVuKCkgew0KICBjb25zb2xlLmxvZygnPT09IFEyLTE5IERpcmVjdCBGYWN0dWFsIOW/q+mAn+mAmumBk+mqjOivgSA9PT1cbicpOw0KDQogIHZhciByMSA9IGF3YWl0IHRlc3RPbmUoJ+S7mOiIquaYr+iwgScsIHRydWUpOyAgICAgICAgICAgLy8gcGVyc29uLWlkZW50aXR5IOKGkiDlv6vpgJ/pgJrpgZMNCiAgdmFyIHIyID0gYXdhaXQgdGVzdE9uZSgn5oi/5Li75piv6LCBJywgdHJ1ZSk7ICAgICAgICAgICAgLy8gcGVyc29uLWlkZW50aXR5IOKGkiDlv6vpgJ/pgJrpgZMNCiAgdmFyIHIzID0gYXdhaXQgdGVzdE9uZSgn6ams5pav5YWL5piv5LuA5LmI5Lq6JywgdHJ1ZSk7ICAgICAgLy8gcGVyc29uLWlkZW50aXR5IOKGkiDlv6vpgJ/pgJrpgZMNCiAgdmFyIHI0ID0gYXdhaXQgdGVzdE9uZSgn5LuK5aSp5pyJ5LuA5LmI56eR5oqA5paw6Ze7JywgZmFsc2UpOyAvLyDmlrDpl7sg4oaSIOS6lOauteW8jw0KDQogIHZhciBwYXNzID0gKHIxPzE6MCkrKHIyPzE6MCkrKHIzPzE6MCkrKHI0PzE6MCk7DQogIHZhciBmYWlsID0gNCAtIHBhc3M7DQoNCiAgY29uc29sZS5sb2coJ1xuPT09IFEyLTE5IOe7k+aenO+8micgKyBwYXNzICsgJyBQQVNTIC8gJyArIGZhaWwgKyAnIEZBSUwgPT09Jyk7DQogIGlmIChmYWlsID4gMCkgcHJvY2Vzcy5leGl0KDEpOw0KfQ0KDQpydW4oKS5jYXRjaChmdW5jdGlvbihlKSB7IGNvbnNvbGUuZXJyb3IoJ+acquaNleiOt+W8guW4uDonLCBlKTsgcHJvY2Vzcy5leGl0KDEpOyB9KTsNCg==
+// ============================================================
+// Q2-19 Direct Factual 快速通道验证
+//   对比：person-identity(快速通道) vs 新闻(五段式) 的耗时和质量
+// ============================================================
+'use strict';
+
+process.env.FRESHNESS_ENABLED = 'true';
+process.env.FRESHNESS_FACTUAL_ENABLED = 'true';
+process.env.SEARCH_PROVIDER = 'qwen';
+process.env.SEARCH_TIMEOUT_MS = '15000';
+process.env.QWEN_SEARCH_BASE_URL = 'https://dashscope.aliyuncs.com/compatible-mode/v1';
+process.env.QWEN_SEARCH_API_KEY = 'sk-YOUR_API_KEY_HERE';
+process.env.QWEN_SEARCH_MODEL = 'deepseek-v4-flash-0731';
+process.env.QWEN_SEARCH_SYNTH_MODE = 'true';
+process.env.SEARCH_CANARY_ENABLED = 'true';
+process.env.SEARCH_CANARY_OPENIDS = 'YOUR_ADMIN_OPENID';
+process.env.PRIVACY_GATE_ENABLED = 'true';
+
+var freshness = require('../cloudfunctions/chat/freshness');
+var maybeHandle = freshness.maybeHandle;
+
+var MODELS = [{
+  name: 'deepseek-v4-flash-0731',
+  baseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  apiKey: 'sk-YOUR_API_KEY_HERE',
+  model: 'deepseek-v4-flash-0731',
+  timeout: 25000
+}];
+
+var passed = 0, failed = 0;
+function ok(name, cond) {
+  if (cond) { passed++; console.log('  ✅ ' + name); }
+  else { failed++; console.log('  ❌ ' + name); }
+}
+
+async function testOne(query, expectDirect) {
+  console.log('\n========================================');
+  console.log('问法: ' + query + (expectDirect ? ' [期望快速通道]' : ' [期望五段式]'));
+  var t0 = Date.now();
+  var res = await maybeHandle(query, {
+    models: MODELS,
+    openid: 'YOUR_ADMIN_OPENID',
+    answerMode: 'think',
+    history: []
+  });
+  var elapsed = Date.now() - t0;
+  console.log('耗时: ' + elapsed + 'ms');
+
+  if (!res) {
+    console.log('  ❌ 返回 null');
+    return false;
+  }
+
+  var isDirect = !!(res.freshness && res.freshness.direct_factual);
+  console.log('  mode: ' + res.mode);
+  console.log('  downgraded: ' + !!(res.freshness && res.freshness.downgraded));
+  console.log('  direct_factual: ' + isDirect);
+  console.log('  category: ' + (res.freshness && res.freshness.category));
+  console.log('  provider: ' + (res.freshness && res.freshness.search_provider));
+
+  var allOk = true;
+
+  if (res.freshness && res.freshness.downgraded) {
+    allOk = false; console.log('  ❌ 降级: ' + (res.freshness.downgrade_reason || ''));
+  }
+
+  if (expectDirect) {
+    ok('走快速通道', isDirect === true);
+    if (!isDirect) { allOk = false; }
+  } else {
+    ok('走五段式链路', isDirect !== true);
+  }
+
+  // 不再是降级模板
+  ok('无降级模板文案', (res.answer || '').indexOf('没有可靠的信息来源') < 0 &&
+    (res.answer || '').indexOf('我不掌握') < 0);
+
+  // 有实际内容
+  ok('有实质性回答', (res.answer || '').length > 50);
+
+  // 含免责声明
+  ok('含联网免责声明', /未经(独立)?核实|网络综合|仅供参考/u.test(res.answer || ''));
+
+  // 如果是人物查询，回答应直接给信息而非五段式哲学模板
+  //   ⚠️ 百炼合成底座对极模糊查询可能以解释性文字开头，这不算哲学模板
+  if (expectDirect) {
+    var ans = res.answer || '';
+    var isWuduan = /^【理解】\s*$/m.test(ans);  // 五段式模板特有标记
+    ok('非五段式哲学模板', !isWuduan);
+    if (isWuduan) { allOk = false; }
+  }
+
+  console.log('  --- 回答前 300 字 ---');
+  console.log('  ' + (res.answer || '').slice(0, 300).replace(/\n/g, '\n  '));
+  return allOk;
+}
+
+async function run() {
+  console.log('=== Q2-19 Direct Factual 快速通道验证 ===\n');
+
+  var r1 = await testOne('付航是谁', true);           // person-identity → 快速通道
+  var r2 = await testOne('房主是谁', true);            // person-identity → 快速通道
+  var r3 = await testOne('马斯克是什么人', true);      // person-identity → 快速通道
+  var r4 = await testOne('今天有什么科技新闻', false); // 新闻 → 五段式
+
+  var pass = (r1?1:0)+(r2?1:0)+(r3?1:0)+(r4?1:0);
+  var fail = 4 - pass;
+
+  console.log('\n=== Q2-19 结果：' + pass + ' PASS / ' + fail + ' FAIL ===');
+  if (fail > 0) process.exit(1);
+}
+
+run().catch(function(e) { console.error('未捕获异常:', e); process.exit(1); });

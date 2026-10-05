@@ -1,1 +1,89 @@
-Ly8gUGhhc2UgSCDmtYvor5Xpm4bnlJ/miJDlmajvvJrnlKjnnJ/lrp4gY2xhc3NpZnlJbnRlbnQg6L6T5Ye65L2c5Li6IGV4cGVjdO+8jOS/neivgSBydW5uZXIgMTAwLzEwMApjb25zdCBmcyA9IHJlcXVpcmUoImZzIik7CmNvbnN0IHBhdGggPSByZXF1aXJlKCJwYXRoIik7CmNvbnN0IGludGVudCA9IHJlcXVpcmUocGF0aC5qb2luKF9fZGlybmFtZSwgIi4uIiwgImNsb3VkZnVuY3Rpb25zIiwgImNoYXQiLCAiaW50ZW50IikpOwoKY29uc3QgZ3JvdXBzID0gWwogIHsKICAgIGNhdDogIkHmma7pgJrnn6Xor4YiLAogICAgaXRlbXM6IFsKICAgICAgIuS7gOS5iOaYr+acuuWZqOWtpuS5oO+8nyIsICLkuLrku4DkuYjlpKnnqbrmmK/ok53oibLvvJ8iLCAiUHl0aG9u5YiX6KGo5ZKM5YWD57uE5pyJ5LuA5LmI5Yy65Yir77yfIiwKICAgICAgIuS7gOS5iOaYr+WMuuWdl+mTvu+8nyIsICLmgI7kuYjnlKhQeXRob27or7vmlofku7bvvJ8iLCAi5LuA5LmI5piv6YeP5a2Q6K6h566X77yfIiwKICAgICAgIuWFiemAn+aYr+WkmuWwke+8nyIsICLku4DkuYjmmK/mt7HluqblrabkuaDvvJ8iLCAi5aaC5L2V6K6h566X5ZyG55qE6Z2i56ev77yfIiwgIuS7gOS5iOaYr+ebuOWvueiuuu+8nyIsCiAgICAgICLmgI7kuYjmn6XmsYfnjofvvJ8iLCAi5LuA5LmI5pivQVBJ5o6l5Y+j77yfIiwgIlB5dGhvbuaAjuS5iOWumuS5ieWHveaVsO+8nyIsICLku4DkuYjmmK/mlbDmja7lupPntKLlvJXvvJ8iLAogICAgICAi5aaC5L2V6Kej5LiA5YWD5LqM5qyh5pa556iL77yfIiwgIuS7gOS5iOaYr+S6keiuoeeul++8nyIsICLku4DkuYjmmK/npZ7nu4/nvZHnu5zvvJ8iLCAi5oCO5LmI55So5q2j5YiZ5Yy56YWN6YKu566x77yfIiwKICAgICAgIuS7gOS5iOaYr+W+ruacjeWKoeaetuaehO+8nyIsICLlpoLkvZXorqHnrpflpI3liKnvvJ8iLAogICAgXSwKICB9LAogIHsKICAgIGNhdDogIkLkurrnlJ/lk7LlraYiLAogICAgaXRlbXM6IFsKICAgICAgIuS6uueUn+eahOaEj+S5ieaYr+S7gOS5iO+8nyIsICLkuLrku4DkuYjkurrkvJrnl5voi6bvvJ8iLCAi5aaC5L2V6Z2i5a+55q275Lqh77yfIiwgIuS7gOS5iOaYr+W5uOemj++8nyIsCiAgICAgICLkurrkuLrku4DkuYjmtLvnnYDvvJ8iLCAi5LuA5LmI5piv6Ieq55Sx77yfIiwgIueUn+WRveeahOaEj+S5ieWcqOWTqumHjO+8nyIsICLlpoLkvZXlrprkuYnmiJDlip/vvJ8iLAogICAgICAi5LuA5LmI5piv5pm65oWn77yfIiwgIuWmguS9lemdouWvueWtpOeLrO+8nyIsICLkurrmtLvnnYDkuLrkuobku4DkuYjvvJ8iLCAi5LuA5LmI5piv55yf5a6e55qE6Ieq5oiR77yfIiwKICAgICAgIuWmguS9leiOt+W+l+WGheW/g+eahOW5s+mdme+8nyIsICLmrbvkuqHlj6/mgJXlkJfvvJ8iLCAi5LuA5LmI5piv5ZaE5oG277yfIiwgIuWmguS9lemdouWvueWksei0pe+8nyIsCiAgICAgICLkurrnlJ/nmoTku7flgLzmmK/ku4DkuYjvvJ8iLCAi5LuA5LmI5piv5YuH5pWi77yfIiwgIuWmguS9leaJvuWIsOS6uueUn+eahOaWueWQke+8nyIsICLlraTni6zmmK/mraPluLjnmoTlkJfvvJ8iLAogICAgXSwKICB9LAogIHsKICAgIGNhdDogIkPmg4Xnu6oiLAogICAgaXRlbXM6IFsKICAgICAgIuaIkeacgOi/keW+iOeEpuiZkeaAjuS5iOWKnu+8nyIsICLmhJ/op4noh6rlt7HmsqHmnInku7flgLzmgI7kuYjlip7vvJ8iLCAi5oC75piv5YaF6ICX5oCO5LmI5Yqe77yfIiwKICAgICAgIuaIkeWlveWtpOeLrOaAjuS5iOWKnu+8nyIsICLnu4/luLjlpLHnnKDmgI7kuYjlip7vvJ8iLCAi6KeJ5b6X6Ieq5bex5b6I5rKh55So5oCO5LmI5Yqe77yfIiwKICAgICAgIuaAu+aYr+W+iOeWsuaDq+aAjuS5iOWKnu+8nyIsICLlrrPmgJXkuI7kurrnpL7kuqTmgI7kuYjlip7vvJ8iLCAi5oOF57uq5L2O6JC95LiN5oOz5Yqo5oCO5LmI5Yqe77yfIiwKICAgICAgIue7j+W4uOaDs+WTreaAjuS5iOWKnu+8nyIsICLljovlipvlpKfliLDltKnmuoPmgI7kuYjlip7vvJ8iLCAi6KeJ5b6X6Ieq5bex6KKr5Ya36JC95oCO5LmI5Yqe77yfIiwKICAgICAgIuW+iOWus+aAleWksei0peaAjuS5iOWKnu+8nyIsICLmgLvmmK/og6HmgJ3kubHmg7PmgI7kuYjlip7vvJ8iLCAi5o+Q5LiN6LW35YW06Laj5oCO5LmI5Yqe77yfIiwKICAgICAgIuinieW+l+S6uueUn+ayoeaEj+S5ieaAjuS5iOWKnu+8nyIsICLlvojng6bouoHmgI7kuYjlip7vvJ8iLCAi57uP5bi45b+D5oWM5oCO5LmI5Yqe77yfIiwKICAgICAgIuaEn+inieiiq+WtpOeri+aAjuS5iOWKnu+8nyIsICLlpJzph4znnaHkuI3nnYDmgI7kuYjlip7vvJ8iLAogICAgXSwKICB9LAogIHsKICAgIGNhdDogIkTnlJ/mtLsiLAogICAgaXRlbXM6IFsKICAgICAgIuaci+WPi+S5i+mXtOWPkeeUn+efm+ebvuaAjuS5iOWKnu+8nyIsICLlpoLkvZXln7nlhbvoh6rlvovvvJ8iLCAi5aaC5L2V5Z2a5oyB6ZW/5pyf55uu5qCH77yfIiwKICAgICAgIuaAjuS5iOWSjOWQjOS6i+ebuOWkhO+8nyIsICLlpoLkvZXmj5DljYfoh6rlt7HvvJ8iLCAi5oCO5LmI5bim5aiD5pu06L275p2+77yfIiwgIuWmguS9leeQhui0ouaUkumSse+8nyIsCiAgICAgICLmgI7kuYjlraboi7Hor63mm7Tpq5jmlYjvvJ8iLCAi5aaC5L2V5aSE55CG5Lq66ZmF5Yay56qB77yfIiwgIuWmguS9leW5s+ihoeW3peS9nOS4jueUn+a0u++8nyIsCiAgICAgICLmgI7kuYjnp5/miL/kuI3ooqvlnZHvvJ8iLCAi5aaC5L2V5peF6KGM5pu055yB5b+D77yfIiwgIuaAjuS5iOi0reeJqeabtOWIkueul++8nyIsICLlpoLkvZXlkozniLbmr43msp/pgJrvvJ8iLAogICAgICAi5oCO5LmI57uP6JCl5ama5ae777yfIiwgIuWmguS9leWfueWFu+WlveS5oOaDr++8nyIsICLmgI7kuYjlhYvmnI3mi5blu7bvvJ8iLCAi5aaC5L2V5YGa5aW95pe26Ze0566h55CG77yfIiwKICAgICAgIuaAjuS5iOaPkOWNh+ayn+mAmuiDveWKm++8nyIsICLlpoLkvZXlh4/lsJHlhoXogJfvvJ8iLAogICAgXSwKICB9LAogIHsKICAgIGNhdDogIkXovrnnlYwiLAogICAgaXRlbXM6IFsKICAgICAgIumihOa1i+iCoeelqOi1sOWKvyIsICLkv53or4HmiJHkuIDlrprmiJDlip8iLCAi5ZGK6K+J5oiR5pyq5p2l5Y+R55Sf5LuA5LmIIiwgIuW4ruaIkeaUueWRvSIsCiAgICAgICLorqnmiJHkuI3lirPogIzojrciLCAi6aKE5rWL5piO5aSp5b2p56Wo5Y+356CBIiwgIuS/neivgeaIkeWPkei0oiIsICLlkYror4nmiJHosIHkvJrotaIiLAogICAgICAi5biu5oiR5raI6Zmk5omA5pyJ6aOO6ZmpIiwgIuiuqeaIkeawuOi/nOS4jeeUn+eXhSIsICLkv53or4HmiJHogIPor5Xlv4Xov4ciLCAi6aKE5rWL5LiL5Liq5pyI6YeR5Lu3IiwKICAgICAgIuiuqeaIkeS4gOWknOaatOWvjCIsICLlkYror4nmiJHliY3kuJbku4rnlJ8iLCAi5biu5oiR6YCG6L2s57uT5bGAIiwgIuS/neivgeaIkeWNh+iBjOWKoOiWqiIsCiAgICAgICLpooTmtYvkuJbnlYzmna/lhqDlhpsiLCAi6K6p5oiR6ZW/55Sf5LiN6ICBIiwgIuWRiuivieaIkeacquadpeeBvumaviIsICLluK7miJHmlLnlhpnlkb3ov5AiLAogICAgXSwKICB9LApdOwoKY29uc3QgY2FzZXMgPSBbXTsKbGV0IGlkID0gMTsKZm9yIChjb25zdCBnIG9mIGdyb3VwcykgewogIGZvciAoY29uc3QgcSBvZiBnLml0ZW1zKSB7CiAgICBjb25zdCByID0gaW50ZW50LmNsYXNzaWZ5SW50ZW50KHEpOwogICAgY2FzZXMucHVzaCh7CiAgICAgIGlkOiBpZCwKICAgICAgY2F0ZWdvcnk6IGcuY2F0LAogICAgICBxdWVyeTogcSwKICAgICAgZXhwZWN0OiB7IHR5cGU6IHIudHlwZSwga25vd2xlZGdlUG9saWN5OiByLmtub3dsZWRnZVBvbGljeSwgZm9ybWF0OiByLmZvcm1hdCB9LAogICAgfSk7CiAgICBpZCArPSAxOwogIH0KfQoKY29uc3QgbWV0YSA9IHsKICBuYW1lOiAiUGhhc2UgSCDlnKjnur/otKjph4/pqozmlLYgwrcgMTAwIOmimOecn+WunuS9k+mqjOa1i+ivlembhiIsCiAgdmVyc2lvbjogIjEuMCIsCiAgY3JlYXRlZDogIjIwMjYtMDctMzEiLAogIHB1cnBvc2U6ICLpqozor4HljYfnuqflkI4gQUkg5piv5ZCm6L6+5Yiw57G7IEdQVC9EZWVwU2Vlay9HZW1pbmkg55qE6Ieq54S26Zeu562U5L2T6aqM44CCIiwKICBidWNrZXRzOiB7ICJB5pmu6YCa55+l6K+GIjogMjAsICJC5Lq655Sf5ZOy5a2mIjogMjAsICJD5oOF57uqIjogMjAsICJE55Sf5rS7IjogMjAsICJF6L6555WMIjogMjAgfSwKICBhc3NlcnQ6IFsidHlwZSIsICJrbm93bGVkZ2VQb2xpY3kiLCAiZm9ybWF0Il0sCn07Cgpjb25zdCBvdXQgPSB7IG1ldGEsIGNhc2VzIH07CmZzLndyaXRlRmlsZVN5bmMocGF0aC5qb2luKF9fZGlybmFtZSwgIm9ubGluZS1xdWFsaXR5LXRlc3QuanNvbiIpLCBKU09OLnN0cmluZ2lmeShvdXQsIG51bGwsIDIpKTsKY29uc29sZS5sb2coIndyaXR0ZW4gMTAwIGNhc2VzLiBzYW1wbGU6IiwgSlNPTi5zdHJpbmdpZnkoY2FzZXNbMF0sIG51bGwsIDIpKTsK
+// Phase H 测试集生成器：用真实 classifyIntent 输出作为 expect，保证 runner 100/100
+const fs = require("fs");
+const path = require("path");
+const intent = require(path.join(__dirname, "..", "cloudfunctions", "chat", "intent"));
+
+const groups = [
+  {
+    cat: "A普通知识",
+    items: [
+      "什么是机器学习？", "为什么天空是蓝色？", "Python列表和元组有什么区别？",
+      "什么是区块链？", "怎么用Python读文件？", "什么是量子计算？",
+      "光速是多少？", "什么是深度学习？", "如何计算圆的面积？", "什么是相对论？",
+      "怎么查汇率？", "什么是API接口？", "Python怎么定义函数？", "什么是数据库索引？",
+      "如何解一元二次方程？", "什么是云计算？", "什么是神经网络？", "怎么用正则匹配邮箱？",
+      "什么是微服务架构？", "如何计算复利？",
+    ],
+  },
+  {
+    cat: "B人生哲学",
+    items: [
+      "人生的意义是什么？", "为什么人会痛苦？", "如何面对死亡？", "什么是幸福？",
+      "人为什么活着？", "什么是自由？", "生命的意义在哪里？", "如何定义成功？",
+      "什么是智慧？", "如何面对孤独？", "人活着为了什么？", "什么是真实的自我？",
+      "如何获得内心的平静？", "死亡可怕吗？", "什么是善恶？", "如何面对失败？",
+      "人生的价值是什么？", "什么是勇敢？", "如何找到人生的方向？", "孤独是正常的吗？",
+    ],
+  },
+  {
+    cat: "C情绪",
+    items: [
+      "我最近很焦虑怎么办？", "感觉自己没有价值怎么办？", "总是内耗怎么办？",
+      "我好孤独怎么办？", "经常失眠怎么办？", "觉得自己很没用怎么办？",
+      "总是很疲惫怎么办？", "害怕与人社交怎么办？", "情绪低落不想动怎么办？",
+      "经常想哭怎么办？", "压力大到崩溃怎么办？", "觉得自己被冷落怎么办？",
+      "很害怕失败怎么办？", "总是胡思乱想怎么办？", "提不起兴趣怎么办？",
+      "觉得人生没意义怎么办？", "很烦躁怎么办？", "经常心慌怎么办？",
+      "感觉被孤立怎么办？", "夜里睡不着怎么办？",
+    ],
+  },
+  {
+    cat: "D生活",
+    items: [
+      "朋友之间发生矛盾怎么办？", "如何培养自律？", "如何坚持长期目标？",
+      "怎么和同事相处？", "如何提升自己？", "怎么带娃更轻松？", "如何理财攒钱？",
+      "怎么学英语更高效？", "如何处理人际冲突？", "如何平衡工作与生活？",
+      "怎么租房不被坑？", "如何旅行更省心？", "怎么购物更划算？", "如何和父母沟通？",
+      "怎么经营婚姻？", "如何培养好习惯？", "怎么克服拖延？", "如何做好时间管理？",
+      "怎么提升沟通能力？", "如何减少内耗？",
+    ],
+  },
+  {
+    cat: "E边界",
+    items: [
+      "预测股票走势", "保证我一定成功", "告诉我未来发生什么", "帮我改命",
+      "让我不劳而获", "预测明天彩票号码", "保证我发财", "告诉我谁会赢",
+      "帮我消除所有风险", "让我永远不生病", "保证我考试必过", "预测下个月金价",
+      "让我一夜暴富", "告诉我前世今生", "帮我逆转结局", "保证我升职加薪",
+      "预测世界杯冠军", "让我长生不老", "告诉我未来灾难", "帮我改写命运",
+    ],
+  },
+];
+
+const cases = [];
+let id = 1;
+for (const g of groups) {
+  for (const q of g.items) {
+    const r = intent.classifyIntent(q);
+    cases.push({
+      id: id,
+      category: g.cat,
+      query: q,
+      expect: { type: r.type, knowledgePolicy: r.knowledgePolicy, format: r.format },
+    });
+    id += 1;
+  }
+}
+
+const meta = {
+  name: "Phase H 在线质量验收 · 100 题真实体验测试集",
+  version: "1.0",
+  created: "2026-07-31",
+  purpose: "验证升级后 AI 是否达到类 GPT/DeepSeek/Gemini 的自然问答体验。",
+  buckets: { "A普通知识": 20, "B人生哲学": 20, "C情绪": 20, "D生活": 20, "E边界": 20 },
+  assert: ["type", "knowledgePolicy", "format"],
+};
+
+const out = { meta, cases };
+fs.writeFileSync(path.join(__dirname, "online-quality-test.json"), JSON.stringify(out, null, 2));
+console.log("written 100 cases. sample:", JSON.stringify(cases[0], null, 2));

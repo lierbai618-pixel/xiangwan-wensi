@@ -1,1 +1,29 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNDQgMTQ0IiB3aWR0aD0iMTQ0IiBoZWlnaHQ9IjE0NCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSLlkJHmmZrpl67mgJ0gbG9nbyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9InN1biIgeDE9IjAiIHkxPSIwIiB4Mj0iMCIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNlODlhNWMiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIwLjU1IiBzdG9wLWNvbG9yPSIjYzk2NjNhIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzliMmYyNSIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdyIgY3g9IjAuNSIgY3k9IjAuNSIgcj0iMC41Ij4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjYzk2NjNhIiBzdG9wLW9wYWNpdHk9IjAuMzAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjYzk2NjNhIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgIDwvcmFkaWFsR3JhZGllbnQ+CiAgPC9kZWZzPgoKICA8IS0tIOexs+iJsuWchuinkuW6le+8iOayv+eUqCBhcHAg5a+86Iiq5qCP6Imy77yJIC0tPgogIDxyZWN0IHdpZHRoPSIxNDQiIGhlaWdodD0iMTQ0IiByeD0iMzAiIGZpbGw9IiNlZmU0Y2YiLz4KCiAgPCEtLSDokL3ml6XlhYnmmZUgLS0+CiAgPGNpcmNsZSBjeD0iNzIiIGN5PSI3MiIgcj0iNDgiIGZpbGw9InVybCgjZ2xvdykiLz4KCiAgPCEtLSDokL3ml6UgLS0+CiAgPGNpcmNsZSBjeD0iNzIiIGN5PSI3MiIgcj0iMzEiIGZpbGw9InVybCgjc3VuKSIvPgoKICA8IS0tIOiQveaXpeS4reeahOKAnOmXruKAne+8muW8gOWPo+eOr++8iOacquWujOaIkOeahOaAnee0ou+8iSAtLT4KICA8Y2lyY2xlIGN4PSI3MiIgY3k9IjcyIiByPSIxNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmJlZWRlIiBzdHJva2Utd2lkdGg9IjMuNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtZGFzaGFycmF5PSI2NCAyNCIgdHJhbnNmb3JtPSJyb3RhdGUoMzUgNzIgNzIpIi8+CgogIDwhLS0g6L+c5bGx77ya5Lik6YGT5bmz57yT5bGx5LiY77yM6JC95pel5Y2K5rKJIC0tPgogIDxwYXRoIGQ9Ik0wIDkyIFEzNCA4MCA3MiA5MCBUMTQ0IDg4IEwxNDQgMTQ0IEwwIDE0NCBaIiBmaWxsPSIjY2RiNzkxIi8+CiAgPHBhdGggZD0iTTAgMTA4IFE0MiA5NiA4MCAxMDYgVDE0NCAxMDQgTDE0NCAxNDQgTDAgMTQ0IFoiIGZpbGw9IiNiODliNzgiLz4KPC9zdmc+Cg==
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144" role="img" aria-label="向晚问思 logo">
+  <defs>
+    <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e89a5c"/>
+      <stop offset="0.55" stop-color="#c9663a"/>
+      <stop offset="1" stop-color="#9b2f25"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#c9663a" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#c9663a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- 米色圆角底（沿用 app 导航栏色） -->
+  <rect width="144" height="144" rx="30" fill="#efe4cf"/>
+
+  <!-- 落日光晕 -->
+  <circle cx="72" cy="72" r="48" fill="url(#glow)"/>
+
+  <!-- 落日 -->
+  <circle cx="72" cy="72" r="31" fill="url(#sun)"/>
+
+  <!-- 落日中的“问”：开口环（未完成的思索） -->
+  <circle cx="72" cy="72" r="14" fill="none" stroke="#fbeede" stroke-width="3.4" stroke-linecap="round" stroke-dasharray="64 24" transform="rotate(35 72 72)"/>
+
+  <!-- 远山：两道平缓山丘，落日半沉 -->
+  <path d="M0 92 Q34 80 72 90 T144 88 L144 144 L0 144 Z" fill="#cdb791"/>
+  <path d="M0 108 Q42 96 80 106 T144 104 L144 144 L0 144 Z" fill="#b89b78"/>
+</svg>

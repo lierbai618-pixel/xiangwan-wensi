@@ -1,1 +1,152 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIENhcGFiaWxpdHkgTGF5ZXIg4oCUIHRpbWUuanPvvIjml7bpl7Tog73lipvvvIkKLy8gICBQaGFzZSBS77ya57O757uf5pe26Ze05pyN5Yqh44CCCi8vCi8vICAg6ZOB5b6L77yaCi8vICAgICDCtyDnpoHmraLlm57nrZQi5oiR5LiN55+l6YGT5pe26Ze0IiLmiJHml6Dms5XogZTnvZHojrflj5bml7bpl7Qi44CCCi8vICAgICAgIOaXtumXtOadpeiHqui/kOihjOaXtuezu+e7n+aXtumSn++8jOawuOi/nOWPr+W+l++8jOS4jeWtmOWcqCLojrflj5bkuI3liLAi44CCCi8vICAgICDCtyDnpoHmraLnvJbpgKDml7bpl7TjgILmiYDmnInovpPlh7rlnYfnlLEgRGF0ZSDorqHnrpflvpflh7rvvIzml6Dku7vkvZXnoaznvJbnoIHjgIIKLy8gICAgIMK3IOe7n+S4gOWMl+S6rOaXtumXtO+8iFVUQys477yJ77ya5LqR5Ye95pWw6L+Q6KGM5pe25pe25Yy65LiN56Gu5a6a77yI5bi45Li6IFVUQ++8ie+8jAovLyAgICAgICDlm6DmraTmmL7lvI/lgZrlgY/np7vmjaLnrpfvvIzkuI3kvp3otZbmnI3liqHlmajmnKzlnLDml7bljLrjgIIKLy8KLy8gICDmnKzmqKHlnZfkuI3ov5vlhaXnn6Xor4blupPjgIHkuI3ov5vlhaUgZW1iZWRkaW5n44CB5LiN5b2x5ZONIFJBR+OAggovLyAgIOe6r+WHveaVsO+8iG5vdyDlj6/ms6jlhaXvvInvvIzlj6/nprvnur/ljZXmtYvjgIIKLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Cid1c2Ugc3RyaWN0JzsKCnZhciBCRUlKSU5HX09GRlNFVF9NSU4gPSA4ICogNjA7IC8vIFVUQys4Cgp2YXIgV0VFS0RBWV9DTiA9IFsn5pif5pyf5pelJywgJ+aYn+acn+S4gCcsICfmmJ/mnJ/kuownLCAn5pif5pyf5LiJJywgJ+aYn+acn+WbmycsICfmmJ/mnJ/kupQnLCAn5pif5pyf5YWtJ107CgovKioKICog5oqK5Lu75oSP5pe25Yi75o2i566X5Li644CM5YyX5Lqs5aKZ6ZKf5pe26Ze044CN55qEIERhdGUg5a+56LGh44CCCiAqIOaNoueul+WQjuS9v+eUqCBnZXRGdWxsWWVhci9nZXRIb3VycyDnrYnmnKzlnLDlj5blgLzmlrnms5XljbPlvpfljJfkuqzml7bpl7TmlbDlgLzvvIwKICog5LiO5pyN5Yqh5Zmo5omA5Zyo5pe25Yy65peg5YWz44CCCiAqLwpmdW5jdGlvbiB0b0JlaWppbmcobm93KSB7CiAgdmFyIGQgPSBub3cgaW5zdGFuY2VvZiBEYXRlID8gbmV3IERhdGUobm93LmdldFRpbWUoKSkgOiBuZXcgRGF0ZSgpOwogIHJldHVybiBuZXcgRGF0ZShkLmdldFRpbWUoKSArIChCRUlKSU5HX09GRlNFVF9NSU4gKyBkLmdldFRpbWV6b25lT2Zmc2V0KCkpICogNjAwMDApOwp9CgpmdW5jdGlvbiBwYWQyKG4pIHsKICByZXR1cm4gbiA8IDEwID8gJzAnICsgbiA6ICcnICsgbjsKfQoKLyoqIOS4gOWkqeS4reeahOaXtuauteWPo+ivreaPj+i/sO+8iOWHjOaZqC/ml6nkuIov5LiK5Y2IL+S4reWNiC/kuIvljYgv5YKN5pmaL+aZmuS4ii/mt7HlpJzvvIkgKi8KZnVuY3Rpb24gZGF5UGFydChob3VyKSB7CiAgaWYgKGhvdXIgPCA1KSByZXR1cm4gJ+WHjOaZqCc7CiAgaWYgKGhvdXIgPCA4KSByZXR1cm4gJ+aXqeS4iic7CiAgaWYgKGhvdXIgPCAxMSkgcmV0dXJuICfkuIrljYgnOwogIGlmIChob3VyIDwgMTMpIHJldHVybiAn5Lit5Y2IJzsKICBpZiAoaG91ciA8IDE3KSByZXR1cm4gJ+S4i+WNiCc7CiAgaWYgKGhvdXIgPCAxOSkgcmV0dXJuICflgo3mmZonOwogIGlmIChob3VyIDwgMjMpIHJldHVybiAn5pma5LiKJzsKICByZXR1cm4gJ+a3seWknCc7Cn0KCi8qKiDnu5PmnoTljJbnmoTljJfkuqzml7bpl7Tlv6vnhacgKi8KZnVuY3Rpb24gc25hcHNob3Qobm93KSB7CiAgdmFyIGIgPSB0b0JlaWppbmcobm93KTsKICByZXR1cm4gewogICAgeWVhcjogYi5nZXRGdWxsWWVhcigpLAogICAgbW9udGg6IGIuZ2V0TW9udGgoKSArIDEsCiAgICBkYXk6IGIuZ2V0RGF0ZSgpLAogICAgaG91cjogYi5nZXRIb3VycygpLAogICAgbWludXRlOiBiLmdldE1pbnV0ZXMoKSwKICAgIHNlY29uZDogYi5nZXRTZWNvbmRzKCksCiAgICB3ZWVrZGF5SW5kZXg6IGIuZ2V0RGF5KCksCiAgICB3ZWVrZGF5OiBXRUVLREFZX0NOW2IuZ2V0RGF5KCldLAogICAgZGF5UGFydDogZGF5UGFydChiLmdldEhvdXJzKCkpLAogICAgaXNvOiBiLmdldEZ1bGxZZWFyKCkgKyAnLScgKyBwYWQyKGIuZ2V0TW9udGgoKSArIDEpICsgJy0nICsgcGFkMihiLmdldERhdGUoKSkgKwogICAgICAnVCcgKyBwYWQyKGIuZ2V0SG91cnMoKSkgKyAnOicgKyBwYWQyKGIuZ2V0TWludXRlcygpKSArICc6JyArIHBhZDIoYi5nZXRTZWNvbmRzKCkpICsgJyswODowMCcsCiAgICB0aW1lem9uZTogJ0FzaWEvU2hhbmdoYWkgKFVUQys4KScsCiAgfTsKfQoKLyoqIOebuOWvueaXpe+8iG9mZnNldERheXPvvJrmmI7lpKk9Me+8jOaYqOWkqT0tMe+8iSAqLwpmdW5jdGlvbiBzaGlmdERheXMobm93LCBvZmZzZXREYXlzKSB7CiAgdmFyIGIgPSB0b0JlaWppbmcobm93KTsKICBiLnNldERhdGUoYi5nZXREYXRlKCkgKyBvZmZzZXREYXlzKTsKICByZXR1cm4gewogICAgeWVhcjogYi5nZXRGdWxsWWVhcigpLAogICAgbW9udGg6IGIuZ2V0TW9udGgoKSArIDEsCiAgICBkYXk6IGIuZ2V0RGF0ZSgpLAogICAgd2Vla2RheTogV0VFS0RBWV9DTltiLmdldERheSgpXSwKICB9Owp9Cgp2YXIgUkVMQVRJVkVfTUFQID0gWwogIHsgcmU6IC/lpKflkI7lpKkvdSwgb2Zmc2V0OiAzLCBsYWJlbDogJ+Wkp+WQjuWkqScgfSwKICB7IHJlOiAv5ZCO5aSpL3UsIG9mZnNldDogMiwgbGFiZWw6ICflkI7lpKknIH0sCiAgeyByZTogL+aYjuWkqS91LCBvZmZzZXQ6IDEsIGxhYmVsOiAn5piO5aSpJyB9LAogIHsgcmU6IC/liY3lpKkvdSwgb2Zmc2V0OiAtMiwgbGFiZWw6ICfliY3lpKknIH0sCiAgeyByZTogL+aYqOWkqS91LCBvZmZzZXQ6IC0xLCBsYWJlbDogJ+aYqOWkqScgfSwKXTsKCmZ1bmN0aW9uIGRldGVjdFJlbGF0aXZlKHF1ZXJ5KSB7CiAgdmFyIHEgPSAocXVlcnkgfHwgJycpLnRvU3RyaW5nKCk7CiAgZm9yICh2YXIgaSA9IDA7IGkgPCBSRUxBVElWRV9NQVAubGVuZ3RoOyBpKyspIHsKICAgIGlmIChSRUxBVElWRV9NQVBbaV0ucmUudGVzdChxKSkgcmV0dXJuIFJFTEFUSVZFX01BUFtpXTsKICB9CiAgcmV0dXJuIG51bGw7Cn0KCi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQovLyByZXNvbHZlKHsgc3ViVHlwZSwgcXVlcnksIG5vdyB9KQovLyAgIOi/lOWbniB7IG9rOnRydWUsIGZhY3QsIGRhdGEsIGNhcGFiaWxpdHk6J3RpbWVfcXVlcnknIH0KLy8gICBvayDmgZLkuLogdHJ1ZSDigJTigJQg57O757uf5pe26ZKf5LiN5a2Y5Zyo5LiN5Y+v55So55qE5oOF5Ya144CCCi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpmdW5jdGlvbiByZXNvbHZlKGlucHV0KSB7CiAgaW5wdXQgPSBpbnB1dCB8fCB7fTsKICB2YXIgc3ViID0gaW5wdXQuc3ViVHlwZSB8fCAndGltZSc7CiAgdmFyIHF1ZXJ5ID0gaW5wdXQucXVlcnkgfHwgJyc7CiAgdmFyIHMgPSBzbmFwc2hvdChpbnB1dC5ub3cpOwoKICB2YXIgeW1kID0gcy55ZWFyICsgJ+W5tCcgKyBzLm1vbnRoICsgJ+aciCcgKyBzLmRheSArICfml6UnOwogIHZhciBobSA9IHBhZDIocy5ob3VyKSArICc6JyArIHBhZDIocy5taW51dGUpOwogIHZhciBmYWN0OwoKICBpZiAoc3ViID09PSAncmVsYXRpdmUnKSB7CiAgICB2YXIgcmVsID0gZGV0ZWN0UmVsYXRpdmUocXVlcnkpOwogICAgaWYgKHJlbCkgewogICAgICB2YXIgciA9IHNoaWZ0RGF5cyhpbnB1dC5ub3csIHJlbC5vZmZzZXQpOwogICAgICBmYWN0ID0gcmVsLmxhYmVsICsgJ+aYryAnICsgci55ZWFyICsgJ+W5tCcgKyByLm1vbnRoICsgJ+aciCcgKyByLmRheSArICfml6XvvIwnICsgci53ZWVrZGF5ICsKICAgICAgICAn77yI5LuK5aSp5pivICcgKyB5bWQgKyAn77yMJyArIHMud2Vla2RheSArICfvvInjgIInOwogICAgICByZXR1cm4gewogICAgICAgIG9rOiB0cnVlLAogICAgICAgIGNhcGFiaWxpdHk6ICd0aW1lX3F1ZXJ5JywKICAgICAgICBzdWJUeXBlOiBzdWIsCiAgICAgICAgZmFjdDogZmFjdCwKICAgICAgICBkYXRhOiB7IHRvZGF5OiBzLCB0YXJnZXQ6IHIsIHJlbGF0aXZlTGFiZWw6IHJlbC5sYWJlbCB9LAogICAgICB9OwogICAgfQogICAgc3ViID0gJ2RhdGUnOyAvLyDmnKror4bliKvliLDnm7jlr7nor43vvIzpgIDlm57ku4rml6Xml6XmnJ8KICB9CgogIGlmIChzdWIgPT09ICdkYXRlJykgewogICAgZmFjdCA9ICfku4rlpKnmmK/ljJfkuqzml7bpl7QgJyArIHltZCArICfvvIwnICsgcy53ZWVrZGF5ICsgJ+OAgic7CiAgfSBlbHNlIGlmIChzdWIgPT09ICd3ZWVrZGF5JykgewogICAgZmFjdCA9ICfku4rlpKnmmK8nICsgcy53ZWVrZGF5ICsgJ++8iCcgKyB5bWQgKyAn77yJ44CCJzsKICB9IGVsc2UgaWYgKHN1YiA9PT0gJ3llYXInKSB7CiAgICBmYWN0ID0gJ+eOsOWcqOaYryAnICsgcy55ZWFyICsgJ+W5tO+8iOS7iuWkqSAnICsgcy5tb250aCArICfmnIgnICsgcy5kYXkgKyAn5pel77yMJyArIHMud2Vla2RheSArICfvvInjgIInOwogIH0gZWxzZSB7CiAgICAvLyDpu5jorqTvvJrlrozmlbTml7bliLsKICAgIGZhY3QgPSAn546w5Zyo5piv5YyX5Lqs5pe26Ze0ICcgKyB5bWQgKyAnICcgKyBobSArICfvvIwnICsgcy53ZWVrZGF5ICsgJ+OAgic7CiAgfQoKICByZXR1cm4gewogICAgb2s6IHRydWUsCiAgICBjYXBhYmlsaXR5OiAndGltZV9xdWVyeScsCiAgICBzdWJUeXBlOiBzdWIsCiAgICBmYWN0OiBmYWN0LAogICAgZGF0YTogcywKICB9Owp9Cgptb2R1bGUuZXhwb3J0cyA9IHsKICByZXNvbHZlOiByZXNvbHZlLAogIHNuYXBzaG90OiBzbmFwc2hvdCwKICB0b0JlaWppbmc6IHRvQmVpamluZywKICBzaGlmdERheXM6IHNoaWZ0RGF5cywKICBXRUVLREFZX0NOOiBXRUVLREFZX0NOLAp9Owo=
+// ============================================================
+// Capability Layer — time.js（时间能力）
+//   Phase R：系统时间服务。
+//
+//   铁律：
+//     · 禁止回答"我不知道时间""我无法联网获取时间"。
+//       时间来自运行时系统时钟，永远可得，不存在"获取不到"。
+//     · 禁止编造时间。所有输出均由 Date 计算得出，无任何硬编码。
+//     · 统一北京时间（UTC+8）：云函数运行时时区不确定（常为 UTC），
+//       因此显式做偏移换算，不依赖服务器本地时区。
+//
+//   本模块不进入知识库、不进入 embedding、不影响 RAG。
+//   纯函数（now 可注入），可离线单测。
+// ============================================================
+'use strict';
+
+var BEIJING_OFFSET_MIN = 8 * 60; // UTC+8
+
+var WEEKDAY_CN = ['星期日', '星期一', '星期二', '星期三', '星期四', '星期五', '星期六'];
+
+/**
+ * 把任意时刻换算为「北京墙钟时间」的 Date 对象。
+ * 换算后使用 getFullYear/getHours 等本地取值方法即得北京时间数值，
+ * 与服务器所在时区无关。
+ */
+function toBeijing(now) {
+  var d = now instanceof Date ? new Date(now.getTime()) : new Date();
+  return new Date(d.getTime() + (BEIJING_OFFSET_MIN + d.getTimezoneOffset()) * 60000);
+}
+
+function pad2(n) {
+  return n < 10 ? '0' + n : '' + n;
+}
+
+/** 一天中的时段口语描述（凌晨/早上/上午/中午/下午/傍晚/晚上/深夜） */
+function dayPart(hour) {
+  if (hour < 5) return '凌晨';
+  if (hour < 8) return '早上';
+  if (hour < 11) return '上午';
+  if (hour < 13) return '中午';
+  if (hour < 17) return '下午';
+  if (hour < 19) return '傍晚';
+  if (hour < 23) return '晚上';
+  return '深夜';
+}
+
+/** 结构化的北京时间快照 */
+function snapshot(now) {
+  var b = toBeijing(now);
+  return {
+    year: b.getFullYear(),
+    month: b.getMonth() + 1,
+    day: b.getDate(),
+    hour: b.getHours(),
+    minute: b.getMinutes(),
+    second: b.getSeconds(),
+    weekdayIndex: b.getDay(),
+    weekday: WEEKDAY_CN[b.getDay()],
+    dayPart: dayPart(b.getHours()),
+    iso: b.getFullYear() + '-' + pad2(b.getMonth() + 1) + '-' + pad2(b.getDate()) +
+      'T' + pad2(b.getHours()) + ':' + pad2(b.getMinutes()) + ':' + pad2(b.getSeconds()) + '+08:00',
+    timezone: 'Asia/Shanghai (UTC+8)',
+  };
+}
+
+/** 相对日（offsetDays：明天=1，昨天=-1） */
+function shiftDays(now, offsetDays) {
+  var b = toBeijing(now);
+  b.setDate(b.getDate() + offsetDays);
+  return {
+    year: b.getFullYear(),
+    month: b.getMonth() + 1,
+    day: b.getDate(),
+    weekday: WEEKDAY_CN[b.getDay()],
+  };
+}
+
+var RELATIVE_MAP = [
+  { re: /大后天/u, offset: 3, label: '大后天' },
+  { re: /后天/u, offset: 2, label: '后天' },
+  { re: /明天/u, offset: 1, label: '明天' },
+  { re: /前天/u, offset: -2, label: '前天' },
+  { re: /昨天/u, offset: -1, label: '昨天' },
+];
+
+function detectRelative(query) {
+  var q = (query || '').toString();
+  for (var i = 0; i < RELATIVE_MAP.length; i++) {
+    if (RELATIVE_MAP[i].re.test(q)) return RELATIVE_MAP[i];
+  }
+  return null;
+}
+
+// ------------------------------------------------------------
+// resolve({ subType, query, now })
+//   返回 { ok:true, fact, data, capability:'time_query' }
+//   ok 恒为 true —— 系统时钟不存在不可用的情况。
+// ------------------------------------------------------------
+function resolve(input) {
+  input = input || {};
+  var sub = input.subType || 'time';
+  var query = input.query || '';
+  var s = snapshot(input.now);
+
+  var ymd = s.year + '年' + s.month + '月' + s.day + '日';
+  var hm = pad2(s.hour) + ':' + pad2(s.minute);
+  var fact;
+
+  if (sub === 'relative') {
+    var rel = detectRelative(query);
+    if (rel) {
+      var r = shiftDays(input.now, rel.offset);
+      fact = rel.label + '是 ' + r.year + '年' + r.month + '月' + r.day + '日，' + r.weekday +
+        '（今天是 ' + ymd + '，' + s.weekday + '）。';
+      return {
+        ok: true,
+        capability: 'time_query',
+        subType: sub,
+        fact: fact,
+        data: { today: s, target: r, relativeLabel: rel.label },
+      };
+    }
+    sub = 'date'; // 未识别到相对词，退回今日日期
+  }
+
+  if (sub === 'date') {
+    fact = '今天是北京时间 ' + ymd + '，' + s.weekday + '。';
+  } else if (sub === 'weekday') {
+    fact = '今天是' + s.weekday + '（' + ymd + '）。';
+  } else if (sub === 'year') {
+    fact = '现在是 ' + s.year + '年（今天 ' + s.month + '月' + s.day + '日，' + s.weekday + '）。';
+  } else {
+    // 默认：完整时刻
+    fact = '现在是北京时间 ' + ymd + ' ' + hm + '，' + s.weekday + '。';
+  }
+
+  return {
+    ok: true,
+    capability: 'time_query',
+    subType: sub,
+    fact: fact,
+    data: s,
+  };
+}
+
+module.exports = {
+  resolve: resolve,
+  snapshot: snapshot,
+  toBeijing: toBeijing,
+  shiftDays: shiftDays,
+  WEEKDAY_CN: WEEKDAY_CN,
+};

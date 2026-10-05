@@ -1,1 +1,74 @@
-IyEvdXNyL2Jpbi9lbnYgbm9kZQondXNlIHN0cmljdCc7Ci8vIOihpeWFheaOoumSiO+8mnF3ZW4tcGx1cyDnirbmgIEgKyBSQUcg5LiK5LiL5paH6ZW/5bqm5a+56aaW5a2X6IqC55qE5b2x5ZONCmNvbnN0IEtFWSA9IHByb2Nlc3MuZW52LkRBU0hTQ09QRV9LRVk7CmNvbnN0IEJBU0UgPSAnaHR0cHM6Ly9kYXNoc2NvcGUuYWxpeXVuY3MuY29tL2NvbXBhdGlibGUtbW9kZS92MSc7CmNvbnN0IFNZUyA9ICfkvaDmmK/jgIzlkJHmmZrpl67mgJ3jgI3vvIzkuIDkuKrku6Xnu4/lhbjlk7LlrabjgIHmloflrabkuI7lv4PnkIblrabkuLrmoLnln7rnmoTmgJ3ovqjliqnmiYvjgILor7fnlKjkuK3mloflm57nrZTjgIInOwpjb25zdCBVU0VSID0gJ+aIkeS7iuW5tDMw5bKB77yM5bel5L2c56iz5a6a5L2G5oC76KeJ5b6X5rKh5LuA5LmI5oSP5LmJ77yM5oiR6K+l5oCO5LmI5Yqe77yfJzsKCmFzeW5jIGZ1bmN0aW9uIHByb2JlKGxhYmVsLCBtb2RlbCwgZXh0cmFNc2dzLCBvcHRzKSB7CiAgb3B0cyA9IG9wdHMgfHwge307CiAgY29uc3QgYm9keSA9IHsKICAgIG1vZGVsOiBtb2RlbCwKICAgIG1lc3NhZ2VzOiBbeyByb2xlOiAnc3lzdGVtJywgY29udGVudDogU1lTIH1dLmNvbmNhdChleHRyYU1zZ3MpLmNvbmNhdChbeyByb2xlOiAndXNlcicsIGNvbnRlbnQ6IFVTRVIgfV0pLAogICAgbWF4X3Rva2Vuczogb3B0cy5tYXhUb2tlbnMgfHwgNDAsCiAgICBzdHJlYW06IHRydWUsCiAgICBzdHJlYW1fb3B0aW9uczogeyBpbmNsdWRlX3VzYWdlOiB0cnVlIH0sCiAgfTsKICBpZiAob3B0cy50aGsgPT09IGZhbHNlKSBib2R5LmVuYWJsZV90aGlua2luZyA9IGZhbHNlOwogIGNvbnN0IHQwID0gRGF0ZS5ub3coKTsKICB0cnkgewogICAgY29uc3QgcmVzID0gYXdhaXQgZmV0Y2goQkFTRSArICcvY2hhdC9jb21wbGV0aW9ucycsIHsKICAgICAgbWV0aG9kOiAnUE9TVCcsCiAgICAgIGhlYWRlcnM6IHsgQXV0aG9yaXphdGlvbjogJ0JlYXJlciAnICsgS0VZLCAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nIH0sCiAgICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KGJvZHkpLAogICAgfSk7CiAgICBjb25zdCB0dGZiID0gRGF0ZS5ub3coKSAtIHQwOwogICAgaWYgKCFyZXMub2spIHsKICAgICAgY29uc3QgdCA9IGF3YWl0IHJlcy50ZXh0KCkuY2F0Y2goKCkgPT4gJycpOwogICAgICBjb25zb2xlLmxvZyhsYWJlbCArICcgIEhUVFAgJyArIHJlcy5zdGF0dXMgKyAnICAnICsgdC5zbGljZSgwLCAxNjApKTsKICAgICAgcmV0dXJuOwogICAgfQogICAgbGV0IGJ1ZiA9ICcnLCB1c2FnZSA9IG51bGwsIGZpcnN0Q29udGVudCA9IG51bGw7CiAgICBmb3IgYXdhaXQgKGNvbnN0IHJhdyBvZiByZXMuYm9keSkgewogICAgICBidWYgKz0gQnVmZmVyLmZyb20ocmF3KS50b1N0cmluZygndXRmOCcpOwogICAgICBjb25zdCBsaW5lcyA9IGJ1Zi5zcGxpdCgnXG4nKTsgYnVmID0gbGluZXMucG9wKCk7CiAgICAgIGZvciAoY29uc3QgbCBvZiBsaW5lcykgewogICAgICAgIGNvbnN0IGQgPSBsLnRyaW0oKTsKICAgICAgICBpZiAoIWQuc3RhcnRzV2l0aCgnZGF0YTonKSkgY29udGludWU7CiAgICAgICAgY29uc3QgcCA9IGQuc2xpY2UoNSkudHJpbSgpOwogICAgICAgIGlmIChwID09PSAnW0RPTkVdJyB8fCAhcCkgY29udGludWU7CiAgICAgICAgbGV0IGo7IHRyeSB7IGogPSBKU09OLnBhcnNlKHApOyB9IGNhdGNoIChlKSB7IGNvbnRpbnVlOyB9CiAgICAgICAgaWYgKGoudXNhZ2UpIHVzYWdlID0gai51c2FnZTsKICAgICAgICBjb25zdCBjaCA9IGouY2hvaWNlcyAmJiBqLmNob2ljZXNbMF07CiAgICAgICAgaWYgKGNoICYmIGNoLmRlbHRhICYmIGNoLmRlbHRhLmNvbnRlbnQgJiYgZmlyc3RDb250ZW50ID09PSBudWxsKSBmaXJzdENvbnRlbnQgPSBEYXRlLm5vdygpIC0gdDA7CiAgICAgIH0KICAgIH0KICAgIGNvbnNvbGUubG9nKAogICAgICBsYWJlbC5wYWRFbmQoMjgpICsKICAgICAgJyBUVEZCICcgKyBTdHJpbmcodHRmYikucGFkU3RhcnQoNSkgKyAnbXMnICsKICAgICAgJyAg6aaW5q2j5paHICcgKyBTdHJpbmcoZmlyc3RDb250ZW50ID09PSBudWxsID8gJy0nIDogZmlyc3RDb250ZW50ICsgJ21zJykucGFkU3RhcnQoNykgKwogICAgICAnICBwcm9tcHRfdG9rPScgKyAodXNhZ2UgPyB1c2FnZS5wcm9tcHRfdG9rZW5zIDogJy0nKQogICAgKTsKICB9IGNhdGNoIChlKSB7IGNvbnNvbGUubG9nKGxhYmVsLnBhZEVuZCgyOCkgKyAnIOKclyAnICsgZS5tZXNzYWdlKTsgfQp9Cgpjb25zdCBSQUdfQSA9ICfjgIrorrror63Ct+S4uuaUv+OAi++8muS4ieWNgeiAjOeri+OAgicucmVwZWF0KDkpOwpjb25zdCBSQUdfQiA9ICfjgJDlj4LogIPotYTmlpnjgJEnICsgJ+OAiuiuuuivrcK35Li65pS/44CL5Y6f5paH77ya5a2Q5puw77yM5ZC+5Y2B5pyJ5LqU6ICM5b+X5LqO5a2m77yM5LiJ5Y2B6ICM56uL77yM5Zub5Y2B6ICM5LiN5oOR77yM5LqU5Y2B6ICM55+l5aSp5ZG944CC6Kej6K+777ya5q2k56ug6KiA6L+b5b635LmL5bqP77yM6Z2e6KiA5bm05bKB5LmL6ZmQ44CCJy5yZXBlYXQoMjApOwpjb25zdCBtayA9IChjdHgpID0+IFt7IHJvbGU6ICdzeXN0ZW0nLCBjb250ZW50OiBjdHggfV07CgooYXN5bmMgKCkgPT4gewogIGNvbnNvbGUubG9nKCc9PT0g4pGgIHF3ZW4tcGx1cyDlvZPliY3nirbmgIHvvIjpop3luqYgLyDpmZDmtYHvvIkgPT09Jyk7CiAgYXdhaXQgcHJvYmUoJ3F3ZW4tcGx1cycsICdxd2VuLXBsdXMnLCBbXSwgeyBtYXhUb2tlbnM6IDIwIH0pOwoKICBjb25zb2xlLmxvZygnXG49PT0g4pGhIFJBRyDkuIrkuIvmlofplb/luqblr7npppblrZfoioLnmoTlvbHlk43vvIhkZWVwc2Vlaywg5YWz5oCd6ICD77yJID09PScpOwogIGNvbnNvbGUubG9nKCcgICDkuIrkuIvmlofplb/luqY6IOaXoCAvICcgKyBSQUdfQS5sZW5ndGggKyAnIOWtlyAvICcgKyBSQUdfQi5sZW5ndGggKyAnIOWtlycpOwogIGF3YWl0IHByb2JlKCfml6AgUkFHIOS4iuS4i+aWhycsICdkZWVwc2Vlay12NC1mbGFzaC0wNzMxJywgW10sIHsgdGhrOiBmYWxzZSB9KTsKICBhd2FpdCBwcm9iZSgnUkFHIOefreS4iuS4i+aWhycsICdkZWVwc2Vlay12NC1mbGFzaC0wNzMxJywgbWsoUkFHX0EpLCB7IHRoazogZmFsc2UgfSk7CiAgYXdhaXQgcHJvYmUoJ1JBRyDplb/kuIrkuIvmlocnLCAnZGVlcHNlZWstdjQtZmxhc2gtMDczMScsIG1rKFJBR19CKSwgeyB0aGs6IGZhbHNlIH0pOwoKICBjb25zb2xlLmxvZygnXG49PT0g4pGiIOaAneiAg+W8gOWFs+mHjeWkjemqjOivge+8iOWQjOS4gOmimO+8iSA9PT0nKTsKICBhd2FpdCBwcm9iZSgn5YWz5oCd6ICDIHJ1bjEnLCAnZGVlcHNlZWstdjQtZmxhc2gtMDczMScsIFtdLCB7IHRoazogZmFsc2UgfSk7CiAgYXdhaXQgcHJvYmUoJ+WFs+aAneiAgyBydW4yJywgJ2RlZXBzZWVrLXY0LWZsYXNoLTA3MzEnLCBbXSwgeyB0aGs6IGZhbHNlIH0pOwogIGF3YWl0IHByb2JlKCfpu5jorqQgICBydW4xJywgJ2RlZXBzZWVrLXY0LWZsYXNoLTA3MzEnLCBbXSwge30pOwp9KSgpOwo=
+#!/usr/bin/env node
+'use strict';
+// 补充探针：qwen-plus 状态 + RAG 上下文长度对首字节的影响
+const KEY = process.env.DASHSCOPE_KEY;
+const BASE = 'https://dashscope.aliyuncs.com/compatible-mode/v1';
+const SYS = '你是「向晚问思」，一个以经典哲学、文学与心理学为根基的思辨助手。请用中文回答。';
+const USER = '我今年30岁，工作稳定但总觉得没什么意义，我该怎么办？';
+
+async function probe(label, model, extraMsgs, opts) {
+  opts = opts || {};
+  const body = {
+    model: model,
+    messages: [{ role: 'system', content: SYS }].concat(extraMsgs).concat([{ role: 'user', content: USER }]),
+    max_tokens: opts.maxTokens || 40,
+    stream: true,
+    stream_options: { include_usage: true },
+  };
+  if (opts.thk === false) body.enable_thinking = false;
+  const t0 = Date.now();
+  try {
+    const res = await fetch(BASE + '/chat/completions', {
+      method: 'POST',
+      headers: { Authorization: 'Bearer ' + KEY, 'Content-Type': 'application/json' },
+      body: JSON.stringify(body),
+    });
+    const ttfb = Date.now() - t0;
+    if (!res.ok) {
+      const t = await res.text().catch(() => '');
+      console.log(label + '  HTTP ' + res.status + '  ' + t.slice(0, 160));
+      return;
+    }
+    let buf = '', usage = null, firstContent = null;
+    for await (const raw of res.body) {
+      buf += Buffer.from(raw).toString('utf8');
+      const lines = buf.split('\n'); buf = lines.pop();
+      for (const l of lines) {
+        const d = l.trim();
+        if (!d.startsWith('data:')) continue;
+        const p = d.slice(5).trim();
+        if (p === '[DONE]' || !p) continue;
+        let j; try { j = JSON.parse(p); } catch (e) { continue; }
+        if (j.usage) usage = j.usage;
+        const ch = j.choices && j.choices[0];
+        if (ch && ch.delta && ch.delta.content && firstContent === null) firstContent = Date.now() - t0;
+      }
+    }
+    console.log(
+      label.padEnd(28) +
+      ' TTFB ' + String(ttfb).padStart(5) + 'ms' +
+      '  首正文 ' + String(firstContent === null ? '-' : firstContent + 'ms').padStart(7) +
+      '  prompt_tok=' + (usage ? usage.prompt_tokens : '-')
+    );
+  } catch (e) { console.log(label.padEnd(28) + ' ✗ ' + e.message); }
+}
+
+const RAG_A = '《论语·为政》：三十而立。'.repeat(9);
+const RAG_B = '【参考资料】' + '《论语·为政》原文：子曰，吾十有五而志于学，三十而立，四十而不惑，五十而知天命。解读：此章言进德之序，非言年岁之限。'.repeat(20);
+const mk = (ctx) => [{ role: 'system', content: ctx }];
+
+(async () => {
+  console.log('=== ① qwen-plus 当前状态（额度 / 限流） ===');
+  await probe('qwen-plus', 'qwen-plus', [], { maxTokens: 20 });
+
+  console.log('\n=== ② RAG 上下文长度对首字节的影响（deepseek, 关思考） ===');
+  console.log('   上下文长度: 无 / ' + RAG_A.length + ' 字 / ' + RAG_B.length + ' 字');
+  await probe('无 RAG 上下文', 'deepseek-v4-flash-0731', [], { thk: false });
+  await probe('RAG 短上下文', 'deepseek-v4-flash-0731', mk(RAG_A), { thk: false });
+  await probe('RAG 长上下文', 'deepseek-v4-flash-0731', mk(RAG_B), { thk: false });
+
+  console.log('\n=== ③ 思考开关重复验证（同一题） ===');
+  await probe('关思考 run1', 'deepseek-v4-flash-0731', [], { thk: false });
+  await probe('关思考 run2', 'deepseek-v4-flash-0731', [], { thk: false });
+  await probe('默认   run1', 'deepseek-v4-flash-0731', [], {});
+})();

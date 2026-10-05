@@ -1,1 +1,61 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIEpzb25PYnNlcnZhYmlsaXR5U3RvcmUg4oCUIOingua1i+aVsOaNriBKU09OIOaWh+S7tuWtmOWCqO+8iFBoYXNlIFAr77yJCi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQovLyDpu5jorqTlrZjlgqjlrp7njrDvvJrmiorop4LmtYvorrDlvZXku6UgSlNPTiDmlbDnu4Tov73liqDlhpnlhaXmnKzlnLDmlofku7bjgIIKLy8gICDCtyDpm7blpJbpg6jkvp3otZbvvIzlj6/nprvnur/mtYvor5XvvIhQaGFzZSDikaUg5rWL6K+V5Z+657q/77yJ44CCCi8vICAgwrcgd3JpdGUoKSDmsLjkuI3mipvlh7rvvJrlpLHotKXku4UgY29uc29sZS5lcnJvcu+8jOS4u+a1geeoi+S4jeWPl+W9seWTjeOAggovLyAgIMK3IOeUn+S6p+eOr+Wig+W6lOaUueeUqCBjbG91ZE9ic2VydmFiaWxpdHlTdG9yZe+8iOWGmeS6keaVsOaNruW6k+mbhuWQiO+8ie+8jAovLyAgICAg5pys5a6e546w5L2c5Li65pys5ZywL+a1i+ivlS/pmY3nuqflhZzlupXjgIIKLy8KLy8g5o6l5Y+j77yI5LiOIGNsb3VkT2JzZXJ2YWJpbGl0eVN0b3JlIOS4gOiHtO+8jOWPr+S6kuaNou+8ie+8mgovLyAgIGFzeW5jIHdyaXRlKHJlY29yZCkgLT4geyBvazogYm9vbGVhbiwgZXJyb3I/OiBzdHJpbmcgfQovLyAgIHJlYWRBbGwoKSAtPiBBcnJheTxyZWNvcmQ+Ci8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQoKJ3VzZSBzdHJpY3QnOwpjb25zdCBmcyA9IHJlcXVpcmUoJ2ZzJyk7CmNvbnN0IHBhdGggPSByZXF1aXJlKCdwYXRoJyk7CgpjbGFzcyBKc29uT2JzZXJ2YWJpbGl0eVN0b3JlIHsKICBjb25zdHJ1Y3Rvcihjb25maWcpIHsKICAgIGNvbmZpZyA9IGNvbmZpZyB8fCB7fTsKICAgIC8vIOm7mOiupOS4juaooeWdl+WQjOebruW9leeahCBvYnNlcnZhYmlsaXR5LXN0b3JlLmpzb27vvIjoh6rljIXlkKvjgIHlj6/mtYvvvIkKICAgIHRoaXMuZmlsZVBhdGggPQogICAgICBjb25maWcuZmlsZVBhdGggfHwKICAgICAgcGF0aC5qb2luKF9fZGlybmFtZSwgJ29ic2VydmFiaWxpdHktc3RvcmUuanNvbicpOwogIH0KCiAgLyoqIOi/veWKoOS4gOadoeingua1i+iusOW9leOAguWksei0peWuieWFqO+8mue7neS4jeaKm+WHuuOAgiAqLwogIGFzeW5jIHdyaXRlKHJlY29yZCkgewogICAgdHJ5IHsKICAgICAgbGV0IGFyciA9IFtdOwogICAgICB0cnkgewogICAgICAgIGlmIChmcy5leGlzdHNTeW5jKHRoaXMuZmlsZVBhdGgpKSB7CiAgICAgICAgICBhcnIgPSBKU09OLnBhcnNlKGZzLnJlYWRGaWxlU3luYyh0aGlzLmZpbGVQYXRoLCAndXRmLTgnKSk7CiAgICAgICAgICBpZiAoIUFycmF5LmlzQXJyYXkoYXJyKSkgYXJyID0gW107CiAgICAgICAgfQogICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgYXJyID0gW107CiAgICAgIH0KICAgICAgYXJyLnB1c2gocmVjb3JkKTsKICAgICAgZnMud3JpdGVGaWxlU3luYyh0aGlzLmZpbGVQYXRoLCBKU09OLnN0cmluZ2lmeShhcnIsIG51bGwsIDIpLCAndXRmLTgnKTsKICAgICAgcmV0dXJuIHsgb2s6IHRydWUgfTsKICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgY29uc29sZS5lcnJvcignW0pzb25PYnNlcnZhYmlsaXR5U3RvcmVdIHdyaXRlIGZhaWxlZDonLCBlICYmIGUubWVzc2FnZSk7CiAgICAgIHJldHVybiB7IG9rOiBmYWxzZSwgZXJyb3I6IChlICYmIGUubWVzc2FnZSkgfHwgJycgKyBlIH07CiAgICB9CiAgfQoKICAvKiog6K+75Y+W5YWo6YOo6K6w5b2V77yI5L6bIERhc2hib2FyZCBRdWVyeSBDb3VudCAvIEtub3dsZWRnZSBVc2FnZe+8iSAqLwogIHJlYWRBbGwoKSB7CiAgICB0cnkgewogICAgICBpZiAoIWZzLmV4aXN0c1N5bmModGhpcy5maWxlUGF0aCkpIHJldHVybiBbXTsKICAgICAgY29uc3QgYXJyID0gSlNPTi5wYXJzZShmcy5yZWFkRmlsZVN5bmModGhpcy5maWxlUGF0aCwgJ3V0Zi04JykpOwogICAgICByZXR1cm4gQXJyYXkuaXNBcnJheShhcnIpID8gYXJyIDogW107CiAgICB9IGNhdGNoIChlKSB7CiAgICAgIHJldHVybiBbXTsKICAgIH0KICB9Cn0KCm1vZHVsZS5leHBvcnRzID0geyBKc29uT2JzZXJ2YWJpbGl0eVN0b3JlIH07Cg==
+// ============================================================
+// JsonObservabilityStore — 观测数据 JSON 文件存储（Phase P+）
+// ------------------------------------------------------------
+// 默认存储实现：把观测记录以 JSON 数组追加写入本地文件。
+//   · 零外部依赖，可离线测试（Phase ⑥ 测试基线）。
+//   · write() 永不抛出：失败仅 console.error，主流程不受影响。
+//   · 生产环境应改用 cloudObservabilityStore（写云数据库集合），
+//     本实现作为本地/测试/降级兜底。
+//
+// 接口（与 cloudObservabilityStore 一致，可互换）：
+//   async write(record) -> { ok: boolean, error?: string }
+//   readAll() -> Array<record>
+// ============================================================
+
+'use strict';
+const fs = require('fs');
+const path = require('path');
+
+class JsonObservabilityStore {
+  constructor(config) {
+    config = config || {};
+    // 默认与模块同目录的 observability-store.json（自包含、可测）
+    this.filePath =
+      config.filePath ||
+      path.join(__dirname, 'observability-store.json');
+  }
+
+  /** 追加一条观测记录。失败安全：绝不抛出。 */
+  async write(record) {
+    try {
+      let arr = [];
+      try {
+        if (fs.existsSync(this.filePath)) {
+          arr = JSON.parse(fs.readFileSync(this.filePath, 'utf-8'));
+          if (!Array.isArray(arr)) arr = [];
+        }
+      } catch (e) {
+        arr = [];
+      }
+      arr.push(record);
+      fs.writeFileSync(this.filePath, JSON.stringify(arr, null, 2), 'utf-8');
+      return { ok: true };
+    } catch (e) {
+      console.error('[JsonObservabilityStore] write failed:', e && e.message);
+      return { ok: false, error: (e && e.message) || '' + e };
+    }
+  }
+
+  /** 读取全部记录（供 Dashboard Query Count / Knowledge Usage） */
+  readAll() {
+    try {
+      if (!fs.existsSync(this.filePath)) return [];
+      const arr = JSON.parse(fs.readFileSync(this.filePath, 'utf-8'));
+      return Array.isArray(arr) ? arr : [];
+    } catch (e) {
+      return [];
+    }
+  }
+}
+
+module.exports = { JsonObservabilityStore };

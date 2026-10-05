@@ -1,1 +1,179 @@
-IyDpl67pgZPvvIhXZW5EYW/vvInCtyBQaGFzZSBJ77yaS25vd2xlZGdlIFBsYXRmb3JtIFZhbGlkYXRpb24KCj4gKipDaGllZiBBSSBBcmNoaXRlY3Qg5Lqn5Ye6KirvvJrlnKjjgIznrKzkuIDljp/liJnjgI3kuIvigJTigJTkuI3mlLnkuJrliqHku6PnoIEgLyBQcm9tcHQgLyBJbnRlbnQgLyBSZXRyaWV2YWwgLyBDaHVuayAvIE1ldGFkYXRh77yM5LiNIGluZ2VzdCAvIGVtYmVkZGluZyAvIGNvbW1pdCAvIOWIoOaWh+S7tiAvIOaUuea1i+ivleKAlOKAlOS7heWfuuS6juW3suS6pOS7mOeahCBgQUlfQ09OVEVYVGDvvIgxNiDnu4/lhbggYGNvcnB1cy5qc29uYCArIFBoYXNlIEYvRy9IIOa1i+ivleWZqO+8iSoq6K6+6K6h55+l6K+G5bmz5Y+w6aqM6K+B5L2T57O7KirjgIIKPiDmiYDmnInkuovlrp7mnaXoh6ogYGNsb3VkZnVuY3Rpb25zL2NoYXQvKmDjgIFgY29ycHVzLmpzb25g44CBYGludGVudC5qc2Ag5a6e6ZmF5YaF5a6577yIUGhhc2UgQSDihpIgSC0yIOW3suS6pOS7mO+8ie+8jOacquinpueisOS7u+S9leaWh+S7tuOAggoKLS0tCgojIyDikaAg5Li65LuA5LmI5LiN6IO956uL5Y2z5omp5YWFIDUwMCDmnKwKCjEuICoq5bmz5Y+w5pyq57uP6aqM6K+B5LiN5om56YePIGluZ2VzdCoq77yaUGhhc2UgSC0yIOWNoeeCueKAlOKAlOaymeeuseaXoOS6keerryBTREvvvIznnJ/lrp4gTExNIOWbnuW9kumcgOWcqOS9oOacuuWZqOWbnuWhq++8m+aJuemHjyA1MDAg5pys5YmN6aG75YWI56Gu6K6kIEludGVudCBSb3V0aW5nIOWFqOe7vwoyLiAqKuWHhuWFpee6oue6v+acqui/h+S4jeWvvOWFpSoq77ya5oyJIGBkb2NzLzQwYCDorr7orqHvvIzmlrDmnKzpobvov4cgQXV0aG9yaXR5L1JlbGV2YW5jZS9Db3B5cmlnaHQvUXVhbGl0eSjiiaU4MCkg5Zub5YWz77yM5pyq6L+H5Y2z5ouSCjMuICoq5Zue5b2S6LWE5Lqn5piv6Zeo5qebKirvvJrmlrDlop7ku7vkvZXkuIDmnKzlv4Xpobvop6blj5EgUGhhc2UgRu+8iOeZvumXru+8iS8gR++8iFJBR++8iS8gSO+8iOaEj+WbviAxMDAvMTAw77yJcnVubmVyIOWFqOe7v++8jOWQpuWImeinhuS4uuaxoeafkwo0LiAqKueJiOadg+i+ueeVjCoq77ya546w5Luj6JGX5L2c5LuF6KeE5YiS5LiN5a+85YWl5YWo5paH77yM6YG/5YWNIFVHQyDlhoXlrrnlronlhajkuI4gUElQTCDlhrLnqoEKCuKGkiDnu5PorrrvvJoqKuWFiOmqjOivgeW5s+WPsO+8jOWGjeiwiOaJqeWFhSoq44CCCgotLS0KCiMjIOKRoSDkuLrku4DkuYjlhYjpqozor4HlubPlj7AKCnwg6aqM6K+B6aG5IHwg6K+B5o2u77yI5Y+q6K+75qC45p+l77yJIHwg54q25oCBIHwKfC0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tLS18LS0tLS0tfAp8IEludGVudCDot6/nlLHmnInmlYggfCBgaW50ZW50LmpzYCBMMTEwLzE3NC8yNDkgYGNsYXNzaWZ5SW50ZW50YCArIGBLTk9XTEVER0VfRE9NQUlOU2AgfCDinIUg55yf5a6e5bCx5L2NIHwKfCBSQUcg6LSo6YeP5L+d5oyBIHwgYGZyYW1lVGl0bGVzYChyYWcuanMgTDQ1OSkgKyBgcXVlc3Rpb25fYnJpZGdlYCDlgY/nva7lt7LosIMgfCDinIUgUGhhc2UgRyDlrp7mtYsgfAp8IENpdGF0aW9uIOWHhuehriB8IDgg57G75byV55So562W55Wl77yIUXVvdGUvU3VtbWFyeS9DYXNlL1N0b3J5L1RoZW9yeS9IaXN0b3J5L1Jlc2VhcmNoL1BoaWxvc29waHnvvIkgfCDinIUg6K6+6K6h6ZSB5a6aIHwKfCDpm7bnvJbpgKDnuqLnur8gfCBga25vd2xlZGdlUG9saWN5OiJza2lwImAg5oqA5pyv57G75LiN5byV57uPIHwg4pyFIFBoYXNlIEgg5rWL6K+V5YWo57u/IHwKfCDln5/nsr7luqYgfCBgdHlwZTogbGlmZS9lbW90aW9uL2dyb3d0aC9vcGluaW9uYCDnu5HlrpogYGZvcm1hdGAgfCDvv71UTCDlrp7mtYsgMTAwLzEwMCB8CgotLS0KCiMjIOKRoiBLbm93bGVkZ2UgQWRtaXNzaW9uIFN0YW5kYXJk77yI55+l6K+G5YeG5YWl5qCH5YeG77yJCgrmr4/mnKzlgJnpgInotYTmlpnlv4Xpobvov4flm5vlhbPvvJoKCioqMS4gQXV0aG9yaXR577yI5p2D5aiB5oCn77yJ4piF4piF4piF4piF4piFKioKLSDljp/okZcgLyDlrpjmlrnlh7rniYggLyDlrabmnK/lh7rniYjnpL4gLyDlhazlhbHniYjmnYMgLyDlrpjmlrnmlofnjK4KLSDkvovvvJpgY29ycHVzLmpzb25gIOS4reOAiuiuuuivreOAi+OAiumBk+W+t+e7j+OAi+OAiuayieaAneW9leOAi+Wdh+a7oei2swoKKioyLiBSZWxldmFuY2XvvIjnm7jlhbPmgKfvvIkqKgotIOaYr+WQpumAguWQiO+8muS6uueUnyAvIOaIkOmVvyAvIOW/g+eQhiAvIOenkeaKgCAvIOWOhuWPsiAvIOWVhuS4miAvIOaVmeiCsiAvIOeuoeeQhiAvIOaWh+WtpiAvIOekvuS8miAvIOe7j+a1jiAvIOazlSAvIOWBpeW6tyAvIOeUn+S6pyAvIOWIm+mAoCAvIOayn+mAmiAvIOS8pueQhiAvIOW9k+WJjeS6i+S7tu+8iDI1IOWfn++8iQoKKiozLiBDb3B5cmlnaHTvvIjniYjmnYPvvIkqKgotIGBwdWJsaWNfZG9tYWluOiB0cnVlYCDihpIg5Y+v5YWo5paH5a+85YWlCi0g5Y+X54mI5p2DIOKGkiAqKuS7heinhOWIku+8jOS4jeWvvOWFpeWFqOaWhyoq77yI6YG/5YWNIFBJUEwg5Yay56qB77yJCgoqKjQuIFF1YWxpdHkgU2NvcmXvvIgxMDAg5YiG5Yi277yJKioKYGBgCuadg+WogSAzMCArIOWGheWuueWujOaVtCAyMCArIOW8leeUqOS7t+WAvCAyMCArIFF1ZXN0aW9uIEJyaWRnZSAyMCArIOWPr+ivu+aApyAxMCA9IDEwMAriiaU4MCDlh4blhaXvvJs8ODAg5ouS5YWl77yI5qCH5rOo5b6F5L+u6K6i77yJCmBgYAo+IOeOsOaciSAxNiDnu4/lhbjor4TliIblnYcg4omlOTDvvIjluKYgYHF1ZXN0aW9uX2JyaWRnZWAgKyBgY2F1dGlvbmAgKyBgbW9kZXJuVXNhZ2VgIOWFg+aVsOaNru+8ieOAggoKLS0tCgojIyDikaMgS25vd2xlZGdlIExpZmVjeWNsZe+8iOefpeivhueUn+WRveWRqOacnyDCtyBNZXJtYWlk77yJCgpgYGBtZXJtYWlkCmdyYXBoIFRECiAgQVvlgJnpgInotYTmlpldIC0tPiBCW+WuoeaguDxici8+QWRtaXNzaW9uIFN0ZF0KICBCIC0tPiBDW01ldGFkYXRhPGJyLz5pZC90aXRsZS9kb21haW4vdGFnc10KICBDIC0tPiBEW0NodW5rPGJyLz7mjInln5/lrprplb9dCiAgRCAtLT4gRVtFbWJlZGRpbmc8YnIvPnZlY3Rvcl92ZXJzaW9uXQogIEUgLS0+IEZbUXVlc3Rpb24gQnJpZGdlPGJyLz5jb25jZXB0cy91c2VyX3BocmFzZXNdCiAgRiAtLT4gR1tSZWdyZXNzaW9uIFRlc3Q8YnIvPlBoYXNlIEYvRy9IIHJ1bm5lcl0KICBHIC0tPiBIW+S4iue6vzxici8+5YaZ5YWlIGNvcnB1cy5qc29uXQogIEggLS0+IElb55uR5o6nPGJyLz5DaXRhdGlvbiBBY2N1cmFjeV0KICBJIC0tPiBKW+eJiOacrOWGu+e7kzxici8+S25vd2xlZGdlIHZYXQpgYGAKCi0tLQoKIyMg4pGkIFJlZ3Jlc3Npb24gRnJhbWV3b3Jr77yI5Zue5b2S55+p6Zi177yJCgrku7vkvZXmlrDlop7kuIDmnKzkuablv4Xpobvoh6rliqjpqozor4EqKuS4jeW9seWTjeWOhuWPsua1i+ivlSoq77yaCgp8IOaWsOWinuacrCB8IOinpuWPkSB8IFBoYXNlIEbvvIjnmb7pl67vvIkgfCBQaGFzZSBH77yIUkFH77yJIHwgUGhhc2UgSO+8iOaEj+WbviAxMDAvMTAw77yJIHwg57uT5p6cIHwKfC0tLS0tLS0tfC0tLS0tLXwtLS0tLS0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tLS18LS0tLS0tLS0tLS0tLS0tLS0tLS0tLXwtLS0tLS18Cnwg56ysIDE3IOacrO+8iOinhOWIku+8iSB8IGBpbnRlbnQuanNgIOi3r+eUsSB8IGByYWctcmVncmVzc2lvbi5qc2Ag5YWo57u/IHwgYHF1ZXN0aW9uX2JyaWRnZWAg5pig5bCEIHwgYG9ubGluZS1xdWFsaXR5LXJ1bi5qc2AgMTAwLzEwMCB8IOW+heivhOWuoSB8Cgo+IOeOsOaciSAxNiDmnKzlt7LplIHlhaUgYGNvcnB1cy5qc29uYO+8jOaWsOWinuacrOS7hSoq5omp5bGV5pWw57uEKirvvIzkuI3noLTlnY/ml6LmnIkgMTYg5p2h44CCCgotLS0KCiMjIOKRpSBLbm93bGVkZ2UgTWV0cmljc++8iOaMh+agh+S4juiuoeeul+WFrOW8j++8iQoKfCDmjIfmoIcgfCDlhazlvI8gfCDlvZPliY3lgLzvvIjln7rkuo4gMTYg57uP5YW477yJIHwKfC0tLS0tLXwtLS0tLS18LS0tLS0tLS0tLS0tLS0tLS0tLS0tLXwKfCBDb3ZlcmFnZSB8IOW3suimhuebluWfnyAvIOaAu+WfnygyNSkgfCA1LzI177yI6ZqQ5oCn6KaG55uW77yJ4oaSIOaJqeiHsyAyNSB8CnwgQ2l0YXRpb24gQWNjdXJhY3kgfCDmraPnoa7lvJXnlKggLyDmgLvosIPnlKggfCAxMDAl77yIOCDnsbvnrZbnlaXplIHlrprvvIkgfAp8IFdlYWsgUmVjYWxsIHwg5byx5Y+s5Zue5Y2g5q+U77yIZnJhbWVUaXRsZXMg5YGP572u5ZCO77yJIHwg55Sz6L6p56+HIDDihpI2LjMl77yIUGhhc2UgRyDlt7LosIPvvIkgfAp8IEhhbGx1Y2luYXRpb24gfCDnvJbpgKDnu4/lhbjmrKHmlbAgfCAqKjAqKu+8iOe6oue6v++8iSB8CnwgV3JvbmcgQ2l0YXRpb24gfCDplJnor6/noazloZ7nu4/lhbggfCAqKjAqKu+8iFBoYXNlIEgg6ZSB77yJIHwKfCBEb21haW4gQWNjdXJhY3kgfCDln5/lkb3kuK0gLyDmgLvmn6Xor6IgfCBgS05PV0xFREdFX0RPTUFJTlNgIOe0ouW8leWMuemFjSB8CnwgSW50ZW50IEFjY3VyYWN5IHwgYGNsYXNzaWZ5SW50ZW50YCDmraPnoa7njocgfCAqKjEwMC8xMDAqKu+8iFBoYXNlIEgg5a6e5rWL77yJIHwKfCBBbnN3ZXIgUXVhbGl0eSB8IExMTSDnu7zlkIjnlJ/miJDor4TliIYgfCDkvp3otZbnnJ/lrp7osIPnlKjvvIjlvoXkvaDmnLrlmajlm57loavvvIkgfAp8IFVzZXIgU2F0aXNmYWN0aW9uIHwg55So5oi35L6n5ruh5oSP5bqmIHwg5b6F55yf5a6e6LCD55SoIHwKfCBBdmVyYWdlIFJldHJpZXZhbCBUaW1lIHwg5qOA57Si6ICX5pe2IHwg5L6d6LWW5LqR56uvIFNES++8iOaymeeuseaXoO+8iSB8CnwgQXZlcmFnZSBDaHVuayBDb3VudCB8IOavj+etlOahiCBDaHVuayDmlbAgfCDmjInln58gMjAwfjgwMCDlrZcgfAp8IEF2ZXJhZ2UgVG9rZW4gfCDmr4/nrZTmoYggdG9rZW4g5pWwIHwgYGZvcm1hdGAg5Yaz5a6a57uT5p6EIHwKCi0tLQoKIyMg4pGmIEtub3dsZWRnZSBFeHBhbnNpb24gU3RyYXRlZ3nvvIjkuInpmLbmrrUgwrcg5LiNIDUwMCDmnKzkuIDotbflr7zvvIkKCnwgUGhhc2UgfCDmlrDlop7mnKzmlbAgfCDph43ngrnln58gfCDor7TmmI4gfAp8LS0tLS0tLXwtLS0tLS0tLS18LS0tLS0tLS18LS0tLS0tfAp8ICoqUGhhc2UgSSoqIHwgMzB+NDAg5pys77yI5q+P5Z+fIDN+Ne+8iSB8IOWTsuWtpiAvIOW/g+eQhiAvIOaWh+WtpiAvIOWOhuWPsiAvIOenkeaKgOaAneaDsyB8IOWcqOeOsOaciSAxNiDnu4/lhbjln7rnoYDkuIrooaXlvLrvvIzlhYjpqozor4HlubPlj7AgfAp8ICoqUGhhc2UgSUkqKiB8IH4xMDAg5pysIHwg566h55CGIC8g5pWZ6IKyIC8g5ZWG5LiaIC8g56eR5oqAIC8g56S+5LyaIC8g57uP5rWOIC8g5rOVIC8g5YGl5bq3IC8g55Sf5LqnIC8g5Yib6YCgIC8g5rKf6YCaIC8g5Lym55CGIHwg5Z+f57qn5omp5bGV77yM5q+P5Z+fIOKJpTIwIOacrOWFrOeJiOS8mOWFiCB8CnwgKipQaGFzZSBJSUkqKiB8IDMwMCsg5pysIHwg5YWoIDI1IOWfnyB8IOW9ouaIkOecnyBLbm93bGVkZ2UgUGxhdGZvcm3vvIjor4TlrqHpgJrov4flkI7vvIkgfAoKPiDlhajpg6jmlrDlop4qKuS7heWcqOivhOWuoemAmui/h+WQjioq6L+b5YWlIEtub3dsZWRnZSBFeHBhbnNpb24gUGhhc2XvvJvlvZPliY3mlofmoaPpmLbmrrUqKuS4jSBpbmdlc3QgLyDkuI0gZW1iZWRkaW5nIC8g5LiNIGNvbW1pdCoq44CCCgotLS0KCiMjIOKRpyBLbm93bGVkZ2UgVmVyc2lvbu+8iOeJiOacrOS9k+ezu++8iQoKYGBgCktub3dsZWRnZSB2MSAg4oaSIDE2IOe7j+WFuO+8iGNvcnB1cy5qc29uIOW9k+WJje+8iQpLbm93bGVkZ2UgdjIgIOKGkiArIFBoYXNlIEkgMzB+NDAg5pys77yI6KeE5YiS77yJCktub3dsZWRnZSB2MyAg4oaSICsgUGhhc2UgSUkvSUlJIDMwMCsg5pys77yI6KeE5YiS77yJCk1ldGFkYXRhIHYxICAg4oaSIGlkL3RpdGxlL2F1dGhvci9kb21haW4vdGFncy9xdWVzdGlvbl9icmlkZ2UvLi4u77yIc2NoZW1hIOWPr+aJqSAxMDAwK++8iQpFbWJlZGRpbmcgdjEgIOKGkiB2ZWN0b3JfdmVyc2lvbiDlrZfmrrXlsLHnu6oKUXVlc3Rpb24gQnJpZGdlIHYxIOKGkiBjb25jZXB0cy91c2VyX3BocmFzZXMvbWFwc190byDmmKDlsIQKQ2l0YXRpb24gdjEgICDihpIgOCDnsbvlvJXnlKjnrZbnlaXplIHlrpoKYGBgCgotLS0KCiMjIOKRqCBSaXNrIEFuYWx5c2lz77yI6aOO6ZmpIMK3IFAwL1AxL1Ay77yJCgp8ICMgfCDpo47pmakgfCDnrYnnuqcgfCDop6PlhrPmlrnmoYjvvIjkuI3mlLnku6PnoIHvvIkgfAp8LS0tfC0tLS0tLXwtLS0tLS18LS0tLS0tLS0tLS0tLS0tLS0tLS0tLXwKfCAxIHwg55+l6K+G5rGh5p+T77yI6K+v5qSN6Z2e5YWs54mI77yJIHwgUDAgfCDlh4blhaXlm5vlhbPljaHmrbvvvIxDb3B5cmlnaHQg5a2X5q615qCh6aqMIHwKfCAyIHwg6YeN5aSNIENodW5rIHwgUDEgfCBNZXRhZGF0YSBgaWRgIOWUr+S4gOe6puadnyArIHZlY3Rvcl92ZXJzaW9uIOWOu+mHjSB8CnwgMyB8IE1ldGFkYXRhIOS4jeS4gOiHtCB8IFAxIHwgc2NoZW1hIOWtl+auteW8uuWItuWvuem9kO+8iHRpdGxlL2RvbWFpbi90YWdz77yJIHwKfCA0IHwgSW50ZW50IOa8j+WIpCB8IFAwIHwgYGNsYXNzaWZ5SW50ZW50YCDlhajnu7/vvIhQaGFzZSBIIDEwMC8xMDDvvIkgfAp8IDUgfCDpoobln5/kuLLmibDvvIjlk7LlrabnrZTnp5HmioDvvIkgfCBQMSB8IGBLTk9XTEVER0VfRE9NQUlOU2Ag57Si5byV6ZqU56a7IHwKfCA2IHwg5byV55So6ZSZ6K+v77yI56Gs5aGe44CK6K666K+t44CL57uZIFB5dGhvbu+8iSB8IFAwIHwgYGtub3dsZWRnZVBvbGljeToic2tpcCJgIOaLpuaIquaKgOacr+exuyB8CnwgNyB8IOeJiOadg+mjjumZqe+8iOeOsOS7o+iRl+S9nOivr+WFqOaWh++8iSB8IFAxIHwg5LuF6KeE5YiS5LiN5a+85YWl77yMUElQTCDlkIjop4QgfAp8IDggfCBFbWJlZGRpbmcg5ryC56e7IHwgUDIgfCBgZW1iZWRkaW5nX3ZlcnNpb25gIOeJiOacrOWGu+e7kyB8CnwgOSB8IFF1ZXN0aW9uIEJyaWRnZSDlhrLnqoEgfCBQMSB8IGBtYXBzX3RvYCDllK/kuIDmmKDlsITmoKHpqowgfAp8IOWNjuWkjyAxMCB8IOWPrOWbnuS4i+mZje+8iGZyYW1lVGl0bGVzIOWBj+e9ru+8iSB8IFAxIHwgUGhhc2UgRyDlt7LnlKggdGFncyDmiqzljYfnlLPovqnnr4cgMOKGkjYuMyUgfAp8IDExIHwgYXBwaWQg5LiN5LiA6Ie077yIZi9kIOesrCAxNSDkvY3vvIkgfCBQMCB8IOmcgOS9oOaguOWvueWFrOS8l+W5s+WPsO+8iOmdnuS7o+eggeWxgu+8iSB8CnwgMTIgfCBhbnN3ZXJfcXVhbGl0eV9sb2cg5ZG95ZCN5ryC56e7IHwgUDEgfCBgMDRfREFUQUJBU0UubWRgIOW3suagh+e6ouW+heehruiupCB8CnwgMTMgfCBjb252ZXJzYXRpb24g4omgIGNvbnZlcnNhdGlvbnMgfCBQMSB8IOaWh+aho+agh+azqO+8jOacquaUueS7o+eggSB8CnwgMTQgfCDlvLHlj6zlm57kuInku7blpZflgY/nva4gfCBQMSB8IGBxdWVzdGlvbl9icmlkZ2VgICsgdGFncyDlt7Lkv67mraMgfAp8IDE1IHwg5YWs54mI6K+v5Yik5Y+X54mI5p2DIHwgUDEgfCBBdXRob3JpdHkg4piF4piF4piF4piF4piFIOWPjOWuoSB8CnwgMTYgfCBDaHVuayDov4fplb/lvbHlk43lj6/or7sgfCBQMiB8IOaMieWfn+WumumVv++8iOWTsuWtpiAzMDB+NTAwIOetie+8iSB8CnwgMTcgfCBNZXRhZGF0YSDlrZfmrrXnvLrlpLEgfCBQMSB8IHNjaGVtYSDlvLrliLbmnIDlsI/lrZfmrrXpm4YgfAp8IDE4IHwgUmVyYW5rIOWkseaViCB8IFAxIHwgSHlicmlkIFNlYXJjaCArIFJhbmtpbmcg6ZO+6Lev6ZSB5a6aIHwKfCAxOSB8IExMTSDpmY3nuqfvvIjmnI3liqHnq6/vvIkgfCBQMiB8IGBtb2RlbF9jb25maWdgIOmbhuWQiOmFjee9ru+8jOWJjeerr+mbtuaooeWeiyB8CnwgMjAgfCDmspnnrrHml6DkupHnq6/lh63or4EgfCBQMCB8IOW+heS9oOacuuWZqOWbnuWhq++8iOmdnuS7o+eggeWPr+ino++8iSB8CnwgMjEgfCDlrqHmoLjpmLvloZ7vvIhVR0Mg5aOw5piO5pyq5Yu+77yJIHwgUDAgfCDlhazkvJflubPlj7Dlv4XloavpobnvvIzmspnnrrHml6Dms5Xku6PlirMgfAp8IDIyIHwg6YeN5aSNIEltcG9ydCDlkIzkuaYgfCBQMSB8IGBpZGAg5Li76ZSu5Y676YeNIHwKCj4g5Lul5LiK6aOO6Zmp5Z2HKirmnKrmlLnku7vkvZXku6PnoIEqKu+8jOS7heWcqOaWh+aho+Wxguagh+azqOS4juaWueahiOivtOaYjuOAggoKLS0tCgojIyDikakg5LiL5LiA6Zi25q616K6h5YiS77yI5b6F6K+E5a6h77yJCgoxLiAqKuivhOWuoeino+mUgSoq77yaZG9jcy80MCArIGRvY3MvNDEg6K6+6K6h6YCa6L+HIOKGkiDov5vlhaUgS25vd2xlZGdlIEV4cGFuc2lvbiBQaGFzZQoyLiAqKlBoYXNlIEkg5omn6KGMKirvvJrlnKjkvaDmnLrlmajot5EgYG9ubGluZS1xdWFsaXR5LWNhbGwuanNgIOWbnuWhq+ecn+WuniBMTE0g5Zue562U77yI5LiN5Lyq6YCg77yJCjMuICoq5omp5Z+fKirvvJoxNiDnu4/lhbgg4oaSIDI1IOWfn++8iOaWsOWiniAyMCDln5/op4TliJLvvIkKNC4gKirniYjmnKzmvJTov5sqKu+8mktub3dsZWRnZSB2MSDihpIgdjIg4oaSIHYz77yI5LuF6L+95Yqg77yM5LiN56C05Z2P546w5pyJIDE277yJCgotLS0KCiMjIOacgOe7iOivhOWuoeaMh+agh++8iOaWh+aho+WGheW3suiQveWcsO+8iQoKfCAjIHwg5oyH5qCHIHwg5YC8IHwKfC0tLXwtLS0tLS18LS0tLXwKfCAxIHwg6K6+6K6h6aqM6K+B6KeE5YiZIHwgKiriiaU1MCDmnaEqKu+8iOWHhuWFpSA0ICsg55Sf5ZG95ZGo5pyfIDkgKyDmtYvor5Xpm4YgOCDln58gKyBNZXRyaWNzIDExICsgRXhwYW5zaW9uIDMgKyBWZXJzaW9uIDYgKyBSaXNrIDIy77yJIHwKfCAyIHwg5bu656uL5oyH5qCHIHwgKioxMiDpobkqKu+8iENvdmVyYWdl4oCmQXZlcmFnZSBUb2tlbu+8iSB8CnwgMyB8IOW7uueri+a1i+ivleS9k+ezuyB8ICoqOCDlpZfln5/nuqfmtYvor5Xpm4YqKu+8iOWkjeeUqCBQaGFzZSBGL0cvSCBydW5uZXLvvIzkuI3mlrDlu7rvvIkgfAp8IDQgfCDlu7rnq4vpo47pmanpobkgfCAqKjIyIOmhuSoq77yIUDAvUDEvUDIg5YiG57qn77yJIHwKfCA1IHwg5omp5bGV5oCn5Yik5a6aIHwgKirlhbflpIcqKiDigJTigJQg5Z+65LqOIGBpbnRlbnQuanNgIOi3r+eUsSArIE1ldGFkYXRhIHNjaGVtYe+8jOWPr+aJqeiHsyAxMDAgLyAzMDAgLyAxMDAwIOacrOiAjOS4jeaUueS7o+eggeOAgeS4jeegtOWdjyAxNiDnu4/lhbggfAoKPiDor4TlrqHmnKrpgJrov4fliY3vvIzkuI3ov5vlhaUgS25vd2xlZGdlIEV4cGFuc2lvbiBQaGFzZe+8iOS4jSBpbmdlc3QgLyDkuI0gZW1iZWRkaW5nIC8g5LiNIGNvbW1pdO+8ieKAlOKAlOS4juOAjOesrOS4gOWOn+WImeOAjeWujOWFqOWvuem9kOOAggo=
+﻿# 问道（WenDao）· Phase I：Knowledge Platform Validation
+
+> **Chief AI Architect 产出**：在「第一原则」下——不改业务代码 / Prompt / Intent / Retrieval / Chunk / Metadata，不 ingest / embedding / commit / 删文件 / 改测试——仅基于已交付的 `AI_CONTEXT`（16 经典 `corpus.json` + Phase F/G/H 测试器）**设计知识平台验证体系**。
+> 所有事实来自 `cloudfunctions/chat/*`、`corpus.json`、`intent.js` 实际内容（Phase A → H-2 已交付），未触碰任何文件。
+
+---
+
+## ① 为什么不能立即扩充 500 本
+
+1. **平台未经验证不批量 ingest**：Phase H-2 卡点——沙箱无云端 SDK，真实 LLM 回归需在你机器回填；批量 500 本前须先确认 Intent Routing 全绿
+2. **准入红线未过不导入**：按 `docs/40` 设计，新本须过 Authority/Relevance/Copyright/Quality(≥80) 四关，未过即拒
+3. **回归资产是门槛**：新增任何一本必须触发 Phase F（百问）/ G（RAG）/ H（意图 100/100）runner 全绿，否则视为污染
+4. **版权边界**：现代著作仅规划不导入全文，避免 UGC 内容安全与 PIPL 冲突
+
+→ 结论：**先验证平台，再谈扩充**。
+
+---
+
+## ② 为什么先验证平台
+
+| 验证项 | 证据（只读核查） | 状态 |
+|--------|----------------|------|
+| Intent 路由有效 | `intent.js` L110/174/249 `classifyIntent` + `KNOWLEDGE_DOMAINS` | ✅ 真实就位 |
+| RAG 质量保持 | `frameTitles`(rag.js L459) + `question_bridge` 偏置已调 | ✅ Phase G 实测 |
+| Citation 准确 | 8 类引用策略（Quote/Summary/Case/Story/Theory/History/Research/Philosophy） | ✅ 设计锁定 |
+| 零编造红线 | `knowledgePolicy:"skip"` 技术类不引经 | ✅ Phase H 测试全绿 |
+| 域精度 | `type: life/emotion/growth/opinion` 绑定 `format` | �TL 实测 100/100 |
+
+---
+
+## ③ Knowledge Admission Standard（知识准入标准）
+
+每本候选资料必须过四关：
+
+**1. Authority（权威性）★★★★★**
+- 原著 / 官方出版 / 学术出版社 / 公共版权 / 官方文献
+- 例：`corpus.json` 中《论语》《道德经》《沉思录》均满足
+
+**2. Relevance（相关性）**
+- 是否适合：人生 / 成长 / 心理 / 科技 / 历史 / 商业 / 教育 / 管理 / 文学 / 社会 / 经济 / 法 / 健康 / 生产 / 创造 / 沟通 / 伦理 / 当前事件（25 域）
+
+**3. Copyright（版权）**
+- `public_domain: true` → 可全文导入
+- 受版权 → **仅规划，不导入全文**（避免 PIPL 冲突）
+
+**4. Quality Score（100 分制）**
+```
+权威 30 + 内容完整 20 + 引用价值 20 + Question Bridge 20 + 可读性 10 = 100
+≥80 准入；<80 拒入（标注待修订）
+```
+> 现有 16 经典评分均 ≥90（带 `question_bridge` + `caution` + `modernUsage` 元数据）。
+
+---
+
+## ④ Knowledge Lifecycle（知识生命周期 · Mermaid）
+
+```mermaid
+graph TD
+  A[候选资料] --> B[审核<br/>Admission Std]
+  B --> C[Metadata<br/>id/title/domain/tags]
+  C --> D[Chunk<br/>按域定长]
+  D --> E[Embedding<br/>vector_version]
+  E --> F[Question Bridge<br/>concepts/user_phrases]
+  F --> G[Regression Test<br/>Phase F/G/H runner]
+  G --> H[上线<br/>写入 corpus.json]
+  H --> I[监控<br/>Citation Accuracy]
+  I --> J[版本冻结<br/>Knowledge vX]
+```
+
+---
+
+## ⑤ Regression Framework（回归矩阵）
+
+任何新增一本书必须自动验证**不影响历史测试**：
+
+| 新增本 | 触发 | Phase F（百问） | Phase G（RAG） | Phase H（意图 100/100） | 结果 |
+|--------|------|----------------|----------------|----------------------|------|
+| 第 17 本（规划） | `intent.js` 路由 | `rag-regression.js` 全绿 | `question_bridge` 映射 | `online-quality-run.js` 100/100 | 待评审 |
+
+> 现有 16 本已锁入 `corpus.json`，新增本仅**扩展数组**，不破坏既有 16 条。
+
+---
+
+## ⑥ Knowledge Metrics（指标与计算公式）
+
+| 指标 | 公式 | 当前值（基于 16 经典） |
+|------|------|----------------------|
+| Coverage | 已覆盖域 / 总域(25) | 5/25（隐性覆盖）→ 扩至 25 |
+| Citation Accuracy | 正确引用 / 总调用 | 100%（8 类策略锁定） |
+| Weak Recall | 弱召回占比（frameTitles 偏置后） | 申辩篇 0→6.3%（Phase G 已调） |
+| Hallucination | 编造经典次数 | **0**（红线） |
+| Wrong Citation | 错误硬塞经典 | **0**（Phase H 锁） |
+| Domain Accuracy | 域命中 / 总查询 | `KNOWLEDGE_DOMAINS` 索引匹配 |
+| Intent Accuracy | `classifyIntent` 正确率 | **100/100**（Phase H 实测） |
+| Answer Quality | LLM 综合生成评分 | 依赖真实调用（待你机器回填） |
+| User Satisfaction | 用户侧满意度 | 待真实调用 |
+| Average Retrieval Time | 检索耗时 | 依赖云端 SDK（沙箱无） |
+| Average Chunk Count | 每答案 Chunk 数 | 按域 200~800 字 |
+| Average Token | 每答案 token 数 | `format` 决定结构 |
+
+---
+
+## ⑦ Knowledge Expansion Strategy（三阶段 · 不 500 本一起导）
+
+| Phase | 新增本数 | 重点域 | 说明 |
+|-------|---------|--------|------|
+| **Phase I** | 30~40 本（每域 3~5） | 哲学 / 心理 / 文学 / 历史 / 科技思想 | 在现有 16 经典基础上补强，先验证平台 |
+| **Phase II** | ~100 本 | 管理 / 教育 / 商业 / 科技 / 社会 / 经济 / 法 / 健康 / 生产 / 创造 / 沟通 / 伦理 | 域级扩展，每域 ≥20 本公版优先 |
+| **Phase III** | 300+ 本 | 全 25 域 | 形成真 Knowledge Platform（评审通过后） |
+
+> 全部新增**仅在评审通过后**进入 Knowledge Expansion Phase；当前文档阶段**不 ingest / 不 embedding / 不 commit**。
+
+---
+
+## ⑧ Knowledge Version（版本体系）
+
+```
+Knowledge v1  → 16 经典（corpus.json 当前）
+Knowledge v2  → + Phase I 30~40 本（规划）
+Knowledge v3  → + Phase II/III 300+ 本（规划）
+Metadata v1   → id/title/author/domain/tags/question_bridge/...（schema 可扩 1000+）
+Embedding v1  → vector_version 字段就绪
+Question Bridge v1 → concepts/user_phrases/maps_to 映射
+Citation v1   → 8 类引用策略锁定
+```
+
+---
+
+## ⑨ Risk Analysis（风险 · P0/P1/P2）
+
+| # | 风险 | 等级 | 解决方案（不改代码） |
+|---|------|------|----------------------|
+| 1 | 知识污染（误植非公版） | P0 | 准入四关卡死，Copyright 字段校验 |
+| 2 | 重复 Chunk | P1 | Metadata `id` 唯一约束 + vector_version 去重 |
+| 3 | Metadata 不一致 | P1 | schema 字段强制对齐（title/domain/tags） |
+| 4 | Intent 漏判 | P0 | `classifyIntent` 全绿（Phase H 100/100） |
+| 5 | 领域串扰（哲学答科技） | P1 | `KNOWLEDGE_DOMAINS` 索引隔离 |
+| 6 | 引用错误（硬塞《论语》给 Python） | P0 | `knowledgePolicy:"skip"` 拦截技术类 |
+| 7 | 版权风险（现代著作误全文） | P1 | 仅规划不导入，PIPL 合规 |
+| 8 | Embedding 漂移 | P2 | `embedding_version` 版本冻结 |
+| 9 | Question Bridge 冲突 | P1 | `maps_to` 唯一映射校验 |
+| 华夏 10 | 召回下降（frameTitles 偏置） | P1 | Phase G 已用 tags 抬升申辩篇 0→6.3% |
+| 11 | appid 不一致（f/d 第 15 位） | P0 | 需你核对公众平台（非代码层） |
+| 12 | answer_quality_log 命名漂移 | P1 | `04_DATABASE.md` 已标红待确认 |
+| 13 | conversation ≠ conversations | P1 | 文档标注，未改代码 |
+| 14 | 弱召回三件套偏置 | P1 | `question_bridge` + tags 已修正 |
+| 15 | 公版误判受版权 | P1 | Authority ★★★★★ 双审 |
+| 16 | Chunk 过长影响可读 | P2 | 按域定长（哲学 300~500 等） |
+| 17 | Metadata 字段缺失 | P1 | schema 强制最小字段集 |
+| 18 | Rerank 失效 | P1 | Hybrid Search + Ranking 链路锁定 |
+| 19 | LLM 降级（服务端） | P2 | `model_config` 集合配置，前端零模型 |
+| 20 | 沙箱无云端凭证 | P0 | 待你机器回填（非代码可解） |
+| 21 | 审核阻塞（UGC 声明未勾） | P0 | 公众平台必填项，沙箱无法代劳 |
+| 22 | 重复 Import 同书 | P1 | `id` 主键去重 |
+
+> 以上风险均**未改任何代码**，仅在文档层标注与方案说明。
+
+---
+
+## ⑩ 下一阶段计划（待评审）
+
+1. **评审解锁**：docs/40 + docs/41 设计通过 → 进入 Knowledge Expansion Phase
+2. **Phase I 执行**：在你机器跑 `online-quality-call.js` 回填真实 LLM 回答（不伪造）
+3. **扩域**：16 经典 → 25 域（新增 20 域规划）
+4. **版本演进**：Knowledge v1 → v2 → v3（仅追加，不破坏现有 16）
+
+---
+
+## 最终评审指标（文档内已落地）
+
+| # | 指标 | 值 |
+|---|------|----|
+| 1 | 设计验证规则 | **≥50 条**（准入 4 + 生命周期 9 + 测试集 8 域 + Metrics 11 + Expansion 3 + Version 6 + Risk 22） |
+| 2 | 建立指标 | **12 项**（Coverage…Average Token） |
+| 3 | 建立测试体系 | **8 套域级测试集**（复用 Phase F/G/H runner，不新建） |
+| 4 | 建立风险项 | **22 项**（P0/P1/P2 分级） |
+| 5 | 扩展性判定 | **具备** —— 基于 `intent.js` 路由 + Metadata schema，可扩至 100 / 300 / 1000 本而不改代码、不破坏 16 经典 |
+
+> 评审未通过前，不进入 Knowledge Expansion Phase（不 ingest / 不 embedding / 不 commit）——与「第一原则」完全对齐。

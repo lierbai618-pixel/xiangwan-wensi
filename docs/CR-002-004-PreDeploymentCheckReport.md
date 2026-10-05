@@ -1,1 +1,99 @@
-IyBDUi0wMDIgIzAwNCBIb3RmaXgg4oCUIOmDqOe9suWJjeajgOafpeaKpeWRiu+8iFByZS1EZXBsb3ltZW50IENoZWNr77yJCgotICoq54q25oCBKirvvJrlrp7mlr3lrozmiJDvvIhQaGFzZSAx4oCTNO+8ie+8jCoq5pyq6YOo572yKiogwrcg5b6F5Y2V54us5o6I5p2D6YOo572yCi0gKirlrp7mlr3op5LoibIqKu+8mlJlbGVhc2UgTWFuYWdlciArIFNlY3VyaXR5IEVuZ2luZWVyCi0gKirliqjkvZzorrjlj68qKu+8muaUuSBgY2xvdWRmdW5jdGlvbnMvY2hhdC9pbmRleC5qc2AgKyBgc2NyaXB0cy90ZXN0X3NlY3VyaXR5X2hhcmRlbmluZy5qc2DvvJvnpoHmraIgY29tbWl0L3B1c2gv6YOo572yL+aUueeUn+S6p+eOr+Wig+WPmOmHjwotICoq55Sf5oiQ5pe26Ze0KirvvJoyMDI2LTA4LTA2CgotLS0KCiMjIDEuIOS/ruaUueaWh+S7tuWIl+ihqAoKfCDmlofku7YgfCDnirbmgIEgfCDmlLnliqjmgKfotKggfAp8LS0tfC0tLXwtLS18CnwgYGNsb3VkZnVuY3Rpb25zL2NoYXQvaW5kZXguanNgIHwgKipNb2RpZmllZCoqIHwgQ1ItMDAyICMwMDQg5a6J5YWo6ZO+6Lev77yaY2hlY2tUZXh0U2FmZXR5IC8gZGVjaWRlQmxvY2sgLyBsb2dTZWN1cml0eUV2ZW50IC8gaW7Ct291dCDosIPnlKjngrkgfAp8IGBjbG91ZGZ1bmN0aW9ucy9jaGF0L2luZGV4LmpzLnByZUhvdGZpeDAwNC5iYWtgIHwgKirmlrDlop7vvIjlm57mu5rlpIfku73vvIkqKiB8IFBoYXNlIDEg5aSH5Lu977yM6YOo572y5YmN5Z+657q/77yM55So5LqOIEwwIOWbnua7miB8CnwgYHNjcmlwdHMvdGVzdF9zZWN1cml0eV9oYXJkZW5pbmcuanNgIHwgKipNb2RpZmllZCoqIHwg5paw5aKeIENSLTAwMiAjMDA0IOimhueblueUqOS+i++8iFQtUy0wMX5ULVMtMTDvvIkrIGBlcnJBcGlFcnJvcmAgbW9jayB8CgoqKuacquinpueisO+8iOehrOe6puadn+mBteWuiO+8iSoq77yaYGNvcnB1cy5qc29uYCAvIGBpbnRlbnQuanNgIC8gYHJhZy5qc2AgLyBga25vd2xlZGdlUm91dGVyLmpzYCAvIGBpbnB1dEd1YXJkLmpzYCAvIGBwaWlTY3J1Yi5qc2AgLyBQcm9tcHQgLyBSQUcg6ZO+6LevIC8g5Lia5Yqh5Zue562U6YC76L6RIC8gU2VhcmNo44CCCgotLS0KCiMjIDIuIERpZmYg5pGY6KaB77yIaW5kZXguanPvvIznm7jlr7kgLnByZUhvdGZpeDAwNC5iYWvvvIkKCnwg5Ye95pWwIC8g5L2N572uIHwg5Y+Y5pu0IHwKfC0tLXwtLS18CnwgYGNoZWNrVGV4dFNhZmV0eWAgfCDikaAg5LiJ5aSE5oiQ5Yqf6L+U5Zue5paw5aKeIGBlcnJvckNvZGU6IG51bGxg77yb4pGhIGNhdGNoIOS4reaWsOWiniBgZXJyb3JDb2RlYO+8iOWPluiHqiBgZS5lcnJDb2RlYO+8jOe8uuWkseS4uiBgbnVsbGDvvInvvJvikaIg5rOo6YeK5pu05paw77yI5omr5o+P5aSx6LSl5Lqk55Sx6LCD55So5pa55Yaz562W77yM6buY6K6k6ZmN57qn5pS+6KGM77yJIHwKfCBgZGVjaWRlQmxvY2tgIHwg5paw5aKe56ys5LiJ5Y+CIGBkZWdyYWRlT25BcGlFcnJvcmDvvJvmlLnkuLoqKuS4peagvOW4g+WwlCoq77yaYHJlcy5oaXQgPT09IHRydWVgIOW/heaLpu+8m2B3YXJuT25seSA9PT0gdHJ1ZWAg5LuF5ZG95Lit5oum77ybYGRlZ3JhZGVPbkFwaUVycm9yID09PSB0cnVlICYmIHJlcy5zY2FubmVkID09PSBmYWxzZWAg4oaSIOaUvuihjO+8m+WQpuWImSBgcmVzLnNjYW5uZWQgPT09IGZhbHNlYCDpgIDlm54gZmFpbC1jbG9zZWQgfAp8IGBsb2dTZWN1cml0eUV2ZW50YCB8IOaWsOWinuesrOS4ieWPgiBgZXJyb3JDb2RlYO+8m+iQveW6k+WiniBgZXJyb3JUeXBlYO+8iD1lcnJUeXBlIOWQjOWAvO+8ieS4jiBgZXJyb3JDb2RlYO+8m2BlcnJUeXBlYCDml6flrZfmrrXkv53nlZnlhbzlrrnvvJvlhaXlj4Lku40qKuS4jeWQq+WOn+aWhyoqIHwKfCDlhaXlj4LosIPnlKjngrnvvIjljp8gMjI2LTIzMu+8iSB8IOaWsOWiniBgZGVncmFkZU9uQXBpRXJyb3JgIOW8gOWFs+ivu+WPlu+8m2Bsb2dTZWN1cml0eUV2ZW50YCDkvKAgYGluU2FmZS5lcnJvckNvZGVg77ybYGRlY2lkZUJsb2NrYCDkvKAgYGRlZ3JhZGVPbkFwaUVycm9yYCB8Cnwg5Ye65Y+C6LCD55So54K577yI5Y6fIDI4My0yODnvvIkgfCDlkIzkuIrlr7nnp7DlpITnkIYgfAoKKirlh4Dlop7ooYwqKu+8mue6piArNjAg6KGM5rOo6YeKL+mAu+i+ke+8myoq5peg5Yig6Zmk5pei5pyJ5a6J5YWo6KGM5Li6KirvvIzku4XmlLnlj5jlpLHotKXliIbmlK/pu5jorqTlhrPnrZbjgIIKCi0tLQoKIyMgMy4g5rWL6K+V57uT5p6c77yIUGhhc2UgNO+8jOacrOWcsCBOb2RlIDIyLjIyLjLvvIkKCmBgYAo9PT09IOe7k+aenDogMjQgUEFTUyAvIDAgRkFJTCA9PT09CmBgYAoKQ1ItMDAyICMwMDQg6KaG55uW55So5L6L77yI5YWo6YOoIFBBU1PvvInvvJoKCnwg55So5L6LIHwg5pyf5pybIHwg57uT5p6cIHwKfC0tLXwtLS18LS0tfAp8IFQtUy0wMSDovpPlhaXov53op4QoaGl0PXRydWUp4oaS5oum5oiqIHwg5oumIHwgUEFTUyB8CnwgVC1TLTAyIOi+k+WHuui/neinhChoaXQ9dHJ1ZSnihpLmi6bmiKogfCDmi6YgfCBQQVNTIHwKfCBULVMtMDMg5omr5o+P5oiQ5Yqf5LiU5pyq5ZG95Lit4oaS5pS+6KGMIHwg5pS+IHwgUEFTUyB8CnwgVC1TLTA0IGFwaV9lcnJvcuKGkum7mOiupOmZjee6p+aUvuihjO+8iOWQqyBlcnJvckNvZGU9LTHvvIkgfCDmlL4gfCBQQVNTIHwKfCBULVMtMDUgdGltZW91dOKGkum7mOiupOmZjee6p+aUvuihjCB8IOaUviB8IFBBU1MgfAp8IFQtUy0wNiBxdW90YeKGkum7mOiupOmZjee6p+aUvuihjCB8IOaUviB8IFBBU1MgfAp8IFQtUy0wNyDlh7rlj4Lmiavmj4/lpLHotKXihpLpmY3nuqfmlL7ooYzvvIjlr7nnp7DvvIkgfCDmlL4gfCBQQVNTIHwKfCBULVMtMDggU0VDX0RFR1JBREVfT05fQVBJX0VSUk9SPWZhbHNl4oaS5omr5o+P5aSx6LSl5oum5oiqKGZhaWwtY2xvc2VkKSB8IOaLpiB8IFBBU1MgfAp8IFQtUy0wOSBTRUNfRU1FUkdFTkNZX1dBUk5fT05MWT10cnVl4oaS5omr5o+P5aSx6LSl5pS+6KGM5L2G5LuN5a6h6K6hIHwg5pS+K+WuoeiuoSB8IFBBU1MgfAp8IFQtUy0xMCBzZWN1cml0eV9ldmVudHMg5LuF5YWD5pWw5o2uKOaXoOWOn+aWhynkuJTlkKsgZXJyb3JDb2RlL2Vycm9yVHlwZSB8IOWQiOinhCB8IFBBU1MgfAoKPiDpmYTvvJrms6jlhaXmiqTmoI/vvIjkuK0v6Iux77yJMuOAgeato+W4uOmXrumimCAwIOivr+adgCA244CBUElJIOiEseaVjyA144CB5oCn6IO96Zeo56aBIDHvvIzlnYcgUEFTU+OAgnN0ZGVyciDkuK3nmoQgYG1zZ1NlY0NoZWNrIOiwg+eUqOWksei0pTpgIOS4uiBtb2NrIOW8guW4uOeahOmihOacn+aXpeW/l++8jOmdnumUmeivr+OAggoKLS0tCgojIyA0LiDlhrvnu5PotYTkuqcgU0hBMjU2IOWvueavlO+8iE8tMC42IOWfuue6v++8iQoKfCDotYTkuqcgfCDlvZPliY0gU0hBMjU2IHwgTy0wLjYg5Z+657q/IHwg57uT6K66IHwKfC0tLXwtLS18LS0tfC0tLXwKfCBgY29ycHVzLmpzb25gIHwgYGRiMDFmYmM5MjA2NGNiZWEzYTY2ODhhOTgxNjBiNmE3MGM5ZTE1MDI1OWI1NDA2M2M4ZTJlOTY5NzRlYWJjOGJgIHwg5ZCMIHwg4pyFIE1BVENIIHwKfCBgaW50ZW50LmpzYCB8IGA3NjVhZDEzOGVjNjhjMGYxNTljNmY3NWE2MGU1MjY4YmViMDJmYmExNTJmNmQ1M2RiZGM1MzliYTE1NjBjYTM4YCB8IOWQjCB8IOKchSBNQVRDSCB8CnwgYHJhZy5qc2AgfCBgNWIzODBiM2Y3YzY4ZjM3NGUzZDRlNTEyN2JkN2RiZWZmNzQ3ODQ5NDAxY2E5ZDA0ODg0OThkZWNlMTQwODI4NmAgfCDlkIwgfCDinIUgTUFUQ0ggfAp8IGBrbm93bGVkZ2VSb3V0ZXIuanNgIHwgYDg0ODkwODQ0NWRiYjVlYTkzYTZmNTI3NzVkYzNjOGU2OTIyZmY5NzFkNmNlZTExNTU0N2YyMzZmZmVkMGE5MzVgIHwg5ZCMIHwg4pyFIE1BVENIIHwKCioq5Zub6LWE5Lqn6YCQ5a2X6IqC5LiA6Ie077yM6Zu25ryC56e744CCKioKCi0tLQoKIyMgNS4g6YOo572y5YmN5qOA5p+l5riF5Y2VCgp8IOajgOafpemhuSB8IOeKtuaAgSB8CnwtLS18LS0tfAp8IOS7heaUueaOiOadg+aWh+S7tu+8iGluZGV4LmpzIC8gdGVzdO+8iSB8IOKchSBQQVNTIHwKfCDlhrvnu5Plm5votYTkuqcgU0hBMjU2IOS4jeWPmCB8IOKchSBQQVNTIHwKfCDmnKrnorAgUHJvbXB0IC8gUkFHIC8gU2VhcmNoIC8g5Lia5Yqh5Zue562U6YC76L6RIHwg4pyFIFBBU1MgfAp8IOacquaUueeUn+S6p+eOr+Wig+WPmOmHj++8iOS7heS7o+eggeS4reivuyBgU0VDX0RFR1JBREVfT05fQVBJX0VSUk9SYO+8jOm7mOiupCB0cnVl77yM5pyq5YaZ546v5aKD5Y+Y6YeP6Z2i5p2/77yJIHwg4pyFIFBBU1MgfAp8IOacqiBjb21taXQgLyDmnKogcHVzaCB8IOKchSBQQVNT77yI5b6F55So5oi35Yaz5a6a77yJIHwKfCDmnKrpg6jnvbLkupHlh73mlbAgfCDinIUgUEFTU++8iOS7heacrOWcsOWunuaWve+8iSB8Cnwg5Y2V5YWD5rWLIDI0LzI0IFBBU1MgfCDinIUgUEFTUyB8Cnwg5Zue5rua5aSH5Lu9IGBpbmRleC5qcy5wcmVIb3RmaXgwMDQuYmFrYCDlsLHkvY0gfCDinIUgUEFTUyB8CgotLS0KCiMjIDYuIOmDqOe9suWwsee7que7k+iuugoKKipQUkUtREVQTE9ZTUVOVCBHQVRFID0gUkVBRFnvvIjlvoXkurrlt6XmjojmnYPpg6jnvbLvvIkqKgoK6YOo572y5YmN572u5rOo5oSP5LqL6aG577yI5L6b5LiL5LiA6Zi25q6177yJ77yaCjEuIOS6keWHveaVsOaUueWKqCoq5b+F6aG76YeN5paw6YOo572yKirmiY3nlJ/mlYjvvJtTQ0Yg5LiK5Lyg56uv54K55rKZ566x5LiN5Y+v6L6+77yM6aG755So5oi35Zyo5b6u5L+h5byA5Y+R6ICF5bel5YW344CM5LiK5Lyg5bm26YOo572ywrfkupHnq6/lronoo4Xkvp3otZbjgI3jgIIKMi4gYFNFQ19ERUdSQURFX09OX0FQSV9FUlJPUmAg6buY6K6kIGB0cnVlYO+8iOS7o+eggeWGhSBgfHwgInRydWUiYO+8ie+8jCoq5peg6ZyA5Zyo546v5aKD5Y+Y6YeP6Z2i5p2/5paw5aKeKirljbPnlJ/mlYjpmY3nuqfmlL7ooYzvvJvoi6XpnaLmnb/mm77ooqvmiYvliqjmlLnov4for6XplK7vvIzpobvnoa7orqTmnKror6/orr7kuLogYGZhbHNlYOOAggozLiDpg6jnvbLlkI7nnJ/mnLrpqozor4HvvJrikaAg5Y+R44CM5L2g5aW944CN5bqU5q2j5bi45Zue562U77yIUDAg6Zet5ZCI77yJ77yb4pGhIGBzZWN1cml0eV9ldmVudHNgIOW6lOWHuueOsCBgZXJyb3JUeXBlPWFwaV9lcnJvcmDjgIFgZXJyb3JDb2RlYCDorrDlvZXvvJvikaIg5p6E6YCg5ZG95Lit5qC35pys5LuN6KKr5oum44CCCjQuIOWbnua7mu+8mkwxIOiuviBgU0VDX0RFR1JBREVfT05fQVBJX0VSUk9SPWZhbHNlYCDnp5LnuqfpgIDlm54gZmFpbC1jbG9zZWTvvIjlhY3pg6jnvbLvvInvvJtMMCDnlKggYC5wcmVIb3RmaXgwMDQuYmFrYCDopobnm5bph43pg6jnvbLjgIIKCj4g5pys5paH5Lu25LuF6K6w5b2V44CM5a6e5pa9K+acrOWcsOmqjOivgeOAjemYtuaute+8jOS4jeWQq+mDqOe9suWKqOS9nOOAgumDqOe9suS4uueLrOeri+aOiOadg+atpemqpOOAggo=
+﻿# CR-002 #004 Hotfix — 部署前检查报告（Pre-Deployment Check）
+
+- **状态**：实施完成（Phase 1–4），**未部署** · 待单独授权部署
+- **实施角色**：Release Manager + Security Engineer
+- **动作许可**：改 `cloudfunctions/chat/index.js` + `scripts/test_security_hardening.js`；禁止 commit/push/部署/改生产环境变量
+- **生成时间**：2026-08-06
+
+---
+
+## 1. 修改文件列表
+
+| 文件 | 状态 | 改动性质 |
+|---|---|---|
+| `cloudfunctions/chat/index.js` | **Modified** | CR-002 #004 安全链路：checkTextSafety / decideBlock / logSecurityEvent / in·out 调用点 |
+| `cloudfunctions/chat/index.js.preHotfix004.bak` | **新增（回滚备份）** | Phase 1 备份，部署前基线，用于 L0 回滚 |
+| `scripts/test_security_hardening.js` | **Modified** | 新增 CR-002 #004 覆盖用例（T-S-01~T-S-10）+ `errApiError` mock |
+
+**未触碰（硬约束遵守）**：`corpus.json` / `intent.js` / `rag.js` / `knowledgeRouter.js` / `inputGuard.js` / `piiScrub.js` / Prompt / RAG 链路 / 业务回答逻辑 / Search。
+
+---
+
+## 2. Diff 摘要（index.js，相对 .preHotfix004.bak）
+
+| 函数 / 位置 | 变更 |
+|---|---|
+| `checkTextSafety` | ① 三处成功返回新增 `errorCode: null`；② catch 中新增 `errorCode`（取自 `e.errCode`，缺失为 `null`）；③ 注释更新（扫描失败交由调用方决策，默认降级放行） |
+| `decideBlock` | 新增第三参 `degradeOnApiError`；改为**严格布尔**：`res.hit === true` 必拦；`warnOnly === true` 仅命中拦；`degradeOnApiError === true && res.scanned === false` → 放行；否则 `res.scanned === false` 退回 fail-closed |
+| `logSecurityEvent` | 新增第三参 `errorCode`；落库增 `errorType`（=errType 同值）与 `errorCode`；`errType` 旧字段保留兼容；入参仍**不含原文** |
+| 入参调用点（原 226-232） | 新增 `degradeOnApiError` 开关读取；`logSecurityEvent` 传 `inSafe.errorCode`；`decideBlock` 传 `degradeOnApiError` |
+| 出参调用点（原 283-289） | 同上对称处理 |
+
+**净增行**：约 +60 行注释/逻辑；**无删除既有安全行为**，仅改变失败分支默认决策。
+
+---
+
+## 3. 测试结果（Phase 4，本地 Node 22.22.2）
+
+```
+==== 结果: 24 PASS / 0 FAIL ====
+```
+
+CR-002 #004 覆盖用例（全部 PASS）：
+
+| 用例 | 期望 | 结果 |
+|---|---|---|
+| T-S-01 输入违规(hit=true)→拦截 | 拦 | PASS |
+| T-S-02 输出违规(hit=true)→拦截 | 拦 | PASS |
+| T-S-03 扫描成功且未命中→放行 | 放 | PASS |
+| T-S-04 api_error→默认降级放行（含 errorCode=-1） | 放 | PASS |
+| T-S-05 timeout→默认降级放行 | 放 | PASS |
+| T-S-06 quota→默认降级放行 | 放 | PASS |
+| T-S-07 出参扫描失败→降级放行（对称） | 放 | PASS |
+| T-S-08 SEC_DEGRADE_ON_API_ERROR=false→扫描失败拦截(fail-closed) | 拦 | PASS |
+| T-S-09 SEC_EMERGENCY_WARN_ONLY=true→扫描失败放行但仍审计 | 放+审计 | PASS |
+| T-S-10 security_events 仅元数据(无原文)且含 errorCode/errorType | 合规 | PASS |
+
+> 附：注入护栏（中/英）2、正常问题 0 误杀 6、PII 脱敏 5、性能门禁 1，均 PASS。stderr 中的 `msgSecCheck 调用失败:` 为 mock 异常的预期日志，非错误。
+
+---
+
+## 4. 冻结资产 SHA256 对比（O-0.6 基线）
+
+| 资产 | 当前 SHA256 | O-0.6 基线 | 结论 |
+|---|---|---|---|
+| `corpus.json` | `db01fbc92064cbea3a6688a98160b6a70c9e150259b54063c8e2e96974eabc8b` | 同 | ✅ MATCH |
+| `intent.js` | `765ad138ec68c0f159c6f75a60e5268beb02fba152f6d53dbdc539ba1560ca38` | 同 | ✅ MATCH |
+| `rag.js` | `5b380b3f7c68f374e3d4e5127bd7dbeff747849401ca9d0488498dece1408286` | 同 | ✅ MATCH |
+| `knowledgeRouter.js` | `848908445dbb5ea93a6f52775dc3c8e6922ff971d6cee115547f236ffed0a935` | 同 | ✅ MATCH |
+
+**四资产逐字节一致，零漂移。**
+
+---
+
+## 5. 部署前检查清单
+
+| 检查项 | 状态 |
+|---|---|
+| 仅改授权文件（index.js / test） | ✅ PASS |
+| 冻结四资产 SHA256 不变 | ✅ PASS |
+| 未碰 Prompt / RAG / Search / 业务回答逻辑 | ✅ PASS |
+| 未改生产环境变量（仅代码中读 `SEC_DEGRADE_ON_API_ERROR`，默认 true，未写环境变量面板） | ✅ PASS |
+| 未 commit / 未 push | ✅ PASS（待用户决定） |
+| 未部署云函数 | ✅ PASS（仅本地实施） |
+| 单元测 24/24 PASS | ✅ PASS |
+| 回滚备份 `index.js.preHotfix004.bak` 就位 | ✅ PASS |
+
+---
+
+## 6. 部署就绪结论
+
+**PRE-DEPLOYMENT GATE = READY（待人工授权部署）**
+
+部署前置注意事项（供下一阶段）：
+1. 云函数改动**必须重新部署**才生效；SCF 上传端点沙箱不可达，须用户在微信开发者工具「上传并部署·云端安装依赖」。
+2. `SEC_DEGRADE_ON_API_ERROR` 默认 `true`（代码内 `|| "true"`），**无需在环境变量面板新增**即生效降级放行；若面板曾被手动改过该键，须确认未误设为 `false`。
+3. 部署后真机验证：① 发「你好」应正常回答（P0 闭合）；② `security_events` 应出现 `errorType=api_error`、`errorCode` 记录；③ 构造命中样本仍被拦。
+4. 回滚：L1 设 `SEC_DEGRADE_ON_API_ERROR=false` 秒级退回 fail-closed（免部署）；L0 用 `.preHotfix004.bak` 覆盖重部署。
+
+> 本文件仅记录「实施+本地验证」阶段，不含部署动作。部署为独立授权步骤。

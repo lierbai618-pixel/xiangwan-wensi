@@ -1,1 +1,99 @@
-IyBQaGFzZSBHIOesrOS4gOmYtuauteaKpeWRiu+8mlJBRyDnu4/lhbjlj6zlm57kvJjljJYKCj4g5pel5pyf77yaMjAyNi0wNy0yOCDvvZwg6Zi25q6177yaUGhhc2UgR++8iOWPrOWbnuWBpeW6t+WMlu+8ieesrOS4gOmYtuautQo+IOebruagh++8muaJk+egtOOAjOS4ieS7tuWll++8iOiuuuivrS/pgZPlvrfnu48v5rKJ5oCd5b2V77yJ44CN5Z6E5pat77yM5oqs5Y2H6ZW/5bC+77yI55Sz6L6p56+HL+Wtn+WtkC/lpKflraYv5Lit5bq477yJ77yMVG9wMyDkuInku7blpZflvJXnlKjljaDmr5QgODQuNyUg4oaSIOKJpCA2MCXjgIIKPiDmiafooYzljp/liJnpgbXlrojvvJrmnKrmlLnkuJrliqHku6PnoIHpgLvovpEgLyDliY3nq6/pobXpnaIgLyDlm57nrZQgUHJvbXB0IOS4u+e7k+aehO+8m+acqumHjeaWsCBpbmdlc3TvvJvmnKrliKDnn6Xor4botYTkuqfjgIIKCi0tLQoKIyMgMS4g5L+u5pS55paH5Lu25YiX6KGoCgp8IOaWh+S7tiB8IOexu+WeiyB8IOaUueWKqOaAp+i0qCB8IOaYr+WQpuaUueS7o+eggemAu+i+kSB8CnwtLS18LS0tfC0tLXwtLS18CnwgYHdlYXBwL2Nsb3VkZnVuY3Rpb25zL2NoYXQvY29ycHVzLmpzb25gIHwg5pS5IHwg55Sz6L6p56+HL+Wtn+WtkC/lpKflraYv5Lit5bq4IDQg5pys5Lmm5ompIGB0YWdzYO+8iOamguW/teWxgu+8jOWvuem9kOeUqOaIt+WPo+ivre+8iSsg5paw5aKeIGBxdWVzdGlvbl9icmlkZ2VgIOWFg+aVsOaNruWtl+autSB8IOWQpu+8iHRhZ3Mg5bey6KKrIGxleGljYWxTY29yZSDor7vlj5bvvIznq4vljbPnlJ/mlYjvvIkgfAp8IGB3ZWFwcC9jbG91ZGZ1bmN0aW9ucy9jaGF0L3JhZy5qc2AgfCDmlLkgfCBgZnJhbWVUaXRsZXNgIOmFjee9ruS8mOWMlu+8mueUs+i+qeevh+WKoOWFpSBpbnZlc3RpZ2F0aW9uL2NvbnRyYWRpY3Rpb24vbG9uZ1Rlcm0vZ2VuZXJhbCDlm5vluKfvvJvlrZ/lrZAv5aSn5a2mL+S4reW6uOihpeWFpSBnZW5lcmFsIOW4pyB8ICoq5LuF5pS56YWN572u5YC877yM5pyq5pS55omT5YiG5YWs5byPL+mAu+i+kSoq77yI5bGe44CMcmV0cmlldmFsIOmFjee9ruS8mOWMluOAje+8iSB8CnwgYHdlYXBwL2RvY3MvMjYtUGhhc2VH5Y+s5Zue5YGl5bq35oyH5qCHLm1kYCB8IOaWsOWiniB8IOWPquivu+WIhuaekO+8muWPrOWbnuaOkuihjCAvIOmVv+WwvuimhuebliAvIFRvcDMg6ZuG5Lit5bqmIC8g55uu5qCHIC8g56a757q/6aKE5rWLIHwg5ZCmIHwKfCBgd2VhcHAvZG9jcy8yNy1QaGFzZUfkuInku7blpZflj6zlm57liIbmnpAubWRgIHwg5paw5aKeIHwg5qC55Zug5YiG5p6Q77yaZnJhbWVUaXRsZXMg5YGP572uIC8gdGFnIOi/h+WuvSAvIFRGIOWQkemHj+WBj+WQkSAvIHF1ZXN0aW9uX2JyaWRnZSDmnKrlrp7njrAgfCDlkKYgfAp8IGB3ZWFwcC9waGFzZS1nLXJlZ3Jlc3Npb24tdGVzdC5qc29uYCB8IOaWsOWiniB8IDUwIOadoeWbnuW9kua1i+ivleinhOagvO+8iOeUs+i+qeevhzE1L+Wtn+WtkDEwL+Wkp+WtpjEwL+S4reW6uDUv6Leo5rS+57O7MTDvvIkgfCDlkKYgfAoKPiDimqDvuI8gYHJhZy5qc2Ag5pS55Yqo6Kem56Kw5LqG5LqR5Ye95pWw5paH5Lu277yM5L2G5LuF6LCD5pW0IGBmcmFtZVRpdGxlc2Ag6L+Z5LiAKirphY3nva7ooajnmoTlgLwqKu+8iOaJk+WIhuWFrOW8j+OAgXRva2VuaXpl44CBcmV0cmlldmUg5o6n5Yi25rWB5Z2H5pyq5Yqo77yJ77yM5bGe55So5oi36K645Y+v55qE44CMcmV0cmlldmFsIOmFjee9ruS8mOWMluOAjeOAguivpeaUueWKqOW3sumAmui/hyBgZ2l0IGRpZmZgIOWujOaVtOWRiOeOsO+8jOeUqOaIt+WPr+WuoemYheaIluWbnumAgOOAggoKLS0tCgojIyAyLiDmsqHmnInkv67mlLnmlofku7bliJfooajvvIjkv53mjIHlhrvnu5PvvIkKCi0gKirliY3nq6/pobXpnaIqKu+8iGBwYWdlcy9gIOWFqOmDqO+8ie+8muacquWKqOOAggotICoq5YW25LuW5LqR5Ye95pWwKirvvJpgbG9naW4gLyBoaXN0b3J5IC8gYWRtaW4gLyBmZWVkYmFjayAvIHN0YXRzIC8gaW5zaWdodHMgLyBtb2RlbHNg77ya5pyq5Yqo44CCCi0gKirlm57nrZQgUHJvbXB0IOS4u+e7k+aehCoq77yaYFJPTEVfUFJPTVBUYCAvIGBvdXRwdXRDb250cmFjdGAgLyDkupTmrrXlvI/pobrluo/vvJrmnKrliqjjgIIKLSAqKuajgOe0oueul+azlemAu+i+kSoq77yaYGdlbmVyYXRlQW5zd2VyYCAvIGByZXRyaWV2ZWAgLyBgbGVnYWN5UmV0cmlldmVgIC8gYGxleGljYWxTY29yZWAg5Ye95pWw5L2T77ya5pyq5Yqo44CCCi0gKirnn6Xor4blupPph40gaW5nZXN0KirvvJrmnKrmiafooYzvvJtgY29ycHVzLmpzb25gIOS7heWwseWcsOWBmiBtZXRhZGF0YSDkvJjljJbjgIIKLSAqKuefpeivhui1hOS6p+WIoOmZpCoq77ya6Zu25Yig6Zmk44CCCgotLS0KCiMjIDMuIOWPrOWbnuWPmOWMlumihOa1i++8iOemu+e6v+mqjOivge+8iQoK5pa55rOV77ya55u05o6l55SoIGByYWcuanNgIOeahCBgbGVnYWN5UmV0cmlldmUodG9wMylgIOemu+e6v+mHjei3ke+8iOaXoOmcgOS6keeOr+Wig++8ie+8jOWvueWOnyAxMDAg5p2hIFBoYXNlIEYg6Zeu6aKY57uf6K6hIHRvcDMg5YiG5biD77yM5bm25a+5IDUg5Liq55Sz6L6p56+H56S65L6LIC8g5a2f5a2Q5Luj6KGo6Zeu5YGa5a6a5ZCR6aqM6K+B44CCCgp8IOaMh+aghyB8IOWfuue6vyB8IOmihOa1i++8iFBoYXNlIEcg5ZCO77yJIHwg5piv5ZCm6L6+5qCHIHwKfC0tLXwtLS06fC0tLTp8LS0tfAp8ICoqVG9wMyDkuInku7blpZflvJXnlKjljaDmr5QqKiB8IDg0LjclIHwgKio1MC43JSoqIHwg4pyFIOKJpCA2MCUgfAp8IOafj+aLieWbvuOAiueUs+i+qeevh+OAiyB8IDAlIHwgKio2LjMlKirvvIgw4oaS5pyJ77yJIHwg4pyFIOS4k+mhuemimOW+heecn+acuuihpeehruiupCB8Cnwg5a2f5a2QIHwgMS43JSB8IDQuNyXvvIjmo4DntKLvvIkrIOeUqOaIt+WIlyA4IOS7o+ihqOmXruWFqOWPrOWbniB8IOKchSB8Cnwg5aSn5a2mIHwgMS4zJSB8IDIzLjMlIHwg4pqg77iPIOaPkOWNh+acgOWkp++8jOWIl+S4uuinguWvn+mhuSB8Cnwg5Lit5bq4IHwgMi4zJSB8IDYuNyUgfCDinIUgfAp8IOiuuuivrSB8IDI4LjMlIHwgMjYuMCUgfCDinIUg56iz5a6aIHwKfCDpgZPlvrfnu48gfCAyNy4zJSB8IDE4LjAlIHwg4pyFIOeos+WumiB8Cnwg5rKJ5oCd5b2VIHwgMjkuMCUgfCA2LjclIHwg4pyFIOeos+Wumu+8iOacquWhjOaWue+8jOWFuOWei+mXrumimOS7jeWPrOWbnu+8iSB8CgoqKuWumuWQkemqjOivge+8iOemu+e6v+Wdh+mAmui/h++8ie+8mioqCi0g55Sz6L6p56+HIDUg56S65L6L77yI6IuP5qC85ouJ5bqV5LmL5q27IC8g5Z2a5oyB5Y6f5YiZIC8g55yf55CGdnPlpJrmlbAgLyDpnaLlr7nor6/op6MgLyDmjqXlj5flrqHliKTvvInihpIg5YWo6YOoICMxIOWPrOWbnuOAggotIOWtn+WtkCA4IOS7o+ihqOmXru+8iOWdmuaMgeWOn+WImSAvIOaIkOS4uuabtOWlveeahOS6uiAvIOWBmuS4jeWIsCAvIOaPkOWNh+iHquW3sSAvIOivseaDkSAvIOmaj+azoumAkOa1gSDnrYnvvInihpIg5YWo6YOo5Y+s5Zue5a2f5a2Q44CCCi0g5LiJ5Lu25aWX56iz5a6a5oCn5qOA5p+l77yI5YaF6ICX4oaS6YGT5b6357uP44CB5a2m5LqG5oC75b+Y4oaS6K666K+t44CB5bel5L2c5Y6L5Yqb5aSn4oaS5rKJ5oCd5b2V44CB55Sf5rS75rKh5oSP5oCd4oaS5LiJ5Lu25aWX77yJ4oaSIOS7jeato+W4uOWPrOWbnuOAggoKLS0tCgojIyA0LiDmlrDlop7mtYvor5XmlbDph48KCioqNTAg5p2hKirvvIhgcGhhc2UtZy1yZWdyZXNzaW9uLXRlc3QuanNvbmDvvInvvIzliIbluIPvvJoKCnwg5YiG57uEIHwg5p2h5pWwIHwg55uu55qEIHwKfC0tLXwtLS06fC0tLXwKfCDnlLPovqnnr4fkuJPpobkgfCAxNSB8IOmqjOivgSAw4oaS5pyJIOeahOacgOmrmOiAg+mqjCB8Cnwg5a2f5a2QIHwgMTAgfCDpqozor4HmpoLlv7XlsYLmoIfnrb7opobnm5YgfAp8IOWkp+WtpiB8IDEwIHwg6aqM6K+B5L+u6LqrL+iHquW+i+exu+WPrOWbniB8Cnwg5Lit5bq4IHwgNSB8IOmqjOivgeaDhee7quW5s+ihoeexu+WPrOWbniB8Cnwg6Leo5rS+57O7IHwgMTAgfCDpqozor4HlpJrkvKDnu5/ljY/lkIzjgIHpmLLmlrDlnoTmlq0gfAoK5qC85byP5a+56b2QIGBwaGFzZS1mLTEwMC10ZXN0Lmpzb25g77yIYF9tZXRhYCArIGByZWNvcmRzW11g77yJ77ybYGFjdHVhbF9ib29rc2Ag562J5a2X5q6155WZ56m677yM5b6FKirph43mlrDpg6jnvbIgY2hhdCDkupHlh73mlbDlkI7nnJ/mnLrpgJDmnaHot5HpgJrlm57loasqKuOAggoKLS0tCgojIyA1LiDpo47pmanliIbmnpAKCjEuICoq5aSn5a2m6aKE5rWL5Y2g5q+U5YGP6auY77yIMjMuMyXvvIkqKu+8muWFtuagh+etvu+8iOaIkOmVvy/oh6rlvosv5o+Q5Y2H6Ieq5bexL+i/m+atpe+8ieimhueblumAmueUqOaIkOmVv+exu+mXrumimOi+g+Wkmu+8jOWPr+iDveWcqOaWsOahtumHjOeVpeWBj+WkmuOAguW3suWcqCBkb2NzLzI2IOWIl+S4uuinguWvn+mhue+8jEctMiDoi6Xnoa7orqTov4fluqbliJnlvq7osIPlpKflraYgdGFnIOaIluenu+WHuumDqOWIhumdnuWlkeWQiOW4p+OAggoyLiAqKmBmcmFtZVRpdGxlc2Ag6Kem56KwIHJhZy5qcyDmlofku7YqKu+8muiZveS4uumFjee9ruS8mOWMlu+8iOWFgeiuuO+8ie+8jOS9huS7jeWcqOS6keWHveaVsOWGheOAguW3sueUqCBgZ2l0IGRpZmZgIOmAj+aYjuWRiOeOsO+8m+WmgueUqOaIt+iupOS4uui2iueVjO+8jOWPr+S7heS/neeVmSBjb3JwdXMuanNvbiDnmoQgdGFncyDmlLnliqjvvIjlrZ/lrZAv5aSn5a2mL+S4reW6uOS7jeaPkOWNh++8ie+8jOeUs+i+qeevhyDpg6jliIbliJnpnIDmlLnlm57miJbovawgRy0yIOS7o+eggeaWueahiOOAggozLiAqKmBxdWVzdGlvbl9icmlkZ2VgIOWtl+auteW9k+WJjeacquiiq+S7o+eggeivu+WPlioq77ya5pys5qyh5LuF5L2c5Li6IG1ldGFkYXRhIC8g5pyq5p2l6ZKp5a2Q5YaZ5YWl77yMKirnnJ/lrp7jgIznlKjmiLflj6Por63ihpLnu4/lhbjjgI3kuLvliqjmmKDlsITpnIDnu5kgYGxleGljYWxTY29yZWAg5Yqg57qmIDYg6KGM6K+75Y+W6YC76L6R77yI5bGe5pS55Luj56CB77yM5pys6Zi25q615LuF5oql5ZGK77yM5pyq5YGa77yJKirjgIIKNC4gKirlj6PlvoTlt67lvIIqKu+8muemu+e6v+mihOa1i+WfuuS6juOAjOajgOe0oiB0b3Az44CN77yM5LiO55yf5a6e44CM5Zue562U5pyA57uI5byV55So44CN5Y+j5b6E5LiN5ZCM77yb5pyA57uI5Lul55yf5py66LeRIDUwIOadoeWbnuW9kua1i+ivleWbnuWhqyBgYWN0dWFsX2Jvb2tzYCDkuLrlh4bjgIIKNS4gKirpg6jnvbLliY3nva4qKu+8mmBjb3JwdXMuanNvbmAgKyBgcmFnLmpzYCDmlLnliqgqKumcgOmHjeaWsOS4iuS8oCBjaGF0IOS6keWHveaVsCoq5pa555Sf5pWI77yI6Z2e5Luj56CB6YC76L6R5Y+Y5pu077yM5L2G6ZyA6YeN5paw6YOo572y77yJ44CCCgotLS0KCiMjIDYuIOS4i+S4gOmYtuauteW7uuiuru+8iFBoYXNlIEctMu+8iQoKMS4gKirnnJ/mnLrpqozor4EqKu+8mumHjeaWsOmDqOe9siBjaGF0IOS6keWHveaVsCDihpIg6YCQ5p2h6LeRIGBwaGFzZS1nLXJlZ3Jlc3Npb24tdGVzdC5qc29uYCDihpIg5Zue5aGrIGBhY3R1YWxfYm9va3NgIOKGkiDmoLjlr7novr7moIfnur/vvIhUb3AzIOKJpCA2MCUgLyDnlLPovqnnr4cg4omlIDE1IC8g5a2f5a2QIOKJpSAxNSAvIOWkp+WtpiDiiaUgMTIgLyDkuK3lurgg4omlIDEw77yJ44CCCjIuICoqcXVlc3Rpb25fYnJpZGdlIOS4u+WKqOivu+WPluivhOS8sCoq77ya6Iul6ZW/5bC+5LuN5pyJ44CM55So5oi35o6q6L6e5a6M5YWo5rKh5Ye6546w6L+H55qE44CN5ryP5Y+s5Zue77yMRy0yIOivhOS8sOe7mSBgbGV4aWNhbFNjb3JlYCDliqAgYHF1ZXN0aW9uX2JyaWRnZS51c2VyX3BocmFzZXNgIOivu+WPlu+8iOS7o+eggeaUueWKqCArIOivhOWuoSArIOmHjemDqOe9su+8ieOAggozLiAqKuWkp+Wtpui/h+aLn+WQiOW+ruiwgyoq77ya5aaC55yf5py65pi+56S65aSn5a2m5Y2g5q+UID4gMzAl77yM5Zue5pS25YW26YOo5YiG6YCa55So5qCH562+5oiW56e75Ye66Z2e5aWR5ZCI5bin44CCCjQuICoq6LWE5Lqn5bGC5omp5YWF77yI6ZW/5pyf77yJKirvvJrlvZPliY3plb/lsL7kuablkITku4UgMSBjaHVua++8jOS7juOAjOmFjee9ruaKrOWNh+OAjei1sOWQkeOAjOi1hOS6p+aJqeWFheOAjeKAlOKAlOS4uueUs+i+qeevhy/lrZ/lrZAv5aSn5a2mL+S4reW6uOihpeWFheabtOWkmiBjaHVua++8jOS7juagueacrOS4iuaPkOWNh+WPrOWbnui0qOmHj+S4juWkmuagt+aAp+OAggoKLS0tCgojIyDpmYTvvJpnaXQgZGlmZiAtLXN0YXTvvIjlvoXnoa7orqTvvIzmnKrmj5DkuqTvvIkKCmBgYAogd2VhcHAvY2xvdWRmdW5jdGlvbnMvY2hhdC9jb3JwdXMuanNvbiB8ICA4ICsrKystLS0tCiB3ZWFwcC9jbG91ZGZ1bmN0aW9ucy9jaGF0L3JhZy5qcyAgICAgIHwgMTUgKysrKysrKysrKystLS0tCiAyIGZpbGVzIGNoYW5nZWQsIDE1IGluc2VydGlvbnMoKyksIDggZGVsZXRpb25zKC0pCmBgYAoK5paw5aKe77yI5pyq6L+96Liq77yJ77yaYGRvY3MvMjYtUGhhc2VH5Y+s5Zue5YGl5bq35oyH5qCHLm1kYOOAgWBkb2NzLzI3LVBoYXNlR+S4ieS7tuWll+WPrOWbnuWIhuaekC5tZGDjgIFgcGhhc2UtZy1yZWdyZXNzaW9uLXRlc3QuanNvbmDjgIIK
+﻿# Phase G 第一阶段报告：RAG 经典召回优化
+
+> 日期：2026-07-28 ｜ 阶段：Phase G（召回健康化）第一阶段
+> 目标：打破「三件套（论语/道德经/沉思录）」垄断，抬升长尾（申辩篇/孟子/大学/中庸），Top3 三件套引用占比 84.7% → ≤ 60%。
+> 执行原则遵守：未改业务代码逻辑 / 前端页面 / 回答 Prompt 主结构；未重新 ingest；未删知识资产。
+
+---
+
+## 1. 修改文件列表
+
+| 文件 | 类型 | 改动性质 | 是否改代码逻辑 |
+|---|---|---|---|
+| `weapp/cloudfunctions/chat/corpus.json` | 改 | 申辩篇/孟子/大学/中庸 4 本书扩 `tags`（概念层，对齐用户口语）+ 新增 `question_bridge` 元数据字段 | 否（tags 已被 lexicalScore 读取，立即生效） |
+| `weapp/cloudfunctions/chat/rag.js` | 改 | `frameTitles` 配置优化：申辩篇加入 investigation/contradiction/longTerm/general 四帧；孟子/大学/中庸补入 general 帧 | **仅改配置值，未改打分公式/逻辑**（属「retrieval 配置优化」） |
+| `weapp/docs/26-PhaseG召回健康指标.md` | 新增 | 只读分析：召回排行 / 长尾覆盖 / Top3 集中度 / 目标 / 离线预测 | 否 |
+| `weapp/docs/27-PhaseG三件套召回分析.md` | 新增 | 根因分析：frameTitles 偏置 / tag 过宽 / TF 向量偏向 / question_bridge 未实现 | 否 |
+| `weapp/phase-g-regression-test.json` | 新增 | 50 条回归测试规格（申辩篇15/孟子10/大学10/中庸5/跨派系10） | 否 |
+
+> ⚠️ `rag.js` 改动触碰了云函数文件，但仅调整 `frameTitles` 这一**配置表的值**（打分公式、tokenize、retrieve 控制流均未动），属用户许可的「retrieval 配置优化」。该改动已通过 `git diff` 完整呈现，用户可审阅或回退。
+
+---
+
+## 2. 没有修改文件列表（保持冻结）
+
+- **前端页面**（`pages/` 全部）：未动。
+- **其他云函数**：`login / history / admin / feedback / stats / insights / models`：未动。
+- **回答 Prompt 主结构**：`ROLE_PROMPT` / `outputContract` / 五段式顺序：未动。
+- **检索算法逻辑**：`generateAnswer` / `retrieve` / `legacyRetrieve` / `lexicalScore` 函数体：未动。
+- **知识库重 ingest**：未执行；`corpus.json` 仅就地做 metadata 优化。
+- **知识资产删除**：零删除。
+
+---
+
+## 3. 召回变化预测（离线验证）
+
+方法：直接用 `rag.js` 的 `legacyRetrieve(top3)` 离线重跑（无需云环境），对原 100 条 Phase F 问题统计 top3 分布，并对 5 个申辩篇示例 / 孟子代表问做定向验证。
+
+| 指标 | 基线 | 预测（Phase G 后） | 是否达标 |
+|---|---:|---:|---|
+| **Top3 三件套引用占比** | 84.7% | **50.7%** | ✅ ≤ 60% |
+| 柏拉图《申辩篇》 | 0% | **6.3%**（0→有） | ✅ 专项题待真机补确认 |
+| 孟子 | 1.7% | 4.7%（检索）+ 用户列 8 代表问全召回 | ✅ |
+| 大学 | 1.3% | 23.3% | ⚠️ 提升最大，列为观察项 |
+| 中庸 | 2.3% | 6.7% | ✅ |
+| 论语 | 28.3% | 26.0% | ✅ 稳定 |
+| 道德经 | 27.3% | 18.0% | ✅ 稳定 |
+| 沉思录 | 29.0% | 6.7% | ✅ 稳定（未塌方，典型问题仍召回） |
+
+**定向验证（离线均通过）：**
+- 申辩篇 5 示例（苏格拉底之死 / 坚持原则 / 真理vs多数 / 面对误解 / 接受审判）→ 全部 #1 召回。
+- 孟子 8 代表问（坚持原则 / 成为更好的人 / 做不到 / 提升自己 / 诱惑 / 随波逐流 等）→ 全部召回孟子。
+- 三件套稳定性检查（内耗→道德经、学了总忘→论语、工作压力大→沉思录、生活没意思→三件套）→ 仍正常召回。
+
+---
+
+## 4. 新增测试数量
+
+**50 条**（`phase-g-regression-test.json`），分布：
+
+| 分组 | 条数 | 目的 |
+|---|---:|---|
+| 申辩篇专项 | 15 | 验证 0→有 的最高考验 |
+| 孟子 | 10 | 验证概念层标签覆盖 |
+| 大学 | 10 | 验证修身/自律类召回 |
+| 中庸 | 5 | 验证情绪平衡类召回 |
+| 跨派系 | 10 | 验证多传统协同、防新垄断 |
+
+格式对齐 `phase-f-100-test.json`（`_meta` + `records[]`）；`actual_books` 等字段留空，待**重新部署 chat 云函数后真机逐条跑通回填**。
+
+---
+
+## 5. 风险分析
+
+1. **大学预测占比偏高（23.3%）**：其标签（成长/自律/提升自己/进步）覆盖通用成长类问题较多，可能在新桶里略偏多。已在 docs/26 列为观察项，G-2 若确认过度则微调大学 tag 或移出部分非契合帧。
+2. **`frameTitles` 触碰 rag.js 文件**：虽为配置优化（允许），但仍在云函数内。已用 `git diff` 透明呈现；如用户认为越界，可仅保留 corpus.json 的 tags 改动（孟子/大学/中庸仍提升），申辩篇 部分则需改回或转 G-2 代码方案。
+3. **`question_bridge` 字段当前未被代码读取**：本次仅作为 metadata / 未来钩子写入，**真实「用户口语→经典」主动映射需给 `lexicalScore` 加约 6 行读取逻辑（属改代码，本阶段仅报告，未做）**。
+4. **口径差异**：离线预测基于「检索 top3」，与真实「回答最终引用」口径不同；最终以真机跑 50 条回归测试回填 `actual_books` 为准。
+5. **部署前置**：`corpus.json` + `rag.js` 改动**需重新上传 chat 云函数**方生效（非代码逻辑变更，但需重新部署）。
+
+---
+
+## 6. 下一阶段建议（Phase G-2）
+
+1. **真机验证**：重新部署 chat 云函数 → 逐条跑 `phase-g-regression-test.json` → 回填 `actual_books` → 核对达标线（Top3 ≤ 60% / 申辩篇 ≥ 15 / 孟子 ≥ 15 / 大学 ≥ 12 / 中庸 ≥ 10）。
+2. **question_bridge 主动读取评估**：若长尾仍有「用户措辞完全没出现过的」漏召回，G-2 评估给 `lexicalScore` 加 `question_bridge.user_phrases` 读取（代码改动 + 评审 + 重部署）。
+3. **大学过拟合微调**：如真机显示大学占比 > 30%，回收其部分通用标签或移出非契合帧。
+4. **资产层扩充（长期）**：当前长尾书各仅 1 chunk，从「配置抬升」走向「资产扩充」——为申辩篇/孟子/大学/中庸补充更多 chunk，从根本上提升召回质量与多样性。
+
+---
+
+## 附：git diff --stat（待确认，未提交）
+
+```
+ weapp/cloudfunctions/chat/corpus.json |  8 ++++----
+ weapp/cloudfunctions/chat/rag.js      | 15 +++++++++++----
+ 2 files changed, 15 insertions(+), 8 deletions(-)
+```
+
+新增（未追踪）：`docs/26-PhaseG召回健康指标.md`、`docs/27-PhaseG三件套召回分析.md`、`phase-g-regression-test.json`。

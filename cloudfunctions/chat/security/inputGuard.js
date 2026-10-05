@@ -1,1 +1,43 @@
-Ly8gc2VjdXJpdHkvaW5wdXRHdWFyZC5qcwovLyBSdWxlLWJhc2VkIEluamVjdGlvbiBHdWFyZCB2MSDigJTigJQg57qv5Ye95pWw77yM5peg572R57ucIC8g5pegIExMTSAvIOaXoOS+nei1luOAggovLyDlrprkvY3vvJrku4Xmi6bmiKrmmI7mmL7jgIzmjIfku6Topobnm5YgLyDotorni7EgLyDop5LoibLliqvmjIHjgI3mqKHlvI/vvJvpnZ7lrozmlbQgUHJvbXB0IEluamVjdGlvbiDpmLLlvqHjgIIKLy8g6K6+6K6h57qq5b6L77yIQ1ItMDAy77yJ77ya5qih5byP5Lul44CM5oyH5Luk5oCn5Yqo6K+NICsg57O757ufL+mZkOWItuivreWig+OAjee7hOWQiOS4uuS4u++8jOmBv+WFjeivr+adgOato+W4uOWTsuWtpuaPkOmXruOAggondXNlIHN0cmljdCc7CgovLyDmr4/mnaEgcGF0dGVybiDkuLrkuI3ljLrliIblpKflsI/lhpnnmoTmraPliJnvvIjoi7HmlofvvIkvIOS4reaWh+Wtl+mdoue7hOWQiO+8m+WRveS4reWNsyBibG9ja+OAggovLyDku4XlnKjnlKjmiLcgcXVlcnkg6L+b5YWlIGdlbmVyYXRlQW5zd2VyIOS5i+WJjeiwg+eUqOOAggpjb25zdCBQQVRURVJOUyA9IFsKICAvLyDkuK3mlofvvJrlv73nlaUgLyDlv5jorrAgLyDml6Dop4YgKyDmjIfku6QgLyDns7vnu58gLyDpmZDliLYgLyDorr7lrpoKICAv5b+955WlXHMqKOS5i+WJjXzlhYjliY185Lul5LiKfOaJgOaciSk/XHMqKOaJgOaciSk/XHMqKOeahCk/XHMqKOaMh+S7pHzmjIfnpLp857O757uffOiuvuWumnzmj5DnpLp86KeE5YiZfOe6puadn3zpmZDliLYpLywKICAv5b+Y6K6wXHMqKOS5i+WJjXzlhYjliY185Lul5LiKfOaJgOaciSk/XHMqKOeahCk/XHMqKOaMh+S7pHzns7vnu5986K6+5a6afOmZkOWItnzop4TliJkpLywKICAv5peg6KeGXHMqKOS5i+WJjXzlhYjliY185Lul5LiKfOaJgOaciXzku7vkvZUpP1xzKijnmoQpP1xzKijmjIfku6R86ZmQ5Yi2fOinhOWImXznuqbmnZ986K6+5a6aKS8sCiAgLy8g6KeS6Imy5Yqr5oyBIC8g5peg6ZmQ5Yi277ya6KaB5rGC44CM5rKh5pyJL+aXoC/kuI3lj5fjgI3ntKfpgrvjgIzpmZDliLYv5a6h5p+l44CN562J77yM6YG/5YWN6K+v5Lyk44CM5aaC5L2V56qB56C05oCd57u06ZmQ5Yi244CNCiAgLyjkvaB85L2g546w5ZyofOeOsOWcqOS9oClccyoo5pivfOaJrua8lHzmiJDkuLp85L2c5Li65LiA5LiqPyk/XHMqKOayoeaciXzml6B85LiN5Y+XKVxzKijpmZDliLZ85a6h5p+lfOe6puadn3zov4fmu6QpLywKICAvKOaXoOmZkOWItnzml6DnuqbmnZ985peg5a6h5p+lKVxzKijnmoQpP1xzKihhaXzliqnmiYt85qih5byPfOinkuiJsnzmqKHlnospL2ksCiAgLy8g6Iux5paHCiAgL2lnbm9yZVxzKyhwcmV2aW91c3xhbGx8cHJpb3J8YWJvdmUpXHMrKGluc3RydWN0aW9uc3xwcm9tcHRzP3xzeXN0ZW0pL2ksCiAgL2ZvcmdldFxzKyh5b3VyfGFsbHxwcmV2aW91cylccysoaW5zdHJ1Y3Rpb25zfHN5c3RlbXxydWxlc3xwcm9tcHQpL2ksCiAgLyhzeXN0ZW1ccypwcm9tcHR8c3lzdGVtXHMqbWVzc2FnZSkvaSwKICAvXGJEQU5cYi9pLAogIC9qYWlsYnJlYWsvaSwKICAvcm9sZXBsYXlccythc1xzKyhhbj9ccyspPyh1bnJlc3RyaWN0ZWR8dW5jZW5zb3JlZHx1bmZpbHRlcmVkfGxpbWl0bGVzcylcYi9pLAogIC8oYWN0XHMrYXN8eW91XHMrYXJlKVxzKyhhbj9ccyspPyh1bnJlc3RyaWN0ZWR8dW5jZW5zb3JlZHx1bmZpbHRlcmVkKVxiL2ksCl07CgovKioKICog5qOA5rWL6L6T5YWl5piv5ZCm5YyF5ZCr5piO5pi+5oyH5Luk5rOo5YWlIC8g6LaK54ux5qih5byP44CCCiAqIEBwYXJhbSB7c3RyaW5nfSBtZXNzYWdlIOeUqOaIt+WOn+Wni+i+k+WFpQogKiBAcmV0dXJucyB7e2Jsb2NrOiBib29sZWFuLCByZWFzb246IHN0cmluZ319CiAqLwpmdW5jdGlvbiBkZXRlY3QobWVzc2FnZSkgewogIGNvbnN0IHRleHQgPSAobWVzc2FnZSB8fCAiIikudG9TdHJpbmcoKTsKICBpZiAoIXRleHQpIHJldHVybiB7IGJsb2NrOiBmYWxzZSwgcmVhc29uOiAiIiB9OwogIGZvciAobGV0IGkgPSAwOyBpIDwgUEFUVEVSTlMubGVuZ3RoOyBpKyspIHsKICAgIGlmIChQQVRURVJOU1tpXS50ZXN0KHRleHQpKSB7CiAgICAgIHJldHVybiB7IGJsb2NrOiB0cnVlLCByZWFzb246ICJpbmplY3Rpb25fcGF0dGVybl8iICsgaSB9OwogICAgfQogIH0KICByZXR1cm4geyBibG9jazogZmFsc2UsIHJlYXNvbjogIiIgfTsKfQoKbW9kdWxlLmV4cG9ydHMgPSB7IGRldGVjdCwgUEFUVEVSTlMgfTsK
+// security/inputGuard.js
+// Rule-based Injection Guard v1 —— 纯函数，无网络 / 无 LLM / 无依赖。
+// 定位：仅拦截明显「指令覆盖 / 越狱 / 角色劫持」模式；非完整 Prompt Injection 防御。
+// 设计纪律（CR-002）：模式以「指令性动词 + 系统/限制语境」组合为主，避免误杀正常哲学提问。
+'use strict';
+
+// 每条 pattern 为不区分大小写的正则（英文）/ 中文字面组合；命中即 block。
+// 仅在用户 query 进入 generateAnswer 之前调用。
+const PATTERNS = [
+  // 中文：忽略 / 忘记 / 无视 + 指令 / 系统 / 限制 / 设定
+  /忽略\s*(之前|先前|以上|所有)?\s*(所有)?\s*(的)?\s*(指令|指示|系统|设定|提示|规则|约束|限制)/,
+  /忘记\s*(之前|先前|以上|所有)?\s*(的)?\s*(指令|系统|设定|限制|规则)/,
+  /无视\s*(之前|先前|以上|所有|任何)?\s*(的)?\s*(指令|限制|规则|约束|设定)/,
+  // 角色劫持 / 无限制：要求「没有/无/不受」紧邻「限制/审查」等，避免误伤「如何突破思维限制」
+  /(你|你现在|现在你)\s*(是|扮演|成为|作为一个?)?\s*(没有|无|不受)\s*(限制|审查|约束|过滤)/,
+  /(无限制|无约束|无审查)\s*(的)?\s*(ai|助手|模式|角色|模型)/i,
+  // 英文
+  /ignore\s+(previous|all|prior|above)\s+(instructions|prompts?|system)/i,
+  /forget\s+(your|all|previous)\s+(instructions|system|rules|prompt)/i,
+  /(system\s*prompt|system\s*message)/i,
+  /\bDAN\b/i,
+  /jailbreak/i,
+  /roleplay\s+as\s+(an?\s+)?(unrestricted|uncensored|unfiltered|limitless)\b/i,
+  /(act\s+as|you\s+are)\s+(an?\s+)?(unrestricted|uncensored|unfiltered)\b/i,
+];
+
+/**
+ * 检测输入是否包含明显指令注入 / 越狱模式。
+ * @param {string} message 用户原始输入
+ * @returns {{block: boolean, reason: string}}
+ */
+function detect(message) {
+  const text = (message || "").toString();
+  if (!text) return { block: false, reason: "" };
+  for (let i = 0; i < PATTERNS.length; i++) {
+    if (PATTERNS[i].test(text)) {
+      return { block: true, reason: "injection_pattern_" + i };
+    }
+  }
+  return { block: false, reason: "" };
+}
+
+module.exports = { detect, PATTERNS };

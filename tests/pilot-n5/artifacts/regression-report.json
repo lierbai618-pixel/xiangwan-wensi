@@ -1,1 +1,90 @@
-ewogICJiYXNlbGluZSI6IHsKICAgICJiZWZvcmVfaGl0MyI6IDAuODIsCiAgICAiZmxhdF9hZnRlcl9oaXQzIjogMC43NCwKICAgICJyb3V0ZWRfaGl0MyI6IDAuODIsCiAgICAiZmxhdF9pbnRydXNpb25fcmF0ZSI6IDAuMjYsCiAgICAicm91dGVkX2ludHJ1c2lvbl9yYXRlIjogMCwKICAgICJkaXNwbGFjZWQiOiA0LAogICAgImRpc3BsYWNlZF9pZHMiOiBbCiAgICAgIDMsCiAgICAgIDgsCiAgICAgIDIwLAogICAgICA0OAogICAgXQogIH0sCiAgImJlbmNobWFyayI6IHsKICAgICJmbGF0X2hpdF9hdF8zIjogMSwKICAgICJyb3V0ZWRfaGl0X2F0XzMiOiAxLAogICAgImZsYXRfaGl0X2F0XzEiOiAxLAogICAgInJvdXRlZF9oaXRfYXRfMSI6IDEKICB9LAogICJwcm9kdWN0aW9uX3RmX2NoZWNrIjogewogICAgImZsYXRfaW50cnVzaW9uIjogNiwKICAgICJyb3V0ZWRfaW50cnVzaW9uIjogMCwKICAgICJ0b3RhbCI6IDUwCiAgfSwKICAiZGlzcGxhY2VkX2RldGFpbCI6IFsKICAgIHsKICAgICAgImlkIjogMywKICAgICAgInEiOiAi55yf55CG5ZKM5aSa5pWw5Lq655qE5oSP6KeB5Yay56qB5oCO5LmI5Yqe77yfIiwKICAgICAgImZsYXRfdG9wMyI6IFsKICAgICAgICAi56Gu6K6k5YGP5beu5qaC5b+15Y2hIiwKICAgICAgICAi56Gu6K6k5YGP5beu5qaC5b+15Y2hIiwKICAgICAgICAi5rKJ5oCd5b2VIgogICAgICBdLAogICAgICAicm91dGVkX3RvcDMiOiBbCiAgICAgICAgIuayieaAneW9lSIsCiAgICAgICAgIuafj+aLieWbvuOAiueUs+i+qeevh+OAiyIsCiAgICAgICAgIueIseavlOWFi+azsOW+t+OAiuaJi+WGjOOAiyIKICAgICAgXQogICAgfSwKICAgIHsKICAgICAgImlkIjogOCwKICAgICAgInEiOiAi5aSn5a626YO95Y+N5a+55oiR77yM5piv5LiN5piv5oiR6ZSZ5LqG77yfIiwKICAgICAgImZsYXRfdG9wMyI6IFsKICAgICAgICAi56Gu6K6k5YGP5beu5qaC5b+15Y2hIiwKICAgICAgICAi56Gu6K6k5YGP5beu5qaC5b+15Y2hIiwKICAgICAgICAi54ix5q+U5YWL5rOw5b6344CK5omL5YaM44CLIgogICAgICBdLAogICAgICAicm91dGVkX3RvcDMiOiBbCiAgICAgICAgIueIseavlOWFi+azsOW+t+OAiuaJi+WGjOOAiyIsCiAgICAgICAgIuayieaAneW9lSIsCiAgICAgICAgIuafj+aLieWbvuOAiueUs+i+qeevh+OAiyIKICAgICAgXQogICAgfSwKICAgIHsKICAgICAgImlkIjogMjAsCiAgICAgICJxIjogIuWmguS9lemdouWvueivseaDke+8nyIsCiAgICAgICJmbGF0X3RvcDMiOiBbCiAgICAgICAgIuayieaAneW9lSIsCiAgICAgICAgIueIseavlOWFi+azsOW+t+OAiuaJi+WGjOOAiyIsCiAgICAgICAgIuehruiupOWBj+W3ruamguW/teWNoSIKICAgICAgXSwKICAgICAgInJvdXRlZF90b3AzIjogWwogICAgICAgICLmsonmgJ3lvZUiLAogICAgICAgICLniLHmr5TlhYvms7DlvrfjgIrmiYvlhozjgIsiLAogICAgICAgICLlrZ/lrZAiCiAgICAgIF0KICAgIH0sCiAgICB7CiAgICAgICJpZCI6IDQ4LAogICAgICAicSI6ICLmnIvlj4vniq/kuobplJnvvIzmiJHopoHkuI3opoHmjIflh7rvvJ8iLAogICAgICAiZmxhdF90b3AzIjogWwogICAgICAgICLnoa7orqTlgY/lt67mpoLlv7XljaEiLAogICAgICAgICLnoa7orqTlgY/lt67mpoLlv7XljaEiLAogICAgICAgICLnoa7orqTlgY/lt67mpoLlv7XljaEiCiAgICAgIF0sCiAgICAgICJyb3V0ZWRfdG9wMyI6IFsKICAgICAgICAi5p+P5ouJ5Zu+44CK55Sz6L6p56+H44CLIiwKICAgICAgICAi5rKJ5oCd5b2VIiwKICAgICAgICAi6K666K+tIgogICAgICBdCiAgICB9CiAgXSwKICAiYWNjZXB0YW5jZSI6IHsKICAgICJjbGFzc2ljX2hpdDNfZ2VfMDgyIjogdHJ1ZSwKICAgICJjb25jZXB0X2ludHJ1c2lvbl9lcV8wIjogdHJ1ZSwKICAgICJiZW5jaG1hcmtfaGl0M19nZV8wOTUiOiB0cnVlCiAgfQp9
+{
+  "baseline": {
+    "before_hit3": 0.82,
+    "flat_after_hit3": 0.74,
+    "routed_hit3": 0.82,
+    "flat_intrusion_rate": 0.26,
+    "routed_intrusion_rate": 0,
+    "displaced": 4,
+    "displaced_ids": [
+      3,
+      8,
+      20,
+      48
+    ]
+  },
+  "benchmark": {
+    "flat_hit_at_3": 1,
+    "routed_hit_at_3": 1,
+    "flat_hit_at_1": 1,
+    "routed_hit_at_1": 1
+  },
+  "production_tf_check": {
+    "flat_intrusion": 6,
+    "routed_intrusion": 0,
+    "total": 50
+  },
+  "displaced_detail": [
+    {
+      "id": 3,
+      "q": "真理和多数人的意见冲突怎么办？",
+      "flat_top3": [
+        "确认偏差概念卡",
+        "确认偏差概念卡",
+        "沉思录"
+      ],
+      "routed_top3": [
+        "沉思录",
+        "柏拉图《申辩篇》",
+        "爱比克泰德《手册》"
+      ]
+    },
+    {
+      "id": 8,
+      "q": "大家都反对我，是不是我错了？",
+      "flat_top3": [
+        "确认偏差概念卡",
+        "确认偏差概念卡",
+        "爱比克泰德《手册》"
+      ],
+      "routed_top3": [
+        "爱比克泰德《手册》",
+        "沉思录",
+        "柏拉图《申辩篇》"
+      ]
+    },
+    {
+      "id": 20,
+      "q": "如何面对诱惑？",
+      "flat_top3": [
+        "沉思录",
+        "爱比克泰德《手册》",
+        "确认偏差概念卡"
+      ],
+      "routed_top3": [
+        "沉思录",
+        "爱比克泰德《手册》",
+        "孟子"
+      ]
+    },
+    {
+      "id": 48,
+      "q": "朋友犯了错，我要不要指出？",
+      "flat_top3": [
+        "确认偏差概念卡",
+        "确认偏差概念卡",
+        "确认偏差概念卡"
+      ],
+      "routed_top3": [
+        "柏拉图《申辩篇》",
+        "沉思录",
+        "论语"
+      ]
+    }
+  ],
+  "acceptance": {
+    "classic_hit3_ge_082": true,
+    "concept_intrusion_eq_0": true,
+    "benchmark_hit3_ge_095": true
+  }
+}

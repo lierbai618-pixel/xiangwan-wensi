@@ -1,1 +1,31 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0NCmltcG9ydCB1cmxsaWIucmVxdWVzdA0KaW1wb3J0IGpzb24NCmltcG9ydCBzc2wNCg0KQkFTRSA9ICJodHRwczovL2h1YndheS5jYy92MSINCktFWSA9ICJzay1ZT1VSX0FQSV9LRVlfSEVSRSINCg0KY3R4ID0gc3NsLmNyZWF0ZV9kZWZhdWx0X2NvbnRleHQoKQ0KY3R4LmNoZWNrX2hvc3RuYW1lID0gRmFsc2UNCmN0eC52ZXJpZnlfbW9kZSA9IHNzbC5DRVJUX05PTkUNCg0KZGVmIHJlcShtZXRob2QsIHBhdGgsIGJvZHk9Tm9uZSk6DQogICAgdXJsID0gQkFTRSArIHBhdGgNCiAgICBkYXRhID0ganNvbi5kdW1wcyhib2R5KS5lbmNvZGUoInV0Zi04IikgaWYgYm9keSBpcyBub3QgTm9uZSBlbHNlIE5vbmUNCiAgICByID0gdXJsbGliLnJlcXVlc3QuUmVxdWVzdCh1cmwsIGRhdGE9ZGF0YSwgbWV0aG9kPW1ldGhvZCkNCiAgICByLmFkZF9oZWFkZXIoIkF1dGhvcml6YXRpb24iLCAiQmVhcmVyICIgKyBLRVkpDQogICAgci5hZGRfaGVhZGVyKCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbjsgY2hhcnNldD11dGYtOCIpDQogICAgdHJ5Og0KICAgICAgICB3aXRoIHVybGxpYi5yZXF1ZXN0LnVybG9wZW4ociwgdGltZW91dD0zMCwgY29udGV4dD1jdHgpIGFzIHJlc3A6DQogICAgICAgICAgICByYXcgPSByZXNwLnJlYWQoKS5kZWNvZGUoInV0Zi04IiwgInJlcGxhY2UiKQ0KICAgICAgICAgICAgcmV0dXJuIHJlc3Auc3RhdHVzLCByYXcNCiAgICBleGNlcHQgdXJsbGliLmVycm9yLkhUVFBFcnJvciBhcyBlOg0KICAgICAgICByZXR1cm4gZS5jb2RlLCBlLnJlYWQoKS5kZWNvZGUoInV0Zi04IiwgInJlcGxhY2UiKQ0KICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToNCiAgICAgICAgcmV0dXJuIC0xLCBzdHIoZSkNCg0KcHJpbnQoIj09PSAvdjEvbW9kZWxzID09PSIpDQpzLCBiID0gcmVxKCJHRVQiLCAiL21vZGVscyIpDQpwcmludCgiU1RBVFVTIiwgcykNCnByaW50KGJbOjIwMDBdKQ0K
+# -*- coding: utf-8 -*-
+import urllib.request
+import json
+import ssl
+
+BASE = "https://hubway.cc/v1"
+KEY = "sk-YOUR_API_KEY_HERE"
+
+ctx = ssl.create_default_context()
+ctx.check_hostname = False
+ctx.verify_mode = ssl.CERT_NONE
+
+def req(method, path, body=None):
+    url = BASE + path
+    data = json.dumps(body).encode("utf-8") if body is not None else None
+    r = urllib.request.Request(url, data=data, method=method)
+    r.add_header("Authorization", "Bearer " + KEY)
+    r.add_header("Content-Type", "application/json; charset=utf-8")
+    try:
+        with urllib.request.urlopen(r, timeout=30, context=ctx) as resp:
+            raw = resp.read().decode("utf-8", "replace")
+            return resp.status, raw
+    except urllib.error.HTTPError as e:
+        return e.code, e.read().decode("utf-8", "replace")
+    except Exception as e:
+        return -1, str(e)
+
+print("=== /v1/models ===")
+s, b = req("GET", "/models")
+print("STATUS", s)
+print(b[:2000])

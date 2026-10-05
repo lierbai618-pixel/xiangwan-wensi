@@ -1,1 +1,203 @@
-Ly8gcGVyc29uYUdlbi5qcyDigJTigJQg5YWI6LSk6KeG6KeSIC8g6IuP5qC85ouJ5bqV6L+96ZeuIOeahOOAjOS6uuagvOe6r+eUn+aIkOOAjeWxguOAggovLyAgIOiuvuiuoeWOn+WIme+8mgovLyAgIMK3IOWkjeeUqOWQjuWPsCBtb2RlbF9jb25maWcg5LitIG9yZGVyIOacgOWwj+eahOOAjOWvueivneaooeWei+OAje+8iOS4jiByYWcuanMgZ2VuZXJhdGVBbnN3ZXIg5ZCM5qih5Z6L77yMCi8vICAgICDlrp7mtYsgfjhzIOWPr+i+vu+8ie+8jOWPquaKiiBzeXN0ZW0gcHJvbXB0IOaNouaIkOS6uuagvOWPo+WQu++8jOS4jeinpueisOWGu+e7k+i1hOS6pyByYWcuanPjgIIKLy8gICDCtyDkuI3ogZTnvZHvvIhuZXR3b3JrTmVlZGVkPWZhbHNl77yJ77yM57qv5Lq65qC86KGo6L6+77yM5pyA5b+r5LiU5LiN6KKr6IGU572R5Zmq6Z+z5rGh5p+T44CCCi8vICAgwrcgTm9kZTE2IOWOn+eUnyBodHRwc++8jOaXoOWOn+eUnyBmZXRjaCDkvp3otZbvvIjkuI7pobnnm67lhbbkvZnmqKHlnZfkuIDoh7TvvInjgIIKLy8gICDCtyBmYWlsLXNvZnTvvJrku7vkvZXlvILluLjlkJHkuIrmipvlh7rvvIznlLEgaW5kZXguanMg5Zue6YCA5bi46KeE6ZO+6Lev77yI5LuN57uZ562U5qGI77yM5LuF5peg5Lq65qC877yJ44CCCgpmdW5jdGlvbiBfcG9zdEpzb24oYmFzZVVSTCwgYXBpS2V5LCBtb2RlbCwgc3lzdGVtQ29udGVudCwgdXNlckNvbnRlbnQsIHRpbWVvdXRNcykgewogIHJldHVybiBuZXcgUHJvbWlzZShmdW5jdGlvbiAocmVzb2x2ZSwgcmVqZWN0KSB7CiAgICB2YXIgdXJsOwogICAgdHJ5IHsgdXJsID0gbmV3IChyZXF1aXJlKCd1cmwnKS5VUkwpKGJhc2VVUkwpOyB9IGNhdGNoIChlKSB7IHJlamVjdChuZXcgRXJyb3IoJ2JhZCBiYXNlVVJMJykpOyByZXR1cm47IH0KICAgIC8vIDIwMjYtMDktMjEgQ1It5qih5Z6L5LiJ5bGC6YWN572u77yaZGVlcHNlZWsg57O75Li65oCd6ICD5Z6L5qih5Z6L77yM5LiN5YWz5oCd6ICD5Lya5YWI5ZCQIHJlYXNvbmluZ19jb250ZW50CiAgICAvLyAgIOaKiiBtYXhfdG9rZW5zIOWQg+WFie+8jOWvvOiHtCBjb250ZW50IOS4uuepuu+8iOWunua1i+m7mOiupOWPguaVsOS4iyAwIOWtl+OAgWZpbmlzaF9yZWFzb249bGVuZ3Ro77yJ44CCCiAgICAvLyAgIOS7heWvuSBkZWVwc2Vlay12NCDliY3nvIDms6jlhaXvvJtxd2VuIOezu+W3suWunua1i+WFvOWuueivpeWPguaVsO+8iDQvNCDml6AgNDAw77yJ77yMYWduZXMg6YCa6YGT5LiN5Y+X5b2x5ZON44CCCiAgICB2YXIgcGF5bG9hZCA9IHsKICAgICAgbW9kZWw6IG1vZGVsLAogICAgICBtZXNzYWdlczogWwogICAgICAgIHsgcm9sZTogJ3N5c3RlbScsIGNvbnRlbnQ6IHN5c3RlbUNvbnRlbnQgfSwKICAgICAgICB7IHJvbGU6ICd1c2VyJywgY29udGVudDogdXNlckNvbnRlbnQgfQogICAgICBdLAogICAgICBzdHJlYW06IGZhbHNlLAogICAgICBtYXhfdG9rZW5zOiAxMDI0CiAgICB9OwogICAgaWYgKC9eZGVlcHNlZWstdjQvaS50ZXN0KG1vZGVsKSB8fCBwcm9jZXNzLmVudi5HRU5fRElTQUJMRV9USElOS0lORyA9PT0gJ3RydWUnKSB7CiAgICAgIHBheWxvYWQuZW5hYmxlX3RoaW5raW5nID0gZmFsc2U7CiAgICB9CiAgICB2YXIgYm9keSA9IEpTT04uc3RyaW5naWZ5KHBheWxvYWQpOwogICAgdmFyIHJlcU9wdHMgPSB7CiAgICAgIGhvc3RuYW1lOiB1cmwuaG9zdG5hbWUsCiAgICAgIHBvcnQ6IHVybC5wb3J0IHx8ICh1cmwucHJvdG9jb2wgPT09ICdodHRwczonID8gNDQzIDogODApLAogICAgICBwYXRoOiB1cmwucGF0aG5hbWUgKyAodXJsLnNlYXJjaCB8fCAnJyksCiAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICBoZWFkZXJzOiB7CiAgICAgICAgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJywKICAgICAgICAnQWNjZXB0JzogJ2FwcGxpY2F0aW9uL2pzb24nLAogICAgICAgICdBdXRob3JpemF0aW9uJzogJ0JlYXJlciAnICsgKGFwaUtleSB8fCAnJykKICAgICAgfSwKICAgICAgdGltZW91dDogdGltZW91dE1zIHx8IDIwMDAwCiAgICB9OwogICAgdmFyIG1vZCA9IHVybC5wcm90b2NvbCA9PT0gJ2h0dHBzOicgPyByZXF1aXJlKCdodHRwcycpIDogcmVxdWlyZSgnaHR0cCcpOwogICAgdmFyIHJlcSA9IG1vZC5yZXF1ZXN0KHJlcU9wdHMsIGZ1bmN0aW9uIChyZXMpIHsKICAgICAgdmFyIGNodW5rcyA9IFtdOwogICAgICByZXMub24oJ2RhdGEnLCBmdW5jdGlvbiAoYykgeyBjaHVua3MucHVzaChjKTsgfSk7CiAgICAgIHJlcy5vbignZW5kJywgZnVuY3Rpb24gKCkgewogICAgICAgIHZhciBidWYgPSBCdWZmZXIuY29uY2F0KGNodW5rcykudG9TdHJpbmcoKTsKICAgICAgICBpZiAocmVzLnN0YXR1c0NvZGUgPCAyMDAgfHwgcmVzLnN0YXR1c0NvZGUgPj0gMzAwKSB7CiAgICAgICAgICByZWplY3QobmV3IEVycm9yKCdIVFRQXycgKyByZXMuc3RhdHVzQ29kZSArICcgJyArIGJ1Zi5zbGljZSgwLCAxMjApKSk7CiAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIHRyeSB7CiAgICAgICAgICB2YXIgZGF0YSA9IEpTT04ucGFyc2UoYnVmKTsKICAgICAgICAgIC8vIE9wZW5BSSDlhbzlrrnvvJpjaG9pY2VzWzBdLm1lc3NhZ2UuY29udGVudAogICAgICAgICAgdmFyIGNvbnRlbnQgPSBkYXRhICYmIGRhdGEuY2hvaWNlcyAmJiBkYXRhLmNob2ljZXNbMF0gJiYgZGF0YS5jaG9pY2VzWzBdLm1lc3NhZ2UKICAgICAgICAgICAgPyBkYXRhLmNob2ljZXNbMF0ubWVzc2FnZS5jb250ZW50CiAgICAgICAgICAgIDogKGRhdGEgJiYgZGF0YS5vdXRwdXQgJiYgZGF0YS5vdXRwdXQudGV4dCA/IGRhdGEub3V0cHV0LnRleHQgOiAnJyk7CiAgICAgICAgICBpZiAoIWNvbnRlbnQpIHsgcmVqZWN0KG5ldyBFcnJvcignZW1wdHlfY29udGVudCcpKTsgcmV0dXJuOyB9CiAgICAgICAgICByZXNvbHZlKGNvbnRlbnQudG9TdHJpbmcoKS50cmltKCkpOwogICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgIHJlamVjdChuZXcgRXJyb3IoJ3BhcnNlX2Vycm9yICcgKyBidWYuc2xpY2UoMCwgMTIwKSkpOwogICAgICAgIH0KICAgICAgfSk7CiAgICB9KTsKICAgIHJlcS5vbignZXJyb3InLCBmdW5jdGlvbiAoZSkgeyByZWplY3QoZSk7IH0pOwogICAgcmVxLm9uKCd0aW1lb3V0JywgZnVuY3Rpb24gKCkgeyByZXEuZGVzdHJveSgpOyByZWplY3QobmV3IEVycm9yKCd0aW1lb3V0JykpOyB9KTsKICAgIHJlcS53cml0ZShib2R5KTsKICAgIHJlcS5lbmQoKTsKICB9KTsKfQoKLyoqCiAqIOeUn+aIkOS6uuagvOWbnuetlOOAguaUr+aMgeWkmuaooeWei+WFnOW6le+8mm1vZGVsQ2ZnIOWPr+S4uuWNleadoemFjee9ruaIlumFjee9ruaVsOe7hO+8jAogKiDmjInpobrluo/pgJDmqKHlnovlsJ3or5XvvIzmiJDlip/ljbPov5Tlm57vvJvlhajpg6jlpLHotKXmipvlh7rmnIDlkI7nmoTplJnor6/vvIjnlLEgaW5kZXguanMg5Zue6YCA5bi46KeE6ZO+6Lev77yJ44CCCiAqIOS4juWGu+e7kyByYWcuanMg55qEIHRyeU1vZGVsQW5zd2VyIOWFnOW6leivreS5ieS/neaMgeS4gOiHtOOAggogKiBAcGFyYW0ge09iamVjdHxBcnJheX0gbW9kZWxDZmcgIG1vZGVsX2NvbmZpZyDmnaHnm64geyBiYXNlVVJMLCBhcGlLZXksIG1vZGVsLCB0aW1lb3V0IH0g5oiW5pWw57uECiAqIEBwYXJhbSB7c3RyaW5nfSBwZXJzb25hICAg5Lq65qC8IHN5c3RlbSBwcm9tcHTvvIjmnaXoh6ogbW9kZVBlcnNvbmHvvIkKICogQHBhcmFtIHtzdHJpbmd9IHF1ZXJ5ICAgICDnlKjmiLfpl67popgKICogQHBhcmFtIHtudW1iZXJ9IFt0aW1lb3V0TXM9MjAwMDBdIOWNleaooeWei+m7mOiupOi2heaXtu+8iOWPr+iiqyBjZmcudGltZW91dCDopobnm5bvvIkKICogQHJldHVybnMge1Byb21pc2U8c3RyaW5nPn0g5qih5Z6L5paH5pysCiAqLwphc3luYyBmdW5jdGlvbiBnZW5lcmF0ZShtb2RlbENmZywgcGVyc29uYSwgcXVlcnksIHRpbWVvdXRNcykgewogIHZhciBjZmdzID0gQXJyYXkuaXNBcnJheShtb2RlbENmZykgPyBtb2RlbENmZyA6IFttb2RlbENmZ107CiAgdmFyIHN5c3RlbUNvbnRlbnQgPSBwZXJzb25hICYmIHBlcnNvbmEudHJpbSgpCiAgICA/IHBlcnNvbmEKICAgIDogJ+S9oOaYr+S4gOS4quefpeivhumXruetlOWKqeaJi+OAguivt+aPkOS+m+S/oeaBr+WvhuW6pumrmOOAgee7huiKguWFheWunueahOWbnuetlO+8jOebtOaOpee7meWHuuWFs+mUruS6i+Wunu+8jOS4jemHjeWkjemXrumimOOAgeS4jeWuouWll+W8gOWcuuOAgic7CiAgdmFyIGxhc3RFcnIgPSAnJzsKICBmb3IgKHZhciBpID0gMDsgaSA8IGNmZ3MubGVuZ3RoOyBpKyspIHsKICAgIHZhciBjZmcgPSBjZmdzW2ldOwogICAgaWYgKCFjZmcgfHwgIWNmZy5iYXNlVVJMKSBjb250aW51ZTsKICAgIHRyeSB7CiAgICAgIHZhciBiYXNlVVJMID0gKGNmZy5iYXNlVVJMIHx8ICcnKS50b1N0cmluZygpLnRyaW0oKS5yZXBsYWNlKC9cLyskLywgJycpLnJlcGxhY2UoL1wvY2hhdFwvY29tcGxldGlvbnMkL2ksICcnKSArICcvY2hhdC9jb21wbGV0aW9ucyc7CiAgICAgIHZhciB0ID0gY2ZnLnRpbWVvdXQgfHwgdGltZW91dE1zIHx8IDIwMDAwOwogICAgICB2YXIgdGV4dCA9IGF3YWl0IF9wb3N0SnNvbihiYXNlVVJMLCBjZmcuYXBpS2V5LCBjZmcubW9kZWwsIHN5c3RlbUNvbnRlbnQsIHF1ZXJ5LCB0KTsKICAgICAgaWYgKHRleHQpIHJldHVybiB0ZXh0OwogICAgfSBjYXRjaCAoZSkgewogICAgICBsYXN0RXJyID0gKGUgJiYgZS5tZXNzYWdlKSA/IGUubWVzc2FnZSA6ICcnICsgZTsKICAgICAgY29uc29sZS53YXJuKCdbcGVyc29uYV0g5qih5Z6LICMnICsgKGkgKyAxKSArICcgJyArIChjZmcubmFtZSB8fCBjZmcubW9kZWwpICsgJyDlpLHotKXvvJonICsgbGFzdEVycik7CiAgICB9CiAgfQogIHRocm93IG5ldyBFcnJvcihsYXN0RXJyIHx8ICdub19tb2RlbF9jZmcnKTsKfQoKLyoqCiAqIOa1geW8j+eUn+aIkO+8iFNTRe+8ieOAgumAkCBjaHVuayDosIPnlKggb25DaHVuayhkZWx0YSnvvIzku7vkuIDmqKHlnovmiJDlip/mjqjmtYHljbPmj5DkuqTvvIjkuI3lho3lm57pgIDvvIwKICog6YG/5YWN5bey5o6o5YaF5a656YeN5aSN77yJ44CC5LiOIGdlbmVyYXRlIOWFseS6q+WkmuaooeWei+WFnOW6leivreS5ie+8m+S4jeaUueWGu+e7kyByYWcuanPjgIIKICogQHJldHVybnMge1Byb21pc2U8c3RyaW5nPn0g5a6e6ZmF6YeH55So55qE5qih5Z6L5ZCN77yI55So5LqOIF9tb2RlbFVzZWQg6YCP5Lyg77yJCiAqLwphc3luYyBmdW5jdGlvbiBnZW5lcmF0ZVN0cmVhbShtb2RlbENmZywgcGVyc29uYSwgcXVlcnksIG9uQ2h1bmssIHRpbWVvdXRNcykgewogIHZhciBjZmdzID0gQXJyYXkuaXNBcnJheShtb2RlbENmZykgPyBtb2RlbENmZyA6IFttb2RlbENmZ107CiAgdmFyIHN5c3RlbUNvbnRlbnQgPSBwZXJzb25hICYmIHBlcnNvbmEudHJpbSgpCiAgICA/IHBlcnNvbmEKICAgIDogJ+S9oOaYr+S4gOS4quefpeivhumXruetlOWKqeaJi+OAguivt+aPkOS+m+S/oeaBr+WvhuW6pumrmOOAgee7huiKguWFheWunueahOWbnuetlO+8jOebtOaOpee7meWHuuWFs+mUruS6i+Wunu+8jOS4jemHjeWkjemXrumimOOAgeS4jeWuouWll+W8gOWcuuOAgic7CiAgdmFyIGxhc3RFcnIgPSAnJzsKICBmb3IgKHZhciBpID0gMDsgaSA8IGNmZ3MubGVuZ3RoOyBpKyspIHsKICAgIHZhciBjZmcgPSBjZmdzW2ldOwogICAgaWYgKCFjZmcgfHwgIWNmZy5iYXNlVVJMKSBjb250aW51ZTsKICAgIHRyeSB7CiAgICAgIHZhciBiYXNlVVJMID0gKGNmZy5iYXNlVVJMIHx8ICcnKS50b1N0cmluZygpLnRyaW0oKS5yZXBsYWNlKC9cLyskLywgJycpLnJlcGxhY2UoL1wvY2hhdFwvY29tcGxldGlvbnMkL2ksICcnKSArICcvY2hhdC9jb21wbGV0aW9ucyc7CiAgICAgIHZhciB0ID0gY2ZnLnRpbWVvdXQgfHwgdGltZW91dE1zIHx8IDMwMDAwOwogICAgICB2YXIgb2sgPSBhd2FpdCBfcG9zdFN0cmVhbShiYXNlVVJMLCBjZmcuYXBpS2V5LCBjZmcubW9kZWwsIHN5c3RlbUNvbnRlbnQsIHF1ZXJ5LCBvbkNodW5rLCB0KTsKICAgICAgaWYgKG9rKSByZXR1cm4gKGNmZy5tb2RlbCB8fCBjZmcubmFtZSB8fCAnbW9kZWwnKTsKICAgICAgbGFzdEVyciA9ICdub19jb250ZW50X2Zyb21fJyArIChjZmcubmFtZSB8fCBjZmcubW9kZWwpOwogICAgfSBjYXRjaCAoZSkgewogICAgICBsYXN0RXJyID0gKGUgJiYgZS5tZXNzYWdlKSA/IGUubWVzc2FnZSA6ICcnICsgZTsKICAgICAgY29uc29sZS53YXJuKCdbcGVyc29uYS1zdHJlYW1dIOaooeWeiyAjJyArIChpICsgMSkgKyAnICcgKyAoY2ZnLm5hbWUgfHwgY2ZnLm1vZGVsKSArICcg5aSx6LSl77yaJyArIGxhc3RFcnIpOwogICAgfQogIH0KICB0aHJvdyBuZXcgRXJyb3IobGFzdEVyciB8fCAnbm9fbW9kZWxfY2ZnJyk7Cn0KCmZ1bmN0aW9uIF9wb3N0U3RyZWFtKGJhc2VVUkwsIGFwaUtleSwgbW9kZWwsIHN5c3RlbUNvbnRlbnQsIHVzZXJDb250ZW50LCBvbkRlbHRhLCB0aW1lb3V0TXMpIHsKICByZXR1cm4gbmV3IFByb21pc2UoZnVuY3Rpb24gKHJlc29sdmUsIHJlamVjdCkgewogICAgdmFyIHVybDsKICAgIHRyeSB7IHVybCA9IG5ldyAocmVxdWlyZSgndXJsJykuVVJMKShiYXNlVVJMKTsgfSBjYXRjaCAoZSkgeyByZWplY3QobmV3IEVycm9yKCdiYWQgYmFzZVVSTCcpKTsgcmV0dXJuOyB9CiAgICAvLyDlkIwgX3Bvc3RKc29u77yaZGVlcHNlZWsg57O75b+F6aG75YWz5oCd6ICD6ZO+77yM5ZCm5YiZIGNvbnRlbnQg5oGS5Li656m644CCCiAgICAvLyAgIOa1geW8j+S4i+aAneiAg+mTvui/mOS8muaKouWcqOato+aWh+WJjeaOqOmAge+8jOaKiummluWtl+W7tui/n+S7jiB+MS4ycyDmjqjliLAgMTBzK+OAggogICAgdmFyIHBheWxvYWQgPSB7CiAgICAgIG1vZGVsOiBtb2RlbCwKICAgICAgbWVzc2FnZXM6IFsKICAgICAgICB7IHJvbGU6ICdzeXN0ZW0nLCBjb250ZW50OiBzeXN0ZW1Db250ZW50IH0sCiAgICAgICAgeyByb2xlOiAndXNlcicsIGNvbnRlbnQ6IHVzZXJDb250ZW50IH0KICAgICAgXSwKICAgICAgc3RyZWFtOiB0cnVlLAogICAgICBtYXhfdG9rZW5zOiAxNTM2CiAgICB9OwogICAgaWYgKC9eZGVlcHNlZWstdjQvaS50ZXN0KG1vZGVsKSB8fCBwcm9jZXNzLmVudi5HRU5fRElTQUJMRV9USElOS0lORyA9PT0gJ3RydWUnKSB7CiAgICAgIHBheWxvYWQuZW5hYmxlX3RoaW5raW5nID0gZmFsc2U7CiAgICB9CiAgICB2YXIgYm9keSA9IEpTT04uc3RyaW5naWZ5KHBheWxvYWQpOwogICAgdmFyIHJlcU9wdHMgPSB7CiAgICAgIGhvc3RuYW1lOiB1cmwuaG9zdG5hbWUsCiAgICAgIHBvcnQ6IHVybC5wb3J0IHx8ICh1cmwucHJvdG9jb2wgPT09ICdodHRwczonID8gNDQzIDogODApLAogICAgICBwYXRoOiB1cmwucGF0aG5hbWUgKyAodXJsLnNlYXJjaCB8fCAnJyksCiAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICBoZWFkZXJzOiB7CiAgICAgICAgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJywKICAgICAgICAnQWNjZXB0JzogJ3RleHQvZXZlbnQtc3RyZWFtJywKICAgICAgICAnQXV0aG9yaXphdGlvbic6ICdCZWFyZXIgJyArIChhcGlLZXkgfHwgJycpCiAgICAgIH0sCiAgICAgIHRpbWVvdXQ6IHRpbWVvdXRNcyB8fCAzMDAwMAogICAgfTsKICAgIHZhciBtb2QgPSB1cmwucHJvdG9jb2wgPT09ICdodHRwczonID8gcmVxdWlyZSgnaHR0cHMnKSA6IHJlcXVpcmUoJ2h0dHAnKTsKICAgIHZhciBwdXNoZWQgPSBmYWxzZTsKICAgIHZhciBidWYgPSAnJzsKICAgIHZhciByZXEgPSBtb2QucmVxdWVzdChyZXFPcHRzLCBmdW5jdGlvbiAocmVzKSB7CiAgICAgIGlmIChyZXMuc3RhdHVzQ29kZSA8IDIwMCB8fCByZXMuc3RhdHVzQ29kZSA+PSAzMDApIHsKICAgICAgICB2YXIgZXJyQnVmID0gW107CiAgICAgICAgcmVzLm9uKCdkYXRhJywgZnVuY3Rpb24gKGMpIHsgZXJyQnVmLnB1c2goYyk7IH0pOwogICAgICAgIHJlcy5vbignZW5kJywgZnVuY3Rpb24gKCkgeyByZWplY3QobmV3IEVycm9yKCdIVFRQXycgKyByZXMuc3RhdHVzQ29kZSArICcgJyArIEJ1ZmZlci5jb25jYXQoZXJyQnVmKS50b1N0cmluZygpLnNsaWNlKDAsIDEyMCkpKTsgfSk7CiAgICAgICAgcmV0dXJuOwogICAgICB9CiAgICAgIHJlcy5zZXRFbmNvZGluZygndXRmLTgnKTsKICAgICAgcmVzLm9uKCdkYXRhJywgZnVuY3Rpb24gKGNodW5rKSB7CiAgICAgICAgYnVmICs9IGNodW5rOwogICAgICAgIHZhciBpZHg7CiAgICAgICAgd2hpbGUgKChpZHggPSBidWYuaW5kZXhPZignXG4nKSkgPj0gMCkgewogICAgICAgICAgdmFyIGxpbmUgPSBidWYuc2xpY2UoMCwgaWR4KS50cmltKCk7CiAgICAgICAgICBidWYgPSBidWYuc2xpY2UoaWR4ICsgMSk7CiAgICAgICAgICBpZiAoIWxpbmUgfHwgbGluZS5pbmRleE9mKCdkYXRhOicpICE9PSAwKSBjb250aW51ZTsKICAgICAgICAgIHZhciBkYXRhID0gbGluZS5zbGljZSg1KS50cmltKCk7CiAgICAgICAgICBpZiAoZGF0YSA9PT0gJ1tET05FXScpIGNvbnRpbnVlOwogICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgdmFyIG9iaiA9IEpTT04ucGFyc2UoZGF0YSk7CiAgICAgICAgICAgIC8vIE9wZW5BSSDlhbzlrrnvvJpjaG9pY2VzWzBdLmRlbHRhLmNvbnRlbnTvvJvlv73nlaUgcmVhc29uaW5nX2NvbnRlbnTvvIjmgJ3ogIPpk77kuI3mjqjliY3nq6/vvIkKICAgICAgICAgICAgdmFyIGNob2ljZXMgPSBvYmouY2hvaWNlcyB8fCBbXTsKICAgICAgICAgICAgdmFyIGRlbHRhID0gKGNob2ljZXNbMF0gJiYgY2hvaWNlc1swXS5kZWx0YSkgPyAoY2hvaWNlc1swXS5kZWx0YS5jb250ZW50IHx8ICcnKSA6ICcnOwogICAgICAgICAgICBpZiAoZGVsdGEpIHsKICAgICAgICAgICAgICBwdXNoZWQgPSB0cnVlOwogICAgICAgICAgICAgIHRyeSB7IG9uRGVsdGEoZGVsdGEpOyB9IGNhdGNoIChlKSB7fQogICAgICAgICAgICB9CiAgICAgICAgICB9IGNhdGNoIChlKSB7IC8qIOi3s+i/h+mdniBKU09OIC8g5b+D6Lez6KGMICovIH0KICAgICAgICB9CiAgICAgIH0pOwogICAgICByZXMub24oJ2VuZCcsIGZ1bmN0aW9uICgpIHsgcmVzb2x2ZShwdXNoZWQpOyB9KTsKICAgIH0pOwogICAgcmVxLm9uKCdlcnJvcicsIGZ1bmN0aW9uIChlKSB7IHJlamVjdChlKTsgfSk7CiAgICByZXEub24oJ3RpbWVvdXQnLCBmdW5jdGlvbiAoKSB7IHJlcS5kZXN0cm95KCk7IHJlamVjdChuZXcgRXJyb3IoJ3RpbWVvdXQnKSk7IH0pOwogICAgcmVxLndyaXRlKGJvZHkpOwogICAgcmVxLmVuZCgpOwogIH0pOwp9Cgptb2R1bGUuZXhwb3J0cyA9IHsgZ2VuZXJhdGU6IGdlbmVyYXRlLCBnZW5lcmF0ZVN0cmVhbTogZ2VuZXJhdGVTdHJlYW0gfTsK
+// personaGen.js —— 先贤视角 / 苏格拉底追问 的「人格纯生成」层。
+//   设计原则：
+//   · 复用后台 model_config 中 order 最小的「对话模型」（与 rag.js generateAnswer 同模型，
+//     实测 ~8s 可达），只把 system prompt 换成人格口吻，不触碰冻结资产 rag.js。
+//   · 不联网（networkNeeded=false），纯人格表达，最快且不被联网噪音污染。
+//   · Node16 原生 https，无原生 fetch 依赖（与项目其余模块一致）。
+//   · fail-soft：任何异常向上抛出，由 index.js 回退常规链路（仍给答案，仅无人格）。
+
+function _postJson(baseURL, apiKey, model, systemContent, userContent, timeoutMs) {
+  return new Promise(function (resolve, reject) {
+    var url;
+    try { url = new (require('url').URL)(baseURL); } catch (e) { reject(new Error('bad baseURL')); return; }
+    // 2026-09-21 CR-模型三层配置：deepseek 系为思考型模型，不关思考会先吐 reasoning_content
+    //   把 max_tokens 吃光，导致 content 为空（实测默认参数下 0 字、finish_reason=length）。
+    //   仅对 deepseek-v4 前缀注入；qwen 系已实测兼容该参数（4/4 无 400），agnes 通道不受影响。
+    var payload = {
+      model: model,
+      messages: [
+        { role: 'system', content: systemContent },
+        { role: 'user', content: userContent }
+      ],
+      stream: false,
+      max_tokens: 1024
+    };
+    if (/^deepseek-v4/i.test(model) || process.env.GEN_DISABLE_THINKING === 'true') {
+      payload.enable_thinking = false;
+    }
+    var body = JSON.stringify(payload);
+    var reqOpts = {
+      hostname: url.hostname,
+      port: url.port || (url.protocol === 'https:' ? 443 : 80),
+      path: url.pathname + (url.search || ''),
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Accept': 'application/json',
+        'Authorization': 'Bearer ' + (apiKey || '')
+      },
+      timeout: timeoutMs || 20000
+    };
+    var mod = url.protocol === 'https:' ? require('https') : require('http');
+    var req = mod.request(reqOpts, function (res) {
+      var chunks = [];
+      res.on('data', function (c) { chunks.push(c); });
+      res.on('end', function () {
+        var buf = Buffer.concat(chunks).toString();
+        if (res.statusCode < 200 || res.statusCode >= 300) {
+          reject(new Error('HTTP_' + res.statusCode + ' ' + buf.slice(0, 120)));
+          return;
+        }
+        try {
+          var data = JSON.parse(buf);
+          // OpenAI 兼容：choices[0].message.content
+          var content = data && data.choices && data.choices[0] && data.choices[0].message
+            ? data.choices[0].message.content
+            : (data && data.output && data.output.text ? data.output.text : '');
+          if (!content) { reject(new Error('empty_content')); return; }
+          resolve(content.toString().trim());
+        } catch (e) {
+          reject(new Error('parse_error ' + buf.slice(0, 120)));
+        }
+      });
+    });
+    req.on('error', function (e) { reject(e); });
+    req.on('timeout', function () { req.destroy(); reject(new Error('timeout')); });
+    req.write(body);
+    req.end();
+  });
+}
+
+/**
+ * 生成人格回答。支持多模型兜底：modelCfg 可为单条配置或配置数组，
+ * 按顺序逐模型尝试，成功即返回；全部失败抛出最后的错误（由 index.js 回退常规链路）。
+ * 与冻结 rag.js 的 tryModelAnswer 兜底语义保持一致。
+ * @param {Object|Array} modelCfg  model_config 条目 { baseURL, apiKey, model, timeout } 或数组
+ * @param {string} persona   人格 system prompt（来自 modePersona）
+ * @param {string} query     用户问题
+ * @param {number} [timeoutMs=20000] 单模型默认超时（可被 cfg.timeout 覆盖）
+ * @returns {Promise<string>} 模型文本
+ */
+async function generate(modelCfg, persona, query, timeoutMs) {
+  var cfgs = Array.isArray(modelCfg) ? modelCfg : [modelCfg];
+  var systemContent = persona && persona.trim()
+    ? persona
+    : '你是一个知识问答助手。请提供信息密度高、细节充实的回答，直接给出关键事实，不重复问题、不客套开场。';
+  var lastErr = '';
+  for (var i = 0; i < cfgs.length; i++) {
+    var cfg = cfgs[i];
+    if (!cfg || !cfg.baseURL) continue;
+    try {
+      var baseURL = (cfg.baseURL || '').toString().trim().replace(/\/+$/, '').replace(/\/chat\/completions$/i, '') + '/chat/completions';
+      var t = cfg.timeout || timeoutMs || 20000;
+      var text = await _postJson(baseURL, cfg.apiKey, cfg.model, systemContent, query, t);
+      if (text) return text;
+    } catch (e) {
+      lastErr = (e && e.message) ? e.message : '' + e;
+      console.warn('[persona] 模型 #' + (i + 1) + ' ' + (cfg.name || cfg.model) + ' 失败：' + lastErr);
+    }
+  }
+  throw new Error(lastErr || 'no_model_cfg');
+}
+
+/**
+ * 流式生成（SSE）。逐 chunk 调用 onChunk(delta)，任一模型成功推流即提交（不再回退，
+ * 避免已推内容重复）。与 generate 共享多模型兜底语义；不改冻结 rag.js。
+ * @returns {Promise<string>} 实际采用的模型名（用于 _modelUsed 透传）
+ */
+async function generateStream(modelCfg, persona, query, onChunk, timeoutMs) {
+  var cfgs = Array.isArray(modelCfg) ? modelCfg : [modelCfg];
+  var systemContent = persona && persona.trim()
+    ? persona
+    : '你是一个知识问答助手。请提供信息密度高、细节充实的回答，直接给出关键事实，不重复问题、不客套开场。';
+  var lastErr = '';
+  for (var i = 0; i < cfgs.length; i++) {
+    var cfg = cfgs[i];
+    if (!cfg || !cfg.baseURL) continue;
+    try {
+      var baseURL = (cfg.baseURL || '').toString().trim().replace(/\/+$/, '').replace(/\/chat\/completions$/i, '') + '/chat/completions';
+      var t = cfg.timeout || timeoutMs || 30000;
+      var ok = await _postStream(baseURL, cfg.apiKey, cfg.model, systemContent, query, onChunk, t);
+      if (ok) return (cfg.model || cfg.name || 'model');
+      lastErr = 'no_content_from_' + (cfg.name || cfg.model);
+    } catch (e) {
+      lastErr = (e && e.message) ? e.message : '' + e;
+      console.warn('[persona-stream] 模型 #' + (i + 1) + ' ' + (cfg.name || cfg.model) + ' 失败：' + lastErr);
+    }
+  }
+  throw new Error(lastErr || 'no_model_cfg');
+}
+
+function _postStream(baseURL, apiKey, model, systemContent, userContent, onDelta, timeoutMs) {
+  return new Promise(function (resolve, reject) {
+    var url;
+    try { url = new (require('url').URL)(baseURL); } catch (e) { reject(new Error('bad baseURL')); return; }
+    // 同 _postJson：deepseek 系必须关思考链，否则 content 恒为空。
+    //   流式下思考链还会抢在正文前推送，把首字延迟从 ~1.2s 推到 10s+。
+    var payload = {
+      model: model,
+      messages: [
+        { role: 'system', content: systemContent },
+        { role: 'user', content: userContent }
+      ],
+      stream: true,
+      max_tokens: 1536
+    };
+    if (/^deepseek-v4/i.test(model) || process.env.GEN_DISABLE_THINKING === 'true') {
+      payload.enable_thinking = false;
+    }
+    var body = JSON.stringify(payload);
+    var reqOpts = {
+      hostname: url.hostname,
+      port: url.port || (url.protocol === 'https:' ? 443 : 80),
+      path: url.pathname + (url.search || ''),
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Accept': 'text/event-stream',
+        'Authorization': 'Bearer ' + (apiKey || '')
+      },
+      timeout: timeoutMs || 30000
+    };
+    var mod = url.protocol === 'https:' ? require('https') : require('http');
+    var pushed = false;
+    var buf = '';
+    var req = mod.request(reqOpts, function (res) {
+      if (res.statusCode < 200 || res.statusCode >= 300) {
+        var errBuf = [];
+        res.on('data', function (c) { errBuf.push(c); });
+        res.on('end', function () { reject(new Error('HTTP_' + res.statusCode + ' ' + Buffer.concat(errBuf).toString().slice(0, 120))); });
+        return;
+      }
+      res.setEncoding('utf-8');
+      res.on('data', function (chunk) {
+        buf += chunk;
+        var idx;
+        while ((idx = buf.indexOf('\n')) >= 0) {
+          var line = buf.slice(0, idx).trim();
+          buf = buf.slice(idx + 1);
+          if (!line || line.indexOf('data:') !== 0) continue;
+          var data = line.slice(5).trim();
+          if (data === '[DONE]') continue;
+          try {
+            var obj = JSON.parse(data);
+            // OpenAI 兼容：choices[0].delta.content；忽略 reasoning_content（思考链不推前端）
+            var choices = obj.choices || [];
+            var delta = (choices[0] && choices[0].delta) ? (choices[0].delta.content || '') : '';
+            if (delta) {
+              pushed = true;
+              try { onDelta(delta); } catch (e) {}
+            }
+          } catch (e) { /* 跳过非 JSON / 心跳行 */ }
+        }
+      });
+      res.on('end', function () { resolve(pushed); });
+    });
+    req.on('error', function (e) { reject(e); });
+    req.on('timeout', function () { req.destroy(); reject(new Error('timeout')); });
+    req.write(body);
+    req.end();
+  });
+}
+
+module.exports = { generate: generate, generateStream: generateStream };

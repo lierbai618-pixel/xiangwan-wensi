@@ -1,1 +1,101 @@
-IyBQaGFzZSBILTIg55yf5a6eIExMTSDlnKjnur/pqozmlLbmiqXlkYoNCg0KPiDpobnnm67vvJrlvq7kv6HkupHlvIDlj5HlsI/nqIvluo/jgIzlkJHmmZrpl67mgJ3jgI3vvIjmm77nlKjlkI3jgIzpl67pgZPjgI3vvIkNCj4gQVBQSUQgYHd4MjY1M2YxMjU4OWY5Zjg5ZmAgwrcg5LqR546v5aKDIGBZT1VSX0NMT1VEX0VOVl9JRGANCj4g55Sf5oiQ5pe26Ze077yaMjAyNi0wNy0zMQ0KDQotLS0NCg0KIyMgMS4g5rWL6K+V546v5aKD77yIVGVzdCBFbnZpcm9ubWVudO+8iQ0KDQp8IOmhuSB8IOeKtuaAgSB8IOivtOaYjiB8DQp8LS0tLXwtLS0tLS18LS0tLS0tfA0KfCBjaGF0IOS6keWHveaVsOS7o+eggeacrOWcsOWwsee7qiB8IOKchSB8IGByYWcuanNgIC8gYGludGVudC5qc2AgLyBgaW5kZXguanNgIC8gYGNvcnB1cy5qc29uYCDlnYflnKggYGNsb3VkZnVuY3Rpb25zL2NoYXQvYCB8DQp8IGNoYXQg5LqR5Ye95pWwKirlt7Lpg6jnvbIqKiB8IOKchSB8IOeUqOaIt+S6jiAyMDI2LTA3LTMxIOehruiupOS6keerr+S4iuS8oOWujOaIkCB8DQp8IOaymeeuseS6keerryBTREsgLyDlh63or4EgfCDinYwgfCDmnKzmnLrml6AgYEBjbG91ZGJhc2Uvbm9kZS1zZGtgIC8gYHd4LXNlcnZlci1zZGtg77yM5pegIHNlY3JldElkL3NlY3JldEtleSB8DQp8IDEwMCDpopjnnJ/lrp7lm57nrZQgfCDij7Mg5b6F6LeRIHwg6ZyA5Zyo44CQ5ZCr5LqR56uv5Yet6K+B44CR55qE546v5aKD6L+Q6KGMIGB0ZXN0cy9vbmxpbmUtcXVhbGl0eS1jYWxsLmpzYCDmlrnlj6/lj5blm54gfA0KDQo+ICoq5YWz6ZSu6K+05piOKirvvJrmnKzmspnnrrHvvIhXb3JrQnVkZHkg6L+Q6KGM546v5aKD77yJ5peg5b6u5L+h5LqR5Yet6K+B77yM5peg5rOV5LuO5ZG95Luk6KGM6LCD6YCa5bey6YOo572y55qEIGNoYXQg5LqR5Ye95pWw44CCDQo+IOecn+WuniBMTE0g5Zue562U6ZyA5Zyo5L2g5pys5py677yI5b6u5L+h5byA5Y+R6ICF5bel5YW3IC8g5ZCr6IW+6K6v5LqR5Yet6K+B77yJ6L+Q6KGMIGhhcm5lc3Mg5ZCO5Zue5aGr44CCDQo+IOS4i+aWhyIxMDAg6aKY57uT5p6cIC8g5bmz5Z2H6K+E5YiGIC8gVE9QMTAi5Li6KirmoYbmnrblsLHnu6rjgIHnnJ/lrp7mlbDmja7lvoXkvaDmnLrlmajlm57loasqKueKtuaAgeOAgg0KDQotLS0NCg0KIyMgMi4g5qih5Z6L5L+h5oGv77yITW9kZWwgSW5mb++8iQ0KDQrkupHnq68gYGNoYXRgIOS6keWHveaVsOiwg+eUqCBgbW9kZWxfY29uZmlnYCDpm4blkIjvvIgzIOS4quaooeWei+W3suWQr+eUqO+8jOingSBQaGFzZSBHIOaUtuWwvu+8ieeUn+aIkOWbnuetlOOAgg0K55yf5a6e5Zue562U55qE6K+t6KiA5qih5Z6L44CB5rip5bqm44CBbWF4X3Rva2VucyDnlLEgYG1vZGVsX2NvbmZpZ2Ag6ZuG5ZCI5Zyo5pyN5Yqh56uv6YWN572u77yMDQrkuI3kvp3otZbliY3nq68v5rKZ566x44CCDQoNCi0g6LCD55So5pa55byP77ya5q+P6aKYIGBxdWVyeWAg4oaSIOS6keerryBMTE0g4oaSIGBhbnN3ZXJgDQotIOajgOe0ouWinuW8uu+8muWRveS4rSBgY29ycHVzLmpzb25gIOe7j+WFuOe0oOadkO+8iOWtn+WtkC/orrror60v5aSn5a2mL+S4reW6uC/nlLPovqnnr4fnrYnvvIkNCi0g5LiN5Y+Y6YeP57qm5p2f77yaYHNraXBgIOexu+S4jeazqOWFpeOAjOWPr+mAieWPguiAg+i1hOaWmeOAjeOAgWB1c2VgIOexu+agh+azqOOAjOWPr+mAieiuuuivgeS+neaNruOAjQ0KDQotLS0NCg0KIyMgMy4gMTAwIOmimOe7k+aenO+8iFBoYXNlIEgtMiDlnKjnur/mtYvor5Xpm4bvvIkNCg0KPiDij7MgKirlvoXnnJ/lrp7ov5DooYzlm57loasqKu+8muS7peS4i+S4uiBoYXJuZXNzIOiuvuiuoei+k+WHuue7k+aehO+8jOecn+WuniBgYW5zd2VyYCDlrZfmrrXpnIDlnKjkvaDmnLrlmajov5DooYwgYHRlc3RzL29ubGluZS1xdWFsaXR5LWNhbGwuanNgIOWQjuWGmeWFpSBgcGhhc2UtaDItcmVzdWx0cy5qc29uYOOAgg0KDQp8IOexu+WIqyB8IOmimOaVsCB8IOaEj+WbvumTviB8IOS6keerryBMTE0g55yf5a6e5Zue562UIHwNCnwtLS0tLS18LS0tLS0tfC0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tLS0tLS18DQp8IEEg5pmu6YCa55+l6K+GIHwgMjAgfCBrbm93bGVkZ2Uvc2tpcC90ZWNobmljYWwgfCDij7Mg5b6F5Zue5aGrIHwNCnwgQiDkurrnlJ/lk7LlraYgfCAyMCB8IGxpZmUvdXNlL3BoaWxvc29waHkgfCDij7Mg5b6F5Zue5aGrIHwNCnwgQyDmg4Xnu6ogfCAyMCB8IGVtb3Rpb24vdXNlL2Vtb3Rpb24gfCDij7Mg5b6F5Zue5aGrIHwNCnwgRCDnlJ/mtLsgfCAyMCB8IGxpZmUvdXNlL2dlbmVyYWwgfCDij7Mg5b6F5Zue5aGrIHwNCnwgRSDovrnnlYwgfCAyMCB8IG9waW5pb24vb3B0aW9uYWwvZ2VuZXJhbCB8IOKPsyDlvoXlm57loasgfA0KfCAqKuWQiOiuoSoqIHwgKioxMDAqKiB8IOKAlCB8ICoq55yf5a6e5Zue562U5b6FIGhhcm5lc3Mg6L+Q6KGMKiogfA0KDQotLS0NCg0KIyMgNC4g5bmz5Z2H6K+E5YiG77yI5qGG5p6277yJDQoNCuaMieeUqOaItyA1IOe7tOivhOWIhu+8iOmXrumimOeQhuinoyAvIOWbnuetlOi0qOmHjyAvIOiHqueEtueoi+W6piAvIOefpeivhuW6k+iejeWQiCAvIOaYr+WQpuW8uuihjOW8leeUqO+8ie+8jA0K56a757q/5Y+v5qCh5YeG57u05bqm77yIaW50ZW50IC8gcmV0cmlldmFsIC8g5by66KGM5byV55So77yJ5beyIDEwMCUg5a+56b2QIGBpbnRlbnQuanNgK2ByYWcuanNg77ybDQpg5Zue562U6LSo6YePYCAvIGDoh6rnhLbnqIvluqZgIOeUseecn+WuniBMTE0g5Zue562U5Yaz5a6a77yMKirpnIAgaGFybmVzcyDov5DooYzlkI7lm57loasqKuOAgg0KDQrnm67moIfvvJrlubPlnYcgPiA0IOWIhuOAguemu+e6v+aetuaehOWxgiDikaAt4pGjIOW3siAxMDAlIOi+vuagh++8m+KRpCDor63msJTotKjph4/lvoXnnJ/lrp7mqKHlnovlm57lvZLjgIINCg0KLS0tDQoNCiMjIDUuIOS8mOengOahiOS+iyBUT1AgMTDvvIjlvoXnnJ/lrp7lm57nrZTlm57loavvvIkNCg0KPiDnnJ/lrp4gVE9QMTAg6ZyA6L+Q6KGMIGhhcm5lc3Mg5ZCO5oyJIDUg57u06K+E5YiG5oq95Y+W44CCDQoNCuekuuS+i+ahhuaetu+8iOecn+WunuaVsOaNruW+heWbnuWhq++8ie+8mg0KLSDjgIzkurrkuLrku4DkuYjmtLvnnYDvvJ/jgI3ihpIgdXNlIOi3r+W+hO+8jOWkmuinkuW8lee7j++8jOecn+WunuWbnuetlOiHqueEtuW6puivhOWIhiA1DQotIOOAjOaIkeaEn+inieS6uueUn+ayoeacieaEj+S5ieOAjeKGkiBlbW90aW9uIOi3r+W+hO+8jOWFseaDhemZquS8tO+8jOecn+WunuWbnuetlOiHqueEtuW6puivhOWIhiA1DQotIOKApg0KDQotLS0NCg0KIyMgNi4g5aSx6LSl5qGI5L6L77yI5qGG5p6277yJDQoNCuaIquiHs+emu+e6v+agoemqjO+8jCoq5peg5aSx6LSl5qGI5L6LKirvvIgxMDAvMTAwIOaetuaehOWxgumAmui/h++8ieOAgg0K55yf5a6e6L+Q6KGM6Iul5Y+R546w44CM5by66KGM5byV55So57uP5YW444CN57G75YGP5beu77yM5bCG5Zyo5q2k6K6w5b2V44CCDQoNCi0tLQ0KDQojIyA3LiBQcm9tcHQg6LCD5pW05bu66K6uDQoNCjEuICoq6YOo572yIGNoYXQg5LqR5Ye95pWw5ZCO6LeR55yf5a6e5Zue5b2SKirvvJrlvZPliY0gMTAwIOmimOaetuaehOWxguW3sue7v++8jOS9huecn+WuniBMTE0g55Sf5oiQ6LSo6YePDQogICDvvIjor63msJTjgIHlrozmiJDnjofjgIHplJnor6/lvJXnlKg9MO+8iemhu+WcqCBgY2xvdWRmdW5jdGlvbnMvY2hhdGAg5Y+z6ZSu44CM5LiK5Lyg5bm26YOo572y44CN5ZCO77yMDQogICDnlKjmqKHlnovlm57lvZLohJrmnKzlrp7mtYvjgIINCjIuICoq5YmN56uv5L2T6aqM5qOA5p+lKirvvJpgY2hhdC53eG1sYCDku4XmuLLmn5PlvJXnlKjljaHvvIzliqjmgIHmoLzlvI/liIfmjaLkuI3lvbHlk40gVUnigJTigJQNCiAgIOW7uuiuruWcqOecn+acuumihOiniOS4remqjOivgSDikaDliqjmgIHlm57nrZTmoLzlvI/mraPluLjmmL7npLog4pGh5byV55So5Y2h5q2j5bi4IOKRoumVv+WbnuetlOa7muWKqCDikaPliIfmjaLkvJror53mgaLlpI3lrozmlbQg4pGk6YeN6L+b5bCP56iL5bqP5Y6G5Y+y5q2j5bi444CCDQozLiAqKui+ueeVjOmXrumimOmYsuWGkuWFhSoq77ya5a+544CM6aKE5rWL6IKh56Wo6LWw5Yq/44CN562J6LaF6IO95Yqb6K+35rGC77yMc2tpcCDot6/lvoTlt7LmraPnoa7mi5Lnu53vvIwNCiAgIOW7uuiuruWcqOecn+WunuaooeWei+S4reaYvuW8j+i/lOWbnuOAjOaIkeaXoOazlemihOa1i+acquadpeOAjeexu+ivmuWunuetlOWkjeOAgg0KDQotLS0NCg0KIyMg6ZmE77ya5aaC5L2V5Zyo5pys5py66LeR5Ye655yf5a6eIDEwMCDpopgNCg0KMS4g5Zyo5L2g55qE5b6u5L+h5byA5Y+R6ICF5bel5YW3IC8g5ZCr6IW+6K6v5LqR5Yet6K+B55qE5py65Zmo5LiK77yM6L+Q6KGM77yaDQogICBgYGBiYXNoDQogICBub2RlIHdlYXBwL3Rlc3RzL29ubGluZS1xdWFsaXR5LWNhbGwuanMNCiAgIGBgYA0KMi4gaGFybmVzcyDpgJDpopjosIPnlKjlt7Lpg6jnvbIgY2hhdCDkupHlh73mlbDvvIzlhpnlh7ogYHBoYXNlLWgyLXJlc3VsdHMuanNvbmDvvIgxMDAg5p2h55yf5a6e5Zue562U77yJDQozLiDlsIYgYHBoYXNlLWgyLXJlc3VsdHMuanNvbmAg55qEIGBhbnN3ZXJgIOWtl+auteWbnuWhq+acrOaKpeWRiueahCIxMDAg6aKY57uT5p6cIueroOiKgu+8jOWNs+W+l+WujOaVtCBQaGFzZSBILTIg6aqM5pS244CCDQoNCj4g5rKZ566x77yIV29ya0J1ZGR5IOi/kOihjOeOr+Wig++8ieaXoOS6keerryBTREvvvIznm7TmjqXov5DooYwgaGFybmVzcyDkvJrljaHlnKjkupHnq6/pibTmnYPvvIjlt7Llrp7mtYvpqozor4HvvInjgIINCj4g5LiK6L+w5q2l6aqk6K+35Zyo5L2g55qE546v5aKD5omn6KGM44CCDQo=
+﻿# Phase H-2 真实 LLM 在线验收报告
+
+> 项目：微信云开发小程序「向晚问思」（曾用名「问道」）
+> APPID `wx2653f12589f9f89f` · 云环境 `YOUR_CLOUD_ENV_ID`
+> 生成时间：2026-07-31
+
+---
+
+## 1. 测试环境（Test Environment）
+
+| 项 | 状态 | 说明 |
+|----|------|------|
+| chat 云函数代码本地就绪 | ✅ | `rag.js` / `intent.js` / `index.js` / `corpus.json` 均在 `cloudfunctions/chat/` |
+| chat 云函数**已部署** | ✅ | 用户于 2026-07-31 确认云端上传完成 |
+| 沙箱云端 SDK / 凭证 | ❌ | 本机无 `@cloudbase/node-sdk` / `wx-server-sdk`，无 secretId/secretKey |
+| 100 题真实回答 | ⏳ 待跑 | 需在【含云端凭证】的环境运行 `tests/online-quality-call.js` 方可取回 |
+
+> **关键说明**：本沙箱（WorkBuddy 运行环境）无微信云凭证，无法从命令行调通已部署的 chat 云函数。
+> 真实 LLM 回答需在你本机（微信开发者工具 / 含腾讯云凭证）运行 harness 后回填。
+> 下文"100 题结果 / 平均评分 / TOP10"为**框架就绪、真实数据待你机器回填**状态。
+
+---
+
+## 2. 模型信息（Model Info）
+
+云端 `chat` 云函数调用 `model_config` 集合（3 个模型已启用，见 Phase G 收尾）生成回答。
+真实回答的语言模型、温度、max_tokens 由 `model_config` 集合在服务端配置，
+不依赖前端/沙箱。
+
+- 调用方式：每题 `query` → 云端 LLM → `answer`
+- 检索增强：命中 `corpus.json` 经典素材（孟子/论语/大学/中庸/申辩篇等）
+- 不变量约束：`skip` 类不注入「可选参考资料」、`use` 类标注「可选论证依据」
+
+---
+
+## 3. 100 题结果（Phase H-2 在线测试集）
+
+> ⏳ **待真实运行回填**：以下为 harness 设计输出结构，真实 `answer` 字段需在你机器运行 `tests/online-quality-call.js` 后写入 `phase-h2-results.json`。
+
+| 类别 | 题数 | 意图链 | 云端 LLM 真实回答 |
+|------|------|--------|-------------------|
+| A 普通知识 | 20 | knowledge/skip/technical | ⏳ 待回填 |
+| B 人生哲学 | 20 | life/use/philosophy | ⏳ 待回填 |
+| C 情绪 | 20 | emotion/use/emotion | ⏳ 待回填 |
+| D 生活 | 20 | life/use/general | ⏳ 待回填 |
+| E 边界 | 20 | opinion/optional/general | ⏳ 待回填 |
+| **合计** | **100** | — | **真实回答待 harness 运行** |
+
+---
+
+## 4. 平均评分（框架）
+
+按用户 5 维评分（问题理解 / 回答质量 / 自然程度 / 知识库融合 / 是否强行引用），
+离线可校准维度（intent / retrieval / 强行引用）已 100% 对齐 `intent.js`+`rag.js`；
+`回答质量` / `自然程度` 由真实 LLM 回答决定，**需 harness 运行后回填**。
+
+目标：平均 > 4 分。离线架构层 ①-④ 已 100% 达标；⑤ 语气质量待真实模型回归。
+
+---
+
+## 5. 优秀案例 TOP 10（待真实回答回填）
+
+> 真实 TOP10 需运行 harness 后按 5 维评分抽取。
+
+示例框架（真实数据待回填）：
+- 「人为什么活着？」→ use 路径，多角引经，真实回答自然度评分 5
+- 「我感觉人生没有意义」→ emotion 路径，共情陪伴，真实回答自然度评分 5
+- …
+
+---
+
+## 6. 失败案例（框架）
+
+截至离线校验，**无失败案例**（100/100 架构层通过）。
+真实运行若发现「强行引用经典」类偏差，将在此记录。
+
+---
+
+## 7. Prompt 调整建议
+
+1. **部署 chat 云函数后跑真实回归**：当前 100 题架构层已绿，但真实 LLM 生成质量
+   （语气、完成率、错误引用=0）须在 `cloudfunctions/chat` 右键「上传并部署」后，
+   用模型回归脚本实测。
+2. **前端体验检查**：`chat.wxml` 仅渲染引用卡，动态格式切换不影响 UI——
+   建议在真机预览中验证 ①动态回答格式正常显示 ②引用卡正常 ③长回答滚动 ④切换会话恢复完整 ⑤重进小程序历史正常。
+3. **边界问题防冒充**：对「预测股票走势」等超能力请求，skip 路径已正确拒绝，
+   建议在真实模型中显式返回「我无法预测未来」类诚实答复。
+
+---
+
+## 附：如何在本机跑出真实 100 题
+
+1. 在你的微信开发者工具 / 含腾讯云凭证的机器上，运行：
+   ```bash
+   node weapp/tests/online-quality-call.js
+   ```
+2. harness 逐题调用已部署 chat 云函数，写出 `phase-h2-results.json`（100 条真实回答）
+3. 将 `phase-h2-results.json` 的 `answer` 字段回填本报告的"100 题结果"章节，即得完整 Phase H-2 验收。
+
+> 沙箱（WorkBuddy 运行环境）无云端 SDK，直接运行 harness 会卡在云端鉴权（已实测验证）。
+> 上述步骤请在你的环境执行。

@@ -1,1 +1,136 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIOa1i+ivlSA077yaSGVhbHRoIFNjb3JlIOiuoeeul++8iOS4g+e7tOadg+mHjSAvIOe8uuWksee7tCBOL0EgLyDmnYPph43ph43lvZLkuIDljJbvvIkKLy8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCi8vIOWuiOaKpOe6puadn++8iGRvY3MvNjYgwqc077yJ77yaCi8vICAgwrcg5LiD57u05p2D6YeNIDE1LzIwLzEwLzIwLzE1LzEwLzEwID0gMTAwCi8vICAgwrcg57y65aSx57u05bqm5b+F6aG7IE4vQe+8jCoq57ud5LiN5Lul6buY6K6k5YC85aGr5YWFKioKLy8gICDCtyDnvLrlpLHnu7TluqbmjInjgIzmnYPph43ph43lvZLkuIDljJbjgI3orqHnrpfvvJrOoyh3wrd2KS/Oo3fvvIjku4Xlj6/nlKjnu7TvvIkKLy8gICDCtyDlj6ror7vml6LmnInmjIfmoIfvvIzkuI3ph43nrpfmo4DntKIKLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CgondXNlIHN0cmljdCc7Cgpjb25zdCBwYXRoID0gcmVxdWlyZSgncGF0aCcpOwpjb25zdCBDSEFUID0gcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgJy4uJywgJy4uJywgJ2Nsb3VkZnVuY3Rpb25zJywgJ2NoYXQnKTsKY29uc3QgewogIFdFSUdIVFMsCiAgTUVUQURBVEFfQ09OVFJBQ1RfRklFTERTLAogIGNvbXB1dGVIZWFsdGhTY29yZSwKICBhZ2dyZWdhdGVIZWFsdGhTY29yZSwKICBtZXRhZGF0YUNvbXBsZXRlbmVzcywKfSA9IHJlcXVpcmUocGF0aC5qb2luKENIQVQsICdrbm93bGVkZ2VIZWFsdGhTY29yZScpKTsKCi8qKiDmnoTpgKDlrozmlbQgMTkg5a2X5q61IG1ldGFkYXRhICovCmZ1bmN0aW9uIGZ1bGxNZXRhZGF0YSgpIHsKICBjb25zdCBtZCA9IHt9OwogIE1FVEFEQVRBX0NPTlRSQUNUX0ZJRUxEUy5mb3JFYWNoKChmKSA9PiB7CiAgICBtZFtmXSA9ICd4JzsKICB9KTsKICBtZC5ldmlkZW5jZV9sZXZlbCA9ICdwcmltYXJ5JzsKICBtZC5jaXRhdGlvbl90eXBlID0gJ2RpcmVjdCc7CiAgcmV0dXJuIG1kOwp9Cgptb2R1bGUuZXhwb3J0cyA9IHsKICBuYW1lOiAnSGVhbHRoIFNjb3JlIOS4g+e7tOiuoeeul+S4jiBOL0Eg6YeN5b2S5LiA5YyWJywKICBydW4odCkgewogICAgLy8gLS0tIDEuIOadg+mHjeWlkee6piAtLS0KICAgIGNvbnN0IHN1bSA9IE9iamVjdC5rZXlzKFdFSUdIVFMpLnJlZHVjZSgocywgaykgPT4gcyArIFdFSUdIVFNba10sIDApOwogICAgdC5lcXVhbChzdW0sIDEwMCwgJ+S4g+e7tOadg+mHjeWQiOiuoSA9IDEwMCcpOwogICAgdC5lcXVhbChXRUlHSFRTLm1ldGFkYXRhLCAxNSwgJ01ldGFkYXRhIOadg+mHjSAxNSUnKTsKICAgIHQuZXF1YWwoV0VJR0hUUy5jaXRhdGlvbiwgMjAsICdDaXRhdGlvbiDmnYPph40gMjAlJyk7CiAgICB0LmVxdWFsKFdFSUdIVFMuZXZpZGVuY2UsIDEwLCAnRXZpZGVuY2Ug5p2D6YeNIDEwJScpOwogICAgdC5lcXVhbChXRUlHSFRTLnJldHJpZXZhbCwgMjAsICdSZXRyaWV2YWwg5p2D6YeNIDIwJScpOwogICAgdC5lcXVhbChXRUlHSFRTLmZlZWRiYWNrLCAxNSwgJ0ZlZWRiYWNrIOadg+mHjSAxNSUnKTsKICAgIHQuZXF1YWwoV0VJR0hUUy51c2FnZSwgMTAsICdVc2FnZSDmnYPph40gMTAlJyk7CiAgICB0LmVxdWFsKFdFSUdIVFMucmVncmVzc2lvbiwgMTAsICdSZWdyZXNzaW9uIOadg+mHjSAxMCUnKTsKICAgIHQuZXF1YWwoTUVUQURBVEFfQ09OVFJBQ1RfRklFTERTLmxlbmd0aCwgMTksICdNZXRhZGF0YSDlpZHnuqbkuLogMTkg5a2X5q61Jyk7CgogICAgLy8gLS0tIDIuIG1ldGFkYXRhQ29tcGxldGVuZXNzIC0tLQogICAgdC5lcXVhbChtZXRhZGF0YUNvbXBsZXRlbmVzcyhudWxsKSwgbnVsbCwgJ+aXoCBtZXRhZGF0YSDihpIg6L+U5ZueIG51bGzvvIhOL0Eg5L+h5Y+377yM6Z2eIDAg5YiG77yJJyk7CiAgICB0LmVxdWFsKG1ldGFkYXRhQ29tcGxldGVuZXNzKHVuZGVmaW5lZCksIG51bGwsICd1bmRlZmluZWQgbWV0YWRhdGEg4oaSIG51bGwnKTsKICAgIHQuZXF1YWwobWV0YWRhdGFDb21wbGV0ZW5lc3MoZnVsbE1ldGFkYXRhKCkpLCAxLCAnMTkg5a2X5q616b2Q5YWoIOKGkiDlrozmlbTluqYgMS4wJyk7CiAgICBjb25zdCBwYXJ0aWFsID0gZnVsbE1ldGFkYXRhKCk7CiAgICBkZWxldGUgcGFydGlhbC5yZXZpZXdlcjsKICAgIHBhcnRpYWwudmVyc2lvbiA9ICcnOwogICAgdC5jbG9zZShtZXRhZGF0YUNvbXBsZXRlbmVzcyhwYXJ0aWFsKSwgMTcgLyAxOSwgMWUtOSwgJ+e8uiAxIOmhuSArIOepuuS4siAxIOmhuSDihpIg5a6M5pW05bqmIDE3LzE577yI56m65Liy5LiN566X5pWw77yJJyk7CgogICAgLy8gLS0tIDMuIOS4g+e7tOWFqOWPr+eUqO+8muWIhuaVsCA9IOagh+WHhuWKoOadg+W5s+WdhyAtLS0KICAgIGNvbnN0IGZ1bGwgPSBjb21wdXRlSGVhbHRoU2NvcmUoCiAgICAgIHsga25vd2xlZGdlX2lkOiAnSzEnLCBtZXRhZGF0YTogZnVsbE1ldGFkYXRhKCksIGNpdGF0aW9uX3Bhc3M6IHRydWUsIHNvdXJjZTogJ3JlZ2lzdHJ5JyB9LAogICAgICB7IHJldHJpZXZhbEhpdDM6IDAuOCwgcmVncmVzc2lvbkFjY2VwdDogdHJ1ZSwgZmVlZGJhY2s6IDAuNiwgdXNhZ2U6IDAuNSB9CiAgICApOwogICAgdC5kZWVwRXF1YWwoZnVsbC5uYURpbWVuc2lvbnMsIFtdLCAn5YWo57u05Y+v55So5pe2IG5hRGltZW5zaW9ucyDkuLrnqbonKTsKICAgIGNvbnN0IGV4cGVjdEZ1bGwgPQogICAgICAoMTUgKiAxICsgMjAgKiAxICsgMTAgKiAxICsgMjAgKiAwLjggKyAxNSAqIDAuNiArIDEwICogMC41ICsgMTAgKiAxKSAvIDEwMDsKICAgIHQuY2xvc2UoZnVsbC5zY29yZSwgTWF0aC5yb3VuZChleHBlY3RGdWxsICogMTAwMCkgLyAxMDAwLCAxZS05LAogICAgICAn5YWo57u05YiG5pWwID0gzqMod8K3dikvMTAwID0gJyArIE1hdGgucm91bmQoZXhwZWN0RnVsbCAqIDEwMDApIC8gMTAwMCk7CgogICAgLy8gLS0tIDQuIOe8uuWksSBGZWVkYmFjayAvIFVzYWdlIOKGkiBOL0EgKyDph43lvZLkuIDljJYgLS0tCiAgICBjb25zdCBwYXJ0aWFsQ3R4ID0gY29tcHV0ZUhlYWx0aFNjb3JlKAogICAgICB7IGtub3dsZWRnZV9pZDogJ0sxJywgbWV0YWRhdGE6IGZ1bGxNZXRhZGF0YSgpLCBjaXRhdGlvbl9wYXNzOiB0cnVlLCBzb3VyY2U6ICdyZWdpc3RyeScgfSwKICAgICAgeyByZXRyaWV2YWxIaXQzOiAwLjgsIHJlZ3Jlc3Npb25BY2NlcHQ6IHRydWUgfQogICAgKTsKICAgIHQub2socGFydGlhbEN0eC5uYURpbWVuc2lvbnMuaW5kZXhPZignZmVlZGJhY2snKSA+PSAwLCAn57y6IGZlZWRiYWNrIOKGkiDmoIforrAgTi9BJyk7CiAgICB0Lm9rKHBhcnRpYWxDdHgubmFEaW1lbnNpb25zLmluZGV4T2YoJ3VzYWdlJykgPj0gMCwgJ+e8uiB1c2FnZSDihpIg5qCH6K6wIE4vQScpOwogICAgdC5lcXVhbChwYXJ0aWFsQ3R4LmRpbWVuc2lvbnMuZmVlZGJhY2sudmFsdWUsIG51bGwsICdOL0Eg57u0IHZhbHVlPW51bGzvvIjmnKrloasgMO+8iScpOwogICAgdC5lcXVhbChwYXJ0aWFsQ3R4LmRpbWVuc2lvbnMuZmVlZGJhY2submEsIHRydWUsICdOL0Eg57u05bimIG5hPXRydWUg5qCH6K6wJyk7CiAgICBjb25zdCBhdmFpbFcgPSAxNSArIDIwICsgMTAgKyAyMCArIDEwOyAvLyBtZXRhZGF0YStjaXRhdGlvbitldmlkZW5jZStyZXRyaWV2YWwrcmVncmVzc2lvbgogICAgY29uc3QgZXhwZWN0UmVub3JtID0gKDE1ICogMSArIDIwICogMSArIDEwICogMSArIDIwICogMC44ICsgMTAgKiAxKSAvIGF2YWlsVzsKICAgIHQuY2xvc2UocGFydGlhbEN0eC5zY29yZSwgTWF0aC5yb3VuZChleHBlY3RSZW5vcm0gKiAxMDAwKSAvIDEwMDAsIDFlLTksCiAgICAgICfnvLogMiDnu7TlkI7mjInlj6/nlKjmnYPph40gJyArIGF2YWlsVyArICcg6YeN5b2S5LiA5YyWID0gJyArIE1hdGgucm91bmQoZXhwZWN0UmVub3JtICogMTAwMCkgLyAxMDAwKTsKCiAgICAvLyAtLS0gNS4g5YWz6ZSu6Ziy5Lyq6YCg5pat6KiA77yaTi9BIOS4jeetieS6juWhqyAw77yM5Lmf5LiN562J5LqO5aGrIDEgLS0tCiAgICBjb25zdCBmaWxsWmVybyA9ICgxNSAqIDEgKyAyMCAqIDEgKyAxMCAqIDEgKyAyMCAqIDAuOCArIDE1ICogMCArIDEwICogMCArIDEwICogMSkgLyAxMDA7CiAgICBjb25zdCBmaWxsT25lID0gKDE1ICogMSArIDIwICogMSArIDEwICogMSArIDIwICogMC44ICsgMTUgKiAxICsgMTAgKiAxICsgMTAgKiAxKSAvIDEwMDsKICAgIHQub2soTWF0aC5hYnMocGFydGlhbEN0eC5zY29yZSAtIGZpbGxaZXJvKSA+IDFlLTYsICdOL0Eg5pyq6KKr5b2T5L2cIDAg5YiG77yI5ZCm5YiZ5Lya5L2O5Lyw5Li6ICcgKyBmaWxsWmVyby50b0ZpeGVkKDMpICsgJ++8iScpOwogICAgdC5vayhNYXRoLmFicyhwYXJ0aWFsQ3R4LnNjb3JlIC0gZmlsbE9uZSkgPiAxZS02LCAnTi9BIOacquiiq+W9k+S9nOa7oeWIhu+8iOWQpuWImeS8mumrmOS8sOS4uiAnICsgZmlsbE9uZS50b0ZpeGVkKDMpICsgJ++8iScpOwoKICAgIC8vIC0tLSA2LiDlhajnu7TnvLrlpLHlhZzlupUgLS0tCiAgICBjb25zdCBhbGxOYSA9IGNvbXB1dGVIZWFsdGhTY29yZSh7IGtub3dsZWRnZV9pZDogJ0swJywga25vd2xlZGdlX3R5cGU6ICd1bmtub3duJyB9LCB7fSk7CiAgICB0Lm9rKGFsbE5hLm5hRGltZW5zaW9ucy5pbmRleE9mKCdtZXRhZGF0YScpID49IDAsICfml6AgbWV0YWRhdGEg4oaSIG1ldGFkYXRhIE4vQScpOwogICAgdC5vayhhbGxOYS5uYURpbWVuc2lvbnMuaW5kZXhPZigncmV0cmlldmFsJykgPj0gMCwgJ+aXoOajgOe0ouS4iuS4i+aWhyDihpIgcmV0cmlldmFsIE4vQScpOwogICAgdC5vayhhbGxOYS5uYURpbWVuc2lvbnMuaW5kZXhPZigncmVncmVzc2lvbicpID49IDAsICfml6Dlm57lvZLkuIrkuIvmlocg4oaSIHJlZ3Jlc3Npb24gTi9BJyk7CiAgICB0Lm9rKHR5cGVvZiBhbGxOYS5zY29yZSA9PT0gJ251bWJlcicgJiYgIWlzTmFOKGFsbE5hLnNjb3JlKSwgJ+aegeerr+e8uuWkseS4iyBzY29yZSDku43kuLrlkIjms5XmlbDlrZfvvIjkuI0gTmFO77yJJyk7CgogICAgLy8gLS0tIDcuIEV2aWRlbmNlIOWIhue6pyAtLS0KICAgIGNvbnN0IGV2ID0gKHJlY29yZCkgPT4gY29tcHV0ZUhlYWx0aFNjb3JlKHJlY29yZCwge30pLmRpbWVuc2lvbnMuZXZpZGVuY2UudmFsdWU7CiAgICB0LmVxdWFsKGV2KHsgbWV0YWRhdGE6IHsgZXZpZGVuY2VfbGV2ZWw6ICdwcmltYXJ5JyB9IH0pLCAxLjAsICdldmlkZW5jZV9sZXZlbD1wcmltYXJ5IOKGkiAxLjAnKTsKICAgIHQuZXF1YWwoZXYoeyBtZXRhZGF0YTogeyBldmlkZW5jZV9sZXZlbDogJ3N1cHBvcnRpbmcnIH0gfSksIDAuOCwgJ3N1cHBvcnRpbmcg4oaSIDAuOCcpOwogICAgdC5lcXVhbChldih7IG1ldGFkYXRhOiB7IGV2aWRlbmNlX2xldmVsOiAnaWxsdXN0cmF0aXZlJyB9IH0pLCAwLjYsICdpbGx1c3RyYXRpdmUg4oaSIDAuNicpOwogICAgdC5lcXVhbChldih7IHNvdXJjZTogJ2NvcnB1cycgfSksIDEuMCwgJ+e7j+WFuO+8iGNvcnB1c++8ieKGkiAxLjAnKTsKICAgIHQuZXF1YWwoZXYoeyBrbm93bGVkZ2VfdHlwZTogJ3BzeWNob2xvZ3knIH0pLCAwLjcsICfmnKrmoIfms6jor4Hmja7nrYnnuqfnmoTpnZ7nu4/lhbgg4oaSIDAuNyDkv53lrojlgLwnKTsKCiAgICAvLyAtLS0gOC4gQ2l0YXRpb24g5Yik5a6a5LyY5YWI57qnIC0tLQogICAgY29uc3QgY2l0ID0gKHJlY29yZCkgPT4gY29tcHV0ZUhlYWx0aFNjb3JlKHJlY29yZCwge30pLmRpbWVuc2lvbnMuY2l0YXRpb247CiAgICB0LmVxdWFsKGNpdCh7IGNpdGF0aW9uX3Bhc3M6IHRydWUgfSkudmFsdWUsIDEuMCwgJ2NpdGF0aW9uX3Bhc3M9dHJ1ZSDihpIgMS4wJyk7CiAgICB0LmVxdWFsKGNpdCh7IGNpdGF0aW9uX3Bhc3M6IGZhbHNlIH0pLnZhbHVlLCAwLjAsICdjaXRhdGlvbl9wYXNzPWZhbHNlIOKGkiAwLjDvvIjpl6jnpoHlpLHotKXlpoLlrp7orqEgMO+8iScpOwogICAgdC5lcXVhbChjaXQoeyBzb3VyY2U6ICdjb3JwdXMnIH0pLnZhbHVlLCAxLjAsICfnu4/lhbjlv4XnhLbluKblvJXnlKgg4oaSIDEuMCcpOwogICAgdC5lcXVhbChjaXQoeyBtZXRhZGF0YTogeyBjaXRhdGlvbl90eXBlOiAnZGlyZWN0JyB9IH0pLnZhbHVlLCAxLjAsICflhbflpIcgY2l0YXRpb25fdHlwZSDihpIgMS4wJyk7CiAgICB0LmVxdWFsKGNpdCh7IGtub3dsZWRnZV90eXBlOiAncHN5Y2hvbG9neScgfSkubmEsIHRydWUsICfml6Dku7vkvZXlvJXnlKjkv6Hmga8g4oaSIE4vQe+8iOS4jem7mOiupOe7meWIhu+8iScpOwoKICAgIC8vIC0tLSA5LiBSZWdyZXNzaW9uIOS4ieaAgSAtLS0KICAgIGNvbnN0IHJlZ0RpbSA9IChjdHgpID0+IGNvbXB1dGVIZWFsdGhTY29yZSh7IHNvdXJjZTogJ2NvcnB1cycgfSwgY3R4KS5kaW1lbnNpb25zLnJlZ3Jlc3Npb247CiAgICB0LmVxdWFsKHJlZ0RpbSh7IHJlZ3Jlc3Npb25BY2NlcHQ6IHRydWUgfSkudmFsdWUsIDEuMCwgJ3JlZ3Jlc3Npb25BY2NlcHQ9dHJ1ZSDihpIgMS4wJyk7CiAgICB0LmVxdWFsKHJlZ0RpbSh7IHJlZ3Jlc3Npb25BY2NlcHQ6IGZhbHNlIH0pLnZhbHVlLCAwLjAsICdyZWdyZXNzaW9uQWNjZXB0PWZhbHNlIOKGkiAwLjAnKTsKICAgIHQuZXF1YWwocmVnRGltKHt9KS5uYSwgdHJ1ZSwgJ3JlZ3Jlc3Npb25BY2NlcHQg5pyq5o+Q5L6bIOKGkiBOL0HvvIjkuInmgIHljLrliIbvvIzkuI3loYznvKnkuLogZmFsc2XvvIknKTsKCiAgICAvLyAtLS0gMTAuIOiBmuWQiCAtLS0KICAgIGNvbnN0IHJlY3MgPSBbCiAgICAgIHsga25vd2xlZGdlX2lkOiAnQScsIHNvdXJjZTogJ2NvcnB1cycgfSwKICAgICAgeyBrbm93bGVkZ2VfaWQ6ICdCJywgbWV0YWRhdGE6IGZ1bGxNZXRhZGF0YSgpLCBjaXRhdGlvbl9wYXNzOiB0cnVlLCBzb3VyY2U6ICdyZWdpc3RyeScgfSwKICAgIF07CiAgICBjb25zdCBjdHggPSB7IHJldHJpZXZhbEhpdDM6IDAuODIsIHJlZ3Jlc3Npb25BY2NlcHQ6IHRydWUgfTsKICAgIGNvbnN0IGFnZyA9IGFnZ3JlZ2F0ZUhlYWx0aFNjb3JlKHJlY3MsIGN0eCk7CiAgICB0LmVxdWFsKGFnZy5wZXJSZWNvcmQubGVuZ3RoLCAyLCAn6IGa5ZCI6KaG55uW5YWo6YOo6K6w5b2VJyk7CiAgICBjb25zdCBzQSA9IGNvbXB1dGVIZWFsdGhTY29yZShyZWNzWzBdLCBjdHgpLnNjb3JlOwogICAgY29uc3Qgc0IgPSBjb21wdXRlSGVhbHRoU2NvcmUocmVjc1sxXSwgY3R4KS5zY29yZTsKICAgIHQuY2xvc2UoYWdnLmF2ZXJhZ2VTY29yZSwgTWF0aC5yb3VuZCgoKHNBICsgc0IpIC8gMikgKiAxMDAwKSAvIDEwMDAsIDFlLTksICflubPlnYfliIbnrYnkuo7pgJDlr7nosaHliIbmlbDlnYflgLwnKTsKICAgIHQub2soYWdnLm5hRGltZW5zaW9ucy5pbmRleE9mKCdtZXRhZGF0YScpID49IDAsICfogZrlkIjlkIjlubbkuobnu4/lhbjnmoQgbWV0YWRhdGEgTi9BJyk7CiAgICB0Lm9rKGFnZy5uYURpbWVuc2lvbnMuaW5kZXhPZignZmVlZGJhY2snKSA+PSAwLCAn6IGa5ZCI5ZCI5bm25LqGIGZlZWRiYWNrIE4vQScpOwogICAgdC5vayhhZ2cubmFEaW1lbnNpb25zLmluZGV4T2YoJ2NpdGF0aW9uJykgPCAwLCAn5Lik6ICF5byV55So57u05Z2H5Y+v55SoIOKGkiDkuI3lh7rnjrDlnKjogZrlkIggTi9BIOWIl+ihqCcpOwogICAgdC5lcXVhbChhZ2dyZWdhdGVIZWFsdGhTY29yZShbXSwgY3R4KS5hdmVyYWdlU2NvcmUsIDAsICfnqbrpm4blkIjogZrlkIjov5Tlm54gMO+8iOS4jSBOYU7vvIknKTsKCiAgICB0LmluZm8oJ+ekuuS+i++8mue7j+WFuCAnICsgc0EgKyAnIC8g6K6k6K+B5a+56LGhICcgKyBzQiArICfvvIjlt67lvILmnaXoh6ogTWV0YWRhdGEg57u05piv5ZCm5Y+v55So77yM6Z2e5Lq65Li66LCD5YiG77yJJyk7CiAgfSwKfTsK
+// ============================================================
+// 测试 4：Health Score 计算（七维权重 / 缺失维 N/A / 权重重归一化）
+// ------------------------------------------------------------
+// 守护约束（docs/66 §4）：
+//   · 七维权重 15/20/10/20/15/10/10 = 100
+//   · 缺失维度必须 N/A，**绝不以默认值填充**
+//   · 缺失维度按「权重重归一化」计算：Σ(w·v)/Σw（仅可用维）
+//   · 只读既有指标，不重算检索
+// ============================================================
+
+'use strict';
+
+const path = require('path');
+const CHAT = path.resolve(__dirname, '..', '..', 'cloudfunctions', 'chat');
+const {
+  WEIGHTS,
+  METADATA_CONTRACT_FIELDS,
+  computeHealthScore,
+  aggregateHealthScore,
+  metadataCompleteness,
+} = require(path.join(CHAT, 'knowledgeHealthScore'));
+
+/** 构造完整 19 字段 metadata */
+function fullMetadata() {
+  const md = {};
+  METADATA_CONTRACT_FIELDS.forEach((f) => {
+    md[f] = 'x';
+  });
+  md.evidence_level = 'primary';
+  md.citation_type = 'direct';
+  return md;
+}
+
+module.exports = {
+  name: 'Health Score 七维计算与 N/A 重归一化',
+  run(t) {
+    // --- 1. 权重契约 ---
+    const sum = Object.keys(WEIGHTS).reduce((s, k) => s + WEIGHTS[k], 0);
+    t.equal(sum, 100, '七维权重合计 = 100');
+    t.equal(WEIGHTS.metadata, 15, 'Metadata 权重 15%');
+    t.equal(WEIGHTS.citation, 20, 'Citation 权重 20%');
+    t.equal(WEIGHTS.evidence, 10, 'Evidence 权重 10%');
+    t.equal(WEIGHTS.retrieval, 20, 'Retrieval 权重 20%');
+    t.equal(WEIGHTS.feedback, 15, 'Feedback 权重 15%');
+    t.equal(WEIGHTS.usage, 10, 'Usage 权重 10%');
+    t.equal(WEIGHTS.regression, 10, 'Regression 权重 10%');
+    t.equal(METADATA_CONTRACT_FIELDS.length, 19, 'Metadata 契约为 19 字段');
+
+    // --- 2. metadataCompleteness ---
+    t.equal(metadataCompleteness(null), null, '无 metadata → 返回 null（N/A 信号，非 0 分）');
+    t.equal(metadataCompleteness(undefined), null, 'undefined metadata → null');
+    t.equal(metadataCompleteness(fullMetadata()), 1, '19 字段齐全 → 完整度 1.0');
+    const partial = fullMetadata();
+    delete partial.reviewer;
+    partial.version = '';
+    t.close(metadataCompleteness(partial), 17 / 19, 1e-9, '缺 1 项 + 空串 1 项 → 完整度 17/19（空串不算数）');
+
+    // --- 3. 七维全可用：分数 = 标准加权平均 ---
+    const full = computeHealthScore(
+      { knowledge_id: 'K1', metadata: fullMetadata(), citation_pass: true, source: 'registry' },
+      { retrievalHit3: 0.8, regressionAccept: true, feedback: 0.6, usage: 0.5 }
+    );
+    t.deepEqual(full.naDimensions, [], '全维可用时 naDimensions 为空');
+    const expectFull =
+      (15 * 1 + 20 * 1 + 10 * 1 + 20 * 0.8 + 15 * 0.6 + 10 * 0.5 + 10 * 1) / 100;
+    t.close(full.score, Math.round(expectFull * 1000) / 1000, 1e-9,
+      '全维分数 = Σ(w·v)/100 = ' + Math.round(expectFull * 1000) / 1000);
+
+    // --- 4. 缺失 Feedback / Usage → N/A + 重归一化 ---
+    const partialCtx = computeHealthScore(
+      { knowledge_id: 'K1', metadata: fullMetadata(), citation_pass: true, source: 'registry' },
+      { retrievalHit3: 0.8, regressionAccept: true }
+    );
+    t.ok(partialCtx.naDimensions.indexOf('feedback') >= 0, '缺 feedback → 标记 N/A');
+    t.ok(partialCtx.naDimensions.indexOf('usage') >= 0, '缺 usage → 标记 N/A');
+    t.equal(partialCtx.dimensions.feedback.value, null, 'N/A 维 value=null（未填 0）');
+    t.equal(partialCtx.dimensions.feedback.na, true, 'N/A 维带 na=true 标记');
+    const availW = 15 + 20 + 10 + 20 + 10; // metadata+citation+evidence+retrieval+regression
+    const expectRenorm = (15 * 1 + 20 * 1 + 10 * 1 + 20 * 0.8 + 10 * 1) / availW;
+    t.close(partialCtx.score, Math.round(expectRenorm * 1000) / 1000, 1e-9,
+      '缺 2 维后按可用权重 ' + availW + ' 重归一化 = ' + Math.round(expectRenorm * 1000) / 1000);
+
+    // --- 5. 关键防伪造断言：N/A 不等于填 0，也不等于填 1 ---
+    const fillZero = (15 * 1 + 20 * 1 + 10 * 1 + 20 * 0.8 + 15 * 0 + 10 * 0 + 10 * 1) / 100;
+    const fillOne = (15 * 1 + 20 * 1 + 10 * 1 + 20 * 0.8 + 15 * 1 + 10 * 1 + 10 * 1) / 100;
+    t.ok(Math.abs(partialCtx.score - fillZero) > 1e-6, 'N/A 未被当作 0 分（否则会低估为 ' + fillZero.toFixed(3) + '）');
+    t.ok(Math.abs(partialCtx.score - fillOne) > 1e-6, 'N/A 未被当作满分（否则会高估为 ' + fillOne.toFixed(3) + '）');
+
+    // --- 6. 全维缺失兜底 ---
+    const allNa = computeHealthScore({ knowledge_id: 'K0', knowledge_type: 'unknown' }, {});
+    t.ok(allNa.naDimensions.indexOf('metadata') >= 0, '无 metadata → metadata N/A');
+    t.ok(allNa.naDimensions.indexOf('retrieval') >= 0, '无检索上下文 → retrieval N/A');
+    t.ok(allNa.naDimensions.indexOf('regression') >= 0, '无回归上下文 → regression N/A');
+    t.ok(typeof allNa.score === 'number' && !isNaN(allNa.score), '极端缺失下 score 仍为合法数字（不 NaN）');
+
+    // --- 7. Evidence 分级 ---
+    const ev = (record) => computeHealthScore(record, {}).dimensions.evidence.value;
+    t.equal(ev({ metadata: { evidence_level: 'primary' } }), 1.0, 'evidence_level=primary → 1.0');
+    t.equal(ev({ metadata: { evidence_level: 'supporting' } }), 0.8, 'supporting → 0.8');
+    t.equal(ev({ metadata: { evidence_level: 'illustrative' } }), 0.6, 'illustrative → 0.6');
+    t.equal(ev({ source: 'corpus' }), 1.0, '经典（corpus）→ 1.0');
+    t.equal(ev({ knowledge_type: 'psychology' }), 0.7, '未标注证据等级的非经典 → 0.7 保守值');
+
+    // --- 8. Citation 判定优先级 ---
+    const cit = (record) => computeHealthScore(record, {}).dimensions.citation;
+    t.equal(cit({ citation_pass: true }).value, 1.0, 'citation_pass=true → 1.0');
+    t.equal(cit({ citation_pass: false }).value, 0.0, 'citation_pass=false → 0.0（门禁失败如实计 0）');
+    t.equal(cit({ source: 'corpus' }).value, 1.0, '经典必然带引用 → 1.0');
+    t.equal(cit({ metadata: { citation_type: 'direct' } }).value, 1.0, '具备 citation_type → 1.0');
+    t.equal(cit({ knowledge_type: 'psychology' }).na, true, '无任何引用信息 → N/A（不默认给分）');
+
+    // --- 9. Regression 三态 ---
+    const regDim = (ctx) => computeHealthScore({ source: 'corpus' }, ctx).dimensions.regression;
+    t.equal(regDim({ regressionAccept: true }).value, 1.0, 'regressionAccept=true → 1.0');
+    t.equal(regDim({ regressionAccept: false }).value, 0.0, 'regressionAccept=false → 0.0');
+    t.equal(regDim({}).na, true, 'regressionAccept 未提供 → N/A（三态区分，不塌缩为 false）');
+
+    // --- 10. 聚合 ---
+    const recs = [
+      { knowledge_id: 'A', source: 'corpus' },
+      { knowledge_id: 'B', metadata: fullMetadata(), citation_pass: true, source: 'registry' },
+    ];
+    const ctx = { retrievalHit3: 0.82, regressionAccept: true };
+    const agg = aggregateHealthScore(recs, ctx);
+    t.equal(agg.perRecord.length, 2, '聚合覆盖全部记录');
+    const sA = computeHealthScore(recs[0], ctx).score;
+    const sB = computeHealthScore(recs[1], ctx).score;
+    t.close(agg.averageScore, Math.round(((sA + sB) / 2) * 1000) / 1000, 1e-9, '平均分等于逐对象分数均值');
+    t.ok(agg.naDimensions.indexOf('metadata') >= 0, '聚合合并了经典的 metadata N/A');
+    t.ok(agg.naDimensions.indexOf('feedback') >= 0, '聚合合并了 feedback N/A');
+    t.ok(agg.naDimensions.indexOf('citation') < 0, '两者引用维均可用 → 不出现在聚合 N/A 列表');
+    t.equal(aggregateHealthScore([], ctx).averageScore, 0, '空集合聚合返回 0（不 NaN）');
+
+    t.info('示例：经典 ' + sA + ' / 认证对象 ' + sB + '（差异来自 Metadata 维是否可用，非人为调分）');
+  },
+};

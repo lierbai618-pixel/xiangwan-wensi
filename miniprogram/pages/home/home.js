@@ -1,1 +1,88 @@
-Ly8g5ZCR5pma6Zeu5oCdIMK3IOmmlumhtQpjb25zdCB7IGRhaWx5VGhvdWdodHMgfSA9IHJlcXVpcmUoIi4uLy4uL2RhdGEvZGFpbHlUaG91Z2h0cy5qcyIpOwpjb25zdCB7IGJvb2tzIH0gPSByZXF1aXJlKCIuLi8uLi9kYXRhL2Jvb2tzLmpzIik7CgovLyDmjInml6XmnJ/noa7lrprmgKfmir3lj5bkuIDmnaHjgIzku4rml6XmgJ3ogIPjgI0KZnVuY3Rpb24gcGlja0J5RGF0ZShsaXN0KSB7CiAgY29uc3QgZGF5c1NpbmNlRXBvY2ggPSBNYXRoLmZsb29yKERhdGUubm93KCkgLyA4NjQwMDAwMCk7CiAgcmV0dXJuIGRheXNTaW5jZUVwb2NoICUgbGlzdC5sZW5ndGg7Cn0KClBhZ2UoewogIGRhdGE6IHsKICAgIHRob3VnaHQ6IHt9LAogICAgdGhvdWdodElkeDogMCwKICAgIGJvb2tDb3VudDogYm9va3MubGVuZ3RoLAogICAgc2hvd1ByaXZhY3k6IGZhbHNlLCAvLyDpppbmrKHov5vlhaXnmoTpmpDnp4HmjojmnYPmta7lsYLvvIjlhajlsYDlhaXlj6PvvIkKICB9LAoKICBvbkxvYWQoKSB7CiAgICAvLyDpppbmrKHov5vlhaXkuJTmnKrlkIzmhI/pmpDnp4HmlL/nrZYg4oaSIOW8ueaOiOadg+a1ruWxgu+8iOWuoeaguOWQiOinhO+8jOimhuebluWFqOWFpeWPo++8iQogICAgaWYgKCF3eC5nZXRTdG9yYWdlU3luYygicHJpdmFjeUFncmVlZCIpKSB7CiAgICAgIHRoaXMuc2V0RGF0YSh7IHNob3dQcml2YWN5OiB0cnVlIH0pOwogICAgfQogICAgY29uc3QgaWR4ID0gcGlja0J5RGF0ZShkYWlseVRob3VnaHRzKTsKICAgIHRoaXMuc2V0RGF0YSh7IHRob3VnaHQ6IGRhaWx5VGhvdWdodHNbaWR4XSwgdGhvdWdodElkeDogaWR4IH0pOwogIH0sCgogIC8vIOWQjOaEj+makOengeaUv+etlu+8muWGmee8k+WtmO+8jOWFs+mXrea1ruWxggogIGFncmVlUHJpdmFjeSgpIHsKICAgIHd4LnNldFN0b3JhZ2VTeW5jKCJwcml2YWN5QWdyZWVkIiwgdHJ1ZSk7CiAgICB0aGlzLnNldERhdGEoeyBzaG93UHJpdmFjeTogZmFsc2UgfSk7CiAgfSwKCiAgLy8g5LiN5ZCM5oSP77ya6K+05piO6ZyA5ZCM5oSP5ZCO5pa55Y+v5L2/55So77yM5o+Q5L6b6YCA5Ye6CiAgZGVjbGluZVByaXZhY3koKSB7CiAgICB3eC5zaG93TW9kYWwoewogICAgICB0aXRsZTogIua4qemmqOaPkOekuiIsCiAgICAgIGNvbnRlbnQ6ICLpnIDlkIzmhI/jgIrpmpDnp4HmlL/nrZbjgIvkuI7jgIrnlKjmiLfljY/orq7jgIvlkI7miY3og73kvb/nlKjmnKzlsI/nqIvluo/jgIIiLAogICAgICBjb25maXJtVGV4dDogIuafpeeci+W5tuWQjOaEjyIsCiAgICAgIGNhbmNlbFRleHQ6ICLpgIDlh7oiLAogICAgICBzdWNjZXNzOiAocmVzKSA9PiB7CiAgICAgICAgaWYgKHJlcy5jYW5jZWwgJiYgd3guZXhpdE1pbmlQcm9ncmFtKSB7CiAgICAgICAgICB3eC5leGl0TWluaVByb2dyYW0oeyBmYWlsOiAoKSA9PiB7fSB9KTsKICAgICAgICB9CiAgICAgIH0sCiAgICB9KTsKICB9LAoKICAvLyDku47mta7lsYLot7PovazliLDlrozmlbTljY/orq7pobUKICBvcGVuUHJpdmFjeShlKSB7CiAgICBjb25zdCB0YWIgPSAoZS5jdXJyZW50VGFyZ2V0LmRhdGFzZXQgJiYgZS5jdXJyZW50VGFyZ2V0LmRhdGFzZXQudGFiKSB8fCAicHJpdmFjeSI7CiAgICB3eC5uYXZpZ2F0ZVRvKHsgdXJsOiAiL3BhZ2VzL3ByaXZhY3kvcHJpdmFjeT90YWI9IiArIHRhYiB9KTsKICB9LAoKICAvLyDmjaLkuIDlvKDvvJrlnKjpm4blkIjlhoXova7mm7/vvIjkuI3kv53lrZjvvIkKICBjaGFuZ2VUaG91Z2h0KCkgewogICAgY29uc3QgbmV4dCA9ICh0aGlzLmRhdGEudGhvdWdodElkeCArIDEpICUgZGFpbHlUaG91Z2h0cy5sZW5ndGg7CiAgICB0aGlzLnNldERhdGEoeyB0aG91Z2h0OiBkYWlseVRob3VnaHRzW25leHRdLCB0aG91Z2h0SWR4OiBuZXh0IH0pOwogIH0sCgogIGdvQ2hhdCgpIHsKICAgIHd4LnN3aXRjaFRhYih7IHVybDogIi9wYWdlcy9jaGF0L2NoYXQiIH0pOwogIH0sCgogIGdvRGFpbHkoKSB7CiAgICB3eC5uYXZpZ2F0ZVRvKHsgdXJsOiAiL3BhZ2VzL2RhaWx5L2RhaWx5IiB9KTsKICB9LAoKICBnb1F1aXooKSB7CiAgICB3eC5uYXZpZ2F0ZVRvKHsgdXJsOiAiL3BhZ2VzL3F1aXovcXVpeiIgfSk7CiAgfSwKCiAgZ29Cb29rcygpIHsKICAgIHd4Lm5hdmlnYXRlVG8oeyB1cmw6ICIvcGFnZXMvYm9va3MvYm9va3MiIH0pOwogIH0sCgogIC8vIDIwMjYtMDktMjEgQ1It5Yig6Zmk5Y2c566X5a2Q5qih5Z2X77yI56ys5Zub6L2u77yJ77yaZ29CdXN1YW56aSgpIOW3suenu+mZpOOAggogIC8vICAg5Zue5rua77ya5LuOIC5DUjIwMjYwOTIxRC1iYWsvaG9tZS5qcyDmgaLlpI3mnKzmlrnms5XvvIzlubbov5jljp8gaG9tZS53eG1sIOS4jiBhcHAuanNvbuOAggoKICBvblNoYXJlQXBwTWVzc2FnZSgpIHsKICAgIGNvbnN0IHQgPSB0aGlzLmRhdGEudGhvdWdodDsKICAgIHJldHVybiB7CiAgICAgIHRpdGxlOiB0ICYmIHQucXVvdGUgPyAi5ZCR5pma6Zeu5oCdIMK3ICIgKyB0LnF1b3RlIDogIuWQkeaZmumXruaAnSDCtyDku6Xnu4/lhbjkuLrplZzvvIzpmarkvaDmgJ3ogIPkurrnlJ8iLAogICAgICBwYXRoOiAiL3BhZ2VzL2hvbWUvaG9tZSIsCiAgICAgIGltYWdlVXJsOiAiL2Fzc2V0cy9zaGFyZS1jYXJkLnBuZyIsCiAgICB9OwogIH0sCn0pOwo=
+// 向晚问思 · 首页
+const { dailyThoughts } = require("../../data/dailyThoughts.js");
+const { books } = require("../../data/books.js");
+
+// 按日期确定性抽取一条「今日思考」
+function pickByDate(list) {
+  const daysSinceEpoch = Math.floor(Date.now() / 86400000);
+  return daysSinceEpoch % list.length;
+}
+
+Page({
+  data: {
+    thought: {},
+    thoughtIdx: 0,
+    bookCount: books.length,
+    showPrivacy: false, // 首次进入的隐私授权浮层（全局入口）
+  },
+
+  onLoad() {
+    // 首次进入且未同意隐私政策 → 弹授权浮层（审核合规，覆盖全入口）
+    if (!wx.getStorageSync("privacyAgreed")) {
+      this.setData({ showPrivacy: true });
+    }
+    const idx = pickByDate(dailyThoughts);
+    this.setData({ thought: dailyThoughts[idx], thoughtIdx: idx });
+  },
+
+  // 同意隐私政策：写缓存，关闭浮层
+  agreePrivacy() {
+    wx.setStorageSync("privacyAgreed", true);
+    this.setData({ showPrivacy: false });
+  },
+
+  // 不同意：说明需同意后方可使用，提供退出
+  declinePrivacy() {
+    wx.showModal({
+      title: "温馨提示",
+      content: "需同意《隐私政策》与《用户协议》后才能使用本小程序。",
+      confirmText: "查看并同意",
+      cancelText: "退出",
+      success: (res) => {
+        if (res.cancel && wx.exitMiniProgram) {
+          wx.exitMiniProgram({ fail: () => {} });
+        }
+      },
+    });
+  },
+
+  // 从浮层跳转到完整协议页
+  openPrivacy(e) {
+    const tab = (e.currentTarget.dataset && e.currentTarget.dataset.tab) || "privacy";
+    wx.navigateTo({ url: "/pages/privacy/privacy?tab=" + tab });
+  },
+
+  // 换一张：在集合内轮替（不保存）
+  changeThought() {
+    const next = (this.data.thoughtIdx + 1) % dailyThoughts.length;
+    this.setData({ thought: dailyThoughts[next], thoughtIdx: next });
+  },
+
+  goChat() {
+    wx.switchTab({ url: "/pages/chat/chat" });
+  },
+
+  goDaily() {
+    wx.navigateTo({ url: "/pages/daily/daily" });
+  },
+
+  goQuiz() {
+    wx.navigateTo({ url: "/pages/quiz/quiz" });
+  },
+
+  goBooks() {
+    wx.navigateTo({ url: "/pages/books/books" });
+  },
+
+  // 2026-09-21 CR-删除卜算子模块（第四轮）：goBusuanzi() 已移除。
+  //   回滚：从 .CR20260921D-bak/home.js 恢复本方法，并还原 home.wxml 与 app.json。
+
+  onShareAppMessage() {
+    const t = this.data.thought;
+    return {
+      title: t && t.quote ? "向晚问思 · " + t.quote : "向晚问思 · 以经典为镜，陪你思考人生",
+      path: "/pages/home/home",
+      imageUrl: "/assets/share-card.png",
+    };
+  },
+});

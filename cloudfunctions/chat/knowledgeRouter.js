@@ -1,1 +1,136 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIEtub3dsZWRnZSBSb3V0ZXIg4oCUIOefpeivhui3r+eUseWxgu+8iFBoYXNlIE4tNS4x77yJCi8vICAg5L2N572u77yaSW50ZW50IOWIhuexu+S5i+WQjuOAgVZlY3RvciBSZXRyaWV2YWwg5LmL5YmN44CCCi8vICAg6IGM6LSj77ya5oqK44CM6L+Z5Liq6Zeu6aKY6K+l5LyY5YWI55So5ZOq57G755+l6K+G5Zue562U44CN57yW56CB5oiQ5Y+v6K6h566X55qE5LyY5YWI57qn77yMCi8vICAgICAgICAg5Lqk57uZ5qOA57SiL+mHjeaOkuWxguS9v+eUqOOAguacrOi6q+S4jeWBmuajgOe0ouOAgeS4jeaUueWGmeefpeivhuOAgeS4jeeisOS6keOAggovLwovLyAgIOiuvuiuoeWOn+WIme+8iOS4jiBkb2NzLzU5IOWvuem9kO+8ie+8mgovLyAgIMK3IOe6r+WHveaVsOOAgembtuS+nei1lu+8iOS4jSByZXF1aXJlIHJhZy5qcyAvIGludGVudC5qc++8jOmBv+WFjeW+queOr+W8leeUqO+8ieOAggovLyAgIMK3IOWkjeeUqCBpbnRlbnQuanMg55qEIGRvbWFpbiDnu5PorrrvvIzkuI3mlrDlu7rlubPooYzliIbnsbvlmajjgIIKLy8gICDCtyDlj6rmmK/jgIzph43mjpLjgI3nn6Xor4bvvIznu53kuI3jgIzlsY/olL3jgI3nn6Xor4Yg4oCU4oCUIOW/g+eQhuWtpuWNoeWcqOiupOefpeWBj+W3ruexu+mXrumimOS4iuS+neaXp+WPr+S8mOWFiOOAggovLyAgIMK3IOi3r+eUseiwg+aVtOmHj++8iHJvdXRlckFkau+8ieaYr+OAjOWkp+W4uOaVsOWBj+e9ruOAje+8jOS4juW6leWxguebuOS8vOW6pueul+azleino+iApu+8mgovLyAgICAg5peg6K6655Sf5Lqn55SoIFRGIOS9meW8pu+8iGxlZ2FjeS9yYW5rQ2h1bmtz77yJ6L+Y5piv55yf5a6eIGVtYmVkZGluZyDkvZnlvKbvvIwKLy8gICAgIOWQjOS4gOWllyByb3V0ZXJBZGog6YO96YCC55So77yM5Y2V5LiA5LqL5a6e5p2l5rqQ44CCCi8vCi8vICAg6L6T5YWl77yacm91dGVRdWVzdGlvbih7IGludGVudEluZm8sIGRvbWFpbiwgcXVlc3Rpb24gfSkKLy8gICDovpPlh7rvvJp7IHByaW9yaXR5RG9tYWlucywga25vd2xlZGdlUHJpb3JpdHksIHByZWZlcnJlZFR5cGVzLCByZXJhbmtXZWlnaHRzIH0KLy8gICDph43mjpLvvJpyb3V0ZXJBZGooZG9jVHlwZSwgcm91dGUpIOKAlOKAlCDlm57lvZIv6YeN5o6S5bGC55u05o6l6LCD55So77yM5Yqg6L+bIGJhc2Ugc2NvcmXjgIIKLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CgovLyAtLS0tLS0tLS0tIOS4gOmUruWbnua7muW8gOWFs++8iFBoYXNlIE8tMCDmlrDlop7vvIzlronlhajmjqfliLbvvIzpnZ7mlrDlip/og73vvIkgLS0tLS0tLS0tLQovLyAgIOeUn+S6p+m7mOiupOW8gOWQr++8mktCX1JPVVRFUl9FTkFCTEVEIOS4jeiuvue9riA9IOW8gOWQr++8iOS4jiBOLTUuMSDooYzkuLrkuIDoh7TvvInjgIIKLy8gICDorr7kuLogImZhbHNlIiDlkI4gcm91dGVRdWVzdGlvbiDov5Tlm57pm7blgY/nva7kuK3mgKfot6/nlLHvvIxyb3V0ZXJBZGog5oGS5Li6IDDvvIwKLy8gICDnrYnku7cgTi01LjEg5LmL5YmN55qE5pen5qOA57Si5rWB56iLIOKAlOKAlCDljbPjgIzlhbPpl60gUm91dGVyID0g5oGi5aSN5pen5rWB56iL44CN55qE5LiA6ZSu5Zue5rua44CCCi8vICAg5LqR56uv5ZyoIGNoYXQg5LqR5Ye95pWw546v5aKD5Y+Y6YeP6YWN572u77yb5pys5Zyw5rWL6K+V55SoIHByb2Nlc3MuZW52LktCX1JPVVRFUl9FTkFCTEVE44CCCmNvbnN0IFJPVVRFUl9FTkFCTEVEID0gKHByb2Nlc3MuZW52LktCX1JPVVRFUl9FTkFCTEVEIHx8ICJ0cnVlIikudG9Mb3dlckNhc2UoKSAhPT0gImZhbHNlIjsKCi8vIC0tLS0tLS0tLS0g6K6k55+l5b+D55CG5L+h5Y+377ya5ZG95Lit5Y2z6LWw44CM5b+D55CG5a2m5LyY5YWI44CNIC0tLS0tLS0tLS0KLy8gICDkuI4gTi00IOa2iOiejeWunumqjCBWMyDnmoTln5/pl7jor43ooajlkIzmupDvvIzkvYbor63kuYnljYfnuqfkuLrjgIzkvJjlhYjnuqfjgI3ogIzpnZ7jgIzlvIDlhbPjgI3jgIIKLy8gICDlj6ror4bliKvjgIzorqTnn6XlgY/lt64gLyDlv4PnkIblrabnkIborrrjgI3nsbvpl67popjvvIzkuI3opobnm5blhajpg6jlv4PnkIblrabjgIIKLy8gICDms6jmhI/mlLbntKfvvJrpgb/lhY3lk7Llrabor63looPor43vvIjlm7rmiacv5bCB6ZetL+Wuouingi/kuLvop4Iv6K6k55+lL+WIpOaWre+8ieivr+inpuWPkSBwc3ljaCDkvJjlhYjvvIwKLy8gICDkvovlpoLjgIzlnZrmjIHliLDlupXkvJrkuI3kvJrlj6rmmK/lm7rmiafvvJ/jgI3mnKzotKjmmK8g5Lit5bq4L+Wtn+WtkCDkuYvovqjvvIzlupTotbDnu4/lhbjkvJjlhYjjgIIKLy8gICDjgIzorqTnn6XlsIHpl63jgI3kvZzkuLrnn63or63kv53nlZnvvIzku6Xopobnm5YgQjE1IOi/meexu+iupOefpeWBj+W3ruS4k+mimOOAggpjb25zdCBDT0dOSVRJVkVfUFNZQ0hfUkUgPSAv5YGP5beufOWBj+ingXzmiJDop4F85YWI5YWl5Li65Li7fOesrOS4gOWNsOixoXznoa7orqR86aqM5bC4fOW8guingXzlj6rnnIt86YCJ5oup5oCnfOivgeaNrnzlj43or4F85Y2w6K+BfOmUmuWumnzmoYbmnrbmlYjlupR85ZCv5Y+R5byPfOWPr+W+l+aAp3wyLTQtNnzmsoPmo6585bC85YWL5qOufOiHquivgXzlvZLlm6B86K6k55+l5bCB6ZetL2k7CgovLyAtLS0tLS0tLS0tIOe7j+WFuOS8mOWFiOWfn++8muS6uueUny/lhbPns7sv6YGT5b63L+ekvuS8mi/lk7LlrabnrYnjgIzlkJHmmZrpl67mgJ3jgI3kuLvoiKrpgZMgLS0tLS0tLS0tLQovLyAgIOi/meS6m+Wfn+eahOaPkOmXru+8jOS6p+WTgeaEj+WbvuaYr+OAjOeUqOe7j+WFuOWQr+WPkeaAneiAg+OAje+8jOW/g+eQhuWtpueQhuiuuuWPquaYr+ihpeWFheOAggovLyAgIOm7mOiupOWAvOWNs+e7j+WFuOS8mOWFiO+8iOimhueblumAmueUqC/mnKror4bliKvmg4XlhrXvvInvvIzkuI4gZG9jcy81OSBQcmlvcml0eSBNYXRyaXgg5LiA6Ie044CCCmZ1bmN0aW9uIGlzQ2xhc3NpY1ByaW9yaXR5RG9tYWluKGRvbWFpbikgewogIC8vIEtOT1dMRURHRV9ET01BSU5T77yI5Lq655SfL+mBk+W+ty/npL7kvJov5oOF57uqL+WFs+ezuy/ogYzkuJov5a2m5LmgL+aIkOmVv++8iSsg5ZOy5a2mICsg6YCa55So5YWc5bqVCiAgcmV0dXJuIFsi5ZOy5a2mIiwgIuS6uueUnyIsICLpgZPlvrciLCAi56S+5LyaIiwgIuaDhee7qiIsICLlhbPns7siLCAi6IGM5LiaIiwgIuWtpuS5oCIsICLmiJDplb8iLCAi6YCa55SoIiwgIiJdLmluZGV4T2YoZG9tYWluKSA+PSAwOwp9CgovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KLy8gcm91dGVRdWVzdGlvbih7IGludGVudEluZm8sIGRvbWFpbiwgcXVlc3Rpb24gfSkKLy8gICDov5Tlm57ot6/nlLHlhrPnrZbjgILmiYDmnInlrZfmrrXlnYfkuLrnuq/mlbDmja7vvIzkvr/kuo7mtYvor5XkuI7ml6Xlv5flrqHorqHjgIIKLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmZ1bmN0aW9uIHJvdXRlUXVlc3Rpb24oeyBpbnRlbnRJbmZvLCBkb21haW4sIHF1ZXN0aW9uIH0gPSB7fSkgewogIGlmICghUk9VVEVSX0VOQUJMRUQpIHsKICAgIC8vIOWbnua7muaooeW8j++8mumbtuWBj+e9ruS4reaAp+i3r+eUse+8jHJvdXRlckFkaiDmgZLkuLogMO+8jOetieS7t+S6juaXp+ajgOe0oua1geeoi+OAggogICAgcmV0dXJuIHsKICAgICAgcHJpb3JpdHlEb21haW5zOiBbZG9tYWluIHx8ICJnZW5lcmFsIl0sCiAgICAgIGtub3dsZWRnZVByaW9yaXR5OiB7fSwKICAgICAgcHJlZmVycmVkVHlwZXM6IFtdLAogICAgICByZXJhbmtXZWlnaHRzOiB7IHZlY3RvclNpbWlsYXJpdHk6IDEsIGRvbWFpbk1hdGNoOiAwLCBrbm93bGVkZ2VQcmlvcml0eTogMSwgY2l0YXRpb25BdXRob3JpdHk6IDEwIH0sCiAgICAgIHJlYXNvbjogInJvdXRlci1kaXNhYmxlZCIsCiAgICB9OwogIH0KICBjb25zdCBxID0gKHF1ZXN0aW9uIHx8ICIiKS50b1N0cmluZygpOwogIGNvbnN0IGRvbSA9IGRvbWFpbiB8fCAoaW50ZW50SW5mbyAmJiBpbnRlbnRJbmZvLmRvbWFpbikgfHwgIiI7CiAgY29uc3QgaXNQc3ljaCA9IENPR05JVElWRV9QU1lDSF9SRS50ZXN0KHEpOwoKICBpZiAoaXNQc3ljaCkgewogICAgLy8g6K6k55+l5YGP5beuIC8g5b+D55CG5a2m55CG6K6657G76Zeu6aKY77ya5b+D55CG5a2m5LyY5YWI77yM57uP5YW46ZmN5p2D5L2G5LiN5bGP6JS944CCCiAgICAvLyAgIHBzeWNob2xvZ3kgKzYw77ya6K6p5qaC5b+15Y2h5Zyo55u45YWz5pe25Y+v5LiK5rWu77ybCiAgICAvLyAgIGNsYXNzaWMgICAgLTgw77ya6YG/5YWN57uP5YW45Zyo57qv5b+D55CG6Zeu6aKY5LiK5oqi5L2N77yI5aaC44CM5Li65LuA5LmI5oiR5oC76K6k5Li65Yir5Lq66ZKI5a+55oiR44CN77yJ44CCCiAgICByZXR1cm4gewogICAgICBwcmlvcml0eURvbWFpbnM6IFsiY29nbml0aXZlLXBzeWNob2xvZ3kiXSwKICAgICAga25vd2xlZGdlUHJpb3JpdHk6IHsgcHN5Y2hvbG9neTogNjAsIGNsYXNzaWM6IC04MCB9LAogICAgICBwcmVmZXJyZWRUeXBlczogWyJwc3ljaG9sb2d5Il0sCiAgICAgIHJlcmFua1dlaWdodHM6IHsKICAgICAgICB2ZWN0b3JTaW1pbGFyaXR5OiAxLAogICAgICAgIGRvbWFpbk1hdGNoOiAzMCwKICAgICAgICBrbm93bGVkZ2VQcmlvcml0eTogMSwKICAgICAgICBjaXRhdGlvbkF1dGhvcml0eTogMTAsCiAgICAgIH0sCiAgICAgIHJlYXNvbjogImNvZ25pdGl2ZS1wc3ljaG9sb2d5LXNpZ25hbCIsCiAgICB9OwogIH0KCiAgaWYgKGlzQ2xhc3NpY1ByaW9yaXR5RG9tYWluKGRvbSkpIHsKICAgIC8vIOS6uueUny/lhbPns7sv6YGT5b63L+ekvuS8mi/lk7LlrabnrYnvvJrnu4/lhbjkvJjlhYjvvIzlv4PnkIblrabmpoLlv7XljaHlpKfluYXpmY3mnYPjgIIKICAgIC8vICAgcHN5Y2hvbG9neSAtMjAw77ya56Gu5L+d5qaC5b+15Y2h5LiN5Lya5Zyo5Lq655Sf6Zeu6aKY5LiK5oyk5o6J44CK6K666K+t44CL44CK55Sz6L6p56+H44CL562J77ybCiAgICAvLyAgIGNsYXNzaWMgICAgICs2MO+8mue7n+S4gOaKrOWNh+e7j+WFuO+8iOWdh+WMgOWBj+e9ru+8jOS4jeaUueWPmOe7j+WFuOmXtOebuOWvuemhuuW6j++8ieOAggogICAgcmV0dXJuIHsKICAgICAgcHJpb3JpdHlEb21haW5zOiBbZG9tIHx8ICJnZW5lcmFsIl0sCiAgICAgIGtub3dsZWRnZVByaW9yaXR5OiB7IHBzeWNob2xvZ3k6IC0yMDAsIGNsYXNzaWM6IDYwIH0sCiAgICAgIHByZWZlcnJlZFR5cGVzOiBbImNsYXNzaWMiXSwKICAgICAgcmVyYW5rV2VpZ2h0czogewogICAgICAgIHZlY3RvclNpbWlsYXJpdHk6IDEsCiAgICAgICAgZG9tYWluTWF0Y2g6IDMwLAogICAgICAgIGtub3dsZWRnZVByaW9yaXR5OiAxLAogICAgICAgIGNpdGF0aW9uQXV0aG9yaXR5OiAxMCwKICAgICAgfSwKICAgICAgcmVhc29uOiAiY2xhc3NpYy1wcmlvcml0eS1kb21haW4iLAogICAgfTsKICB9CgogIC8vIOWuouinguefpeivhuWfn++8iOe8lueoiy/mlbDlraYv56eR5oqAL+WBpeW6ty/kuovlrp7vvInvvJrnlLHkuIrmuLgga25vd2xlZGdlUG9saWN5PXNraXAg5bey5LiN5qOA57Si77yMCiAgLy8g5q2k5YiG5pSv5LuF5Li66Ziy5b6h5oCn5YWc5bqV77yM6buY6K6k57uP5YW45LyY5YWI44CCCiAgcmV0dXJuIHsKICAgIHByaW9yaXR5RG9tYWluczogW2RvbSB8fCAiZ2VuZXJhbCJdLAogICAga25vd2xlZGdlUHJpb3JpdHk6IHsgcHN5Y2hvbG9neTogLTIwMCwgY2xhc3NpYzogNjAgfSwKICAgIHByZWZlcnJlZFR5cGVzOiBbImNsYXNzaWMiXSwKICAgIHJlcmFua1dlaWdodHM6IHsKICAgICAgdmVjdG9yU2ltaWxhcml0eTogMSwKICAgICAgZG9tYWluTWF0Y2g6IDMwLAogICAgICBrbm93bGVkZ2VQcmlvcml0eTogMSwKICAgICAgY2l0YXRpb25BdXRob3JpdHk6IDEwLAogICAgfSwKICAgIHJlYXNvbjogImZhbGxiYWNrLWNsYXNzaWMiLAogIH07Cn0KCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQovLyByb3V0ZXJBZGooZG9jVHlwZSwgcm91dGUpCi8vICAg6YeN5o6S5bGC5ZSv5LiA6ZyA6KaB6LCD55So55qE5Ye95pWw44CC6L+U5Zue5Yqg6L+bIGJhc2Ugc2NvcmUg55qE6LCD5pW06YeP77yaCi8vICAgICA9IGtub3dsZWRnZVByaW9yaXR5W2RvY1R5cGVdICAg77yI57G75Z6L5LyY5YWI57qn77yM5aSn5bi45pWw5YGP572u77yJCi8vICAgICArIGRvbWFpbk1hdGNoICAgICAgICAgICAgICAgICAg77yIZG9jIOexu+Wei+WRveS4rSByb3V0ZS5wcmVmZXJyZWRUeXBlcyDml7YgKzMw77yJCi8vICAgZG9jVHlwZSDlj5boh6ogZG9jLmtub3dsZWRnZV90eXBl77yb57y65aSx5LiA5b6L6KeG5Li6ICdjbGFzc2ljJ++8iOeUn+S6p+e7j+WFuOm7mOiupOaXoOatpOWtl+aute+8ieOAggovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZnVuY3Rpb24gcm91dGVyQWRqKGRvY1R5cGUsIHJvdXRlKSB7CiAgaWYgKCFyb3V0ZSB8fCAhcm91dGUua25vd2xlZGdlUHJpb3JpdHkpIHJldHVybiAwOwogIGNvbnN0IGR0ID0gZG9jVHlwZSB8fCAiY2xhc3NpYyI7CiAgY29uc3QgcHJpb3JpdHkgPSAocm91dGUua25vd2xlZGdlUHJpb3JpdHlbZHRdIHx8IDApOwogIGNvbnN0IGRtV2VpZ2h0ID0gKHJvdXRlLnJlcmFua1dlaWdodHMgJiYgcm91dGUucmVyYW5rV2VpZ2h0cy5kb21haW5NYXRjaCkgfHwgMDsKICBjb25zdCBtYXRjaGVkID0gKHJvdXRlLnByZWZlcnJlZFR5cGVzIHx8IFtdKS5pbmRleE9mKGR0KSA+PSAwOwogIGNvbnN0IGRvbWFpbk1hdGNoID0gbWF0Y2hlZCA/IGRtV2VpZ2h0IDogMDsKICByZXR1cm4gcHJpb3JpdHkgKyBkb21haW5NYXRjaDsKfQoKbW9kdWxlLmV4cG9ydHMgPSB7CiAgcm91dGVRdWVzdGlvbiwKICByb3V0ZXJBZGosCiAgQ09HTklUSVZFX1BTWUNIX1JFLAogIGlzQ2xhc3NpY1ByaW9yaXR5RG9tYWluLAp9Owo=
+// ============================================================
+// Knowledge Router — 知识路由层（Phase N-5.1）
+//   位置：Intent 分类之后、Vector Retrieval 之前。
+//   职责：把「这个问题该优先用哪类知识回答」编码成可计算的优先级，
+//         交给检索/重排层使用。本身不做检索、不改写知识、不碰云。
+//
+//   设计原则（与 docs/59 对齐）：
+//   · 纯函数、零依赖（不 require rag.js / intent.js，避免循环引用）。
+//   · 复用 intent.js 的 domain 结论，不新建平行分类器。
+//   · 只是「重排」知识，绝不「屏蔽」知识 —— 心理学卡在认知偏差类问题上依旧可优先。
+//   · 路由调整量（routerAdj）是「大常数偏置」，与底层相似度算法解耦：
+//     无论生产用 TF 余弦（legacy/rankChunks）还是真实 embedding 余弦，
+//     同一套 routerAdj 都适用，单一事实来源。
+//
+//   输入：routeQuestion({ intentInfo, domain, question })
+//   输出：{ priorityDomains, knowledgePriority, preferredTypes, rerankWeights }
+//   重排：routerAdj(docType, route) —— 回归/重排层直接调用，加进 base score。
+// ============================================================
+
+// ---------- 一键回滚开关（Phase O-0 新增，安全控制，非新功能） ----------
+//   生产默认开启：KB_ROUTER_ENABLED 不设置 = 开启（与 N-5.1 行为一致）。
+//   设为 "false" 后 routeQuestion 返回零偏置中性路由，routerAdj 恒为 0，
+//   等价 N-5.1 之前的旧检索流程 —— 即「关闭 Router = 恢复旧流程」的一键回滚。
+//   云端在 chat 云函数环境变量配置；本地测试用 process.env.KB_ROUTER_ENABLED。
+const ROUTER_ENABLED = (process.env.KB_ROUTER_ENABLED || "true").toLowerCase() !== "false";
+
+// ---------- 认知心理信号：命中即走「心理学优先」 ----------
+//   与 N-4 消融实验 V3 的域闸词表同源，但语义升级为「优先级」而非「开关」。
+//   只识别「认知偏差 / 心理学理论」类问题，不覆盖全部心理学。
+//   注意收紧：避免哲学语境词（固执/封闭/客观/主观/认知/判断）误触发 psych 优先，
+//   例如「坚持到底会不会只是固执？」本质是 中庸/孟子 之辨，应走经典优先。
+//   「认知封闭」作为短语保留，以覆盖 B15 这类认知偏差专题。
+const COGNITIVE_PSYCH_RE = /偏差|偏见|成见|先入为主|第一印象|确认|验尸|异见|只看|选择性|证据|反证|印证|锚定|框架效应|启发式|可得性|2-4-6|沃森|尼克森|自证|归因|认知封闭/i;
+
+// ---------- 经典优先域：人生/关系/道德/社会/哲学等「向晚问思」主航道 ----------
+//   这些域的提问，产品意图是「用经典启发思考」，心理学理论只是补充。
+//   默认值即经典优先（覆盖通用/未识别情况），与 docs/59 Priority Matrix 一致。
+function isClassicPriorityDomain(domain) {
+  // KNOWLEDGE_DOMAINS（人生/道德/社会/情绪/关系/职业/学习/成长）+ 哲学 + 通用兜底
+  return ["哲学", "人生", "道德", "社会", "情绪", "关系", "职业", "学习", "成长", "通用", ""].indexOf(domain) >= 0;
+}
+
+// ============================================================
+// routeQuestion({ intentInfo, domain, question })
+//   返回路由决策。所有字段均为纯数据，便于测试与日志审计。
+// ============================================================
+function routeQuestion({ intentInfo, domain, question } = {}) {
+  if (!ROUTER_ENABLED) {
+    // 回滚模式：零偏置中性路由，routerAdj 恒为 0，等价于旧检索流程。
+    return {
+      priorityDomains: [domain || "general"],
+      knowledgePriority: {},
+      preferredTypes: [],
+      rerankWeights: { vectorSimilarity: 1, domainMatch: 0, knowledgePriority: 1, citationAuthority: 10 },
+      reason: "router-disabled",
+    };
+  }
+  const q = (question || "").toString();
+  const dom = domain || (intentInfo && intentInfo.domain) || "";
+  const isPsych = COGNITIVE_PSYCH_RE.test(q);
+
+  if (isPsych) {
+    // 认知偏差 / 心理学理论类问题：心理学优先，经典降权但不屏蔽。
+    //   psychology +60：让概念卡在相关时可上浮；
+    //   classic    -80：避免经典在纯心理问题上抢位（如「为什么我总认为别人针对我」）。
+    return {
+      priorityDomains: ["cognitive-psychology"],
+      knowledgePriority: { psychology: 60, classic: -80 },
+      preferredTypes: ["psychology"],
+      rerankWeights: {
+        vectorSimilarity: 1,
+        domainMatch: 30,
+        knowledgePriority: 1,
+        citationAuthority: 10,
+      },
+      reason: "cognitive-psychology-signal",
+    };
+  }
+
+  if (isClassicPriorityDomain(dom)) {
+    // 人生/关系/道德/社会/哲学等：经典优先，心理学概念卡大幅降权。
+    //   psychology -200：确保概念卡不会在人生问题上挤掉《论语》《申辩篇》等；
+    //   classic     +60：统一抬升经典（均匀偏置，不改变经典间相对顺序）。
+    return {
+      priorityDomains: [dom || "general"],
+      knowledgePriority: { psychology: -200, classic: 60 },
+      preferredTypes: ["classic"],
+      rerankWeights: {
+        vectorSimilarity: 1,
+        domainMatch: 30,
+        knowledgePriority: 1,
+        citationAuthority: 10,
+      },
+      reason: "classic-priority-domain",
+    };
+  }
+
+  // 客观知识域（编程/数学/科技/健康/事实）：由上游 knowledgePolicy=skip 已不检索，
+  // 此分支仅为防御性兜底，默认经典优先。
+  return {
+    priorityDomains: [dom || "general"],
+    knowledgePriority: { psychology: -200, classic: 60 },
+    preferredTypes: ["classic"],
+    rerankWeights: {
+      vectorSimilarity: 1,
+      domainMatch: 30,
+      knowledgePriority: 1,
+      citationAuthority: 10,
+    },
+    reason: "fallback-classic",
+  };
+}
+
+// ============================================================
+// routerAdj(docType, route)
+//   重排层唯一需要调用的函数。返回加进 base score 的调整量：
+//     = knowledgePriority[docType]   （类型优先级，大常数偏置）
+//     + domainMatch                  （doc 类型命中 route.preferredTypes 时 +30）
+//   docType 取自 doc.knowledge_type；缺失一律视为 'classic'（生产经典默认无此字段）。
+// ============================================================
+function routerAdj(docType, route) {
+  if (!route || !route.knowledgePriority) return 0;
+  const dt = docType || "classic";
+  const priority = (route.knowledgePriority[dt] || 0);
+  const dmWeight = (route.rerankWeights && route.rerankWeights.domainMatch) || 0;
+  const matched = (route.preferredTypes || []).indexOf(dt) >= 0;
+  const domainMatch = matched ? dmWeight : 0;
+  return priority + domainMatch;
+}
+
+module.exports = {
+  routeQuestion,
+  routerAdj,
+  COGNITIVE_PSYCH_RE,
+  isClassicPriorityDomain,
+};

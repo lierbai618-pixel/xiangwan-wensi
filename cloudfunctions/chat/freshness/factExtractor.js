@@ -1,1 +1,149 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIEZyZXNobmVzcyBMYXllciDigJQgZmFjdEV4dHJhY3Rvci5qcwovLyAgIFBoYXNlIFEgLyBRMCBQb2xpY3kg6JC95Zyw77ya5LqL5a6e5oq95Y+WICsgRmFjdC9JbnRlcnByZXRhdGlvbiDpmpTnprvjgIIKLy8KLy8gICDmlL/nrZbkvp3mja7vvJpkb2NzL1BoYXNlUTAtRnJlc2huZXNzLVBvbGljeS5tZCDCpzTvvIjmoLjlv4Ppk4HlvovvvIkKLy8gICAgIMK3IOS6i+WunuaYr+S6i+Wunu+8jOino+mHiuaYr+ino+mHiu+8jOingueCueS4jeaYr+S6i+Wunu+8jOeMnOa1i+S4jeaYr+WOn+WboOOAggovLyAgICAgwrcgZmFjdF9zdW1tYXJ5IOavj+WPpeW/hemhu+iDveaYoOWwhOWIsOadpea6kO+8m+aYoOWwhOS4jeS4iuWNs+WIoOmZpOOAggovLyAgICAgwrcgdW5rbm93bl9wb2ludHMg5b+F5aGr6Z2e56m64oCU4oCU44CM5rKh5pyJ5pyq55+l6aG544CN5pys6Lqr5piv5Y2x6Zmp5L+h5Y+344CCCi8vICAgICDCtyDlhazkvJfop4Lngrnlv4XpobvluKblvZLlsZ7moIforrDvvIzkuI3lvpflvZPkvZzkuovlrp7jgIIKLy8gICDnuq/lh73mlbDjgIHpm7bkupHkvp3otZbvvIzlj6/nprvnur/ljZXmtYvjgIIKLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Cid1c2Ugc3RyaWN0JzsKCnZhciBTID0gcmVxdWlyZSgnLi9zY2hlbWEnKTsKdmFyIFNPVVJDRV9DT05GSURFTkNFID0gUy5TT1VSQ0VfQ09ORklERU5DRTsKCi8vIOingueCuSAvIOino+ivu+agh+iusO+8muWRveS4reWNs+W9kuWFpSBpbnRlcnByZXRhdGlvbl9ib3VuZGFyeS5vcGluaW9uc++8jOawuOS4jeWFpSBmYWN0X3N1bW1hcnkKdmFyIE9QSU5JT05fTUFSS0VSX1JFID0gLyjnvZHlj4t86K6k5Li6fOi0qOeWkXzmjIfotKN85aOw6K6ofOaAkuaJuXzng63orq586K+E6K66fOeyieS4nXzoiIborrp85pyJ5Lq66KeJ5b6XfOS4jeWwkeS6unzlvojlpJrkurrooajnpLp86KeC54K5fOivhOiuuuensCkvdTsKCi8vIOS4jeehruWumuaAp+agh+iusO+8muWRveS4reWNs+aPkOekuiB1bmtub3duIC8g6ZmN572u5L+hCnZhciBVTkNFUlRBSU5UWV9NQVJLRVJfUkUgPSAvKOeWkeS8vHznvZHkvKB85o2u5LygfOaNruaKpemBk3zlsJrmnKp85pyq5YWs5biDfOW+heaguOWunnzmiJZ85Y+v6IO9fOaciea2iOaBr+ensHzmnKrnu4/or4Hlrp4pL3U7CgovLyDlhrLnqoHmoIforrDvvJrlpJrmupDooajov7DkupLnm7jnn5vnm77nmoTmj5DnpLror40KdmFyIENPTkZMSUNUX01BUktFUl9SRSA9IC8o5ZCm6K6kfOi+n+iwo3zlj43ovax85LiN5a6efOa+hOa4hXzlkITmiafkuIDor40pL3U7CgovLyDmjInkuK3mloflj6Xor7vliIflj6UKZnVuY3Rpb24gc3BsaXRTZW50ZW5jZXModGV4dCkgewogIHZhciBwYXJ0cyA9ICh0ZXh0IHx8ICcnKS50b1N0cmluZygpLnNwbGl0KC9b44CC77yB77yfIT9cbl0rLyk7CiAgdmFyIG91dCA9IFtdOwogIGZvciAodmFyIGkgPSAwOyBpIDwgcGFydHMubGVuZ3RoOyBpKyspIHsKICAgIHZhciBzID0gcGFydHNbaV0udHJpbSgpOwogICAgaWYgKHMubGVuZ3RoID49IDYpIG91dC5wdXNoKHMpOwogIH0KICByZXR1cm4gb3V0Owp9CgovLyDmnaXmupDnrb7lkI3vvJrnlKjkuo7ni6znq4vmgKfliKTmlq3vvIjkuI3lkIwgc291cmNlIOWtl+auteinhuS4uueLrOeri+a6kO+8iQpmdW5jdGlvbiBzb3VyY2VLZXlPZihyKSB7CiAgcmV0dXJuIChyICYmIChyLnNvdXJjZSB8fCByLnVybCB8fCByLnRpdGxlKSkgfHwgJ3Vua25vd24nOwp9CgovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KLy8gZXh0cmFjdEZhY3RzKHJlc3VsdHMpCi8vICAgcmVzdWx0czogZXZlbnRSZXRyaWV2ZXIg55qE5qCH5YeG5YyW57uT5p6c5pWw57uECi8vICAg6L+U5ZueIHsKLy8gICAgIGZhY3RTdW1tYXJ5ICAgICAgICAgICA6IFt7IHRleHQsIHNvdXJjZVVybHMsIHNvdXJjZUtleXMgfV0g5bim5p2l5rqQ5pig5bCE55qE5LqL5a6e5Y+lCi8vICAgICBvcGluaW9ucyAgICAgICAgICAgICAgOiBzdHJpbmdbXSAg5YWs5LyX6KeC54K577yI5b2S5bGe5qCH6K6w5L+d55WZ77yJCi8vICAgICB1bmtub3duUG9pbnRzICAgICAgICAgOiBzdHJpbmdbXSAg5pi+5byP5pyq55+l6aG577yI5L+d6K+B6Z2e56m677yJCi8vICAgICBzb3VyY2VDb25maWRlbmNlICAgICAgOiBoaWdoIHwgbWVkaXVtIHwgbG93Ci8vICAgICBoYXNDb25mbGljdCAgICAgICAgICAgOiBib29sZWFuCi8vICAgICBzb3VyY2VDb3VudCAgICAgICAgICAgOiBudW1iZXIgICAg54us56uL5p2l5rqQ5pWwCi8vICAgfQovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZnVuY3Rpb24gZXh0cmFjdEZhY3RzKHJlc3VsdHMpIHsKICB2YXIgbGlzdCA9IEFycmF5LmlzQXJyYXkocmVzdWx0cykgPyByZXN1bHRzIDogW107CiAgdmFyIGZhY3RzID0gW107CiAgdmFyIG9waW5pb25zID0gW107CiAgdmFyIHVua25vd25zID0gW107CiAgdmFyIHNvdXJjZUtleXMgPSBbXTsKICB2YXIgaGFzQ29uZmxpY3QgPSBmYWxzZTsKICB2YXIgaGFzVW5jZXJ0YWludHkgPSBmYWxzZTsKICB2YXIgaGFzU3ludGhlc2l6ZWQgPSBmYWxzZTsKCiAgZm9yICh2YXIgaSA9IDA7IGkgPCBsaXN0Lmxlbmd0aDsgaSsrKSB7CiAgICB2YXIgciA9IGxpc3RbaV07CiAgICAvLyBRMi0xNu+8mueZvueCvOWQiOaIkOW6leW6pyhyLnN5bnRoZXNpemVkKeKAlOKAlOaooeWei+iBlOe9kee7vOWQiOaWh+Wtl++8jOaXoOeLrOeri+adpea6kCBVUkzvvIwKICAgIC8vICAg5LuN5L2c5Li65LqL5a6e5YCZ6YCJ5YWl5Y+jKOe9ruS/oemZjee6p+S4uiBMT1cp77yM5L2G5pS+5a6944CM5b+F6aG75bimIFVSTOOAjeehrOinhOWImeOAggogICAgdmFyIHN5bnRoID0gISEociAmJiAoci5zeW50aGVzaXplZCB8fCByLnNvdXJjZSA9PT0gJ2JhaWxpYW4tc3ludGhlc2l6ZWQnKSk7CiAgICBpZiAoc3ludGgpIGhhc1N5bnRoZXNpemVkID0gdHJ1ZTsKICAgIHZhciBza2V5ID0gc291cmNlS2V5T2Yocik7CiAgICBpZiAoc291cmNlS2V5cy5pbmRleE9mKHNrZXkpIDwgMCkgc291cmNlS2V5cy5wdXNoKHNrZXkpOwoKICAgIHZhciB0ZXh0OwogICAgaWYgKHN5bnRoKSB7CiAgICAgIC8vIOWQiOaIkOW6leW6p++8muS6i+WunuaWh+acrOWcqCBjb250ZW50IOWtl+aute+8iOmdniB0aXRsZS9zbmlwcGV077yJCiAgICAgIHRleHQgPSAoKHIuY29udGVudCB8fCByLnNuaXBwZXQgfHwgJycpKS50b1N0cmluZygpOwogICAgfSBlbHNlIHsKICAgICAgdGV4dCA9ICgoci50aXRsZSB8fCAnJykgKyAn44CCJyArIChyLnNuaXBwZXQgfHwgJycpKS50b1N0cmluZygpOwogICAgfQogICAgaWYgKENPTkZMSUNUX01BUktFUl9SRS50ZXN0KHRleHQpKSBoYXNDb25mbGljdCA9IHRydWU7CiAgICBpZiAoVU5DRVJUQUlOVFlfTUFSS0VSX1JFLnRlc3QodGV4dCkpIGhhc1VuY2VydGFpbnR5ID0gdHJ1ZTsKCiAgICB2YXIgc2VudGVuY2VzID0gc3BsaXRTZW50ZW5jZXModGV4dCk7CiAgICBmb3IgKHZhciBqID0gMDsgaiA8IHNlbnRlbmNlcy5sZW5ndGg7IGorKykgewogICAgICB2YXIgc2VudCA9IHNlbnRlbmNlc1tqXTsKICAgICAgaWYgKE9QSU5JT05fTUFSS0VSX1JFLnRlc3Qoc2VudCkpIHsKICAgICAgICAvLyDop4LngrnlvZLlhaXop6Pph4rovrnnlYzvvIzmsLjkuI3ov5vlhaXkuovlrp7lsYIKICAgICAgICBpZiAob3BpbmlvbnMubGVuZ3RoIDwgNSAmJiBvcGluaW9ucy5pbmRleE9mKHNlbnQpIDwgMCkgb3BpbmlvbnMucHVzaChzZW50KTsKICAgICAgICBjb250aW51ZTsKICAgICAgfQogICAgICBpZiAoVU5DRVJUQUlOVFlfTUFSS0VSX1JFLnRlc3Qoc2VudCkpIHsKICAgICAgICAvLyDkuI3noa7lrprooajov7DvvJrkuI3ov5vkuovlrp7lsYLvvIzovazkuLrmnKrnn6Xpobnmj5DnpLoKICAgICAgICBpZiAodW5rbm93bnMubGVuZ3RoIDwgNSAmJiB1bmtub3ducy5pbmRleE9mKHNlbnQpIDwgMCkgdW5rbm93bnMucHVzaChzZW50KTsKICAgICAgICBjb250aW51ZTsKICAgICAgfQogICAgICAvLyDkuovlrp7lgJnpgInvvJrlv4XpobvluKbmnaXmupDmmKDlsITvvIhRMO+8muaYoOWwhOS4jeS4iuWNs+WIoOmZpO+8iQogICAgICAvLyAgIFEyLTE2IOS+i+Wklu+8muWQiOaIkOW6leW6p+aUvuWuvSBVUkwg6KaB5rGC77yM5L2G572u5L+h5bqm5LuN5Li6IExPV++8iOS4jeWPr+aguOWunu+8ieOAggogICAgICB2YXIgdXJsID0gKHIudXJsIHx8ICcnKS50b1N0cmluZygpOwogICAgICBpZiAoIXVybCAmJiAhc3ludGgpIGNvbnRpbnVlOyAvLyDml6AgVVJMIOadpea6kOeahOWPpeWtkOS4jeWPr+aguOWuniDihpIg5Yig6ZmkCiAgICAgIHZhciBleGlzdHMgPSBmYWxzZTsKICAgICAgZm9yICh2YXIgayA9IDA7IGsgPCBmYWN0cy5sZW5ndGg7IGsrKykgewogICAgICAgIGlmIChmYWN0c1trXS50ZXh0ID09PSBzZW50KSB7IGV4aXN0cyA9IHRydWU7IGJyZWFrOyB9CiAgICAgIH0KICAgICAgaWYgKCFleGlzdHMgJiYgZmFjdHMubGVuZ3RoIDwgOCkgewogICAgICAgIGZhY3RzLnB1c2goewogICAgICAgICAgdGV4dDogc2VudCwKICAgICAgICAgIHNvdXJjZVVybHM6IHVybCA/IFt1cmxdIDogW10sCiAgICAgICAgICBzb3VyY2VLZXlzOiBbc2tleV0sCiAgICAgICAgICBzeW50aGVzaXplZDogc3ludGgKICAgICAgICB9KTsKICAgICAgfQogICAgfQogIH0KCiAgLy8g572u5L+h5bqm77ya5aSa54us56uL5rqQIOKGkiBoaWdo77yb5Y2V5rqQ5oiW5ZCr5LiN56Gu5a6a5oCn5qCH6K6wIOKGkiDpmY3nuqcKICB2YXIgc291cmNlQ291bnQgPSBzb3VyY2VLZXlzLmxlbmd0aDsKICB2YXIgY29uZmlkZW5jZTsKICBpZiAoc291cmNlQ291bnQgPj0gMiAmJiAhaGFzVW5jZXJ0YWludHkgJiYgIWhhc0NvbmZsaWN0KSB7CiAgICBjb25maWRlbmNlID0gU09VUkNFX0NPTkZJREVOQ0UuSElHSDsKICB9IGVsc2UgaWYgKHNvdXJjZUNvdW50ID49IDIpIHsKICAgIGNvbmZpZGVuY2UgPSBTT1VSQ0VfQ09ORklERU5DRS5NRURJVU07CiAgfSBlbHNlIHsKICAgIGNvbmZpZGVuY2UgPSBTT1VSQ0VfQ09ORklERU5DRS5MT1c7CiAgfQoKICAvLyBRMCDpk4HlvovvvJp1bmtub3duX3BvaW50cyDlv4XpobvpnZ7nqboKICBpZiAoaGFzQ29uZmxpY3QpIHVua25vd25zLnB1c2goJ+S4jeWQjOadpea6kOeahOihqOi/sOWtmOWcqOWHuuWFpe+8jOWFs+mUrue7huiKguS7peWumOaWuemAmuaKpeS4uuWHhicpOwogIGlmICh1bmtub3ducy5sZW5ndGggPT09IDApIHsKICAgIHVua25vd25zLnB1c2goJ+S6i+S7tueahOWujOaVtOe7huiKguS4juW9k+S6i+S6uuWKqOacuuebruWJjeaXoOazleS7juWFrOW8gOS/oeaBr+S4reWujOWFqOehruiupCcpOwogIH0KCiAgcmV0dXJuIHsKICAgIGZhY3RTdW1tYXJ5OiBmYWN0cywKICAgIG9waW5pb25zOiBvcGluaW9ucywKICAgIHVua25vd25Qb2ludHM6IHVua25vd25zLnNsaWNlKDAsIDUpLAogICAgc291cmNlQ29uZmlkZW5jZTogY29uZmlkZW5jZSwKICAgIGhhc0NvbmZsaWN0OiBoYXNDb25mbGljdCwKICAgIGhhc1N5bnRoZXNpemVkOiBoYXNTeW50aGVzaXplZCwKICAgIHNvdXJjZUNvdW50OiBzb3VyY2VDb3VudCwKICB9Owp9Cgptb2R1bGUuZXhwb3J0cyA9IHsKICBleHRyYWN0RmFjdHM6IGV4dHJhY3RGYWN0cywKICBzcGxpdFNlbnRlbmNlczogc3BsaXRTZW50ZW5jZXMsCiAgT1BJTklPTl9NQVJLRVJfUkU6IE9QSU5JT05fTUFSS0VSX1JFLAogIFVOQ0VSVEFJTlRZX01BUktFUl9SRTogVU5DRVJUQUlOVFlfTUFSS0VSX1JFLAogIENPTkZMSUNUX01BUktFUl9SRTogQ09ORkxJQ1RfTUFSS0VSX1JFLAp9Owo=
+// ============================================================
+// Freshness Layer — factExtractor.js
+//   Phase Q / Q0 Policy 落地：事实抽取 + Fact/Interpretation 隔离。
+//
+//   政策依据：docs/PhaseQ0-Freshness-Policy.md §4（核心铁律）
+//     · 事实是事实，解释是解释，观点不是事实，猜测不是原因。
+//     · fact_summary 每句必须能映射到来源；映射不上即删除。
+//     · unknown_points 必填非空——「没有未知项」本身是危险信号。
+//     · 公众观点必须带归属标记，不得当作事实。
+//   纯函数、零云依赖，可离线单测。
+// ============================================================
+'use strict';
+
+var S = require('./schema');
+var SOURCE_CONFIDENCE = S.SOURCE_CONFIDENCE;
+
+// 观点 / 解读标记：命中即归入 interpretation_boundary.opinions，永不入 fact_summary
+var OPINION_MARKER_RE = /(网友|认为|质疑|指责|声讨|怒批|热议|评论|粉丝|舆论|有人觉得|不少人|很多人表示|观点|评论称)/u;
+
+// 不确定性标记：命中即提示 unknown / 降置信
+var UNCERTAINTY_MARKER_RE = /(疑似|网传|据传|据报道|尚未|未公布|待核实|或|可能|有消息称|未经证实)/u;
+
+// 冲突标记：多源表述互相矛盾的提示词
+var CONFLICT_MARKER_RE = /(否认|辟谣|反转|不实|澄清|各执一词)/u;
+
+// 按中文句读切句
+function splitSentences(text) {
+  var parts = (text || '').toString().split(/[。！？!?\n]+/);
+  var out = [];
+  for (var i = 0; i < parts.length; i++) {
+    var s = parts[i].trim();
+    if (s.length >= 6) out.push(s);
+  }
+  return out;
+}
+
+// 来源签名：用于独立性判断（不同 source 字段视为独立源）
+function sourceKeyOf(r) {
+  return (r && (r.source || r.url || r.title)) || 'unknown';
+}
+
+// ============================================================
+// extractFacts(results)
+//   results: eventRetriever 的标准化结果数组
+//   返回 {
+//     factSummary           : [{ text, sourceUrls, sourceKeys }] 带来源映射的事实句
+//     opinions              : string[]  公众观点（归属标记保留）
+//     unknownPoints         : string[]  显式未知项（保证非空）
+//     sourceConfidence      : high | medium | low
+//     hasConflict           : boolean
+//     sourceCount           : number    独立来源数
+//   }
+// ============================================================
+function extractFacts(results) {
+  var list = Array.isArray(results) ? results : [];
+  var facts = [];
+  var opinions = [];
+  var unknowns = [];
+  var sourceKeys = [];
+  var hasConflict = false;
+  var hasUncertainty = false;
+  var hasSynthesized = false;
+
+  for (var i = 0; i < list.length; i++) {
+    var r = list[i];
+    // Q2-16：百炼合成底座(r.synthesized)——模型联网综合文字，无独立来源 URL，
+    //   仍作为事实候选入口(置信降级为 LOW)，但放宽「必须带 URL」硬规则。
+    var synth = !!(r && (r.synthesized || r.source === 'bailian-synthesized'));
+    if (synth) hasSynthesized = true;
+    var skey = sourceKeyOf(r);
+    if (sourceKeys.indexOf(skey) < 0) sourceKeys.push(skey);
+
+    var text;
+    if (synth) {
+      // 合成底座：事实文本在 content 字段（非 title/snippet）
+      text = ((r.content || r.snippet || '')).toString();
+    } else {
+      text = ((r.title || '') + '。' + (r.snippet || '')).toString();
+    }
+    if (CONFLICT_MARKER_RE.test(text)) hasConflict = true;
+    if (UNCERTAINTY_MARKER_RE.test(text)) hasUncertainty = true;
+
+    var sentences = splitSentences(text);
+    for (var j = 0; j < sentences.length; j++) {
+      var sent = sentences[j];
+      if (OPINION_MARKER_RE.test(sent)) {
+        // 观点归入解释边界，永不进入事实层
+        if (opinions.length < 5 && opinions.indexOf(sent) < 0) opinions.push(sent);
+        continue;
+      }
+      if (UNCERTAINTY_MARKER_RE.test(sent)) {
+        // 不确定表述：不进事实层，转为未知项提示
+        if (unknowns.length < 5 && unknowns.indexOf(sent) < 0) unknowns.push(sent);
+        continue;
+      }
+      // 事实候选：必须带来源映射（Q0：映射不上即删除）
+      //   Q2-16 例外：合成底座放宽 URL 要求，但置信度仍为 LOW（不可核实）。
+      var url = (r.url || '').toString();
+      if (!url && !synth) continue; // 无 URL 来源的句子不可核实 → 删除
+      var exists = false;
+      for (var k = 0; k < facts.length; k++) {
+        if (facts[k].text === sent) { exists = true; break; }
+      }
+      if (!exists && facts.length < 8) {
+        facts.push({
+          text: sent,
+          sourceUrls: url ? [url] : [],
+          sourceKeys: [skey],
+          synthesized: synth
+        });
+      }
+    }
+  }
+
+  // 置信度：多独立源 → high；单源或含不确定性标记 → 降级
+  var sourceCount = sourceKeys.length;
+  var confidence;
+  if (sourceCount >= 2 && !hasUncertainty && !hasConflict) {
+    confidence = SOURCE_CONFIDENCE.HIGH;
+  } else if (sourceCount >= 2) {
+    confidence = SOURCE_CONFIDENCE.MEDIUM;
+  } else {
+    confidence = SOURCE_CONFIDENCE.LOW;
+  }
+
+  // Q0 铁律：unknown_points 必须非空
+  if (hasConflict) unknowns.push('不同来源的表述存在出入，关键细节以官方通报为准');
+  if (unknowns.length === 0) {
+    unknowns.push('事件的完整细节与当事人动机目前无法从公开信息中完全确认');
+  }
+
+  return {
+    factSummary: facts,
+    opinions: opinions,
+    unknownPoints: unknowns.slice(0, 5),
+    sourceConfidence: confidence,
+    hasConflict: hasConflict,
+    hasSynthesized: hasSynthesized,
+    sourceCount: sourceCount,
+  };
+}
+
+module.exports = {
+  extractFacts: extractFacts,
+  splitSentences: splitSentences,
+  OPINION_MARKER_RE: OPINION_MARKER_RE,
+  UNCERTAINTY_MARKER_RE: UNCERTAINTY_MARKER_RE,
+  CONFLICT_MARKER_RE: CONFLICT_MARKER_RE,
+};

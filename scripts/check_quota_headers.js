@@ -1,1 +1,26 @@
-IyEvdXNyL2Jpbi9lbnYgbm9kZQondXNlIHN0cmljdCc7Ci8vIOajgOafpSBEYXNoU2NvcGUg5ZON5bqU5aS05piv5ZCm5pC65bim6aKd5bqmIC8g6ZmQ5rWB5L+h5oGvCmNvbnN0IEtFWSA9IHByb2Nlc3MuZW52LkRBU0hTQ09QRV9LRVk7CmNvbnN0IEJBU0UgPSAnaHR0cHM6Ly9kYXNoc2NvcGUuYWxpeXVuY3MuY29tL2NvbXBhdGlibGUtbW9kZS92MSc7CmNvbnN0IE1PREVMUyA9IChwcm9jZXNzLmVudi5NT0RFTFMgfHwgJ3F3ZW4tdHVyYm8scXdlbi1mbGFzaCxxd2VuLXBsdXMscXdlbjMtMzBiLWEzYi1pbnN0cnVjdC0yNTA3Jykuc3BsaXQoJywnKTsKCihhc3luYyAoKSA9PiB7CiAgZm9yIChjb25zdCBtIG9mIE1PREVMUykgewogICAgdHJ5IHsKICAgICAgY29uc3QgcmVzID0gYXdhaXQgZmV0Y2goQkFTRSArICcvY2hhdC9jb21wbGV0aW9ucycsIHsKICAgICAgICBtZXRob2Q6ICdQT1NUJywKICAgICAgICBoZWFkZXJzOiB7IEF1dGhvcml6YXRpb246ICdCZWFyZXIgJyArIEtFWSwgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJyB9LAogICAgICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KHsgbW9kZWw6IG0sIG1lc3NhZ2VzOiBbeyByb2xlOiAndXNlcicsIGNvbnRlbnQ6ICdoaScgfV0sIG1heF90b2tlbnM6IDQsIHN0cmVhbTogZmFsc2UgfSksCiAgICAgIH0pOwogICAgICBjb25zb2xlLmxvZygn4pWQ4pWQ4pWQ4pWQICcgKyBtICsgJyAgSFRUUCAnICsgcmVzLnN0YXR1cyArICcg4pWQ4pWQ4pWQ4pWQJyk7CiAgICAgIGNvbnN0IGggPSB7fTsKICAgICAgcmVzLmhlYWRlcnMuZm9yRWFjaCgodiwgaykgPT4geyBoW2tdID0gdjsgfSk7CiAgICAgIE9iamVjdC5lbnRyaWVzKGgpLnNvcnQoKS5mb3JFYWNoKChbaywgdl0pID0+IGNvbnNvbGUubG9nKCcgICAnICsgayArICc6ICcgKyB2KSk7CiAgICAgIGNvbnN0IGogPSBhd2FpdCByZXMuanNvbigpLmNhdGNoKCgpID0+IG51bGwpOwogICAgICBpZiAoaiAmJiBqLnVzYWdlKSBjb25zb2xlLmxvZygnICAgdXNhZ2U6ICcgKyBKU09OLnN0cmluZ2lmeShqLnVzYWdlKSk7CiAgICAgIGlmIChqICYmIGouZXJyb3IpIGNvbnNvbGUubG9nKCcgICBlcnJvcjogJyArIEpTT04uc3RyaW5naWZ5KGouZXJyb3IpLnNsaWNlKDAsIDIwMCkpOwogICAgICBjb25zb2xlLmxvZygnJyk7CiAgICB9IGNhdGNoIChlKSB7IGNvbnNvbGUubG9nKCfilZDilZDilZDilZAgJyArIG0gKyAnICDinJcgJyArIGUubWVzc2FnZSArICdcbicpOyB9CiAgfQp9KSgpOwo=
+#!/usr/bin/env node
+'use strict';
+// 检查 DashScope 响应头是否携带额度 / 限流信息
+const KEY = process.env.DASHSCOPE_KEY;
+const BASE = 'https://dashscope.aliyuncs.com/compatible-mode/v1';
+const MODELS = (process.env.MODELS || 'qwen-turbo,qwen-flash,qwen-plus,qwen3-30b-a3b-instruct-2507').split(',');
+
+(async () => {
+  for (const m of MODELS) {
+    try {
+      const res = await fetch(BASE + '/chat/completions', {
+        method: 'POST',
+        headers: { Authorization: 'Bearer ' + KEY, 'Content-Type': 'application/json' },
+        body: JSON.stringify({ model: m, messages: [{ role: 'user', content: 'hi' }], max_tokens: 4, stream: false }),
+      });
+      console.log('════ ' + m + '  HTTP ' + res.status + ' ════');
+      const h = {};
+      res.headers.forEach((v, k) => { h[k] = v; });
+      Object.entries(h).sort().forEach(([k, v]) => console.log('   ' + k + ': ' + v));
+      const j = await res.json().catch(() => null);
+      if (j && j.usage) console.log('   usage: ' + JSON.stringify(j.usage));
+      if (j && j.error) console.log('   error: ' + JSON.stringify(j.error).slice(0, 200));
+      console.log('');
+    } catch (e) { console.log('════ ' + m + '  ✗ ' + e.message + '\n'); }
+  }
+})();

@@ -1,1 +1,68 @@
-IyAwMCDCtyDpobnnm67nroDku4vvvIhQcm9qZWN077yJDQoNCj4g5pys5paH5Lu25pivIEFJX0NPTlRFWFQg5YWl5Y+j57Si5byV55qE56ys5LiA56+H44CC5Lu75L2V5paw5o6l5omL5pys6aG555uu55qEIEFJ77yM5bqU5YWI6K+7IGBSRUFETUVfQUkubWRg77yM5YaN5oyJ5Zu+57Si6aql6K+75LiL5YiX5paH5qGj44CCDQo+ICoq5Yi35paw5LqOIDIwMjYtMDgtMDfvvIjnu4jmoKHoh7MgUTItMTXvvIkqKuOAgg0KDQojIyDpobnnm67ouqvku70NCg0KfCDpobkgfCDlgLwgfA0KfC0tLS18LS0tLXwNCnwg6aG555uu5ZCN56ewIHwgKirlkJHmmZrpl67mgJ0qKu+8iOabvueUqOWQjeOAjOmXrumBk+OAje+8iSB8DQp8IOS6p+WTgeWumuS9jSB8IEFJIOaAnei+qOWKqeaJi++8muS7pee7j+WFuOWTsuWtpi/mloflraYv5b+D55CG5a2m77yM5biu55So5oi3KirnkIbop6Ppl67popjjgIHlvaLmiJDliKTmlq0qKu+8jOS9hioq5LiN5pu/55So5oi35YGa5Yaz5a6aKiogfA0KfCDnm67moIfnlKjmiLcgfCDmg7PorqTnnJ/mg7PmuIXmpZrkuIDku7bkuovnmoTkurrvvIjlrabnlJ8gLyDogYzlnLrkurogLyDliJvkvZzogIUgLyDlhoXnnIHogIXvvIkgfA0KfCDkuqflk4Hnm67moIcgfCDorqnjgIznu4/lhbjjgI3miJDkuLrmgJ3ogIPnmoTot7Pmnb/vvIzogIzpnZ7moIflh4bnrZTmoYggfA0KfCDlvZPliY3pmLbmrrUgfCAqKlEyLTE1KirvvIjkvKDorrDlubvop4npmLLmiqTlt7Lpg6jnvbLvvInvvJvogZTnvZHmkJzntKLlt7LkuIrnur/vvIhRMi0xNCDpg6jnvbLvvIkgfA0KfCDpobnnm67njrDnirYgfCDlvq7kv6HkupHlvIDlj5HlsI/nqIvluo/vvIwqKuWkh+ahiOWuoeaguOS4rSoq77yI6Z2e5ZWG55SoLeWKnuWFrO+8iSB8DQp8IEFQUElEIHwgYHd4MjY1M2YxMjU4OWY5Zjg5ZmDvvIjml6fmlofmoaMgYOKApmY5ZDg5ZmAg5Li656yU6K+v77yM56ysIDE1IOS9jeW6lOS4uiBgZmDvvIkgfA0KfCDkupHnjq/looMgSUQgfCBgWU9VUl9DTE9VRF9FTlZfSURgIHwNCnwgb3BlbmlkIOagt+S+i++8iOeuoeeQhuWRmO+8iSB8IGBZT1VSX0FETUlOX09QRU5JRGAgfA0KDQojIyDnrKzkuIDljp/liJnvvIjkuqflk4HvvIkNCg0KKirlhYjlgZrkurrvvIzlho3lvJXnu48qKuKAlOKAlOWbnuetlOWbuuWumuS6lOaute+8iOeQhuinoyDihpIg5YiG5p6QIOKGkiDooYzliqgg4oaSIOe7j+WFuCDihpIg5oCd6ICD77yJ77yb57uP5YW45piv5ZCv5Y+R5LiN5piv562U5qGI77yb5Lil5qC85YiG56a75Y6f5paH5LiOIEFJIOino+ivu+OAgg0KDQojIyDlm5vmqKHlvI8gKyDkuInlsYLog73lipvvvIgyMDI2LTA4IOWumuWei++8iQ0KDQpgY2hhdC9pbmRleC5qc2Ag5oyJ55So5oi36YCJ5oup55qEIGBtb2RlYCDkuI7pl67popjmgKfotKjmtL7lj5HvvJoNCg0KfCDmqKHlvI8gfCDlkKvkuYkgfCDmo4DntKLnrZbnlaUgfA0KfC0tLS0tLXwtLS0tLS18LS0tLS0tLS0tfA0KfCAqKkZhc3Twn4yQKiogfCDlv6vnrZTvvIjogZTnvZHkvJjlhYjvvIkgfCBTZWFyY2jvvIjlhbMgUkFH77yJ77yb5peg5rqQ5YiZ5rS+5Y+R5Zmo5Zue6YCAIFJBRyB8DQp8ICoqRGVlcPCfk5oqKiB8IOa3seivu++8iOe7j+WFuOS8mOWFiO+8iSB8IFJBRyBvbmx5IHwNCnwgKipUaGlua/CfjIUqKiB8IOaAnei+qO+8iOiejeWQiO+8iSB8IFNlYXJjaCArIFJBRyArIFJlYXNvbmluZyB8DQoNCuiDveWKm+Wxgu+8iOS4juaooeW8j+ato+S6pO+8ie+8mg0KDQp8IOiDveWKm+WxgiB8IOiBjOi0oyB8IOaYr+WQpui1sCBSQUcv5pCc57SiIHwNCnwtLS0tLS0tLXwtLS0tLS18LS0tLS0tLS0tLS0tLS0tLXwNCnwgKipDYXBhYmlsaXR5KiogfCDnoa7lrprmgKflrp7ml7bkuovlrp7vvIjml7bpl7Qv5aSp5rCU562J77yJIHwg5ZCm77yM57uV6L+HIFJBR++8jOebtOaOpeWunuaXtuWPluaVsCB8DQp8ICoqRnJlc2huZXNzKiogfCDkuovku7bog4zmma8gLyDpnIDogZTnvZHnmoTml7bmlYjlhoXlrrkgfCDotbAgYHByb3ZpZGVycy9zZWFyY2gvYO+8iOWcqOe6v+aQnOe0ou+8jOWPl+aKpOagj+euoeaOp++8iSB8DQp8ICoqS25vd2xlZGdlKiogfCDnu4/lhbjmgJ3ovqggfCDotbAgY29ycHVzLmpzb24gKyBSQUcgfA0KDQo+ICoq56Gs57qm5p2fKirvvJrlrp7ml7bog73lipsqKuawuOS4jSoq6L+bIGNvcnB1cyAvIGVtYmVkZGluZyAvIOmdoCBQcm9tcHQg55Sf5oiQ5LqL5a6e77yb6IGU572R5pCc57Si57uT5p6cKirlj6rkvZwgcnVudGltZSBjb250ZXh0KirvvIzkuI3ov5sgY29ycHVzL2VtYmVkZGluZy9tZXRhZGF0YS/plb/mnJ/nvJPlrZjvvIjop4EgYGZyZXNobmVzc1J1bnRpbWVHdWFyZC5qc2DvvInjgIINCg0KIyMg5LiA5Y+l6K+d5LuL57uNDQoNCj4g5LiA5Liq55So57uP5YW45biu5L2g5oOz5riF5qWa55qEIEFJIOaAnei+qOWwj+eoi+W6j++8m+WunuaXtuS6i+Wunui1sOiDveWKm+WxguOAgeaXtuaViOWGheWuuei1sCBGcmVzaG5lc3Mg5Zyo57q/5pCc57Si44CB57uP5YW45oCd6L6o6LWwIEtub3dsZWRnZSBSQUfjgIINCg0KIyMg5pys55uu5b2V5a+86IiqDQoNCmBgYA0KQUlfQ09OVEVYVC8NCuKUnOKUgOKUgCAwMF9QUk9KRUNULm1kICAgICAgICDihpAg5L2g5Zyo6L+ZDQrilJzilIDilIAgMDFfQVJDSElURUNUVVJFLm1kICAjIOezu+e7n+aetuaehCArIE1lcm1haWTvvIjlkKsgRnJlc2huZXNzL1RoaW5rL3Byb3ZpZGVycyDmiqTmoI/pk77vvIkNCuKUnOKUgOKUgCAwMl9CVVNJTkVTUy5tZCAgICAgICAjIOS4muWKoea1geeoiyAvIOmhtemdouiBjOi0ow0K4pSc4pSA4pSAIDAzX0NPREVfU1RSVUNUVVJFLm1kICMg5Luj56CB57uT5p6E77yI5ZCrIHByb3ZpZGVycy9mcmVzaG5lc3MvdGhpbmsvc2VjdXJpdHkvb2JzZXJ2YWJpbGl0ee+8iQ0K4pSc4pSA4pSAIDA0X0RBVEFCQVNFLm1kICAgICAgICMg5pWw5o2u5bqT6ZuG5ZCI77yI5ZCrIG9ic2VydmFiaWxpdHlfbG9ncyDkuI7lhrLnqoHmoIfms6jvvIkNCuKUnOKUgOKUgCAwNV9SQUcubWQgICAgICAgICAgICAjIEtub3dsZWRnZSDovajpgZMgKyBGcmVzaG5lc3Mg5Zyo57q/5pCc57SiDQrilJzilIDilIAgMDZfUFJPTVBULm1kICAgICAgICAgIyDlhajpg6ggUHJvbXB0IOaxh+aAuw0K4pSc4pSA4pSAIDA3X0tOT1dMRURHRS5tZCAgICAgICMg55+l6K+G6LWE5Lqn77yIMzcg57uP5YW4ICsg5Ya757uTIFNIQTI1Nu+8iQ0K4pSc4pSA4pSAIDA4X0hJU1RPUlkubWQgICAgICAgICMg5byA5Y+R5Y+yIFBoYXNlIEHihpLigKbihpJRMi0xNQ0K4pSc4pSA4pSAIDA5X1RFU1QubWQgICAgICAgICAgICMg5rWL6K+V6KaG55uW77yIcTI0Y+KApnEzM++8iQ0K4pSc4pSA4pSAIDEwX1JVTEVTLm1kICAgICAgICAgICMg5b2T5YmN5byA5Y+R5Y6f5YiZ77yI5Ya757uTL+mDqOe9si/miqTmoI8v6KeC5rWL57qq5b6L77yJDQrilJzilIDilIAgMTFfVE9ETy5tZCAgICAgICAgICAgIyDkuIvkuIDpmLbmrrXku7vliqHvvIhtb2RlbF9jb25maWcg6YWN572u562J77yJDQrilJzilIDilIAgUkVBRE1FX0FJLm1kICAgICAgICAgIyBBSSDlhaXlj6MNCuKUlOKUgOKUgCBQUk9KRUNUX01BUC5tZCAgICAgICAjIOS4gOW8oOWbvu+8iE1lcm1haWTvvIkNCmBgYA0KDQoqKumYheivu+mhuuW6j+W7uuiurioq77yaUkVBRE1FX0FJLm1kIOKGkiAwMCDihpIgMDEg4oaSIDAyIOKGkiAwMyDihpIgMDQg4oaSIDA1IOKGkiAwNiDihpIgMDcg4oaSIDA4IOKGkiAwOSDihpIgMTAg4oaSIDExIOKGkiBQUk9KRUNUX01BUA0K
+﻿# 00 · 项目简介（Project）
+
+> 本文件是 AI_CONTEXT 入口索引的第一篇。任何新接手本项目的 AI，应先读 `README_AI.md`，再按图索骥读下列文档。
+> **刷新于 2026-08-07（终校至 Q2-15）**。
+
+## 项目身份
+
+| 项 | 值 |
+|----|----|
+| 项目名称 | **向晚问思**（曾用名「问道」） |
+| 产品定位 | AI 思辨助手：以经典哲学/文学/心理学，帮用户**理解问题、形成判断**，但**不替用户做决定** |
+| 目标用户 | 想认真想清楚一件事的人（学生 / 职场人 / 创作者 / 内省者） |
+| 产品目标 | 让「经典」成为思考的跳板，而非标准答案 |
+| 当前阶段 | **Q2-15**（传记幻觉防护已部署）；联网搜索已上线（Q2-14 部署） |
+| 项目现状 | 微信云开发小程序，**备案审核中**（非商用-办公） |
+| APPID | `wx2653f12589f9f89f`（旧文档 `…f9d89f` 为笔误，第 15 位应为 `f`） |
+| 云环境 ID | `YOUR_CLOUD_ENV_ID` |
+| openid 样例（管理员） | `YOUR_ADMIN_OPENID` |
+
+## 第一原则（产品）
+
+**先做人，再引经**——回答固定五段（理解 → 分析 → 行动 → 经典 → 思考）；经典是启发不是答案；严格分离原文与 AI 解读。
+
+## 四模式 + 三层能力（2026-08 定型）
+
+`chat/index.js` 按用户选择的 `mode` 与问题性质派发：
+
+| 模式 | 含义 | 检索策略 |
+|------|------|---------|
+| **Fast🌐** | 快答（联网优先） | Search（关 RAG）；无源则派发器回退 RAG |
+| **Deep📚** | 深读（经典优先） | RAG only |
+| **Think🌅** | 思辨（融合） | Search + RAG + Reasoning |
+
+能力层（与模式正交）：
+
+| 能力层 | 职责 | 是否走 RAG/搜索 |
+|--------|------|----------------|
+| **Capability** | 确定性实时事实（时间/天气等） | 否，绕过 RAG，直接实时取数 |
+| **Freshness** | 事件背景 / 需联网的时效内容 | 走 `providers/search/`（在线搜索，受护栏管控） |
+| **Knowledge** | 经典思辨 | 走 corpus.json + RAG |
+
+> **硬约束**：实时能力**永不**进 corpus / embedding / 靠 Prompt 生成事实；联网搜索结果**只作 runtime context**，不进 corpus/embedding/metadata/长期缓存（见 `freshnessRuntimeGuard.js`）。
+
+## 一句话介绍
+
+> 一个用经典帮你想清楚的 AI 思辨小程序；实时事实走能力层、时效内容走 Freshness 在线搜索、经典思辨走 Knowledge RAG。
+
+## 本目录导航
+
+```
+AI_CONTEXT/
+├── 00_PROJECT.md        ← 你在这
+├── 01_ARCHITECTURE.md  # 系统架构 + Mermaid（含 Freshness/Think/providers 护栏链）
+├── 02_BUSINESS.md       # 业务流程 / 页面职责
+├── 03_CODE_STRUCTURE.md # 代码结构（含 providers/freshness/think/security/observability）
+├── 04_DATABASE.md       # 数据库集合（含 observability_logs 与冲突标注）
+├── 05_RAG.md            # Knowledge 轨道 + Freshness 在线搜索
+├── 06_PROMPT.md         # 全部 Prompt 汇总
+├── 07_KNOWLEDGE.md      # 知识资产（37 经典 + 冻结 SHA256）
+├── 08_HISTORY.md        # 开发史 Phase A→…→Q2-15
+├── 09_TEST.md           # 测试覆盖（q24c…q33）
+├── 10_RULES.md          # 当前开发原则（冻结/部署/护栏/观测纪律）
+├── 11_TODO.md           # 下一阶段任务（model_config 配置等）
+├── README_AI.md         # AI 入口
+└── PROJECT_MAP.md       # 一张图（Mermaid）
+```
+
+**阅读顺序建议**：README_AI.md → 00 → 01 → 02 → 03 → 04 → 05 → 06 → 07 → 08 → 09 → 10 → 11 → PROJECT_MAP

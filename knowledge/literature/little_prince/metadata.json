@@ -1,1 +1,31 @@
-ewogICJpZCI6ICJsaXR0bGVfcHJpbmNlIiwKICAidGl0bGUiOiAi5bCP546L5a2QIiwKICAiYXV0aG9yIjogIuWco+Wfg+WFi+iLj+S9qemHjO+8iEFudG9pbmUgZGUgU2FpbnQtRXh1cMOpcnnvvIkiLAogICJ0cmFuc2xhdG9yIjogbnVsbCwKICAic291cmNlIjogIuS9nOiAhTE5NDTlubTpgJ3vvIzkuK3mlofmlofmnKzov4fkv53miqTmnJ/vvJvlhbfkvZPkuK3mlofor5HmnKzmnInni6znq4vniYjmnYPvvIzpobvnlKjlhazniYjor5HmnKzlkI7mlrnlj68gaW5nZXN0IiwKICAiZWRpdGlvbiI6ICLlvoXnoa7orqTlhazniYjor5HmnKwiLAogICJwdWJsaXNoZXIiOiBudWxsLAogICJ5ZWFyIjogIjE5NDMiLAogICJjb3B5cmlnaHRfc3RhdHVzIjogInB1YmxpYy1kb21haW4tdHJhbnNsYXRpb24iLAogICJsaWNlbnNlX25vdGUiOiAi5L2c6ICF6Lqr5pWF6LaFNTDlubTvvIzms5Xmlofljp/mlofov4fkv53miqTmnJ/vvJvkuK3mlofor5HmnKzniYjmnYPlj6borqHvvIzpobvnlKjlhazniYjor5HmnKwiLAogICJ2ZXJpZmljYXRpb25fZGF0ZSI6ICIyMDI2LTA3LTI2IiwKICAiY2F0ZWdvcnkiOiAi5paH5a2mIiwKICAicGVyc3BlY3RpdmUiOiAi5paH5a2mL+WtmOWcqCIsCiAgInRoZW1lcyI6IFsi5a2k54usIiwgIueIsSIsICLotKPku7siLCAi5oiQ6ZW/IiwgIueci+ingSIsICLlhbPns7siXSwKICAicHJvYmxlbV90YWdzIjogWyLlraTni6wiLCAi54ixIiwgIuWFs+ezuyIsICLmiJDplb8iLCAi6KKr55CG6KejIiwgIui0o+S7uyJdLAogICJ1c2VyX3F1ZXN0aW9ucyI6IFsKICAgICLkuLrku4DkuYjotorkurLov5HotorkuI3mh4Llr7nmlrkiLAogICAgIuWmguS9leiiq+ecn+ato+eQhuinoyIsCiAgICAi5LuA5LmI5piv55yf5q2j6YeN6KaB55qEIgogIF0sCiAgInNjZW5hcmlvcyI6IFsi5Lq66ZmF5YWz57O7IiwgIuS6suWvhuWFs+ezuyIsICLlraTni6zmhJ8iXSwKICAiYXV0aG9yaXR5X2xldmVsIjogNSwKICAiY2l0YXRpb24iOiB7ICJ0ZW1wbGF0ZSI6ICLjgIp7dGl0bGV9wrd7c2VjdGlvbn3jgIsiLCAiZXhhbXBsZSI6ICLjgIrlsI/njovlrZDjgIsiIH0sCiAgImxhbmd1YWdlIjogInpoIiwKICAic291cmNlX3R5cGUiOiAidHJhbnNsYXRpb24iLAogICJjaGFwdGVyX3NwbGl0IjogImJ5LWNoYXB0ZXIiLAogICJsZWdhbENvbmZpcm0iOiBmYWxzZSwKICAic3RhdHVzIjogInBlbmRpbmciLAogICJub3RlcyI6ICLniYjmnYPpl7jpl6jvvJpjb3B5cmlnaHRfc3RhdHVzPXBlbmRpbmcg5LiUIGxlZ2FsQ29uZmlybT1mYWxzZe+8jGluZ2VzdCDlv4Xpobvmi5Lnu53jgILpobvlhYjnoa7orqTlhazniYjor5HmnKzlubbnva4gbGVnYWxDb25maXJtPXRydWUg5pa55Y+v5YWl5bqT44CCIgp9Cg==
+{
+  "id": "little_prince",
+  "title": "小王子",
+  "author": "圣埃克苏佩里（Antoine de Saint-Exupéry）",
+  "translator": null,
+  "source": "作者1944年逝，中文文本过保护期；具体中文译本有独立版权，须用公版译本后方可 ingest",
+  "edition": "待确认公版译本",
+  "publisher": null,
+  "year": "1943",
+  "copyright_status": "public-domain-translation",
+  "license_note": "作者身故超50年，法文原文过保护期；中文译本版权另计，须用公版译本",
+  "verification_date": "2026-07-26",
+  "category": "文学",
+  "perspective": "文学/存在",
+  "themes": ["孤独", "爱", "责任", "成长", "看见", "关系"],
+  "problem_tags": ["孤独", "爱", "关系", "成长", "被理解", "责任"],
+  "user_questions": [
+    "为什么越亲近越不懂对方",
+    "如何被真正理解",
+    "什么是真正重要的"
+  ],
+  "scenarios": ["人际关系", "亲密关系", "孤独感"],
+  "authority_level": 5,
+  "citation": { "template": "《{title}·{section}》", "example": "《小王子》" },
+  "language": "zh",
+  "source_type": "translation",
+  "chapter_split": "by-chapter",
+  "legalConfirm": false,
+  "status": "pending",
+  "notes": "版权闸门：copyright_status=pending 且 legalConfirm=false，ingest 必须拒绝。须先确认公版译本并置 legalConfirm=true 方可入库。"
+}

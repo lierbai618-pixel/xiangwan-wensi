@@ -1,1 +1,152 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIHByb3ZpZGVycy9zZWFyY2gvdGVuY2VudFdzYVNlYXJjaC5qcwovLyAgIFBoYXNlIFEyLTEy77ya6IW+6K6v5LqR6IGU572R5pCc57Si77yIV1NBLCBXZWIgU2VhcmNoIEFQSe+8iVByb3ZpZGVyIEFkYXB0ZXLjgIIKLy8KLy8gICDlrprkvY3vvJrkvZzkuLrjgIx0ZW5jZW5044CNcHJvdmlkZXIg5qe95L2N77yM5piv5a+56IW+6K6vIFdTQSDnmoTkuJPnlKjpgILphY0KLy8gICAgICAgIO+8iOWMuuWIq+S6jumAmueUqCBHRVQg5Z6LIGRvbWVzdGljQXBpU2VhcmNo77yJ44CCV1NBIOS4uiBQT1NUIOWei+OAgQovLyAgICAgICAgQmVhcmVyIOmJtOadg+OAgeivt+axguS9kyBKU09O44CB6L+U5Zue5Lit5ZCrIFBhZ2VzKEpTT04g5a2X56ym5LiyKSDpnIDkuozmrKHop6PmnpDjgIIKLy8KLy8gICDorr7orqHljp/liJnvvIjkuI7ml6LmnInnnJ/lrp4gcHJvdmlkZXIg5LiA6Ie077yJ77yaCi8vICAgICDCtyDku4XlvZMgVEVOQ0VOVF9XU0FfQkFTRV9VUkwg6YWN572u5pe25omN6IGU572R77yb5ZCm5YiZ56uL5Y2zIG9rOmZhbHNl77yIZmFpbC1zb2Z077yJ44CCCi8vICAgICDCtyDkvKDovpMvSFRUUCDplJnor6/nlLEgdXRpbC5odHRwUG9zdEpzb24g5oqb5Ye6IOKGkiBpbmRleC5qcyDnmoQgd2l0aFJldHJ5IOmHjeivle+8mwovLyAgICAgICDmraTlpITku4XlpITnkIbjgIzlt7LmiJDlip/ov5Tlm57kvYbml6Dlj6/nlKjnu5PmnpzjgI3nmoTnoa7lrprmgKfmg4XlvaLvvIjov5Tlm54gb2s6ZmFsc2XvvIzkuI3ph43or5XvvInjgIIKLy8gICAgIMK3IOe7k+aenOe7jyB1dGlsLm5vcm1hbGl6ZVJlc3VsdCDmoIflh4bljJbjgIIKLy8gICAgIMK3IHByb3ZpZGVyIOWQjeWbuuWumiAndGVuY2VudCcg4oaSIGRhdGFfcm91dGUg5oGS5a6aICdkb21lc3RpYyfvvIjpm7bot6jlooPvvIzlm73lhoXmnI3liqHvvInjgIIKLy8KLy8gICDphY3nva7vvIjnjq/looPlj5jph4/vvIzosIPnlKjml7bor7vlj5bvvIzmlK/mjIHmtYvor5Xms6jlhaXkuI7pg6jnvbLliIfmjaLvvInvvJoKLy8gICAgIFRFTkNFTlRfV1NBX0JBU0VfVVJMICAgICDlv4XpobvvvJtXU0Eg5o6l5Y+j5Zyw5Z2A77yI5aaCIGh0dHBzOi8vYXBpLndzYS5jbG91ZC50ZW5jZW50LmNvbS8uLi7vvIkKLy8gICAgIFRFTkNFTlRfV1NBX0FQSV9LRVkgICAgICDlv4XpobvvvJvpibTmnYMgQmVhcmVyIFRva2VuCi8vICAgICBURU5DRU5UX1dTQV9RVUVSWV9GSUVMRCAg6K+35rGC5L2T5Lit55qE5p+l6K+i5a2X5q615ZCN77yI6buY6K6kICdxdWVyeSfvvIkKLy8gICAgIFRFTkNFTlRfV1NBX0VYVFJBX0JPRFkgICDpmYTliqDlm7rlrpogYm9keSDlrZfmrrXvvIhKU09OIOWtl+espuS4su+8jOWPr+mAie+8iQovLyAgICAgVEVOQ0VOVF9XU0FfUEFHRVNfRklFTEQgIOWTjeW6lOS4reaJv+i9veajgOe0oue7k+aenOeahOWtl+aute+8iOm7mOiupCAnUGFnZXMn77yM5pSv5oyBIGRvdC1wYXRo77yJCi8vICAgICBURU5DRU5UX1dTQV9GSUVMRF9USVRMRSAg57uT5p6c6aG55qCH6aKY5a2X5q6177yI6buY6K6kICd0aXRsZSfvvIkKLy8gICAgIFRFTkNFTlRfV1NBX0ZJRUxEX1VSTCAgICDnu5Pmnpzpobnpk77mjqXlrZfmrrXvvIjpu5jorqQgJ3VybCfvvIkKLy8gICAgIFRFTkNFTlRfV1NBX0ZJRUxEX1NOSVBQRVQg57uT5p6c6aG55pGY6KaB5a2X5q6177yI6buY6K6kICdjb250ZW50J++8jOe8uuWkseWbnumAgCBzdW1tYXJ5L2Rlc2NyaXB0aW9u77yJCi8vICAgICBURU5DRU5UX1dTQV9GSUVMRF9TT1VSQ0Ug57uT5p6c6aG55p2l5rqQ5a2X5q6177yI6buY6K6kICdzb3VyY2Un77yJCi8vCi8vICAg4pqg77iPIOaVsOaNruWHuuWig+i+ueeVjO+8iOWQiOinhOaguOW/g++8ie+8mmRhdGFfcm91dGU9ZG9tZXN0aWMg55qE5q2j56Gu5oCn5L6d6LWW5omA5o6l5YWlIEFQSSDkuLoKLy8gICAgIOWbveWGheWQiOinhOacjeWKoe+8iOacjeWKoeWZqOS4juaVsOaNruWdh+eVmeWig++8ieOAgumAgumFjeWxguS4jeWBmui3qOWig+a6kO+8jOS7heWvueaOpeeUqOaIt+mFjee9rueahOWbveWGheerr+eCueOAggovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KJ3VzZSBzdHJpY3QnOwoKdmFyIHV0aWwgPSByZXF1aXJlKCcuL3V0aWwnKTsKCi8vIC0tLS0g6YWN572u6K+75Y+W77yI6LCD55So5pe26K+75Y+W77yM5L+d6K+B6YOo572y5YiH5o2i5Y2z5pe255Sf5pWI77yJLS0tLQpmdW5jdGlvbiBjZmcobmFtZSwgZGVmKSB7CiAgdmFyIHYgPSBwcm9jZXNzLmVudltuYW1lXTsKICByZXR1cm4gKHYgPT09IHVuZGVmaW5lZCB8fCB2ID09PSBudWxsKSA/IGRlZiA6IHY7Cn0KCi8vIC0tLS0gZG90LXBhdGgg6Kej5p6Q77yITm9kZTE2IOWFvOWuue+8jOaXoOWPr+mAiemTvu+8iS0tLS0KZnVuY3Rpb24gcmVzb2x2ZVBhdGgob2JqLCBwKSB7CiAgaWYgKCFwIHx8ICFvYmopIHJldHVybiB1bmRlZmluZWQ7CiAgdmFyIHBhcnRzID0gKCcnICsgcCkuc3BsaXQoJy4nKTsKICB2YXIgY3VyID0gb2JqOwogIGZvciAodmFyIGkgPSAwOyBpIDwgcGFydHMubGVuZ3RoOyBpKyspIHsKICAgIGlmIChjdXIgPT09IG51bGwgfHwgY3VyID09PSB1bmRlZmluZWQpIHJldHVybiB1bmRlZmluZWQ7CiAgICBjdXIgPSBjdXJbcGFydHNbaV1dOwogIH0KICByZXR1cm4gY3VyOwp9CgovLyAtLS0tIFBhZ2VzIEpTT04g5a2X56ym5LiyIOKGkiDmlbDnu4TvvIjkuozmrKHop6PmnpDvvIktLS0tCi8vICAgV1NBIOi/lOWbnuS9k+S4rSBQYWdlcyDlrZfmrrXkuLogSlNPTiDlrZfnrKbkuLLvvIzpnIAgSlNPTi5wYXJzZSDlho3lj5bmlbDnu4TvvJsKLy8gICDlkIzml7blhbzlrrnlt7LkuLrmlbDnu4TnmoTmg4XlvaLvvIjpg6jliIbnvZHlhbMv5Luj55CG5Y+v6IO95bey5bGV5byA77yJ44CCCmZ1bmN0aW9uIHRvUGFnZUFycmF5KHYpIHsKICBpZiAodiA9PT0gdW5kZWZpbmVkIHx8IHYgPT09IG51bGwpIHJldHVybiBbXTsKICBpZiAoQXJyYXkuaXNBcnJheSh2KSkgcmV0dXJuIHY7CiAgaWYgKHR5cGVvZiB2ID09PSAnc3RyaW5nJykgewogICAgdmFyIHMgPSB2LnRyaW0oKTsKICAgIGlmICghcykgcmV0dXJuIFtdOwogICAgdHJ5IHsKICAgICAgdmFyIHBhcnNlZCA9IEpTT04ucGFyc2Uocyk7CiAgICAgIHJldHVybiBBcnJheS5pc0FycmF5KHBhcnNlZCkgPyBwYXJzZWQgOiBbXTsKICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgcmV0dXJuIFtdOwogICAgfQogIH0KICByZXR1cm4gW107Cn0KCi8vIC0tLS0g57uT5p6c5pWw57uE5o+Q5Y+W77ya5LyY5YWI6Ieq5a6a5LmJ6Lev5b6E77yM5YW25qyh5bi46KeBIFdTQSDlvaLnirYgLS0tLQpmdW5jdGlvbiBwaWNrUGFnZXMoZGF0YSkgewogIGlmICghZGF0YSB8fCB0eXBlb2YgZGF0YSAhPT0gJ29iamVjdCcpIHJldHVybiBbXTsKICAvLyAxKSDnlKjmiLfmmL7lvI/phY3nva7lrZfmrrXvvIjmlK/mjIEgZG90LXBhdGjvvIkKICB2YXIgY3VzdG9tID0gKGNmZygnVEVOQ0VOVF9XU0FfUEFHRVNfRklFTEQnLCAnUGFnZXMnKSB8fCAnUGFnZXMnKS50cmltKCk7CiAgdmFyIHYgPSByZXNvbHZlUGF0aChkYXRhLCBjdXN0b20pOwogIHZhciBhcnIgPSB0b1BhZ2VBcnJheSh2KTsKICBpZiAoYXJyLmxlbmd0aCkgcmV0dXJuIGFycjsKICAvLyAyKSDluLjop4EgV1NBIOW9oueKtuWFnOW6leaOoua1i++8iOmBv+WFjeehrOe8luWNleS4gCBBUEkg57uG6IqC77yM6ZmN5L2O57yW6YCg6aOO6Zmp77yJCiAgdmFyIHByb2JlcyA9IFsnUGFnZXMnLCAnU2VhcmNoSW5mby5QYWdlcycsICdkYXRhLlBhZ2VzJywgJ3Jlc3VsdC5QYWdlcycsICdSZXNwb25zZS5QYWdlcyddOwogIGZvciAodmFyIGkgPSAwOyBpIDwgcHJvYmVzLmxlbmd0aDsgaSsrKSB7CiAgICBhcnIgPSB0b1BhZ2VBcnJheShyZXNvbHZlUGF0aChkYXRhLCBwcm9iZXNbaV0pKTsKICAgIGlmIChhcnIubGVuZ3RoKSByZXR1cm4gYXJyOwogIH0KICByZXR1cm4gW107Cn0KCmZ1bmN0aW9uIHNlYXJjaChxdWVyeSwgb3B0cywgbm9kZUZldGNoKSB7CiAgdmFyIGJhc2VVcmwgPSAoY2ZnKCdURU5DRU5UX1dTQV9CQVNFX1VSTCcsICcnKSB8fCAnJykudHJpbSgpOwogIGlmICghYmFzZVVybCkgewogICAgLy8g5pyq6YWN572u56uv54K5IOKGkiDkuI3ogZTnvZHvvIznoa7lrprmgKfpmY3nuqfvvIjkuI7lkIQgcHJvdmlkZXIg5pegIGtleSDooYzkuLrkuIDoh7TvvIkKICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUoeyBvazogZmFsc2UsIHByb3ZpZGVyOiAndGVuY2VudCcsIHJlc3VsdHM6IFtdLCByZWFzb246ICdub19lbmRwb2ludCcgfSk7CiAgfQogIGlmICh0eXBlb2Ygbm9kZUZldGNoICE9PSAnZnVuY3Rpb24nKSB7CiAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKHsgb2s6IGZhbHNlLCBwcm92aWRlcjogJ3RlbmNlbnQnLCByZXN1bHRzOiBbXSwgcmVhc29uOiAnbm9fZmV0Y2gnIH0pOwogIH0KCiAgdmFyIG1heFJlc3VsdHMgPSB1dGlsLnRvSW50KGNmZygnU0VBUkNIX01BWF9SRVNVTFRTJywgJzUnKSwgNSk7CiAgdmFyIGFwaUtleSA9IChjZmcoJ1RFTkNFTlRfV1NBX0FQSV9LRVknLCAnJykgfHwgJycpLnRyaW0oKTsKICB2YXIgcXVlcnlGaWVsZCA9IChjZmcoJ1RFTkNFTlRfV1NBX1FVRVJZX0ZJRUxEJywgJ3F1ZXJ5JykgfHwgJ3F1ZXJ5JykudHJpbSgpOwogIHZhciBleHRyYUJvZHkgPSAoY2ZnKCdURU5DRU5UX1dTQV9FWFRSQV9CT0RZJywgJycpIHx8ICcnKS50cmltKCk7CgogIC8vIC0tLS0g5p6E6YCgIEpTT04gYm9keSAtLS0tCiAgdmFyIGJvZHkgPSB7fTsKICBib2R5W3F1ZXJ5RmllbGRdID0gcXVlcnk7CiAgaWYgKGV4dHJhQm9keSkgewogICAgdHJ5IHsKICAgICAgdmFyIGV4dHJhID0gSlNPTi5wYXJzZShleHRyYUJvZHkpOwogICAgICBpZiAoZXh0cmEgJiYgdHlwZW9mIGV4dHJhID09PSAnb2JqZWN0JykgewogICAgICAgIGZvciAodmFyIGVrIGluIGV4dHJhKSB7CiAgICAgICAgICBpZiAoT2JqZWN0LnByb3RvdHlwZS5oYXNPd25Qcm9wZXJ0eS5jYWxsKGV4dHJhLCBlaykpIGJvZHlbZWtdID0gZXh0cmFbZWtdOwogICAgICAgIH0KICAgICAgfQogICAgfSBjYXRjaCAoZSkgewogICAgICAvLyDplJnor6/phY3nva7lv73nlaXvvIznu53kuI3lvbHlk43kuLvmtYHnqIsKICAgIH0KICB9CgogIC8vIC0tLS0g6Ym05p2D5aS077yaQmVhcmVyIC0tLS0KICB2YXIgaGVhZGVycyA9IHsKICAgICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicsCiAgICAnQWNjZXB0JzogJ2FwcGxpY2F0aW9uL2pzb24nCiAgfTsKICBpZiAoYXBpS2V5KSBoZWFkZXJzWydBdXRob3JpemF0aW9uJ10gPSAnQmVhcmVyICcgKyBhcGlLZXk7CgogIC8vIOS8oOi+ky9IVFRQIOmUmeivr+aKm+WHuiDihpIgaW5kZXguanMgd2l0aFJldHJ5IOmHjeivle+8m+i2heaXtueUsSBzZWFyY2goKSDlpJblsYIgd2l0aFRpbWVvdXQg5pa95Yqg44CCCiAgcmV0dXJuIHV0aWwuaHR0cFBvc3RKc29uKG5vZGVGZXRjaCwgYmFzZVVybCwgYm9keSwgaGVhZGVycywgODAwMCkudGhlbihmdW5jdGlvbiAoZGF0YSkgewogICAgdmFyIHJhdyA9IHBpY2tQYWdlcyhkYXRhKTsKICAgIHZhciByZXN1bHRzID0gW107CiAgICBmb3IgKHZhciBpID0gMDsgaSA8IHJhdy5sZW5ndGggJiYgcmVzdWx0cy5sZW5ndGggPCBtYXhSZXN1bHRzOyBpKyspIHsKICAgICAgdmFyIGl0ZW0gPSByYXdbaV07CiAgICAgIGlmICghaXRlbSB8fCB0eXBlb2YgaXRlbSAhPT0gJ29iamVjdCcpIGNvbnRpbnVlOwogICAgICB2YXIgZlRpdGxlID0gKGNmZygnVEVOQ0VOVF9XU0FfRklFTERfVElUTEUnLCAndGl0bGUnKSB8fCAndGl0bGUnKS50cmltKCk7CiAgICAgIHZhciBmVXJsID0gKGNmZygnVEVOQ0VOVF9XU0FfRklFTERfVVJMJywgJ3VybCcpIHx8ICd1cmwnKS50cmltKCk7CiAgICAgIHZhciBmU25pcHBldCA9IChjZmcoJ1RFTkNFTlRfV1NBX0ZJRUxEX1NOSVBQRVQnLCAnY29udGVudCcpIHx8ICdjb250ZW50JykudHJpbSgpOwogICAgICB2YXIgZlNvdXJjZSA9IChjZmcoJ1RFTkNFTlRfV1NBX0ZJRUxEX1NPVVJDRScsICdzb3VyY2UnKSB8fCAnc291cmNlJykudHJpbSgpOwogICAgICB2YXIgbm9ybWFsaXplZCA9IHV0aWwubm9ybWFsaXplUmVzdWx0KHsKICAgICAgICB0aXRsZTogaXRlbVtmVGl0bGVdLAogICAgICAgIHVybDogaXRlbVtmVXJsXSwKICAgICAgICBjb250ZW50OiBpdGVtW2ZTbmlwcGV0XSB8fCBpdGVtLnN1bW1hcnkgfHwgaXRlbS5kZXNjcmlwdGlvbiB8fCBpdGVtLmNvbnRlbnQsCiAgICAgICAgc291cmNlOiBpdGVtW2ZTb3VyY2VdCiAgICAgIH0pOwogICAgICBpZiAobm9ybWFsaXplZCkgcmVzdWx0cy5wdXNoKG5vcm1hbGl6ZWQpOwogICAgfQogICAgaWYgKCFyZXN1bHRzLmxlbmd0aCkgewogICAgICByZXR1cm4geyBvazogZmFsc2UsIHByb3ZpZGVyOiAndGVuY2VudCcsIHJlc3VsdHM6IFtdLCByZWFzb246ICdub19yZXN1bHRzJyB9OwogICAgfQogICAgcmV0dXJuIHsgb2s6IHRydWUsIHByb3ZpZGVyOiAndGVuY2VudCcsIHJlc3VsdHM6IHJlc3VsdHMsIHJlYXNvbjogJycgfTsKICB9KTsKfQoKbW9kdWxlLmV4cG9ydHMgPSB7IHNlYXJjaDogc2VhcmNoIH07Cg==
+// ============================================================
+// providers/search/tencentWsaSearch.js
+//   Phase Q2-12：腾讯云联网搜索（WSA, Web Search API）Provider Adapter。
+//
+//   定位：作为「tencent」provider 槽位，是对腾讯 WSA 的专用适配
+//        （区别于通用 GET 型 domesticApiSearch）。WSA 为 POST 型、
+//        Bearer 鉴权、请求体 JSON、返回中含 Pages(JSON 字符串) 需二次解析。
+//
+//   设计原则（与既有真实 provider 一致）：
+//     · 仅当 TENCENT_WSA_BASE_URL 配置时才联网；否则立即 ok:false（fail-soft）。
+//     · 传输/HTTP 错误由 util.httpPostJson 抛出 → index.js 的 withRetry 重试；
+//       此处仅处理「已成功返回但无可用结果」的确定性情形（返回 ok:false，不重试）。
+//     · 结果经 util.normalizeResult 标准化。
+//     · provider 名固定 'tencent' → data_route 恒定 'domestic'（零跨境，国内服务）。
+//
+//   配置（环境变量，调用时读取，支持测试注入与部署切换）：
+//     TENCENT_WSA_BASE_URL     必须；WSA 接口地址（如 https://api.wsa.cloud.tencent.com/...）
+//     TENCENT_WSA_API_KEY      必须；鉴权 Bearer Token
+//     TENCENT_WSA_QUERY_FIELD  请求体中的查询字段名（默认 'query'）
+//     TENCENT_WSA_EXTRA_BODY   附加固定 body 字段（JSON 字符串，可选）
+//     TENCENT_WSA_PAGES_FIELD  响应中承载检索结果的字段（默认 'Pages'，支持 dot-path）
+//     TENCENT_WSA_FIELD_TITLE  结果项标题字段（默认 'title'）
+//     TENCENT_WSA_FIELD_URL    结果项链接字段（默认 'url'）
+//     TENCENT_WSA_FIELD_SNIPPET 结果项摘要字段（默认 'content'，缺失回退 summary/description）
+//     TENCENT_WSA_FIELD_SOURCE 结果项来源字段（默认 'source'）
+//
+//   ⚠️ 数据出境边界（合规核心）：data_route=domestic 的正确性依赖所接入 API 为
+//     国内合规服务（服务器与数据均留境）。适配层不做跨境源，仅对接用户配置的国内端点。
+// ============================================================
+'use strict';
+
+var util = require('./util');
+
+// ---- 配置读取（调用时读取，保证部署切换即时生效）----
+function cfg(name, def) {
+  var v = process.env[name];
+  return (v === undefined || v === null) ? def : v;
+}
+
+// ---- dot-path 解析（Node16 兼容，无可选链）----
+function resolvePath(obj, p) {
+  if (!p || !obj) return undefined;
+  var parts = ('' + p).split('.');
+  var cur = obj;
+  for (var i = 0; i < parts.length; i++) {
+    if (cur === null || cur === undefined) return undefined;
+    cur = cur[parts[i]];
+  }
+  return cur;
+}
+
+// ---- Pages JSON 字符串 → 数组（二次解析）----
+//   WSA 返回体中 Pages 字段为 JSON 字符串，需 JSON.parse 再取数组；
+//   同时兼容已为数组的情形（部分网关/代理可能已展开）。
+function toPageArray(v) {
+  if (v === undefined || v === null) return [];
+  if (Array.isArray(v)) return v;
+  if (typeof v === 'string') {
+    var s = v.trim();
+    if (!s) return [];
+    try {
+      var parsed = JSON.parse(s);
+      return Array.isArray(parsed) ? parsed : [];
+    } catch (e) {
+      return [];
+    }
+  }
+  return [];
+}
+
+// ---- 结果数组提取：优先自定义路径，其次常见 WSA 形状 ----
+function pickPages(data) {
+  if (!data || typeof data !== 'object') return [];
+  // 1) 用户显式配置字段（支持 dot-path）
+  var custom = (cfg('TENCENT_WSA_PAGES_FIELD', 'Pages') || 'Pages').trim();
+  var v = resolvePath(data, custom);
+  var arr = toPageArray(v);
+  if (arr.length) return arr;
+  // 2) 常见 WSA 形状兜底探测（避免硬编单一 API 细节，降低编造风险）
+  var probes = ['Pages', 'SearchInfo.Pages', 'data.Pages', 'result.Pages', 'Response.Pages'];
+  for (var i = 0; i < probes.length; i++) {
+    arr = toPageArray(resolvePath(data, probes[i]));
+    if (arr.length) return arr;
+  }
+  return [];
+}
+
+function search(query, opts, nodeFetch) {
+  var baseUrl = (cfg('TENCENT_WSA_BASE_URL', '') || '').trim();
+  if (!baseUrl) {
+    // 未配置端点 → 不联网，确定性降级（与各 provider 无 key 行为一致）
+    return Promise.resolve({ ok: false, provider: 'tencent', results: [], reason: 'no_endpoint' });
+  }
+  if (typeof nodeFetch !== 'function') {
+    return Promise.resolve({ ok: false, provider: 'tencent', results: [], reason: 'no_fetch' });
+  }
+
+  var maxResults = util.toInt(cfg('SEARCH_MAX_RESULTS', '5'), 5);
+  var apiKey = (cfg('TENCENT_WSA_API_KEY', '') || '').trim();
+  var queryField = (cfg('TENCENT_WSA_QUERY_FIELD', 'query') || 'query').trim();
+  var extraBody = (cfg('TENCENT_WSA_EXTRA_BODY', '') || '').trim();
+
+  // ---- 构造 JSON body ----
+  var body = {};
+  body[queryField] = query;
+  if (extraBody) {
+    try {
+      var extra = JSON.parse(extraBody);
+      if (extra && typeof extra === 'object') {
+        for (var ek in extra) {
+          if (Object.prototype.hasOwnProperty.call(extra, ek)) body[ek] = extra[ek];
+        }
+      }
+    } catch (e) {
+      // 错误配置忽略，绝不影响主流程
+    }
+  }
+
+  // ---- 鉴权头：Bearer ----
+  var headers = {
+    'Content-Type': 'application/json',
+    'Accept': 'application/json'
+  };
+  if (apiKey) headers['Authorization'] = 'Bearer ' + apiKey;
+
+  // 传输/HTTP 错误抛出 → index.js withRetry 重试；超时由 search() 外层 withTimeout 施加。
+  return util.httpPostJson(nodeFetch, baseUrl, body, headers, 8000).then(function (data) {
+    var raw = pickPages(data);
+    var results = [];
+    for (var i = 0; i < raw.length && results.length < maxResults; i++) {
+      var item = raw[i];
+      if (!item || typeof item !== 'object') continue;
+      var fTitle = (cfg('TENCENT_WSA_FIELD_TITLE', 'title') || 'title').trim();
+      var fUrl = (cfg('TENCENT_WSA_FIELD_URL', 'url') || 'url').trim();
+      var fSnippet = (cfg('TENCENT_WSA_FIELD_SNIPPET', 'content') || 'content').trim();
+      var fSource = (cfg('TENCENT_WSA_FIELD_SOURCE', 'source') || 'source').trim();
+      var normalized = util.normalizeResult({
+        title: item[fTitle],
+        url: item[fUrl],
+        content: item[fSnippet] || item.summary || item.description || item.content,
+        source: item[fSource]
+      });
+      if (normalized) results.push(normalized);
+    }
+    if (!results.length) {
+      return { ok: false, provider: 'tencent', results: [], reason: 'no_results' };
+    }
+    return { ok: true, provider: 'tencent', results: results, reason: '' };
+  });
+}
+
+module.exports = { search: search };

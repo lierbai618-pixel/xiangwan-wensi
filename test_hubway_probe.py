@@ -1,1 +1,53 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMw0KIyAtKi0gY29kaW5nOiB1dGYtOCAtKi0NCiIiIg0K5rWL6K+VIHouaHVid2F5LmNjIEFQSQ0KMS4g5o6i5rWLIC92MS9tb2RlbHMg55yL5pyJ5ZOq5Lqb5qih5Z6LDQoyLiDmtYvor5UgY2hhdC9jb21wbGV0aW9ucyDov57pgJrmgKcNCiIiIg0KDQppbXBvcnQganNvbiwgdGltZSwgaHR0cC5jbGllbnQsIHNzbA0KDQpBUElfS0VZID0gInNrLVlPVVJfQVBJX0tFWV9IRVJFIg0KQkFTRV9IT1NUID0gInouaHVid2F5LmNjIg0KSEVBREVSUyA9IHsNCiAgICAiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb247IGNoYXJzZXQ9dXRmLTgiLA0KICAgICJBY2NlcHQiOiAiYXBwbGljYXRpb24vanNvbiIsDQogICAgIkF1dGhvcml6YXRpb24iOiBmIkJlYXJlciB7QVBJX0tFWX0iLA0KfQ0KDQoNCmRlZiBwcm9iZShwYXRoKToNCiAgICAiIiJHRVQg5o6i5rWLIiIiDQogICAgY29ubiA9IGh0dHAuY2xpZW50LkhUVFBTQ29ubmVjdGlvbihCQVNFX0hPU1QsIGNvbnRleHQ9c3NsLmNyZWF0ZV9kZWZhdWx0X2NvbnRleHQoKSwgdGltZW91dD0yMCkNCiAgICBzdGFydCA9IHRpbWUudGltZSgpDQogICAgdHJ5Og0KICAgICAgICBjb25uLnJlcXVlc3QoIkdFVCIsIHBhdGgsIGhlYWRlcnM9SEVBREVSUykNCiAgICAgICAgcmVzcCA9IGNvbm4uZ2V0cmVzcG9uc2UoKQ0KICAgICAgICBkYXRhID0gcmVzcC5yZWFkKCkuZGVjb2RlKCJ1dGYtOCIpDQogICAgICAgIGVsYXBzZWQgPSBpbnQoKHRpbWUudGltZSgpIC0gc3RhcnQpICogMTAwMCkNCiAgICAgICAgcmV0dXJuIHJlc3Auc3RhdHVzLCBlbGFwc2VkLCBkYXRhWzoyMDAwXQ0KICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToNCiAgICAgICAgZWxhcHNlZCA9IGludCgodGltZS50aW1lKCkgLSBzdGFydCkgKiAxMDAwKQ0KICAgICAgICByZXR1cm4gTm9uZSwgZWxhcHNlZCwgc3RyKGUpDQogICAgZmluYWxseToNCiAgICAgICAgY29ubi5jbG9zZSgpDQoNCg0KcHJpbnQoIuaOoua1iyB6Lmh1YndheS5jYyDlj6/nlKjot6/lvoQuLi4iKQ0KcHJpbnQoIj0iICogNjApDQoNCiMg5bCd6K+V5bi46KeB6Lev5b6EDQpwYXRocyA9IFsNCiAgICAiL3YxL21vZGVscyIsDQogICAgIi9tb2RlbHMiLA0KICAgICIvdjEvY2hhdC9jb21wbGV0aW9ucyIsDQpdDQoNCmZvciBwIGluIHBhdGhzOg0KICAgIHN0YXR1cywgbGF0LCBib2R5ID0gcHJvYmUocCkNCiAgICBwcmludChmIlxuR0VUIHtwfSB8IHN0YXR1cz17c3RhdHVzfSB8IHtsYXR9bXMiKQ0KICAgIGlmIHN0YXR1cyA9PSAyMDA6DQogICAgICAgIHByaW50KGJvZHlbOjE1MDBdKQ0KICAgIGVsc2U6DQogICAgICAgIHByaW50KGYiICB7Ym9keVs6NTAwXX0iKQ0K
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+测试 z.hubway.cc API
+1. 探测 /v1/models 看有哪些模型
+2. 测试 chat/completions 连通性
+"""
+
+import json, time, http.client, ssl
+
+API_KEY = "sk-YOUR_API_KEY_HERE"
+BASE_HOST = "z.hubway.cc"
+HEADERS = {
+    "Content-Type": "application/json; charset=utf-8",
+    "Accept": "application/json",
+    "Authorization": f"Bearer {API_KEY}",
+}
+
+
+def probe(path):
+    """GET 探测"""
+    conn = http.client.HTTPSConnection(BASE_HOST, context=ssl.create_default_context(), timeout=20)
+    start = time.time()
+    try:
+        conn.request("GET", path, headers=HEADERS)
+        resp = conn.getresponse()
+        data = resp.read().decode("utf-8")
+        elapsed = int((time.time() - start) * 1000)
+        return resp.status, elapsed, data[:2000]
+    except Exception as e:
+        elapsed = int((time.time() - start) * 1000)
+        return None, elapsed, str(e)
+    finally:
+        conn.close()
+
+
+print("探测 z.hubway.cc 可用路径...")
+print("=" * 60)
+
+# 尝试常见路径
+paths = [
+    "/v1/models",
+    "/models",
+    "/v1/chat/completions",
+]
+
+for p in paths:
+    status, lat, body = probe(p)
+    print(f"\nGET {p} | status={status} | {lat}ms")
+    if status == 200:
+        print(body[:1500])
+    else:
+        print(f"  {body[:500]}")

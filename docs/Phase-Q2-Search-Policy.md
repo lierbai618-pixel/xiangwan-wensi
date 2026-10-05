@@ -1,1 +1,101 @@
-IyBQaGFzZSBRMiBTZWFyY2ggUHJvdmlkZXIg5oqA5pyv5pS/562WCgo+IOeJiOacrO+8mnYxLjDvvIjorr7orqHlhrvnu5PnqL/vvIznpoHmraLku6PnoIHkv67mlLnvvIkKPiDnirbmgIHvvJpQaGFzZSBRMi0wCj4g5YWz6IGU77yaUGhhc2UtUTItQXJjaGl0ZWN0dXJlLm1kIMKnMy4xCj4g5b2T5YmN546w5a6e77yaYGV2ZW50UmV0cmlldmVyLmpzYCDlt7LmnIkgYHByb3ZpZGVyPW5vbmVgIOaKveixoSArIE5vZGUxNiBgbm9kZUZldGNoYO+8jGBGUkVTSE5FU1NfRkFDVFVBTF9FTkFCTEVEPWZhbHNlYOOAggoKLS0tCgojIyAxLiDnu5/kuIDmjqXlj6PlpZHnuqbvvIjlvLrliLbvvIkKCuaJgOaciSBwcm92aWRlciDlrp7njrDlv4Xpobvkuqflh7rlkIzkuIDlvaLnirbvvIzkvpsgYGZyZXNobmVzcy9gIOS4jiBgYW5zd2VyTW9kZWAg5peg5beu5Yir5raI6LS577yaCgpgYGBqcwovLyBwcm92aWRlcnMvc2VhcmNoL2luZGV4LmpzCmFzeW5jIGZ1bmN0aW9uIHNlYXJjaChxdWVyeSwgb3B0cykgLT4KICBQcm9taXNlPHsKICAgIG9rOiBib29sZWFuLAogICAgcHJvdmlkZXI6IHN0cmluZywgICAgICAgICAgICAvLyAnYmluZycgfCAndGF2aWx5JyB8ICdzZXJwJyB8ICdtb2NrJyB8ICdub25lJwogICAgcmVzdWx0czogQXJyYXk8ewogICAgICB0aXRsZTogc3RyaW5nLCAgICAgICAgICAgICAvLyDnvZHpobXmoIfpopgKICAgICAgdXJsOiBzdHJpbmcsICAgICAgICAgICAgICAgLy8g6KeE6IyDIFVSTO+8iOeUqOS6juW8leeUqO+8iQogICAgICBzbmlwcGV0OiBzdHJpbmcsICAgICAgICAgICAvLyDmkZjopoHmlofmnKwKICAgICAgc291cmNlOiBzdHJpbmcsICAgICAgICAgICAgLy8g5Z+f5ZCNL+WqkuS9k+WQje+8iOWmgiAicmV1dGVycy5jb20i77yJCiAgICAgIHRpbWU6IHN0cmluZyB8IG51bGwsICAgICAgIC8vIOWPkeW4gy/mm7TmlrDml7bpl7TvvIhJU0/vvIzlj6/og73kuLrnqbrvvIkKICAgIH0+LAogICAgcmVhc29uOiBzdHJpbmcsICAgICAgICAgICAgICAvLyBvaz1mYWxzZSDml7bnmoTlpLHotKXljp/lm6AKICAgIGNhY2hlZDogYm9vbGVhbiwgICAgICAgICAgICAgLy8g5piv5ZCm5ZG95Lit57yT5a2YCiAgfT4KYGBgCgoqKuehrOaAp+e6puadnyoq77yaCi0gYHVybGAg5b+F6aG75Y+v6Kej5p6Q44CB5Y+v5byV55So77yb56aB5q2i6L+U5ZueIEpTIOmHjeWumuWQkeWjs+OAgeemgeatouWGheiBlOi/vei4quWPguaVsO+8iOiusOW9leWJjeWJpeemuyBgP3V0bV8qYCDnrYnvvInjgIIKLSBgc25pcHBldGAg5piv5qih5Z6L5ZSv5LiA5Y+v6KeB55qE5LqL5a6e5bqV5bqn77ybcHJvdmlkZXIg5LiN5b6X5rOo5YWl6Ieq6Lqr6KeC54K544CCCi0g5aSx6LSl5LiA5b6LIGBvazpmYWxzZWAgKyBgcmVhc29uYO+8jCoq57ud5LiN5oqb5pyq5o2V6I635byC5bi4KirvvIhmYWlsLXNvZnQg5Y6f5YiZ77yM57un5om/6IeqIENSLTAwMiDlronlhajliqDlm7rvvInjgIIKCi0tLQoKIyMgMi4g5YCZ6YCJ5rqQ5a+55q+U77yI5Yaz562W6L6T5YWl77yM6Z2e57uT6K6677yJCgp8IOa6kCB8IOi0qOmHjyB8IOWQiOinhO+8iOS4reWbve+8iSB8IOaIkOacrCB8IOmAn+eOhy/phY3pop0gfCDlpIfms6ggfAp8LS0tfC0tLXwtLS18LS0tfC0tLXwtLS18CnwgKipUYXZpbHkqKiB8IOmrmO+8iExMTSDkvJjljJbmkZjopoHvvIkgfCDlooPlpJYgU2FhU++8jOi3qOWig+aVsOaNriB8IOS4re+8iOaMieafpeivouiuoei0ue+8iSB8IOacieWFjei0ueahoyB8IOacgOWlkeWQiOOAjOS6i+WunivlvJXnlKjjgI3lnLrmma/vvIzkvYbmlbDmja7lh7rlooPpnIDor4TkvLAgfAp8ICoqQmluZyAoQXp1cmUpKiogfCDkuK3pq5ggfCDlvq7ova/kupHvvIzkvIHkuJrljY/orq7lj6/nrb7mlbDmja7lpITnkIbmnaHmrL4gfCDkuK0gfCDpq5ggfCDkvIHkuJrlkIjop4Tot6/lvoTnm7jlr7nmuIXmmbDvvIzpnIAgQXp1cmUg6K6i6ZiFIHwKfCAqKlNlcnBBUEkqKiB8IOmrmO+8iEdvb2dsZSDnu5PmnpzvvIkgfCDlooPlpJYgU2FhUyB8IOS4remrmCB8IOacieWFjei0ueahoyB8IOe7k+aenOacgOWFqO+8jOS9hiBHb29nbGUg57uT5p6c5oqT5Y+W5ZCI6KeE5pWP5oSf5bqm6auYIHwKfCAqKk1vY2sqKiB8IOWbuuWumiB8IOaXoCB8IDAgfCDml6DpmZAgfCDku4XmtYvor5Uv54Gw5bqm6aqM6K+B55So77yM5rC45LiN5pyN5Yqh55yf5a6e55So5oi3IHwKCioq5ZCI6KeE57qi57q/77yI5b+F6aG75Lq65bel56Gu6K6k77yJKirvvJoKMS4g5b2T5YmN5bCP56iL5bqP5aSE5LqOICoq5aSH5qGI5a6h5qC45LitKiog54q25oCB77yI6KeB5bel5L2c6K6w5b+G77yJ44CC6IGU572R5oqT5Y+W5bm25ZGI546w56ys5LiJ5pa55YaF5a6577yM5Y+v6IO96Kem5Y+R44CK5bCP56iL5bqP5pyN5Yqh5YaF5a655aOw5piO44CL5LiO5bmz5Y+w5YaF5a655a6J5YWo6LSj5Lu75omp5aSn4oCU4oCUKirpnIDlhYjnoa7orqTlrqHmoLjnirbmgIHkuI7nsbvnm67mmK/lkKblhYHorrjjgIzotYTorq8v5pCc57Si44CN6IO95YqbKirjgIIKMi4g5Lu75L2V5aKD5aSW5rqQID0g55So5oi35p+l6K+i77yI5Y+v6IO95ZCrIFBJSe+8ieWHuuWig+OAgumhu+a7oei2syBQSVBMIOi3qOWig+S8oOi+k+imgeaxguaIlumAieaLqeWig+WGheWPr+etviBEUEEg55qE5L6b5bqU5ZWG44CCCjMuIOaQnOe0oue7k+aenOS4reeahOWbvueJhy/mlofmnKzpobvnu48gYG1zZ1NlY0NoZWNrYC9gaW1nU2VjQ2hlY2tg77yI5rK/55SoIENSLTAwMiDlronlhajkvZPns7vvvInmlrnlj6/lkYjnjrDjgIIKCi0tLQoKIyMgMy4g6buY6K6kIG5vbmUgKyBNb2Nr77yI5rK/55SoIFAxIE9QRU4g5qih5byP77yJCgotIGBTRUFSQ0hfUFJPVklERVJgIOeOr+Wig+WPmOmHj+m7mOiupCBgbm9uZWAg4oaSIGBpbmRleC5qc2Ag6Lev55Sx5YiwIGBtb2NrYCDmiJbnm7TmjqXov5Tlm54gYG9rOmZhbHNlYO+8jCoq57u05oyBIFExLULjgIzml6Dkuovlrp7mupDlj43mgJ3jgI3ooYzkuLrvvIzpm7booYzkuLrlj5jljJYqKuOAggotIE1vY2sgcHJvdmlkZXIg6L+U5Zue57uT5p6E5YyW5YGH5pWw5o2u77yM5L6bIFEyLTEg5Y2V5YWD5rWL6K+V5LiO5YmN56uv6IGU6LCD77yMKirnu53kuI3ov5vlhaXnlJ/kuqflm57nrZQqKuOAggotIOecn+WuniBwcm92aWRlciDmjqXlhaUgPSDni6znq4vlvIDlhbPkuovku7bvvIzkuI3pmo8gYEZSRVNITkVTU19FTkFCTEVEYCDoh6rliqjlvIDlkK/jgIIKCi0tLQoKIyMgNC4g6ZmQ5rWBIC8g57yT5a2YIC8g5aSx6LSl6ZmN57qnCgp8IOacuuWItiB8IOetlueVpSB8CnwtLS18LS0tfAp8ICoq6ZmQ5rWBKiogfCDmr48gb3BlbmlkIOavj+WIhumSnyDiiaQgTiDmrKHvvIhOIOW+heaIkOacrOmihOeul+Wumu+8ie+8m+i2hemZkOi/lOWbniBgb2s6ZmFsc2UgcmVhc29uOidyYXRlX2xpbWl0ZWQnYCDihpIg6ZmN57qn5Li65peg5LqL5a6e5rqQ5Y+N5oCd44CCIHwKfCAqKue8k+WtmCoqIHwgYHF1ZXJ5YCDlvZLkuIDljJbvvIjljrvnqbrnmb0v5bCP5YaZL+e5geeugOe7n+S4gO+8ieS4uiBrZXnvvIxUVEwg5Y+v6YWN77yI5paw6Ze757G755+t77yM55+l6K+G57G76ZW/77yJ77yb5ZG95LitIGBjYWNoZWQ6dHJ1ZWAg5LiN6K6h5YWl6YWN6aKd44CCIHwKfCAqKui2heaXtioqIHwgcHJvdmlkZXIg6LCD55So56Gs6LaF5pe2IOKJpCAzc++8iE5vZGUxNiDnjq/looPvvInvvIzotoXml7bljbMgYG9rOmZhbHNlYCDihpIg6ZmN57qn44CCIHwKfCAqKumZjee6p+mTvioqIHwgcHJvdmlkZXIg5aSx6LSlIOKGkiBgZnJlc2huZXNzLWRvd25ncmFkZWDvvIjor5rlrp7ovrnnlYwr5Y+N5oCd77yJ77yM5LiN57yW6YCg44CB5LiN6Zi75aGe5Li75rWB56iL77yI5rK/55SoIGRvd25ncmFkZS5qc++8ieOAgiB8CnwgKirmiJDmnKznhpTmlq0qKiB8IOW9k+aXpeiwg+eUqOminei+vumihOeulyA4MCUg6aKE6K2m44CBMTAwJSDlhbPlgZznnJ/lrp7mupDlm57pgIAgbm9uZe+8iOmcgOaWsOWinui9u+mHj+iuoeaVsOWZqO+8jOWtmOS6keaVsOaNruW6kyBgc2VhcmNoX3F1b3RhYCDpm4blkIjvvIzpnZ4gS0LvvInjgIIgfAoKLS0tCgojIyA1LiDlhoXlrrnotKPku7vkuI7lvJXnlKgKCi0gKirlvJXnlKjlv4XloasqKu+8mkZhc3QvVGhpbmsg5qih5byP5Zue562U5b+F6aG76ZmE5bimIGBjaXRhdGlvbnNg77yI4omlMSDmnaHmnInmlYggdXJs77yJ77yM5ZCm5YiZ6KeG5Li65LiN5ZCI5qC86L6T5Ye677yI5rWL6K+V5pat6KiA77yJ44CCCi0gKirjgIzkv6Hmga/lj6/og73lj5jljJbjgI3lo7DmmI4qKu+8mkZhc3Qg5qih5byP5Zue562U5pyr5bC+5Zu65a6a6L+95Yqg5pe25pWI5o+Q56S677yI6K6h5YiS5LmmIE1vZGUgMSDopoHmsYLvvInjgIIKLSAqKuaQnOe0oue7k+aenOWuieWFqOaJq+aPjyoq77ya5ZGI546w5YmN5a+5IGBzbmlwcGV0YCDov4cgYG1zZ1NlY0NoZWNrYO+8m+WQq+WbvuWImSBgaW1nU2VjQ2hlY2tg44CC77yIQ1ItMDAyIOS9k+ezu+W3suaciSBgY2hlY2tUZXh0U2FmZXR5YO+8jFNlYXJjaCBQcm92aWRlciDmjqXlhaXml7bkuLLogZTjgILvvIkKLSAqKuS4jeiDjOS5pioq77ya5Zue562U5o6q6L6e5piO56Gu44CM5qC55o2u5YWs5byA5L+h5oGv44CN77yM5LiN5a6j56ew5p2D5aiB5qC45a6e44CCCgotLS0KCiMjIDYuIOivhOS8sOaMh+agh++8iFEyLTEg6aqM5pS277yJCgp8IOaMh+aghyB8IOimgeaxgiB8IOa1i+mHj+aWueW8jyB8CnwtLS18LS0tfC0tLXwKfCDmkJzntKLmiJDlip/njocgfCDiiaU5NSUgfCA1MCDmnaHmtYvor5Xpm4bvvIjmlrDpl7sv5Lq654mpL+S6p+WTgS/liqjmgIHvvInosIPnlKjnnJ/lrp7mupDvvIxvaz10cnVlIOavlOS+iyB8Cnwg5p2l5rqQ5a6M5pW0IHwgMTAwJSB8IOavj+adoeaIkOWKn+e7k+aenOWQqyB0aXRsZSt1cmwrc25pcHBldCtzb3VyY2UgfAp8IOaXoOaxoeafkyBLQiB8IDEwMCUgfCDmlq3oqIAgY29ycHVzL2VtYmVkZGluZy9tZXRhZGF0YSDlnKjmkJzntKLliY3lkI4gU0hBIOS4jeWPmCB8Cnwg5byV55So5pyJ5pWIIHwgMTAwJSB8IOWbnuetlCBjaXRhdGlvbnMg5LitIHVybCDlj6/op6PmnpDkuJTpnZ7nqbogfAp8IOmZjee6p+WuieWFqCB8IDEwMCUgfCDlpLHotKXml7blm57nrZTkuLror5rlrp7ovrnnlYzvvIzml6DomZrmnoTkuovlrp7vvIhELWEgZ2F0ZSDopobnm5bvvIkgfAoKLS0tCgojIyA3LiDmnKzpmLbmrrXvvIhRMi0w77yJ5a6e5pa957qm5p2fCgotIOKdjCDkuI3mlrDlu7ogYHByb3ZpZGVycy9gIOebruW9leOAgeS4jeWGmeS7u+S9lSBwcm92aWRlciDku6PnoIHjgIIKLSDinYwg5LiN5L+u5pS5IGBldmVudFJldHJpZXZlci5qc2DjgIHkuI3mjqXnnJ/lrp4gQVBJ44CB5LiN5pS5546v5aKD5Y+Y6YeP44CCCi0g4p2MIOS4jemDqOe9suOAgeS4jSBjb21taXTjgIHkuI0gcHVzaOOAggotIOKchSDku4XlrozmiJDmnKzorr7orqHmlofmoaPvvIzkvZzkuLogUTItMSDlvIDlt6Xln7rlh4bjgIIK
+﻿# Phase Q2 Search Provider 技术政策
+
+> 版本：v1.0（设计冻结稿，禁止代码修改）
+> 状态：Phase Q2-0
+> 关联：Phase-Q2-Architecture.md §3.1
+> 当前现实：`eventRetriever.js` 已有 `provider=none` 抽象 + Node16 `nodeFetch`，`FRESHNESS_FACTUAL_ENABLED=false`。
+
+---
+
+## 1. 统一接口契约（强制）
+
+所有 provider 实现必须产出同一形状，供 `freshness/` 与 `answerMode` 无差别消费：
+
+```js
+// providers/search/index.js
+async function search(query, opts) ->
+  Promise<{
+    ok: boolean,
+    provider: string,            // 'bing' | 'tavily' | 'serp' | 'mock' | 'none'
+    results: Array<{
+      title: string,             // 网页标题
+      url: string,               // 规范 URL（用于引用）
+      snippet: string,           // 摘要文本
+      source: string,            // 域名/媒体名（如 "reuters.com"）
+      time: string | null,       // 发布/更新时间（ISO，可能为空）
+    }>,
+    reason: string,              // ok=false 时的失败原因
+    cached: boolean,             // 是否命中缓存
+  }>
+```
+
+**硬性约束**：
+- `url` 必须可解析、可引用；禁止返回 JS 重定向壳、禁止内联追踪参数（记录前剥离 `?utm_*` 等）。
+- `snippet` 是模型唯一可见的事实底座；provider 不得注入自身观点。
+- 失败一律 `ok:false` + `reason`，**绝不抛未捕获异常**（fail-soft 原则，继承自 CR-002 安全加固）。
+
+---
+
+## 2. 候选源对比（决策输入，非结论）
+
+| 源 | 质量 | 合规（中国） | 成本 | 速率/配额 | 备注 |
+|---|---|---|---|---|---|
+| **Tavily** | 高（LLM 优化摘要） | 境外 SaaS，跨境数据 | 中（按查询计费） | 有免费档 | 最契合「事实+引用」场景，但数据出境需评估 |
+| **Bing (Azure)** | 中高 | 微软云，企业协议可签数据处理条款 | 中 | 高 | 企业合规路径相对清晰，需 Azure 订阅 |
+| **SerpAPI** | 高（Google 结果） | 境外 SaaS | 中高 | 有免费档 | 结果最全，但 Google 结果抓取合规敏感度高 |
+| **Mock** | 固定 | 无 | 0 | 无限 | 仅测试/灰度验证用，永不服务真实用户 |
+
+**合规红线（必须人工确认）**：
+1. 当前小程序处于 **备案审核中** 状态（见工作记忆）。联网抓取并呈现第三方内容，可能触发《小程序服务内容声明》与平台内容安全责任扩大——**需先确认审核状态与类目是否允许「资讯/搜索」能力**。
+2. 任何境外源 = 用户查询（可能含 PII）出境。须满足 PIPL 跨境传输要求或选择境内可签 DPA 的供应商。
+3. 搜索结果中的图片/文本须经 `msgSecCheck`/`imgSecCheck`（沿用 CR-002 安全体系）方可呈现。
+
+---
+
+## 3. 默认 none + Mock（沿用 P1 OPEN 模式）
+
+- `SEARCH_PROVIDER` 环境变量默认 `none` → `index.js` 路由到 `mock` 或直接返回 `ok:false`，**维持 Q1-B「无事实源反思」行为，零行为变化**。
+- Mock provider 返回结构化假数据，供 Q2-1 单元测试与前端联调，**绝不进入生产回答**。
+- 真实 provider 接入 = 独立开关事件，不随 `FRESHNESS_ENABLED` 自动开启。
+
+---
+
+## 4. 限流 / 缓存 / 失败降级
+
+| 机制 | 策略 |
+|---|---|
+| **限流** | 每 openid 每分钟 ≤ N 次（N 待成本预算定）；超限返回 `ok:false reason:'rate_limited'` → 降级为无事实源反思。 |
+| **缓存** | `query` 归一化（去空白/小写/繁简统一）为 key，TTL 可配（新闻类短，知识类长）；命中 `cached:true` 不计入配额。 |
+| **超时** | provider 调用硬超时 ≤ 3s（Node16 环境），超时即 `ok:false` → 降级。 |
+| **降级链** | provider 失败 → `freshness-downgrade`（诚实边界+反思），不编造、不阻塞主流程（沿用 downgrade.js）。 |
+| **成本熔断** | 当日调用额达预算 80% 预警、100% 关停真实源回退 none（需新增轻量计数器，存云数据库 `search_quota` 集合，非 KB）。 |
+
+---
+
+## 5. 内容责任与引用
+
+- **引用必填**：Fast/Think 模式回答必须附带 `citations`（≥1 条有效 url），否则视为不合格输出（测试断言）。
+- **「信息可能变化」声明**：Fast 模式回答末尾固定追加时效提示（计划书 Mode 1 要求）。
+- **搜索结果安全扫描**：呈现前对 `snippet` 过 `msgSecCheck`；含图则 `imgSecCheck`。（CR-002 体系已有 `checkTextSafety`，Search Provider 接入时串联。）
+- **不背书**：回答措辞明确「根据公开信息」，不宣称权威核实。
+
+---
+
+## 6. 评估指标（Q2-1 验收）
+
+| 指标 | 要求 | 测量方式 |
+|---|---|---|
+| 搜索成功率 | ≥95% | 50 条测试集（新闻/人物/产品/动态）调用真实源，ok=true 比例 |
+| 来源完整 | 100% | 每条成功结果含 title+url+snippet+source |
+| 无污染 KB | 100% | 断言 corpus/embedding/metadata 在搜索前后 SHA 不变 |
+| 引用有效 | 100% | 回答 citations 中 url 可解析且非空 |
+| 降级安全 | 100% | 失败时回答为诚实边界，无虚构事实（D-a gate 覆盖） |
+
+---
+
+## 7. 本阶段（Q2-0）实施约束
+
+- ❌ 不新建 `providers/` 目录、不写任何 provider 代码。
+- ❌ 不修改 `eventRetriever.js`、不接真实 API、不改环境变量。
+- ❌ 不部署、不 commit、不 push。
+- ✅ 仅完成本设计文档，作为 Q2-1 开工基准。

@@ -1,1 +1,11 @@
-Ly8g5ZCR5pma6Zeu5oCdIC0g6L2755m75b2V5LqR5Ye95pWwCi8vIOS7hei/lOWbnuW9k+WJjeiwg+eUqOiAheeahCBPUEVOSUTvvIjlj5boh6rkupHkuIrkuIvmlofvvIzlrqLmiLfnq6/ml6Dms5XkvKrpgKDvvInjgIIKLy8g5LiN5YGa5pel5b+X44CB5LiN5YGa5YaF5a655qOA5rWL77yM57qv57K555So5LqO5YmN56uv6I635Y+W5Yy/5ZCN55So5oi35qCH6K+G44CCCmNvbnN0IGNsb3VkID0gcmVxdWlyZSgid3gtc2VydmVyLXNkayIpOwpjbG91ZC5pbml0KHsgZW52OiBjbG91ZC5EWU5BTUlDX0NVUlJFTlRfRU5WIH0pOwoKZXhwb3J0cy5tYWluID0gYXN5bmMgKCkgPT4gewogIGNvbnN0IGN0eCA9IGNsb3VkLmdldFdYQ29udGV4dCgpOwogIGNvbnN0IG9wZW5pZCA9IChjdHggJiYgY3R4Lk9QRU5JRCkgfHwgIiI7CiAgcmV0dXJuIHsgb3BlbmlkIH07Cn07Cg==
+// 向晚问思 - 轻登录云函数
+// 仅返回当前调用者的 OPENID（取自云上下文，客户端无法伪造）。
+// 不做日志、不做内容检测，纯粹用于前端获取匿名用户标识。
+const cloud = require("wx-server-sdk");
+cloud.init({ env: cloud.DYNAMIC_CURRENT_ENV });
+
+exports.main = async () => {
+  const ctx = cloud.getWXContext();
+  const openid = (ctx && ctx.OPENID) || "";
+  return { openid };
+};

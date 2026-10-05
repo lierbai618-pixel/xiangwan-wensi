@@ -1,1 +1,123 @@
-IyEvdXNyL2Jpbi9lbnYgbm9kZQondXNlIHN0cmljdCc7CgovKioKICog5pys5Zyw5rig6YGT5qih5Z6LIMK3IOWkmui9rua1i+ivlQogKiDopobnm5YgY2xvdWRiYXNlcmMuanNvbiDkuK3phY3nva7nmoTlhajpg6jpnZ7nmb7ngrzmuKDpgZPvvJphZ25lcyAvIGhjbnNlYwogKiBrZXkg5LiA5b6L5LuOIGNsb3VkYmFzZXJjLmpzb24g6K+75Y+W77yI6YG/5YWN5omL5oqE5Ye66ZSZIOKAlOKAlCDkuIrmrKEgaGNuc2VjIOWboOaJi+aJkyBrZXkg6K+v5oqlIDQwMe+8iQogKgogKiDmr4/mqKHlnosgMyDova7vvJrpu5jorqQgLyDlhbPmgJ3ogIMgLyDpu5jorqQKICovCgpjb25zdCBmcyA9IHJlcXVpcmUoJ2ZzJyk7CmNvbnN0IHBhdGggPSByZXF1aXJlKCdwYXRoJyk7CmNvbnN0IG9zID0gcmVxdWlyZSgnb3MnKTsKCmNvbnN0IENGRyA9IHBhdGguam9pbihfX2Rpcm5hbWUsICcuLicsICdjbG91ZGJhc2VyYy5qc29uJyk7CmNvbnN0IGNmZyA9IEpTT04ucGFyc2UoZnMucmVhZEZpbGVTeW5jKENGRywgJ3V0ZjgnKSk7CmNvbnN0IGNoYXRGbiA9IGNmZy5mdW5jdGlvbnMuZmluZCgoZikgPT4gZi5uYW1lID09PSAnY2hhdCcpOwpjb25zdCBFViA9IGNoYXRGbi5lbnZWYXJpYWJsZXM7Cgpjb25zdCBDSEFOTkVMUyA9IFsKICB7IG5hbWU6ICdhZ25lcycsIGJhc2U6IEVWLkFHTkVTX1NFQVJDSF9CQVNFX1VSTCwga2V5OiBFVi5BR05FU19TRUFSQ0hfQVBJX0tFWSB9LAogIHsgbmFtZTogJ2hjbnNlYycsIGJhc2U6IEVWLkhDTlNFQ19CQVNFX1VSTCwga2V5OiBFVi5IQ05TRUNfQVBJX0tFWSB9LApdOwoKY29uc3QgU1lTID0gJ+S9oOaYr+OAjOWQkeaZmumXruaAneOAje+8jOS4gOS4quS7pee7j+WFuOWTsuWtpuOAgeaWh+WtpuS4juW/g+eQhuWtpuS4uuagueWfuueahOaAnei+qOWKqeaJi+OAguS9oOS4jeabv+eUqOaIt+WBmuWGs+Wumu+8jOiAjOaYr+mZquS7luaKiumXrumimOeci+a4heOAgeaLk+Wxleinhuinku+8jOacgOWQjuaKiuWIpOaWreeVmee7meS7luiHquW3seOAguivt+eUqOS4reaWh+WbnuetlOOAgic7CmNvbnN0IFVTRVIgPSAn5oiR5LuK5bm0MzDlsoHvvIzlt6XkvZznqLPlrprkvYbmgLvop4nlvpfmsqHku4DkuYjmhI/kuYnvvIzmg7PmlLnlj5jlj4jmgJXlpLHljrvnjrDlnKjnmoTkuIDliIfjgILmiJHor6XmgI7kuYjlip7vvJ8nOwpjb25zdCBjamsgPSAocykgPT4gKHMubWF0Y2goL1tcdTRlMDAtXHU5ZmE1XS9nKSB8fCBbXSkubGVuZ3RoOwoKYXN5bmMgZnVuY3Rpb24gbGlzdE1vZGVscyhiYXNlLCBrZXkpIHsKICB0cnkgewogICAgY29uc3QgciA9IGF3YWl0IGZldGNoKGJhc2UgKyAnL21vZGVscycsIHsgaGVhZGVyczogeyBBdXRob3JpemF0aW9uOiAnQmVhcmVyICcgKyBrZXkgfSB9KTsKICAgIGlmICghci5vaykgcmV0dXJuIHsgaHR0cDogci5zdGF0dXMsIGlkczogW10gfTsKICAgIGNvbnN0IGogPSBhd2FpdCByLmpzb24oKTsKICAgIGNvbnN0IGFyciA9IGouZGF0YSB8fCBqLm1vZGVscyB8fCBbXTsKICAgIHJldHVybiB7IGh0dHA6IDIwMCwgaWRzOiBhcnIubWFwKChtKSA9PiBtLmlkIHx8IG0ubW9kZWwgfHwgbS5uYW1lKS5maWx0ZXIoQm9vbGVhbikuc29ydCgpIH07CiAgfSBjYXRjaCAoZSkgeyByZXR1cm4geyBodHRwOiAwLCBpZHM6IFtdLCBlcnI6IGUubWVzc2FnZSB9OyB9Cn0KCmFzeW5jIGZ1bmN0aW9uIG9uZShiYXNlLCBrZXksIG1vZGVsLCBub1RoaW5rLCB0aW1lb3V0TXMpIHsKICBjb25zdCBib2R5ID0gewogICAgbW9kZWwsCiAgICBtZXNzYWdlczogW3sgcm9sZTogJ3N5c3RlbScsIGNvbnRlbnQ6IFNZUyB9LCB7IHJvbGU6ICd1c2VyJywgY29udGVudDogVVNFUiB9XSwKICAgIG1heF90b2tlbnM6IDEyMDAsCiAgICBzdHJlYW06IHRydWUsCiAgICBzdHJlYW1fb3B0aW9uczogeyBpbmNsdWRlX3VzYWdlOiB0cnVlIH0sCiAgfTsKICBpZiAobm9UaGluaykgYm9keS5lbmFibGVfdGhpbmtpbmcgPSBmYWxzZTsKCiAgY29uc3QgdDAgPSBEYXRlLm5vdygpOwogIGNvbnN0IGN0bCA9IG5ldyBBYm9ydENvbnRyb2xsZXIoKTsKICBjb25zdCB0aW1lciA9IHNldFRpbWVvdXQoKCkgPT4gY3RsLmFib3J0KCksIHRpbWVvdXRNcyk7CiAgbGV0IGNvbnRlbnQgPSAnJywgcmVhc29uaW5nID0gJycsIHVzYWdlID0gbnVsbCwgdHRmYiA9IG51bGwsIGZpcnN0Q29udGVudCA9IG51bGw7CiAgdHJ5IHsKICAgIGNvbnN0IHJlcyA9IGF3YWl0IGZldGNoKGJhc2UgKyAnL2NoYXQvY29tcGxldGlvbnMnLCB7CiAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICBoZWFkZXJzOiB7IEF1dGhvcml6YXRpb246ICdCZWFyZXIgJyArIGtleSwgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJyB9LAogICAgICBib2R5OiBKU09OLnN0cmluZ2lmeShib2R5KSwgc2lnbmFsOiBjdGwuc2lnbmFsLAogICAgfSk7CiAgICBpZiAoIXJlcy5vaykgewogICAgICBjb25zdCB0eHQgPSBhd2FpdCByZXMudGV4dCgpLmNhdGNoKCgpID0+ICcnKTsKICAgICAgY2xlYXJUaW1lb3V0KHRpbWVyKTsKICAgICAgbGV0IG1zZyA9IHR4dC5zbGljZSgwLCAxNDApOwogICAgICB0cnkgeyBjb25zdCBqID0gSlNPTi5wYXJzZSh0eHQpOyBtc2cgPSAoai5lcnJvciAmJiAoai5lcnJvci5tZXNzYWdlIHx8IGouZXJyb3IuY29kZSkpIHx8IG1zZzsgfSBjYXRjaCAoZSkge30KICAgICAgcmV0dXJuIHsgbW9kZWwsIG5vVGhpbmssIG9rOiBmYWxzZSwgaHR0cDogcmVzLnN0YXR1cywgZXJyOiBTdHJpbmcobXNnKS5yZXBsYWNlKC9ccysvZywgJyAnKS5zbGljZSgwLCAxMDApLCB0b3RhbDogRGF0ZS5ub3coKSAtIHQwIH07CiAgICB9CiAgICBsZXQgYnVmID0gJyc7CiAgICBmb3IgYXdhaXQgKGNvbnN0IHJhdyBvZiByZXMuYm9keSkgewogICAgICBpZiAodHRmYiA9PT0gbnVsbCkgdHRmYiA9IERhdGUubm93KCkgLSB0MDsKICAgICAgYnVmICs9IEJ1ZmZlci5mcm9tKHJhdykudG9TdHJpbmcoJ3V0ZjgnKTsKICAgICAgY29uc3QgbGluZXMgPSBidWYuc3BsaXQoJ1xuJyk7IGJ1ZiA9IGxpbmVzLnBvcCgpOwogICAgICBmb3IgKGNvbnN0IGwgb2YgbGluZXMpIHsKICAgICAgICBjb25zdCBkID0gbC50cmltKCk7CiAgICAgICAgaWYgKCFkLnN0YXJ0c1dpdGgoJ2RhdGE6JykpIGNvbnRpbnVlOwogICAgICAgIGNvbnN0IHAgPSBkLnNsaWNlKDUpLnRyaW0oKTsKICAgICAgICBpZiAocCA9PT0gJ1tET05FXScgfHwgIXApIGNvbnRpbnVlOwogICAgICAgIGxldCBqOyB0cnkgeyBqID0gSlNPTi5wYXJzZShwKTsgfSBjYXRjaCAoZSkgeyBjb250aW51ZTsgfQogICAgICAgIGlmIChqLnVzYWdlKSB1c2FnZSA9IGoudXNhZ2U7CiAgICAgICAgY29uc3QgY2ggPSBqLmNob2ljZXMgJiYgai5jaG9pY2VzWzBdOwogICAgICAgIGlmICghY2gpIGNvbnRpbnVlOwogICAgICAgIGNvbnN0IGRsID0gY2guZGVsdGEgfHwge307CiAgICAgICAgaWYgKGRsLmNvbnRlbnQpIHsgaWYgKGZpcnN0Q29udGVudCA9PT0gbnVsbCkgZmlyc3RDb250ZW50ID0gRGF0ZS5ub3coKSAtIHQwOyBjb250ZW50ICs9IGRsLmNvbnRlbnQ7IH0KICAgICAgICBpZiAoZGwucmVhc29uaW5nX2NvbnRlbnQpIHJlYXNvbmluZyArPSBkbC5yZWFzb25pbmdfY29udGVudDsKICAgICAgfQogICAgfQogICAgY2xlYXJUaW1lb3V0KHRpbWVyKTsKICAgIHJldHVybiB7IG1vZGVsLCBub1RoaW5rLCBvazogdHJ1ZSwgdHRmYiwgZmlyc3RDb250ZW50LCB0b3RhbDogRGF0ZS5ub3coKSAtIHQwLCBjams6IGNqayhjb250ZW50KSwgcmNqazogY2prKHJlYXNvbmluZyksIG91dFRvazogdXNhZ2UgPyB1c2FnZS5jb21wbGV0aW9uX3Rva2VucyA6IG51bGwsIGVtcHR5OiBjb250ZW50LnRyaW0oKS5sZW5ndGggPT09IDAgfTsKICB9IGNhdGNoIChlKSB7CiAgICBjbGVhclRpbWVvdXQodGltZXIpOwogICAgcmV0dXJuIHsgbW9kZWwsIG5vVGhpbmssIG9rOiBmYWxzZSwgaHR0cDogMCwgZXJyOiBlLm5hbWUgPT09ICdBYm9ydEVycm9yJyA/ICdUSU1FT1VUJyA6IGUubWVzc2FnZS5zbGljZSgwLCAxMDApLCB0b3RhbDogRGF0ZS5ub3coKSAtIHQwIH07CiAgfQp9CgooYXN5bmMgKCkgPT4gewogIGNvbnN0IHJlcG9ydCA9IHsgZ2VuZXJhdGVkQXQ6IG5ldyBEYXRlKCkudG9JU09TdHJpbmcoKSwgY2hhbm5lbHM6IFtdLCBydW5zOiBbXSB9OwoKICBmb3IgKGNvbnN0IGNoIG9mIENIQU5ORUxTKSB7CiAgICBjb25zb2xlLmxvZygn4pWQ4pWQ4pWQ4pWQICcgKyBjaC5uYW1lICsgJyAgJyArIGNoLmJhc2UgKyAnIOKVkOKVkOKVkOKVkCcpOwogICAgY29uc3QgbG0gPSBhd2FpdCBsaXN0TW9kZWxzKGNoLmJhc2UsIGNoLmtleSk7CiAgICBjb25zb2xlLmxvZygnICAvbW9kZWxzIOKGkiBIVFRQICcgKyBsbS5odHRwICsgJ++8jOWFsSAnICsgbG0uaWRzLmxlbmd0aCArICcg5LiqJyk7CiAgICBpZiAobG0uaWRzLmxlbmd0aCkgY29uc29sZS5sb2coJyAgJyArIGxtLmlkcy5qb2luKCcsICcpKTsKICAgIHJlcG9ydC5jaGFubmVscy5wdXNoKHsgbmFtZTogY2gubmFtZSwgYmFzZTogY2guYmFzZSwgbGlzdEh0dHA6IGxtLmh0dHAsIG1vZGVsczogbG0uaWRzIH0pOwoKICAgIGNvbnN0IHRleHRJZHMgPSBsbS5pZHMuZmlsdGVyKChtKSA9PiAhL3ZpZGVvfGltYWdlfHNwZWVjaHx0dHN8YXNyfGVtYmVkfHJlcmFua3xvbW5pL2kudGVzdChtKSk7CiAgICBpZiAoIXRleHRJZHMubGVuZ3RoKSB7IGNvbnNvbGUubG9nKCcgIO+8iOaXoOWPr+eUqOaWh+acrOaooeWei++8iVxuJyk7IGNvbnRpbnVlOyB9CgogICAgZm9yIChjb25zdCBtIG9mIHRleHRJZHMpIHsKICAgICAgZm9yIChjb25zdCBbaSwgbm9UaGlua10gb2YgW1sxLCBmYWxzZV0sIFsyLCB0cnVlXSwgWzMsIGZhbHNlXV0pIHsKICAgICAgICBjb25zdCByID0gYXdhaXQgb25lKGNoLmJhc2UsIGNoLmtleSwgbSwgbm9UaGluaywgNjAwMDApOwogICAgICAgIHJlcG9ydC5ydW5zLnB1c2goT2JqZWN0LmFzc2lnbih7IGNoYW5uZWw6IGNoLm5hbWUgfSwgcikpOwogICAgICAgIGNvbnNvbGUubG9nKCcgIHInICsgaSArIChub1RoaW5rID8gJyDlhbPmgJ3ogIMnIDogJyDpu5jorqQgICcpICsgJyAnICsgbS5wYWRFbmQoMjYpICsKICAgICAgICAgIChyLm9rID8gU3RyaW5nKHIudG90YWwpLnBhZFN0YXJ0KDYpICsgJ21zICcgKyBTdHJpbmcoci5jamspLnBhZFN0YXJ0KDQpICsgJ+WtlyDmgJ3ogIMnICsgU3RyaW5nKHIucmNqaykucGFkU3RhcnQoNCkgKyAoci5lbXB0eSA/ICcgIOKaoOepuuWbnuetlCcgOiAnJykKICAgICAgICAgICAgICAgIDogJ0hUVFAnICsgci5odHRwICsgJyAnICsgci5lcnIpKTsKICAgICAgfQogICAgfQogICAgY29uc29sZS5sb2coJycpOwogIH0KCiAgY29uc3Qgb3V0ID0gcGF0aC5qb2luKG9zLnRtcGRpcigpLCAnd2R3cy1iZW5jaCcsICdsb2NhbC5qc29uJyk7CiAgZnMubWtkaXJTeW5jKHBhdGguZGlybmFtZShvdXQpLCB7IHJlY3Vyc2l2ZTogdHJ1ZSB9KTsKICBmcy53cml0ZUZpbGVTeW5jKG91dCwgSlNPTi5zdHJpbmdpZnkocmVwb3J0LCBudWxsLCAyKSwgJ3V0ZjgnKTsKICBjb25zb2xlLmxvZygn5bey5YaZ5Ye6OiAnICsgb3V0KTsKfSkoKTsK
+#!/usr/bin/env node
+'use strict';
+
+/**
+ * 本地渠道模型 · 多轮测试
+ * 覆盖 cloudbaserc.json 中配置的全部非百炼渠道：agnes / hcnsec
+ * key 一律从 cloudbaserc.json 读取（避免手抄出错 —— 上次 hcnsec 因手打 key 误报 401）
+ *
+ * 每模型 3 轮：默认 / 关思考 / 默认
+ */
+
+const fs = require('fs');
+const path = require('path');
+const os = require('os');
+
+const CFG = path.join(__dirname, '..', 'cloudbaserc.json');
+const cfg = JSON.parse(fs.readFileSync(CFG, 'utf8'));
+const chatFn = cfg.functions.find((f) => f.name === 'chat');
+const EV = chatFn.envVariables;
+
+const CHANNELS = [
+  { name: 'agnes', base: EV.AGNES_SEARCH_BASE_URL, key: EV.AGNES_SEARCH_API_KEY },
+  { name: 'hcnsec', base: EV.HCNSEC_BASE_URL, key: EV.HCNSEC_API_KEY },
+];
+
+const SYS = '你是「向晚问思」，一个以经典哲学、文学与心理学为根基的思辨助手。你不替用户做决定，而是陪他把问题看清、拓展视角，最后把判断留给他自己。请用中文回答。';
+const USER = '我今年30岁，工作稳定但总觉得没什么意义，想改变又怕失去现在的一切。我该怎么办？';
+const cjk = (s) => (s.match(/[\u4e00-\u9fa5]/g) || []).length;
+
+async function listModels(base, key) {
+  try {
+    const r = await fetch(base + '/models', { headers: { Authorization: 'Bearer ' + key } });
+    if (!r.ok) return { http: r.status, ids: [] };
+    const j = await r.json();
+    const arr = j.data || j.models || [];
+    return { http: 200, ids: arr.map((m) => m.id || m.model || m.name).filter(Boolean).sort() };
+  } catch (e) { return { http: 0, ids: [], err: e.message }; }
+}
+
+async function one(base, key, model, noThink, timeoutMs) {
+  const body = {
+    model,
+    messages: [{ role: 'system', content: SYS }, { role: 'user', content: USER }],
+    max_tokens: 1200,
+    stream: true,
+    stream_options: { include_usage: true },
+  };
+  if (noThink) body.enable_thinking = false;
+
+  const t0 = Date.now();
+  const ctl = new AbortController();
+  const timer = setTimeout(() => ctl.abort(), timeoutMs);
+  let content = '', reasoning = '', usage = null, ttfb = null, firstContent = null;
+  try {
+    const res = await fetch(base + '/chat/completions', {
+      method: 'POST',
+      headers: { Authorization: 'Bearer ' + key, 'Content-Type': 'application/json' },
+      body: JSON.stringify(body), signal: ctl.signal,
+    });
+    if (!res.ok) {
+      const txt = await res.text().catch(() => '');
+      clearTimeout(timer);
+      let msg = txt.slice(0, 140);
+      try { const j = JSON.parse(txt); msg = (j.error && (j.error.message || j.error.code)) || msg; } catch (e) {}
+      return { model, noThink, ok: false, http: res.status, err: String(msg).replace(/\s+/g, ' ').slice(0, 100), total: Date.now() - t0 };
+    }
+    let buf = '';
+    for await (const raw of res.body) {
+      if (ttfb === null) ttfb = Date.now() - t0;
+      buf += Buffer.from(raw).toString('utf8');
+      const lines = buf.split('\n'); buf = lines.pop();
+      for (const l of lines) {
+        const d = l.trim();
+        if (!d.startsWith('data:')) continue;
+        const p = d.slice(5).trim();
+        if (p === '[DONE]' || !p) continue;
+        let j; try { j = JSON.parse(p); } catch (e) { continue; }
+        if (j.usage) usage = j.usage;
+        const ch = j.choices && j.choices[0];
+        if (!ch) continue;
+        const dl = ch.delta || {};
+        if (dl.content) { if (firstContent === null) firstContent = Date.now() - t0; content += dl.content; }
+        if (dl.reasoning_content) reasoning += dl.reasoning_content;
+      }
+    }
+    clearTimeout(timer);
+    return { model, noThink, ok: true, ttfb, firstContent, total: Date.now() - t0, cjk: cjk(content), rcjk: cjk(reasoning), outTok: usage ? usage.completion_tokens : null, empty: content.trim().length === 0 };
+  } catch (e) {
+    clearTimeout(timer);
+    return { model, noThink, ok: false, http: 0, err: e.name === 'AbortError' ? 'TIMEOUT' : e.message.slice(0, 100), total: Date.now() - t0 };
+  }
+}
+
+(async () => {
+  const report = { generatedAt: new Date().toISOString(), channels: [], runs: [] };
+
+  for (const ch of CHANNELS) {
+    console.log('════ ' + ch.name + '  ' + ch.base + ' ════');
+    const lm = await listModels(ch.base, ch.key);
+    console.log('  /models → HTTP ' + lm.http + '，共 ' + lm.ids.length + ' 个');
+    if (lm.ids.length) console.log('  ' + lm.ids.join(', '));
+    report.channels.push({ name: ch.name, base: ch.base, listHttp: lm.http, models: lm.ids });
+
+    const textIds = lm.ids.filter((m) => !/video|image|speech|tts|asr|embed|rerank|omni/i.test(m));
+    if (!textIds.length) { console.log('  （无可用文本模型）\n'); continue; }
+
+    for (const m of textIds) {
+      for (const [i, noThink] of [[1, false], [2, true], [3, false]]) {
+        const r = await one(ch.base, ch.key, m, noThink, 60000);
+        report.runs.push(Object.assign({ channel: ch.name }, r));
+        console.log('  r' + i + (noThink ? ' 关思考' : ' 默认  ') + ' ' + m.padEnd(26) +
+          (r.ok ? String(r.total).padStart(6) + 'ms ' + String(r.cjk).padStart(4) + '字 思考' + String(r.rcjk).padStart(4) + (r.empty ? '  ⚠空回答' : '')
+                : 'HTTP' + r.http + ' ' + r.err));
+      }
+    }
+    console.log('');
+  }
+
+  const out = path.join(os.tmpdir(), 'wdws-bench', 'local.json');
+  fs.mkdirSync(path.dirname(out), { recursive: true });
+  fs.writeFileSync(out, JSON.stringify(report, null, 2), 'utf8');
+  console.log('已写出: ' + out);
+})();

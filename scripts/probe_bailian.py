@@ -1,1 +1,23 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0NCmltcG9ydCBqc29uLCBvcywgc3NsLCB0aW1lLCB1cmxsaWIucmVxdWVzdA0KY3R4ID0gc3NsLmNyZWF0ZV9kZWZhdWx0X2NvbnRleHQoKQ0KY3R4LmNoZWNrX2hvc3RuYW1lID0gRmFsc2UNCmN0eC52ZXJpZnlfbW9kZSA9IHNzbC5DRVJUX05PTkUNCnVybCA9ICJodHRwczovL2Rhc2hzY29wZS5hbGl5dW5jcy5jb20vY29tcGF0aWJsZS1tb2RlL3YxL2NoYXQvY29tcGxldGlvbnMiDQprZXkgPSBvcy5lbnZpcm9uLmdldCgiREFTSFNDT1BFX0FQSV9LRVkiLCAic2stWU9VUl9BUElfS0VZX0hFUkUiKQ0KYm9keSA9IGpzb24uZHVtcHMoew0KICAgICJtb2RlbCI6ICJxd2VuMy44LW1heCIsDQogICAgIm1lc3NhZ2VzIjogW3sicm9sZSI6ICJ1c2VyIiwgImNvbnRlbnQiOiAi5L2g5aW977yM566A55+t5Zue562UIn1dLA0KICAgICJzdHJlYW0iOiBGYWxzZSwNCiAgICAibWF4X3Rva2VucyI6IDUwLA0KfSkuZW5jb2RlKCJ1dGYtOCIpDQpyZXEgPSB1cmxsaWIucmVxdWVzdC5SZXF1ZXN0KHVybCwgZGF0YT1ib2R5LCBtZXRob2Q9IlBPU1QiKQ0KcmVxLmFkZF9oZWFkZXIoIkF1dGhvcml6YXRpb24iLCAiQmVhcmVyICIgKyBrZXkpDQpyZXEuYWRkX2hlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb247IGNoYXJzZXQ9dXRmLTgiKQ0KdDAgPSB0aW1lLnRpbWUoKQ0KdHJ5Og0KICAgIHdpdGggdXJsbGliLnJlcXVlc3QudXJsb3BlbihyZXEsIHRpbWVvdXQ9NjAsIGNvbnRleHQ9Y3R4KSBhcyByZXNwOg0KICAgICAgICByYXcgPSByZXNwLnJlYWQoKS5kZWNvZGUoInV0Zi04IiwgInJlcGxhY2UiKQ0KICAgICAgICBwcmludCgiT0sgJS4xZnMgJXMiICUgKHRpbWUudGltZSgpLXQwLCByYXdbOjIwMF0pKQ0KZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOg0KICAgIHByaW50KCJFUlIgJS4xZnMgJXMiICUgKHRpbWUudGltZSgpLXQwLCBzdHIoZSlbOjMwMF0pKQ0K
+# -*- coding: utf-8 -*-
+import json, os, ssl, time, urllib.request
+ctx = ssl.create_default_context()
+ctx.check_hostname = False
+ctx.verify_mode = ssl.CERT_NONE
+url = "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions"
+key = os.environ.get("DASHSCOPE_API_KEY", "sk-YOUR_API_KEY_HERE")
+body = json.dumps({
+    "model": "qwen3.8-max",
+    "messages": [{"role": "user", "content": "你好，简短回答"}],
+    "stream": False,
+    "max_tokens": 50,
+}).encode("utf-8")
+req = urllib.request.Request(url, data=body, method="POST")
+req.add_header("Authorization", "Bearer " + key)
+req.add_header("Content-Type", "application/json; charset=utf-8")
+t0 = time.time()
+try:
+    with urllib.request.urlopen(req, timeout=60, context=ctx) as resp:
+        raw = resp.read().decode("utf-8", "replace")
+        print("OK %.1fs %s" % (time.time()-t0, raw[:200]))
+except Exception as e:
+    print("ERR %.1fs %s" % (time.time()-t0, str(e)[:300]))

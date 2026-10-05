@@ -1,1 +1,39 @@
-Ly8gc2VjdXJpdHkvcGlpU2NydWIuanMKLy8g5pel5b+X6ISx5pWP5bel5YW3IOKAlOKAlCDnuq/lh73mlbDvvIzml6DnvZHnu5wgLyDml6Dkvp3otZbjgIIKLy8g5LuF55So5LqO6JC95bqT5YmN6ISx5pWP77yM5LiN5pS55Y+Y55So5oi35a6e6ZmF5Zue562U44CC6KaG55uW77ya5omL5py65Y+3IC8g6YKu566xIC8g6Lqr5Lu96K+BIC8g5b6u5L+h5Y+3IC8g6ZO26KGM5Y2hIC8gYXBpa2V5LXRva2Vu44CCCid1c2Ugc3RyaWN0JzsKCi8vIOmhuuW6j++8muWFiOmVv+WQjuefre+8jOmBv+WFjemDqOWIhuWMuemFjeWvvOiHtOa8j+iEseaVj+OAggovLyB3ZWNoYXQg5LuF5Zyo44CM5b6u5L+h5Y+3Oi93eGlkOi93ZWNoYXTjgI3kuIrkuIvmloflkI7ljLnphY0gSUTvvIzpgb/lhY3or6/kvKTmma7pgJroi7Hmlofor43jgIIKLy8gdG9rZW4g5LuF5Zyo44CMYXBpX2tleT0vdG9rZW4644CN562J6ZSu5YC86K+t5aKD5Yy56YWN77yM6YG/5YWN6K+v5Lyk5pmu6YCa5paH5pys44CCCmNvbnN0IFJVTEVTID0gWwogIHsgbmFtZTogImlkY2FyZCIsIHJlOiAvXGJcZHsxN31bXGRYeF1cYi9nLCBncm91cDogMCB9LAogIHsgbmFtZTogInBob25lIiwgcmU6IC9cYjFbMy05XVxkezl9XGIvZywgZ3JvdXA6IDAgfSwKICB7IG5hbWU6ICJiYW5rY2FyZCIsIHJlOiAvXGJcZHsxNSwxOX1cYi9nLCBncm91cDogMCB9LAogIHsgbmFtZTogImVtYWlsIiwgcmU6IC9bQS1aYS16MC05Ll8lKy1dK0BbQS1aYS16MC05Li1dK1wuW0EtWmEtel17Mix9L2csIGdyb3VwOiAwIH0sCiAgeyBuYW1lOiAid2VjaGF0IiwgcmU6IC8o5b6u5L+h5Y+3fHd4aWR8d2VjaGF0KVxzKls677yaXT9ccyooW0EtWmEtel1bQS1aYS16MC05Xy1dezUsMTl9KS9naSwgZ3JvdXA6IDIgfSwKICB7IG5hbWU6ICJ0b2tlbiIsIHJlOiAvKGFwaVtfLV0/a2V5fHRva2VufHNlY3JldHxhY2Nlc3NbXy1dP3Rva2VuKVxzKls6PV1ccypbIiddP1tBLVphLXowLTlcLV8uXXs4LH0vZ2ksIGdyb3VwOiAwIH0sCl07CgovKioKICog5a+55paH5pys5YGaIFBJSSDohLHmlY/vvIjku4Xmm7/mjaLvvIzkuI3mlLnliqjnu5PmnoTvvInjgIIKICogQHBhcmFtIHtzdHJpbmd9IHRleHQg5b6F6ISx5pWP5paH5pysCiAqIEByZXR1cm5zIHtzdHJpbmd9IOiEseaVj+WQjuaWh+acrAogKi8KZnVuY3Rpb24gbWFzayh0ZXh0KSB7CiAgaWYgKCF0ZXh0KSByZXR1cm4gdGV4dDsKICBsZXQgcyA9IFN0cmluZyh0ZXh0KTsKICBmb3IgKGNvbnN0IHIgb2YgUlVMRVMpIHsKICAgIGlmIChyLmdyb3VwICYmIHIuZ3JvdXAgPiAwKSB7CiAgICAgIHMgPSBzLnJlcGxhY2Uoci5yZSwgKG0sIC4uLmFyZ3MpID0+IHsKICAgICAgICBjb25zdCBjYXB0dXJlZCA9IGFyZ3Nbci5ncm91cCAtIDFdOwogICAgICAgIHJldHVybiBjYXB0dXJlZCA/IG0ucmVwbGFjZShjYXB0dXJlZCwgIioqKiIpIDogIioqKiI7CiAgICAgIH0pOwogICAgfSBlbHNlIHsKICAgICAgcyA9IHMucmVwbGFjZShyLnJlLCAiKioqIik7CiAgICB9CiAgfQogIHJldHVybiBzOwp9Cgptb2R1bGUuZXhwb3J0cyA9IHsgbWFzaywgUlVMRVMgfTsK
+// security/piiScrub.js
+// 日志脱敏工具 —— 纯函数，无网络 / 无依赖。
+// 仅用于落库前脱敏，不改变用户实际回答。覆盖：手机号 / 邮箱 / 身份证 / 微信号 / 银行卡 / apikey-token。
+'use strict';
+
+// 顺序：先长后短，避免部分匹配导致漏脱敏。
+// wechat 仅在「微信号:/wxid:/wechat」上下文后匹配 ID，避免误伤普通英文词。
+// token 仅在「api_key=/token:」等键值语境匹配，避免误伤普通文本。
+const RULES = [
+  { name: "idcard", re: /\b\d{17}[\dXx]\b/g, group: 0 },
+  { name: "phone", re: /\b1[3-9]\d{9}\b/g, group: 0 },
+  { name: "bankcard", re: /\b\d{15,19}\b/g, group: 0 },
+  { name: "email", re: /[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}/g, group: 0 },
+  { name: "wechat", re: /(微信号|wxid|wechat)\s*[:：]?\s*([A-Za-z][A-Za-z0-9_-]{5,19})/gi, group: 2 },
+  { name: "token", re: /(api[_-]?key|token|secret|access[_-]?token)\s*[:=]\s*["']?[A-Za-z0-9\-_.]{8,}/gi, group: 0 },
+];
+
+/**
+ * 对文本做 PII 脱敏（仅替换，不改动结构）。
+ * @param {string} text 待脱敏文本
+ * @returns {string} 脱敏后文本
+ */
+function mask(text) {
+  if (!text) return text;
+  let s = String(text);
+  for (const r of RULES) {
+    if (r.group && r.group > 0) {
+      s = s.replace(r.re, (m, ...args) => {
+        const captured = args[r.group - 1];
+        return captured ? m.replace(captured, "***") : "***";
+      });
+    } else {
+      s = s.replace(r.re, "***");
+    }
+  }
+  return s;
+}
+
+module.exports = { mask, RULES };

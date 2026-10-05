@@ -1,1 +1,169 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIHRoaW5rL3JlYXNvbmluZy5qcwovLyAgIFBoYXNlIFEyLTPvvJrpl67mgJ3ono3lkIjlvJXmk44g4oCUIOaAneaDs+Wxgu+8iFJlYXNvbmluZ++8ieOAggovLwovLyAgIOi/meS4gOWxguaYr+OAjOWQkeaZmumXruaAneOAjeWMuuWIq+S6juaZrumAmumXruetlOeahOWcsOaWue+8muS4jee7meabtOWkmuetlOahiO+8jOe7meabtOWlveeahOmXrumimOOAggovLwovLyAgIOacgOmrmOmTgeW+i++8iOS4jiBELWEg5Y+N5bm76KeJ56Gs6Ze45ZCM5rqQ77yJ77yaCi8vICAgICDimIUg5pys5qih5Z2XICoq5Y+q6IO96YeN6L+w44CB5a+554Wn44CB6L+96Zeu5bey57uP5a2Y5Zyo55qE5p2Q5paZKirvvIwKLy8gICAgICAg5Lil56aB55Sf5oiQ5Lu75L2V5paw55qE5LqL5a6e5pat6KiA77yI5Lq654mp44CB5pe26Ze044CB5LqL5Lu244CB5pWw5a2X44CB5Zug5p6c57uT6K6677yJ44CCCi8vICAgICDimIUg5omA5pyJ6L6T5Ye65b+F6aG75piv44CM5YGH6K6+IC8g5byg5YqbIC8g5byA5pS+6Zeu6aKY44CN5LiJ56eN6Z2e5pat6KiA5Y+l5byP5LmL5LiA44CCCi8vICAgICDimIUg5rKh5pyJ5p2Q5paZ5pe26L+U5Zue56m657uT5p6E77yM5riy5p+T5Li656m65LiyIOKAlOKAlCDlroHlj6/kuI3or7TvvIzkuI3lj6/nvJbpgKDjgIIKLy8KLy8gICDovpPlhaXmnZDmlpnku4XkuKTnsbvvvIzkuJTpg73mnaXoh6rmnKzmrKHor7fmsYLvvJoKLy8gICAgIGZhY3RzW10gICAgIOivt+axgue6p+ajgOe0ouS6i+Wunu+8iHRoaW5rL2ZhY3RFeHRyYWN0b3Ig5Lqn5Ye677yM5bey6L+H5rukIG1vY2vvvIkKLy8gICAgIGtub3dsZWRnZVtdIFJBRyDlj6ror7vov5Tlm57nmoTnu4/lhbjlvJXnlKjvvIjkuI3kv67mlLnnn6Xor4blupPvvIkKLy8KLy8gICDnuq/lh73mlbDjgIHpm7bmqKHlnovosIPnlKjjgIHpm7bnvZHnu5zjgIHpm7bkupHkvp3otZbjgIFOb2RlIDE2LjEzIOWFvOWuueOAggovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KJ3VzZSBzdHJpY3QnOwoKdmFyIE1BWF9JVEVNU19QRVJfS0lORCA9IDI7CnZhciBNQVhfVE9QSUNfTEVOID0gMjA7CgovLyDmj5Dpl67lpJblo7Por43vvJrmir3lj5bjgIzor53popjjgI3ml7bliaXmjonvvIzpgb/lhY3miornlpHpl67lj6Xljp/moLfloZ7lm57mlofmoYgKdmFyIFNIRUxMX1JFID0gL14o6K+36ZeufOaIkeaDs+mXruS4gOS4i3zmiJHmg7Ppl6585oiR5oOz55+l6YGTfOaDs+ivt+aVmXzkvaDop4nlvpd85L2g6K6k5Li6fOWkp+WutuinieW+l3zluK7miJHnnIvnnIt86IO95LiN6IO96K+06K+0fOivtOivtCkvdTsKdmFyIFRBSUxfUkUgPSAvKOaYr+S7gOS5iHzkuLrku4DkuYh85oCO5LmI55yLfOWmguS9leeci+W+hXzmgI7kuYjlip586K+l5oCO5LmI5YGafOWlveS4jeWlvXzlr7nkuI3lr7l85ZCXfOWRonzllYp85ZCnKT9bP++8n+OAgu+8gSFcc10qJC91OwoKLy8g5oq95Y+W6K+d6aKY77ya5LuF5YGa5a2X56ym5Liy6KOB5Ymq77yM5LiN5YGa5Lu75L2V6K+t5LmJ5o6o5pat77yI5LiN5byV5YWl5paw5L+h5oGv77yJCmZ1bmN0aW9uIGV4dHJhY3RUb3BpYyhxdWVyeSkgewogIHZhciBxID0gKHF1ZXJ5IHx8ICcnKS50b1N0cmluZygpLnRyaW0oKTsKICBpZiAoIXEpIHJldHVybiAnJzsKICBxID0gcS5yZXBsYWNlKFNIRUxMX1JFLCAnJykudHJpbSgpOwogIHEgPSBxLnJlcGxhY2UoVEFJTF9SRSwgJycpLnRyaW0oKTsKICBxID0gcS5yZXBsYWNlKC9eW++8jCzjgIE677yaXHNdKy8sICcnKS50cmltKCk7CiAgaWYgKCFxKSByZXR1cm4gJyc7CiAgaWYgKHEubGVuZ3RoID4gTUFYX1RPUElDX0xFTikgcSA9IHEuc2xpY2UoMCwgTUFYX1RPUElDX0xFTikgKyAn4oCmJzsKICByZXR1cm4gcTsKfQoKLy8g57uP5YW45byV55So5qCH6aKY77yIUkFHIGNpdGF0aW9ucyDlvaLnirbvvJp7IHRpdGxlLCAuLi4gfe+8iQpmdW5jdGlvbiBrbm93bGVkZ2VUaXRsZXMoa25vd2xlZGdlKSB7CiAgdmFyIGxpc3QgPSBBcnJheS5pc0FycmF5KGtub3dsZWRnZSkgPyBrbm93bGVkZ2UgOiBbXTsKICB2YXIgb3V0ID0gW107CiAgZm9yICh2YXIgaSA9IDA7IGkgPCBsaXN0Lmxlbmd0aCAmJiBvdXQubGVuZ3RoIDwgMzsgaSsrKSB7CiAgICB2YXIgayA9IGxpc3RbaV07CiAgICBpZiAoIWspIGNvbnRpbnVlOwogICAgdmFyIHQgPSAoay50aXRsZSB8fCBrLmJvb2sgfHwgJycpLnRvU3RyaW5nKCkudHJpbSgpOwogICAgaWYgKHQgJiYgb3V0LmluZGV4T2YodCkgPCAwKSBvdXQucHVzaCh0KTsKICB9CiAgcmV0dXJuIG91dDsKfQoKLy8g5LqL5a6e5p2l5rqQ5ZCN77yI5Y676YeN77yJCmZ1bmN0aW9uIGZhY3RTb3VyY2VzKGZhY3RzKSB7CiAgdmFyIGxpc3QgPSBBcnJheS5pc0FycmF5KGZhY3RzKSA/IGZhY3RzIDogW107CiAgdmFyIG91dCA9IFtdOwogIGZvciAodmFyIGkgPSAwOyBpIDwgbGlzdC5sZW5ndGggJiYgb3V0Lmxlbmd0aCA8IDM7IGkrKykgewogICAgdmFyIGYgPSBsaXN0W2ldOwogICAgaWYgKCFmKSBjb250aW51ZTsKICAgIHZhciBzID0gKGYuc291cmNlIHx8ICcnKS50b1N0cmluZygpLnRyaW0oKTsKICAgIGlmIChzICYmIG91dC5pbmRleE9mKHMpIDwgMCkgb3V0LnB1c2gocyk7CiAgfQogIHJldHVybiBvdXQ7Cn0KCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQovLyBidWlsZFJlYXNvbmluZyh7IHF1ZXJ5LCBmYWN0cywga25vd2xlZGdlLCBiYXNlQW5zd2VyIH0pCi8vICAg4oaSIHsKLy8gICAgICAgdG9waWMsIGh5cG90aGVzZXNbXSwgdGVuc2lvbnNbXSwgb3BlblF1ZXN0aW9uc1tdLAovLyAgICAgICBkZXJpdmVkT25seTogdHJ1ZSwgICAgICAgICAgLy8g5aOw5piO77ya5YWo6YOo55Sx5pei5pyJ5p2Q5paZ5rS+55SfCi8vICAgICAgIHNvdXJjZXM6IHsgZmFjdENvdW50LCBrbm93bGVkZ2VDb3VudCB9LAovLyAgICAgICBfZXBoZW1lcmFsOiB0cnVlCi8vICAgICB9Ci8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpmdW5jdGlvbiBidWlsZFJlYXNvbmluZyhpbnB1dCkgewogIGlucHV0ID0gaW5wdXQgfHwge307CiAgdmFyIHF1ZXJ5ID0gKGlucHV0LnF1ZXJ5IHx8ICcnKS50b1N0cmluZygpOwogIHZhciBmYWN0cyA9IEFycmF5LmlzQXJyYXkoaW5wdXQuZmFjdHMpID8gaW5wdXQuZmFjdHMgOiBbXTsKICB2YXIga25vd2xlZGdlID0gQXJyYXkuaXNBcnJheShpbnB1dC5rbm93bGVkZ2UpID8gaW5wdXQua25vd2xlZGdlIDogW107CiAgdmFyIHRvcGljID0gZXh0cmFjdFRvcGljKHF1ZXJ5KTsKCiAgdmFyIGJvb2tzID0ga25vd2xlZGdlVGl0bGVzKGtub3dsZWRnZSk7CiAgdmFyIHNyY3MgPSBmYWN0U291cmNlcyhmYWN0cyk7CgogIHZhciBoeXBvdGhlc2VzID0gW107CiAgdmFyIHRlbnNpb25zID0gW107CiAgdmFyIG9wZW5RdWVzdGlvbnMgPSBbXTsKCiAgLy8gLS0tLS0tLS0tLSDlvKDlipvvvJrlj6rmnInjgIzkuovlrp4gw5cg57uP5YW444CN5ZCM5pe25Zyo5Zy65pe25omN5oiQ56uLIC0tLS0tLS0tLS0KICBpZiAoZmFjdHMubGVuZ3RoID4gMCAmJiBib29rcy5sZW5ndGggPiAwKSB7CiAgICB0ZW5zaW9ucy5wdXNoKAogICAgICAn55y85YmN55qE5L+h5oGv5Zue562U55qE5piv44CM5Y+R55Sf5LqG5LuA5LmI44CN77yM6ICM44CKJyArIGJvb2tzWzBdICsgJ+OAi+WbnuetlOeahOaYr+OAjOivpeaAjuS5iOeQhuino+OAjeKAlOKAlOS4pOiAheS4jeWcqOWQjOS4gOWxgu+8jOWIq+eUqOWJjeiAheabv+WQjuiAheS4i+e7k+iuuuOAgicKICAgICk7CiAgfSBlbHNlIGlmIChmYWN0cy5sZW5ndGggPiAxICYmIHNyY3MubGVuZ3RoID4gMSkgewogICAgdGVuc2lvbnMucHVzaCgKICAgICAgJ+WQjOS4gOS7tuS6i+acieadpeiHqiAnICsgc3Jjcy5sZW5ndGggKyAnIOS4quS4jeWQjOadpea6kOeahOivtOazle+8jOWFiOehruiupOWug+S7rOaYr+S6kuebuOWNsOivge+8jOi/mOaYr+WPquaYr+W9vOatpOi9rOi/sOOAgicKICAgICk7CiAgfQoKICAvLyAtLS0tLS0tLS0tIOWBh+iuvu+8muS4gOW+i+eUqOOAjOS5n+iuuCAvIOWmguaenCAvIOWBh+iuvuOAjeWPpeW8j++8jOmdnuaWreiogCAtLS0tLS0tLS0tCiAgaWYgKHRvcGljKSB7CiAgICBoeXBvdGhlc2VzLnB1c2goJ+S9oOecn+ato+WcqOaEj+eahOS5n+iuuOS4jeaYr+OAjCcgKyB0b3BpYyArICfjgI3mnKzouqvvvIzogIzmmK/lroPokL3liLDkvaDouqvkuIrml7bmhI/lkbPnnYDku4DkuYjjgIInKTsKICB9CiAgaWYgKGJvb2tzLmxlbmd0aCA+IDApIHsKICAgIGh5cG90aGVzZXMucHVzaCgn5aaC5p6c5o2i44CKJyArIGJvb2tzWzBdICsgJ+OAi+eahOahhuaetuadpeeci++8jOmHjeeCueWPr+iDveS8muS7juOAjOaAjuS5iOWKnuOAjeenu+WIsOOAjOS9oOato+WkhOWcqOS7gOS5iOS9jee9ruOAjeOAgicpOwogIH0gZWxzZSBpZiAoZmFjdHMubGVuZ3RoID4gMCkgewogICAgaHlwb3RoZXNlcy5wdXNoKCflt7Lnn6Xkv6Hmga/lj6ropobnm5bkuobooajlsYLvvIzliKTmlq3kuYvliY3vvIzlhYjpl67kuIDlj6XvvJrov5nkupvor53mmK/osIHlnKjor7TjgIHkuLrku4DkuYjov5nmoLfor7TjgIInKTsKICB9CgogIC8vIC0tLS0tLS0tLS0g5byA5pS+6Zeu6aKY77ya6L+96Zeu77yM5LiN5Zue562UIC0tLS0tLS0tLS0KICBvcGVuUXVlc3Rpb25zLnB1c2goJ+i/meS4quWIpOaWreW7uueri+WcqOWTquS6m+S9oOi/mOayoemqjOivgei/h+eahOWJjeaPkOS4iu+8nycpOwogIGlmIChmYWN0cy5sZW5ndGggPiAwKSB7CiAgICBvcGVuUXVlc3Rpb25zLnB1c2goJ+S7peS4iuS/oeaBr+mHjO+8jOWTquS6m+aYr+WPr+aguOWunueahOS6i+Wunu+8jOWTquS6m+WPquaYr+WPmei/sOiAheeahOino+ivu++8nycpOwogIH0gZWxzZSBpZiAodG9waWMpIHsKICAgIG9wZW5RdWVzdGlvbnMucHVzaCgn5aaC5p6c44CMJyArIHRvcGljICsgJ+OAjeeahOetlOahiOWSjOS9oOmihOacn+ebuOWPje+8jOS9oOS8muaUueWPmOS7gOS5iO+8nycpOwogIH0KCiAgcmV0dXJuIHsKICAgIHRvcGljOiB0b3BpYywKICAgIGh5cG90aGVzZXM6IGh5cG90aGVzZXMuc2xpY2UoMCwgTUFYX0lURU1TX1BFUl9LSU5EKSwKICAgIHRlbnNpb25zOiB0ZW5zaW9ucy5zbGljZSgwLCBNQVhfSVRFTVNfUEVSX0tJTkQpLAogICAgb3BlblF1ZXN0aW9uczogb3BlblF1ZXN0aW9ucy5zbGljZSgwLCBNQVhfSVRFTVNfUEVSX0tJTkQpLAogICAgZGVyaXZlZE9ubHk6IHRydWUsCiAgICBzb3VyY2VzOiB7IGZhY3RDb3VudDogZmFjdHMubGVuZ3RoLCBrbm93bGVkZ2VDb3VudDoga25vd2xlZGdlLmxlbmd0aCB9LAogICAgX2VwaGVtZXJhbDogdHJ1ZSwKICB9Owp9CgovLyDmmK/lkKbmnInlj6/muLLmn5PlhoXlrrkKZnVuY3Rpb24gaGFzQ29udGVudChyZWFzb25pbmcpIHsKICBpZiAoIXJlYXNvbmluZykgcmV0dXJuIGZhbHNlOwogIHZhciBuID0gKHJlYXNvbmluZy5oeXBvdGhlc2VzIHx8IFtdKS5sZW5ndGgKICAgICsgKHJlYXNvbmluZy50ZW5zaW9ucyB8fCBbXSkubGVuZ3RoCiAgICArIChyZWFzb25pbmcub3BlblF1ZXN0aW9ucyB8fCBbXSkubGVuZ3RoOwogIHJldHVybiBuID4gMDsKfQoKLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIHJlbmRlclJlYXNvbmluZyhyZWFzb25pbmcsIG9wdHMpIOKGkiBzdHJpbmcKLy8gICDml6DlhoXlrrnov5Tlm57nqbrkuLLvvIjosIPnlKjmlrnmja7mraTlhrPlrprjgIzkuI3ov73liqDjgI3ihpIg5Zue562U5LiO5Y6f6ZO+6Lev5a6M5YWo5LiA6Ie077yJ44CCCi8vICAgb3B0czogeyB0aXRsZSB9Ci8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpmdW5jdGlvbiByZW5kZXJSZWFzb25pbmcocmVhc29uaW5nLCBvcHRzKSB7CiAgb3B0cyA9IG9wdHMgfHwge307CiAgaWYgKCFoYXNDb250ZW50KHJlYXNvbmluZykpIHJldHVybiAnJzsKICB2YXIgdGl0bGUgPSBvcHRzLnRpdGxlIHx8ICfwn4yFIOWGjeaDs+S4gOWxgic7CiAgdmFyIGxpbmVzID0gWycnLCAnJywgdGl0bGVdOwoKICB2YXIgaTsKICBmb3IgKGkgPSAwOyBpIDwgKHJlYXNvbmluZy50ZW5zaW9ucyB8fCBbXSkubGVuZ3RoOyBpKyspIHsKICAgIGxpbmVzLnB1c2goJ8K3IOW8oOWKm++8micgKyByZWFzb25pbmcudGVuc2lvbnNbaV0pOwogIH0KICBmb3IgKGkgPSAwOyBpIDwgKHJlYXNvbmluZy5oeXBvdGhlc2VzIHx8IFtdKS5sZW5ndGg7IGkrKykgewogICAgbGluZXMucHVzaCgnwrcg5YGH6K6+77yaJyArIHJlYXNvbmluZy5oeXBvdGhlc2VzW2ldKTsKICB9CiAgZm9yIChpID0gMDsgaSA8IChyZWFzb25pbmcub3BlblF1ZXN0aW9ucyB8fCBbXSkubGVuZ3RoOyBpKyspIHsKICAgIGxpbmVzLnB1c2goJ8K3IOW+hemXru+8micgKyByZWFzb25pbmcub3BlblF1ZXN0aW9uc1tpXSk7CiAgfQogIHJldHVybiBsaW5lcy5qb2luKCdcbicpOwp9Cgptb2R1bGUuZXhwb3J0cyA9IHsKICBidWlsZFJlYXNvbmluZzogYnVpbGRSZWFzb25pbmcsCiAgcmVuZGVyUmVhc29uaW5nOiByZW5kZXJSZWFzb25pbmcsCiAgaGFzQ29udGVudDogaGFzQ29udGVudCwKICBleHRyYWN0VG9waWM6IGV4dHJhY3RUb3BpYywKICBrbm93bGVkZ2VUaXRsZXM6IGtub3dsZWRnZVRpdGxlcywKICBmYWN0U291cmNlczogZmFjdFNvdXJjZXMsCn07Cg==
+// ============================================================
+// think/reasoning.js
+//   Phase Q2-3：问思融合引擎 — 思想层（Reasoning）。
+//
+//   这一层是「向晚问思」区别于普通问答的地方：不给更多答案，给更好的问题。
+//
+//   最高铁律（与 D-a 反幻觉硬闸同源）：
+//     ★ 本模块 **只能重述、对照、追问已经存在的材料**，
+//       严禁生成任何新的事实断言（人物、时间、事件、数字、因果结论）。
+//     ★ 所有输出必须是「假设 / 张力 / 开放问题」三种非断言句式之一。
+//     ★ 没有材料时返回空结构，渲染为空串 —— 宁可不说，不可编造。
+//
+//   输入材料仅两类，且都来自本次请求：
+//     facts[]     请求级检索事实（think/factExtractor 产出，已过滤 mock）
+//     knowledge[] RAG 只读返回的经典引用（不修改知识库）
+//
+//   纯函数、零模型调用、零网络、零云依赖、Node 16.13 兼容。
+// ============================================================
+'use strict';
+
+var MAX_ITEMS_PER_KIND = 2;
+var MAX_TOPIC_LEN = 20;
+
+// 提问外壳词：抽取「话题」时剥掉，避免把疑问句原样塞回文案
+var SHELL_RE = /^(请问|我想问一下|我想问|我想知道|想请教|你觉得|你认为|大家觉得|帮我看看|能不能说说|说说)/u;
+var TAIL_RE = /(是什么|为什么|怎么看|如何看待|怎么办|该怎么做|好不好|对不对|吗|呢|啊|吧)?[?？。！!\s]*$/u;
+
+// 抽取话题：仅做字符串裁剪，不做任何语义推断（不引入新信息）
+function extractTopic(query) {
+  var q = (query || '').toString().trim();
+  if (!q) return '';
+  q = q.replace(SHELL_RE, '').trim();
+  q = q.replace(TAIL_RE, '').trim();
+  q = q.replace(/^[，,、:：\s]+/, '').trim();
+  if (!q) return '';
+  if (q.length > MAX_TOPIC_LEN) q = q.slice(0, MAX_TOPIC_LEN) + '…';
+  return q;
+}
+
+// 经典引用标题（RAG citations 形状：{ title, ... }）
+function knowledgeTitles(knowledge) {
+  var list = Array.isArray(knowledge) ? knowledge : [];
+  var out = [];
+  for (var i = 0; i < list.length && out.length < 3; i++) {
+    var k = list[i];
+    if (!k) continue;
+    var t = (k.title || k.book || '').toString().trim();
+    if (t && out.indexOf(t) < 0) out.push(t);
+  }
+  return out;
+}
+
+// 事实来源名（去重）
+function factSources(facts) {
+  var list = Array.isArray(facts) ? facts : [];
+  var out = [];
+  for (var i = 0; i < list.length && out.length < 3; i++) {
+    var f = list[i];
+    if (!f) continue;
+    var s = (f.source || '').toString().trim();
+    if (s && out.indexOf(s) < 0) out.push(s);
+  }
+  return out;
+}
+
+// ============================================================
+// buildReasoning({ query, facts, knowledge, baseAnswer })
+//   → {
+//       topic, hypotheses[], tensions[], openQuestions[],
+//       derivedOnly: true,          // 声明：全部由既有材料派生
+//       sources: { factCount, knowledgeCount },
+//       _ephemeral: true
+//     }
+// ============================================================
+function buildReasoning(input) {
+  input = input || {};
+  var query = (input.query || '').toString();
+  var facts = Array.isArray(input.facts) ? input.facts : [];
+  var knowledge = Array.isArray(input.knowledge) ? input.knowledge : [];
+  var topic = extractTopic(query);
+
+  var books = knowledgeTitles(knowledge);
+  var srcs = factSources(facts);
+
+  var hypotheses = [];
+  var tensions = [];
+  var openQuestions = [];
+
+  // ---------- 张力：只有「事实 × 经典」同时在场时才成立 ----------
+  if (facts.length > 0 && books.length > 0) {
+    tensions.push(
+      '眼前的信息回答的是「发生了什么」，而《' + books[0] + '》回答的是「该怎么理解」——两者不在同一层，别用前者替后者下结论。'
+    );
+  } else if (facts.length > 1 && srcs.length > 1) {
+    tensions.push(
+      '同一件事有来自 ' + srcs.length + ' 个不同来源的说法，先确认它们是互相印证，还是只是彼此转述。'
+    );
+  }
+
+  // ---------- 假设：一律用「也许 / 如果 / 假设」句式，非断言 ----------
+  if (topic) {
+    hypotheses.push('你真正在意的也许不是「' + topic + '」本身，而是它落到你身上时意味着什么。');
+  }
+  if (books.length > 0) {
+    hypotheses.push('如果换《' + books[0] + '》的框架来看，重点可能会从「怎么办」移到「你正处在什么位置」。');
+  } else if (facts.length > 0) {
+    hypotheses.push('已知信息只覆盖了表层，判断之前，先问一句：这些话是谁在说、为什么这样说。');
+  }
+
+  // ---------- 开放问题：追问，不回答 ----------
+  openQuestions.push('这个判断建立在哪些你还没验证过的前提上？');
+  if (facts.length > 0) {
+    openQuestions.push('以上信息里，哪些是可核实的事实，哪些只是叙述者的解读？');
+  } else if (topic) {
+    openQuestions.push('如果「' + topic + '」的答案和你预期相反，你会改变什么？');
+  }
+
+  return {
+    topic: topic,
+    hypotheses: hypotheses.slice(0, MAX_ITEMS_PER_KIND),
+    tensions: tensions.slice(0, MAX_ITEMS_PER_KIND),
+    openQuestions: openQuestions.slice(0, MAX_ITEMS_PER_KIND),
+    derivedOnly: true,
+    sources: { factCount: facts.length, knowledgeCount: knowledge.length },
+    _ephemeral: true,
+  };
+}
+
+// 是否有可渲染内容
+function hasContent(reasoning) {
+  if (!reasoning) return false;
+  var n = (reasoning.hypotheses || []).length
+    + (reasoning.tensions || []).length
+    + (reasoning.openQuestions || []).length;
+  return n > 0;
+}
+
+// ============================================================
+// renderReasoning(reasoning, opts) → string
+//   无内容返回空串（调用方据此决定「不追加」→ 回答与原链路完全一致）。
+//   opts: { title }
+// ============================================================
+function renderReasoning(reasoning, opts) {
+  opts = opts || {};
+  if (!hasContent(reasoning)) return '';
+  var title = opts.title || '🌅 再想一层';
+  var lines = ['', '', title];
+
+  var i;
+  for (i = 0; i < (reasoning.tensions || []).length; i++) {
+    lines.push('· 张力：' + reasoning.tensions[i]);
+  }
+  for (i = 0; i < (reasoning.hypotheses || []).length; i++) {
+    lines.push('· 假设：' + reasoning.hypotheses[i]);
+  }
+  for (i = 0; i < (reasoning.openQuestions || []).length; i++) {
+    lines.push('· 待问：' + reasoning.openQuestions[i]);
+  }
+  return lines.join('\n');
+}
+
+module.exports = {
+  buildReasoning: buildReasoning,
+  renderReasoning: renderReasoning,
+  hasContent: hasContent,
+  extractTopic: extractTopic,
+  knowledgeTitles: knowledgeTitles,
+  factSources: factSources,
+};

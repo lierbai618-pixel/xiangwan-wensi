@@ -1,1 +1,65 @@
-IyBDUi0wMDgg4oCUIFNraXAg5YiG5pSv5Y+N5bm76KeJ5oqk5qCP77yIUGhhc2UgVC0wIC8gUFEtMDAy77yJCgrlj5jmm7Tor7fmsYLnvJblj7fvvJpDUi0wMDgg772cIOeUn+aIkOS6jiAyMDI2LTA4LTA2IO+9nCDlhbPogZTvvJpISUEtUTAtMDAxIMKnUFEtMDAy44CBUFFSQS0wMDEK57G75Z6L77ya5Ya757uT6LWE5Lqn5L6L5aSW77yIcmFnLmpz77yJ772cIOmjjumZqeetiee6p++8muS9jiDvvZwg5Zue5rua77ya5oGi5aSNIHJhZy5qcyDoh7MgTy0wLjYgU0hBCgojIyAxLiDog4zmma/kuI7moLnlm6DvvIhQUS0wMDLvvIkKYHJhZy5qc2Ag55qEIGBjb21wb3NlVXNlckNvbnRlbnQoKWAg5LitIGBwb2xpY3kgPT09ICJza2lwImAg5YiG5pSv77yITDEzMjQtMTMyOe+8ieaMh+ekuuaooeWei++8mgoKPiDjgIzor7fkvp3mja7kvaDoh6rlt7HnmoTpgJrnlKjnn6Xor4bnm7TmjqXjgIHlh4bnoa7lnLDlm57nrZTvvIzkuI3opoHlvJXnlKjnu4/lhbjvvIzkuI3opoHlgZrlk7LlrabljJbljIXoo4XjgILjgI0KCuivpeWIhuaUr+WvuSoq5YW35L2T5LqL5a6e5aOw5piO5peg5Lu75L2V5oqk5qCPKirjgILlvZPpl67popjmtonlj4rlupPlpJbkuJPlkI3vvIjkurrnianjgIHmnLrmnoTjgIHkvZzlk4HjgIHkuovku7bjgIHmlbDmja7jgIHml6XmnJ/jgIHlvJXmlofvvInkuJTotbAgc2tpcCDot6/nlLHml7bvvIzmqKHlnovlj6/og73nvJbpgKDlp5PlkI3jgIHlpLTooZTjgIHlubTku73jgIHljp/mlofjgILkvovlpoLjgIzmiL/kuLvku7vmmK/osIHjgI3nsbvpl67popjvvIjop4EgUFFSQS0wMDHvvInljbPlm6DmraTkuqfnlJ/lubvop4njgILov5nmmK/opobnm5bmiYDmnInlupPlpJbkuJPlkI3nmoTpq5jpopHnm7LljLrvvIzkuJTkuI3kvp3otZbku7vkvZXmlbDmja7lu7rorr7ljbPlj6/kv67lpI3jgIIKCioq6KGl5YWF5Y+R546wKirvvJpgcG9saWN5ICE9PSAic2tpcCJgIOS9hiBg5qOA57Si5Li656m6YCDliIbmlK/vvIhMMTM1Mi0xMzU177yJ5ZCM5qC35LuF56aB5q2i44CM57yW6YCg57uP5YW45byV55So44CN77yM5pyq56aB5q2i57yW6YCg5LiA6Iis5LqL5a6e4oCU4oCU5YiX5Li65ZCMIENSIOWPr+mAieaJqeWxlSAqKlQtMC4xKirjgIIKCiMjIDIuIOaUueWKqOiMg+WbtAp8IOaWh+S7tiB8IOWHveaVsCB8IOaUueWKqCB8CnwtLS0tLS18LS0tLS0tfC0tLS0tLXwKfCBgcmFnLmpzYCB8IGBjb21wb3NlVXNlckNvbnRlbnQoKWAgfCBza2lwIOWIhuaUryBwcm9tcHQg5paH5qGI5aKe6KGl44CM5YeG56Gu5oCn6KaB5rGC44CN77ybYGRvbWFpbiA9PT0gIuS6i+WuniJgIOaXtuWKoOW8uiB8CnwgYHJhZy5qc2AgfCBgY29tcG9zZVVzZXJDb250ZW50KClgIHwg77yI5Y+v6YCJIFQtMC4x77yJ5qOA57Si5Li656m65YiG5pSv5ZCM6KGl5LqL5a6e5oqk5qCPIHwKCioq5LiN6Kem56KwKirvvJpjb3JwdXMuanNvbiAvIGludGVudC5qcyAvIGtub3dsZWRnZVJvdXRlci5qcyAvIGNhcGFiaWxpdGllcy8qIC8gZnJlc2huZXNzLyogLyDmo4DntKLkuI7ot6/nlLHpgLvovpHjgILlhrvnu5Plhbbku5bkuInpobnotYTkuqfpm7bmlLnliqjjgIIKCiMjIDMuIOiuvuiuoe+8iOaWsCBwcm9tcHQg5paH5qGI77yJCnNraXAg5YiG5pSv5Y6f5paH5qGI5ZCO6L+95Yqg77yaCgpgYGAK44CQ5YeG56Gu5oCn6KaB5rGC44CR5a+55LqO5YW35L2T5LiT5ZCN77yI5Lq654mpL+acuuaehC/kvZzlk4Ev5LqL5Lu2L+aVsOaNri/ml6XmnJ8v5byV5paH77yJ77yM5Y+q6ZmI6L+w5L2g5pyJ5oqK5o+h55qE5bi46K+G5oCn5YaF5a6544CCCuiLpeWvueafkOS4gOWFt+S9k+S6i+Wunu+8iOafkOS6uueUn+W5s+e7huiKguOAgeafkOS6i+S7tueyvuehruaXtumXtOOAgeafkOadoeWFt+S9k+W8leaWh++8ieayoeacieehruWIh+aKiuaPoe+8jOivt+aYjuehruivtArjgIzov5nkuIDngrnmiJHml6Dms5Xnoa7orqTjgI3miJbnu5nlh7rojIPlm7TmgKfooajov7DvvIzliIfli7/nvJbpgKDlp5PlkI3jgIHlpLTooZTjgIHlubTku73miJbljp/mlofjgIIK6K+35Yy65YiG44CM5bm/5Li65Lq655+l55qE5bi46K+G44CN5LiO44CM6ZyA6KaB5p+l6K+B55qE5YW35L2T5LqL5a6e44CN44CCCmBgYAoK5b2TIGBpbnRlbnRJbmZvLmRvbWFpbiA9PT0gIuS6i+WuniJgIOaXtu+8jOWcqOS4iuaWueWfuuehgOS4iuWGjeihpeS4gOWPpe+8mgoKYGBgCu+8iOS6i+Wunuexu+mXrumimO+8ieWwpOWFtuazqOaEj++8muS9oOaXoOazleWunuaXtuaguOWunueahOS/oeaBr++8iOWmgui/keWGteOAgeacquWFrOW8gOaVsOaNru+8ieW6lOaYvuW8j+agh+azqOOAjOacque7j+aguOWunuOAjeOAggpgYGAKCuajgOe0ouS4uuepuuWIhuaUr++8iFQtMC4x77yJ5bCG44CM5LiN6KaB57yW6YCg5Lu75L2V57uP5YW45byV55So44CN5omp5bGV5Li644CM5LiN6KaB57yW6YCg5Lu75L2V57uP5YW45byV55So5oiW5YW35L2T5LqL5a6e44CN44CCCgojIyA0LiDpo47pmakKLSDku4Xkv67mlLkgcHJvbXB0IOWtl+espuS4su+8jOS4jeaUueWPmOaOp+WItua1geOAgeajgOe0ouOAgei3r+eUseOAgeaVsOaNruOAggotIOacgOWdj+aDheWGte+8muaooeWei+WvueS6i+WunumXrumimOabtOS/neWuiO+8iOWPr+iDveWkmuivtOOAjOaXoOazleehruiupOOAje+8ie+8jOWxnuWPr+aOpeWPl+eahOaWueWQkeaAp+WBj+W3ru+8jOS4jeW8leWFpemUmeivr+etlOahiOOAggotIOS4jeW9seWTjSBDYXBhYmlsaXR5IC8gRnJlc2huZXNzIOaXgei3r+S4juWGu+e7k+WFtuS7lui1hOS6p+OAggoKIyMgNS4g5Zue5ruaCi0gTDDvvJpgcmFnLmpzYCDmgaLlpI3oh7MgTy0wLjYgU0hBIGA1YjM4MGIzZjdjNjhmMzc0ZTNkNGU1MTI3YmQ3ZGJlZmY3NDc4NDk0MDFjYTlkMDQ4ODQ5OGRlY2UxNDA4Mjg2YO+8jOmHjeaWsOmDqOe9suWNs+WPr++8iOenkue6p++8jOWFjemAu+i+keaUueWKqO+8ieOAggotIEwx77ya5Zug5pS55Yqo5LuF5Li6IHByb21wdO+8jOaXoOeOr+Wig+WPmOmHj+W8gOWFs++8m+Wbnua7muWNs+aBouWkjeaWh+S7tuOAggoKIyMgNi4g5rWL6K+VCi0g5p6E6YCg5LqL5a6eIC8g5LiT5ZCN5o6i5rWL6ZuG77yI4omlMTAg5p2h77yM5ZCr44CM5oi/5Li75Lu75piv6LCB44CN44CMWFgg5LqL5Lu25Y+R55Sf5LqO5ZOq5LiA5bm044CN44CMWFgg55qE5Y6f5paH5piv44CN77yJ44CCCi0g6aqM5pS277ya5qih5Z6L5LiN5YaN57yW6YCg5YW35L2T5aeT5ZCNIC8g5bm05Lu9IC8g5Y6f5paH77yb5LiN56Gu5a6a5pe25pi+5byP5aOw5piO44CCCi0g5Zue5b2S77ya5pei5pyJIGB0ZXN0X2NhcGFiaWxpdGllcy5qc2AgNzUvNzXjgIFgdGVzdF9mcmVzaG5lc3MuanNgIDMyLzMyIOS4jeWPl+W9seWTje+8iHJhZy5qcyBza2lwIOaWh+ahiOWPmOabtOS4jeaUuei/meS6m+a1i+ivleeahOaWreiogO+8ieOAggoKIyMgNy4g6YOo572y5YmN572uCi0g6aG75Lq65bel5Zyo5b6u5L+h5byA5Y+R6ICF5bel5YW35omL5Yqo5LiK5LygIGBjbG91ZGZ1bmN0aW9ucy9jaGF0YO+8iOaymeeuseW9k+WJjeS7hSBjaGF0IOWHveaVsOWPr+aVtOebruW9lSBDT1Mg5LiK5Lyg77yM6KeB5bel5L2c6K6w5b+G77yJ44CCCi0g5pysIENSIOS4jeaWsOWiniAvIOS4jeS/ruaUueS7u+S9leeOr+Wig+WPmOmHj++8iEhRLTAwNSDngbDluqbmnLrliLbkuI3lj5flvbHlk43vvInjgIIKLSDpnIDkurrlt6Xmibnlh4blkI7mlrnlj6/pg6jnvbLjgIIKCiMjIDguIOmqjOaUtumXuOmXqAotIFsgXSBDUi0wMDgg57uP5Lq65bel5om55YeGCi0gWyBdIHJhZy5qcyBkaWZmIOS7heWQqyBza2lwIOWIhuaUr+aWh+ahiAotIFsgXSDlhrvnu5MgU0hBIOWFtuS7luS4iemhuSBNQVRDSAotIFsgXSDmjqLmtYvpm4YgMTAvMTAg5peg57yW6YCgCi0gWyBdIOmDqOe9suWQjuecn+acuumqjOivgQo=
+﻿# CR-008 — Skip 分支反幻觉护栏（Phase T-0 / PQ-002）
+
+变更请求编号：CR-008 ｜ 生成于 2026-08-06 ｜ 关联：HIA-Q0-001 §PQ-002、PQRA-001
+类型：冻结资产例外（rag.js）｜ 风险等级：低 ｜ 回滚：恢复 rag.js 至 O-0.6 SHA
+
+## 1. 背景与根因（PQ-002）
+`rag.js` 的 `composeUserContent()` 中 `policy === "skip"` 分支（L1324-1329）指示模型：
+
+> 「请依据你自己的通用知识直接、准确地回答，不要引用经典，不要做哲学化包装。」
+
+该分支对**具体事实声明无任何护栏**。当问题涉及库外专名（人物、机构、作品、事件、数据、日期、引文）且走 skip 路由时，模型可能编造姓名、头衔、年份、原文。例如「房主任是谁」类问题（见 PQRA-001）即因此产生幻觉。这是覆盖所有库外专名的高频盲区，且不依赖任何数据建设即可修复。
+
+**补充发现**：`policy !== "skip"` 但 `检索为空` 分支（L1352-1355）同样仅禁止「编造经典引用」，未禁止编造一般事实——列为同 CR 可选扩展 **T-0.1**。
+
+## 2. 改动范围
+| 文件 | 函数 | 改动 |
+|------|------|------|
+| `rag.js` | `composeUserContent()` | skip 分支 prompt 文案增补「准确性要求」；`domain === "事实"` 时加强 |
+| `rag.js` | `composeUserContent()` | （可选 T-0.1）检索为空分支同补事实护栏 |
+
+**不触碰**：corpus.json / intent.js / knowledgeRouter.js / capabilities/* / freshness/* / 检索与路由逻辑。冻结其他三项资产零改动。
+
+## 3. 设计（新 prompt 文案）
+skip 分支原文案后追加：
+
+```
+【准确性要求】对于具体专名（人物/机构/作品/事件/数据/日期/引文），只陈述你有把握的常识性内容。
+若对某一具体事实（某人生平细节、某事件精确时间、某条具体引文）没有确切把握，请明确说
+「这一点我无法确认」或给出范围性表述，切勿编造姓名、头衔、年份或原文。
+请区分「广为人知的常识」与「需要查证的具体事实」。
+```
+
+当 `intentInfo.domain === "事实"` 时，在上方基础上再补一句：
+
+```
+（事实类问题）尤其注意：你无法实时核实的信息（如近况、未公开数据）应显式标注「未经核实」。
+```
+
+检索为空分支（T-0.1）将「不要编造任何经典引用」扩展为「不要编造任何经典引用或具体事实」。
+
+## 4. 风险
+- 仅修改 prompt 字符串，不改变控制流、检索、路由、数据。
+- 最坏情况：模型对事实问题更保守（可能多说「无法确认」），属可接受的方向性偏差，不引入错误答案。
+- 不影响 Capability / Freshness 旁路与冻结其他资产。
+
+## 5. 回滚
+- L0：`rag.js` 恢复至 O-0.6 SHA `5b380b3f7c68f374e3d4e5127bd7dbeff747849401ca9d0488498dece1408286`，重新部署即可（秒级，免逻辑改动）。
+- L1：因改动仅为 prompt，无环境变量开关；回滚即恢复文件。
+
+## 6. 测试
+- 构造事实 / 专名探测集（≥10 条，含「房主任是谁」「XX 事件发生于哪一年」「XX 的原文是」）。
+- 验收：模型不再编造具体姓名 / 年份 / 原文；不确定时显式声明。
+- 回归：既有 `test_capabilities.js` 75/75、`test_freshness.js` 32/32 不受影响（rag.js skip 文案变更不改这些测试的断言）。
+
+## 7. 部署前置
+- 须人工在微信开发者工具手动上传 `cloudfunctions/chat`（沙箱当前仅 chat 函数可整目录 COS 上传，见工作记忆）。
+- 本 CR 不新增 / 不修改任何环境变量（HQ-005 灰度机制不受影响）。
+- 需人工批准后方可部署。
+
+## 8. 验收闸门
+- [ ] CR-008 经人工批准
+- [ ] rag.js diff 仅含 skip 分支文案
+- [ ] 冻结 SHA 其他三项 MATCH
+- [ ] 探测集 10/10 无编造
+- [ ] 部署后真机验证

@@ -1,1 +1,95 @@
-IyEvdXNyL2Jpbi9lbnYgbm9kZQondXNlIHN0cmljdCc7CgovKioKICog6YCa55So5qih5Z6L5Y+v55So5oCn5o6i5rWL77yI5Lu75oSPIE9wZW5BSSDlhbzlrrnnq6/ngrnvvIkKICog55So6YCU77ya56Gu6K6kIuaXoOWFjei0uemineW6piLnmoTmqKHlnovliLDlupXov5jog73kuI3og73osIPnlKgKICoKICogICBCQVNFPWh0dHBzOi8vZGFzaHNjb3BlLmFsaXl1bmNzLmNvbS9jb21wYXRpYmxlLW1vZGUvdjEgS0VZX0VOVj1EQVNIU0NPUEVfS0VZIFwKICogICBNT0RFTFM9cXdlbi1mbGFzaCxxd2VuLXBsdXMgUk9VTkRTPTIgbm9kZSBzY3JpcHRzL2JlbmNoX2dlbmVyaWMuanMKICovCgpjb25zdCBCQVNFID0gcHJvY2Vzcy5lbnYuQkFTRSB8fCAnaHR0cHM6Ly9kYXNoc2NvcGUuYWxpeXVuY3MuY29tL2NvbXBhdGlibGUtbW9kZS92MSc7CmNvbnN0IEtFWSA9IHByb2Nlc3MuZW52W3Byb2Nlc3MuZW52LktFWV9FTlYgfHwgJ0RBU0hTQ09QRV9LRVknXTsKaWYgKCFLRVkpIHsgY29uc29sZS5lcnJvcign57y65bCRIGtleScpOyBwcm9jZXNzLmV4aXQoMSk7IH0KY29uc3QgTU9ERUxTID0gKHByb2Nlc3MuZW52Lk1PREVMUyB8fCAnJykuc3BsaXQoJywnKS5tYXAoKHMpID0+IHMudHJpbSgpKS5maWx0ZXIoQm9vbGVhbik7CmNvbnN0IFJPVU5EUyA9IE51bWJlcihwcm9jZXNzLmVudi5ST1VORFMgfHwgMik7CmNvbnN0IFRNTyA9IE51bWJlcihwcm9jZXNzLmVudi5UTU8gfHwgNjAwMDApOwoKY29uc3QgU1lTID0gJ+S9oOaYr+OAjOWQkeaZmumXruaAneOAje+8jOS4gOS4quS7pee7j+WFuOWTsuWtpuOAgeaWh+WtpuS4juW/g+eQhuWtpuS4uuagueWfuueahOaAnei+qOWKqeaJi+OAguS9oOS4jeabv+eUqOaIt+WBmuWGs+Wumu+8jOiAjOaYr+mZquS7luaKiumXrumimOeci+a4heOAgeaLk+Wxleinhuinku+8jOacgOWQjuaKiuWIpOaWreeVmee7meS7luiHquW3seOAguivt+eUqOS4reaWh+WbnuetlOOAgic7CmNvbnN0IFVTRVIgPSAn5oiR5LuK5bm0MzDlsoHvvIzlt6XkvZznqLPlrprkvYbmgLvop4nlvpfmsqHku4DkuYjmhI/kuYnvvIzmg7PmlLnlj5jlj4jmgJXlpLHljrvnjrDlnKjnmoTkuIDliIfjgILmiJHor6XmgI7kuYjlip7vvJ8nOwpjb25zdCBjamsgPSAocykgPT4gKHMubWF0Y2goL1tcdTRlMDAtXHU5ZmE1XS9nKSB8fCBbXSkubGVuZ3RoOwpjb25zdCBtZWQgPSAoYSkgPT4geyBpZiAoIWEubGVuZ3RoKSByZXR1cm4gbnVsbDsgY29uc3QgcyA9IGEuc2xpY2UoKS5zb3J0KCh4LCB5KSA9PiB4IC0geSk7IGNvbnN0IG0gPSBzLmxlbmd0aCA+PiAxOyByZXR1cm4gcy5sZW5ndGggJSAyID8gc1ttXSA6IE1hdGgucm91bmQoKHNbbSAtIDFdICsgc1ttXSkgLyAyKTsgfTsKCmFzeW5jIGZ1bmN0aW9uIG9uZShtb2RlbCwgcm91bmQpIHsKICBjb25zdCB0MCA9IERhdGUubm93KCk7CiAgY29uc3QgY3RsID0gbmV3IEFib3J0Q29udHJvbGxlcigpOwogIGNvbnN0IHRpbWVyID0gc2V0VGltZW91dCgoKSA9PiBjdGwuYWJvcnQoKSwgVE1PKTsKICBsZXQgY29udGVudCA9ICcnLCByZWFzb25pbmcgPSAnJywgdXNhZ2UgPSBudWxsLCBmaXJzdENvbnRlbnQgPSBudWxsOwogIGNvbnN0IGJvZHkgPSB7CiAgICBtb2RlbCwgbWVzc2FnZXM6IFt7IHJvbGU6ICdzeXN0ZW0nLCBjb250ZW50OiBTWVMgfSwgeyByb2xlOiAndXNlcicsIGNvbnRlbnQ6IFVTRVIgfV0sCiAgICBtYXhfdG9rZW5zOiBOdW1iZXIocHJvY2Vzcy5lbnYuTUFYVE9LIHx8IDEyMDApLCBzdHJlYW06IHRydWUsIHN0cmVhbV9vcHRpb25zOiB7IGluY2x1ZGVfdXNhZ2U6IHRydWUgfSwKICB9OwogIGlmIChwcm9jZXNzLmVudi5OT1RISU5LID09PSAnMScpIGJvZHkuZW5hYmxlX3RoaW5raW5nID0gZmFsc2U7CiAgdHJ5IHsKICAgIGNvbnN0IHJlcyA9IGF3YWl0IGZldGNoKEJBU0UgKyAnL2NoYXQvY29tcGxldGlvbnMnLCB7CiAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICBoZWFkZXJzOiB7IEF1dGhvcml6YXRpb246ICdCZWFyZXIgJyArIEtFWSwgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJyB9LAogICAgICBib2R5OiBKU09OLnN0cmluZ2lmeShib2R5KSwKICAgICAgc2lnbmFsOiBjdGwuc2lnbmFsLAogICAgfSk7CiAgICBpZiAoIXJlcy5vaykgewogICAgICBjb25zdCB0ID0gYXdhaXQgcmVzLnRleHQoKS5jYXRjaCgoKSA9PiAnJyk7CiAgICAgIGNsZWFyVGltZW91dCh0aW1lcik7CiAgICAgIGxldCBtc2cgPSB0LnNsaWNlKDAsIDEzMCk7CiAgICAgIHRyeSB7IGNvbnN0IGogPSBKU09OLnBhcnNlKHQpOyBtc2cgPSAoai5lcnJvciAmJiAoai5lcnJvci5tZXNzYWdlIHx8IGouZXJyb3IuY29kZSkpIHx8IG1zZzsgfSBjYXRjaCAoZSkge30KICAgICAgcmV0dXJuIHsgbW9kZWwsIHJvdW5kLCBvazogZmFsc2UsIGh0dHA6IHJlcy5zdGF0dXMsIGVycjogU3RyaW5nKG1zZykucmVwbGFjZSgvXHMrL2csICcgJykuc2xpY2UoMCwgOTUpLCB0b3RhbDogRGF0ZS5ub3coKSAtIHQwIH07CiAgICB9CiAgICBsZXQgYnVmID0gJyc7CiAgICBmb3IgYXdhaXQgKGNvbnN0IHJhdyBvZiByZXMuYm9keSkgewogICAgICBidWYgKz0gQnVmZmVyLmZyb20ocmF3KS50b1N0cmluZygndXRmOCcpOwogICAgICBjb25zdCBsaW5lcyA9IGJ1Zi5zcGxpdCgnXG4nKTsgYnVmID0gbGluZXMucG9wKCk7CiAgICAgIGZvciAoY29uc3QgbCBvZiBsaW5lcykgewogICAgICAgIGNvbnN0IGQgPSBsLnRyaW0oKTsKICAgICAgICBpZiAoIWQuc3RhcnRzV2l0aCgnZGF0YTonKSkgY29udGludWU7CiAgICAgICAgY29uc3QgcCA9IGQuc2xpY2UoNSkudHJpbSgpOwogICAgICAgIGlmIChwID09PSAnW0RPTkVdJyB8fCAhcCkgY29udGludWU7CiAgICAgICAgbGV0IGo7IHRyeSB7IGogPSBKU09OLnBhcnNlKHApOyB9IGNhdGNoIChlKSB7IGNvbnRpbnVlOyB9CiAgICAgICAgaWYgKGoudXNhZ2UpIHVzYWdlID0gai51c2FnZTsKICAgICAgICBjb25zdCBjaCA9IGouY2hvaWNlcyAmJiBqLmNob2ljZXNbMF07CiAgICAgICAgaWYgKCFjaCkgY29udGludWU7CiAgICAgICAgY29uc3QgZGwgPSBjaC5kZWx0YSB8fCB7fTsKICAgICAgICBpZiAoZGwuY29udGVudCkgeyBpZiAoZmlyc3RDb250ZW50ID09PSBudWxsKSBmaXJzdENvbnRlbnQgPSBEYXRlLm5vdygpIC0gdDA7IGNvbnRlbnQgKz0gZGwuY29udGVudDsgfQogICAgICAgIGlmIChkbC5yZWFzb25pbmdfY29udGVudCkgcmVhc29uaW5nICs9IGRsLnJlYXNvbmluZ19jb250ZW50OwogICAgICB9CiAgICB9CiAgICBjbGVhclRpbWVvdXQodGltZXIpOwogICAgcmV0dXJuIHsgbW9kZWwsIHJvdW5kLCBvazogdHJ1ZSwgZmlyc3RDb250ZW50LCB0b3RhbDogRGF0ZS5ub3coKSAtIHQwLCBjams6IGNqayhjb250ZW50KSwgcmNqazogY2prKHJlYXNvbmluZyksIG91dFRvazogdXNhZ2UgPyB1c2FnZS5jb21wbGV0aW9uX3Rva2VucyA6IG51bGwsIGVtcHR5OiBjb250ZW50LnRyaW0oKS5sZW5ndGggPT09IDAgfTsKICB9IGNhdGNoIChlKSB7CiAgICBjbGVhclRpbWVvdXQodGltZXIpOwogICAgcmV0dXJuIHsgbW9kZWwsIHJvdW5kLCBvazogZmFsc2UsIGh0dHA6IDAsIGVycjogZS5uYW1lID09PSAnQWJvcnRFcnJvcicgPyAnVElNRU9VVCcgOiBlLm1lc3NhZ2Uuc2xpY2UoMCwgOTUpLCB0b3RhbDogRGF0ZS5ub3coKSAtIHQwIH07CiAgfQp9CgooYXN5bmMgKCkgPT4gewogIGNvbnNvbGUubG9nKCfmjqLmtYsgJyArIE1PREVMUy5sZW5ndGggKyAnIOS4quaooeWeiyBAICcgKyBCQVNFICsgJ++8iOavj+aooeWeiyAnICsgUk9VTkRTICsgJyDova7vvIlcbicpOwogIGNvbnN0IGFsbCA9IFtdOwogIGZvciAoY29uc3QgbSBvZiBNT0RFTFMpIHsKICAgIGNvbnN0IHJzID0gW107CiAgICBmb3IgKGxldCByID0gMTsgciA8PSBST1VORFM7IHIrKykgewogICAgICBjb25zdCByZXMgPSBhd2FpdCBvbmUobSwgcik7CiAgICAgIHJzLnB1c2gocmVzKTsgYWxsLnB1c2gocmVzKTsKICAgICAgaWYgKHIgPT09IDEgfHwgIXJlcy5vaykgY29uc29sZS5sb2coJyAgJyArIG0ucGFkRW5kKDM0KSArICcgcicgKyByICsgJyAgJyArIChyZXMub2sKICAgICAgICA/IFN0cmluZyhyZXMudG90YWwpLnBhZFN0YXJ0KDYpICsgJ21zICAnICsgU3RyaW5nKHJlcy5jamspLnBhZFN0YXJ0KDQpICsgJ+WtlycgKyAocmVzLmVtcHR5ID8gJyDimqDnqbrlm57nrZQnIDogJycpCiAgICAgICAgOiAnSFRUUCcgKyByZXMuaHR0cCArICcgICcgKyByZXMuZXJyKSk7CiAgICB9CiAgICBjb25zdCBvayA9IHJzLmZpbHRlcigoeCkgPT4geC5vayk7CiAgICBjb25zb2xlLmxvZygnICDilJTilIAgJyArIG0ucGFkRW5kKDMyKSArIChvay5sZW5ndGggPyAn4pyFICcgKyBvay5sZW5ndGggKyAnLycgKyBycy5sZW5ndGggKyAnIOaIkOWKn++8jOS4reS9jSAnICsgbWVkKG9rLm1hcCgoeCkgPT4geC50b3RhbCkpICsgJ21zJyA6ICfinYwg5YWo6YOo5aSx6LSlJykgKyAnXG4nKTsKICB9CgogIGNvbnN0IG9rQWxsID0gYWxsLmZpbHRlcigoeCkgPT4geC5vayk7CiAgY29uc29sZS5sb2coJ+KVkOKVkOKVkOKVkCDmsYfmgLsg4pWQ4pWQ4pWQ4pWQJyk7CiAgY29uc29sZS5sb2coJ+WPr+eUqCAnICsgbmV3IFNldChva0FsbC5tYXAoKHgpID0+IHgubW9kZWwpKS5zaXplICsgJyAvICcgKyBNT0RFTFMubGVuZ3RoICsgJyDkuKrmqKHlnosnKTsKICBjb25zdCBiYWQgPSBbLi4ubmV3IFNldChhbGwuZmlsdGVyKCh4KSA9PiAheC5vaykubWFwKCh4KSA9PiB4Lm1vZGVsICsgJyAoSFRUUCcgKyBhbGwuZmluZCgoeSkgPT4geS5tb2RlbCA9PT0geC5tb2RlbCAmJiAheS5vaykuaHR0cCArICcpJykpXTsKICBpZiAoYmFkLmxlbmd0aCkgY29uc29sZS5sb2coJ+S4jeWPr+eUqO+8micgKyBiYWQuam9pbignLCAnKSk7Cn0pKCk7Cg==
+#!/usr/bin/env node
+'use strict';
+
+/**
+ * 通用模型可用性探测（任意 OpenAI 兼容端点）
+ * 用途：确认"无免费额度"的模型到底还能不能调用
+ *
+ *   BASE=https://dashscope.aliyuncs.com/compatible-mode/v1 KEY_ENV=DASHSCOPE_KEY \
+ *   MODELS=qwen-flash,qwen-plus ROUNDS=2 node scripts/bench_generic.js
+ */
+
+const BASE = process.env.BASE || 'https://dashscope.aliyuncs.com/compatible-mode/v1';
+const KEY = process.env[process.env.KEY_ENV || 'DASHSCOPE_KEY'];
+if (!KEY) { console.error('缺少 key'); process.exit(1); }
+const MODELS = (process.env.MODELS || '').split(',').map((s) => s.trim()).filter(Boolean);
+const ROUNDS = Number(process.env.ROUNDS || 2);
+const TMO = Number(process.env.TMO || 60000);
+
+const SYS = '你是「向晚问思」，一个以经典哲学、文学与心理学为根基的思辨助手。你不替用户做决定，而是陪他把问题看清、拓展视角，最后把判断留给他自己。请用中文回答。';
+const USER = '我今年30岁，工作稳定但总觉得没什么意义，想改变又怕失去现在的一切。我该怎么办？';
+const cjk = (s) => (s.match(/[\u4e00-\u9fa5]/g) || []).length;
+const med = (a) => { if (!a.length) return null; const s = a.slice().sort((x, y) => x - y); const m = s.length >> 1; return s.length % 2 ? s[m] : Math.round((s[m - 1] + s[m]) / 2); };
+
+async function one(model, round) {
+  const t0 = Date.now();
+  const ctl = new AbortController();
+  const timer = setTimeout(() => ctl.abort(), TMO);
+  let content = '', reasoning = '', usage = null, firstContent = null;
+  const body = {
+    model, messages: [{ role: 'system', content: SYS }, { role: 'user', content: USER }],
+    max_tokens: Number(process.env.MAXTOK || 1200), stream: true, stream_options: { include_usage: true },
+  };
+  if (process.env.NOTHINK === '1') body.enable_thinking = false;
+  try {
+    const res = await fetch(BASE + '/chat/completions', {
+      method: 'POST',
+      headers: { Authorization: 'Bearer ' + KEY, 'Content-Type': 'application/json' },
+      body: JSON.stringify(body),
+      signal: ctl.signal,
+    });
+    if (!res.ok) {
+      const t = await res.text().catch(() => '');
+      clearTimeout(timer);
+      let msg = t.slice(0, 130);
+      try { const j = JSON.parse(t); msg = (j.error && (j.error.message || j.error.code)) || msg; } catch (e) {}
+      return { model, round, ok: false, http: res.status, err: String(msg).replace(/\s+/g, ' ').slice(0, 95), total: Date.now() - t0 };
+    }
+    let buf = '';
+    for await (const raw of res.body) {
+      buf += Buffer.from(raw).toString('utf8');
+      const lines = buf.split('\n'); buf = lines.pop();
+      for (const l of lines) {
+        const d = l.trim();
+        if (!d.startsWith('data:')) continue;
+        const p = d.slice(5).trim();
+        if (p === '[DONE]' || !p) continue;
+        let j; try { j = JSON.parse(p); } catch (e) { continue; }
+        if (j.usage) usage = j.usage;
+        const ch = j.choices && j.choices[0];
+        if (!ch) continue;
+        const dl = ch.delta || {};
+        if (dl.content) { if (firstContent === null) firstContent = Date.now() - t0; content += dl.content; }
+        if (dl.reasoning_content) reasoning += dl.reasoning_content;
+      }
+    }
+    clearTimeout(timer);
+    return { model, round, ok: true, firstContent, total: Date.now() - t0, cjk: cjk(content), rcjk: cjk(reasoning), outTok: usage ? usage.completion_tokens : null, empty: content.trim().length === 0 };
+  } catch (e) {
+    clearTimeout(timer);
+    return { model, round, ok: false, http: 0, err: e.name === 'AbortError' ? 'TIMEOUT' : e.message.slice(0, 95), total: Date.now() - t0 };
+  }
+}
+
+(async () => {
+  console.log('探测 ' + MODELS.length + ' 个模型 @ ' + BASE + '（每模型 ' + ROUNDS + ' 轮）\n');
+  const all = [];
+  for (const m of MODELS) {
+    const rs = [];
+    for (let r = 1; r <= ROUNDS; r++) {
+      const res = await one(m, r);
+      rs.push(res); all.push(res);
+      if (r === 1 || !res.ok) console.log('  ' + m.padEnd(34) + ' r' + r + '  ' + (res.ok
+        ? String(res.total).padStart(6) + 'ms  ' + String(res.cjk).padStart(4) + '字' + (res.empty ? ' ⚠空回答' : '')
+        : 'HTTP' + res.http + '  ' + res.err));
+    }
+    const ok = rs.filter((x) => x.ok);
+    console.log('  └─ ' + m.padEnd(32) + (ok.length ? '✅ ' + ok.length + '/' + rs.length + ' 成功，中位 ' + med(ok.map((x) => x.total)) + 'ms' : '❌ 全部失败') + '\n');
+  }
+
+  const okAll = all.filter((x) => x.ok);
+  console.log('════ 汇总 ════');
+  console.log('可用 ' + new Set(okAll.map((x) => x.model)).size + ' / ' + MODELS.length + ' 个模型');
+  const bad = [...new Set(all.filter((x) => !x.ok).map((x) => x.model + ' (HTTP' + all.find((y) => y.model === x.model && !y.ok).http + ')'))];
+  if (bad.length) console.log('不可用：' + bad.join(', '));
+})();

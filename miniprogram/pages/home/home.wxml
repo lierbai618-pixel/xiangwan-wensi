@@ -1,1 +1,60 @@
-PHZpZXcgY2xhc3M9InBhZ2UiPgogIDx2aWV3IGNsYXNzPSJoZXJvIj4KICAgIDx2aWV3IGNsYXNzPSJoZXJvLW1hcmsiPumXrjwvdmlldz4KICAgIDx2aWV3IGNsYXNzPSJoZXJvLXRleHQiPgogICAgICA8dGV4dCBjbGFzcz0iaGVyby10aXRsZSI+5ZCR5pma6Zeu5oCdPC90ZXh0PgogICAgICA8dGV4dCBjbGFzcz0iaGVyby1zdWIiPuS7pee7j+WFuOS4uumVnO+8jOmZquS9oOaAneiAg+S6uueUnzwvdGV4dD4KICAgIDwvdmlldz4KICA8L3ZpZXc+CgogIDx2aWV3IGNsYXNzPSJzZWN0aW9uLWxhYmVsIj7ku4rml6XmgJ3ogIM8L3ZpZXc+CiAgPHZpZXcgY2xhc3M9InRob3VnaHQtY2FyZCIgd3g6aWY9Int7dGhvdWdodC5xdW90ZX19Ij4KICAgIDx2aWV3IGNsYXNzPSJ0aG91Z2h0LXRoZW1lIj57e3Rob3VnaHQudGhlbWV9fTwvdmlldz4KICAgIDx2aWV3IGNsYXNzPSJ0aG91Z2h0LXF1b3RlIj7igJx7e3Rob3VnaHQucXVvdGV9feKAnTwvdmlldz4KICAgIDx2aWV3IGNsYXNzPSJ0aG91Z2h0LXNvdXJjZSI+4oCU4oCUIOOAint7dGhvdWdodC5zb3VyY2UudGl0bGV9feOAi8K3IHt7dGhvdWdodC5zb3VyY2UuY2hhcHRlcn19PC92aWV3PgogICAgPHZpZXcgY2xhc3M9InRob3VnaHQtcSI+8J+klCB7e3Rob3VnaHQucXVlc3Rpb259fTwvdmlldz4KICAgIDx2aWV3IGNsYXNzPSJ0aG91Z2h0LWNoYW5nZSIgYmluZHRhcD0iY2hhbmdlVGhvdWdodCI+5o2i5LiA5bygPC92aWV3PgogIDwvdmlldz4KCiAgPHZpZXcgY2xhc3M9ImVudHJpZXMiPgogICAgPHZpZXcgY2xhc3M9ImVudHJ5LWNhcmQgcHJpbWFyeSBoZXJvLWNhcmQiIGJpbmR0YXA9ImdvQ2hhdCI+CiAgICAgIDx2aWV3IGNsYXNzPSJlbnRyeS1pY29uIj7wn5KsPC92aWV3PgogICAgICA8dmlldyBjbGFzcz0iZW50cnktdGl0bGUiPuS6uueUn+mXrumimDwvdmlldz4KICAgICAgPHZpZXcgY2xhc3M9ImVudHJ5LWRlc2MiPuaKiuecvOS4i+eahOWbsOaDkeivtOWHuuadpe+8jOS4gOi1t+eci+a4heWugzwvdmlldz4KICAgIDwvdmlldz4KICAgIDx2aWV3IGNsYXNzPSJlbnRyeS1yb3ciPgogICAgICA8dmlldyBjbGFzcz0iZW50cnktY2FyZCIgYmluZHRhcD0iZ29EYWlseSI+CiAgICAgICAgPHZpZXcgY2xhc3M9ImVudHJ5LWljb24iPvCfjIc8L3ZpZXc+CiAgICAgICAgPHZpZXcgY2xhc3M9ImVudHJ5LXRpdGxlIj7mr4/ml6XkuIDmgJ08L3ZpZXc+CiAgICAgICAgPHZpZXcgY2xhc3M9ImVudHJ5LWRlc2MiPuavj+aXpeS4gOW8oOe7j+WFuOWNoe+8jOeFp+S4gOeFp+S7iuWkqeeahOW/gzwvdmlldz4KICAgICAgPC92aWV3PgogICAgICA8dmlldyBjbGFzcz0iZW50cnktY2FyZCIgYmluZHRhcD0iZ29RdWl6Ij4KICAgICAgICA8dmlldyBjbGFzcz0iZW50cnktaWNvbiI+8J+Urjwvdmlldz4KICAgICAgICA8dmlldyBjbGFzcz0iZW50cnktdGl0bGUiPuS6uuagvOa1i+ivlTwvdmlldz4KICAgICAgICA8dmlldyBjbGFzcz0iZW50cnktZGVzYyI+TUJUSSDnrYnnu4/lhbjmtYvor5XvvIzlpJrpnaLorqTor4boh6rlt7E8L3ZpZXc+CiAgICAgIDwvdmlldz4KICAgICAgPCEtLSAyMDI2LTA5LTIxIENSLeWIoOmZpOWNnOeul+WtkOaooeWdl++8iOesrOWbm+i9ru+8ie+8muWNnOeul+WtkOWFpeWPo+WNoeeJh+W3suenu+mZpOOAggogICAgICAgICAgIOWQjOatpeenu+WHuuaehOW7uuiMg+WbtO+8mnBhZ2VzL2J1c3VhbnppL+OAgWRhdGEvaGV4YWdyYW1zLmpz44CBZGF0YS90YXJvdC5qcwogICAgICAgICAgIOWbnua7mu+8muS7jiAuQ1IyMDI2MDkyMUQtcmVtb3ZlZC8g5oGi5aSN5paH5Lu277yM5bm26L+Y5Y6f5pys5paH5Lu25LiOIGFwcC5qc29u44CCCiAgICAgICAgICAg5rOo77ya5ZCO56uvIGNoYXQg55qEIHNoZW5zdWFuemkg5Lq65qC85YiG5pSvKirliLvmhI/kv53nlZkqKu+8iOWQkeWQjuWFvOWuueaXp+eJiOacrOWuouaIt+err++8ieOAgiAtLT4KICAgIDwvdmlldz4KICA8L3ZpZXc+CgogIDx2aWV3IGNsYXNzPSJmb290Ij7miJHkuI3mmK/mnaXmm7/kvaDlgZrlhrPlrprnmoTvvIzogIzmmK/pmarkvaDkuIDotbfmg7PmuIXmpZrjgII8L3ZpZXc+CgogIDwhLS0g6ZqQ56eB5o6I5p2D5rWu5bGC77yI5YWo5bGA5YWl5Y+j77yM6aaW5qyh6L+b5YWl5pe25bGV56S677yJIC0tPgogIDx2aWV3IHd4OmlmPSJ7e3Nob3dQcml2YWN5fX0iIGNsYXNzPSJwcml2YWN5LW1hc2siPgogICAgPHZpZXcgY2xhc3M9InByaXZhY3ktY2FyZCI+CiAgICAgIDx2aWV3IGNsYXNzPSJwcml2YWN5LXRpdGxlIj7pmpDnp4HmlL/nrZbkuI7nlKjmiLfljY/orq48L3ZpZXc+CiAgICAgIDx2aWV3IGNsYXNzPSJwcml2YWN5LWJvZHkiPgogICAgICAgIDx0ZXh0IGNsYXNzPSJwcml2YWN5LXAiPuS4uuaPkOS+m+mXruetlOS4juS8muivneS/neWtmOacjeWKoe+8jOaIkeS7rOS8muaUtumbhuWMv+WQjeagh+ivhiBPcGVuSUTjgIHlr7nor53lhoXlrrnlkozlv4XopoHov5DooYzml6Xlv5fvvIzkuI3ojrflj5bmmLXnp7DjgIHlpLTlg4/jgIHmiYvmnLrlj7fnrYnkv6Hmga/jgII8L3RleHQ+CiAgICAgICAgPHRleHQgY2xhc3M9InByaXZhY3ktcCI+5L2g55qE6Zeu6aKY5paH5pys77yI57uP6ISx5pWP5aSE55CG5ZCO77yJ5bCG5Lyg6L6T6Iez56ys5LiJ5pa5IEFJIOaooeWei+acjeWKoeWVhu+8iOe7jyBhcGkuaGNuc2VjLmNuIOe9keWFs+i9rOWPke+8jOWQqyBBZ25lc+OAgemYv+mHjOS6keeZvueCvOetie+8jOacjeWKoeWZqOS9jeS6juS4reWbveWig+WGhe+8iei/m+ihjCBBSSDmjqjnkIbkuI7ogZTnvZHmkJzntKLjgILor6bop4E8dGV4dCBjbGFzcz0icHJpdmFjeS1saW5rIiBjYXRjaHRhcD0ib3BlblByaXZhY3kiIGRhdGEtdGFiPSJwcml2YWN5Ij7jgIrpmpDnp4HmlL/nrZbjgIs8L3RleHQ+56ys5Zub5p2h44CCPC90ZXh0PgogICAgICAgIDx0ZXh0IGNsYXNzPSJwcml2YWN5LXAiPuivt+mYheivu+WujOaVtOeahDx0ZXh0IGNsYXNzPSJwcml2YWN5LWxpbmsiIGNhdGNodGFwPSJvcGVuUHJpdmFjeSIgZGF0YS10YWI9InByaXZhY3kiPuOAiumakOengeaUv+etluOAizwvdGV4dD7kuI48dGV4dCBjbGFzcz0icHJpdmFjeS1saW5rIiBjYXRjaHRhcD0ib3BlblByaXZhY3kiIGRhdGEtdGFiPSJ0ZXJtcyI+44CK55So5oi35Y2P6K6u44CLPC90ZXh0PuOAgueCueWHu+WQjOaEj+WNs+ihqOekuuS9oOW3sumYheivu+W5tuaOpeWPl+WFqOmDqOadoeasvuOAgjwvdGV4dD4KICAgICAgPC92aWV3PgogICAgICA8dmlldyBjbGFzcz0icHJpdmFjeS1hY3Rpb25zIj4KICAgICAgICA8dmlldyBjbGFzcz0icHJpdmFjeS1idG4gZ2hvc3QiIGNhdGNodGFwPSJkZWNsaW5lUHJpdmFjeSI+5LiN5ZCM5oSPPC92aWV3PgogICAgICAgIDx2aWV3IGNsYXNzPSJwcml2YWN5LWJ0biBwcmltYXJ5IiBjYXRjaHRhcD0iYWdyZWVQcml2YWN5Ij7lkIzmhI/lubbnu6fnu608L3ZpZXc+CiAgICAgIDwvdmlldz4KICAgIDwvdmlldz4KICA8L3ZpZXc+Cjwvdmlldz4K
+<view class="page">
+  <view class="hero">
+    <view class="hero-mark">问</view>
+    <view class="hero-text">
+      <text class="hero-title">向晚问思</text>
+      <text class="hero-sub">以经典为镜，陪你思考人生</text>
+    </view>
+  </view>
+
+  <view class="section-label">今日思考</view>
+  <view class="thought-card" wx:if="{{thought.quote}}">
+    <view class="thought-theme">{{thought.theme}}</view>
+    <view class="thought-quote">“{{thought.quote}}”</view>
+    <view class="thought-source">—— 《{{thought.source.title}}》· {{thought.source.chapter}}</view>
+    <view class="thought-q">🤔 {{thought.question}}</view>
+    <view class="thought-change" bindtap="changeThought">换一张</view>
+  </view>
+
+  <view class="entries">
+    <view class="entry-card primary hero-card" bindtap="goChat">
+      <view class="entry-icon">💬</view>
+      <view class="entry-title">人生问题</view>
+      <view class="entry-desc">把眼下的困惑说出来，一起看清它</view>
+    </view>
+    <view class="entry-row">
+      <view class="entry-card" bindtap="goDaily">
+        <view class="entry-icon">🌇</view>
+        <view class="entry-title">每日一思</view>
+        <view class="entry-desc">每日一张经典卡，照一照今天的心</view>
+      </view>
+      <view class="entry-card" bindtap="goQuiz">
+        <view class="entry-icon">🔮</view>
+        <view class="entry-title">人格测试</view>
+        <view class="entry-desc">MBTI 等经典测试，多面认识自己</view>
+      </view>
+      <!-- 2026-09-21 CR-删除卜算子模块（第四轮）：卜算子入口卡片已移除。
+           同步移出构建范围：pages/busuanzi/、data/hexagrams.js、data/tarot.js
+           回滚：从 .CR20260921D-removed/ 恢复文件，并还原本文件与 app.json。
+           注：后端 chat 的 shensuanzi 人格分支**刻意保留**（向后兼容旧版本客户端）。 -->
+    </view>
+  </view>
+
+  <view class="foot">我不是来替你做决定的，而是陪你一起想清楚。</view>
+
+  <!-- 隐私授权浮层（全局入口，首次进入时展示） -->
+  <view wx:if="{{showPrivacy}}" class="privacy-mask">
+    <view class="privacy-card">
+      <view class="privacy-title">隐私政策与用户协议</view>
+      <view class="privacy-body">
+        <text class="privacy-p">为提供问答与会话保存服务，我们会收集匿名标识 OpenID、对话内容和必要运行日志，不获取昵称、头像、手机号等信息。</text>
+        <text class="privacy-p">你的问题文本（经脱敏处理后）将传输至第三方 AI 模型服务商（经 api.hcnsec.cn 网关转发，含 Agnes、阿里云百炼等，服务器位于中国境内）进行 AI 推理与联网搜索。详见<text class="privacy-link" catchtap="openPrivacy" data-tab="privacy">《隐私政策》</text>第四条。</text>
+        <text class="privacy-p">请阅读完整的<text class="privacy-link" catchtap="openPrivacy" data-tab="privacy">《隐私政策》</text>与<text class="privacy-link" catchtap="openPrivacy" data-tab="terms">《用户协议》</text>。点击同意即表示你已阅读并接受全部条款。</text>
+      </view>
+      <view class="privacy-actions">
+        <view class="privacy-btn ghost" catchtap="declinePrivacy">不同意</view>
+        <view class="privacy-btn primary" catchtap="agreePrivacy">同意并继续</view>
+      </view>
+    </view>
+  </view>
+</view>

@@ -1,1 +1,127 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09DQovLyBRMi0xNyDor4rmlq3vvJrnm7TmjqXosIPnmb7ngrwgQVBJIOeciyLku5joiKrmmK/osIEi55qE5a6e6ZmF6L+U5ZueDQovLyAgIOmqjOivgeWBh+iuvu+8mjEpIOi2heaXtiAyKSDov5Tlm57lhoXlrrnooqvov4fmu6QgMykgQVBJIOmUmeivrw0KLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09DQondXNlIHN0cmljdCc7DQp2YXIgaHR0cHMgPSByZXF1aXJlKCdodHRwcycpOw0KdmFyIGh0dHAgPSByZXF1aXJlKCdodHRwJyk7DQp2YXIgdXJsID0gcmVxdWlyZSgndXJsJyk7DQoNCi8vIE5vZGUxNiDlhbzlrrkgZmV0Y2jvvIjlpI3nlKggcmFnLmpzIOeahCBub2RlRmV0Y2jvvIkNCmZ1bmN0aW9uIG5vZGVGZXRjaCh1LCBvcHRzKSB7DQogIG9wdHMgPSBvcHRzIHx8IHt9Ow0KICByZXR1cm4gbmV3IFByb21pc2UoZnVuY3Rpb24gKHJlc29sdmUsIHJlamVjdCkgew0KICAgIHZhciBwYXJzZWQgPSB1cmwucGFyc2UodSk7DQogICAgdmFyIG1vZCA9IHBhcnNlZC5wcm90b2NvbCA9PT0gJ2h0dHBzOicgPyBodHRwcyA6IGh0dHA7DQogICAgdmFyIHJlcU9wdHMgPSB7DQogICAgICBob3N0bmFtZTogcGFyc2VkLmhvc3RuYW1lLA0KICAgICAgcG9ydDogcGFyc2VkLnBvcnQgfHwgKHBhcnNlZC5wcm90b2NvbCA9PT0gJ2h0dHBzOicgPyA0NDMgOiA4MCksDQogICAgICBwYXRoOiBwYXJzZWQucGF0aG5hbWUgKyAocGFyc2VkLnNlYXJjaCB8fCAnJyksDQogICAgICBtZXRob2Q6IChvcHRzLm1ldGhvZCB8fCAnR0VUJykudG9VcHBlckNhc2UoKSwNCiAgICAgIGhlYWRlcnM6IG9wdHMuaGVhZGVycyB8fCB7fSwNCiAgICAgIHRpbWVvdXQ6IG9wdHMudGltZW91dCB8fCAxNTAwMCwNCiAgICB9Ow0KICAgIHZhciByZXEgPSBtb2QucmVxdWVzdChyZXFPcHRzLCBmdW5jdGlvbiAocmVzKSB7DQogICAgICB2YXIgY2h1bmtzID0gW107DQogICAgICByZXMub24oJ2RhdGEnLCBmdW5jdGlvbiAoYykgeyBjaHVua3MucHVzaChjKTsgfSk7DQogICAgICByZXMub24oJ2VuZCcsIGZ1bmN0aW9uICgpIHsNCiAgICAgICAgdmFyIGJ1ZiA9IEJ1ZmZlci5jb25jYXQoY2h1bmtzKTsNCiAgICAgICAgcmVzb2x2ZSh7DQogICAgICAgICAgb2s6IHJlcy5zdGF0dXNDb2RlID49IDIwMCAmJiByZXMuc3RhdHVzQ29kZSA8IDMwMCwNCiAgICAgICAgICBzdGF0dXM6IHJlcy5zdGF0dXNDb2RlLA0KICAgICAgICAgIGpzb246IGZ1bmN0aW9uICgpIHsgcmV0dXJuIEpTT04ucGFyc2UoYnVmLnRvU3RyaW5nKCkpOyB9LA0KICAgICAgICAgIHRleHQ6IGZ1bmN0aW9uICgpIHsgcmV0dXJuIGJ1Zi50b1N0cmluZygpOyB9LA0KICAgICAgICB9KTsNCiAgICAgIH0pOw0KICAgIH0pOw0KICAgIHJlcS5vbignZXJyb3InLCByZWplY3QpOw0KICAgIHJlcS5vbigndGltZW91dCcsIGZ1bmN0aW9uICgpIHsgcmVxLmRlc3Ryb3koKTsgcmVqZWN0KG5ldyBFcnJvcigndGltZW91dCcpKTsgfSk7DQogICAgaWYgKG9wdHMuYm9keSkgcmVxLndyaXRlKG9wdHMuYm9keSk7DQogICAgcmVxLmVuZCgpOw0KICB9KTsNCn0NCg0KdmFyIEJBU0VfVVJMID0gJ2h0dHBzOi8vZGFzaHNjb3BlLmFsaXl1bmNzLmNvbS9jb21wYXRpYmxlLW1vZGUvdjEvY2hhdC9jb21wbGV0aW9ucyc7DQp2YXIgQVBJX0tFWSA9ICdzay1ZT1VSX0FQSV9LRVlfSEVSRSc7DQp2YXIgTU9ERUwgPSAnZGVlcHNlZWstdjQtZmxhc2gtMDczMSc7DQoNCmFzeW5jIGZ1bmN0aW9uIHRlc3QoKSB7DQogIGNvbnNvbGUubG9nKCc9PT0gUTItMTcg55m+54K8IEFQSSDnm7TmjqXor4rmlq0gPT09Jyk7DQogIGNvbnNvbGUubG9nKCfnq6/ngrk6JywgQkFTRV9VUkwpOw0KICBjb25zb2xlLmxvZygn5qih5Z6LOicsIE1PREVMKTsNCiAgY29uc29sZS5sb2coJycpOw0KDQogIHZhciBib2R5ID0gew0KICAgIG1vZGVsOiBNT0RFTCwNCiAgICBtZXNzYWdlczogW3sgcm9sZTogJ3VzZXInLCBjb250ZW50OiAn5LuY6Iiq5piv6LCBJyB9XSwNCiAgICBlbmFibGVfc2VhcmNoOiB0cnVlLA0KICAgIHN0cmVhbTogZmFsc2UNCiAgfTsNCg0KICB2YXIgaGVhZGVycyA9IHsNCiAgICAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nLA0KICAgICdBY2NlcHQnOiAnYXBwbGljYXRpb24vanNvbicsDQogICAgJ0F1dGhvcml6YXRpb24nOiAnQmVhcmVyICcgKyBBUElfS0VZDQogIH07DQoNCiAgdmFyIHQwID0gRGF0ZS5ub3coKTsNCiAgdHJ5IHsNCiAgICB2YXIgcmVzID0gYXdhaXQgbm9kZUZldGNoKEJBU0VfVVJMLCB7DQogICAgICBtZXRob2Q6ICdQT1NUJywNCiAgICAgIGhlYWRlcnM6IGhlYWRlcnMsDQogICAgICBib2R5OiBKU09OLnN0cmluZ2lmeShib2R5KSwNCiAgICAgIHRpbWVvdXQ6IDE1MDAwIC8vIDE156eS6Laz5aSfDQogICAgfSk7DQogICAgdmFyIGVsYXBzZWQgPSBEYXRlLm5vdygpIC0gdDA7DQogICAgY29uc29sZS5sb2coJ0hUVFAgU3RhdHVzOicsIHJlcy5zdGF0dXMpOw0KICAgIGNvbnNvbGUubG9nKCfogJfml7Y6JywgZWxhcHNlZCArICdtcycpOw0KICAgIGNvbnNvbGUubG9nKCcnKTsNCg0KICAgIHZhciBkYXRhID0gYXdhaXQgcmVzLmpzb24oKTsNCiAgICANCiAgICAvLyAxLiDmo4Dmn6Ugc2VhcmNoX3Jlc3VsdHMg5pWw57uEDQogICAgdmFyIHNyUGF0aCA9IGRhdGEuY2hvaWNlcyAmJiBkYXRhLmNob2ljZXNbMF0gJiYgZGF0YS5jaG9pY2VzWzBdLm1lc3NhZ2UgDQogICAgICAmJiBkYXRhLmNob2ljZXNbMF0ubWVzc2FnZS5leHRlbmRlZCAmJiBkYXRhLmNob2ljZXNbMF0ubWVzc2FnZS5leHRlbmRlZC5zZWFyY2hfaW5mbw0KICAgICAgJiYgZGF0YS5jaG9pY2VzWzBdLm1lc3NhZ2UuZXh0ZW5kZWQuc2VhcmNoX2luZm8uc2VhcmNoX3Jlc3VsdHM7DQogICAgY29uc29sZS5sb2coJz09PSBzZWFyY2hfcmVzdWx0cyDmlbDnu4QgPT09Jyk7DQogICAgY29uc29sZS5sb2coJ+WtmOWcqDonLCAhIXNyUGF0aCwgQXJyYXkuaXNBcnJheShzclBhdGgpID8gJ+mVv+W6pj0nICsgc3JQYXRoLmxlbmd0aCA6ICcnKTsNCiAgICBpZiAoQXJyYXkuaXNBcnJheShzclBhdGgpKSB7DQogICAgICBzclBhdGguZm9yRWFjaChmdW5jdGlvbiAociwgaSkgeyBjb25zb2xlLmxvZygnICBbJyArIGkgKyAnXScsIEpTT04uc3RyaW5naWZ5KHIpLnNsaWNlKDAsIDIwMCkpOyB9KTsNCiAgICB9DQogICAgY29uc29sZS5sb2coJycpOw0KDQogICAgLy8gMi4g5qOA5p+lIG1lc3NhZ2UuY29udGVudO+8iOe7vOWQiOaWh+Wtl++8iQ0KICAgIHZhciBjb250ZW50ID0gZGF0YS5jaG9pY2VzICYmIGRhdGEuY2hvaWNlc1swXSAmJiBkYXRhLmNob2ljZXNbMF0ubWVzc2FnZSAmJiBkYXRhLmNob2ljZXNbMF0ubWVzc2FnZS5jb250ZW50Ow0KICAgIGNvbnNvbGUubG9nKCc9PT0gbWVzc2FnZS5jb250ZW5077yI57u85ZCI5paH5a2X77yJID09PScpOw0KICAgIGNvbnNvbGUubG9nKCfplb/luqY6JywgKGNvbnRlbnQgfHwgJycpLmxlbmd0aCk7DQogICAgY29uc29sZS5sb2coJ+WGheWuueWJjTUwMOWtlzonKTsNCiAgICBjb25zb2xlLmxvZygoY29udGVudCB8fCAnJykuc2xpY2UoMCwgNTAwKSk7DQogICAgY29uc29sZS5sb2coJycpOw0KDQogICAgLy8gMy4gcGlja1N5bnRoZXNpemVkQ29udGVudCDov4fmu6Tmo4DmtYsNCiAgICB2YXIgZmlsdGVyZWQgPSBmYWxzZTsNCiAgICB2YXIgYyA9IChjb250ZW50IHx8ICcnKS50b1N0cmluZygpLnRyaW0oKTsNCiAgICBpZiAoYykgew0KICAgICAgaWYgKC9eKOaKseatiXzlr7nkuI3otbd85a+55LiN6LW377yM5oiRfOaIkSjmmoLml7YpPyjml6Dms5V85LiN6IO9fOayoeaciXzkuI3lpKrmuIXmpZp85rKh5pyJ5Y+v6Z2gKSkvdS50ZXN0KGMpICYmIGMubGVuZ3RoIDwgODApIHsNCiAgICAgICAgZmlsdGVyZWQgPSB0cnVlOw0KICAgICAgICBjb25zb2xlLmxvZygn4pqg77iPIHBpY2tTeW50aGVzaXplZENvbnRlbnQg5Lya6L+H5ruk5q2k5YaF5a6577yI5ouS562UL+epuuazmyvnn63vvIknKTsNCiAgICAgIH0NCiAgICB9DQogICAgaWYgKCFmaWx0ZXJlZCAmJiBjKSB7DQogICAgICBjb25zb2xlLmxvZygn4pyFIHBpY2tTeW50aGVzaXplZENvbnRlbnQg5Lya6YCa6L+H77yI5ZCI5oiQ5bqV5bqn5Y+v55So77yJJyk7DQogICAgfSBlbHNlIGlmICghYykgew0KICAgICAgY29uc29sZS5sb2coJ+KdjCBjb250ZW50IOS4uuepuiDihpIg5peg5ZCI5oiQ5bqV5bqnJyk7DQogICAgfQ0KDQogICAgLy8gNC4g5a6M5pW0IGV4dGVuZGVkIOe7k+aehO+8iOWJjTEwMDDlrZfvvIkNCiAgICB2YXIgZXh0ID0gZGF0YS5jaG9pY2VzICYmIGRhdGEuY2hvaWNlc1swXSAmJiBkYXRhLmNob2ljZXNbMF0ubWVzc2FnZSAmJiBkYXRhLmNob2ljZXNbMF0ubWVzc2FnZS5leHRlbmRlZDsNCiAgICBjb25zb2xlLmxvZygnJyk7DQogICAgY29uc29sZS5sb2coJz09PSBleHRlbmRlZCDlrZfmrrXvvIjliY0xMDAw5a2X77yJPT09Jyk7DQogICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoZXh0LCBudWxsLCAyKS5zbGljZSgwLCAxMDAwKSk7DQoNCiAgfSBjYXRjaCAoZSkgew0KICAgIGNvbnNvbGUubG9nKCfinYwg5byC5bi4OicsIGUubWVzc2FnZSk7DQogIH0NCn0NCg0KdGVzdCgpLnRoZW4oZnVuY3Rpb24gKCkgeyBwcm9jZXNzLmV4aXQoMCk7IH0pLmNhdGNoKGZ1bmN0aW9uIChlKSB7IGNvbnNvbGUuZXJyb3IoZSk7IHByb2Nlc3MuZXhpdCgxKTsgfSk7DQo=
+// ============================================================
+// Q2-17 诊断：直接调百炼 API 看"付航是谁"的实际返回
+//   验证假设：1) 超时 2) 返回内容被过滤 3) API 错误
+// ============================================================
+'use strict';
+var https = require('https');
+var http = require('http');
+var url = require('url');
+
+// Node16 兼容 fetch（复用 rag.js 的 nodeFetch）
+function nodeFetch(u, opts) {
+  opts = opts || {};
+  return new Promise(function (resolve, reject) {
+    var parsed = url.parse(u);
+    var mod = parsed.protocol === 'https:' ? https : http;
+    var reqOpts = {
+      hostname: parsed.hostname,
+      port: parsed.port || (parsed.protocol === 'https:' ? 443 : 80),
+      path: parsed.pathname + (parsed.search || ''),
+      method: (opts.method || 'GET').toUpperCase(),
+      headers: opts.headers || {},
+      timeout: opts.timeout || 15000,
+    };
+    var req = mod.request(reqOpts, function (res) {
+      var chunks = [];
+      res.on('data', function (c) { chunks.push(c); });
+      res.on('end', function () {
+        var buf = Buffer.concat(chunks);
+        resolve({
+          ok: res.statusCode >= 200 && res.statusCode < 300,
+          status: res.statusCode,
+          json: function () { return JSON.parse(buf.toString()); },
+          text: function () { return buf.toString(); },
+        });
+      });
+    });
+    req.on('error', reject);
+    req.on('timeout', function () { req.destroy(); reject(new Error('timeout')); });
+    if (opts.body) req.write(opts.body);
+    req.end();
+  });
+}
+
+var BASE_URL = 'https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions';
+var API_KEY = 'sk-YOUR_API_KEY_HERE';
+var MODEL = 'deepseek-v4-flash-0731';
+
+async function test() {
+  console.log('=== Q2-17 百炼 API 直接诊断 ===');
+  console.log('端点:', BASE_URL);
+  console.log('模型:', MODEL);
+  console.log('');
+
+  var body = {
+    model: MODEL,
+    messages: [{ role: 'user', content: '付航是谁' }],
+    enable_search: true,
+    stream: false
+  };
+
+  var headers = {
+    'Content-Type': 'application/json',
+    'Accept': 'application/json',
+    'Authorization': 'Bearer ' + API_KEY
+  };
+
+  var t0 = Date.now();
+  try {
+    var res = await nodeFetch(BASE_URL, {
+      method: 'POST',
+      headers: headers,
+      body: JSON.stringify(body),
+      timeout: 15000 // 15秒足够
+    });
+    var elapsed = Date.now() - t0;
+    console.log('HTTP Status:', res.status);
+    console.log('耗时:', elapsed + 'ms');
+    console.log('');
+
+    var data = await res.json();
+    
+    // 1. 检查 search_results 数组
+    var srPath = data.choices && data.choices[0] && data.choices[0].message 
+      && data.choices[0].message.extended && data.choices[0].message.extended.search_info
+      && data.choices[0].message.extended.search_info.search_results;
+    console.log('=== search_results 数组 ===');
+    console.log('存在:', !!srPath, Array.isArray(srPath) ? '长度=' + srPath.length : '');
+    if (Array.isArray(srPath)) {
+      srPath.forEach(function (r, i) { console.log('  [' + i + ']', JSON.stringify(r).slice(0, 200)); });
+    }
+    console.log('');
+
+    // 2. 检查 message.content（综合文字）
+    var content = data.choices && data.choices[0] && data.choices[0].message && data.choices[0].message.content;
+    console.log('=== message.content（综合文字） ===');
+    console.log('长度:', (content || '').length);
+    console.log('内容前500字:');
+    console.log((content || '').slice(0, 500));
+    console.log('');
+
+    // 3. pickSynthesizedContent 过滤检测
+    var filtered = false;
+    var c = (content || '').toString().trim();
+    if (c) {
+      if (/^(抱歉|对不起|对不起，我|我(暂时)?(无法|不能|没有|不太清楚|没有可靠))/u.test(c) && c.length < 80) {
+        filtered = true;
+        console.log('⚠️ pickSynthesizedContent 会过滤此内容（拒答/空泛+短）');
+      }
+    }
+    if (!filtered && c) {
+      console.log('✅ pickSynthesizedContent 会通过（合成底座可用）');
+    } else if (!c) {
+      console.log('❌ content 为空 → 无合成底座');
+    }
+
+    // 4. 完整 extended 结构（前1000字）
+    var ext = data.choices && data.choices[0] && data.choices[0].message && data.choices[0].message.extended;
+    console.log('');
+    console.log('=== extended 字段（前1000字）===');
+    console.log(JSON.stringify(ext, null, 2).slice(0, 1000));
+
+  } catch (e) {
+    console.log('❌ 异常:', e.message);
+  }
+}
+
+test().then(function () { process.exit(0); }).catch(function (e) { console.error(e); process.exit(1); });

@@ -1,1 +1,225 @@
-IyDlkJHmmZrpl67mgJ0gwrcgUGhhc2UgUTItNS1BIOWQiOinhOi+ueeVjOWuoeafpeS4juWbveWGheS4ree7p+aWueahiOivhOS8sAoKPiAqKumYtuauteWumuS9jSoq77yaUGhhc2UgUTItNS1BID0g5ZCI6KeE6L6555WM5a6h5p+lICsg5Zu95YaF5Lit57unL+ajgOe0ouaWueahiOivhOS8sOOAggo+IOacrOmYtuautSoq57qv56CU56m25LiO6K+E5LywKirvvIznm67moIfmmK/op6PlvIAgUTItNC1CIOeCueaYjueahCAqKkIyIOi3qOWig+aVsOaNruWQiOinhCBQMSDnoazpmLvmlq0qKu+8iHRhdmlseS9iaW5nL3NlcnAg5Z2H5aKD5aSW77yMcXVlcnkg6LaK5aKD77yJ44CCCj4gKirliJrmgKfovrnnlYzvvIjmnKzpmLbmrrXvvIkqKu+8mgo+IC0g4pyFIOWFgeiuuO+8muWuoeafpeeOsOeKtuOAgeiwg+eglOaWueahiOOAgeWvueavlOivhOS8sOOAgeS6p+WHuuaOqOiNkOi3r+e6v+S4juiQveWcsOiNieWbvuOAggo+IC0g4puUIOemgeatou+8muaWsOWiniBwcm92aWRlciDku6PnoIHjgIHpg6jnvbLjgIHnv7vovazku7vkvZXnlJ/kuqflvIDlhbPjgIHphY3nva7nnJ/lrp7lr4bpkqXjgIHmjqXnnJ/lrp4gQVBJ44CB5pS555+l6K+G5bqTL+WGu+e7k+i1hOS6p+OAggo+IC0gKirmnKzpmLbmrrXpm7bku6PnoIHmlLnliqjjgIHpm7bpg6jnvbLjgIIqKiDmiYDmnInokL3lnLDliqjkvZzlnYfkuLrjgIzkuIvkuIDpmLbmrrXlvoXmjojmnYPlrp7mlr3nmoTojYnlm77jgI3jgIIKCi0tLQoKIyMgMS4g5b2T5YmN5ZCI6KeE6L6555WM546w54q277yI5p2l6Ieq5Luj56CB5a6e5rWL77yM6Z2e5Yet6K6w5b+G77yJCgp8IOmhuSB8IOW9k+WJjeWAvCB8IOWQiOinhOWQq+S5iSB8CnwtLS18LS0tfC0tLXwKfCBgU0VBUkNIX1BST1ZJREVSYCB8IGBtb2NrYCB8IOm7mOiupOWuieWFqOaAge+8jCoq6Zu255yf5a6e5aSW5ZG844CB6Zu26Leo5aKDKiogfAp8IGBGUkVTSE5FU1NfRkFDVFVBTF9FTkFCTEVEYCB8IGBmYWxzZWAgfCDkuovlrp7mupDmgLvpl7jlhbPpl60g4oaSIOe7tOaMgeivmuWunui+ueeVjCArIOWPjeaAnSB8CnwgYFBSSVZBQ1lfR0FURV9FTkFCTEVEYCB8IGBmYWxzZWAgfCDpmpDnp4Hpl7jpu5jorqTlhbPpl63vvIjku6PnoIHlt7LlsLHkvY3vvIzmnKrlkK/nlKjvvIkgfAp8IGBTRUFSQ0hfQ0FOQVJZX0VOQUJMRURgIHwgYGZhbHNlYCB8IOeBsOW6pumXuOm7mOiupOWFs+mXrSB8Cnwg55yf5a6e572R57uc6LCD55SoIHwgMCB8IOS7hSBgZmFrZUZldGNoYCDnprvnur/pqozor4HvvIzmnKrlh7rnvZEgfAp8IOWGu+e7k+Wbm+i1hOS6pyBTSEEgfCA0LzQgTUFUQ0ggfCBjb3JwdXMvaW50ZW50L2tub3dsZWRnZVJvdXRlci9yYWcg5pyq6Kem56KwIHwKCioq57uT6K66KirvvJrlvZPliY3nlJ/kuqfmgIHkuLrjgIzpm7bnnJ/lrp7mupDjgIHpm7blpJblkbzjgIHpm7bot6jlooPjgI3nmoTlronlhajln7rnur/jgILmiYDmnInnnJ/lrp7mupDog73lipvlnYflpITkuo4qKuW+heaOiOadg+a/gOa0uyoq54q25oCB44CCCgojIyMgMS4xIOaVsOaNruWHuuWig+i3r+W+hOeyvuehruaYoOWwhO+8iOajgOe0ouWxgiBgZGF0YV9yb3V0ZWAg5YiG57G777yJCgrmo4DntKLlsYIgYHNlYXJjaCgpYCDnjrDmnIkgYGRhdGFSb3V0ZU9mKClgIOmAu+i+ke+8iGBwcm92aWRlcnMvc2VhcmNoL2luZGV4LmpzOjIzMWDvvInvvJoKCnwgcHJvdmlkZXIgfCBgaXNSZWFsUHJvdmlkZXJgIHwgYGRhdGFfcm91dGVgIHwg5piv5ZCm6Kem5Y+RIFBJUEwg5Ye65aKDIHwKfC0tLXwtLS18LS0tfC0tLXwKfCBgbW9ja2AgLyBgbm9uZWAgfCDlkKYgfCBgZG9tZXN0aWNgIHwg5ZCm77yI5peg5aSW5ZG877yJIHwKfCBgdGF2aWx5YCB8IOaYryB8IGBjcm9zc19ib3JkZXJgIHwgKirmmK8qKu+8iOe+juWbve+8iSB8CnwgYGJpbmdgIHwg5pivIHwgYGNyb3NzX2JvcmRlcmAgfCAqKuaYryoq77yI576O5Zu9IE1pY3Jvc29mdO+8iSB8CnwgYHNlcnBgIHwg5pivIHwgYGNyb3NzX2JvcmRlcmAgfCAqKuaYryoq77yI5aKD5aSWIFNlcnBBUEnvvIkgfAp8ICoo5paw5aKe5Zu95YaF5rqQKSogfCDlvoXliqAgYGlzRG9tZXN0aWNQcm92aWRlcmAgfCBgZG9tZXN0aWNg77yI6ZyA5pS5IGBkYXRhUm91dGVPZmDvvIkgfCAqKuWQpioq77yI5pWw5o2u55WZ5aKD77yJIHwKCj4gKirlhbPplK7kuovlrp4qKu+8muWNs+S+v+W8gOWQryBgUFJJVkFDWV9HQVRFX0VOQUJMRURg77yM5pmu6YCa5ZOy5a2mL+efpeivhumXrumimOe7j+iEseaVj+WQjuS7jei1sCBgdGF2aWx5YCDihpIgYGRhdGFfcm91dGU9Y3Jvc3NfYm9yZGVyYCDihpIgKirnlKjmiLcgcXVlcnnvvIjljbPkvr/ohLHmlY/vvInku43otorlooMqKuOAgumakOengemXuOWPqioq6ZmN5L2OKirlh7rlooPmlbDmja7kuK3nmoQgUElJIOmjjumZqe+8jCoq5LiN5raI6ZmkKirot6jlooPkuovlrp7mnKzouqvjgILov5nlsLHmmK8gQjIg55qE5qC55Zug4oCU4oCU5a6D5LiN5Zyo5Luj56CB6YC76L6R5bGC77yM6ICM5ZyoKirmlbDmja7mupDlnLDnkIbkvY3nva4qKuOAggoKIyMjIDEuMiDml6LmnInlronlhajlsYLlr7not6jlooPpo47pmannmoTkvZznlKjovrnnlYwKCnwg5bey5bu65bGCIHwg5a+5IEIy77yI6Leo5aKD5ZCI6KeE77yJ55qE5L2c55SoIHwg5bGA6ZmQIHwKfC0tLXwtLS18LS0tfAp8IGBwcml2YWN5R2F0ZWDvvIhRMi00LUTvvIkgfCDnoazpmLvmlq3miYvmnLov6Lqr5Lu96K+BL+mCrueusS/pk7booYzljaEv5a6M5pW05L2P5Z2A77yb6L2vIFBJSSDohLHmlY8gfCDku4XpmY0gUElJIOWvhuW6pu+8jOaZrumAmiBxdWVyeSDku43otorlooMgfAp8IGBjYW5hcnlHYXRlYO+8iFEyLTQtQ++8iSB8IHBlci11c2VyIOeBsOW6pu+8jOeIhueCuOWNiuW+hOmUgeeZveWQjeWNlSB8IOS4jeino+WGs+i3qOWig+WQiOazleaApyB8CnwgYGF1ZGl0LmRhdGFfcm91dGVg77yIUTItNC1E77yJIHwg5Y+v6KeC5rWL5q+P5p2h6K+35rGC55qE5Ye65aKD5pa55ZCRIHwg5LuF6KeC5rWL77yM6Z2e5o6n5Yi2IHwKfCBgY29zdEd1YXJkYCAvIGBzb3VyY2VGaWx0ZXJgIHwg5oiQ5pysL+adpea6kOaOp+WItiB8IOS4jui3qOWig+aXoOWFsyB8CgoqKuWIpOWumioq77yaQjIg5peg5rOV6Z2g5pei5pyJ5Luj56CB5bGC57uV5byA44CC6Kej6ZmkIEIyIOWPquacieS4pOadoeacrOi0qOi3r+W+hOKAlOKAlCoq5o2i5Zu95YaF5rqQ77yI5pWw5o2u5LiN55WZ5aKD77yJKiog5oiWICoq6LWwIFBJUEwg6Leo5aKD5ZCI5rOV5py65Yi2KirjgIIKCi0tLQoKIyMgMi4gUElQTCDot6jlooPmlbDmja7lkIjop4TopoHngrnvvIgyMDI2IOeOsOihjOahhuaetu+8iQoK5L6d5o2u572R5L+h5Yqe44CK5pWw5o2u5Ye65aKD5a6J5YWo566h55CG5pS/562W5rOV6KeE6Zeu562U44CL77yIMjAyNi0wMSAvIDIwMjYtMDfvvInjgIFDQUMg6K6k6K+B5Yqe5rOV5LiO5qCH5YeG5ZCI5ZCM5Yqe5rOV77yaCgojIyMgMi4xIOWbm+adoeWQiOazleWHuuWig+i3r+W+hO+8iFBJUEwg56ysIDM4IOadoe+8iQoxLiAqKkNBQyDmlbDmja7lh7rlooPlronlhajor4TkvLAqKu+8iOacgOS4pe+8jOW8uuWItuWcuuaZr++8mkNJSU/jgIHlpITnkIbotoUgMTAwIOS4h+S6uuS4quS6uuS/oeaBr+OAgeaIlue0r+iuoeWHuuWig+i2hSAxMDAg5LiH5Lq6IC8g6LaFIDEg5LiH5Lq65pWP5oSf5Liq5Lq65L+h5oGv77yJCjIuICoq5Liq5Lq65L+h5oGv5Ye65aKD6K6k6K+BKirvvIgyMDI2LTAxLTAx44CK6K6k6K+B5Yqe5rOV44CL55Sf5pWI77yM55SxIENBQyDorqTlj6/kuJPkuJrmnLrmnoTlj5Hor4HvvIkKMy4gKirmoIflh4blkIjlkIzvvIhTQ0PvvInlpIfmoYgqKu+8iOecgee6p+e9keS/oeWKnuWkh+ahiO+8jOeUn+aViOWQjiAxMCDlt6XkvZzml6XlhoXvvJs8MTAg5LiH6Z2e5pWP5oSfIOaIliA8MSDkuIfmlY/mhJ/lj6/otbDmraTot6/vvIzlhY3lronlhajor4TkvLDvvIkKNC4gKirlhbbku5bms5Xlvovms5Xop4Qv572R5L+h5Yqe6KeE5a6a5oOF5b2iKioKCiMjIyAyLjIg5YWx5oCn5by65Yi26KaB5rGCCi0gKipQSVBJQe+8iOS4quS6uuS/oeaBr+S/neaKpOW9seWTjeivhOS8sO+8iSoq77ya5omA5pyJ5LiJ5p2h6Lev5b6E5Z2H6aG75LqL5YmN5a6M5oiQ77yM5LiU6aG76K6w5b2V55WZ5a2Y44CCCi0gKirljZXni6zlkIzmhI8qKu+8muWQkeWig+WkluaPkOS+m+S4quS6uuS/oeaBr+mhu+WPluW+l+S4quS6uioq5Y2V54us5ZCM5oSPKirvvIjpnZ7miZPljIXmjojmnYPvvInjgIIKLSAqKuWRiuefpeS5ieWKoSoq77ya6ZqQ56eB5pS/562W6aG75piO56S644CM5qOA57Si6K+N5Y+v6IO95Y+R5b6A5aKD5aSW44CN5Y+K5aKD5aSW5o6l5pS25pa544CB55uu55qE44CB5pa55byP44CCCi0gKioyMDI2LTA3IOihpeWFheWbveaghyoq77ya5Yqg5a+G5Z+65YeG44CB6K6/6Zeu5o6n5Yi26KeE6IyD44CB5a6h6K6h5pel5b+X5qCH5YeG77yIMjAyNi0wNyDotbflvLrliLbvvInjgIIKLSAqKuW/heimgeaAp+ivhOS8sCoq77ya5Ye65aKD5Liq5Lq65L+h5oGv6aG76ZmQ5LqO5a6e546w55uu55qE55qE5pyA5bCP6IyD5Zu077yI5LiOIHByaXZhY3lHYXRlIOeahOOAjOacgOWwj+aVsOaNruWHuuWig+OAjeWOn+WImeS4gOiHtO+8ieOAggoKIyMjIDIuMyDlr7nmnKzpobnnm67nmoTpgILnlKjmgKcKLSDmnKzpobnnm67kuLoqKumdnuWVhueUqC3lip7lhawqKuWwj+eoi+W6j++8jOeUqOaIt+mHj+e6p+Wwj++8iOecn+Wunuagt+acrCA8NTDvvInvvIznkIborrrlj6/otbAgKirmoIflh4blkIjlkIzvvIhTQ0PvvIkqKiDogIzpnZ7lronlhajor4TkvLDjgIIKLSDkvYYgU0NDIOS7jeimgeaxgu+8mlBJUElBIOaWh+ahoyArIOmakOengeaUv+etluabtOaWsCArIOWNleeLrOWQjOaEj+W8ueeqlyArIOecgee6p+Wkh+ahiCArIOS4juWig+WkluaOpeaUtuaWue+8iFRhdmlseS9CaW5nL1NlcnBBUEnvvInnrb7nvbIgQ0FDIOagh+WHhuWQiOWQjOOAgioq5ZGo5pyf5Lul5ZGofuaciOiuoe+8jOS4lOWig+WkluaOpeaUtuaWuemhu+mFjeWQiOetvue9sioq4oCU4oCU5a6e5Yqh6Zi75Yqb5aSn44CCCi0g5pu06YeN6KaB55qE5piv77yaKirljbPkvr/otbDlrowgU0ND77yM5pmu6YCaIHF1ZXJ5IOS7jeeJqeeQhui2iuWigyoq77yM5Y+q5piv44CM5ZCI5rOV6LaK5aKD44CN44CC5ZCI6KeE5oiQ5pys5LiO6L+Q6JCl5aSN5p2C5bqm5pi+6JGX6auY5LqO5o2i5rqQ44CCCgotLS0KCiMjIDMuIOS4ieexu+aWueahiOivhOS8sAoKIyMjIFJvdXRlIDEgwrcg5Zu95YaF5Y6f55Sf5qOA57Si5rqQ77yI5pWw5o2u55WZ5aKD77yM5o6o6I2Q5LyY5YWI77yJCgoqKuacrOi0qCoq77ya55So5Zu95YaF5pCc57Si5pyN5Yqh5pu/5Luj5aKD5aSW5rqQ77yMcXVlcnkg5YWo56iL5LiN56a75byA5Lit5Zu95YaF5ZywIOKGkiAqKuS4jeinpuWPkSBQSVBMIOesrCAzOCDmnaHlh7rlooMqKu+8jEIyIOagueWboOa2iOmZpOOAggoKfCDlgJnpgIkgfCDlupXlsYIv5o+Q5L6b5pa5IHwg5pWw5o2u5L2N572uIHwg5o6l5YWl5b2i5oCBIHwg6YCC55So6K+E5LywIHwKfC0tLXwtLS18LS0tfC0tLXwtLS18CnwgKirohb7orq/kupHogZTnvZHmkJzntKIgQVBJ77yIV1NB77yJKiogfCDmkJzni5fmkJzntKLvvIjohb7orq/ns7vvvIkgfCDkuK3lm73lhoXlnLAgfCBgd3NhLnRlbmNlbnRjbG91ZGFwaS5jb21gIC8gYGFwaS53c2EuY2xvdWQudGVuY2VudC5jb21g77ybQUsvU0sg5oiWIEFQSSBLRVkgfCAqKummlumAiSoq77ya5LiO5b6u5L+h5bCP56iL5bqPICsg6IW+6K6v5LqR5byA5Y+R5ZCM5rqQ55Sf5oCB77yM5Z+f5ZCN5Zu95YaF5bey5aSH5qGI77yIQjMg5piT6Kej77yJ77yM5pWw5o2u55WZ5aKDIHwKfCAqKueBq+WxseW8leaTjiBXZWIgU2VhcmNoKiogfCDlpLTmnaEv5oqW6Z+z5ZCM5rqQ5bqT77yI5a2X6IqC77yJIHwg5Lit5Zu95YaF5ZywIHwgSFRUUCBBUEkgLyBSZXNwb25zZXMgQVBJ77ybU2FhUyArIOengeacieWMliB8IOi0qOmHj+WlveOAgeaUr+aMgeengeacieWMlu+8m+mdnuiFvuiur+eUn+aAgeS9huaVsOaNrueVmeWigyB8CnwgKirnmb7luqbmkJzntKIgQVBJKiogfCDnmb7luqYgfCDkuK3lm73lhoXlnLAgfCDkvIHkuJrlkIjop4TnlLPor7cgfCDkuKrkurov5bCP6aG555uu6Zeo5qeb6auY77yM5LyY5YWI57qn5L2OIHwKfCAqKuWbveWGheWkp+aooeWei+WGhee9riBgd2ViX3NlYXJjaGAqKu+8iOmAmuS5iS9EZWVwU2Vlay9LaW1pL+iFvuiur+a3t+WFg++8iSB8IOWQhOWOguWVhuWGheaQnCB8IOS4reWbveWGheWcsO+8iOmhu+eUqOS4reWbveWGheWcsCBlbmRwb2ludO+8iSB8IOaooeWei+WPguaVsCBgZW5hYmxlX3NlYXJjaGAgLyBgd2ViX3NlYXJjaGAgdG9vbCB8IOmbtuaWsOWiniBwcm92aWRlciDlj6/og73vvJvkvYbpobvmjaIv5pS5IG1vZGVsX2NvbmZpZ++8jOS4lOaQnOe0oui/h+eoi+WvueS6i+WunuaKveWPluWxgumAj+aYjuW6puW8sSB8CgoqKlJvdXRlIDEg5a+5546w5pyJ5p625p6E55qE5aWR5ZCI5bqm77yI6auY77yJKirvvJoKLSBgcHJvdmlkZXJzL3NlYXJjaGAg5oq96LGh5bGC5bey5YW35aSHIHRpbWVvdXQvcmV0cnkvY2FjaGUv5p2l5rqQ6L+H5rukL+aIkOacrOS/neaKpC9wcml2YWN5R2F0ZS9jYW5hcnnvvJvmlrDlop7kuIDkuKrlm73lhoUgcHJvdmlkZXIg5paH5Lu25Y2z5Y+vKirlhajnm5jlpI3nlKgqKuOAggotIGBkYXRhX3JvdXRlYCDmlLnliIbnsbvkuLogYGRvbWVzdGljYCDihpIg5a6h6K6h5pi+56S65pWw5o2u55WZ5aKD77yM5ZCI6KeE5a6h6K6h5ZGK6K2m77yIUTItNC1CIMKnN++8ieiHqueEtueGhOeBreOAggotIOW+ruS/oeWQjuWPsCByZXF1ZXN0IOWQiOazleWfn+WQjeWPqumcgOWKoCBgd3NhLnRlbmNlbnRjbG91ZGFwaS5jb21g77yI5Zu95YaF5aSH5qGI5Z+f5ZCN77yMQjMg5q+U5YqgIGBhcGkudGF2aWx5LmNvbWAg5pu06aG677yJ44CCCgoqKlJvdXRlIDEg55qE5Ymp5L2Z5ZCI6KeE5LmJ5Yqh77yI6L2777yJKirvvJoKLSDlm73lhoXlpITnkIbku43lj5cgUElQTCDkuIDoiKzop4TliJnnuqbmnZ/vvIjnm67nmoTpmZDlrprjgIHmnIDlsI/lv4XopoHjgIHlkYrnn6XlkIzmhI/vvInigJTigJQqKuS4jueOsOacieWbveWGheaooeWei+aOqOeQhuWQjOe6pyoq77yM5LiN5paw5aKe6Leo5aKD57u05bqm44CCCi0gYHByaXZhY3lHYXRlYCDku43lu7rorq7lvIDlkK/vvJrkuI3lkJEqKuS7u+S9lSoq5pCc57Si5rqQ77yI5ZCr5Zu95YaF77yJ5Y+R6YCB5Y6f5aeLIFBJSe+8jOWxnuaVsOaNriBoeWdpZW5lIOacgOS9s+Wunui3te+8jOS4lOmZjeS9juWbveWGheWkhOeQhumjjumZqeOAggoKIyMjIFJvdXRlIDIgwrcg6Leo5aKDICsgUElQTCDlkIjms5XmnLrliLbvvIjkv53nlZnkuLogZmFsbGJhY2vvvIkKCioq5pys6LSoKirvvJrkv53nlZkgdGF2aWx5L2Jpbmcvc2VycO+8jOihpem9kCBTQ0Mv6K6k6K+BICsgUElQSUEgKyDpmpDnp4HmlL/nrZYgKyDljZXni6zlkIzmhI/jgIIKCnwg57u05bqmIHwg6K+E5LywIHwKfC0tLXwtLS18Cnwg5ZCI6KeE5ZCI5rOV5oCnIHwg4pyFIOi1sOWujOWNs+WQiOazlei2iuWigyB8Cnwg5a6e5pa95oiQ5pysIHwg4puUIOmrmO+8mlBJUElBIOaWh+aho+OAgemakOengeaUv+etluaUueeJiOOAgeWNleeLrOWQjOaEj+W8ueeql+OAgeecgee6p+Wkh+ahiOOAgeWig+WkluaOpeaUtuaWueetvue9suagh+WHhuWQiOWQjCB8Cnwg5ZGo5pyfIHwg5ZGofuaciO+8m+S4lOS+nei1luWig+WkluWOguWVhumFjeWQiOetvue6piB8Cnwg5pWw5o2u54mp55CG5L2N572uIHwg5LuN6LaK5aKD77yI5Y+q5piv5ZCI5rOV77yJIHwKfCDpgILnlKjlnLrmma8gfCDku4XlvZPlm73lhoXmupDotKjph48v6KaG55uWKirnoa7or4HkuI3otrMqKuS4lOS4muWKoeW8uuS+nei1luWig+Wklua6kOaXtiB8CgoqKue7k+iuuioq77ya5a+55pys6aKY77yI5ZOy5a2mL+aAnei+qC/nn6Xor4bpl67nrZTovoXliqnvvInpnZ7lv4XpnIDjgILpmaTpnZ4gUm91dGUgMSDlrp7mtYvmo4DntKLotKjph4/kuI3ovr7moIfvvIzlkKbliJnkuI3kvJjlhYjjgIIKCiMjIyBSb3V0ZSAzIMK3IOS4ree7p+S7o+eQhui9rOWPkeWig+Wklu+8iOaYjuehruS4jeino+WGs+agueWboO+8iQoKKirmnKzotKgqKu+8muWcqOWbveWGhemDqOe9suS7o+eQhuacjeWKoeWZqO+8jOi9rOWPkeivt+axguWIsCB0YXZpbHkvYmluZy9zZXJw44CCCgp8IOe7tOW6piB8IOivhOS8sCB8CnwtLS18LS0tfAp8IOaVsOaNrueJqeeQhuS9jee9riB8IOKdjCAqKuS7jei2iuWigyoq77yI5Luj55CG5Y+q5piv5Lit6L2s77yMcXVlcnkg5pyA57uI5Yiw576O5Zu977yJIHwKfCDlr7kgQjIg55qE5L2c55SoIHwg4p2MICoq6Zu2KirjgIJQSVBMIOeci+WHuuWig+S6i+Wunu+8jOS4jeeci+S9oOS4remXtOacieayoeacieS7o+eQhiB8Cnwg5ZSv5LiA5Lu35YC8IHwg5bu26L+f5LyY5YyW44CB57uf5LiA5Ye65Y+jIElQ44CB5Y+v6KeC5rWL5oCn44CB5a+G6ZKl6ZuG5Lit566h55CGIHwKfCDor6/nlKjpo47pmakgfCDimqDvuI8g6Iul5oqK44CM5Yqg5LqG5Zu95YaF5Luj55CG44CN5b2T5L2c44CM5bey5ZCI6KeE44CN77yM5pivKirkuKXph43lkIjop4Tor6/liKQqKiB8CgoqKue7k+iuuioq77yaUm91dGUgMyAqKuS4jeW+lyoq5L2c5Li6IEIyIOino+mZpOS+neaNruOAguWmgumcgOeUqOWug++8jOWPquiDveWumuS9jeS4uuOAjOW7tui/ny/lj6/op4LmtYvmgKflop7lvLrjgI3vvIzkuJQqKuWJjeaPkOaYr+W3sui1sOWujCBSb3V0ZSAyIOeahCBQSVBMIOacuuWItioq44CC5pys6K+E5Lyw5bCG5YW25qCH5rOo5Li6ICoq5LiN5o6o6I2QIC8g5LuF6ZmQIFJvdXRlIDIg5LmL5LiK55qE5Y+v6YCJ5aKe5by6KirjgIIKCi0tLQoKIyMgNC4g5pa55qGI5a+55q+U5oC76KGoCgp8IOe7tOW6piB8IFJvdXRlIDEg5Zu95YaF5rqQ77yI6aaW6YCJ77yJIHwgUm91dGUgMiDot6jlooMrUElQTCB8IFJvdXRlIDMg5Lit57un5Luj55CGIHwKfC0tLXwtLS18LS0tfC0tLXwKfCDmlbDmja7mmK/lkKbnlZnlooMgfCDinIUg5pivIHwg4p2MIOWQpu+8iOWQiOazlei2iuWig++8iSB8IOKdjCDlkKbvvIjku43otorlooPvvIkgfAp8IOa2iOmZpCBCMiDmoLnlm6AgfCDinIUg5pivIHwg4pyFIOaYr++8iOWQiOazleWMlu+8iSB8IOKdjCDlkKYgfAp8IOWunuaWveaIkOacrCB8IOS9ju+8iOaWsOWiniBwcm92aWRlciArIGVudu+8iSB8IOmrmO+8iOazleWKoSvlpIfmoYgr562+57qm77yJIHwg5Lit77yI5L2G5peg5pWI77yJIHwKfCDlkajmnJ8gfCDlpKnnuqfvvIjku6PnoIHvvIkrIOWkh+ahiOetieW+hSB8IOWRqH7mnIggfCDlpKnnuqfvvIjkvYbml6DmhI/kuYnvvIkgfAp8IOWkjeeUqOaXouacieWxgiB8IOKchSDlhajlpI3nlKggfCDinIUg5YWo5aSN55SoIHwg4pyFIOWFqOWkjeeUqCB8Cnwg5b6u5L+h5Z+f5ZCNIEIzIHwg5piT77yI5Zu95YaF5aSH5qGI5Z+f77yJIHwg5Lit77yI5aKD5aSW5Z+f6ZyA5aSH5qGI77yJIHwg5LitIHwKfCDmjqjojZDluqYgfCDirZDirZDirZDirZDirZAgfCDirZDirZDvvIhmYWxsYmFja++8iSB8IOKtkO+8iOS4jeaOqOiNkO+8iSB8CgotLS0KCiMjIDUuIOaOqOiNkOi3r+e6v+S4juiQveWcsOiNieWbvu+8iOS4jeWunueOsO+8iQoKIyMjIDUuMSDmjqjojZAKKipSb3V0ZSAxIOWbveWGheWOn+eUn+ajgOe0oua6kO+8jOmmlumAieiFvuiur+S6keiBlOe9keaQnOe0oiBBUEnvvIhXU0HvvInjgIIqKiDnkIbnlLHvvJrnlJ/mgIHlkIzmupDjgIHmlbDmja7nlZnlooPjgIFCMiDmoLnlm6DmtojpmaTjgIHmnrbmnoTpm7bmkanmk6blpI3nlKjjgIHlvq7kv6Hln5/lkI3mmJPop6PjgIIKCiMjIyA1LjIg6JC95Zyw6I2J5Zu+77yI5L6b5LiL5LiA6Zi25q615o6I5p2D5ZCO5a6e5pa977yJCgo+IOS7peS4i+S4uioq6K6+6K6h6I2J5Zu+KirvvIzmnKzpmLbmrrXkuI3lhpnku6PnoIHjgIIKCjEuICoq5paw5aKeIHByb3ZpZGVyIOaWh+S7tioqIGBwcm92aWRlcnMvc2VhcmNoL3RjbG91ZFdzYS5qc2AKICAgLSDlpI3nlKggYHV0aWwuaHR0cFBvc3RKc29uYCAvIGB1dGlsLm5vcm1hbGl6ZVJlc3VsdGAgLyBgdXRpbC5hcHBseVNvdXJjZUZpbHRlcmAKICAgLSDorqTor4HvvJpBUEkgS0VZ77yIYFRFTkNFTlRfV1NBX0FQSV9LRVlg77yMQmVhcmVy77yJ5oiWIEFLL1NLIOetvuWQje+8iOS8geS4mue6p++8iQogICAtIOi2heaXti/ph43or5Uv5aSx6LSlIGZhaWwtc29mdCDlkIwgdGF2aWx5IOmjjuagvO+8iOaKm+WHuuS8oOi+k+mUmeivr++8jOeUsSBgd2l0aFJldHJ5YCArIOe8luaOkuWxguWFnOW6le+8iQoyLiAqKuajgOe0ouWxguazqOWGjCoqIGBwcm92aWRlcnMvc2VhcmNoL2luZGV4LmpzYAogICAtIGBnZXRQcm92aWRlck5hbWUoKWAg5pSv5oyBIGB0Y2xvdWRgIOWAvAogICAtIGBpc1JlYWxQcm92aWRlcmAg57u05oyB77yIdGF2aWx5L2Jpbmcvc2VycO+8ie+8myoq5paw5aKeKiogYGlzRG9tZXN0aWNQcm92aWRlcihwKWAg4oaSIGBwID09PSAndGNsb3VkJ2DvvIjlj4rmnKrmnaXngavlsbHnrYnvvIkKICAgLSBgZGF0YVJvdXRlT2YoKWAg5pS55Li677yaYHBpaUJsb2NrZWQg4oaSICdibG9ja2VkJ2DvvJtgaXNEb21lc3RpY1Byb3ZpZGVyIOKGkiAnZG9tZXN0aWMnYO+8m2Bpc1JlYWxQcm92aWRlciDihpIgJ2Nyb3NzX2JvcmRlcidgCiAgIC0gcHJvdmlkZXIgc3dpdGNoIOWinuWKoCBgZWxzZSBpZiAocHJvdmlkZXIgPT09ICd0Y2xvdWQnKSBwcm92aWRlckZuID0gLi4uYAozLiAqKueOr+Wig+WPmOmHjyoq77yITDMg54Gw5bqm6I2J5qGI77yJCiAgIGBgYAogICBTRUFSQ0hfUFJPVklERVI9dGNsb3VkCiAgIFRFTkNFTlRfV1NBX0FQSV9LRVk9POWvhumSpeeuoeeQhuazqOWFpT4KICAgU0VBUkNIX1RJTUVPVVRfTVM9MjUwMAogICBTRUFSQ0hfTUFYX1JFU1VMVFM9MwogICBTRUFSQ0hfREFJTFlfUVVPVEE9MTAwCiAgIFBSSVZBQ1lfR0FURV9FTkFCTEVEPXRydWUgICAgICAjIOS7jeW7uuiuruW8gOWQr++8jOWQkeS7u+S9lea6kOacgOWwj+WMluWHuuWigwogICBTRUFSQ0hfQ0FOQVJZX0VOQUJMRUQ9dHJ1ZSAgICAgIyBMMiDnmb3lkI3ljZXngbDluqYKICAgU0VBUkNIX0NBTkFSWV9PUEVOSURTPeWGhemDqOeZveWQjeWNlQogICBGUkVTSE5FU1NfRkFDVFVBTF9FTkFCTEVEPXRydWUKICAgYGBgCjQuICoq5aSN55So5pei5pyJ5a6J5YWo5bGCKirvvJpwcml2YWN5R2F0ZSAvIGNhbmFyeUdhdGUgLyBjb3N0R3VhcmQgLyBzb3VyY2VGaWx0ZXIgLyBjYWNoZSAvIGF1ZGl0IOWFqOmDqOiHquWKqOeUn+aViO+8jOaXoOmcgOaUueWKqOOAggo1LiAqKua1i+ivlSoq77ya5Lu/IGB0ZXN0X3EyNGEuanNgIOaWsOWiniBgdGVzdF9xMjRlLmpzYO+8iOemu+e6vyBmYWtlRmV0Y2gg5rOo5YWl77yJ77yM5pat6KiA77yaCiAgIC0gYHRjbG91ZGAgcHJvdmlkZXIg6LCD55So5b2i5oCB5q2j56GuCiAgIC0gYGRhdGFfcm91dGUgPT09ICdkb21lc3RpYydgCiAgIC0g5YWo6ZO+6Lev5aSN55SoIHRpbWVvdXQvcmV0cnkvY2FjaGUvc291cmNlRmlsdGVyL2Nvc3QvcHJpdmFjeS9jYW5hcnkKICAgLSDlhrvnu5Plm5votYTkuqcgU0hBIOS4jeWPmAoKIyMjIDUuMyDkuI7njrDmnInlooPlpJbmupDnmoTlhbHlrZgKLSBgU0VBUkNIX1BST1ZJREVSYCDku43kuLrlj6/liIfmjaLmnprkuL7vvJpgbW9ja2AgLyBgdGNsb3VkYO+8iOWbveWGhe+8iS8gYHRhdmlseWAgLyBgYmluZ2AgLyBgc2VycGDvvIjlooPlpJbvvInjgIIKLSDoi6XmnKrmnaXlm73lhoXmupDotKjph4/kuI3otrPvvIzlj6/kuLTml7bliIflm57looPlpJbmupAgKyDotbAgUm91dGUgMiDmnLrliLbvvIzkuozogIXkuI3kupLmlqXjgIIKCi0tLQoKIyMgNi4g6aOO6Zmp6K+E5Lyw5LiO5byA5pS+6aG5Cgp8ICMgfCDpo47pmakgLyDlvIDmlL7pobkgfCDnrYnnuqcgfCDor7TmmI4gLyDnvJPop6MgfAp8LS0tfC0tLXwtLS18LS0tfAp8IFIxIHwg5Zu95YaF5rqQ5qOA57Si6LSo6YePL+imhuebluS4jeWPiuWig+WkliB8IOS4rSB8IOWTsuWtpi/mgJ3ovqgv5Lit5paH55+l6K+G5Zy65pmv5Zu95YaF5rqQ77yI5pCc54uX5bqV77yJ6YCa5bi46Laz5aSf77ybTDMg54Gw5bqm55So44CM5ZG95Lit546HL+WPjeW5u+iniemXuOmAmui/h+eOh+OAjemqjOivge+8jOS4jei+vuagh+WGjeivhOS8sCBSb3V0ZSAyIHwKfCBSMiB8IOWbveWGhea6kOWQjOagt+WkhOeQhiBxdWVyee+8iOWQq+i9ryBQSUnvvIkgfCDkvY4gfCDlvIDlkK8gYFBSSVZBQ1lfR0FURV9FTkFCTEVEYCDmnIDlsI/ljJblh7rlooPvvJvlm73lhoXlpITnkIblkIjop4TnrYnnuqfnrYnlkIznjrDmnInmqKHlnovmjqjnkIYgfAp8IFIzIHwg6K+v5bCGIFJvdXRlIDMg5Lit57un5b2T5ZCI6KeE6KejIHwg6auY77yI5ZCI6KeE77yJIHwg5pys5oql5ZGK5bey5piO56Gu5qCH5rOoIFJvdXRlIDMg5LiN6Kej6ZmkIEIy77yb6Iul5a6e5pa96aG757uR5a6aIFJvdXRlIDIgfAp8IFI0IHwgQjEg5bCP56iL5bqP5aSH5qGI5LuN5pyq6L+HIHwg6auY77yI6Zi75pat77yJIHwg5LiO5pWw5o2u5rqQ5oup5peg5YWz77yM5LuN6aG75aSH5qGI6YCa6L+H5pa55Y+v5byA6YCa5aSW572R6K+35rGC5ZCI6KeE5a6h5p+lIHwKfCBSNSB8IOW+ruS/oSByZXF1ZXN0IOWQiOazleWfn+WQjemFjee9riB8IOS4rSB8IGB3c2EudGVuY2VudGNsb3VkYXBpLmNvbWAg5Li65Zu95YaF5aSH5qGI5Z+f77yMQjMg6L6D5aKD5aSW5rqQ5pu05piT77yb5LuN6aG75aSH5qGI6YCa6L+H5ZCO5LqO5YWs5LyX5bmz5Y+w6YWN572uIHwKfCBSNiB8IOmakOengeaUv+etlumcgOabtOaWsO+8iOWNs+S+v+WbveWGhea6kO+8iSB8IOS9jiB8IOW7uuiuruihpeWFheOAjOajgOe0ouivjeWPr+iDveWPkemAgeiHs+WbveWGheaQnOe0ouacjeWKoe+8iOiFvuiur+S6ke+8ieOAjeWRiuefpe+8jOS4jueOsOacieaooeWei+aOqOeQhuWRiuefpeS4gOiHtCB8CgotLS0KCiMjIDcuIOWImuaAp+i+ueeVjOehruiupO+8iOacrOmYtuaute+8iQoKLSBbeF0g4pyFIOmbtuS7o+eggeaUueWKqO+8iOS7heWuoeafpSArIOiwg+eglCArIOivhOS8sCArIOacrOaKpeWRiu+8iQotIFt4XSDinIUg6Zu26YOo572y77yI5pyq57+76L2s5Lu75L2V5byA5YWz77yJCi0gW3hdIOKchSDmnKrphY3nva7nnJ/lrp7lr4bpkqXvvIjml6AgYFRFTkNFTlRfV1NBX0FQSV9LRVlgIC8gYFRBVklMWV9BUElfS0VZYCDnrYnms6jlhaXvvIkKLSBbeF0g4pyFIOacquaOpeecn+WuniBBUEnvvIjku4UgV2ViIOiwg+eglO+8jOacquWHuue9keiwg+eUqO+8iQotIFt4XSDinIUg5pyq5pS555+l6K+G5bqTIC8g5Ya757uT5Zub6LWE5Lqn77yIU0hBIDQvNCBNQVRDSO+8jOacquinpueisO+8iQotIFt4XSDinIUg5pyqIGNvbW1pdC9wdXNoCi0gW3hdIOKchSDmnKrlvIDlkK8gYEZSRVNITkVTU19GQUNUVUFMX0VOQUJMRURgIC8g55yf5a6e5pCc57SiIC8gYFBSSVZBQ1lfR0FURV9FTkFCTEVEYAoKLS0tCgojIyA4LiDnu5PorrrkuI7kuIvkuIDpmLbmrrXlu7rorq4KCioq57uT6K66KirvvJpRMi01LUEg5a6M5oiQ44CM5ZCI6KeE6L6555WM5a6h5p+lICsg5Zu95YaF5Lit57unL+ajgOe0ouaWueahiOivhOS8sOOAjeOAggotIOeOsOeKtu+8muW9k+WJjembtui3qOWig+OAgembtuWkluWRvOWuieWFqOWfuue6v++8m0IyIOagueWboOWcqCoq5pWw5o2u5rqQ5Zyw55CG5L2N572uKirvvIzpnZ7ku6PnoIHpgLvovpHvvIzml6LmnInpmpDnp4Ev54Gw5bqm5bGC5Y+q6IO96ZmN6aOO6Zmp5LiN6IO95raI5qC55Zug44CCCi0gUElQTCAyMDI277ya5Ye65aKD6aG76LWw5Zub5p2h6Lev5b6E5LmL5LiA77yI5a6J5YWo6K+E5LywL+iupOivgS/moIflh4blkIjlkIwv5YW25LuW77yJ77yM5Z2H6aG7IFBJUElBICsg5Y2V54us5ZCM5oSP77yb5bCP6YeP57qn5Y+v6LWw5qCH5YeG5ZCI5ZCM5L2G5oiQ5pys6auY44CB5ZGo5pyf6ZW/44CCCi0g6K+E5Lyw77yaKipSb3V0ZSAxIOWbveWGheWOn+eUn+ajgOe0oua6kO+8iOmmlumAieiFvuiur+S6kSBXU0HvvIkqKiDlnKjlkIjop4TjgIHmiJDmnKzjgIHmnrbmnoTlpI3nlKjjgIHnlJ/mgIHlpZHlkIjkuIrlhajpnaLkvJjkuo4gUm91dGUgMu+8iOi3qOWigytQSVBM77yJ5LiOIFJvdXRlIDPvvIjkuK3nu6fku6PnkIbvvIzkuI3op6PlhrPmoLnlm6DvvInjgIIKCioq5o6o6I2Q5LiL5LiA6Zi25q6177yI6ZyA5Y2V54us5o6I5p2D77yJKirvvJoKMS4gKipRMi01LULvvIjlrp7mlr3lgJnpgInvvIkqKu+8muaMiSDCpzUuMiDojYnlm77mlrDlop4gYHRjbG91ZFdzYS5qc2AgcHJvdmlkZXIgKyDmo4DntKLlsYLms6jlhozvvIhgaXNEb21lc3RpY1Byb3ZpZGVyYCArIGBkYXRhUm91dGVPZmAg5pS5IGBkb21lc3RpY2DvvIkrIGB0ZXN0X3EyNGUuanNgIOemu+e6v+a1i+ivlSArIOWGu+e7kyBTSEEg5aSN5qC444CCKirku43kuI3pg6jnvbLjgIHkuI3mv4DmtLsqKuOAggoyLiAqKuWQiOinhOaUtuWwvioq77yaQjEg5aSH5qGI6Lef6Liq77yb6ZqQ56eB5pS/562W6KGl5YWF5Zu95YaF5qOA57Si5ZGK55+l77yIUjbvvInjgIIKMy4gKirmu6HotrPmnaHku7blkI7ngbDluqYqKu+8mkIxIOi/hyArIFJvdXRlIDEg5Luj56CB6JC95ZywIOKGkiBMMu+8iGNhbmFyeSArIHByaXZhY3kg5YWo5byA77yJ5YaF5rWLIOKGkiBMM++8iOaIkOacrOWPl+mZkOi9r+W8gO+8jOmqjOivgeWRveS4reeOhy/lj43lubvop4npl7jvvInihpIgTDQg5YWo6YeP44CC5q+P57qnIGVudiDnp5Lnuqflm57mu5rjgIIKCj4g5pys6Zi25q61KirmnKrpg6jnvbLjgIHmnKrmv4DmtLvjgIHmnKrlh7rnvZEqKuOAguS7u+S9leeUn+S6p+a/gOa0u+Wdh+mhu+WQjue7reaYvuW8j+aOiOadg+W5tua7oei2syBCMe+8iOWkh+ahiO+8iSsg5pWw5o2u5rqQ5ZCI6KeE5oup5a6a44CCCgotLS0KCirmnKzmiqXlkYrnlLHlkIjop4TlrqHmn6UgKyDmnrbmnoTor4TkvLDkuqflh7rvvIzkvp3mja7vvJrikaAg5Luj56CB5a6e5rWL77yIYGRhdGFfcm91dGVgIC8gYHByaXZhY3lHYXRlYCAvIOm7mOiupCBgbW9ja2Ag5oCB77yJ4pGhIOe9keS/oeWKniAyMDI2IOaVsOaNruWHuuWig+aUv+etluazleinhOmXruetlCDikaIg6IW+6K6v5LqRIFdTQSAvIOeBq+WxseW8leaTjiAvIOmAmuS5ieWNg+mXruiBlOe9keaQnOe0ouWFrOW8gOaWh+aho+OAguWGu+e7k+i1hOS6pyBTSEEg5Lul5pei5a2YIDQvNCBNQVRDSCDkuLrlh4bvvIzmnKzpmLbmrrXpm7bmlLnliqjjgIIqCg==
+﻿# 向晚问思 · Phase Q2-5-A 合规边界审查与国内中继方案评估
+
+> **阶段定位**：Phase Q2-5-A = 合规边界审查 + 国内中继/检索方案评估。
+> 本阶段**纯研究与评估**，目标是解开 Q2-4-B 点明的 **B2 跨境数据合规 P1 硬阻断**（tavily/bing/serp 均境外，query 越境）。
+> **刚性边界（本阶段）**：
+> - ✅ 允许：审查现状、调研方案、对比评估、产出推荐路线与落地草图。
+> - ⛔ 禁止：新增 provider 代码、部署、翻转任何生产开关、配置真实密钥、接真实 API、改知识库/冻结资产。
+> - **本阶段零代码改动、零部署。** 所有落地动作均为「下一阶段待授权实施的草图」。
+
+---
+
+## 1. 当前合规边界现状（来自代码实测，非凭记忆）
+
+| 项 | 当前值 | 合规含义 |
+|---|---|---|
+| `SEARCH_PROVIDER` | `mock` | 默认安全态，**零真实外呼、零跨境** |
+| `FRESHNESS_FACTUAL_ENABLED` | `false` | 事实源总闸关闭 → 维持诚实边界 + 反思 |
+| `PRIVACY_GATE_ENABLED` | `false` | 隐私闸默认关闭（代码已就位，未启用） |
+| `SEARCH_CANARY_ENABLED` | `false` | 灰度闸默认关闭 |
+| 真实网络调用 | 0 | 仅 `fakeFetch` 离线验证，未出网 |
+| 冻结四资产 SHA | 4/4 MATCH | corpus/intent/knowledgeRouter/rag 未触碰 |
+
+**结论**：当前生产态为「零真实源、零外呼、零跨境」的安全基线。所有真实源能力均处于**待授权激活**状态。
+
+### 1.1 数据出境路径精确映射（检索层 `data_route` 分类）
+
+检索层 `search()` 现有 `dataRouteOf()` 逻辑（`providers/search/index.js:231`）：
+
+| provider | `isRealProvider` | `data_route` | 是否触发 PIPL 出境 |
+|---|---|---|---|
+| `mock` / `none` | 否 | `domestic` | 否（无外呼） |
+| `tavily` | 是 | `cross_border` | **是**（美国） |
+| `bing` | 是 | `cross_border` | **是**（美国 Microsoft） |
+| `serp` | 是 | `cross_border` | **是**（境外 SerpAPI） |
+| *(新增国内源)* | 待加 `isDomesticProvider` | `domestic`（需改 `dataRouteOf`） | **否**（数据留境） |
+
+> **关键事实**：即便开启 `PRIVACY_GATE_ENABLED`，普通哲学/知识问题经脱敏后仍走 `tavily` → `data_route=cross_border` → **用户 query（即便脱敏）仍越境**。隐私闸只**降低**出境数据中的 PII 风险，**不消除**跨境事实本身。这就是 B2 的根因——它不在代码逻辑层，而在**数据源地理位置**。
+
+### 1.2 既有安全层对跨境风险的作用边界
+
+| 已建层 | 对 B2（跨境合规）的作用 | 局限 |
+|---|---|---|
+| `privacyGate`（Q2-4-D） | 硬阻断手机/身份证/邮箱/银行卡/完整住址；软 PII 脱敏 | 仅降 PII 密度，普通 query 仍越境 |
+| `canaryGate`（Q2-4-C） | per-user 灰度，爆炸半径锁白名单 | 不解决跨境合法性 |
+| `audit.data_route`（Q2-4-D） | 可观测每条请求的出境方向 | 仅观测，非控制 |
+| `costGuard` / `sourceFilter` | 成本/来源控制 | 与跨境无关 |
+
+**判定**：B2 无法靠既有代码层绕开。解除 B2 只有两条本质路径——**换国内源（数据不留境）** 或 **走 PIPL 跨境合法机制**。
+
+---
+
+## 2. PIPL 跨境数据合规要点（2026 现行框架）
+
+依据网信办《数据出境安全管理政策法规问答》（2026-01 / 2026-07）、CAC 认证办法与标准合同办法：
+
+### 2.1 四条合法出境路径（PIPL 第 38 条）
+1. **CAC 数据出境安全评估**（最严，强制场景：CIIO、处理超 100 万人个人信息、或累计出境超 100 万人 / 超 1 万人敏感个人信息）
+2. **个人信息出境认证**（2026-01-01《认证办法》生效，由 CAC 认可专业机构发证）
+3. **标准合同（SCC）备案**（省级网信办备案，生效后 10 工作日内；<10 万非敏感 或 <1 万敏感可走此路，免安全评估）
+4. **其他法律法规/网信办规定情形**
+
+### 2.2 共性强制要求
+- **PIPIA（个人信息保护影响评估）**：所有三条路径均须事前完成，且须记录留存。
+- **单独同意**：向境外提供个人信息须取得个人**单独同意**（非打包授权）。
+- **告知义务**：隐私政策须明示「检索词可能发往境外」及境外接收方、目的、方式。
+- **2026-07 补充国标**：加密基准、访问控制规范、审计日志标准（2026-07 起强制）。
+- **必要性评估**：出境个人信息须限于实现目的的最小范围（与 privacyGate 的「最小数据出境」原则一致）。
+
+### 2.3 对本项目的适用性
+- 本项目为**非商用-办公**小程序，用户量级小（真实样本 <50），理论可走 **标准合同（SCC）** 而非安全评估。
+- 但 SCC 仍要求：PIPIA 文档 + 隐私政策更新 + 单独同意弹窗 + 省级备案 + 与境外接收方（Tavily/Bing/SerpAPI）签署 CAC 标准合同。**周期以周~月计，且境外接收方须配合签署**——实务阻力大。
+- 更重要的是：**即便走完 SCC，普通 query 仍物理越境**，只是「合法越境」。合规成本与运营复杂度显著高于换源。
+
+---
+
+## 3. 三类方案评估
+
+### Route 1 · 国内原生检索源（数据留境，推荐优先）
+
+**本质**：用国内搜索服务替代境外源，query 全程不离开中国内地 → **不触发 PIPL 第 38 条出境**，B2 根因消除。
+
+| 候选 | 底层/提供方 | 数据位置 | 接入形态 | 适用评估 |
+|---|---|---|---|---|
+| **腾讯云联网搜索 API（WSA）** | 搜狗搜索（腾讯系） | 中国内地 | `wsa.tencentcloudapi.com` / `api.wsa.cloud.tencent.com`；AK/SK 或 API KEY | **首选**：与微信小程序 + 腾讯云开发同源生态，域名国内已备案（B3 易解），数据留境 |
+| **火山引擎 Web Search** | 头条/抖音同源库（字节） | 中国内地 | HTTP API / Responses API；SaaS + 私有化 | 质量好、支持私有化；非腾讯生态但数据留境 |
+| **百度搜索 API** | 百度 | 中国内地 | 企业合规申请 | 个人/小项目门槛高，优先级低 |
+| **国内大模型内置 `web_search`**（通义/DeepSeek/Kimi/腾讯混元） | 各厂商内搜 | 中国内地（须用中国内地 endpoint） | 模型参数 `enable_search` / `web_search` tool | 零新增 provider 可能；但须换/改 model_config，且搜索过程对事实抽取层透明度弱 |
+
+**Route 1 对现有架构的契合度（高）**：
+- `providers/search` 抽象层已具备 timeout/retry/cache/来源过滤/成本保护/privacyGate/canary；新增一个国内 provider 文件即可**全盘复用**。
+- `data_route` 改分类为 `domestic` → 审计显示数据留境，合规审计告警（Q2-4-B §7）自然熄灭。
+- 微信后台 request 合法域名只需加 `wsa.tencentcloudapi.com`（国内备案域名，B3 比加 `api.tavily.com` 更顺）。
+
+**Route 1 的剩余合规义务（轻）**：
+- 国内处理仍受 PIPL 一般规则约束（目的限定、最小必要、告知同意）——**与现有国内模型推理同级**，不新增跨境维度。
+- `privacyGate` 仍建议开启：不向**任何**搜索源（含国内）发送原始 PII，属数据 hygiene 最佳实践，且降低国内处理风险。
+
+### Route 2 · 跨境 + PIPL 合法机制（保留为 fallback）
+
+**本质**：保留 tavily/bing/serp，补齐 SCC/认证 + PIPIA + 隐私政策 + 单独同意。
+
+| 维度 | 评估 |
+|---|---|
+| 合规合法性 | ✅ 走完即合法越境 |
+| 实施成本 | ⛔ 高：PIPIA 文档、隐私政策改版、单独同意弹窗、省级备案、境外接收方签署标准合同 |
+| 周期 | 周~月；且依赖境外厂商配合签约 |
+| 数据物理位置 | 仍越境（只是合法） |
+| 适用场景 | 仅当国内源质量/覆盖**确证不足**且业务强依赖境外源时 |
+
+**结论**：对本题（哲学/思辨/知识问答辅助）非必需。除非 Route 1 实测检索质量不达标，否则不优先。
+
+### Route 3 · 中继代理转发境外（明确不解决根因）
+
+**本质**：在国内部署代理服务器，转发请求到 tavily/bing/serp。
+
+| 维度 | 评估 |
+|---|---|
+| 数据物理位置 | ❌ **仍越境**（代理只是中转，query 最终到美国） |
+| 对 B2 的作用 | ❌ **零**。PIPL 看出境事实，不看你中间有没有代理 |
+| 唯一价值 | 延迟优化、统一出口 IP、可观测性、密钥集中管理 |
+| 误用风险 | ⚠️ 若把「加了国内代理」当作「已合规」，是**严重合规误判** |
+
+**结论**：Route 3 **不得**作为 B2 解除依据。如需用它，只能定位为「延迟/可观测性增强」，且**前提是已走完 Route 2 的 PIPL 机制**。本评估将其标注为 **不推荐 / 仅限 Route 2 之上的可选增强**。
+
+---
+
+## 4. 方案对比总表
+
+| 维度 | Route 1 国内源（首选） | Route 2 跨境+PIPL | Route 3 中继代理 |
+|---|---|---|---|
+| 数据是否留境 | ✅ 是 | ❌ 否（合法越境） | ❌ 否（仍越境） |
+| 消除 B2 根因 | ✅ 是 | ✅ 是（合法化） | ❌ 否 |
+| 实施成本 | 低（新增 provider + env） | 高（法务+备案+签约） | 中（但无效） |
+| 周期 | 天级（代码）+ 备案等待 | 周~月 | 天级（但无意义） |
+| 复用既有层 | ✅ 全复用 | ✅ 全复用 | ✅ 全复用 |
+| 微信域名 B3 | 易（国内备案域） | 中（境外域需备案） | 中 |
+| 推荐度 | ⭐⭐⭐⭐⭐ | ⭐⭐（fallback） | ⭐（不推荐） |
+
+---
+
+## 5. 推荐路线与落地草图（不实现）
+
+### 5.1 推荐
+**Route 1 国内原生检索源，首选腾讯云联网搜索 API（WSA）。** 理由：生态同源、数据留境、B2 根因消除、架构零摩擦复用、微信域名易解。
+
+### 5.2 落地草图（供下一阶段授权后实施）
+
+> 以下为**设计草图**，本阶段不写代码。
+
+1. **新增 provider 文件** `providers/search/tcloudWsa.js`
+   - 复用 `util.httpPostJson` / `util.normalizeResult` / `util.applySourceFilter`
+   - 认证：API KEY（`TENCENT_WSA_API_KEY`，Bearer）或 AK/SK 签名（企业级）
+   - 超时/重试/失败 fail-soft 同 tavily 风格（抛出传输错误，由 `withRetry` + 编排层兜底）
+2. **检索层注册** `providers/search/index.js`
+   - `getProviderName()` 支持 `tcloud` 值
+   - `isRealProvider` 维持（tavily/bing/serp）；**新增** `isDomesticProvider(p)` → `p === 'tcloud'`（及未来火山等）
+   - `dataRouteOf()` 改为：`piiBlocked → 'blocked'`；`isDomesticProvider → 'domestic'`；`isRealProvider → 'cross_border'`
+   - provider switch 增加 `else if (provider === 'tcloud') providerFn = ...`
+3. **环境变量**（L3 灰度草案）
+   ```
+   SEARCH_PROVIDER=tcloud
+   TENCENT_WSA_API_KEY=<密钥管理注入>
+   SEARCH_TIMEOUT_MS=2500
+   SEARCH_MAX_RESULTS=3
+   SEARCH_DAILY_QUOTA=100
+   PRIVACY_GATE_ENABLED=true      # 仍建议开启，向任何源最小化出境
+   SEARCH_CANARY_ENABLED=true     # L2 白名单灰度
+   SEARCH_CANARY_OPENIDS=内部白名单
+   FRESHNESS_FACTUAL_ENABLED=true
+   ```
+4. **复用既有安全层**：privacyGate / canaryGate / costGuard / sourceFilter / cache / audit 全部自动生效，无需改动。
+5. **测试**：仿 `test_q24a.js` 新增 `test_q24e.js`（离线 fakeFetch 注入），断言：
+   - `tcloud` provider 调用形态正确
+   - `data_route === 'domestic'`
+   - 全链路复用 timeout/retry/cache/sourceFilter/cost/privacy/canary
+   - 冻结四资产 SHA 不变
+
+### 5.3 与现有境外源的共存
+- `SEARCH_PROVIDER` 仍为可切换枚举：`mock` / `tcloud`（国内）/ `tavily` / `bing` / `serp`（境外）。
+- 若未来国内源质量不足，可临时切回境外源 + 走 Route 2 机制，二者不互斥。
+
+---
+
+## 6. 风险评估与开放项
+
+| # | 风险 / 开放项 | 等级 | 说明 / 缓解 |
+|---|---|---|---|
+| R1 | 国内源检索质量/覆盖不及境外 | 中 | 哲学/思辨/中文知识场景国内源（搜狗底）通常足够；L3 灰度用「命中率/反幻觉闸通过率」验证，不达标再评估 Route 2 |
+| R2 | 国内源同样处理 query（含软 PII） | 低 | 开启 `PRIVACY_GATE_ENABLED` 最小化出境；国内处理合规等级等同现有模型推理 |
+| R3 | 误将 Route 3 中继当合规解 | 高（合规） | 本报告已明确标注 Route 3 不解除 B2；若实施须绑定 Route 2 |
+| R4 | B1 小程序备案仍未过 | 高（阻断） | 与数据源择无关，仍须备案通过方可开通外网请求合规审查 |
+| R5 | 微信 request 合法域名配置 | 中 | `wsa.tencentcloudapi.com` 为国内备案域，B3 较境外源更易；仍须备案通过后于公众平台配置 |
+| R6 | 隐私政策需更新（即便国内源） | 低 | 建议补充「检索词可能发送至国内搜索服务（腾讯云）」告知，与现有模型推理告知一致 |
+
+---
+
+## 7. 刚性边界确认（本阶段）
+
+- [x] ✅ 零代码改动（仅审查 + 调研 + 评估 + 本报告）
+- [x] ✅ 零部署（未翻转任何开关）
+- [x] ✅ 未配置真实密钥（无 `TENCENT_WSA_API_KEY` / `TAVILY_API_KEY` 等注入）
+- [x] ✅ 未接真实 API（仅 Web 调研，未出网调用）
+- [x] ✅ 未改知识库 / 冻结四资产（SHA 4/4 MATCH，未触碰）
+- [x] ✅ 未 commit/push
+- [x] ✅ 未开启 `FRESHNESS_FACTUAL_ENABLED` / 真实搜索 / `PRIVACY_GATE_ENABLED`
+
+---
+
+## 8. 结论与下一阶段建议
+
+**结论**：Q2-5-A 完成「合规边界审查 + 国内中继/检索方案评估」。
+- 现状：当前零跨境、零外呼安全基线；B2 根因在**数据源地理位置**，非代码逻辑，既有隐私/灰度层只能降风险不能消根因。
+- PIPL 2026：出境须走四条路径之一（安全评估/认证/标准合同/其他），均须 PIPIA + 单独同意；小量级可走标准合同但成本高、周期长。
+- 评估：**Route 1 国内原生检索源（首选腾讯云 WSA）** 在合规、成本、架构复用、生态契合上全面优于 Route 2（跨境+PIPL）与 Route 3（中继代理，不解决根因）。
+
+**推荐下一阶段（需单独授权）**：
+1. **Q2-5-B（实施候选）**：按 §5.2 草图新增 `tcloudWsa.js` provider + 检索层注册（`isDomesticProvider` + `dataRouteOf` 改 `domestic`）+ `test_q24e.js` 离线测试 + 冻结 SHA 复核。**仍不部署、不激活**。
+2. **合规收尾**：B1 备案跟踪；隐私政策补充国内检索告知（R6）。
+3. **满足条件后灰度**：B1 过 + Route 1 代码落地 → L2（canary + privacy 全开）内测 → L3（成本受限软开，验证命中率/反幻觉闸）→ L4 全量。每级 env 秒级回滚。
+
+> 本阶段**未部署、未激活、未出网**。任何生产激活均须后续显式授权并满足 B1（备案）+ 数据源合规择定。
+
+---
+
+*本报告由合规审查 + 架构评估产出，依据：① 代码实测（`data_route` / `privacyGate` / 默认 `mock` 态）② 网信办 2026 数据出境政策法规问答 ③ 腾讯云 WSA / 火山引擎 / 通义千问联网搜索公开文档。冻结资产 SHA 以既存 4/4 MATCH 为准，本阶段零改动。*

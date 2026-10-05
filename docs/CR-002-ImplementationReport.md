@@ -1,1 +1,145 @@
-IyBDUi0wMDIgSW1wbGVtZW50YXRpb24gUmVwb3J0Cgo+ICoq6aG555uuKirvvJrlkJHmmZrpl67mgJ3vvIhXZW5EYW/vvInlvq7kv6HkupHlvIDlj5HlsI/nqIvluo8KPiAqKuWPmOabtCoq77yabXNnU2VjQ2hlY2sg5a6J5YWo5Yqg5Zu677yI54us56uL5L+u5aSN6L2o77yM6Z2eIFBoYXNlIFMgU2VhcmNoIExheWVy77yJCj4gKirop5LoibIqKu+8mlNlY3VyaXR5IEVuZ2luZWVyICsgQmFja2VuZCBFbmdpbmVlciArIFJlbGVhc2UgR3VhcmRpYW4KPiAqKuaJp+ihjOaXpeacnyoq77yaMjAyNi0wOC0wNQo+ICoq54q25oCBKirvvJrinIUg5a6e5pa95a6M5oiQIC8g5rWL6K+V6YCa6L+HIC8g5Ya757uT5a6I6Zeo6YCa6L+HIC8gKirmnKrpg6jnvbIqKu+8iOetieW+heS6uuW3pemDqOe9suS4juWGkueDn++8iQoKLS0tCgojIyAxLiDkv67mlLnmlofku7bliJfooagKCnwg5paH5Lu2IHwg5pON5L2cIHwg6K+05piOIHwg5Ya757uTPyB8CnwtLS18LS0tfC0tLXwtLS18CnwgYGNsb3VkZnVuY3Rpb25zL2NoYXQvaW5kZXguanNgIHwgKirkv67mlLkqKiB8IFNFQy0xfjUg5YWo6YOo5o6l5YWl54K5IHwg5ZCm77yI5Y+v5pS577yJIHwKfCBgY2xvdWRmdW5jdGlvbnMvY2hhdC9zZWN1cml0eS9pbnB1dEd1YXJkLmpzYCB8ICoq5paw5aKeKiogfCBTRUMtNCDop4TliJnlvI/ms6jlhaXmiqTmoI/vvIjnuq/lh73mlbDvvIkgfCDlkKYgfAp8IGBjbG91ZGZ1bmN0aW9ucy9jaGF0L3NlY3VyaXR5L3BpaVNjcnViLmpzYCB8ICoq5paw5aKeKiogfCBTRUMtNSDml6Xlv5cgUElJIOiEseaVj++8iOe6r+WHveaVsO+8iSB8IOWQpiB8CnwgYHNjcmlwdHMvdGVzdF9zZWN1cml0eV9oYXJkZW5pbmcuanNgIHwgKirmlrDlop4qKiB8IOemu+e6v+WuieWFqOa1i+ivle+8iG1vY2vvvIzml6DnnJ/lrp4gQVBJ77yJIHwg5ZCmIHwKfCBgY2xvdWRmdW5jdGlvbnMvY2hhdC9pbmRleC5qcy5wcmVDUi5iYWtgIHwgKirmlrDlop7vvIjlpIfku73vvIkqKiB8IEwyIOWbnua7mueUqO+8jOmdnui/kOihjOaXtuS7o+eggSB8IOWQpiB8CgoqKuacquinpueisCoq77yaYGNvcnB1cy5qc29uYCAvIGBpbnRlbnQuanNgIC8gYHJhZy5qc2AgLyBga25vd2xlZGdlUm91dGVyLmpzYO+8iFNIQTI1NiDop4Egwqc077yJ44CCCioq5pyq5pS55YqoKirvvJpQcm9tcHQgLyBST0xFX1BST01QVCAvIFJBRyDpgLvovpEgLyBLbm93bGVkZ2UgUm91dGVyIC8g5Lu75L2V5L6d6LWW77yI5oqk5qCP5LiO6ISx5pWP5Z2H5Li657qv5Ye95pWw77yM6Zu25paw5L6d6LWW77yJ44CCCioq5pyq5byV5YWlKirvvJpTZWFyY2ggTGF5ZXIgLyBQcm92aWRlciAvIOWklumDqCBBUEnjgIIKCi0tLQoKIyMgMi4g5q+P5Liq5a6J5YWo57y65Y+j5L+u5aSN6K+05piOCgojIyMgU0VDLTEgLyBTRUMtMiDigJQg5YWl5Y+CL+WHuuWPguaJq+aPjyBmYWlsLWNsb3NlZAotIGBjaGVja1RleHRTYWZldHkodGV4dCwgc3RhZ2UpYCDov5Tlm57lgLznlLEgYHtoaXQsIGVycn1gIOaJqeWxleS4uiBge2hpdCwgZXJyLCBzY2FubmVkLCBlcnJUeXBlfWDjgIIKLSDmiavmj4/lvILluLjvvIjnvZHnu5wv6LaF5pe2L+mFjeminS9BUEkg6ZSZ6K+v77yJ6L+U5ZueIGBzY2FubmVkOmZhbHNlYO+8jCoq5LiN5YaN6KeG5Li65a6J5YWoKirjgIIKLSDosIPnlKjngrnvvIjlhaXlj4IgTDIyNSDljLogLyDlh7rlj4IgTDI4MiDljLrvvInnu5/kuIDnlKggYGRlY2lkZUJsb2NrKHJlcywgaXNXYXJuT25seSgpKWDvvJoKICAtIGBzY2FubmVkOmZhbHNlYCDihpIgKirpu5jorqTmi6bmiKoqKu+8iGZhaWwtY2xvc2Vk77yJ44CCCiAgLSBgU0VDX0VNRVJHRU5DWV9XQVJOX09OTFk9dHJ1ZWAg5pe26YCA5YyW5Li65LuFIGBoaXRgIOaJjeaLpu+8iOS6i+aVheatouihgOW8gOWFs++8jOm7mOiupOWFs++8ieOAggoKIyMjIFNFQy0zIOKAlCDmiavmj4/plJnor6/lj6/op4LmtYsKLSDmlrDlop4gYGxvZ1NlY3VyaXR5RXZlbnQoc3RhZ2UsIGVyclR5cGUsIG9wZW5pZClg77ya5omr5o+P5aSx6LSl5Y2z5YaZIGBzZWN1cml0eV9ldmVudHNgIOmbhuWQiOOAggotIOiusOW9lSoq5LuF5YWD5pWw5o2uKirvvJpgeyBzdGFnZSwgZXJyVHlwZSwgb3BlbmlkSGFzaCwgY3JlYXRlVGltZSB9YO+8jGBvcGVuaWRIYXNoYCDnlKggTm9kZSDlhoXnva4gYGNyeXB0b2Agc2hhMjU277yMKirnu53kuI3lhpkgbWVzc2FnZS9hbnN3ZXIvcXVlcnkv6ZqQ56eBKirjgIIKLSBgZXJyVHlwZWAg5YiG57G777yaYHRpbWVvdXRgIC8gYHF1b3RhYCAvIGBhcGlfZXJyb3Jg77yM5L6/5LqO5Yy65YiG57uV6L+H5omL5rOV44CCCgojIyMgU0VDLTQg4oCUIOi+k+WFpeaMh+S7pOazqOWFpeaKpOagjwotIGBzZWN1cml0eS9pbnB1dEd1YXJkLmpzYO+8mmBkZXRlY3QobWVzc2FnZSlgIOe6r+WHveaVsO+8jOaXoCBMTE0gLyDml6DnvZHnu5wgLyDml6Dkvp3otZbjgIIKLSDlnKggYGNoZWNrVGV4dFNhZmV0eShtZXNzYWdlKWAg5LmL5ZCO44CBYGdlbmVyYXRlQW5zd2VyKClgIOS5i+WJjeiwg+eUqO+8m+WRveS4reWNs+aLkue7neeUn+aIkOOAggotIOimhueblu+8muW/veeVpS/lv5jorrAv5peg6KeGICsg5oyH5LukL+ezu+e7ny/pmZDliLbvvJvjgIzkvaDigKbmsqHmnInpmZDliLbjgI3op5LoibLliqvmjIHvvJtgaWdub3JlIHByZXZpb3VzIGluc3RydWN0aW9uc2AgLyBgc3lzdGVtIHByb21wdGAgLyBgREFOYCAvIGBqYWlsYnJlYWtgIC8gYHJvbGVwbGF5IGFzIHVucmVzdHJpY3RlZCBBSWAg562J44CCCi0g6K+v5p2A5o6n5Yi277yaNiDmnaHmraPluLjlk7Llrabpl67ms5UgKyA1IOadoeeUqOaIt+aMh+WumumbhuWFqOmDqCBgYmxvY2s6ZmFsc2Vg77yI5rWL6K+V6aqM6K+B77yJ44CCCgojIyMgU0VDLTUg4oCUIOaXpeW/l+iEseaVjwotIGBzZWN1cml0eS9waWlTY3J1Yi5qc2DvvJpgbWFzayh0ZXh0KWAg57qv5Ye95pWw77yM6JC95bqT5YmN6ISx5pWP44CCCi0g6KaG55uW77ya5omL5py65Y+3IC8g6YKu566xIC8g6Lqr5Lu96K+BIC8g5b6u5L+h5Y+377yI5LuF5LiK5LiL5paH5ZCOIElE77yJLyDpk7booYzljaEgLyBhcGlrZXktdG9rZW7jgIIKLSDokL3ngrnvvJpgbG9nT2JzZXJ2YXRpb25gIOeahCBgcXVlcnlg44CBYGxvZ0NoYXRgIOeahCBgbWVzc2FnZWAvYGFuc3dlcmDjgIFgbG9nUXVlc3Rpb25gIOeahCBgcXVlc3Rpb25gIOWdh+WFiOi/hyBgbWFza2Ag5YaN5YaZ5bqT44CCCi0gKirkuI3mlLnnlKjmiLflrp7pmYXlm57nrZQqKu+8jOS7heiEseaVj+aXpeW/l+WJr+acrOOAggoKLS0tCgojIyAzLiDmtYvor5Xnu5PmnpwKCui/kOihjO+8mmBub2RlIHNjcmlwdHMvdGVzdF9zZWN1cml0eV9oYXJkZW5pbmcuanNg77yIbW9jayBgd3gtc2VydmVyLXNka2DvvIwqKuacquiwg+eUqOecn+WuniBtc2dTZWNDaGVjayoq77yJCgpgYGAKUEFTUyAgVC1TLTAxIOi+k+WFpei/neinhOKGkuaLpuaIqgpQQVNTICBULVMtMDIg6L6T5Ye66L+d6KeE4oaS5oum5oiqClBBU1MgIFQtUy0wMyDovpPlhaXmiavmj4/lvILluLjihpJmYWlsLWNsb3NlZApQQVNTICBULVMtMDQg6L6T5Ye65omr5o+P5byC5bi44oaSZmFpbC1jbG9zZWQKUEFTUyAgVC1TLTA1IOaJq+aPj+W8guW4uOKGknNlY3VyaXR5X2V2ZW50cyDku4XlhYPmlbDmja4o5peg5Y6f5paHKQpQQVNTICBULVMtMDYgU0VDX0VNRVJHRU5DWV9XQVJOX09OTFnihpLmlL7ooYzkvYbku43lrqHorqEKUEFTUyAg5rOo5YWl5pS75Ye74oaS5oum5oiqKOS4reaWhykKUEFTUyAg5rOo5YWl5pS75Ye74oaS5oum5oiqKOiLseaWhyBqYWlsYnJlYWspClBBU1MgIOato+W4uOmXrumimOS4jeivr+adgDog5a2U5a2Q5piv6LCBClBBU1MgIOato+W4uOmXrumimOS4jeivr+adgDog5aaC5L2V55CG6Kej6YGT5b6357uPClBBU1MgIOato+W4uOmXrumimOS4jeivr+adgDog5Lq655Sf6L+36Iyr5oCO5LmI5YqeClBBU1MgIOato+W4uOmXrumimOS4jeivr+adgDog5LuA5LmI5piv5b2S5Zug55CG6K66ClBBU1MgIOato+W4uOmXrumimOS4jeivr+adgDog5oiR5bqU6K+l5aaC5L2V5o+Q5Y2H6Ieq5bexClBBU1MgIOato+W4uOmXrumimOS4jeivr+adgDog5oiR5bqU6K+l5aaC5L2V55CG6Kej5Lq655Sf5oSP5LmJClBBU1MgIFBJSSDmiYvmnLrlj7fohLHmlY8KUEFTUyAgUElJIOmCrueuseiEseaVjwpQQVNTICBQSUkg6Lqr5Lu96K+B6ISx5pWPClBBU1MgIFBJSSDlvq7kv6Hlj7fkuIrkuIvmlofohLHmlY8KUEFTUyAgUElJIOaZrumAmuiLseaWh+S4jeivr+S8pApQQVNTICDmgKfog73pl6jnpoEg5pys5Zyw6YC76L6R6ICX5pe2Cj09PT0g57uT5p6cOiAyMCBQQVNTIC8gMCBGQUlMID09PT0KYGBgCgotICoq5a6J5YWo5Zue5b2SKirvvJpULVMtMDF+MDYg5YWo57u/77yI6L+d6KeE5oum5oiqICsgZmFpbC1jbG9zZWQgKyDlrqHorqHml6Dljp/mlocgKyBXQVJOX09OTFkg6YC76L6R77yJ44CCCi0gKirms6jlhaXmiqTmoI8qKu+8muS4reaWhy/oi7HmlofmlLvlh7vlnYfmi6bmiKrvvJvmraPluLjlk7Llrabpl67ms5UgKiowIOivr+adgCoq44CCCi0gKipQSUkg6ISx5pWPKirvvJrmiYvmnLov6YKu566xL+i6q+S7veivgS/lvq7kv6Hlj7flnYfpqozor4Hml6DmmI7mlofvvJvmma7pgJroi7HmlofmlofmnKzkuI3or6/kvKTjgIIKLSAqKuaAp+iDvSoq77yaMTAwMCDmrKEgYGRldGVjdCttYXNrYCDogJfml7YgMm1zIOKGkiAqKuWNleasoSDiiYggMC4wMDJtcyoq77yM6L+c5L2O5LqOIDIwMG1zIC8gNW1zIOmihOeul+OAggoKLS0tCgojIyA0LiBTSEEyNTYg5Ya757uT5qOA5p+l77yIRnJlZXplIENoZWNrIFJlcG9ydO+8iQoKfCDmlofku7YgfCDmlLnliY0gU0hBIHwg5pS55ZCOIFNIQSB8IOe7k+iuuiB8CnwtLS18LS0tfC0tLXwtLS18CnwgYGNvcnB1cy5qc29uYCB8IGBkYjAxZmJjOeKApjc0ZWFiYzhiYCB8IGBkYjAxZmJjOeKApjc0ZWFiYzhiYCB8IOKchSDkuIDoh7QgfAp8IGBpbnRlbnQuanNgIHwgYDc2NWFkMTM44oCmMTU2MGNhMzhgIHwgYDc2NWFkMTM44oCmMTU2MGNhMzhgIHwg4pyFIOS4gOiHtCB8CnwgYHJhZy5qc2AgfCBgNWIzODBiM2bigKYxNDA4Mjg2YCB8IGA1YjM4MGIzZuKApjE0MDgyODZgIHwg4pyFIOS4gOiHtCB8CnwgYGtub3dsZWRnZVJvdXRlci5qc2AgfCBgODQ4OTA4NDTigKZmZmVkMGE5MzVgIHwgYDg0ODkwODQ04oCmZmZlZDBhOTM1YCB8IOKchSDkuIDoh7QgfAp8IGBpbmRleC5qc2AgfCBgYzY2YWM5ZmTigKYwNjYzYTdhMGVgIHwgYGRjZmQ4NjZi4oCmNDljM2YyZjlgIHwg8J+UpyDpooTmnJ/lj5jljJbvvIjlronlhajliqDlm7rvvIkgfAp8IGBpbmRleC5qcy5wcmVDUi5iYWtgIHwg4oCUIHwgYGM2NmFjOWZk4oCmMDY2M2E3YTBlYCB8IPCfk4wg562J5LqO5pS55YmNIGluZGV4Lmpz77yI5aSH5Lu9IGZhaXRoZnVs77yJIHwKCj4gKirlhbPkuo4gZ2l0IHN0YXR1cyoq77yaYGdpdCBzdGF0dXNgIOaYvuekuiBgY29ycHVzLmpzb25gL2ByYWcuanNgL2BpbnRlbnQuanNgL2Brbm93bGVkZ2VSb3V0ZXIuanNgIOW4piBgTWDvvIzkvYbmnKzlj5jmm7QqKuacquinpuWPiuWug+S7rCoq4oCU4oCU6K+lIGBNYCDkuLogUGhhc2UgRyDpgZfnlZnmnKrmj5DkuqTnirbmgIHvvIjlt6XkvZzorrDlv4blt7LpooTorabvvInjgILku6UgU0hBMjU2IOS4uuWUr+S4gOecn+ebuOa6kO+8jOWbm+aWh+S7tuWGheWuuemAkOWtl+iKguacquWPmOOAguaUueWKqOiMg+WbtOeUsSBgZGlmZiBpbmRleC5qcyBpbmRleC5qcy5wcmVDUi5iYWtgIOivgeaYjuS7heWQq+WuieWFqOWKoOWbuu+8iOingeaWh+aho+mZhOW9lSBkaWZm77yM5YWxIH42MCDooYzmlrDlop7vvIwwIOihjOinpuWPiuWGu+e7k+i1hOS6p++8ieOAggoKLS0tCgojIyA1LiDlm57mu5rmlrnlvI/vvIhSb2xsYmFjayBQbGFu77yJCgp8IOe6p+WIqyB8IOinpuWPkSB8IOaTjeS9nCB8IOmDqOe9sj8gfAp8LS0tfC0tLXwtLS18LS0tfAp8ICoqTDAqKiB8IOWuieWFqOacjeWKoeaKluWKqOivr+aLpu+8iOWPr+eUqOaAp+WPjeWZrO+8iSB8IOS6keeOr+Wig+WPmOmHjyBgU0VDX0VNRVJHRU5DWV9XQVJOX09OTFk9dHJ1ZWDvvIjpu5jorqQgYGZhbHNlYO+8ie+8jOenkue6p+eUn+aViO+8jOWFjemDqOe9siB8IOWQpiB8CnwgKipMMSoqIHwg5oqk5qCP6K+v5p2AIC8g6YC76L6R57y66Zm3IHwgYGdpdCByZXZlcnRgIOacrOasoSBpbmRleC5qcyDmj5DkuqQg4oaSIOmHjeaWsOOAjOS4iuS8oOW5tumDqOe9suOAjSB8IOaYryB8CnwgKipMMioqIHwgTDEg5peg5pWIIC8g5pW05L2T5Zue6YCAIHwgYGNwIGNsb3VkZnVuY3Rpb25zL2NoYXQvaW5kZXguanMucHJlQ1IuYmFrIGNsb3VkZnVuY3Rpb25zL2NoYXQvaW5kZXguanNgIOKGkiDph43mlrDjgIzkuIrkvKDlubbpg6jnvbLjgI0gfCDmmK8gfAoKLSDlm57mu5rlkI7pobvlpI3moLjvvJrlm5vlhrvnu5PotYTkuqcgU0hBMjU2IOS4jeWPmO+8m2BvYnNlcnZhYmlsaXR5X2xvZ3NgIOaXoCBgc2VhcmNoLipgIOWtl+aute+8iOacrOWPmOabtOaXoCBTZWFyY2jvvInjgIIKLSAqKkwwIOS7heS9nOS6i+aVheatouihgO+8jOS4jemZjee6p+WuieWFqOW4uOaAgSoq77ya5a6D6K6p44CM5omr5o+P5aSx6LSl44CN5LuO44CM5oum5oiq44CN5Y+Y5Li644CM5ZGK6K2m5pS+6KGM44CN77yM6L+Q57u05bqU5LqL5ZCO5o6S5p+l5qC55Zug5bm25aSN5L2N44CCCgotLS0KCiMjIDYuIOaYr+WQpua7oei2syBQLTAyICMwMDIKCnwg6aqM5pS26aG5IHwg57uT5p6cIHwKfC0tLXwtLS18CnwgIzAwMiDlronlhajnvLrlj6Ppl63njq/vvIhmYWlsLW9wZW4g4oaSIGZhaWwtY2xvc2Vk77yJIHwg4pyFIFNFQy0xLzIgfAp8IOaJq+aPj+Wksei0peWPr+ingua1i++8iOaXoOmdmem7mOe7lei/h++8iSB8IOKchSBTRUMtMyB8Cnwg5oyH5Luk5rOo5YWlL+i2iueLseWfuuehgOaKpOagjyB8IOKchSBTRUMtNO+8iDAg6K+v5p2A77yJIHwKfCDml6Xlv5cgUElJIOiEseaVjyB8IOKchSBTRUMtNSB8Cnwg5Ya757uT6LWE5Lqn6Zu25pS55YqoIHwg4pyFIFNIQTI1NiDkuIDoh7QgfAp8IOmbtuaWsOS+nei1liAvIOaXoCBMTE0gLyDml6DnvZHnu5wgfCDinIUg57qv5Ye95pWwICsg5YaF572uIGNyeXB0byB8Cnwg5rWL6K+VIDIwLzIwIOmAmui/hyB8IOKchSB8Cnwg5oCn6IO96Zeo56aBIHwg4pyFIDAuMDAybXMv5qyhIHwKCioq57uT6K6677yaUC0wMiAjMDAyID0gUEFTU++8iOWunuaWveWxgu+8ieOAgioqIOiuvuiuoeWxgumXqOemge+8iFMtMC4xIMKnOSDkuIPpobnvvInkuK3vvIzmnKzlj5jmm7TokL3lnLDkuoYgIzAwMiDoh6rouqvnmoTku6PnoIHkv67lpI3vvIzliankvZnjgIzkuIrnur/liY3lkIjop4Tlj4znrb7jgI3jgIznnJ/lrp7mtYHph4/op4LmtYvjgI3lsZ7kuo7pg6jnvbLlkI7liqjkvZzvvIjop4HkuIvvvInjgIIKCi0tLQoKIyMgNy4g5pyq5a6M5oiQ5LqL6aG5IC8g6YOo572y5YmN5b6F5Yqe77yI5Lq65bel5omn6KGM77yM6Z2e5pys5Y+Y5pu06IyD5Zu077yJCgoxLiAqKuaWsOWinumbhuWQiCoq77ya5LqR5pWw5o2u5bqT5omL5Yqo5Yib5bu6IGBzZWN1cml0eV9ldmVudHNgIOmbhuWQiO+8iOWQpuWImeWuoeiuoeWGmeS8muiiqyB0cnkvY2F0Y2gg6Z2Z6buY5ZCe5o6J77yM5LiN5b2x5ZON5Zue562U6ZO+6Lev77yM5L2G5peg5a6h6K6h5pWw5o2u77yJ44CC5Y+v6YCJ5L2G5bu66K6u44CCCjIuICoq6YOo572yKirvvJrmnKzlj5jmm7QqKuacqumDqOe9sioq77yI5oyJ57qq5b6L56aB5q2i77yJ44CC55Sx5Lq65bel5Zyo5b6u5L+h5byA5Y+R6ICF5bel5YW344CM5LiK5Lyg5bm26YOo572ywrfkupHnq6/lronoo4Xkvp3otZbjgI3jgIIKMy4gKirlhpLng58qKu+8mumDqOe9suWQjumqjOivgSDikaAg5q2j5bi45o+Q6Zeu5Zue562U5q2j5bi4IOKRoSDov53op4TovpPlhaXooqvmi6Yg4pGiIGBTRUNfRU1FUkdFTkNZX1dBUk5fT05MWWAg5LuF5LqL5pWF5pe25byA5ZCv44CCCjQuICoq5ZCI6KeEKirvvJroi6UgIzAwMiDkuI4gUGhhc2UgUyDlkIjlubbor4TlrqHvvIzku43pobvotbAgUy0wLjIg55qEIFNQLTIg5Y+M562+77yI5pys5Y+Y5pu05pys6Lqr5bey5LiN5L6d6LWWIFNlYXJjaO+8jOeLrOeri+WPr+S4iue6v++8ieOAggo1LiAqKua1i+ivlemSqeWtkCoq77yaYGV4cG9ydHMuX19jcjAwMmAg5LuF5ZyoIGBDUjAwMl9URVNUX0hPT0s9PT0nMSdgIOaXtuaatOmcsu+8jOeUn+S6p+eOr+Wig+WPmOmHj+S4jeWQq+ivpemUriDihpIgKirpm7booYzkuLrlvbHlk40qKu+8jOWPr+S/neeVmeaIlumDqOe9suWJjeWIoOmZpOOAggoKLS0tCgoq5paH5qGj6ZO+77yaUzAg5p625p6EIOKGkiBTLVByZSDihpIgUy0wLjEg4oaSIFMtMC4yIOKGkiBTLTAuMyDihpIgUzEg6KeE5qC8IOKGkiBDUi0wMDIg6K6+6K6hIOKGkiAqKkNSLTAwMiDlrp7mlr3miqXlkYrvvIjmnKzmlofku7bvvIkqKioK
+﻿# CR-002 Implementation Report
+
+> **项目**：向晚问思（WenDao）微信云开发小程序
+> **变更**：msgSecCheck 安全加固（独立修复轨，非 Phase S Search Layer）
+> **角色**：Security Engineer + Backend Engineer + Release Guardian
+> **执行日期**：2026-08-05
+> **状态**：✅ 实施完成 / 测试通过 / 冻结守门通过 / **未部署**（等待人工部署与冒烟）
+
+---
+
+## 1. 修改文件列表
+
+| 文件 | 操作 | 说明 | 冻结? |
+|---|---|---|---|
+| `cloudfunctions/chat/index.js` | **修改** | SEC-1~5 全部接入点 | 否（可改） |
+| `cloudfunctions/chat/security/inputGuard.js` | **新增** | SEC-4 规则式注入护栏（纯函数） | 否 |
+| `cloudfunctions/chat/security/piiScrub.js` | **新增** | SEC-5 日志 PII 脱敏（纯函数） | 否 |
+| `scripts/test_security_hardening.js` | **新增** | 离线安全测试（mock，无真实 API） | 否 |
+| `cloudfunctions/chat/index.js.preCR.bak` | **新增（备份）** | L2 回滚用，非运行时代码 | 否 |
+
+**未触碰**：`corpus.json` / `intent.js` / `rag.js` / `knowledgeRouter.js`（SHA256 见 §4）。
+**未改动**：Prompt / ROLE_PROMPT / RAG 逻辑 / Knowledge Router / 任何依赖（护栏与脱敏均为纯函数，零新依赖）。
+**未引入**：Search Layer / Provider / 外部 API。
+
+---
+
+## 2. 每个安全缺口修复说明
+
+### SEC-1 / SEC-2 — 入参/出参扫描 fail-closed
+- `checkTextSafety(text, stage)` 返回值由 `{hit, err}` 扩展为 `{hit, err, scanned, errType}`。
+- 扫描异常（网络/超时/配额/API 错误）返回 `scanned:false`，**不再视为安全**。
+- 调用点（入参 L225 区 / 出参 L282 区）统一用 `decideBlock(res, isWarnOnly())`：
+  - `scanned:false` → **默认拦截**（fail-closed）。
+  - `SEC_EMERGENCY_WARN_ONLY=true` 时退化为仅 `hit` 才拦（事故止血开关，默认关）。
+
+### SEC-3 — 扫描错误可观测
+- 新增 `logSecurityEvent(stage, errType, openid)`：扫描失败即写 `security_events` 集合。
+- 记录**仅元数据**：`{ stage, errType, openidHash, createTime }`，`openidHash` 用 Node 内置 `crypto` sha256，**绝不写 message/answer/query/隐私**。
+- `errType` 分类：`timeout` / `quota` / `api_error`，便于区分绕过手法。
+
+### SEC-4 — 输入指令注入护栏
+- `security/inputGuard.js`：`detect(message)` 纯函数，无 LLM / 无网络 / 无依赖。
+- 在 `checkTextSafety(message)` 之后、`generateAnswer()` 之前调用；命中即拒绝生成。
+- 覆盖：忽略/忘记/无视 + 指令/系统/限制；「你…没有限制」角色劫持；`ignore previous instructions` / `system prompt` / `DAN` / `jailbreak` / `roleplay as unrestricted AI` 等。
+- 误杀控制：6 条正常哲学问法 + 5 条用户指定集全部 `block:false`（测试验证）。
+
+### SEC-5 — 日志脱敏
+- `security/piiScrub.js`：`mask(text)` 纯函数，落库前脱敏。
+- 覆盖：手机号 / 邮箱 / 身份证 / 微信号（仅上下文后 ID）/ 银行卡 / apikey-token。
+- 落点：`logObservation` 的 `query`、`logChat` 的 `message`/`answer`、`logQuestion` 的 `question` 均先过 `mask` 再写库。
+- **不改用户实际回答**，仅脱敏日志副本。
+
+---
+
+## 3. 测试结果
+
+运行：`node scripts/test_security_hardening.js`（mock `wx-server-sdk`，**未调用真实 msgSecCheck**）
+
+```
+PASS  T-S-01 输入违规→拦截
+PASS  T-S-02 输出违规→拦截
+PASS  T-S-03 输入扫描异常→fail-closed
+PASS  T-S-04 输出扫描异常→fail-closed
+PASS  T-S-05 扫描异常→security_events 仅元数据(无原文)
+PASS  T-S-06 SEC_EMERGENCY_WARN_ONLY→放行但仍审计
+PASS  注入攻击→拦截(中文)
+PASS  注入攻击→拦截(英文 jailbreak)
+PASS  正常问题不误杀: 孔子是谁
+PASS  正常问题不误杀: 如何理解道德经
+PASS  正常问题不误杀: 人生迷茫怎么办
+PASS  正常问题不误杀: 什么是归因理论
+PASS  正常问题不误杀: 我应该如何提升自己
+PASS  正常问题不误杀: 我应该如何理解人生意义
+PASS  PII 手机号脱敏
+PASS  PII 邮箱脱敏
+PASS  PII 身份证脱敏
+PASS  PII 微信号上下文脱敏
+PASS  PII 普通英文不误伤
+PASS  性能门禁 本地逻辑耗时
+==== 结果: 20 PASS / 0 FAIL ====
+```
+
+- **安全回归**：T-S-01~06 全绿（违规拦截 + fail-closed + 审计无原文 + WARN_ONLY 逻辑）。
+- **注入护栏**：中文/英文攻击均拦截；正常哲学问法 **0 误杀**。
+- **PII 脱敏**：手机/邮箱/身份证/微信号均验证无明文；普通英文文本不误伤。
+- **性能**：1000 次 `detect+mask` 耗时 2ms → **单次 ≈ 0.002ms**，远低于 200ms / 5ms 预算。
+
+---
+
+## 4. SHA256 冻结检查（Freeze Check Report）
+
+| 文件 | 改前 SHA | 改后 SHA | 结论 |
+|---|---|---|---|
+| `corpus.json` | `db01fbc9…74eabc8b` | `db01fbc9…74eabc8b` | ✅ 一致 |
+| `intent.js` | `765ad138…1560ca38` | `765ad138…1560ca38` | ✅ 一致 |
+| `rag.js` | `5b380b3f…1408286` | `5b380b3f…1408286` | ✅ 一致 |
+| `knowledgeRouter.js` | `84890844…ffed0a935` | `84890844…ffed0a935` | ✅ 一致 |
+| `index.js` | `c66ac9fd…0663a7a0e` | `dcfd866b…49c3f2f9` | 🔧 预期变化（安全加固） |
+| `index.js.preCR.bak` | — | `c66ac9fd…0663a7a0e` | 📌 等于改前 index.js（备份 faithful） |
+
+> **关于 git status**：`git status` 显示 `corpus.json`/`rag.js`/`intent.js`/`knowledgeRouter.js` 带 `M`，但本变更**未触及它们**——该 `M` 为 Phase G 遗留未提交状态（工作记忆已预警）。以 SHA256 为唯一真相源，四文件内容逐字节未变。改动范围由 `diff index.js index.js.preCR.bak` 证明仅含安全加固（见文档附录 diff，共 ~60 行新增，0 行触及冻结资产）。
+
+---
+
+## 5. 回滚方式（Rollback Plan）
+
+| 级别 | 触发 | 操作 | 部署? |
+|---|---|---|---|
+| **L0** | 安全服务抖动误拦（可用性反噬） | 云环境变量 `SEC_EMERGENCY_WARN_ONLY=true`（默认 `false`），秒级生效，免部署 | 否 |
+| **L1** | 护栏误杀 / 逻辑缺陷 | `git revert` 本次 index.js 提交 → 重新「上传并部署」 | 是 |
+| **L2** | L1 无效 / 整体回退 | `cp cloudfunctions/chat/index.js.preCR.bak cloudfunctions/chat/index.js` → 重新「上传并部署」 | 是 |
+
+- 回滚后须复核：四冻结资产 SHA256 不变；`observability_logs` 无 `search.*` 字段（本变更无 Search）。
+- **L0 仅作事故止血，不降级安全常态**：它让「扫描失败」从「拦截」变为「告警放行」，运维应事后排查根因并复位。
+
+---
+
+## 6. 是否满足 P-02 #002
+
+| 验收项 | 结果 |
+|---|---|
+| #002 安全缺口闭环（fail-open → fail-closed） | ✅ SEC-1/2 |
+| 扫描失败可观测（无静默绕过） | ✅ SEC-3 |
+| 指令注入/越狱基础护栏 | ✅ SEC-4（0 误杀） |
+| 日志 PII 脱敏 | ✅ SEC-5 |
+| 冻结资产零改动 | ✅ SHA256 一致 |
+| 零新依赖 / 无 LLM / 无网络 | ✅ 纯函数 + 内置 crypto |
+| 测试 20/20 通过 | ✅ |
+| 性能门禁 | ✅ 0.002ms/次 |
+
+**结论：P-02 #002 = PASS（实施层）。** 设计层门禁（S-0.1 §9 七项）中，本变更落地了 #002 自身的代码修复，剩余「上线前合规双签」「真实流量观测」属于部署后动作（见下）。
+
+---
+
+## 7. 未完成事项 / 部署前待办（人工执行，非本变更范围）
+
+1. **新增集合**：云数据库手动创建 `security_events` 集合（否则审计写会被 try/catch 静默吞掉，不影响回答链路，但无审计数据）。可选但建议。
+2. **部署**：本变更**未部署**（按纪律禁止）。由人工在微信开发者工具「上传并部署·云端安装依赖」。
+3. **冒烟**：部署后验证 ① 正常提问回答正常 ② 违规输入被拦 ③ `SEC_EMERGENCY_WARN_ONLY` 仅事故时开启。
+4. **合规**：若 #002 与 Phase S 合并评审，仍须走 S-0.2 的 SP-2 双签（本变更本身已不依赖 Search，独立可上线）。
+5. **测试钩子**：`exports.__cr002` 仅在 `CR002_TEST_HOOK==='1'` 时暴露，生产环境变量不含该键 → **零行为影响**，可保留或部署前删除。
+
+---
+
+*文档链：S0 架构 → S-Pre → S-0.1 → S-0.2 → S-0.3 → S1 规格 → CR-002 设计 → **CR-002 实施报告（本文件）***

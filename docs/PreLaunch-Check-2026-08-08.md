@@ -1,1 +1,101 @@
-IyDlkJHmmZrpl67mgJ0gwrcg5LiK57q/5YmN5YWo6Z2i5qOA5p+l5oql5ZGKCgo+IOajgOafpeaXpeacn++8mjIwMjYtMDgtMDjvvZzln7rlh4bnirbmgIHvvJpQaGFzZSBRMi0yMe+8iOiBlOe9keaQnOe0ouWkmui9ruS/ruWkjSArIOmDqOe9suaUtuWwvu+8jOW3suS6jiAyMDI2LTA4LTA3IOWknCBgdGNiIGZuIGRlcGxveSBjaGF0YCDkuIrnur/vvIkKPiDmo4Dmn6XkurrvvJpSZWxlYXNlIE1hbmFnZXIg6KeG6KeS77yI6Ieq5Yqo5qC45a+556OB55uY5Luj56CBICsg5b2T5pel5pel5b+XICsg5pys5Zyw56a757q/5rWL6K+V77yJCgotLS0KCiMjIDAuIOWfuuWHhuagoeWHhu+8iOmHjeimge+8muWIq+S/oei/h+acn+W/q+eFp++8iQoKfCDmnaXmupAgfCDlrqPnp7DnirbmgIEgfCDnnJ/lrp7nirbmgIEgfAp8LS0tLS0tfC0tLS0tLS0tLXwtLS0tLS0tLS18Cnwg5rOo5YWl5bel5L2c6K6w5b+GIGBNRU1PUlkubWRgIHwg5YGc5ZyoIFBoYXNlIFIgLyBRMi0wIHwg5bey5YiwICoqUTItMjEqKu+8iOi/h+acnyB+MjEg5Liq6Zi25q6177yJIHwKfCBgQUlfQ09OVEVYVC8qLm1kYO+8iOS4iuS4gOi9ruaIkeWGmeeahO+8iSB8IOWGmeWIsCBRMi0xNSB8IOecn+WuniAqKlEyLTIxKirvvIjlj4jokL3lkI4gNiDkuKrpmLbmrrXvvIkgfAp8IOW9k+aXpeaXpeW/lyBgMjAyNi0wOC0wNy5tZGAgfCDigJQgfCAqKlEyLTIxIOmDqOe9suaUtuWwvioq77yI5p2D5aiB5Z+65YeG77yJIHwKfCBnaXQgSEVBRCB8IFBoYXNlIEbvvIhgMGU5MzJjM2DvvIkgfCDmraTlkI7lhajpg6ggUTIteCDlt6XkvZwqKuacquaPkOS6pCoqIHwKCioq57uT6K66KirvvJrmnKzmrKHmo4Dmn6Xku6XjgIzlvZPml6Xml6Xlv5cgKyDno4Hnm5jku6PnoIHjgI3kuLrllK/kuIDnnJ/nm7jvvIzkuI3ph4fkv6Hms6jlhaXorrDlv4bkuI4gQUlfQ09OVEVYVCDmlofmoaPjgIIKCi0tLQoKIyMgMS4g4pyFIFBBU1PvvIjkuIrnur/pl7jpl6jlt7LpgJrov4fvvIkKCnwgIyB8IOajgOafpemhuSB8IOivgeaNriB8IOe7k+iuuiB8CnwtLS18LS0tLS0tLS18LS0tLS0tfC0tLS0tLXwKfCAxIHwgKirlm5vlhrvnu5PotYTkuqcgU0hBMjU2IOWuiOmXqCoqIHwgY29ycHVzIGBkYjAxZmJjOeKApmAgLyBpbnRlbnQgYDc2NWFkMTM44oCmYCAvIHJhZyBgNGZiMmRjYTTigKZgIC8ga25vd2xlZGdlUm91dGVyIGA4NDg5MDg0NDXigKZgIOKAlOKAlCDlm5vogIXpgJDlrZfoioIgPT0g5Z+657q/IHwgKio0LzQg6YCa6L+H77yM6Zu25ryC56e7KiogfAp8IDIgfCBjb3JwdXMg5p2h55uu5pWwIHwg5pWw57uE6ZW/5bqmID0gKioxNCoq77yI5LiOImVtYmVkZGluZyDlkJHph4/mlbA9MTQi5Luj55CG5pat6KiA5LiA6Ie077yJIHwg4pyFIHwKfCAzIHwgNiDkupHlh73mlbDpvZDlhaggfCBjaGF0IC8gZmVlZGJhY2sgLyBoaXN0b3J5IC8gaW5nZXN0IC8gbG9naW4gLyBhZG1pbiDnm67lvZXlnYflrZjlnKggfCDinIUgfAp8IDQgfCDliY3nq68gNyDpobXpvZDlhaggfCBhcHAuanNvbiDliJflh7ogaG9tZS9jaGF0L2Fib3V0L2Jvb2tzL2FkbWluL3ByaXZhY3kvc2Vzc2lvbnPvvIw3IOS4quebruW9leWdh+WtmOWcqCB8IOKchSB8CnwgNSB8IOS6keWIneWni+WMliB8IGBtaW5pcHJvZ3JhbS9hcHAuanM6MTRgIOato+ehriBgd3guY2xvdWQuaW5pdCh7Li4ufSlgIHwg4pyFIHwKfCA2IHwgbXNnU2VjQ2hlY2sg5p2D6ZmQ5aOw5piOIHwgYGNsb3VkZnVuY3Rpb25zL2NoYXQvY29uZmlnLmpzb25gIOWQqyBgInBlcm1pc3Npb25zIjp7Im9wZW5hcGkiOlsic2VjdXJpdHkubXNnU2VjQ2hlY2siXX1gIHwg4pyFIOWjsOaYjuWwseS9jSB8CnwgNyB8IOemu+e6v+WbnuW9ku+8iOmDqOWIhu+8iSB8IGB0ZXN0X3EzMy5qc2A9KiozNiBQQVNTLzAgRkFJTCoq77ybYHRlc3RfcTI5LmpzYD0qKjIyNSBQQVNTLzAgRkFJTCoq77yI5LiU5pat6KiAIHJhZy5qcy9jb3JwdXMg5YWo56iL5pyq6KKr5pS55YaZ77yJIHwg4pyFIHwKCi0tLQoKIyMgMi4g4pqg77iPIFdBUk7vvIjpnIDopoHlpITnkIbvvIzkvYbpnZ7oh7Tlkb3vvIkKCnwgIyB8IOajgOafpemhuSB8IOWPkeeOsCB8IOW7uuiuriB8CnwtLS18LS0tLS0tLS18LS0tLS0tfC0tLS0tLXwKfCBXMSB8ICoqaGlzdG9yeSDkupHlh73mlbDmnInmnKrpg6jnvbLmlLnliqjvvIjlrp7kuLrlip/og73kv67lpI3vvIkqKiB8IGBnaXQgZGlmZmAg5pi+56S6ICs1MC/iiJIzIOihjO+8muKRoGBhcHBlbmRTZXNzaW9uYCDmlrDlop4qKuepuuWbnuetlOWuiOWNqyoq77yIYG5vcm1Bc3Npc3RhbnQuY29udGVudGAg5Li656m65ouS57ud5YaZ5YWl77yM5L+u5aSNIuaJk+Wtl+acuuaUueWGmeWOn+WvueixoeWvvOiHtOepuuS4suWFpeWOhuWPsiJCdWfvvInvvJvikaFgbm9ybWFsaXplTWVzc2FnZWAg5raI5oGv6KeE6IyD5YyW77yb4pGiYGxvYWRTZXNzaW9uYCDor4rmlq3ml6Xlv5fjgIIqKuaJgOaciSBRMi14IOS7hemDqOe9sui/hyBgY2hhdGDvvIxoaXN0b3J5IOacqumHjemDqOe9sioqIHwg5bu66K6uKirpg6jnvbLogIzpnZ7lm57pgIAqKu+8iOWuiOWNq+S/ruWkjeacieWunui0qOS7t+WAvO+8ie+8mmB0Y2IgZm4gZGVwbG95IGhpc3Rvcnlg77yb6YOo572y5YmN56Gu6K6kIGNsb3VkYmFzZXJjIOaXoCBoaXN0b3J5IOmFjee9rumhue+8jOayv+eUqCBoaXN0b3J5L2NvbmZpZy5qc29uKHRpbWVvdXQ9MjApIOS4jeiiq+imhuebliB8CnwgVzIgfCAqKm1zZ1NlY0NoZWNrIOeUn+S6p+mZjee6p+aUvuihjCoqIHwgYGNoYXQvaW5kZXguanM6MjY2YCDku6PnoIHpu5jorqQgYFNFQ19ERUdSQURFX09OX0FQSV9FUlJPUj10cnVlYO+8m+W3peS9nOiusOW/huehruiupCBgLTUwMTAwMS8tNDAwMDNgIOS7jSAqKjAlIOWPr+eUqCoq44CC5Y2z5omr5o+P5aSx6LSl5pe2KirmlL7ooYzogIzpnZ7mi6bmiKoqKiB8IFVHQyDlkIjop4Tpo47pmanvvJrlhoXlrrnlrqHmoLjlnKjnur/kuIrlrp7otKjmnKrnlJ/mlYjjgILoi6XkuKXmoLzkuIrnur/pnIDmjqjov5sgKipDUi0wMDUqKu+8iENvbnRlbnRTZWN1cml0eUF2YWlsYWJpbGl0eVJlc3RvcmF0aW9u77yM6I2J5qGI5bey5a2Y5ZyoIGBkb2NzL0NSLTAwNS1EcmFmdC3igKZg77yJ5oiW56Gu6K6k6ZmN57qn562W55Wl6I635b6u5L+h5L6n6LGB5YWNIHwKfCBXMyB8ICoq5piO5paHIEFQSSBLZXkg5Zyo5bel5L2c5qCRKiogfCBgY2xvdWRiYXNlcmMuanNvbmAg5YaFIGBRV0VOX1NFQVJDSF9BUElfS0VZPXNrLWY5ZGY3MDQ34oCmYCDmmI7mlofvvIjlvZPliY0gYD8/YCDmnKrot5/ouKrvvIzmnKrov5sgZ2l077yJIHwg5Yqh5b+F6K6pIGBjbG91ZGJhc2VyYy5qc29uYCDotbAgYC5naXRpZ25vcmVg77yI5oiW5pS555SoIGBjbG91ZGJhc2VyYy5sb2NhbC5qc29uYO+8ie+8jOmBv+WFjeWQjue7rSBgZ2l0IGFkZCAtQWAg5oqK5a+G6ZKl5o+Q5Lqk77yb5a+G6ZKl57uP5a+G6ZKl566h55CG5rOo5YWl5pu056iz5aalIHwKfCBXNCB8ICoqY2hhdCBjb25maWcuanNvbiDkuI4gY2xvdWRiYXNlcmMg6LaF5pe25LiN5LiA6Ie0KiogfCBgY2xvdWRmdW5jdGlvbnMvY2hhdC9jb25maWcuanNvbmAgdGltZW91dD0qKjkwKiogdnMgYGNsb3VkYmFzZXJjLmpzb25gIHRpbWVvdXQ9Kio2MGDvvIhjbG91ZGJhc2VyYyDku4XlrprkuYkgY2hhdCDkuIDlh73mlbDvvJtoaXN0b3J5IOiHquaciSBjb25maWcuanNvbiB0aW1lb3V0PSoqMjAqKiDlkIjnkIbvvIzkuI3lnKjmraTliJfvvInjgIIq5rex5bqm5omr5o+P5L+u5q2jKu+8muWOn+aKpeWRiuivr+WGmSJoaXN0b3J5IOaXoCBjb25maWcuanNvbiIgfCDnu5/kuIAgY2hhdCDkuLogNjDvvIzmtojpmaTmrafkuYkgfAp8IFc1IHwgKirmtYvor5XlpLnlhbfmvILnp7vvvIhRMi0yMSDlvJXlhaXvvIkqKiB8IFEyLTIxIOaKiiBgcXdlblNlYXJjaGAg5pS55Li65YaF6YOoIGBfbm9kZUZldGNoYOOAgeino+iApuWklumDqOazqOWFpeeahCBgbm9kZUZldGNoYCDlj4LmlbDjgILljp/nprvnur/mtYvor5UgYHRlc3RfcTM0LmpzYO+8iOWPiuWQjOexuyBxd2VuU2VhcmNoIOWkueWFt++8ieazqOWFpeeahCBgZmFrZUZldGNoYCDlpLHmlYgg4oaSIOmAgOWMluS4uuecn+WunuWkluWRvO+8jOWunua1iyBgSFRUUF80MDFg77yI55So55qE5piv5rWL6K+V6Ieq5bim5YGHIGtleSBgc2stdGVzdGDvvIwqKumdnueUn+S6pyBrZXnvvIzmlYXkuI3or4HmmI7nlJ/kuqcga2V5IOWkseaViCoq77yJIHwg5Li6IGBxd2VuU2VhcmNoYCDlop7liqDlj6/ms6jlhaUgZmV0Y2gg55qE5rWL6K+V57yd77yI5aaC5L+d55WZIGBub2RlRmV0Y2hgIOimhueblumhue+8ieWQju+8jOmHjei3kSBgdGVzdF9xMzEvcTM0YCDnrYnlhajlpZfnprvnur/lm57lvZLvvIzmgaLlpI0i57u/IuS/oeW/gyB8CnwgVzYgfCAqKuaWh+aho+WGjeasoei/h+acnyoqIHwgYEFJX0NPTlRFWFQvKi5tZGAg5LuN5YaZIFEyLTE177ybYE1FTU9SWS5tZGAg5LuN5YaZIFIvUTItMCB8IOmdnumYu+Whnu+8jOS9huW7uuiuruS4iue6v+WQjuWGjee7n+S4gOWIt+aWsO+8iOaIlueOsOWcqOWIt+aWsO+8jOmBv+WFjeWQjue7reaOpeaJi+iAheivr+WIpO+8iSB8CgotLS0KCiMjIDMuIPCflLQgQkxPQ0vvvIjkuIrnur/noazpmLvloZ4gLyDlv4Xpobvnoa7orqTvvIkKCnwgIyB8IOmYu+WhnumhuSB8IOeKtuaAgSB8IOaUvuihjOadoeS7tiB8CnwtLS18LS0tLS0tLS18LS0tLS0tfC0tLS0tLS0tLXwKfCBCMSB8IH5+5bCP56iL5bqPIElDUCDlpIfmoYjlrqHmoLjkuK1+fiAqKuKchSDlt7LpgJrov4cqKiB8IDIwMjYtMDgtMDgg55So5oi356Gu6K6k5aSH5qGI5a6h5qC46YCa6L+H77yI5aSW6YOo6Zi75aGe6Kej6Zmk77yJIHwgfn7lhaznvZHlj5HluIPliY3nva7noazpmLvloZ5+fiDihpIg5YmN572u5p2h5Lu25bey5ruh6LazIHwKfCBCMiB8ICoqVUdDIOacjeWKoeWGheWuueWjsOaYjiArIOmakOengeaOiOadg+aOpeWFpSoqIHwg5pyq56Gu6K6k77yb5LiU5Luj56CB5L6nIGBtaW5pcHJvZ3JhbS9hcHAuanNvbmAgKirml6AgYF9fdXNlUHJpdmFjeUNoZWNrX186IHRydWVgKirjgIFgZ3JlcGAg5YWo5LuT5pegIuacjeWKoeWGheWuueWjsOaYji9VR0MvdXNlclByaXZhY3ki5a2X5qC377yIcHJpdmFjeSDpobXlrZjlnKjkvYbku4XliY3nq6/ljY/orq7vvInjgIIi5pyN5Yqh5YaF5a655aOw5piOIuaYr+WFrOS8l+W5s+WPsOWQjuWPsOW/heWhq++8m+aWsOeJiOWwj+eoi+W6jyBVR0Mg6L+Y6ZyA5aSE55CG6ZqQ56eB5o6I5p2D5by556qXIHwg4pGgIOWFrOS8l+W5s+WPsOKGkuWfuuacrOiuvue9ruKGkuacjeWKoeWGheWuueWjsOaYjiDloavlpqXvvJvikaEg56Gu6K6k6ZqQ56eB5o6I5p2D5by556qX5piv5ZCm6ZyA5o6l5YWl77yIYF9fdXNlUHJpdmFjeUNoZWNrX19g77yJIHwKfCBCMyB8ICoq57q/5LiK6IGU572R6IO95Yqb55yf5py66aqM6K+BKiogfCDmnKrpqozor4EgfCBgY2xvdWRiYXNlcmMuanNvbmAg55qEIGBRV0VOX1NFQVJDSF9BUElfS0VZYCDlvZPliY3mnInmlYjmgKcqKuacquefpSoq77yI5rWL6K+VIDQwMSDmnaXoh6rmtYvor5XlgYcga2V577yM5LiN6K+B5piO55Sf5LqnIGtleSDlpLHmlYjvvInjgILpobvnlKggKiphZG1pbiDlvq7kv6HvvIhvcGVuaWQ9WU9VUl9BRE1JTl9PUEVOSUTigKbvvIkqKiDnnJ/mnLrpl67jgIzku5joiKrmmK/osIHjgI3jgIzku4rlpKnmnInku4DkuYjnp5HmioDmlrDpl7vjgI3noa7orqTvvJrogZTnvZHnu7zlkIjlhoXlrrkgKyAi5pyq57uP54us56uL5qC45a6eIuWFjei0o+WjsOaYjuato+W4uOWRiOeOsOOAgeaXoOmZjee6p+aooeadvyB8CnwgQjQgfCAqKuaguOW/g+S7o+eggeWujOWFqOacque6s+WFpeeJiOacrOaOp+WItu+8iOmdnuS7hee8uiB0YWfvvIkqKiB8IGBnaXQgbHMtZmlsZXNgIOWvuSBgY2FwYWJpbGl0aWVzLyBmcmVzaG5lc3MvIHRoaW5rLyBwcm92aWRlcnMvIHNlY3VyaXR5L2Ag6Lef6Liq5p2h5pWwPSoqMCoq77ybYGNoYXQvaW5kZXguanNg44CBYGNoYXQvcmFnLmpzYOOAgWBjaGF0L2NvcnB1cy5qc29uYOOAgWBoaXN0b3J5L2luZGV4LmpzYCDlj4rliY3nq68gY2hhdCDkuInku7blpZflnYcgYE1gIOacquaPkOS6pOOAgirmt7Hluqbmiavmj4/kv67mraMq77ya5Y6fIuWFqOmHj+acquaPkOS6pOaXoCB0YWci5Lil6YeN5L2O5Lyw4oCU4oCU5pW05LiqIFEyIOaetuaehOWxguacqui3n+i4qu+8jOW3peS9nOagkeS4ouWkseWNs+a2iOWksSB8IOS4iue6v+WJjSBgZ2l0IGFkZGAg5qC45b+D5qih5Z2XK+aPkOS6pCvlu7ogbGF1bmNoIHRhZ++8m2BjbG91ZGJhc2VyYy5qc29uYCDmj5DkuqTliY3lhYggZ2l0aWdub3JlIHwKCi0tLQoKIyMgMy4xIOa3seW6puaJq+aPj+S/ruato+iusOW9le+8iDIwMjYtMDgtMDggMTQ6M3jvvIznv7vlvIDmlofku7blrp7mtYvvvIkKCj4g5pys6IqC5pu05q2j5Y6fIDE0OjMwIOeJiOaKpeWRiueahOS4pOWkhOS6i+WunumUmeivry/pgZfmvI/vvIzln7rkuo4gYGdpdCBscy1maWxlc2AgLyBgZ2l0IGRpZmZgIC8g6K+7IGBjbG91ZGJhc2VyYy5qc29uYCAvIOivuyBgaW5kZXguanNgIC8g5a6e6LeR5rWL6K+V5b6X5Ye677yMKirpnZ7lh63orrDlv4blpI3ov7AqKuOAggoKLSAqKlc0IOivr+i/sOS/ruatoyoq77ya5Y6f5YaZImhpc3Rvcnkg5pegIGNvbmZpZy5qc29uIuOAguWunua1iyBgY2xvdWRmdW5jdGlvbnMvaGlzdG9yeS9jb25maWcuanNvbmAg5a2Y5Zyo5LiUIGB0aW1lb3V0PTIwYO+8iOWQiOeQhu+8ieOAguS4jeS4gOiHtCoq5LuF6ZmQIGNoYXQqKu+8mmBjaGF0L2NvbmZpZy5qc29uPTkwYCB2cyBgY2xvdWRiYXNlcmMuanNvbj02MGDjgIIKLSAqKkI0IOS4pemHjeS9juS8sOS/ruatoyoq77ya5Y6f5YaZIuWFqOmHj+S7o+eggeacquaPkOS6pOaXoCBsYXVuY2ggdGFnIuOAguWunua1iyBgZ2l0IGxzLWZpbGVzIGNhcGFiaWxpdGllcy8gZnJlc2huZXNzLyB0aGluay8gcHJvdmlkZXJzLyBzZWN1cml0eS9gICoq6Lef6Liq5p2h5pWwPTAqKuKAlOKAlOaVtOS4qiBRMiDmnrbmnoTlsYLmnKrnurPlhaUgZ2l077yM6aOO6Zmp5pivIuW3peS9nOagkeS4ouWkseWNs+awuOS5hea2iOWksSLvvIzogIzpnZ7ku4XnvLogdGFn44CCCi0gKipXMSDlrprmgKfljYfnuqcqKu+8mmhpc3Rvcnkg55qEICs1MC/iiJIzIOihjOS4jeWPquaYryLor4rmlq0i77yM5ZCrIGBhcHBlbmRTZXNzaW9uYCAqKuepuuWbnuetlOWuiOWNqyoq77yI5L+u5aSN56m65Liy5YWl5Y6G5Y+yIEJ1Z++8ie+8jOWxnuWKn+iDveaAp+S/ruWkje+8jCoq5bqU6YOo572y6ICM6Z2e5Zue6YCAKirjgIIKLSAqKlc1IOWunui3kemqjOivgSoq77yaYHRlc3RfcTI0Y2A9MzcgUEFTUy8wIEZBSUzvvIjnu7/vvIzor4HmmI4gVzUg5LuF5b2x5ZON55u05o6l6LCDIGBxd2VuU2VhcmNoYCDnmoTmtYvor5XvvInvvJtgdGVzdF9xMzFgIOWboCBRMi0yMSDop6PogKbpgIDljJbnnJ/lrp7lpJblkbzvvIhgZGFzaHNjb3BlLXJlbGF5LmV4YW1wbGUuY29tYCBFQ09OTlJFU0VU77yJ57qi44CCVzUg5qC55Zug5Z2Q5a6e44CCCi0gKipXMyDlhbfkvZPor4Hmja4qKu+8mmBjbG91ZGJhc2VyYy5qc29uOjIzYCDmmI7mlocgYFFXRU5fU0VBUkNIX0FQSV9LRVk9c2stZjlkZjcwNDfigKZg77yMYC5naXRpZ25vcmVgIOaXoCBjbG91ZGJhc2VyYyDop4TliJnvvIjmlofku7blvZPliY3mnKrot5/ouKrvvIzkvYYgYGdpdCBhZGQgLUFgIOS8muazhOmcsu+8ieOAgmVudiDmmL7npLogYEZSRVNITkVTU19GQUNUVUFMX0VOQUJMRUQ9dHJ1ZWAgLyBgU0VBUkNIX1BST1ZJREVSPXF3ZW5gIC8gYFBSSVZBQ1lfR0FURV9FTkFCTEVEPXRydWVgIC8gYFNFQVJDSF9DQU5BUllfRU5BQkxFRD10cnVlYCAvIGBTWU5USF9NT0RFPXRydWVgIOWFqOW8gOKAlOKAlOiBlOe9kS/lkIjmiJAv6ZqQ56eB6ZeoL+mHkeS4nembgOWdh+a/gOa0u++8jOS4jiBRMi0yMSDpg6jnvbLkuIDoh7TjgIIKCi0tLQoKIyMgNC4g5pS+6KGM6Ze46Zeo77yIR08g5riF5Y2V77yJCgotIFt4XSAqKkIxKiog5aSH5qGI5a6h5qC46YCa6L+HIOKche+8iDIwMjYtMDgtMDgg55So5oi356Gu6K6k77yJCi0gWyBdICoqQjIqKiBVR0Mg5pyN5Yqh5YaF5a655aOw5piO5aGr5aalCi0gWyBdICoqVzEqKiBoaXN0b3J5IOaUueWKqO+8mumDqOe9siBgdGNiIGZuIGRlcGxveSBoaXN0b3J5YCDmiJblm57pgIAKLSBbIF0gKipXMioqIG1zZ1NlY0NoZWNrIOmZjee6p+etlueVpeiOt+ehruiupO+8iOaIluaOqOi/myBDUi0wMDXvvIkKLSBbIF0gKipCMyoqIOecn+acuiBjYW5hcnkg6aqM6K+B6IGU572RL+WQiOaIkOW6leW6py/kvKDorrDpmLLmiqTpgJrov4cKLSBbIF0gKipXMyoqIGBjbG91ZGJhc2VyYy5qc29uYCDlr4bpkqXkuI3lpJbms4TvvIhnaXRpZ25vcmUgLyDlr4bpkqXnrqHnkIbvvIkKLSBbIF0gKipXNSoqIOa1i+ivleWkueWFt+S/ruWkjeWQjuWFqOWll+emu+e6v+WbnuW9kue7vwotIFsgXSAqKkI0Kiog5o+Q5Lqk5b2T5YmN5Luj56CB5bm25bu656uLIGxhdW5jaCB0YWfvvIjlhYggZ2l0aWdub3JlIOWvhumSpe+8iQoKPiDlhajpg6gg4pyFIOWQju+8jOWNs+WPr+aPkOS6pOW+ruS/oeWuoeaguCAvIOWFrOe9keWPkeW4g+OAggoKLS0tCgojIyA1LiDnq4vljbMgQWN0aW9uIEl0ZW1z77yI5oyJ5LyY5YWI57qn77yJCgoxLiB+fioq44CQ55So5oi3wrflpJbpg6jjgJEqKiDot5/ouKogSUNQIOWkh+ahiOWuoeaguCArIOWhqyBVR0Mg5aOw5piO77yIQjEvQjLvvIzlpJbpg6jpmLvloZ7vvIzml6Dms5XnlLHku6PnoIHop6PlhrPvvInjgIJ+fiDihpIgKipCMSDlt7LlrozmiJAqKu+8muWkh+ahiOWuoeaguOmAmui/h++8iDIwMjYtMDgtMDgg56Gu6K6k77yJ44CC5LuF5YmpICoqQjIgVUdDIOacjeWKoeWGheWuueWjsOaYjioqIOmcgOeUqOaIt+WcqOWFrOS8l+W5s+WPsOWhq+WGmeOAggoyLiAqKuOAkOeUqOaIt8K355yf5py644CRKiog55SoIGFkbWluIOW+ruS/oeWBmuiBlOe9kSBjYW5hcnkg6aqM6K+B77yIQjPvvInjgIIKMy4gKirjgJDlhrPnrZYgVzHjgJEqKiDmmK/lkKbpg6jnvbIgaGlzdG9yeSDop4TojIPljJbmlLnliqjvvJ/oi6Xpg6jnvbLvvJpgdGNiIGZuIGRlcGxveSBoaXN0b3J5YO+8iOazqOaEjyBjbG91ZGJhc2VyYyDku4XlkKsgY2hhdO+8jGhpc3Rvcnkg5rK/55So546w5pyJIHJ1bnRpbWUvdGltZW91dC9tZW1vcnnvvIzpg6jnvbLliY3noa7orqTmnKrpnZnpu5jopobnm5bvvInjgIIKNC4gKirjgJDmlLblsL4gVzMvVzQvQjTjgJEqKiBgY2xvdWRiYXNlcmMuanNvbmAg5YqgIGAuZ2l0aWdub3JlYCDihpIg57uf5LiAIHRpbWVvdXQg4oaSIOaPkOS6pOS7o+eggeW7uiB0YWfjgIIKNS4gKirjgJDotKjph48gVzXjgJEqKiDnu5kgYHF3ZW5TZWFyY2hgIOihpSBmZXRjaCDmtYvor5XnvJ3vvIzph43ot5Hnprvnur/lhajlpZfvvIzmgaLlpI3nu7/jgIIKNi4gKirjgJDlj6/pgIkgVzbjgJEqKiDliLfmlrAgYEFJX0NPTlRFWFRgIOS4jiBgTUVNT1JZLm1kYCDliLAgUTItMjHvvIjpgb/lhY3lkI7nu63mjqXmiYvor6/liKTvvInjgIIKCi0tLQoKIyMg6ZmE77ya5pys5qyh5qOA5p+l5omn6KGM6K6w5b2VCgotIOWGu+e7k+i1hOS6pyBTSEEyNTbvvJpgc2hhMjU2c3VtYCDlm5vmlofku7YgPT0gTUVNT1JZLm1kIOWfuue6v++8iDQvNO+8ieOAggotIOemu+e6v+a1i+ivle+8muaJmOeuoSBOb2RlIGAyMi4yMi4yYCDlrp7ot5EgYHRlc3RfcTMzYO+8iDM24pyF77yJ44CBYHRlc3RfcTI5YO+8iDIyNeKche+8ie+8m2B0ZXN0X3EzNGAg5ZugIFEyLTIxIOWkueWFt+ino+iApumAgOWMluecn+WunuWkluWRvOaKpSA0MDHvvIjlsZ7mtYvor5XmvILnp7vvvIzpnZ7nlJ/kuqfnvLrpmbfvvInjgIIKLSDmnKrlr7nkuIrov7Dku7vkvZXmlofku7blgZrmlLnliqjjgIHmnKrpg6jnvbLjgIHmnKrmlLnnlJ/kuqcgZW5244CB5pyq5o+Q5Lqk77yI6YG15b6q6aG555uu5Ya757uTL+mDqOe9sue6quW+i++8ieOAggo=
+﻿# 向晚问思 · 上线前全面检查报告
+
+> 检查日期：2026-08-08｜基准状态：Phase Q2-21（联网搜索多轮修复 + 部署收尾，已于 2026-08-07 夜 `tcb fn deploy chat` 上线）
+> 检查人：Release Manager 视角（自动核对磁盘代码 + 当日日志 + 本地离线测试）
+
+---
+
+## 0. 基准校准（重要：别信过期快照）
+
+| 来源 | 宣称状态 | 真实状态 |
+|------|---------|---------|
+| 注入工作记忆 `MEMORY.md` | 停在 Phase R / Q2-0 | 已到 **Q2-21**（过期 ~21 个阶段） |
+| `AI_CONTEXT/*.md`（上一轮我写的） | 写到 Q2-15 | 真实 **Q2-21**（又落后 6 个阶段） |
+| 当日日志 `2026-08-07.md` | — | **Q2-21 部署收尾**（权威基准） |
+| git HEAD | Phase F（`0e932c3`） | 此后全部 Q2-x 工作**未提交** |
+
+**结论**：本次检查以「当日日志 + 磁盘代码」为唯一真相，不采信注入记忆与 AI_CONTEXT 文档。
+
+---
+
+## 1. ✅ PASS（上线闸门已通过）
+
+| # | 检查项 | 证据 | 结论 |
+|---|--------|------|------|
+| 1 | **四冻结资产 SHA256 守门** | corpus `db01fbc9…` / intent `765ad138…` / rag `4fb2dca4…` / knowledgeRouter `848908445…` —— 四者逐字节 == 基线 | **4/4 通过，零漂移** |
+| 2 | corpus 条目数 | 数组长度 = **14**（与"embedding 向量数=14"代理断言一致） | ✅ |
+| 3 | 6 云函数齐全 | chat / feedback / history / ingest / login / admin 目录均存在 | ✅ |
+| 4 | 前端 7 页齐全 | app.json 列出 home/chat/about/books/admin/privacy/sessions，7 个目录均存在 | ✅ |
+| 5 | 云初始化 | `miniprogram/app.js:14` 正确 `wx.cloud.init({...})` | ✅ |
+| 6 | msgSecCheck 权限声明 | `cloudfunctions/chat/config.json` 含 `"permissions":{"openapi":["security.msgSecCheck"]}` | ✅ 声明就位 |
+| 7 | 离线回归（部分） | `test_q33.js`=**36 PASS/0 FAIL**；`test_q29.js`=**225 PASS/0 FAIL**（且断言 rag.js/corpus 全程未被改写） | ✅ |
+
+---
+
+## 2. ⚠️ WARN（需要处理，但非致命）
+
+| # | 检查项 | 发现 | 建议 |
+|---|--------|------|------|
+| W1 | **history 云函数有未部署改动（实为功能修复）** | `git diff` 显示 +50/−3 行：①`appendSession` 新增**空回答守卫**（`normAssistant.content` 为空拒绝写入，修复"打字机改写原对象导致空串入历史"Bug）；②`normalizeMessage` 消息规范化；③`loadSession` 诊断日志。**所有 Q2-x 仅部署过 `chat`，history 未重部署** | 建议**部署而非回退**（守卫修复有实质价值）：`tcb fn deploy history`；部署前确认 cloudbaserc 无 history 配置项，沿用 history/config.json(timeout=20) 不被覆盖 |
+| W2 | **msgSecCheck 生产降级放行** | `chat/index.js:266` 代码默认 `SEC_DEGRADE_ON_API_ERROR=true`；工作记忆确认 `-501001/-40003` 仍 **0% 可用**。即扫描失败时**放行而非拦截** | UGC 合规风险：内容审核在线上实质未生效。若严格上线需推进 **CR-005**（ContentSecurityAvailabilityRestoration，草案已存在 `docs/CR-005-Draft-…`）或确认降级策略获微信侧豁免 |
+| W3 | **明文 API Key 在工作树** | `cloudbaserc.json` 内 `QWEN_SEARCH_API_KEY=sk-f9df7047…` 明文（当前 `??` 未跟踪，未进 git） | 务必让 `cloudbaserc.json` 走 `.gitignore`（或改用 `cloudbaserc.local.json`），避免后续 `git add -A` 把密钥提交；密钥经密钥管理注入更稳妥 |
+| W4 | **chat config.json 与 cloudbaserc 超时不一致** | `cloudfunctions/chat/config.json` timeout=**90** vs `cloudbaserc.json` timeout=**60`（cloudbaserc 仅定义 chat 一函数；history 自有 config.json timeout=**20** 合理，不在此列）。*深度扫描修正*：原报告误写"history 无 config.json" | 统一 chat 为 60，消除歧义 |
+| W5 | **测试夹具漂移（Q2-21 引入）** | Q2-21 把 `qwenSearch` 改为内部 `_nodeFetch`、解耦外部注入的 `nodeFetch` 参数。原离线测试 `test_q34.js`（及同类 qwenSearch 夹具）注入的 `fakeFetch` 失效 → 退化为真实外呼，实测 `HTTP_401`（用的是测试自带假 key `sk-test`，**非生产 key，故不证明生产 key 失效**） | 为 `qwenSearch` 增加可注入 fetch 的测试缝（如保留 `nodeFetch` 覆盖项）后，重跑 `test_q31/q34` 等全套离线回归，恢复"绿"信心 |
+| W6 | **文档再次过期** | `AI_CONTEXT/*.md` 仍写 Q2-15；`MEMORY.md` 仍写 R/Q2-0 | 非阻塞，但建议上线后再统一刷新（或现在刷新，避免后续接手者误判） |
+
+---
+
+## 3. 🔴 BLOCK（上线硬阻塞 / 必须确认）
+
+| # | 阻塞项 | 状态 | 放行条件 |
+|---|--------|------|---------|
+| B1 | ~~小程序 ICP 备案审核中~~ **✅ 已通过** | 2026-08-08 用户确认备案审核通过（外部阻塞解除） | ~~公网发布前置硬阻塞~~ → 前置条件已满足 |
+| B2 | **UGC 服务内容声明 + 隐私授权接入** | 未确认；且代码侧 `miniprogram/app.json` **无 `__usePrivacyCheck__: true`**、`grep` 全仓无"服务内容声明/UGC/userPrivacy"字样（privacy 页存在但仅前端协议）。"服务内容声明"是公众平台后台必填；新版小程序 UGC 还需处理隐私授权弹窗 | ① 公众平台→基本设置→服务内容声明 填妥；② 确认隐私授权弹窗是否需接入（`__usePrivacyCheck__`） |
+| B3 | **线上联网能力真机验证** | 未验证 | `cloudbaserc.json` 的 `QWEN_SEARCH_API_KEY` 当前有效性**未知**（测试 401 来自测试假 key，不证明生产 key 失效）。须用 **admin 微信（openid=YOUR_ADMIN_OPENID…）** 真机问「付航是谁」「今天有什么科技新闻」确认：联网综合内容 + "未经独立核实"免责声明正常呈现、无降级模板 |
+| B4 | **核心代码完全未纳入版本控制（非仅缺 tag）** | `git ls-files` 对 `capabilities/ freshness/ think/ providers/ security/` 跟踪条数=**0**；`chat/index.js`、`chat/rag.js`、`chat/corpus.json`、`history/index.js` 及前端 chat 三件套均 `M` 未提交。*深度扫描修正*：原"全量未提交无 tag"严重低估——整个 Q2 架构层未跟踪，工作树丢失即消失 | 上线前 `git add` 核心模块+提交+建 launch tag；`cloudbaserc.json` 提交前先 gitignore |
+
+---
+
+## 3.1 深度扫描修正记录（2026-08-08 14:3x，翻开文件实测）
+
+> 本节更正原 14:30 版报告的两处事实错误/遗漏，基于 `git ls-files` / `git diff` / 读 `cloudbaserc.json` / 读 `index.js` / 实跑测试得出，**非凭记忆复述**。
+
+- **W4 误述修正**：原写"history 无 config.json"。实测 `cloudfunctions/history/config.json` 存在且 `timeout=20`（合理）。不一致**仅限 chat**：`chat/config.json=90` vs `cloudbaserc.json=60`。
+- **B4 严重低估修正**：原写"全量代码未提交无 launch tag"。实测 `git ls-files capabilities/ freshness/ think/ providers/ security/` **跟踪条数=0**——整个 Q2 架构层未纳入 git，风险是"工作树丢失即永久消失"，而非仅缺 tag。
+- **W1 定性升级**：history 的 +50/−3 行不只是"诊断"，含 `appendSession` **空回答守卫**（修复空串入历史 Bug），属功能性修复，**应部署而非回退**。
+- **W5 实跑验证**：`test_q24c`=37 PASS/0 FAIL（绿，证明 W5 仅影响直接调 `qwenSearch` 的测试）；`test_q31` 因 Q2-21 解耦退化真实外呼（`dashscope-relay.example.com` ECONNRESET）红。W5 根因坐实。
+- **W3 具体证据**：`cloudbaserc.json:23` 明文 `QWEN_SEARCH_API_KEY=sk-f9df7047…`，`.gitignore` 无 cloudbaserc 规则（文件当前未跟踪，但 `git add -A` 会泄露）。env 显示 `FRESHNESS_FACTUAL_ENABLED=true` / `SEARCH_PROVIDER=qwen` / `PRIVACY_GATE_ENABLED=true` / `SEARCH_CANARY_ENABLED=true` / `SYNTH_MODE=true` 全开——联网/合成/隐私门/金丝雀均激活，与 Q2-21 部署一致。
+
+---
+
+## 4. 放行闸门（GO 清单）
+
+- [x] **B1** 备案审核通过 ✅（2026-08-08 用户确认）
+- [ ] **B2** UGC 服务内容声明填妥
+- [ ] **W1** history 改动：部署 `tcb fn deploy history` 或回退
+- [ ] **W2** msgSecCheck 降级策略获确认（或推进 CR-005）
+- [ ] **B3** 真机 canary 验证联网/合成底座/传记防护通过
+- [ ] **W3** `cloudbaserc.json` 密钥不外泄（gitignore / 密钥管理）
+- [ ] **W5** 测试夹具修复后全套离线回归绿
+- [ ] **B4** 提交当前代码并建立 launch tag（先 gitignore 密钥）
+
+> 全部 ✅ 后，即可提交微信审核 / 公网发布。
+
+---
+
+## 5. 立即 Action Items（按优先级）
+
+1. ~~**【用户·外部】** 跟踪 ICP 备案审核 + 填 UGC 声明（B1/B2，外部阻塞，无法由代码解决）。~~ → **B1 已完成**：备案审核通过（2026-08-08 确认）。仅剩 **B2 UGC 服务内容声明** 需用户在公众平台填写。
+2. **【用户·真机】** 用 admin 微信做联网 canary 验证（B3）。
+3. **【决策 W1】** 是否部署 history 规范化改动？若部署：`tcb fn deploy history`（注意 cloudbaserc 仅含 chat，history 沿用现有 runtime/timeout/memory，部署前确认未静默覆盖）。
+4. **【收尾 W3/W4/B4】** `cloudbaserc.json` 加 `.gitignore` → 统一 timeout → 提交代码建 tag。
+5. **【质量 W5】** 给 `qwenSearch` 补 fetch 测试缝，重跑离线全套，恢复绿。
+6. **【可选 W6】** 刷新 `AI_CONTEXT` 与 `MEMORY.md` 到 Q2-21（避免后续接手误判）。
+
+---
+
+## 附：本次检查执行记录
+
+- 冻结资产 SHA256：`sha256sum` 四文件 == MEMORY.md 基线（4/4）。
+- 离线测试：托管 Node `22.22.2` 实跑 `test_q33`（36✅）、`test_q29`（225✅）；`test_q34` 因 Q2-21 夹具解耦退化真实外呼报 401（属测试漂移，非生产缺陷）。
+- 未对上述任何文件做改动、未部署、未改生产 env、未提交（遵循项目冻结/部署纪律）。

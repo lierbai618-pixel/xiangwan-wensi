@@ -1,1 +1,86 @@
-Ly8gUDAg5rWB5rC057q/5rWL6K+V77yI57qvIE5vZGXvvIzkuI3kvp3otZbkupHnjq/looPvvIkKLy8g6KaG55uW77ya4pGg5pen5qih5byPKGxlZ2FjeSnmraPluLjmo4DntKIg4pGhaW5nZXN0IOWIh+WIhiDikaLmlrDnn6Xor4blupPmqKHlvI/mo4DntKIocmFua0NodW5rcyDnuq/pgLvovpEpCi8vICAgICAgIOKRo0tCIOWksei0peWbnumAgCBsZWdhY3kg4pGk5byV55So57uT5p6E5a6M5pW0Ci8vIOi/kOihjO+8mm5vZGUgc2NyaXB0cy90ZXN0X3BpcGVsaW5lLmpzCmNvbnN0IHBhdGggPSByZXF1aXJlKCJwYXRoIik7CmNvbnN0IHJhZyA9IHJlcXVpcmUocGF0aC5qb2luKF9fZGlybmFtZSwgIi4uIiwgImNsb3VkZnVuY3Rpb25zIiwgImNoYXQiLCAicmFnLmpzIikpOwpjb25zdCBpbmdlc3QgPSByZXF1aXJlKHBhdGguam9pbihfX2Rpcm5hbWUsICIuLiIsICJjbG91ZGZ1bmN0aW9ucyIsICJpbmdlc3QiLCAiaW5kZXguanMiKSk7CgpsZXQgcGFzcyA9IDA7CmxldCBmYWlsID0gMDsKZnVuY3Rpb24gb2sobmFtZSwgY29uZCwgZXh0cmEpIHsKICBpZiAoY29uZCkgewogICAgcGFzcyArPSAxOwogICAgY29uc29sZS5sb2coIiAgXHUyNzEzICIgKyBuYW1lKTsKICB9IGVsc2UgewogICAgZmFpbCArPSAxOwogICAgY29uc29sZS5sb2coIiAgXHUyNzE3ICIgKyBuYW1lICsgKGV4dHJhID8gIiAgLT4gIiArIGV4dHJhIDogIiIpKTsKICB9Cn0KCihhc3luYyAoKSA9PiB7CiAgY29uc29sZS5sb2coIj09IOa1i+ivlTHvvJrml6fmqKHlvI/vvIhsZWdhY3nvvInmraPluLjogYrlpKnmo4DntKIgPT0iKTsKICBkZWxldGUgcHJvY2Vzcy5lbnYuS0JfTU9ERTsKICBjb25zdCByMSA9IGF3YWl0IHJhZy5yZXRyaWV2ZSgi5aaC5L2V5a6e6Le1Iik7CiAgb2soImxlZ2FjeSDov5Tlm54gY2l0YXRpb25zIOmdnuepuiIsIEFycmF5LmlzQXJyYXkocjEuY2l0YXRpb25zKSAmJiByMS5jaXRhdGlvbnMubGVuZ3RoID4gMCwgSlNPTi5zdHJpbmdpZnkocjEpLnNsaWNlKDAsIDgwKSk7CiAgb2soCiAgICAibGVnYWN5IGNpdGF0aW9uIOWQqyB0aXRsZS9zZWN0aW9uL3RleHQiLAogICAgcjEuY2l0YXRpb25zWzBdICYmIHIxLmNpdGF0aW9uc1swXS50aXRsZSAmJiByMS5jaXRhdGlvbnNbMF0udGV4dAogICk7CiAgb2soImxlZ2FjeSDov5Tlm54gdGVybXMiLCBBcnJheS5pc0FycmF5KHIxLnRlcm1zKSAmJiByMS50ZXJtcy5sZW5ndGggPiAwKTsKCiAgY29uc29sZS5sb2coIj09IOa1i+ivlTLvvJppbmdlc3Qg5YiH5YiG77yIbWFya2Rvd24gKyB0eHTvvIkgPT0iKTsKICBjb25zdCBtZCA9CiAgICAiIyDnrKzkuIDnq6Bcblxu6L+Z5piv56ys5LiA6IqC55qE5YaF5a6577yM5YWz5LqO5a6e6Le155qE6K6o6K6644CCXG5cbuWunui3teOAgeiupOivhuOAgeWGjeWunui3teOAglxuXG4jIyDnrKzkuozoioJcblxu55+b55u+5YiG5p6Q77ya5oqT5L2P5Li76KaB55+b55u+44CCIjsKICBjb25zdCBjaHVua3MgPSBpbmdlc3Quc3BsaXRDaHVua3MobWQsIHsgdGl0bGU6ICLnpLrkvovmlofnjK4iLCBzb3VyY2U6ICLmtYvor5UiIH0pOwogIG9rKCLnlJ/miJAgcGFyZW50ICsgY2hpbGQgY2h1bmsiLCBjaHVua3MubGVuZ3RoID49IDMsICJjb3VudD0iICsgY2h1bmtzLmxlbmd0aCk7CiAgb2soIuWtmOWcqCBsZXZlbD1wYXJlbnQiLCBjaHVua3Muc29tZSgoYykgPT4gYy5sZXZlbCA9PT0gInBhcmVudCIpKTsKICBvaygKICAgICLlrZjlnKggbGV2ZWw9Y2hpbGQg5LiUIHBhcmVudF9sb2NhbCDmjIflkJEgcGFyZW50IiwKICAgIGNodW5rcy5zb21lKChjKSA9PiBjLmxldmVsID09PSAiY2hpbGQiICYmIGMucGFyZW50X2xvY2FsKQogICk7CiAgb2soCiAgICAiY2hpbGQg5pWw6YePID49IHBhcmVudCDmlbDph4/vvIjmnInov5vkuIDmraXmi4bliIbvvIkiLAogICAgY2h1bmtzLmZpbHRlcigoYykgPT4gYy5sZXZlbCA9PT0gImNoaWxkIikubGVuZ3RoID49IGNodW5rcy5maWx0ZXIoKGMpID0+IGMubGV2ZWwgPT09ICJwYXJlbnQiKS5sZW5ndGgKICApOwogIGNvbnN0IGpvaW5lZCA9IGNodW5rcy5maWx0ZXIoKGMpID0+IGMubGV2ZWwgPT09ICJjaGlsZCIpLm1hcCgoYykgPT4gYy5jb250ZW50KS5qb2luKCIiKTsKICBvaygiY2hpbGQg5YaF5a656KaG55uW5Y6f5paH5YWz6ZSu6K+NIiwgam9pbmVkLmluY2x1ZGVzKCLlrp7ot7UiKSAmJiBqb2luZWQuaW5jbHVkZXMoIuefm+ebviIpKTsKCiAgY29uc3QgdHh0ID0gIuesrOS4gOauteWFs+S6juWtpuS5oOeahOaWh+Wtl+OAglxuXG7nrKzkuozmrrXorrLosIPmn6XnoJTnqbbnmoTph43opoHmgKfvvIzlhYjosIPmn6XlkI7kuIvnu5PorrrjgIJcblxu56ys5LiJ5q616LCI6ZW/5pyf5Li75LmJ77yM5LqL5oOF6KaB5LiA5Lu25LiA5Lu25Yqe44CCIjsKICBjb25zdCB0eHRDaHVua3MgPSBpbmdlc3Quc3BsaXRDaHVua3ModHh0LCB7IHRpdGxlOiAi57qv5paH5pys56S65L6LIiB9KTsKICBvaygi57qvIHR4dCDkuZ/og73liIflh7ogcGFyZW50L2NoaWxkIiwgdHh0Q2h1bmtzLmxlbmd0aCA+PSAyKTsKCiAgY29uc29sZS5sb2coIj09IOa1i+ivlTPvvJrmlrDnn6Xor4blupPmqKHlvI/mo4DntKLvvIhyYW5rQ2h1bmtzIOe6r+mAu+i+ke+8iSA9PSIpOwogIGNvbnN0IGZha2VDaHVua3MgPSBjaHVua3MubWFwKChjKSA9PgogICAgT2JqZWN0LmFzc2lnbih7fSwgYywgeyBfaWQ6IGMuX2xvY2FsSWQsIHJldHJpZXZhYmxlOiB0cnVlLCBrZXl3b3JkczogYy5rZXl3b3JkcywgY29udGVudDogYy5jb250ZW50IH0pCiAgKTsKICBjb25zdCByMyA9IHJhZy5yYW5rQ2h1bmtzKCLnn5vnm77liIbmnpAg5Li76KaB55+b55u+IiwgZmFrZUNodW5rcywgMyk7CiAgb2soIktCIOajgOe0oui/lOWbniBjaXRhdGlvbnMiLCByMy5jaXRhdGlvbnMubGVuZ3RoID4gMCk7CiAgb2soCiAgICAiS0Ig5ZG95Lit5LiO5p+l6K+i55u45YWz77yI5ZCr44CO55+b55u+44CP77yJIiwKICAgIHIzLmNpdGF0aW9uc1swXS50ZXh0LmluY2x1ZGVzKCLnn5vnm74iKSB8fCByMy5jaXRhdGlvbnNbMF0uc2VjdGlvbi5pbmNsdWRlcygi55+b55u+IiksCiAgICByMy5jaXRhdGlvbnNbMF0gJiYgcjMuY2l0YXRpb25zWzBdLnRleHQuc2xpY2UoMCwgMzApCiAgKTsKICBvaygiS0IgY2l0YXRpb24g5ZCrIGRpc3BsYXlfdGV4dCIsIHIzLmNpdGF0aW9uc1swXS5jaXRhdGlvbiAmJiByMy5jaXRhdGlvbnNbMF0uY2l0YXRpb24uZGlzcGxheV90ZXh0KTsKICBvaygiS0IgY2l0YXRpb24g5ZCrIHNvdXJjZV9wb3NpdGlvbiIsIHIzLmNpdGF0aW9uc1swXS5jaXRhdGlvbiAmJiByMy5jaXRhdGlvbnNbMF0uY2l0YXRpb24uc291cmNlX3Bvc2l0aW9uKTsKICBvaygiS0IgY2l0YXRpb24g5qCH6K6wIGV2aWRlbmNlU3RhdHVzPWtiIiwgcjMuY2l0YXRpb25zWzBdLmV2aWRlbmNlU3RhdHVzID09PSAia2IiKTsKCiAgY29uc29sZS5sb2coIj09IOa1i+ivlTTvvJpLQiDmqKHlvI/lpLHotKXoh6rliqjlm57pgIAgbGVnYWN5ID09Iik7CiAgcHJvY2Vzcy5lbnYuS0JfTU9ERSA9ICJrYiI7CiAgdHJ5IHsKICAgIGNvbnN0IHI0ID0gYXdhaXQgcmFnLnJldHJpZXZlKCLnn5vnm74iKTsKICAgIG9rKCJLQiDmqKHlvI/lpLHotKXlm57pgIAgbGVnYWN577yIY2l0YXRpb25zIOmdnuepuu+8iSIsIEFycmF5LmlzQXJyYXkocjQuY2l0YXRpb25zKSAmJiByNC5jaXRhdGlvbnMubGVuZ3RoID4gMCk7CiAgfSBjYXRjaCAoZSkgewogICAgb2soIktCIOaooeW8j+Wksei0peWbnumAgCBsZWdhY3kiLCBmYWxzZSwgZS5tZXNzYWdlKTsKICB9CiAgZGVsZXRlIHByb2Nlc3MuZW52LktCX01PREU7CgogIGNvbnNvbGUubG9nKCI9PSDmtYvor5U177ya5byV55So5L+h5oGv57uT5p6E5a6M5pW0ID09Iik7CiAgb2soCiAgICAibGVnYWN5IGNpdGF0aW9uIOWQqyBldmlkZW5jZVN0YXR1cyhzZWVkL2ltcG9ydGVkKSIsCiAgICByMS5jaXRhdGlvbnNbMF0uZXZpZGVuY2VTdGF0dXMgPT09ICJzZWVkIiB8fCByMS5jaXRhdGlvbnNbMF0uZXZpZGVuY2VTdGF0dXMgPT09ICJpbXBvcnRlZCIKICApOwoKICBjb25zb2xlLmxvZygiXG7nu5PmnpzvvJrpgJrov4cgIiArIHBhc3MgKyAiIC8g5aSx6LSlICIgKyBmYWlsKTsKICBwcm9jZXNzLmV4aXQoZmFpbCA/IDEgOiAwKTsKfSkoKTsK
+// P0 流水线测试（纯 Node，不依赖云环境）
+// 覆盖：①旧模式(legacy)正常检索 ②ingest 切分 ③新知识库模式检索(rankChunks 纯逻辑)
+//       ④KB 失败回退 legacy ⑤引用结构完整
+// 运行：node scripts/test_pipeline.js
+const path = require("path");
+const rag = require(path.join(__dirname, "..", "cloudfunctions", "chat", "rag.js"));
+const ingest = require(path.join(__dirname, "..", "cloudfunctions", "ingest", "index.js"));
+
+let pass = 0;
+let fail = 0;
+function ok(name, cond, extra) {
+  if (cond) {
+    pass += 1;
+    console.log("  \u2713 " + name);
+  } else {
+    fail += 1;
+    console.log("  \u2717 " + name + (extra ? "  -> " + extra : ""));
+  }
+}
+
+(async () => {
+  console.log("== 测试1：旧模式（legacy）正常聊天检索 ==");
+  delete process.env.KB_MODE;
+  const r1 = await rag.retrieve("如何实践");
+  ok("legacy 返回 citations 非空", Array.isArray(r1.citations) && r1.citations.length > 0, JSON.stringify(r1).slice(0, 80));
+  ok(
+    "legacy citation 含 title/section/text",
+    r1.citations[0] && r1.citations[0].title && r1.citations[0].text
+  );
+  ok("legacy 返回 terms", Array.isArray(r1.terms) && r1.terms.length > 0);
+
+  console.log("== 测试2：ingest 切分（markdown + txt） ==");
+  const md =
+    "# 第一章\n\n这是第一节的内容，关于实践的讨论。\n\n实践、认识、再实践。\n\n## 第二节\n\n矛盾分析：抓住主要矛盾。";
+  const chunks = ingest.splitChunks(md, { title: "示例文献", source: "测试" });
+  ok("生成 parent + child chunk", chunks.length >= 3, "count=" + chunks.length);
+  ok("存在 level=parent", chunks.some((c) => c.level === "parent"));
+  ok(
+    "存在 level=child 且 parent_local 指向 parent",
+    chunks.some((c) => c.level === "child" && c.parent_local)
+  );
+  ok(
+    "child 数量 >= parent 数量（有进一步拆分）",
+    chunks.filter((c) => c.level === "child").length >= chunks.filter((c) => c.level === "parent").length
+  );
+  const joined = chunks.filter((c) => c.level === "child").map((c) => c.content).join("");
+  ok("child 内容覆盖原文关键词", joined.includes("实践") && joined.includes("矛盾"));
+
+  const txt = "第一段关于学习的文字。\n\n第二段讲调查研究的重要性，先调查后下结论。\n\n第三段谈长期主义，事情要一件一件办。";
+  const txtChunks = ingest.splitChunks(txt, { title: "纯文本示例" });
+  ok("纯 txt 也能切出 parent/child", txtChunks.length >= 2);
+
+  console.log("== 测试3：新知识库模式检索（rankChunks 纯逻辑） ==");
+  const fakeChunks = chunks.map((c) =>
+    Object.assign({}, c, { _id: c._localId, retrievable: true, keywords: c.keywords, content: c.content })
+  );
+  const r3 = rag.rankChunks("矛盾分析 主要矛盾", fakeChunks, 3);
+  ok("KB 检索返回 citations", r3.citations.length > 0);
+  ok(
+    "KB 命中与查询相关（含『矛盾』）",
+    r3.citations[0].text.includes("矛盾") || r3.citations[0].section.includes("矛盾"),
+    r3.citations[0] && r3.citations[0].text.slice(0, 30)
+  );
+  ok("KB citation 含 display_text", r3.citations[0].citation && r3.citations[0].citation.display_text);
+  ok("KB citation 含 source_position", r3.citations[0].citation && r3.citations[0].citation.source_position);
+  ok("KB citation 标记 evidenceStatus=kb", r3.citations[0].evidenceStatus === "kb");
+
+  console.log("== 测试4：KB 模式失败自动回退 legacy ==");
+  process.env.KB_MODE = "kb";
+  try {
+    const r4 = await rag.retrieve("矛盾");
+    ok("KB 模式失败回退 legacy（citations 非空）", Array.isArray(r4.citations) && r4.citations.length > 0);
+  } catch (e) {
+    ok("KB 模式失败回退 legacy", false, e.message);
+  }
+  delete process.env.KB_MODE;
+
+  console.log("== 测试5：引用信息结构完整 ==");
+  ok(
+    "legacy citation 含 evidenceStatus(seed/imported)",
+    r1.citations[0].evidenceStatus === "seed" || r1.citations[0].evidenceStatus === "imported"
+  );
+
+  console.log("\n结果：通过 " + pass + " / 失败 " + fail);
+  process.exit(fail ? 1 : 0);
+})();

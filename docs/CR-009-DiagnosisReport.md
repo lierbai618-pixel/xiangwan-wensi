@@ -1,1 +1,315 @@
-IyBDUi0wMDkg6Zi25q61IDAgwrcg5Y+q6K+76K+K5pat5oql5ZGKDQoNCnwg6aG5IHwg5YC8IHwNCnwtLS18LS0tfA0KfCDnvJblj7cgfCBDUi0wMDktRElBRy0wMDEgfA0KfCDop5LoibIgfCBSZWxlYXNlIE1hbmFnZXIgKyBBSSBSZWxpYWJpbGl0eSBFbmdpbmVlciB8DQp8IOaJp+ihjOaXtuWIuyB8IDIwMjYtMDgtMDYgMjA6MzMg4oCTIDIwOjQ1IENTVCB8DQp8IOaOiOadg+iMg+WbtCB8IENSLTAwOSDpmLbmrrUgMO+8iOWPquivu+iviuaWre+8jOemgeatouS/ruaUue+8iSB8DQp8IOeOr+WigyB8IGBZT1VSX0NMT1VEX0VOVl9JRGAgLyDlupMgYHRudC1oZDYxeThnZDRgIHwNCnwg5YaZ5YWl5Yqo5L2cIHwgKiowKirvvIjlhajnqIvku4UgUVVFUlkgLyBDT01NQU5EIOivu+WRveS7pO+8m+acqiBpbnZva2Ug55Sf5Lqn5Ye95pWw77yb5pyq6YOo572y77yb5pyq5pS55Lu75L2V5Luj56CB77yJIHwNCnwg57uT6K66IHwg4puUICoqTk8gREVGRUNUIEZPVU5EIOKAlCBDUi0wMDkg56uL6aG55YmN5o+Q5LiN5oiQ56uLKiogfA0KDQotLS0NCg0KIyMgMC4g5omn6KGM5pGY6KaB77yI5YWI57uZ57uT6K6677yJDQoNCioqYGxvZ3NgIOmbhuWQiOWGmeWFpemTvui3r+S7juacquWkseaViOOAguWug+eOsOWcqOaYr+WBpeW6t+eahO+8jOW5tuS4lOS7juacquS4reaWrei/h+OAgioqDQoNCi0gYGxvZ3NgIOmbhuWQiOWtmOWcqO+8jGByZWFkT25seTogZmFsc2Vg77yM5oC76K6w5b2VICoqMzAyKiog5p2h44CCDQotIOacgOaWsOS4gOadoeWGmeWFpeaXtumXtCAqKjIwMjYtMDgtMDYgMTk6NTk6NTEgQ1NUKirigJTigJTljbPmnKzmrKHor4rmlq3miafooYzliY0gKiozNCDliIbpkp8qKuOAgg0KLSBgYW5zd2VyYCDlrZfmrrXpnZ7nqbrnjocgKiozMDIgLyAzMDIgPSAxMDAlKirvvIzmnIDlpKfplb/luqYgMTAwMCDlrZfnrKbvvIhgc2xpY2UoMCwxMDAwKWAg5q2j5bi455Sf5pWI77yJ44CCDQotIOS7iuaXpe+8iDA4LTA277yJYGxvZ3NgIC8gYHF1ZXN0aW9uX2xvZ3NgIC8gYG9ic2VydmFiaWxpdHlfbG9nc2Ag5LiJ6ZuG5ZCI5YaZ5YWl5pWwICoqMjAgLyAyMCAvIDIw77yM5a6M5YWo5LiA6Ie0KirjgIINCg0KUGhhc2UgVC0wLjUg6KeC5a+f5oql5ZGK5Lit44CMYGxvZ3NgIOmbhuWQiOiHqiB+MjAyNi0wNy0yMyDotbfpnZnpu5jlpLHmlYjvvIznuqYgMTQg5aSp5pyq5pu05paw44CN55qE5Yik5pat77yMDQoqKuaYr+S4gOasoeafpeivouaWueazleWtpuivr+WIpO+8iGZhbHNlIHBvc2l0aXZl77yJ77yM5LiN5piv55Sf5Lqn57y66Zm344CCKiog6K+v5Yik5py65Yi25bey5ZyoIMKnMyDnsr7noa7lpI3njrDjgIINCg0K5Zug5q2k77yaKirpmLbmrrUgMeOAjOaBouWkjSBsZWdhY3kgbG9ncyDlhpnlhaXjgI3msqHmnInlj6/kv67lpI3lr7nosaHjgIIqKg0K5oyJ5pys5qyh5o6I5p2D44CM6L6T5Ye66K+K5pat5oql5ZGK5ZCO5YaN5L+u5pS544CN44CM56aB5q2i54yc5rWL5Y6f5Zug44CN5Lik5p2h5Y6f5YiZ77yMKirmiafooYzlnKjmraTlgZzmraLvvIznrYnlvoXkurrlt6Xoo4HlhrPjgIIqKg0KDQotLS0NCg0KIyMgMS4g6K+K5pat6aG56YCQ5p2h5bqU562U77yI5a+554Wn5o6I5p2D5riF5Y2V77yJDQoNCnwgIyB8IOaOiOadg+imgeaxguaguOafpemhuSB8IOWIpOWumiB8IOWunuivgSB8DQp8LS0tfC0tLXwtLS18LS0tfA0KfCAxIHwgbG9ncyDpm4blkIjmmK/lkKblrZjlnKggfCDinIUgKirlrZjlnKgqKiB8IGBsaXN0Q29sbGVjdGlvbnNgIOi/lOWbniBgeyJuYW1lIjoibG9ncyIsInR5cGUiOiJjb2xsZWN0aW9uIiwibnMiOiJ0bnQtaGQ2MXk4Z2Q0LmxvZ3MifWAgfA0KfCAyIHwg5YaZ5p2D6ZmQIHwg4pyFICoq5Y+v5YaZKiogfCBgaW5mby5yZWFkT25seSA9IGZhbHNlYO+8m+S4lCAzMDIg5p2h6K6w5b2V5LitIDIwIOadoeS6p+eUn+S6juS7iuaXpe+8jOWGmeWFpeWunuivgeaIkOeriyB8DQp8IDMgfCDpm4blkIjnirbmgIEgfCDinIUgKirmraPluLgqKiB8IGBjb2xsU3RhdHNg77yaYGNvdW50PTMwMmDjgIFgc2l6ZT02NDYsMjcyQmDjgIFgc3RvcmFnZVNpemU9NDg3LDQyNEJg44CBYGF2Z09ialNpemU9MiwxMzlCYOOAgWBjYXBwZWQ9ZmFsc2VgIHwNCnwgNCB8IGBhZGQoKWAg6L+U5Zue6ZSZ6K+vIHwg4pyFICoq5peg6ZSZ6K+vKiogfCDkuInpm4blkIjku4rml6XlhpnlhaXmlbAgMjAvMjAvMjAg5a6M5YWo5a+56b2Q77yIwqc077yJ77yM5LiN5a2Y5Zyo5Lii5YaZ77yb5peg5aSx6LSl5Y+v5o2V6I63IHwNCnwgNSB8IOS6keaVsOaNruW6k+adg+mZkCB8IOKchSAqKuato+W4uCoqIHwg5ZCM5bqTIGBxdWVzdGlvbl9sb2dzYCAvIGBvYnNlcnZhYmlsaXR5X2xvZ3NgIC8gYHNlY3VyaXR5X2V2ZW50c2Ag5Z2H5YaZ5YWl5oiQ5Yqf77yM5LiUIGBsb2dzYCDoh6rouqvmjIHnu63lhpnlhaUgfA0KfCA2IHwg6YWN6aKd6ZmQ5Yi2IHwg4pyFICoq6L+c5pyq6Kem5Y+KKiogfCBgZGJTdGF0c2DvvJoxMyDpm4blkIggLyA2OTkg5paH5qGjIC8gYGRhdGFTaXplIOKJiCAwLjk1IE1CYCAvIGBzdG9yYWdlU2l6ZSDiiYggMC44NyBNQmAgfA0KfCA3IHwg57Si5byV5byC5bi4IHwg4pyFICoq5q2j5bi4KiogfCBgbG9nc2Ag57Si5byVID0gYF9pZF9gICsgYF9vcGVuaWRfMWAoYmFja2dyb3VuZCwgc3BhcnNlOmZhbHNlKe+8jOS4jiBgcXVlc3Rpb25fbG9nc2Ag5a6M5YWo5ZCM5p6EIHwNCnwgOCB8IOWtl+autemZkOWItiB8IOKchSAqKuato+W4uCoqIHwgYGFuc3dlcmAg5pyA5aSnIDEwMDAgLyDlnYflgLwgNjU477ybYG1lc3NhZ2VgIOacgOWkpyAyMDLjgILlnYflnKggYHNsaWNlKDAsMTAwMClgIOe6puadn+WGhe+8jOaXoOi2hemZkOaIquaWreW8guW4uCB8DQoNCioq5YWr6aG55YWo6YOo6YCa6L+H44CC5LiN5a2Y5Zyo5Lu75L2V6ZyA6KaB5L+u5aSN55qE5pWF6Zqc54K544CCKioNCg0KLS0tDQoNCiMjIDIuIOehrOivgeaNru+8mmxvZ3Mg5oyJ5aSp5YaZ5YWl5YiG5biD77yIQ1NU77yJDQoNCmBgYA0KPT09IGxvZ3MgKOaAuyAzMDIpID09PSAgICAgICAgICAgICAgICAgID09PSBxdWVzdGlvbl9sb2dzICjmgLsgMjYzKSA9PT0NCiAgMjAyNi0wNy0yMSAgIG49MTUgICBsYXN0IDIzOjMxOjA2ICAgICAgKOmbhuWQiOWwmuacquWIm+W7uikNCiAgMjAyNi0wNy0yMiAgIG49MTMgICBsYXN0IDIyOjU0OjQ2ICAgICAgKOmbhuWQiOWwmuacquWIm+W7uikNCiAgMjAyNi0wNy0yMyAgIG49MTAgICBsYXN0IDIwOjA3OjUwICAgICAgKOmbhuWQiOWwmuacquWIm+W7uikNCiAgMjAyNi0wNy0yNCAgIG49MSAgICBsYXN0IDE3OjE2OjAyICAgICAgKOmbhuWQiOWwmuacquWIm+W7uikNCiAgMjAyNi0wNy0yNiAgIG49MTIgICBsYXN0IDIxOjQ1OjQ0ICAgICAgMjAyNi0wNy0yNiAgIG49MTIgICBsYXN0IDIxOjQ1OjQ0DQogIDIwMjYtMDctMjcgICBuPTYgICAgbGFzdCAxNjo1NToxNCAgICAgIDIwMjYtMDctMjcgICBuPTYgICAgbGFzdCAxNjo1NToxNA0KICAyMDI2LTA3LTI4ICAgbj0xNDQgIGxhc3QgMjA6NTE6MDQgICAgICAyMDI2LTA3LTI4ICAgbj0xNDQgIGxhc3QgMjA6NTE6MDQNCiAgMjAyNi0wNy0yOSAgIG49MTMgICBsYXN0IDExOjQwOjIzICAgICAgMjAyNi0wNy0yOSAgIG49MTMgICBsYXN0IDExOjQwOjIzDQogIDIwMjYtMDctMzEgICBuPTE0ICAgbGFzdCAyMjozMjozNSAgICAgIDIwMjYtMDctMzEgICBuPTE0ICAgbGFzdCAyMjozMjozNQ0KICAyMDI2LTA4LTAxICAgbj0yICAgIGxhc3QgMTY6NDA6MTYgICAgICAyMDI2LTA4LTAxICAgbj0yICAgIGxhc3QgMTY6NDA6MTYNCiAgMjAyNi0wOC0wMiAgIG49MzcgICBsYXN0IDE3OjI1OjI0ICAgICAgMjAyNi0wOC0wMiAgIG49MzcgICBsYXN0IDE3OjI1OjI0DQogIDIwMjYtMDgtMDQgICBuPTQgICAgbGFzdCAyMzoyMTo1OSAgICAgIDIwMjYtMDgtMDQgICBuPTQgICAgbGFzdCAyMzoyMTo1OQ0KICAyMDI2LTA4LTA1ICAgbj0xMSAgIGxhc3QgMTY6Mjg6MTQgICAgICAyMDI2LTA4LTA1ICAgbj0xMSAgIGxhc3QgMTY6Mjg6MTQNCiAgMjAyNi0wOC0wNiAgIG49MjAgICBsYXN0IDE5OjU5OjUxICAgICAgMjAyNi0wOC0wNiAgIG49MjAgICBsYXN0IDE5OjU5OjUxDQpgYGANCg0KKirpm7bkuKLlhpnnmoTnrpfmnK/or4HmmI7vvJoqKg0KDQpgYGANCmxvZ3Mg5oC75pWwIDMwMg0K4oiSIGxvZ3Mg54us5pyJ55qE5pep5pyf5pe25q6177yIcXVlc3Rpb25fbG9ncyDpm4blkIjliJvlu7rliY3vvJowNy0yMSDoh7MgMDctMjTvvIkNCiAgMTUgKyAxMyArIDEwICsgMSA9IDM5DQo9IDI2Mw0KcXVlc3Rpb25fbG9ncyDmgLvmlbAgPSAyNjMgICAgICAgICAg4pyFIOWujOWFqOebuOetiQ0KYGBgDQoNCuiHqiBgcXVlc3Rpb25fbG9nc2Ag5a2Y5Zyo6LW355qEKirmr4/kuIDlpKkqKu+8jGBsb2dzYCDkuI4gYHF1ZXN0aW9uX2xvZ3NgIOeahOadoeaVsCoq6YCQ5pel5Lil5qC855u4562JKirjgIINCmBsb2dDaGF0KClgIOS4jiBgbG9nUXVlc3Rpb24oKWAg5pivIGBpbmRleC5qczozMjBgIC8gYGluZGV4LmpzOjMyMWAg55u46YK75Lik6KGM55qE5ZCM5p6E6LCD55So4oCU4oCUDQroi6UgYGxvZ0NoYXQoKWAg5pu+5aSx5pWI77yM5Lik5YiX5pWw5a2X5LiN5Y+v6IO96L+e57utIDEwIOWkqeS9jeS9jeWQu+WQiOOAgg0KDQo+IDA3LTI1IC8gMDctMzAgLyAwOC0wMyDkuInlpKnnmoTnvLrlpLHmmK8qKumbtua1gemHj+aXpSoq77yM6Z2e5Lii5YaZ77yaYHF1ZXN0aW9uX2xvZ3NgIOS4jg0KPiBgb2JzZXJ2YWJpbGl0eV9sb2dzYCDlnKjlkIzmoLfml6XmnJ/lkIzmoLfkuLrnqbrjgIINCg0KLS0tDQoNCiMjIDMuIOagueWboO+8mlBoYXNlIFQtMC41IOeahOafpeivouaWueazleWtpuivr+WIpO+8iOW3sueyvuehruWkjeeOsO+8iQ0KDQpQaGFzZSBULTAuNSDmiqXlkYrljp/mlofvvIhgZG9jcy9QaGFzZVQtMC41LU9ic2VydmF0aW9uUmVwb3J0Lm1kYO+8ie+8mg0KDQotIEwzMO+8mmBgIGBsb2dzYCB8IOKaoO+4jyAqKuWBnOa7nioq77ya5pyA5paw6K6w5b2VIOKJiCAyMDI2LTA3LTIz77yM57qmIDE0IOWkqeacquabtOaWsCBgYA0KLSBMMTE577yaYCoqYGxvZ3NgIOmbhuWQiO+8iOWUr+S4gOetlOahiOaWh+acrOa6kO+8ieiHqiB+MjAyNi0wNy0yMyDotbfpnZnpu5jlpLHmlYjjgIIqKmANCi0gTDEyMO+8mmDlhpnlhaXooqsgdHJ5L2NhdGNoIOmdmem7mOWQnuaOie+8iCoq55aR5Ly8Kirpm4blkIjphY3pop0v57Si5byVL+adg+mZkOmUmeivr++8iWANCg0K5rOo5oSPIEwxMjAg55So6K+N5pivKirjgIznlpHkvLzjgI0qKuKAlOKAlOivpee7k+iuuuS7juacquiiq+mqjOivge+8jOebtOaOpei/m+WFpeS6hiBDUi0wMDkg55qE56uL6aG55YmN5o+Q44CCDQoNCiMjIyDlpI3njrDlrp7pqowNCg0K5a+5IGBsb2dzYCDmiafooYwqKuS4jeW4piBgc29ydGAg55qEIGBmaW5kYCoq77yI6L+U5Zue6Ieq54S25bqPIC8g5o+S5YWl5bqP77yM5Y2z5pyA5pen5Zyo5YmN77yJ77yM6YCQ5qGj5o+Q6auYIGBsaW1pdGDvvJoNCg0KfCBsaW1pdCB8IOWunumZhei/lOWbnuWMuumXtCB8IOiLpeWPqueci+i/meaJueaVsOaNruW+l+WHuueahOOAjOacgOWQjuWGmeWFpeaXtumXtOOAjSB8DQp8LS0tfC0tLXwtLS18DQp8IDEwIHwgMDctMjEgMjI6NDY6MjEg4oaSIDA3LTIxIDIzOjE0OjA2IHwgMDctMjEgMjM6MTQ6MDYgfA0KfCAyMCB8IDA3LTIxIDIyOjQ2OjIxIOKGkiAwNy0yMiAyMDo1Mjo1OSB8IDA3LTIyIDIwOjUyOjU5IHwNCnwgMzAgfCAwNy0yMSAyMjo0NjoyMSDihpIgMDctMjMgMTE6MDU6NTYgfCAwNy0yMyAxMTowNTo1NiB8DQp8ICoqMzgqKiB8IDA3LTIxIDIyOjQ2OjIxIOKGkiAqKjA3LTIzIDIwOjA3OjUwKiogfCAqKjA3LTIzIDIwOjA3OjUwKiog4oaQIOS4juaKpeWRiue7k+iuuumAkOenkuWQu+WQiCB8DQp8IDUwIHwgMDctMjEgMjI6NDY6MjEg4oaSIDA3LTI2IDIxOjQ0OjI2IHwgMDctMjYgMjE6NDQ6MjYgfA0KDQoqKmBsaW1pdOKJiDMw4oCTMzhgIOeahOaXoOW6j+afpeivouS8mueyvuehruS6p+WHuuOAjOacgOaWsOiusOW9lSDiiYggMjAyNi0wNy0yM+OAjei/meS4gOe7k+iuuuOAgioqDQoNCiMjIyDlrprmgKcNCg0KfCDpobkgfCDnu5PorrogfA0KfC0tLXwtLS18DQp8IOe8uumZt+exu+WeiyB8ICoq6KeC5a+f5bel5YW357y66Zm3KirvvIzpnZ7nlJ/kuqfns7vnu5/nvLrpmbcgfA0KfCDnm7TmjqXljp/lm6AgfCBgdGNiIGRiIG5vc3FsIGV4ZWN1dGVgIOeahCBgZmluZGAg5pegIGBzb3J0YCDml7bov5Tlm57oh6rnhLbluo/vvIjmnIDml6fkvJjlhYjvvInvvIzlj6DliqAgYGxpbWl0YCDmiKrmlq3vvIzlj5bliLDnmoQi5pyA5aSnIGNyZWF0ZVRpbWUi5pivKirliY0gTiDmnaHkuK3nmoTmnIDlpKflgLwqKu+8jOiAjOmdnioq5YWo6ZuG5pyA5aSn5YC8KiogfA0KfCDkuLrkvZXmnKrooqvlj5HnjrAgfCDnu5Porrrku6XjgIznlpHkvLzjgI3lhpnlhaXmiqXlkYrlkI7vvIzmnKrlgZrkuqTlj4npqozor4HvvIjmnKrkuI4gYHF1ZXN0aW9uX2xvZ3NgIOmAkOaXpeWvuei0pu+8jOacquaMiSBgY3JlYXRlVGltZSBkZXNjYCDlpI3mn6XvvIkgfA0KfCDkuI4gQ1ItMDA4IOWFs+ezuyB8ICoq5peg5Zug5p6cKirvvIjljp/liKTmlq3ljbPlt7LmiJDnq4vvvIzmraTlpITov5vkuIDmraXnoa7orqTvvJpDUi0wMDgg5YmN5ZCOIGBsb2dzYCDlnYfmraPluLjlhpnlhaXvvIkgfA0KfCDku6PnoIHlsYLpnaIgfCBgbG9nQ2hhdCgpYCDlrp7njrDml6DnvLrpmbfvvJtgdHJ5L2NhdGNoYCDku47mnKrlkJ7mjonov4fnnJ/lrp7plJnor6/igJTigJQqKuWug+S7gOS5iOmUmeivr+mDveayoeaOpeWIsCoqIHwNCg0KLS0tDQoNCiMjIDQuIOS6pOWPiemqjOivge+8muS4ieadoeWGmeWFpemTvui3r+S7iuaXpeWujOWFqOWQjOatpQ0KDQp8IOmbhuWQiCB8IOS7iuaXpSgwOC0wNinmnaHmlbAgfCDmnIDlkI7lhpnlhaUgfA0KfC0tLXwtLS18LS0tfA0KfCBgbG9nc2AgfCAqKjIwKiogfCAxOTo1OTo1MSB8DQp8IGBxdWVzdGlvbl9sb2dzYCB8ICoqMjAqKiB8IDE5OjU5OjUxIHwNCnwgYG9ic2VydmFiaWxpdHlfbG9nc2AgfCAqKjIwKiogfCAxOTo1OTo1MSB8DQoNCuS7iuaXpSAyMCDmnaHmmI7nu4bvvIhgYW5zd2VyYCDplb/luqblrp7mtYvvvIzor4HmmI7nrZTmoYjmlofmnKzlrozmlbTokL3lupPvvInvvJoNCg0KYGBgDQog5pe26Ze0KENTVCkgICBvcGVuaWQgICAgICAgIG1vZGUgICAgICAgICBhbnNMZW4gIGNpdGVzICBtZXNzYWdlDQogMTM6NTQ6NDEgICAgdW5rbm93biAgICAgICBtb2RlbCAgICAgICAgICAzMzIgICAgIDAgICAg5L2g5aW9DQogMTM6NTU6MzEgICAgdW5rbm93biAgICAgICBtb2RlbCAgICAgICAgICA1MjQgICAgIDMgICAg5oiR5pyA6L+R5oC75piv54Sm6JmR77yM5oSf6KeJ5Lq655Sf5rKh5pyJ5pa55ZCR4oCmDQogMTU6MTU6MDYgICAgWU9VUl9BRE1JTl9PUEVOSUQgICAgbW9kZWwgICAgICAgICAgMjk0ICAgICAwICAgIOS9oOWlvQ0KIDE1OjE1OjI0ICAgIFlPVVJfQURNSU5fT1BFTklEICAgIGNhcGFiaWxpdHkgICAgICA2NiAgICAgMCAgICDnjrDlnKjmmK/ku4DkuYjml7bpl7QNCiAxNToxNTo0MCAgICBZT1VSX0FETUlOX09QRU5JRCAgICBjYXBhYmlsaXR5ICAgICAxMTMgICAgIDAgICAg6IyD5Y6/5aSp5rCU5oCO5LmI5qC3DQogMTU6MTY6MDggICAgWU9VUl9BRE1JTl9PUEVOSUQgICAgbW9kZWwgICAgICAgICAgMzkxICAgICAwICAgIOaIv+S4u+S7u+aYr+iwgQ0KIDE1OjE2OjQyICAgIFlPVVJfQURNSU5fT1BFTklEICAgIG1vZGVsICAgICAgICAgIDUxMiAgICAgMCAgICDohLHlj6Pnp4DmvJTlkZjmiL/kuLvku7sNCiAxODowMTo1NSAgICB1bmtub3duICAgICAgIG1vZGVsICAgICAgICAgIDQ0NiAgICAgMCAgICDmiL/kuLvku7vmmK/osIEgICAgICAgICAgICAgIOKGkCBDUi0wMDgg6aqM6K+B5o6i6ZKIDQogMTg6MDI6MjkgICAgdW5rbm93biAgICAgICBtb2RlbCAgICAgICAgICA1MjEgICAgIDAgICAg5p+Q5bCP6ZWH5rCR5L+X6IqC5YW35L2T5piv5ZOq5aSpICAgIOKGkCBDUi0wMDgg6aqM6K+B5o6i6ZKIDQogMTg6MDI6MzcgICAgdW5rbm93biAgICAgICBtb2RlbCAgICAgICAgICAzMTAgICAgIDAgICAg44CK5pyq5Ye654mI5LmmWOOAi+eahOS9nOiAheaYr+iwgSAgIOKGkCBDUi0wMDgg6aqM6K+B5o6i6ZKIDQogMTg6MDI6NDYgICAgdW5rbm93biAgICAgICBtb2RlbCAgICAgICAgICA1MDAgICAgIDAgICAg6ZqU5aOB6ICB546L55qE55Sf5pel5piv5ZOq5aSpICAgICAg4oaQIENSLTAwOCDpqozor4HmjqLpkogNCiAxODowMjo1MyAgICB1bmtub3duICAgICAgIG1vZGVsICAgICAgICAgIDM3MiAgICAgMCAgICAyMDI05bm05p+Q5Y6/5Z+O6ams5ouJ5p2+5Yag5Yab5piv6LCBIOKGkCBDUi0wMDgg6aqM6K+B5o6i6ZKIDQogMTg6MDM6MDMgICAgdW5rbm93biAgICAgICBtb2RlbCAgICAgICAgICA0MTcgICAgIDMgICAg5a2Q5puw5a2m6ICM5pe25Lmg5LmL5LiN5Lqm6K+05LmO4oCmICAg4oaQIENSLTAwOCDpqozor4HmjqLpkogNCiAxODowMzoxNCAgICB1bmtub3duICAgICAgIG1vZGVsICAgICAgICAgIDU2MSAgICAgMyAgICDpgZPlvrfnu4/lpoLkvZXnnIvlvoXml6DkuLogICAgICAgIOKGkCBDUi0wMDgg6aqM6K+B5o6i6ZKIDQogMTg6MDM6MjcgICAgdW5rbm93biAgICAgICBtb2RlbCAgICAgICAgICA2MDkgICAgIDMgICAg5LuA5LmI5piv5Lit5bq45LmL6YGTICAgICAgICAgICDihpAgQ1ItMDA4IOmqjOivgeaOoumSiA0KIDE4OjAzOjQwICAgIHVua25vd24gICAgICAgbW9kZWwgICAgICAgICAgNTMyICAgICAzICAgIOWmguS9lemdouWvueWksei0pSAgICAgICAgICAgICDihpAgQ1ItMDA4IOmqjOivgeaOoumSiA0KIDE4OjA0OjMyICAgIHVua25vd24gICAgICAgbW9kZWwgICAgICAgICAgNDgzICAgICAwICAgIOaIkeS7rOWFrOWPuOeOi+aAu+acgOi/keWcqOW/meS7gOS5iCAgIOKGkCBDUi0wMDgg6aqM6K+B5o6i6ZKIDQogMTk6NTg6NTcgICAgb2JtWlQzVkxrUiAgICBjYXBhYmlsaXR5ICAgICAgNjYgICAgIDAgICAg546w5Zyo5piv5LuA5LmI5pe26Ze0DQogMTk6NTk6MTcgICAgb2JtWlQzVkxrUiAgICBtb2RlbCAgICAgICAgICA0ODIgICAgIDAgICAg5oiS5oyH5Li65LuA5LmI6KaB5oi05Zyo5peg5ZCN5oyHDQogMTk6NTk6NTEgICAgb2JtWlQzVkxrUiAgICBtb2RlbCAgICAgICAgICA1MjIgICAgIDAgICAg5oi/5Li75Lu75piv5ZOq5LiqDQpgYGANCg0KKirov5kgMjAg5p2h5YWo6YOo5bim5a6M5pW0562U5qGI5q2j5paH44CCQ1ItMDA4IOeahCAxMCDmnaHnnJ/mnLrpqozor4Hovajov7nvvIgxODowMeKAkzE4OjA077yJ5Lmf5YWo6YOo5a6M5pW055WZ5a2Y44CCKioNCg0KLS0tDQoNCiMjIDUuIOi/nuW4puWPkeeOsO+8iOeZu+iusO+8jOacrOasoeS4jeWkhOe9ru+8iQ0KDQojIyMgT0JTLTAwOS1B772cUGhhc2UgVC0wLjXjgIzpm7bmnInmnLrmtYHph4/jgI3nu5PorrrlrZjnlpHvvIhQMe+8jE9QRU7vvIkNCg0KVC0wLjUg5bCGIG9wZW5pZCBgb2JtWlQzVkxrUm9zTUg2ZjBIQXkyckRuTWE5Z2Ag5a6a5oCn5Li644CMU0VOVElORUwg5Z+65YeG77yMMjAyNi0wOC0wMiDljZXnsIfjgI3jgIINCuWunua1i+WFtuWcqCBgbG9nc2Ag5Lit55qE5oyJ5aSp5YiG5biD5Li677yaDQoNCmBgYA0KMjAyNi0wNy0yOCAgbj0yICAgICAgMjAyNi0wOC0wMSAgbj0yDQoyMDI2LTA3LTI5ICBuPTEyICAgICAyMDI2LTA4LTAyICBuPTIxDQoyMDI2LTA3LTMxICBuPTggICAgICAyMDI2LTA4LTA2ICBuPTMgICDihpAg5LuK5pmaIDE5OjU44oCTMTk6NTkNCmBgYA0KDQoqKui3qCAxMCDlpKnjgIE2IOS4queLrOeri+aXpeacn+OAgeWFsSA0OCDmnaHvvIzkuI3mmK/jgIzljZXnsIfjgI3jgIIqKiDku4rmmZogMTk6NTgg5LuN5Zyo5rS76LeD77yMDQrkuJTmj5Dpl67lvaLmgIHvvIhg546w5Zyo5piv5LuA5LmI5pe26Ze0YCAvIGDmiJLmjIfkuLrku4DkuYjopoHmiLTlnKjml6DlkI3mjIdgIC8gYOaIv+S4u+S7u+aYr+WTquS4qmDvvInlkYjoh6rnhLbnlKjmiLfnibnlvoHjgIINCg0K5b2x5ZON77yaUGhhc2UgVC0wLjUg55qE44CM5LiN5a2Y5Zyo5Lu75L2V5pyJ5py657uI56uv55So5oi35rWB6YeP44CN5LiO44CM4omlMzAg55yf5a6e6K+35rGC6ZiI5YC85pyq6L6+44CN5Lik6aG557uT6K6677yMDQrlhbbmoLfmnKzlvZLnsbvkvp3mja7pnIDkurrlt6Xph43mlrDnoa7orqTjgIIqKuacrOaKpeWRiuS4jeaTheiHquaUueWIpOi6q+S7vSoq77yI5Y+v6IO95piv56ys5LqM5Y+w6K6+5aSHL+esrOS6jOi0puWPt+iHqua1i++8ie+8jA0K5L2G6K6k5a6a44CM5Y2V57CH44CN6L+Z5LiA5pe26Ze054m55b6B5o+P6L+w5LiO5pWw5o2u5LiN56ym44CCDQoNCiMjIyBPQlMtMDA5LULvvZxPQlMtMDA0LUTvvIjnrZTmoYjotKjph4/kuI3lj6/mtYvvvInlupTkuojmkqTplIDvvIhQMu+8iQ0KDQpDUi0wMDIgIzAwNCDop4Llr5/mnJ/nmbvorrDnmoQgT0JTLTAwNC1EIOS+neaNruaYr+OAjG9ic2VydmFiaWxpdHlfbG9ncyDlj6rokL0gYW5zd2VyX2lkIOS4jeiQveato+aWh+OAjeOAgg0K5L2GIGBsb2dzYCDpm4blkIgqKuS4gOebtCoq5a2Y5pyJ5a6M5pW0IGBhbnN3ZXJgIOato+aWh++8iDMwMi8zMDIg6Z2e56m677yJ44CCDQrihpIgKirnrZTmoYjotKjph4/lj6/op4LmtYvog73lipvku47mnKrkuKLlpLEqKu+8jOS6lOauteW8j+WujOaVtOeOhyAvIOW8leivgeWHhuehruaApyAvIOW5u+inieeOh+Wdh+WPr+eri+WNs+WfuuS6jiBgbG9nc2Ag6K6h566X44CCDQrihpIg6L+e5bim5b2x5ZON77yaQ1ItMDA377yI562U5qGI6LSo6YeP5Y+v6KeC5rWL5oCn5bu66K6+77yJ55qE56uL6aG555CG55Sx6ZyA6YeN5paw6K+E5Lyw44CCDQoNCiMjIyBPQlMtMDA5LUPvvZxgbG9nc2Ag6ZuG5ZCI6ZqQ56eB5pWe5Y+j77yM6IyD5Zu05aSn5LqOIE9CUy0wMDQtQ++8iFAx77yMT1BFTu+8iQ0KDQp8IOmhuSB8IGBsb2dzYCDlrp7mtYsgfA0KfC0tLXwtLS18DQp8IOaYjuaWhyBvcGVuaWTvvIhgb2Ag5byA5aS0IDI4IOWtl+espu+8iSB8ICoqMTM4IC8gMzAyKiogfA0KfCBgdW5rbm93bmAgfCAxNjQgLyAzMDIgfA0KfCDmmI7mlofnlKjmiLfmj5Dpl64gYG1lc3NhZ2VgIHwgMzAyIC8gMzAyIHwNCnwgKirmmI7mlocgQUkg562U5qGI5q2j5paHIGBhbnN3ZXJgKiogfCAqKjMwMiAvIDMwMioqIHwNCnwg5piO5paH5omL5py65Y+3IC8g6Lqr5Lu96K+BIC8g6YKu566x5q2j5YiZ5ZG95LitIHwgMCAvIDAgLyAwIOKchSB8DQoNCkNSLTAwNu+8iOWPr+ingua1i+aVsOaNrumakOengeWPo+W+hOe7n+S4gOayu+eQhu+8ieW9k+WJjeiMg+WbtOS7heimhuebliBgb2JzZXJ2YWJpbGl0eV9sb2dzYOOAgg0KKipgbG9nc2Ag55qE5pWe5Y+j5pu05aSnKirigJTigJTlroPmmK/llK/kuIDlkIzml7blrZjmnInjgIzmmI7mlofouqvku70gKyDmmI7mlofmj5Dpl64gKyDmmI7mloflrozmlbTnrZTmoYjjgI3nmoTpm4blkIjvvIwNCuato+aYryBDUi0wMDYgwqdHLTLjgIzmoIfor4bkuI7ljp/mloflkIzooajlhbHlrZjjgI3nmoTmnIDkuKXph43lrp7kvovjgIINCuW7uuiuriBDUi0wMDYg56uL6aG55pe25bCGIGBsb2dzYO+8iDMwMiDmnaHvvInnurPlhaXlrZjph4/lpITnva7ojIPlm7TjgIINCg0KPiDpmYTvvJpgcGlpU2NydWIubWFzaygpYCDnprvnur/lrp7mtYvlip/og73mraPluLgNCj4g77yIYDEzODEyMzQ1Njc44oaSKioqYOOAgWAxMTAxMDExOTkwMDEwMTEyMzTihpIqKipg44CBYGEuYkB0ZXN0LmNvbeKGkioqKmDjgIFgNjIyMjAyMTIzNDU2Nzg5MDEyM+KGkioqKmDvvIwNCj4g5q2j5bi45paH5pys5LiN6K+v5Lyk77yJ44CCMCDlkb3kuK3or7TmmI7nlKjmiLfku47mnKrmj5DkuqTov4cgUElJ77yM6Z2e6ISx5pWP5aSx5pWI44CCDQoNCiMjIyBPQlMtMDA5LUTvvZxgc2VjdXJpdHlfZXZlbnRzYCDlh7rnjrDmlrDplJnor6/noIEgNDAwMDPvvIhQMe+8jE9QRU7vvIzlvZIgQ1ItMDA177yJDQoNCmBzZWN1cml0eV9ldmVudHNgIOaAuyA0NiDmnaHvvIjlhajpg6ggMjAyNi0wOC0wNu+8ie+8jGBlcnJvckNvZGVgIOWIhuW4g++8mg0KDQp8IGVycm9yQ29kZSB8IGVyclR5cGUgfCBuIHwNCnwtLS18LS0tfC0tLXwNCnwgKiotNTAxMDAxKiogfCBhcGlfZXJyb3IgfCAyNSB8DQp8ICoqNDAwMDMqKiB8IGFwaV9lcnJvciB8ICoqMTYqKiB8DQp8IO+8iOaXoCBlcnJvckNvZGXvvIxIb3RmaXgjMDA0IOWJjeeahOaXp+iusOW9le+8iSB8IGFwaV9lcnJvciB8IDUgfA0KDQpgNDAwMDNgIOaYryBDUi0wMDIgIzAwNCDop4Llr5/mnJ/ku47mnKrlh7rnjrDov4fnmoTmlrDnrb7lkI3jgIINCuS7iuaXpSAyMCDmrKHor7fmsYLlhajpg6jkuqfnlJ/lronlhajkuovku7Yg4oaSICoqbXNnU2VjQ2hlY2sg5Y+v55So546H5LuN5Li6IDAl77yMT0JTLTAwNC1BIOe7tOaMgSBPUEVOKirjgIINCuWxniBDUi0wMDUg6IyD5Zu077yM5pys5qyh5LuF55m76K6w77yM5LiN5L2c5oqA5pyv5a6a5oCn44CB5LiN5aSE572u44CCDQoNCi0tLQ0KDQojIyA2LiDlhrvnu5PotYTkuqflrozmlbTmgKfvvIjor4rmlq3liY3lkI7vvIkNCg0KfCDotYTkuqcgfCDlrp7mtYsgU0hBMjU2IHwg5Z+657q/IHwg5Yik5a6aIHwNCnwtLS18LS0tfC0tLXwtLS18DQp8IGBjb3JwdXMuanNvbmAgfCBgZGIwMWZiYzkyMDY0Y2JlYTNhNjY4OGE5ODE2MGI2YTcwYzllMTUwMjU5YjU0MDYzYzhlMmU5Njk3NGVhYmM4YmAgfCBPLTAuNiB8IOKchSBNQVRDSCB8DQp8IGBpbnRlbnQuanNgIHwgYDc2NWFkMTM4ZWM2OGMwZjE1OWM2Zjc1YTYwZTUyNjhiZWIwMmZiYTE1MmY2ZDUzZGJkYzUzOWJhMTU2MGNhMzhgIHwgTy0wLjYgfCDinIUgTUFUQ0ggfA0KfCBga25vd2xlZGdlUm91dGVyLmpzYCB8IGA4NDg5MDg0NDVkYmI1ZWE5M2E2ZjUyNzc1ZGMzYzhlNjkyMmZmOTcxZDZjZWUxMTU1NDdmMjM2ZmZlZDBhOTM1YCB8IE8tMC42IHwg4pyFIE1BVENIIHwNCnwgYHJhZy5qc2AgfCBgNGZiMmRjYTQyNTk3YTI3NzkxMTQ3MmEzY2YxZTg0MTFmOWY1YzA4OTg4YzI3MTJlMzhkMjYwZDU4ZmMyYjUwM2AgfCBDUi0wMDgg5bey5om55YeG5oCBIHwg4pyFIE1BVENIIHwNCnwgYGluZGV4LmpzYO+8iOmdnuWGu+e7k++8jOWPgueFp++8iSB8IGA4OGNkM2RmZjNkYjkyMTc5NTBhNjdhYzQxMjRkZjFkMjliY2Q5MDViMzgzODQ5NzhjMDI4Zjg1YzhkMDVlOGE0YCB8IEhvdGZpeCMwMDQg6YOo572y5oCBIHwg4pyFIOacquWPmCB8DQoNCioq5pys5qyh6K+K5pat6Zu25paH5Lu25YaZ5YWl77yMU0hBIOaBkuWumuOAgioqDQoNCi0tLQ0KDQojIyA3LiDlr7kgQ1ItMDA5IOWQjue7remYtuauteeahOWIpOWumg0KDQp8IOmYtuautSB8IOWOn+WumuWGheWuuSB8IOWIpOWumiB8DQp8LS0tfC0tLXwtLS18DQp8IOmYtuautSAwIHwg5Y+q6K+76K+K5patIHwg4pyFICoq5bey5a6M5oiQKiogfA0KfCDpmLbmrrUgMSB8IOaBouWkjSBsZWdhY3kgbG9ncyDlhpnlhaUgfCDim5QgKirml6Dlr7nosaHlj6/kv67lpI0g4oaSIOW6lOS9nOW6nyoqIHwNCnwg6Zi25q61IDIgfCDmtYvor5Xpqozor4EgfCDim5Qg5L6d6ZmE6Zi25q61IDEg4oaSIOS4gOW5tuS9nOW6nyB8DQp8IOmYtuautSAzIHwg6YOo572yIHwg4puUIOS+nemZhOmYtuautSAxIOKGkiDkuIDlubbkvZzlup8gfA0KDQojIyMg5Li65L2V5LiN5bqUIumhuuaJi+aUueS4gOaUuSINCg0K5Y2z5L2/5oqK5L+u5pS55Y6L57yp5Yiw44CM57uZIGBsb2dDaGF0KClgIOeahCBgY2F0Y2hgIOihpeS4gOadoeabtOivpue7hueahOaXpeW/l+OAjei/meenjeacgOWwj+WwuuW6pu+8jOS5nyoq5LiN5bu66K6u546w5Zyo5YGaKirvvJoNCg0KMS4gKirml6DnvLrpmbfljbPml6DmlLbnm4oqKu+8muWGmeWFpeaIkOWKn+eOhyAxMDAl77yM5aKe5by66ZSZ6K+v5pel5b+X5o2V6I635LiN5Yiw5Lu75L2V5Lic6KW/44CCDQoyLiAqKui/neWPjeacrOasoeaOiOadg+esrCA3IOadoSoq77yaYGxvZ3NgIOWGmeWFpeWcqOeUqOaIt+S4u+ivt+axgueahOWQjOatpeagiOS4iu+8iGBpbmRleC5qczozMjBgIOacqiBhd2FpdCDkvYblkIwgdGljayDlj5HotbfvvInvvIwNCiAgIOS7u+S9leaUueWKqOmDveaYr+WvuSoq5b2T5YmN5YGl5bq355qEKirkuLvmtYHnqIvms6jlhaXpo47pmanjgIINCjMuICoq5Lya5rGh5p+T6KeC5a+f5Z+657q/KirvvJpgbG9nc2Ag5pivIFBoYXNlIFQtMC41IOWUr+S4gOeahOetlOahiOaWh+acrOa6kO+8jOS5n+aYryBDUi0wMDYg5r2c5Zyo55qE5a2Y6YeP6K+B5o2u44CCDQogICDlnKggQ1ItMDA2IOeri+mhueWJjeinpueisOivpembhuWQiOeahOWGmeWFpeWPo+W+hO+8jOS4juW3suS4i+i+vueahOOAjG9ic2VydmFiaWxpdHlfbG9ncyDlj6ror7vlhrvnu5Pku6TjgI3lkIznsbvnsr7npZ7nm7jmgpbjgIINCjQuICoq5q2j56Gu55qE5Yqo5L2c5Zyo5Yir5aSEKirvvJrnnJ/mraPpnIDopoHkv67nmoTmmK8qKuinguWvn+aWueazlSoq77yI5p+l6K+i5b+F6aG75pi+5byPIGBzb3J0OiB7Y3JlYXRlVGltZTogLTF9YO+8ie+8jA0KICAg6ICM5LiN5piv6KKr6KeC5a+f55qE57O757uf44CCDQoNCiMjIyDlu7rorq7nmoQgQ1ItMDA5IOe7k+ahiOi3r+W+hO+8iOS+m+ijgeWGs++8iQ0KDQp8IOmAiemhuSB8IOWGheWuuSB8DQp8LS0tfC0tLXwNCnwgKipB77yI5o6o6I2Q77yJKiogfCBDUi0wMDkg5LulICoqVk9JRCDigJQg5YmN5o+Q5LiN5oiQ56uL77yI6K+v5oql77yJKiog5b2S5qGj44CC5ZCM5q2l5L+u6K6iIGBQaGFzZVQtMC41LU9ic2VydmF0aW9uUmVwb3J0Lm1kYCBMMzAvTDQ5L0wxMTktMTIyIOS4jiBMNTEg55qE6ZSZ6K+v57uT6K6677yM5pKk6ZSAIE9CUy0wMDQtRO+8jOW5tuaKiiBgbG9nc2Ag6L+95Yqg6L+bIENSLTAwNiDlrZjph4/msrvnkIbojIPlm7TjgIIqKumbtuS7o+eggeaUueWKqOOAgioqIHwNCnwgQiB8IENSLTAwOSDovazlnovkuLrjgIzop4Llr5/mlrnms5XlrabliqDlm7rjgI3vvJrmsonmt4DkuIDku73lj5bmlbAgU09Q77yI5by65Yi2IGBzb3J0YCArIOS4iembhuWQiOWvuei0piArIOWFqOmbhuiBmuWQiOS8mOWFiOS6jiBgZmluZCtsaW1pdGDvvInvvIzku43kuLoqKuaWh+aho+e6pyoq5Lqn5Ye677yM6Zu25Luj56CB5pS55Yqo44CCIHwNCnwgQyB8IOe7tOaMgeWOnyBDUi0wMDkg5pa55qGIIELvvIjmlrDlu7rni6znq4vnrZTmoYjovajov7npk77ot6/vvInjgIIqKuS9humhu+mHjeWGmeeri+mhueeQhueUsSoq4oCU4oCU5a6D5LiN5YaN5pivIuaVhemanOaBouWkjSLvvIzogIzmmK8i5p625p6E5pS56ImvIu+8jOS8mOWFiOe6p+W6lOaYvuiRl+S4i+iwg++8jOS4lOS4jiBDUi0wMDYg6ZqQ56eB55uu5qCH55u05o6l5Yay56qB77yI5ZCMIENSLTAwN++8ieOAgiB8DQoNCi0tLQ0KDQojIyA4LiDnuqrlvovoh6rmo4ANCg0KfCDnuqbmnZ8gfCDnirbmgIEgfA0KfC0tLXwtLS18DQp8IOS4jeS/ruaUueWGu+e7k+i1hOS6p++8iGNvcnB1cy9pbnRlbnQva25vd2xlZGdlUm91dGVyL3JhZ++8iSB8IOKchSBTSEEgNC80IOaBkuWumiB8DQp8IOS4jeaUueWPmCBBSSDlm57nrZTpgLvovpEgLyBSQUcg5qOA57Si6YC76L6RIC8gUHJvbXB0IHwg4pyFIOmbtuS7o+eggeWGmeWFpSB8DQp8IOS4jeW9seWTjeeUqOaIt+S4u+a1geeoiyB8IOKchSDmnKogaW52b2tlIOeUn+S6p+WHveaVsOOAgeacqumDqOe9suOAgeacquaUueeOr+Wig+WPmOmHjyB8DQp8IOS4jei/m+WFpSBQaGFzZSBUMSB8IOKchSB8DQp8IOS4jeeMnOa1i+WOn+WboCB8IOKchSDlhajpg6jnu5PorrrlnYfmnInlj6/lpI3njrDnmoTmn6Xor6Llrp7or4HvvJvor6/liKTmnLrliLblt7Llrp7pqozlpI3njrAgfA0KfCDovpPlh7ror4rmlq3miqXlkYrlkI7lho3kv67mlLkgfCDinIUgKirlt7LlgZzmraLvvIznrYnlvoXkurrlt6Xoo4HlhrMqKiB8DQp8IOaVsOaNruW6k+WGmeWFpSB8IOKchSAqKjAg5qyhKirvvIjku4UgUVVFUlkgLyBDT01NQU5EIOivu+WRveS7pO+8iSB8DQoNCi0tLQ0KDQojIyDpmYTlvZUgQSDCtyDor4rmlq3lkb3ku6TmuIXljZXvvIjlhajpg6jlj6ror7vvvIzlj6/lpI3njrDvvIkNCg0KYGBgYmFzaA0KIyDpm4blkIjlrZjlnKjmgKcNCnRjYiBkYiBub3NxbCBleGVjdXRlIC0tY29tbWFuZCAnW3siVGFibGVOYW1lIjoibG9ncyIsIkNvbW1hbmRUeXBlIjoiQ09NTUFORCIsIkNvbW1hbmQiOiJ7XCJsaXN0Q29sbGVjdGlvbnNcIjoxfSJ9XScNCg0KIyDorqHmlbANCnRjYiBkYiBub3NxbCBleGVjdXRlIC0tY29tbWFuZCAnW3siVGFibGVOYW1lIjoibG9ncyIsIkNvbW1hbmRUeXBlIjoiQ09NTUFORCIsIkNvbW1hbmQiOiJ7XCJjb3VudFwiOlwibG9nc1wifSJ9XScNCg0KIyDjgJDlhbPplK7jgJHmnIDmlrDorrDlvZUg4oCU4oCUIOW/hemhu+aYvuW8jyBzb3J077yM5ZCm5YiZ5b6X5Yiw6Ieq54S25bqP5YmNIE4g5p2hDQp0Y2IgZGIgbm9zcWwgZXhlY3V0ZSAtLWNvbW1hbmQgJ1t7IlRhYmxlTmFtZSI6ImxvZ3MiLCJDb21tYW5kVHlwZSI6IlFVRVJZIiwiQ29tbWFuZCI6IntcImZpbmRcIjpcImxvZ3NcIixcImZpbHRlclwiOnt9LFwic29ydFwiOntcImNyZWF0ZVRpbWVcIjotMX0sXCJsaW1pdFwiOjN9In1dJw0KDQojIOaMieWkqeWIhuW4g++8iOaOqOiNkOS9nOS4uiLmmK/lkKblgZzmu54i55qE5ZSv5LiA5Yik5o2u77yJDQp0Y2IgZGIgbm9zcWwgZXhlY3V0ZSAtLWNvbW1hbmQgJ1t7IlRhYmxlTmFtZSI6ImxvZ3MiLCJDb21tYW5kVHlwZSI6IkNPTU1BTkQiLCJDb21tYW5kIjoie1wiYWdncmVnYXRlXCI6XCJsb2dzXCIsXCJwaXBlbGluZVwiOlt7XCIkZ3JvdXBcIjp7XCJfaWRcIjp7XCIkZGF0ZVRvU3RyaW5nXCI6e1wiZm9ybWF0XCI6XCIlWS0lbS0lZFwiLFwiZGF0ZVwiOlwiJGNyZWF0ZVRpbWVcIixcInRpbWV6b25lXCI6XCJBc2lhL1NoYW5naGFpXCJ9fSxcIm5cIjp7XCIkc3VtXCI6MX0sXCJtYXhUXCI6e1wiJG1heFwiOlwiJGNyZWF0ZVRpbWVcIn19fSx7XCIkc29ydFwiOntcIl9pZFwiOjF9fV0sXCJjdXJzb3JcIjp7fX0ifV0nDQoNCiMg57Si5byVIC8g6ZuG5ZCI57uf6K6hIC8g5bqT57uf6K6hDQouLi4geyJsaXN0SW5kZXhlcyI6ImxvZ3MifSAvIHsiY29sbFN0YXRzIjoibG9ncyJ9IC8geyJkYlN0YXRzIjoxfQ0KYGBgDQoNCiMjIOmZhOW9lSBCIMK3IOWPluaVsOe6quW+i++8iOacrOasoei4qeWdkeayiea3gO+8iQ0KDQoxLiAqKuWIpOaWrembhuWQiOaYr+WQpiLlgZzmu54i77yM56aB5q2i5L2/55SoIGBmaW5kYCArIGBsaW1pdGDjgIIqKiDml6AgYHNvcnRgIOaXtui/lOWbnuiHqueEtuW6j++8iOacgOaXp+S8mOWFiO+8ie+8jA0KICAgYGxpbWl0YCDkvJrliLbpgKAi5pWw5o2u5YGc5Zyo5p+Q5Liq5Y+k5pep5pel5pyfIueahOW5u+inieOAgioq5b+F6aG755SoIGAkZ3JvdXBgIOWFqOmbhuiBmuWQiO+8jOaIluaYvuW8jyBgc29ydDp7Y3JlYXRlVGltZTotMX1g44CCKioNCjIuICoq5Y2V6ZuG5ZCI57uT6K665b+F6aG75Lqk5Y+J5a+56LSm44CCKiogYGxvZ3NgIC8gYHF1ZXN0aW9uX2xvZ3NgIC8gYG9ic2VydmFiaWxpdHlfbG9nc2Ag55Sx5ZCM5LiA5qyh6K+35rGC55qE55u46YK75Luj56CB6KGM5YaZ5YWl77yMDQogICDku7vkuIDnu5Porrroi6XkuI3og73ooqvlj6blpJbkuKTkuKrpm4blkIjnmoTpgJDml6XmlbDmja7kvZDor4HvvIzljbPlupTliKTlrprkuLrop4LmtYvor6/lt67ogIzpnZ7ns7vnu5/mlYXpmpzjgIINCjMuICoqIueWkeS8vCLkuI3lvpfov5vlhaXkuIvmuLjnq4vpobnliY3mj5DjgIIqKiDmnKrpqozor4HnmoTmjqjmlq3vvIjlpoIgTDEyMOOAjOeWkeS8vOmbhuWQiOmFjeminS/ntKLlvJUv5p2D6ZmQ6ZSZ6K+v44CN77yJDQogICDoi6XooqvlkI7nu60gQ1Ig5b2T5L2c5pei5a6a5LqL5a6e57un5om/77yM5Lya5pS+5aSn5oiQ5LiA5Liq5a6M5pW055qE44CB5LiN5a2Y5Zyo55qE5bel56iL6aG555uu44CCDQo0LiDov4fmu6TmnaHku7bph4znmoTml6XmnJ/nlKggYHsiJGRhdGUiOnsiJG51bWJlckxvbmciOiI8bXM+In19YO+8m+WGmeaIkCBgeyIkZGF0ZSI6IklTT+Wtl+espuS4siJ9YCDkvJrooqsNCiAgIGBSdW5Db21tYW5kc2Ag5Yik5Li65Y+C5pWw6Z2e5rOV44CCDQoNCi0tLQ0KDQoq5oql5ZGK5a6MIOKAlCBDUi0wMDkg6Zi25q61IDAg57uT5p2f77yM5omn6KGM5bey5YGc5q2i77yM562J5b6F5Lq65bel6KOB5Yaz44CCKg0K
+﻿# CR-009 阶段 0 · 只读诊断报告
+
+| 项 | 值 |
+|---|---|
+| 编号 | CR-009-DIAG-001 |
+| 角色 | Release Manager + AI Reliability Engineer |
+| 执行时刻 | 2026-08-06 20:33 – 20:45 CST |
+| 授权范围 | CR-009 阶段 0（只读诊断，禁止修改） |
+| 环境 | `YOUR_CLOUD_ENV_ID` / 库 `tnt-hd61y8gd4` |
+| 写入动作 | **0**（全程仅 QUERY / COMMAND 读命令；未 invoke 生产函数；未部署；未改任何代码） |
+| 结论 | ⛔ **NO DEFECT FOUND — CR-009 立项前提不成立** |
+
+---
+
+## 0. 执行摘要（先给结论）
+
+**`logs` 集合写入链路从未失效。它现在是健康的，并且从未中断过。**
+
+- `logs` 集合存在，`readOnly: false`，总记录 **302** 条。
+- 最新一条写入时间 **2026-08-06 19:59:51 CST**——即本次诊断执行前 **34 分钟**。
+- `answer` 字段非空率 **302 / 302 = 100%**，最大长度 1000 字符（`slice(0,1000)` 正常生效）。
+- 今日（08-06）`logs` / `question_logs` / `observability_logs` 三集合写入数 **20 / 20 / 20，完全一致**。
+
+Phase T-0.5 观察报告中「`logs` 集合自 ~2026-07-23 起静默失效，约 14 天未更新」的判断，
+**是一次查询方法学误判（false positive），不是生产缺陷。** 误判机制已在 §3 精确复现。
+
+因此：**阶段 1「恢复 legacy logs 写入」没有可修复对象。**
+按本次授权「输出诊断报告后再修改」「禁止猜测原因」两条原则，**执行在此停止，等待人工裁决。**
+
+---
+
+## 1. 诊断项逐条应答（对照授权清单）
+
+| # | 授权要求核查项 | 判定 | 实证 |
+|---|---|---|---|
+| 1 | logs 集合是否存在 | ✅ **存在** | `listCollections` 返回 `{"name":"logs","type":"collection","ns":"tnt-hd61y8gd4.logs"}` |
+| 2 | 写权限 | ✅ **可写** | `info.readOnly = false`；且 302 条记录中 20 条产生于今日，写入实证成立 |
+| 3 | 集合状态 | ✅ **正常** | `collStats`：`count=302`、`size=646,272B`、`storageSize=487,424B`、`avgObjSize=2,139B`、`capped=false` |
+| 4 | `add()` 返回错误 | ✅ **无错误** | 三集合今日写入数 20/20/20 完全对齐（§4），不存在丢写；无失败可捕获 |
+| 5 | 云数据库权限 | ✅ **正常** | 同库 `question_logs` / `observability_logs` / `security_events` 均写入成功，且 `logs` 自身持续写入 |
+| 6 | 配额限制 | ✅ **远未触及** | `dbStats`：13 集合 / 699 文档 / `dataSize ≈ 0.95 MB` / `storageSize ≈ 0.87 MB` |
+| 7 | 索引异常 | ✅ **正常** | `logs` 索引 = `_id_` + `_openid_1`(background, sparse:false)，与 `question_logs` 完全同构 |
+| 8 | 字段限制 | ✅ **正常** | `answer` 最大 1000 / 均值 658；`message` 最大 202。均在 `slice(0,1000)` 约束内，无超限截断异常 |
+
+**八项全部通过。不存在任何需要修复的故障点。**
+
+---
+
+## 2. 硬证据：logs 按天写入分布（CST）
+
+```
+=== logs (总 302) ===                  === question_logs (总 263) ===
+  2026-07-21   n=15   last 23:31:06      (集合尚未创建)
+  2026-07-22   n=13   last 22:54:46      (集合尚未创建)
+  2026-07-23   n=10   last 20:07:50      (集合尚未创建)
+  2026-07-24   n=1    last 17:16:02      (集合尚未创建)
+  2026-07-26   n=12   last 21:45:44      2026-07-26   n=12   last 21:45:44
+  2026-07-27   n=6    last 16:55:14      2026-07-27   n=6    last 16:55:14
+  2026-07-28   n=144  last 20:51:04      2026-07-28   n=144  last 20:51:04
+  2026-07-29   n=13   last 11:40:23      2026-07-29   n=13   last 11:40:23
+  2026-07-31   n=14   last 22:32:35      2026-07-31   n=14   last 22:32:35
+  2026-08-01   n=2    last 16:40:16      2026-08-01   n=2    last 16:40:16
+  2026-08-02   n=37   last 17:25:24      2026-08-02   n=37   last 17:25:24
+  2026-08-04   n=4    last 23:21:59      2026-08-04   n=4    last 23:21:59
+  2026-08-05   n=11   last 16:28:14      2026-08-05   n=11   last 16:28:14
+  2026-08-06   n=20   last 19:59:51      2026-08-06   n=20   last 19:59:51
+```
+
+**零丢写的算术证明：**
+
+```
+logs 总数 302
+− logs 独有的早期时段（question_logs 集合创建前：07-21 至 07-24）
+  15 + 13 + 10 + 1 = 39
+= 263
+question_logs 总数 = 263          ✅ 完全相等
+```
+
+自 `question_logs` 存在起的**每一天**，`logs` 与 `question_logs` 的条数**逐日严格相等**。
+`logChat()` 与 `logQuestion()` 是 `index.js:320` / `index.js:321` 相邻两行的同构调用——
+若 `logChat()` 曾失效，两列数字不可能连续 10 天位位吻合。
+
+> 07-25 / 07-30 / 08-03 三天的缺失是**零流量日**，非丢写：`question_logs` 与
+> `observability_logs` 在同样日期同样为空。
+
+---
+
+## 3. 根因：Phase T-0.5 的查询方法学误判（已精确复现）
+
+Phase T-0.5 报告原文（`docs/PhaseT-0.5-ObservationReport.md`）：
+
+- L30：`` `logs` | ⚠️ **停滞**：最新记录 ≈ 2026-07-23，约 14 天未更新 ``
+- L119：`**`logs` 集合（唯一答案文本源）自 ~2026-07-23 起静默失效。**`
+- L120：`写入被 try/catch 静默吞掉（**疑似**集合配额/索引/权限错误）`
+
+注意 L120 用词是**「疑似」**——该结论从未被验证，直接进入了 CR-009 的立项前提。
+
+### 复现实验
+
+对 `logs` 执行**不带 `sort` 的 `find`**（返回自然序 / 插入序，即最旧在前），逐档提高 `limit`：
+
+| limit | 实际返回区间 | 若只看这批数据得出的「最后写入时间」 |
+|---|---|---|
+| 10 | 07-21 22:46:21 → 07-21 23:14:06 | 07-21 23:14:06 |
+| 20 | 07-21 22:46:21 → 07-22 20:52:59 | 07-22 20:52:59 |
+| 30 | 07-21 22:46:21 → 07-23 11:05:56 | 07-23 11:05:56 |
+| **38** | 07-21 22:46:21 → **07-23 20:07:50** | **07-23 20:07:50** ← 与报告结论逐秒吻合 |
+| 50 | 07-21 22:46:21 → 07-26 21:44:26 | 07-26 21:44:26 |
+
+**`limit≈30–38` 的无序查询会精确产出「最新记录 ≈ 2026-07-23」这一结论。**
+
+### 定性
+
+| 项 | 结论 |
+|---|---|
+| 缺陷类型 | **观察工具缺陷**，非生产系统缺陷 |
+| 直接原因 | `tcb db nosql execute` 的 `find` 无 `sort` 时返回自然序（最旧优先），叠加 `limit` 截断，取到的"最大 createTime"是**前 N 条中的最大值**，而非**全集最大值** |
+| 为何未被发现 | 结论以「疑似」写入报告后，未做交叉验证（未与 `question_logs` 逐日对账，未按 `createTime desc` 复查） |
+| 与 CR-008 关系 | **无因果**（原判断即已成立，此处进一步确认：CR-008 前后 `logs` 均正常写入） |
+| 代码层面 | `logChat()` 实现无缺陷；`try/catch` 从未吞掉过真实错误——**它什么错误都没接到** |
+
+---
+
+## 4. 交叉验证：三条写入链路今日完全同步
+
+| 集合 | 今日(08-06)条数 | 最后写入 |
+|---|---|---|
+| `logs` | **20** | 19:59:51 |
+| `question_logs` | **20** | 19:59:51 |
+| `observability_logs` | **20** | 19:59:51 |
+
+今日 20 条明细（`answer` 长度实测，证明答案文本完整落库）：
+
+```
+ 时间(CST)   openid        mode         ansLen  cites  message
+ 13:54:41    unknown       model          332     0    你好
+ 13:55:31    unknown       model          524     3    我最近总是焦虑，感觉人生没有方向…
+ 15:15:06    YOUR_ADMIN_OPENID    model          294     0    你好
+ 15:15:24    YOUR_ADMIN_OPENID    capability      66     0    现在是什么时间
+ 15:15:40    YOUR_ADMIN_OPENID    capability     113     0    范县天气怎么样
+ 15:16:08    YOUR_ADMIN_OPENID    model          391     0    房主任是谁
+ 15:16:42    YOUR_ADMIN_OPENID    model          512     0    脱口秀演员房主任
+ 18:01:55    unknown       model          446     0    房主任是谁              ← CR-008 验证探针
+ 18:02:29    unknown       model          521     0    某小镇民俗节具体是哪天    ← CR-008 验证探针
+ 18:02:37    unknown       model          310     0    《未出版书X》的作者是谁   ← CR-008 验证探针
+ 18:02:46    unknown       model          500     0    隔壁老王的生日是哪天      ← CR-008 验证探针
+ 18:02:53    unknown       model          372     0    2024年某县城马拉松冠军是谁 ← CR-008 验证探针
+ 18:03:03    unknown       model          417     3    子曰学而时习之不亦说乎…   ← CR-008 验证探针
+ 18:03:14    unknown       model          561     3    道德经如何看待无为        ← CR-008 验证探针
+ 18:03:27    unknown       model          609     3    什么是中庸之道           ← CR-008 验证探针
+ 18:03:40    unknown       model          532     3    如何面对失败             ← CR-008 验证探针
+ 18:04:32    unknown       model          483     0    我们公司王总最近在忙什么   ← CR-008 验证探针
+ 19:58:57    obmZT3VLkR    capability      66     0    现在是什么时间
+ 19:59:17    obmZT3VLkR    model          482     0    戒指为什么要戴在无名指
+ 19:59:51    obmZT3VLkR    model          522     0    房主任是哪个
+```
+
+**这 20 条全部带完整答案正文。CR-008 的 10 条真机验证轨迹（18:01–18:04）也全部完整留存。**
+
+---
+
+## 5. 连带发现（登记，本次不处置）
+
+### OBS-009-A｜Phase T-0.5「零有机流量」结论存疑（P1，OPEN）
+
+T-0.5 将 openid `obmZT3VLkRosMH6f0HAy2rDnMa9g` 定性为「SENTINEL 基准，2026-08-02 单簇」。
+实测其在 `logs` 中的按天分布为：
+
+```
+2026-07-28  n=2      2026-08-01  n=2
+2026-07-29  n=12     2026-08-02  n=21
+2026-07-31  n=8      2026-08-06  n=3   ← 今晚 19:58–19:59
+```
+
+**跨 10 天、6 个独立日期、共 48 条，不是「单簇」。** 今晚 19:58 仍在活跃，
+且提问形态（`现在是什么时间` / `戒指为什么要戴在无名指` / `房主任是哪个`）呈自然用户特征。
+
+影响：Phase T-0.5 的「不存在任何有机终端用户流量」与「≥30 真实请求阈值未达」两项结论，
+其样本归类依据需人工重新确认。**本报告不擅自改判身份**（可能是第二台设备/第二账号自测），
+但认定「单簇」这一时间特征描述与数据不符。
+
+### OBS-009-B｜OBS-004-D（答案质量不可测）应予撤销（P2）
+
+CR-002 #004 观察期登记的 OBS-004-D 依据是「observability_logs 只落 answer_id 不落正文」。
+但 `logs` 集合**一直**存有完整 `answer` 正文（302/302 非空）。
+→ **答案质量可观测能力从未丢失**，五段式完整率 / 引证准确性 / 幻觉率均可立即基于 `logs` 计算。
+→ 连带影响：CR-007（答案质量可观测性建设）的立项理由需重新评估。
+
+### OBS-009-C｜`logs` 集合隐私敞口，范围大于 OBS-004-C（P1，OPEN）
+
+| 项 | `logs` 实测 |
+|---|---|
+| 明文 openid（`o` 开头 28 字符） | **138 / 302** |
+| `unknown` | 164 / 302 |
+| 明文用户提问 `message` | 302 / 302 |
+| **明文 AI 答案正文 `answer`** | **302 / 302** |
+| 明文手机号 / 身份证 / 邮箱正则命中 | 0 / 0 / 0 ✅ |
+
+CR-006（可观测数据隐私口径统一治理）当前范围仅覆盖 `observability_logs`。
+**`logs` 的敞口更大**——它是唯一同时存有「明文身份 + 明文提问 + 明文完整答案」的集合，
+正是 CR-006 §G-2「标识与原文同表共存」的最严重实例。
+建议 CR-006 立项时将 `logs`（302 条）纳入存量处置范围。
+
+> 附：`piiScrub.mask()` 离线实测功能正常
+> （`13812345678→***`、`110101199001011234→***`、`a.b@test.com→***`、`6222021234567890123→***`，
+> 正常文本不误伤）。0 命中说明用户从未提交过 PII，非脱敏失效。
+
+### OBS-009-D｜`security_events` 出现新错误码 40003（P1，OPEN，归 CR-005）
+
+`security_events` 总 46 条（全部 2026-08-06），`errorCode` 分布：
+
+| errorCode | errType | n |
+|---|---|---|
+| **-501001** | api_error | 25 |
+| **40003** | api_error | **16** |
+| （无 errorCode，Hotfix#004 前的旧记录） | api_error | 5 |
+
+`40003` 是 CR-002 #004 观察期从未出现过的新签名。
+今日 20 次请求全部产生安全事件 → **msgSecCheck 可用率仍为 0%，OBS-004-A 维持 OPEN**。
+属 CR-005 范围，本次仅登记，不作技术定性、不处置。
+
+---
+
+## 6. 冻结资产完整性（诊断前后）
+
+| 资产 | 实测 SHA256 | 基线 | 判定 |
+|---|---|---|---|
+| `corpus.json` | `db01fbc92064cbea3a6688a98160b6a70c9e150259b54063c8e2e96974eabc8b` | O-0.6 | ✅ MATCH |
+| `intent.js` | `765ad138ec68c0f159c6f75a60e5268beb02fba152f6d53dbdc539ba1560ca38` | O-0.6 | ✅ MATCH |
+| `knowledgeRouter.js` | `848908445dbb5ea93a6f52775dc3c8e6922ff971d6cee115547f236ffed0a935` | O-0.6 | ✅ MATCH |
+| `rag.js` | `4fb2dca42597a277911472a3cf1e8411f9f5c08988c2712e38d260d58fc2b503` | CR-008 已批准态 | ✅ MATCH |
+| `index.js`（非冻结，参照） | `88cd3dff3db9217950a67ac4124df1d29bcd905b38384978c028f85c8d05e8a4` | Hotfix#004 部署态 | ✅ 未变 |
+
+**本次诊断零文件写入，SHA 恒定。**
+
+---
+
+## 7. 对 CR-009 后续阶段的判定
+
+| 阶段 | 原定内容 | 判定 |
+|---|---|---|
+| 阶段 0 | 只读诊断 | ✅ **已完成** |
+| 阶段 1 | 恢复 legacy logs 写入 | ⛔ **无对象可修复 → 应作废** |
+| 阶段 2 | 测试验证 | ⛔ 依附阶段 1 → 一并作废 |
+| 阶段 3 | 部署 | ⛔ 依附阶段 1 → 一并作废 |
+
+### 为何不应"顺手改一改"
+
+即使把修改压缩到「给 `logChat()` 的 `catch` 补一条更详细的日志」这种最小尺度，也**不建议现在做**：
+
+1. **无缺陷即无收益**：写入成功率 100%，增强错误日志捕获不到任何东西。
+2. **违反本次授权第 7 条**：`logs` 写入在用户主请求的同步栈上（`index.js:320` 未 await 但同 tick 发起），
+   任何改动都是对**当前健康的**主流程注入风险。
+3. **会污染观察基线**：`logs` 是 Phase T-0.5 唯一的答案文本源，也是 CR-006 潜在的存量证据。
+   在 CR-006 立项前触碰该集合的写入口径，与已下达的「observability_logs 只读冻结令」同类精神相悖。
+4. **正确的动作在别处**：真正需要修的是**观察方法**（查询必须显式 `sort: {createTime: -1}`），
+   而不是被观察的系统。
+
+### 建议的 CR-009 结案路径（供裁决）
+
+| 选项 | 内容 |
+|---|---|
+| **A（推荐）** | CR-009 以 **VOID — 前提不成立（误报）** 归档。同步修订 `PhaseT-0.5-ObservationReport.md` L30/L49/L119-122 与 L51 的错误结论，撤销 OBS-004-D，并把 `logs` 追加进 CR-006 存量治理范围。**零代码改动。** |
+| B | CR-009 转型为「观察方法学加固」：沉淀一份取数 SOP（强制 `sort` + 三集合对账 + 全集聚合优先于 `find+limit`），仍为**文档级**产出，零代码改动。 |
+| C | 维持原 CR-009 方案 B（新建独立答案轨迹链路）。**但须重写立项理由**——它不再是"故障恢复"，而是"架构改良"，优先级应显著下调，且与 CR-006 隐私目标直接冲突（同 CR-007）。 |
+
+---
+
+## 8. 纪律自检
+
+| 约束 | 状态 |
+|---|---|
+| 不修改冻结资产（corpus/intent/knowledgeRouter/rag） | ✅ SHA 4/4 恒定 |
+| 不改变 AI 回答逻辑 / RAG 检索逻辑 / Prompt | ✅ 零代码写入 |
+| 不影响用户主流程 | ✅ 未 invoke 生产函数、未部署、未改环境变量 |
+| 不进入 Phase T1 | ✅ |
+| 不猜测原因 | ✅ 全部结论均有可复现的查询实证；误判机制已实验复现 |
+| 输出诊断报告后再修改 | ✅ **已停止，等待人工裁决** |
+| 数据库写入 | ✅ **0 次**（仅 QUERY / COMMAND 读命令） |
+
+---
+
+## 附录 A · 诊断命令清单（全部只读，可复现）
+
+```bash
+# 集合存在性
+tcb db nosql execute --command '[{"TableName":"logs","CommandType":"COMMAND","Command":"{\"listCollections\":1}"}]'
+
+# 计数
+tcb db nosql execute --command '[{"TableName":"logs","CommandType":"COMMAND","Command":"{\"count\":\"logs\"}"}]'
+
+# 【关键】最新记录 —— 必须显式 sort，否则得到自然序前 N 条
+tcb db nosql execute --command '[{"TableName":"logs","CommandType":"QUERY","Command":"{\"find\":\"logs\",\"filter\":{},\"sort\":{\"createTime\":-1},\"limit\":3}"}]'
+
+# 按天分布（推荐作为"是否停滞"的唯一判据）
+tcb db nosql execute --command '[{"TableName":"logs","CommandType":"COMMAND","Command":"{\"aggregate\":\"logs\",\"pipeline\":[{\"$group\":{\"_id\":{\"$dateToString\":{\"format\":\"%Y-%m-%d\",\"date\":\"$createTime\",\"timezone\":\"Asia/Shanghai\"}},\"n\":{\"$sum\":1},\"maxT\":{\"$max\":\"$createTime\"}}},{\"$sort\":{\"_id\":1}}],\"cursor\":{}}"}]'
+
+# 索引 / 集合统计 / 库统计
+... {"listIndexes":"logs"} / {"collStats":"logs"} / {"dbStats":1}
+```
+
+## 附录 B · 取数纪律（本次踩坑沉淀）
+
+1. **判断集合是否"停滞"，禁止使用 `find` + `limit`。** 无 `sort` 时返回自然序（最旧优先），
+   `limit` 会制造"数据停在某个古早日期"的幻觉。**必须用 `$group` 全集聚合，或显式 `sort:{createTime:-1}`。**
+2. **单集合结论必须交叉对账。** `logs` / `question_logs` / `observability_logs` 由同一次请求的相邻代码行写入，
+   任一结论若不能被另外两个集合的逐日数据佐证，即应判定为观测误差而非系统故障。
+3. **"疑似"不得进入下游立项前提。** 未验证的推断（如 L120「疑似集合配额/索引/权限错误」）
+   若被后续 CR 当作既定事实继承，会放大成一个完整的、不存在的工程项目。
+4. 过滤条件里的日期用 `{"$date":{"$numberLong":"<ms>"}}`；写成 `{"$date":"ISO字符串"}` 会被
+   `RunCommands` 判为参数非法。
+
+---
+
+*报告完 — CR-009 阶段 0 结束，执行已停止，等待人工裁决。*

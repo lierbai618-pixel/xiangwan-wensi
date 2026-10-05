@@ -1,1 +1,30 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIHByb3ZpZGVycy9zZWFyY2gvbW9jay5qcwovLyAgIFBoYXNlIFEyLTHvvJpNb2NrIOajgOe0oua6kO+8iOS7hea1i+ivlS/ogZTosIPnlKjvvIzmsLjkuI3mnI3liqHnnJ/lrp7nlKjmiLfvvInjgIIKLy8gICDov5Tlm57noa7lrprmgKfjgIHluKYgW01PQ0tdIOagh+iusOeahOWNoOS9jee7k+aenO+8jOeUqOS6jumqjOivgee7n+S4gOaOpeWPo+S4juW8leeUqOe7k+aehOOAggovLyAgIOS4jeWPkei1t+S7u+S9lee9kee7nOivt+axguOAgumbtuWklumDqOS+nei1luOAggovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KJ3VzZSBzdHJpY3QnOwoKZnVuY3Rpb24gbW9ja1NlYXJjaChxdWVyeSwgb3B0cykgewogIHZhciBxID0gKHF1ZXJ5IHx8ICcnKS50b1N0cmluZygpLnRyaW0oKTsKICB2YXIgcmVzdWx0cyA9IFsKICAgIHsKICAgICAgdGl0bGU6ICdbTU9DS10g5YWz5LqO44CMJyArIHEuc2xpY2UoMCwgMjApICsgJ+OAjeeahOWFrOW8gOS/oeaBr+aRmOimgScsCiAgICAgIHVybDogJ2h0dHBzOi8vbW9jay5sb2NhbC9yZXN1bHQ/cT0nICsgZW5jb2RlVVJJQ29tcG9uZW50KHEuc2xpY2UoMCwgNDApKSwKICAgICAgc25pcHBldDogJ1tNT0NLXSDov5nmmK/nlKjkuo7ogZTosIPnmoTljaDkvY3kuovlrp7mkZjopoHvvIzku4Xpqozor4HlvJXnlKjnu5PmnoTlj6/nlKjvvIzkuI3ku6Pooajku7vkvZXnnJ/lrp7kuovku7bjgIInLAogICAgICBzb3VyY2U6ICdtb2NrLmxvY2FsJywKICAgICAgdGltZTogbmV3IERhdGUoKS50b0lTT1N0cmluZygpLnNsaWNlKDAsIDEwKSwKICAgIH0sCiAgICB7CiAgICAgIHRpdGxlOiAnW01PQ0tdIOiDjOaZr+S4juWkmuaWueinhuinkicsCiAgICAgIHVybDogJ2h0dHBzOi8vbW9jay5sb2NhbC9jb250ZXh0P3E9JyArIGVuY29kZVVSSUNvbXBvbmVudChxLnNsaWNlKDAsIDQwKSksCiAgICAgIHNuaXBwZXQ6ICdbTU9DS10g5o+Q5L6b56ys5LqM5p2h5Y2g5L2N5p2l5rqQ77yM55So5LqO6aqM6K+B5aSa5p2l5rqQ5byV55So5LiO5Yay56qB5qOA5rWL6YC76L6R44CCJywKICAgICAgc291cmNlOiAnbW9jay5sb2NhbCcsCiAgICAgIHRpbWU6IG5ldyBEYXRlKCkudG9JU09TdHJpbmcoKS5zbGljZSgwLCAxMCksCiAgICB9LAogIF07CiAgcmV0dXJuIFByb21pc2UucmVzb2x2ZSh7IG9rOiB0cnVlLCBwcm92aWRlcjogJ21vY2snLCByZXN1bHRzOiByZXN1bHRzLCByZWFzb246ICcnIH0pOwp9Cgptb2R1bGUuZXhwb3J0cyA9IHsgc2VhcmNoOiBtb2NrU2VhcmNoIH07Cg==
+// ============================================================
+// providers/search/mock.js
+//   Phase Q2-1：Mock 检索源（仅测试/联调用，永不服务真实用户）。
+//   返回确定性、带 [MOCK] 标记的占位结果，用于验证统一接口与引用结构。
+//   不发起任何网络请求。零外部依赖。
+// ============================================================
+'use strict';
+
+function mockSearch(query, opts) {
+  var q = (query || '').toString().trim();
+  var results = [
+    {
+      title: '[MOCK] 关于「' + q.slice(0, 20) + '」的公开信息摘要',
+      url: 'https://mock.local/result?q=' + encodeURIComponent(q.slice(0, 40)),
+      snippet: '[MOCK] 这是用于联调的占位事实摘要，仅验证引用结构可用，不代表任何真实事件。',
+      source: 'mock.local',
+      time: new Date().toISOString().slice(0, 10),
+    },
+    {
+      title: '[MOCK] 背景与多方视角',
+      url: 'https://mock.local/context?q=' + encodeURIComponent(q.slice(0, 40)),
+      snippet: '[MOCK] 提供第二条占位来源，用于验证多来源引用与冲突检测逻辑。',
+      source: 'mock.local',
+      time: new Date().toISOString().slice(0, 10),
+    },
+  ];
+  return Promise.resolve({ ok: true, provider: 'mock', results: results, reason: '' });
+}
+
+module.exports = { search: mockSearch };

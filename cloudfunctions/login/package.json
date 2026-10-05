@@ -1,1 +1,1 @@
-eyJuYW1lIjogImxvZ2luIiwgInZlcnNpb24iOiAiMS4wLjAiLCAiZGVzY3JpcHRpb24iOiAi5ZCR5pma6Zeu5oCdIC0g6L2755m75b2V77yI6L+U5ZueIE9QRU5JRO+8iSIsICJtYWluIjogImluZGV4LmpzIiwgImRlcGVuZGVuY2llcyI6IHsid3gtc2VydmVyLXNkayI6ICJ+Mi42LjMifX0K
+{"name": "login", "version": "1.0.0", "description": "向晚问思 - 轻登录（返回 OPENID）", "main": "index.js", "dependencies": {"wx-server-sdk": "~2.6.3"}}

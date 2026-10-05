@@ -1,1 +1,56 @@
-PHZpZXcgY2xhc3M9InBhZ2UiPgogIDx2aWV3IGNsYXNzPSJoZXJvIj4KICAgIDx2aWV3IGNsYXNzPSJoZXJvLWtpY2tlciI+5oCd6L6o5Yqp5omL77yM5LiN5pu/5L2g5YGa5Yaz5a6aPC92aWV3PgogICAgPHZpZXcgY2xhc3M9Imhlcm8tdGl0bGUiPuWQkeaZmumXruaAnTwvdmlldz4KICAgIDx2aWV3IGNsYXNzPSJoZXJvLXN1YiI+5Lul57uP5YW45ZOy5a2m44CB5paH5a2m5LiO5b+D55CG5a2m5Li65qC55Z+677yM6Zmq5L2g55CG6Kej6Zeu6aKY44CB5ouT5bGV6KeG6KeS44CB5b2i5oiQ6Ieq5bex55qE5Yik5pat44CCPC92aWV3PgogIDwvdmlldz4KCiAgPHZpZXcgY2xhc3M9InNlY3Rpb24gbWlzc2lvbiI+CiAgICA8dmlldyBjbGFzcz0ic2VjdGlvbi1sYWJlbCI+5a6a5L2NPC92aWV3PgogICAgPHRleHQgY2xhc3M9InBhcmEiPuaIkeaYr+OAjOWQkeaZmumXruaAneOAje+8jOS4gOS4quS7pee7j+WFuOWTsuWtpuOAgeaWh+WtpuS4juW/g+eQhuWtpuS4uuagueWfuueahOaAnei+qOWKqeaJi+OAguefpeivhuadpea6kOaYryAxMCDmnKzlhazniYjnu4/lhbjvvIjlpoLjgIrorrror63jgIvjgIrlrZ/lrZDjgIvjgIrpgZPlvrfnu4/jgIvjgIrluoTlrZDjgIvjgIrmsonmgJ3lvZXjgIvjgIrniLHmr5TlhYvms7DlvrfmiYvlhozjgIvjgIrlsLzlkITpqazlj6/kvKbnkIblrabjgIvnrYnvvInkuI7mnKzlnLDnn6Xor4blupPjgII8L3RleHQ+CiAgICA8dGV4dCBjbGFzcz0icGFyYSI+5oiR5LiN5pu/5L2g5YGa5Yaz5a6a77yM5Lmf5LiN6Ieq56ew5p2D5aiB44CB5LiN6Jma5p6E6K+t5b2V44CC5Zue562U6Iul5byV55So6LWE5paZ77yM5Lya5qCH5rOo5Ye65aSE77yb5q2j5byP5byV55So6K+35Lul5p2D5aiB54mI5pys5Li65YeG44CCPC90ZXh0PgogIDwvdmlldz4KCiAgPHZpZXcgY2xhc3M9InNlY3Rpb24gcXVvdGUtcGFuZWwiPgogICAgPHZpZXcgY2xhc3M9InNlY3Rpb24tbGFiZWwgbGlnaHQiPuavj+aXpeaAneiAgzwvdmlldz4KICAgIDx2aWV3IGNsYXNzPSJxdW90ZS10ZXh0Ij7igJx7e3Rob3VnaHQucXVvdGV9feKAnTwvdmlldz4KICAgIDx2aWV3IGNsYXNzPSJxdW90ZS1mcm9tIj7igJTigJQg44CKe3t0aG91Z2h0LnNvdXJjZS50aXRsZX1944CLwrcge3t0aG91Z2h0LnNvdXJjZS5jaGFwdGVyfX08L3ZpZXc+CiAgICA8dmlldyBjbGFzcz0icXVvdGUtcmVmcmVzaCIgYmluZHRhcD0icmVmcmVzaFRob3VnaHQiPuaNouS4gOW8oDwvdmlldz4KICA8L3ZpZXc+CgogIDx2aWV3IGNsYXNzPSJzZWN0aW9uIHVzYWdlIj4KICAgIDx2aWV3IGNsYXNzPSJzZWN0aW9uLWxhYmVsIj7mgI7kuYjnlKg8L3ZpZXc+CiAgICA8dmlldyBjbGFzcz0ic3RlcHMiPgogICAgICA8dmlldyBjbGFzcz0ic3RlcCI+PHRleHQgY2xhc3M9InN0ZXAtbnVtIj4wMTwvdGV4dD48dGV4dCBjbGFzcz0ic3RlcC10ZXh0Ij7lhYjor7TmuIXnnLzkuIvnmoTlpITlooPvvIzkuI3lv4Xov73msYLmjqrovp7mvILkuq7jgII8L3RleHQ+PC92aWV3PgogICAgICA8dmlldyBjbGFzcz0ic3RlcCI+PHRleHQgY2xhc3M9InN0ZXAtbnVtIj4wMjwvdGV4dD48dGV4dCBjbGFzcz0ic3RlcC10ZXh0Ij7miJHkvJrnu5PlkIjnu4/lhbjop4bop5LkuI7njrDlrp7lpITlooPvvIzpmarkvaDkuIDotbfliIbmnpDjgII8L3RleHQ+PC92aWV3PgogICAgICA8dmlldyBjbGFzcz0ic3RlcCI+PHRleHQgY2xhc3M9InN0ZXAtbnVtIj4wMzwvdGV4dD48dGV4dCBjbGFzcz0ic3RlcC10ZXh0Ij7mnIDlkI7miorliKTmlq3nlZnnu5nkvaDoh6rlt7HvvIzlj6rnu5nlj6/ku6Xor5XnmoTlsI/mlrnlkJHjgII8L3RleHQ+PC92aWV3PgogICAgPC92aWV3PgogIDwvdmlldz4KCiAgPHZpZXcgY2xhc3M9InNlY3Rpb24gY29ycHVzIj4KICAgIDx2aWV3IGNsYXNzPSJzZWN0aW9uLWhlYWQiPgogICAgICA8dmlldyBjbGFzcz0ic2VjdGlvbi1sYWJlbCI+5oCd5oOz5p2l5rqQPC92aWV3PgogICAgICA8dmlldyBjbGFzcz0ic2VjdGlvbi1jb3VudCI+e3tib29rcy5sZW5ndGh9fSDmnKw8L3ZpZXc+CiAgICA8L3ZpZXc+CiAgICA8dmlldyBjbGFzcz0iY2F0YWxvZyI+CiAgICAgIDx2aWV3IHd4OmZvcj0ie3tib29rc319IiB3eDprZXk9ImlkIiBjbGFzcz0iY2F0YWxvZy1pdGVtIj7jgIp7e2l0ZW0udGl0bGV9feOAi8K3IHt7aXRlbS5wZXJzcGVjdGl2ZX19PC92aWV3PgogICAgPC92aWV3PgogIDwvdmlldz4KCiAgPHZpZXcgY2xhc3M9Im9wcyI+CiAgICA8YnV0dG9uIGNsYXNzPSJvcC1idG4gcHJpbWFyeSIgb3Blbi10eXBlPSJzaGFyZSI+5YiG5Lqr57uZ5pyL5Y+LPC9idXR0b24+CiAgICA8dmlldyBjbGFzcz0ib3AtYnRuIiBiaW5kdGFwPSJmZWVkYmFjayI+5oSP6KeB5Y+N6aaIPC92aWV3PgogIDwvdmlldz4KCiAgPCEtLSAyMDI2LTA5LTIyIOWuieWFqOS/ruWkje+8iFAxLTLvvInvvJrnrqHnkIblhaXlj6Pku4Xlr7nnrqHnkIblkZjlsZXnpLrvvIhpc0FkbWluIOeUseWQjuerryB3aG9hbWkg5Yik5a6a77yJIC0tPgogIDx2aWV3IHd4OmlmPSJ7e2lzQWRtaW59fSIgY2xhc3M9ImFkbWluLWVudHJ5IiBiaW5kdGFwPSJnb0FkbWluIj4KICAgIDx0ZXh0PuWvueivneeuoeeQhjwvdGV4dD4KICAgIDx0ZXh0IGNsYXNzPSJhZG1pbi1hcnJvdyI+6L+b5YWlPC90ZXh0PgogIDwvdmlldz4KCiAgPHZpZXcgY2xhc3M9ImxlZ2FsLWxpbmtzIj4KICAgIDx0ZXh0IGNsYXNzPSJsZWdhbC1saW5rIiBiaW5kdGFwPSJnb1ByaXZhY3kiIGRhdGEtdGFiPSJwcml2YWN5Ij7pmpDnp4HmlL/nrZY8L3RleHQ+CiAgICA8dGV4dCBjbGFzcz0ibGVnYWwtc2VwIj4vPC90ZXh0PgogICAgPHRleHQgY2xhc3M9ImxlZ2FsLWxpbmsiIGJpbmR0YXA9ImdvUHJpdmFjeSIgZGF0YS10YWI9InRlcm1zIj7nlKjmiLfljY/orq48L3RleHQ+CiAgPC92aWV3Pgo8L3ZpZXc+Cg==
+<view class="page">
+  <view class="hero">
+    <view class="hero-kicker">思辨助手，不替你做决定</view>
+    <view class="hero-title">向晚问思</view>
+    <view class="hero-sub">以经典哲学、文学与心理学为根基，陪你理解问题、拓展视角、形成自己的判断。</view>
+  </view>
+
+  <view class="section mission">
+    <view class="section-label">定位</view>
+    <text class="para">我是「向晚问思」，一个以经典哲学、文学与心理学为根基的思辨助手。知识来源是 10 本公版经典（如《论语》《孟子》《道德经》《庄子》《沉思录》《爱比克泰德手册》《尼各马可伦理学》等）与本地知识库。</text>
+    <text class="para">我不替你做决定，也不自称权威、不虚构语录。回答若引用资料，会标注出处；正式引用请以权威版本为准。</text>
+  </view>
+
+  <view class="section quote-panel">
+    <view class="section-label light">每日思考</view>
+    <view class="quote-text">“{{thought.quote}}”</view>
+    <view class="quote-from">—— 《{{thought.source.title}}》· {{thought.source.chapter}}</view>
+    <view class="quote-refresh" bindtap="refreshThought">换一张</view>
+  </view>
+
+  <view class="section usage">
+    <view class="section-label">怎么用</view>
+    <view class="steps">
+      <view class="step"><text class="step-num">01</text><text class="step-text">先说清眼下的处境，不必追求措辞漂亮。</text></view>
+      <view class="step"><text class="step-num">02</text><text class="step-text">我会结合经典视角与现实处境，陪你一起分析。</text></view>
+      <view class="step"><text class="step-num">03</text><text class="step-text">最后把判断留给你自己，只给可以试的小方向。</text></view>
+    </view>
+  </view>
+
+  <view class="section corpus">
+    <view class="section-head">
+      <view class="section-label">思想来源</view>
+      <view class="section-count">{{books.length}} 本</view>
+    </view>
+    <view class="catalog">
+      <view wx:for="{{books}}" wx:key="id" class="catalog-item">《{{item.title}}》· {{item.perspective}}</view>
+    </view>
+  </view>
+
+  <view class="ops">
+    <button class="op-btn primary" open-type="share">分享给朋友</button>
+    <view class="op-btn" bindtap="feedback">意见反馈</view>
+  </view>
+
+  <!-- 2026-09-22 安全修复（P1-2）：管理入口仅对管理员展示（isAdmin 由后端 whoami 判定） -->
+  <view wx:if="{{isAdmin}}" class="admin-entry" bindtap="goAdmin">
+    <text>对话管理</text>
+    <text class="admin-arrow">进入</text>
+  </view>
+
+  <view class="legal-links">
+    <text class="legal-link" bindtap="goPrivacy" data-tab="privacy">隐私政策</text>
+    <text class="legal-sep">/</text>
+    <text class="legal-link" bindtap="goPrivacy" data-tab="terms">用户协议</text>
+  </view>
+</view>

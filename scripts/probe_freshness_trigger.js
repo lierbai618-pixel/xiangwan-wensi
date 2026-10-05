@@ -1,1 +1,46 @@
-IyEvdXNyL2Jpbi9lbnYgbm9kZQondXNlIHN0cmljdCc7CgovKioKICog6aqM6K+B77ya5ZOq5Lqb6Zeu6aKY5Lya6LWw6IGU572R77yIRnJlc2huZXNz77yJ77yM5ZOq5Lqb5LiN5LyaCiAqCiAqIOebtOaOpeiwg+eUqOeUn+S6p+S7o+eggemHjOeahCBjbGFzc2lmeUNhdGVnb3J577yI57qv5pys5Zyw6KeE5YiZ77yM5LiN6IGU572R44CB5LiN6LCD5qih5Z6L77yJ77yMCiAqIOWvueWFuOWei+mXrumimOWIhuexu++8jOWIpOaWreOAjOWPlua2iOiBlOe9keOAjeWvueWQhOmimOWei+aYr+WQpuacieaPkOmAn+S7t+WAvOOAggogKgogKiDov5DooYzvvJpub2RlIHNjcmlwdHMvcHJvYmVfZnJlc2huZXNzX3RyaWdnZXIuanMKICovCgpjb25zdCBwYXRoID0gcmVxdWlyZSgncGF0aCcpOwpjb25zdCBDSEFUID0gcGF0aC5qb2luKF9fZGlybmFtZSwgJy4uJywgJ2Nsb3VkZnVuY3Rpb25zJywgJ2NoYXQnKTsKY29uc3QgY2xhc3NpZmllciA9IHJlcXVpcmUocGF0aC5qb2luKENIQVQsICdmcmVzaG5lc3MnLCAnZXZlbnRDbGFzc2lmaWVyJykpOwoKY29uc3QgQ0FTRVMgPSBbCiAgWyfmiJHku4rlubQzMOWyge+8jOW3peS9nOeos+WumuS9huaAu+inieW+l+ayoeS7gOS5iOaEj+S5ie+8jOaDs+aUueWPmOWPiOaAleWkseWOu+eOsOWcqOeahOS4gOWIhycsICfkurrnlJ/lm7Dmg5EnXSwKICBbJ+S7gOS5iOaYr+WtmOWcqOS4u+S5ie+8nycsICflk7LlrabmpoLlv7UnXSwKICBbJ+aIkeaAu+aYr+W+iOeEpuiZke+8jOaAjuS5iOWKnicsICfmg4Xnu6rmlK/mjIEnXSwKICBbJ+WtlOWtkOivtOeahCLku4Ei5Yiw5bqV5piv5LuA5LmI5oSP5oCdJywgJ+e7j+WFuOino+ivuyddLAogIFsn5aaC5L2V55SoIFB5dGhvbiDor7vkuIDkuKogQ1NWIOaWh+S7ticsICfmioDmnK/pl67popgnXSwKICBbJ+S7iuWkqeWkqeawlOaAjuS5iOagtycsICflrp7ml7blpKnmsJQnXSwKICBbJ+acgOi/keacieS7gOS5iOmHjeimgeeahOaWsOmXuycsICfmlrDpl7vng63ngrknXSwKICBbJ+aIv+S4u+S7u+acgOi/keaAjuS5iOagtycsICfkurrnianliqjmgIEnXSwKICBbJ+aAjuS5iOeci+acgOi/keWHuuWPsOeahCBBSSDnm5HnrqHmlL/nrZYnLCAn5pS/562W5LqL5Lu2J10sCiAgWycyMDI25bm06K+66LSd5bCU5paH5a2m5aWW5b6X5Li75piv6LCBJywgJ+aXtuaViOS6i+WuniddLAogIFsn5pyA6L+R572R5LiK5Lyg55qE6YKj5Liq5LqL5pWF5piv55yf55qE5ZCXJywgJ+aVj+aEn+ivnemimCddLApdOwoKY29uc29sZS5sb2coJ+mimOebricucGFkRW5kKDQ2KSArICcg57G75Z6LJy5wYWRFbmQoMTIpICsgJyBDYXRlZ29yeSAg6LWw6IGU572RPyAgIOWIpOWumuS+neaNricpOwpjb25zb2xlLmxvZygn4pSAJy5yZXBlYXQoMTE4KSk7CmxldCBuZXRDb3VudCA9IDA7CmZvciAoY29uc3QgW3EsIGxhYmVsXSBvZiBDQVNFUykgewogIGxldCByOwogIHRyeSB7IHIgPSBjbGFzc2lmaWVyLmNsYXNzaWZ5Q2F0ZWdvcnkocSwgbnVsbCk7IH0gY2F0Y2ggKGUpIHsgY29uc29sZS5sb2cocSArICcgIOKclyAnICsgZS5tZXNzYWdlKTsgY29udGludWU7IH0KICBjb25zdCBjYXQgPSByLmNhdGVnb3J5OwogIGNvbnN0IGlzTmV0ID0gY2F0ICE9PSAnQSc7CiAgaWYgKGlzTmV0KSBuZXRDb3VudCsrOwogIGNvbnNvbGUubG9nKAogICAgcS5zbGljZSgwLCA0NCkucGFkRW5kKDQ2KSArICcgJyArIGxhYmVsLnBhZEVuZCgxMikgKyAnICcgKwogICAgU3RyaW5nKGNhdCkucGFkRW5kKDExKSArICcgJyArIChpc05ldCA/ICfinIUg5LyaICAgICAnIDogJ+KdjCDkuI3kvJogICAnKSArICcgJyArIChyLnJlYXNvbiB8fCAnJykKICApOwp9CmNvbnNvbGUubG9nKCfilIAnLnJlcGVhdCgxMTgpKTsKY29uc29sZS5sb2coJ+agt+acrCAnICsgQ0FTRVMubGVuZ3RoICsgJyDmnaHvvIzlhbbkuK3kvJrop6blj5HogZTnvZHnmoQgJyArIG5ldENvdW50ICsgJyDmnaEnKTsK
+#!/usr/bin/env node
+'use strict';
+
+/**
+ * 验证：哪些问题会走联网（Freshness），哪些不会
+ *
+ * 直接调用生产代码里的 classifyCategory（纯本地规则，不联网、不调模型），
+ * 对典型问题分类，判断「取消联网」对各题型是否有提速价值。
+ *
+ * 运行：node scripts/probe_freshness_trigger.js
+ */
+
+const path = require('path');
+const CHAT = path.join(__dirname, '..', 'cloudfunctions', 'chat');
+const classifier = require(path.join(CHAT, 'freshness', 'eventClassifier'));
+
+const CASES = [
+  ['我今年30岁，工作稳定但总觉得没什么意义，想改变又怕失去现在的一切', '人生困惑'],
+  ['什么是存在主义？', '哲学概念'],
+  ['我总是很焦虑，怎么办', '情绪支持'],
+  ['孔子说的"仁"到底是什么意思', '经典解读'],
+  ['如何用 Python 读一个 CSV 文件', '技术问题'],
+  ['今天天气怎么样', '实时天气'],
+  ['最近有什么重要的新闻', '新闻热点'],
+  ['房主任最近怎么样', '人物动态'],
+  ['怎么看最近出台的 AI 监管政策', '政策事件'],
+  ['2026年诺贝尔文学奖得主是谁', '时效事实'],
+  ['最近网上传的那个事故是真的吗', '敏感话题'],
+];
+
+console.log('题目'.padEnd(46) + ' 类型'.padEnd(12) + ' Category  走联网?   判定依据');
+console.log('─'.repeat(118));
+let netCount = 0;
+for (const [q, label] of CASES) {
+  let r;
+  try { r = classifier.classifyCategory(q, null); } catch (e) { console.log(q + '  ✗ ' + e.message); continue; }
+  const cat = r.category;
+  const isNet = cat !== 'A';
+  if (isNet) netCount++;
+  console.log(
+    q.slice(0, 44).padEnd(46) + ' ' + label.padEnd(12) + ' ' +
+    String(cat).padEnd(11) + ' ' + (isNet ? '✅ 会     ' : '❌ 不会   ') + ' ' + (r.reason || '')
+  );
+}
+console.log('─'.repeat(118));
+console.log('样本 ' + CASES.length + ' 条，其中会触发联网的 ' + netCount + ' 条');

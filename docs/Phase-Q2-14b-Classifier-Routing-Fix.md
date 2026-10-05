@@ -1,1 +1,53 @@
-IyBQaGFzZSBRMi0xNC1i77ya6IGU572R5pCc57Si44CM5YiG57G75Zmo6Lev55Sx44CN5L+u5aSN77yI57utIFEyLTE077yJDQoNCiMjIOiDjOaZrw0KUTItMTQg5L+u5aSN5LqGIGZyZXNobmVzcyDlsYLor7vlj5bml6flj5jph48gYEZSRVNITkVTU19TRUFSQ0hfUFJPVklERVJgIOWvvOiHtOawuOS5heefrei3r+eahCBidWfvvIzlubbpg6jnvbLkuIrnur/jgIINCuS9hueUqOaIt+Wunua1i+S7jeOAjOaXoOazleiBlOe9keOAjeOAgui/m+S4gOatpeaOkuafpeWPkeeOsO+8mioq55yf5q2j55qE6Zi75pat5Zyo5pu05LiK5ri44oCU4oCU6Zeu6aKY5YiG57G75Zmo77yIZXZlbnRDbGFzc2lmaWVy77yJKirjgIINCg0KIyMg5qC55ZugDQpmcmVzaG5lc3Mg5bGC5YWI5a+5IHF1ZXJ5IOWBmuWbm+WIhuexu++8iEEvQi9DL0TvvInvvIwqKuWPquaciSBCIOexu+aJjeS8muecn+ato+iwg+eUqOiBlOe9keajgOe0oioq77yIc2VhcmNoTGF5ZXIuc2VhcmNo77yJ44CCDQrliIbnsbvlmajlrZjlnKjlpKfph4/jgIzoh6rnhLbpl67ms5XokL3kuI3liLAgQuOAjeeahOe8uuWPo++8mg0KDQp8IOmXruazlSB8IOS/ruWkjeWJjeWIhuexuyB8IOe7k+aenCB8DQp8LS0tLS0tfC0tLS0tLS0tLS0tfC0tLS0tLXwNCnwg5L2g5Y+v5Lul6IGU572R5ZCXIHwgQe+8iOaXoOmUmueCue+8iSB8IOS4jei/myBmcmVzaG5lc3PvvIzotbAgUkFHIOKGkiDnnIvkuI3liLDmkJzntKIgfA0KfCDku4rlpKnmnInku4DkuYgqKuenkeaKgCoq5paw6Ze7IHwgQ++8iOatp+S5ieWFnOW6le+8iSB8IDE0MyDooYznm7TmjqXpmY3nuqfjgIHkuI3mo4DntKIgfA0KfCDku4rlpKnmnInku4DkuYhBSeebuOWFs+eahOa2iOaBryB8IEMgfCDkuI3mo4DntKIgfA0KfCDku4rlpKnmnInku4DkuYjlgLzlvpflhbPms6jnmoTnp5HmioDliqjmgIEgfCBDIHwg5LiN5qOA57SiIHwNCnwg5pyA6L+R55S15b2x56Wo5oi/5oCO5LmI5qC3IHwgQyB8IOS4jeajgOe0oiB8DQp8IOeOsOWcqOato+WcqOWPkeeUn+S7gOS5iOWkp+S6iyB8IEHvvIjnjrDlnKgv5aSn5LqL5peg6ZSa54K577yJIHwg5LiN5qOA57SiIHwNCg0KPiDlj6rmnInjgIzku4rlpKnmnInku4DkuYjmlrDpl7vjgI3jgIzmgI7kuYjnnIvmnIDov5HnmoRBSeeqgeegtOOAjei/meexu+eyvuehruWPpeW8j+aJjeWRveS4rSBC44CCDQo+IOaJgOS7peeUqOaIt+eUqOiHqueEtuivreiogOmXruaWsOmXuy/liqjmgIHvvIw5MCUg6Kem5Y+R5LiN5LqG5pCc57Si4oCU4oCU6KGo546w5Li644CM6IGU572R5rKh5aW944CN44CCDQoNCiMjIOS/ruWkje+8iGV2ZW50Q2xhc3NpZmllci5qc++8jOmdnuWGu+e7k+i1hOS6p++8iQ0KMS4gYFRJTUVfQU5DSE9SX1JFYCDmianlhYXml7bpl7TplJrngrnvvJpg546w5ZyoIC8g5pyA5pawIC8g5b2T5LiLIC8g6L+R5p2lIC8g6L+R5pyfIC8g5pe25LiLIC8g5q2k5Yi7YOOAgg0KMi4g5paw5aKeIGBDVVJSRU5UX0VWRU5UX05PVU5fUkVg77ya5paw6Ze7IC8g5raI5oGvIC8g5Yqo5oCBIC8g6L+b5bGVIC8g54Ot54K5IC8g5aSn5LqLIC8g5LqL5Lu2IC8g6LSi5oqlIC8g56Wo5oi/IC8g6KGM5oOFIC8g6IKh5biCIC8g5q+U6LWbIC8g5Y+R5biDIC8g5LiK5biCIC8g6I635aWWIC8g56qB56C0IC8g5LqL5pWFIC8g6YCa5oqlIC8g5a6Y5a6jIC8g5LiK5p62IC8g5byA5pKtIC8g5LiK5pigIC8g5byA5ZSuIC8g5Ye654KJIC8g5oCO5LmI5qC3IC8g5aaC5L2VIC8g5pyJ5ZWlIC8g5pyJ5LuA5LmIIC8g5ZWlIC8g6L+R5Ya144CCDQozLiDmlrDlop7ot6/nlLHop4TliJkg4pGhLWPvvJrluKbml7bpl7TplJrngrnkuJTlkKvjgIzlvZPliY3kuovku7blkI3or43jgI3ihpIg55u05o6l5b2SICoqQu+8iOmrmOe9ruS/oe+8iSoq77yM6Kem5Y+R6IGU572R5qOA57SiICsg5Y+N5oCd44CCDQoNCuS/ruWkjeWQjuWunua1i++8muS4iui/sOaJgOacieiHqueEtumXruazleWdh+eos+WumuW9kiAqKkJbaGlnaF0qKu+8m+e6r+WTsuWtpi/nn6Xor4bpl67ms5XvvIjluoTlrZAv5Lq655SfL+WlveS5pi/li77ogqEv6K666K+t77yJ5LuN5b2SICoqQSoq77yI56ym5ZCI6K6+6K6h77yM5LiN6IGU572R77yJ44CCDQoNCiMjIOmqjOivgQ0KLSDmlrDlop4gYHNjcmlwdHMvdGVzdF9xMzIuanNg77ya5YiG57G75Zmo6Lev55Sx5pat6KiA77yIMTXvvIkrIOmbhuaIkOaWreiogO+8iGZyZXNobmVzcyDlr7kgQiDnsbsqKuehruWunuiwg+eUqCBzZWFyY2hMYXllci5zZWFyY2gqKu+8jOmUgeatuyBRMi0xNCDnn63ot6/kv67lpI3vvIkrIOe6r+WTsuWtpuS7jeW9kiBB44CCKioyOSBQQVNTIC8gMCBGQUlMKirjgIINCi0g5Zue5b2S77yaYHRlc3RfcTI5PTIyNWAgLyBgdGVzdF9xMzA9MTA0YCAvIGB0ZXN0X3EzMT0xMzJgIOWFqOe7v++8m+Wbm+WGu+e7k+i1hOS6pyBTSEEgNC80IOS4jeWPmO+8iGNvcnB1cy9pbnRlbnQva25vd2xlZGdlUm91dGVyL3JhZ++8ieOAgg0KLSBgdGNiIGZuIGRlcGxveSBjaGF0IC0tZm9yY2VgIOaIkOWKn++8iENPUyDkuIrkvKDmlbTljIXvvIzlkKsgZnJlc2huZXNzL2luZGV4LmpzICsgZXZlbnRDbGFzc2lmaWVyLmpzIOS/ruWkje+8ieOAgg0KLSDms6jvvJpgdGNiIGZuIGRldGFpbGAg5rKZ566x5YaF5LuF5bGV56S65YWl5Y+jIGluZGV4LmpzIOa6kOegge+8jOS4jeWxleekuuS+nei1luaooeWdl++8jOaVheS4jeiDveebtOaOpSBncmVwIOWIsCBmcmVzaG5lc3MvZXZlbnRDbGFzc2lmaWVyIOeahOaUueWKqOWtl+espuS4su+8m+WFpeWPo+aWh+S7tuWPr+ingSBgc2VhcmNoTGF5ZXIuX3NldFNlYXJjaE1vZGVsQ29uZmlnYCDms6jlhaXvvIg1Ny8zMjcvMzI5IOihjO+8ieivgeaYjuWMheW3suabtOaWsOOAgg0KDQojIyDnlKjmiLfkvqfku43pnIDnoa7orqTvvIjogZTnvZHnnJ/mraPot5HpgJrnmoTliY3nva7vvIkNCjEuICoq5ZCO5Y+wIGBtb2RlbF9jb25maWdgIOW3suWQr+eUqOS4lOWhq+S6hiBhcGlLZXkqKu+8mmJhc2VVUkwg55SoIE9wZW5BSSDlhbzlrrkgYGNoYXQvY29tcGxldGlvbnNgIOerr+eCue+8jOaooeWei+mAieaUr+aMgSBgZW5hYmxlX3NlYXJjaGAg55qE77yIcXdlbi1wbHVzIC8gcXdlbi1tYXggLyBxd2VuLXR1cmJv77yJ44CC5pCc57Si6Ieq5Yqo5aSN55So6aaW5Liq5ZCv55So5qih5Z6L77yI6YWN572u5LiA5qyh77yM5a+56K+dK+iBlOe9keWPjOeUqO+8ieOAgg0KMi4gKirnlKjkvaDoh6rlt7HnmoTlvq7kv6HotKblj7fmtYsqKu+8iG9wZW5pZCA9IGBZT1VSX0FETUlOX09QRU5JRGDvvIzlt7LlnKggYFNFQVJDSF9DQU5BUllfT1BFTklEU2Ag55m95ZCN5Y2V77yJ44CC5YW25LuW6LSm5Y+35Lya6KKrIGNhbmFyeSDmi6bmiJAgbW9ja+OAgg0KMy4gKirpl67jgIzlvZPliY3kuovku7bjgI3nsbvpl67popgqKu+8jOS+i+Wmgu+8mg0KICAgLSDjgIzku4rlpKnmnInku4DkuYjnp5HmioDmlrDpl7vjgI0NCiAgIC0g44CM5pyA6L+R55S15b2x56Wo5oi/5oCO5LmI5qC344CNDQogICAtIOOAjOaAjuS5iOeci+acgOi/keeahCBBSSDnqoHnoLTjgI0NCiAgIC0g4p2MIOS4jeimgemXruOAjOS9oOWPr+S7peiBlOe9keWQl+OAje+8iOmCo+aYr+iDveWKm+WFg+mXrumimO+8jOW9kiBBIOexu+i1sCBSQUfvvIzmnKzlsLHkuI3or6Xop6blj5HmkJzntKLvvInjgIINCg0KIyMg5aSx6LSl5YWc5bqV77yI5L6/5LqO6Ieq5p+l77yJDQroi6Xku43nnIvkuI3liLDogZTnvZHnu5PmnpzvvIzmjInkvJjlhYjnuqfmjpLmn6XvvJoNCi0gY2FuYXJ5IOaLpuaIqu+8iOmdniBhZG1pbiDotKblj7fvvInihpIg5o2iIGFkbWluIOi0puWPt+OAgg0KLSBgbW9kZWxfY29uZmlnYCDmnKrphY0v5pegIGFwaUtleSDihpIgcXdlblNlYXJjaCDov5Tlm54gYG5vX2VuZHBvaW50YCDihpIg5LyY6ZuF6ZmN57qn44CCDQotIOaooeWei+S4jeaUr+aMgSBgZW5hYmxlX3NlYXJjaGAg5oiW5ZON5bqU5pegIGBzZWFyY2hfcmVzdWx0c2Ag4oaSIOi/lOWbniBgbm9fcmVzdWx0c2Ag4oaSIOmZjee6p+OAgg0KLSDku6XkuIrlnYfkuI3miqXplJnvvIzlj6rkvJrotbDjgIzor5rlrp7ovrnnlYwr5Y+N5oCd44CN6Lev5b6E77yb5aaC6ZyA5a6a5L2N77yM5Y+v5p+l5LqR5Ye95pWw5pel5b+X5LitIGBzZWFyY2hgIOebuOWFsyBgX2F1ZGl0YCAvIGBkb3duZ3JhZGVfcmVhc29uYOOAgg0KDQojIyDlm57mu5oNCmBGUkVTSE5FU1NfRkFDVFVBTF9FTkFCTEVEPWZhbHNlYCDmiJYgYFNFQVJDSF9QUk9WSURFUj1tb2NrYCDmlLnlkI7ph40gZGVwbG95IOWNs+enkue6p+Wbnua7muOAgg0K
+﻿# Phase Q2-14-b：联网搜索「分类器路由」修复（续 Q2-14）
+
+## 背景
+Q2-14 修复了 freshness 层读取旧变量 `FRESHNESS_SEARCH_PROVIDER` 导致永久短路的 bug，并部署上线。
+但用户实测仍「无法联网」。进一步排查发现：**真正的阻断在更上游——问题分类器（eventClassifier）**。
+
+## 根因
+freshness 层先对 query 做四分类（A/B/C/D），**只有 B 类才会真正调用联网检索**（searchLayer.search）。
+分类器存在大量「自然问法落不到 B」的缺口：
+
+| 问法 | 修复前分类 | 结果 |
+|------|-----------|------|
+| 你可以联网吗 | A（无锚点） | 不进 freshness，走 RAG → 看不到搜索 |
+| 今天有什么**科技**新闻 | C（歧义兜底） | 143 行直接降级、不检索 |
+| 今天有什么AI相关的消息 | C | 不检索 |
+| 今天有什么值得关注的科技动态 | C | 不检索 |
+| 最近电影票房怎么样 | C | 不检索 |
+| 现在正在发生什么大事 | A（现在/大事无锚点） | 不检索 |
+
+> 只有「今天有什么新闻」「怎么看最近的AI突破」这类精确句式才命中 B。
+> 所以用户用自然语言问新闻/动态，90% 触发不了搜索——表现为「联网没好」。
+
+## 修复（eventClassifier.js，非冻结资产）
+1. `TIME_ANCHOR_RE` 扩充时间锚点：`现在 / 最新 / 当下 / 近来 / 近期 / 时下 / 此刻`。
+2. 新增 `CURRENT_EVENT_NOUN_RE`：新闻 / 消息 / 动态 / 进展 / 热点 / 大事 / 事件 / 财报 / 票房 / 行情 / 股市 / 比赛 / 发布 / 上市 / 获奖 / 突破 / 事故 / 通报 / 官宣 / 上架 / 开播 / 上映 / 开售 / 出炉 / 怎么样 / 如何 / 有啥 / 有什么 / 啥 / 近况。
+3. 新增路由规则 ②-c：带时间锚点且含「当前事件名词」→ 直接归 **B（高置信）**，触发联网检索 + 反思。
+
+修复后实测：上述所有自然问法均稳定归 **B[high]**；纯哲学/知识问法（庄子/人生/好书/勾股/论语）仍归 **A**（符合设计，不联网）。
+
+## 验证
+- 新增 `scripts/test_q32.js`：分类器路由断言（15）+ 集成断言（freshness 对 B 类**确实调用 searchLayer.search**，锁死 Q2-14 短路修复）+ 纯哲学仍归 A。**29 PASS / 0 FAIL**。
+- 回归：`test_q29=225` / `test_q30=104` / `test_q31=132` 全绿；四冻结资产 SHA 4/4 不变（corpus/intent/knowledgeRouter/rag）。
+- `tcb fn deploy chat --force` 成功（COS 上传整包，含 freshness/index.js + eventClassifier.js 修复）。
+- 注：`tcb fn detail` 沙箱内仅展示入口 index.js 源码，不展示依赖模块，故不能直接 grep 到 freshness/eventClassifier 的改动字符串；入口文件可见 `searchLayer._setSearchModelConfig` 注入（57/327/329 行）证明包已更新。
+
+## 用户侧仍需确认（联网真正跑通的前置）
+1. **后台 `model_config` 已启用且填了 apiKey**：baseURL 用 OpenAI 兼容 `chat/completions` 端点，模型选支持 `enable_search` 的（qwen-plus / qwen-max / qwen-turbo）。搜索自动复用首个启用模型（配置一次，对话+联网双用）。
+2. **用你自己的微信账号测**（openid = `YOUR_ADMIN_OPENID`，已在 `SEARCH_CANARY_OPENIDS` 白名单）。其他账号会被 canary 拦成 mock。
+3. **问「当前事件」类问题**，例如：
+   - 「今天有什么科技新闻」
+   - 「最近电影票房怎么样」
+   - 「怎么看最近的 AI 突破」
+   - ❌ 不要问「你可以联网吗」（那是能力元问题，归 A 类走 RAG，本就不该触发搜索）。
+
+## 失败兜底（便于自查）
+若仍看不到联网结果，按优先级排查：
+- canary 拦截（非 admin 账号）→ 换 admin 账号。
+- `model_config` 未配/无 apiKey → qwenSearch 返回 `no_endpoint` → 优雅降级。
+- 模型不支持 `enable_search` 或响应无 `search_results` → 返回 `no_results` → 降级。
+- 以上均不报错，只会走「诚实边界+反思」路径；如需定位，可查云函数日志中 `search` 相关 `_audit` / `downgrade_reason`。
+
+## 回滚
+`FRESHNESS_FACTUAL_ENABLED=false` 或 `SEARCH_PROVIDER=mock` 改后重 deploy 即秒级回滚。

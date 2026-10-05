@@ -1,1 +1,94 @@
-Ly8g6KGM5Yqo5bu66K6u55+l6K+G5bGC77yIRS0z77yJCi8vIOS4u+mimCDihpIg5oCd5oOz5Y6f5YiZICsg546w5a6e6KGM5Yqo44CC6K6p5Zue562U5Zyo44CM57uP5YW444CN5LmL5aSW77yM57uZ5Ye655So5oi36IO96JC95Zyw55qE5LiL5LiA5q2l77yMCi8vIOebtOaOpeWbnuW6lOivhOWuoeaguOW/g++8mue7j+WFuOS4jeaYr+etlOahiO+8jOiAjOaYr+W4ruWKqeeUqOaIt+aJvuWIsOetlOahiOeahOWQr+WPkeOAggovLyDljp/liJnlj5boh6ogMTAg5pys5YWs54mI57uP5YW455qE55yf5a6e5oCd5oOz77yM5LiN57yW6YCg5Ye65aSE77yb546w5a6e6KGM5Yqo5piv6Z2i5ZCR5bm06L275Lq655qE5Y+v5pON5L2c5q2l6aqk44CCCm1vZHVsZS5leHBvcnRzID0gewogIOi/t+iMqzogewogICAgdGhlbWVMYWJlbDogIuaWueWQkeS4jeehruWumuOAgeS4jeefpemBk+S4i+S4gOatpSIsCiAgICBmcm9tOiB7IHRpdGxlOiAi6K666K+tIiwgc2VjdGlvbjogIuWtpuiAjCIgfSwKICAgIHByaW5jaXBsZTogIui/t+iMq+W4uOWboOaDs+W+l+WkmuOAgeWBmuW+l+Wwke+8m+WcqOWPjeWkjei3teihjOmHjOaWueWQkeS8muaFouaFoua4healmuOAgiIsCiAgICBpbnNwaXJhdGlvbjogIuS4jeefpemBk+aWueWQkeaXtu+8jOWFiOWKqOi1t+adpe+8jOaWueWQkeS8muWcqOihjOWKqOmHjOa1rueOsOOAgiIsCiAgICBhY3Rpb25zOiBbCiAgICAgICLlu7rnq4vjgIzmr4/ml6XkuIDlsI/mraXjgI3vvJrlj6rlrprkuIDkuKrku4rlpKnog73lrozmiJDnmoTlhbfkvZPliqjkvZzvvIzogIzkuI3mmK/mg7PmuIXmlbTkuKrkurrnlJ/jgIIiLAogICAgICAi5q+P5ZGo6K6w5LiA5qyh5Y+N6aaI77ya5YGa5LqG5LuA5LmI44CB5pyJ5LuA5LmI5paw5Y+R546w77yM6K6p5qih57OK5oSf5Y+Y5oiQ5YW35L2T5L+h5oGv44CCIiwKICAgICAgIumAieS4gOS4quaEn+WFtOi2o+eahOWwj+mihuWfn++8jOe7meiHquW3seS4pOWRqOivlemUme+8jOeUqOecn+WunuS9k+mqjOS7o+abv+epuuaDs+OAgiIsCiAgICBdLAogIH0sCiAg5a2m5LmgOiB7CiAgICB0aGVtZUxhYmVsOiAi5a2m5ZKM55So6L+e5LiN5LiK44CB5Yqo5Yqb5LiN6LazIiwKICAgIGZyb206IHsgdGl0bGU6ICLorrror60iLCBzZWN0aW9uOiAi5Li65pS/IiB9LAogICAgcHJpbmNpcGxlOiAi5a2m6ICM5LiN5oCd5YiZ572U77yM5oCd6ICM5LiN5a2m5YiZ5q6G77ya5a2m5ZKM5oCd6KaB5LiA6LW377yM5YWJ5a2m5LiN5raI5YyW5Lya6L+35oOY77yM5YWJ5oOz5LiN5a2m5Lya56m66L2s44CCIiwKICAgIGluc3BpcmF0aW9uOiAi5oqK5a2m5ZKM55y85YmN5LiA5Liq6Zeu6aKY6L+e6LW35p2l77yM5Yqo5Yqb5Lya5LuO44CM5a2m5LqG6IO955So5LiK44CN6YeM5oWi5oWi6ZW/5Ye65p2l44CCIiwKICAgIGFjdGlvbnM6IFsKICAgICAgIuavj+WtpuS4gOiKgu+8jOeUqOiHquW3seivneiusuS4gOmBjee7meaDs+ixoeS4reeahOaci+WPi+WQrOOAgiIsCiAgICAgICLmib7kuIDkuKrkvaDmraPlnKjlrabnmoTlhoXlrrnog73op6PlhrPnmoTlsI/pl67popjvvIzpqazkuIrnlKjkuIDmrKHjgIIiLAogICAgICAi5Zu65a6a5q+P5ZGo5aSN55uY77ya6L+Z5ZGo5byE5piO55m95LqG5LuA5LmI44CB5ZOq6YeM6L+Y5Y2h5L2P44CCIiwKICAgIF0sCiAgfSwKICDooYzliqg6IHsKICAgIHRoZW1lTGFiZWw6ICLmg7PlvpflpJrlgZrlvpflsJHjgIHov4jkuI3lh7rnrKzkuIDmraUiLAogICAgZnJvbTogeyB0aXRsZTogIumBk+W+t+e7jyIsIHNlY3Rpb246ICLnrKzlha3ljYHlm5vnq6AiIH0sCiAgICBwcmluY2lwbGU6ICLljYPph4zkuYvooYzvvIzlp4vkuo7otrPkuIvvvJrlpKfnm67moIfku47kuIDkuKrlsI/liLDkuI3lv4XpvJPli4fmsJTnmoTnrKzkuIDmraXlvIDlp4vjgIIiLAogICAgaW5zcGlyYXRpb246ICLlhYjlgZrkuIDkuKrkuKTlsI/ml7bog73lrozmiJDnmoTlsI/kvZzlk4HvvIzmr5Tmg7PmuIXmlbTkuKrorqHliJLmm7TmnInnlKjjgIIiLAogICAgYWN0aW9uczogWwogICAgICAi5oqK5b+15aS05ouG5oiQ5LiA5Liq44CM5Lik5bCP5pe25YaF6IO95a6M5oiQ44CN55qE5bCP5Yqo5L2c77yM5LuK5aSp5bCx5YGa44CCIiwKICAgICAgIuWBmuWujOeci+WPjemmiO+8jOWGjeWGs+WumuS4i+S4gOatpe+8jOS4jei/veaxguS4gOasoeaDs+mAj+OAgiIsCiAgICAgICLlhYHorrjoh6rlt7HlgZrlvpfnspfns5nvvIzlhYjliqjotbfmnaXmr5Tlroznvo7mm7Tph43opoHjgIIiLAogICAgXSwKICB9LAogIOaDhee7qjogewogICAgdGhlbWVMYWJlbDogIuaDhee7quiiq+ecvOWJjeWkhOWig+eJteedgOi1sCIsCiAgICBmcm9tOiB7IHRpdGxlOiAi5rKJ5oCd5b2VIiwgc2VjdGlvbjogIuWNt+WbmyIgfSwKICAgIHByaW5jaXBsZTogIuS9oOS4jeaYr+iiq+S6i+eJqeacrOi6q+WbsOaJsO+8jOiAjOaYr+iiq+S9oOWvueS6i+eJqeeahOeci+azleWbsOaJsOOAgiIsCiAgICBpbnNwaXJhdGlvbjogIuaDhee7quW+gOW+gOadpeiHquino+ivu+iAjOmdnuS6i+Wunu+8m+WFiOeci+a4heaYr+WTquS4gOW/teWcqOi9rO+8jOS6uuS8muabtOS7juWuueOAgiIsCiAgICBhY3Rpb25zOiBbCiAgICAgICLmiormraTliLvnmoTmg4Xnu6rlhpnkuIvmnaXvvIzlubbmoIfms6jop6blj5HlroPnmoTlhbfkvZPkuovku7bjgIIiLAogICAgICAi6Zeu6Ieq5bex77ya44CM5oiR5oqK5a6D5oOz5oiQ5LqG5LuA5LmI77yf44CN5oqK5LqL5a6e5ZKM6Kej6K+75YiG5byA44CCIiwKICAgICAgIuWBmuS4gOasoea3seWRvOWQuO+8jOaIluemu+W8gOeOsOWcuuS6lOWIhumSn++8jOaJk+aWreaDhee7queahOaDr+aAp+OAgiIsCiAgICBdLAogIH0sCiAg5YWz57O7OiB7CiAgICB0aGVtZUxhYmVsOiAi5Zyo5oSP5Yir5Lq66K+E5Lu344CB5YWz57O75raI6ICXIiwKICAgIGZyb206IHsgdGl0bGU6ICLorrror60iLCBzZWN0aW9uOiAi5Y2r54G15YWsIiB9LAogICAgcHJpbmNpcGxlOiAi5bex5omA5LiN5qyy77yM5Yu/5pa95LqO5Lq677yb5ZCM5pe25Yir5Lq655qE6K+E5Lu35piv5L2g5o6n5Yi25LiN5LqG55qE77yM5YWI5oqK5rOo5oSP5Yqb5pS+5Zue6Ieq5bex44CCIiwKICAgIGluc3BpcmF0aW9uOiAi5oqK5a+55LuW5Lq66K+E5Lu355qE5Zyo5oSP77yM5o2i5oiQ5a+56Ieq5bex6IqC5aWP5LiO5Lu35YC855qE56Gu6K6k44CCIiwKICAgIGFjdGlvbnM6IFsKICAgICAgIuWIl+WHuueOsOWcqOacgOWcqOaEj+iwgeeahOivhOS7t+OAgeS7peWPiuS4uuS7gOS5iOWcqOaEj+OAgiIsCiAgICAgICLmiorjgIzliKvkurrmgI7kuYjnnIvjgI3lkozjgIzkuovlrp7mmK/ku4DkuYjjgI3liIbmiJDkuKTmoI/lhpnkuIvmnaXjgIIiLAogICAgICAi5q+P5aSp5Y+q5oyR5LiA5Lu26Ieq5bex6IO95o6M5o6n55qE5LqL5YGa5aW977yM5YW25L2Z5YWI5pS+5LiL44CCIiwKICAgIF0sCiAgfSwKICDoh6rmiJE6IHsKICAgIHRoZW1lTGFiZWw6ICLmgIDnlpHoh6rlt7HnmoTku7flgLwiLAogICAgZnJvbTogeyB0aXRsZTogIuafj+aLieWbvuOAiueUs+i+qeevh+OAiyIsIHNlY3Rpb246ICLmkZjopoEiIH0sCiAgICBwcmluY2lwbGU6ICLorqTor4boh6rlt7HvvJrku7flgLzkuI3mnaXoh6rlkozliKvkurrmr5TvvIzogIzmnaXoh6rnnIvmuIXoh6rlt7HnnJ/mraPlnKjmhI/ku4DkuYjjgIIiLAogICAgaW5zcGlyYXRpb246ICLkvaDnnJ/mraPmg7PopoHnmoTvvIzluLjluLjlkozoh6rlt7Hku6XkuLrjgIzlupTor6XopoHjgI3nmoTkuI3kuIDmoLfjgIIiLAogICAgYWN0aW9uczogWwogICAgICAi5YaZ5LiJ5Lu25L2g5YGa6LW35p2l5Lya5b+Y6K6w5pe26Ze055qE5LqL77yM6YKj5b6A5b6A6JeP552A5L2g55yf5q2j5Zyo5oSP55qE44CCIiwKICAgICAgIuWMuuWIhuOAjOaIkeaDs+imgeOAjeWSjOOAjOWIq+S6uuW4jOacm+aIkeimgeOAje+8jOWQhOWGmeS4gOWIl+OAgiIsCiAgICAgICLmr4/lkajnlZnkuIDmrrXkuI3ooqvor4Tku7fnmoTml7bpl7TvvIzlj6rlgZrorqnoh6rlt7HoiJLmnI3nmoTkuovjgIIiLAogICAgXSwKICB9LAogIOmVv+acnzogewogICAgdGhlbWVMYWJlbDogIumVv+acn+aKleWFpeWNtOeci+S4jeWIsOWPjemmiCIsCiAgICBmcm9tOiB7IHRpdGxlOiAi5a2f5a2QIiwgc2VjdGlvbjogIuWRiuWtkOS4iyIgfSwKICAgIHByaW5jaXBsZTogIuWkqeWwhumZjeWkp+S7u+S6juaYr+S6uuS5n++8jOW/heWFiOiLpuWFtuW/g+W/l++8mumAhuWig+W4uOaYr+mVv+WHuumfp+WKsueahOWcsOaWueOAgiIsCiAgICBpbnNwaXJhdGlvbjogIuaKiuWkp+ebruagh+aLhuWwj+OAgeWIhumYtuautei1sO+8jOWFiOS/neS9j+iDvee7p+e7reWJjei/m+eahOmCo+eCueWKm+mHj+OAgiIsCiAgICBhY3Rpb25zOiBbCiAgICAgICLmiornm67moIfmi4bmiJDmnIjluqblsI/oioLngrnvvIzmr4/liLDkuIDkuKrlsLHorrDkuIDnrJTov5vlsZXjgIIiLAogICAgICAi6K6w5b2V5q+P6Zi25q6155qE6L+b5bGV77yM6ICM5LiN5Y+q5piv55uv552A5pyA57uI57uT5p6c44CCIiwKICAgICAgIuWFgeiuuOiHquW3seacieWWmOaBr++8jOmVv+acn+S4jeaYr+avj+WkqeWFqOWKm+WGsuWIuuOAgiIsCiAgICBdLAogIH0sCiAg5Yik5patOiB7CiAgICB0aGVtZUxhYmVsOiAi6YCJ6aG55aSq5aSa44CB5ou/5LiN5YeG6YeN54K5IiwKICAgIGZyb206IHsgdGl0bGU6ICLkuK3lurgiLCBzZWN0aW9uOiAi5pGY6KaBIiB9LAogICAgcHJpbmNpcGxlOiAi5omn5Lik55So5Lit77ya5oqT5L2P5Li76KaB55+b55u+77yM5YWI6LCD5p+l5YaN5LiL5Yik5pat77yM5LiN5oCl5LqO5LqM6YCJ5LiA44CCIiwKICAgIGluc3BpcmF0aW9uOiAi5YWI5oqK5oOF5Ya16LCD5p+l5riF5qWa77yM5YaN5oqT5pyA5Li76KaB55qE6YKj5Liq55+b55u+77yM5Yik5pat5Lya5pu056iz44CCIiwKICAgIGFjdGlvbnM6IFsKICAgICAgIuaKiumAiemhuemAkOadoeWGmeS4i+adpe+8jOWQhOWIl+WIqeW8iuS4juacgOWdj+WQjuaenOOAgiIsCiAgICAgICLlhYjoirHkuKTlkajmlLbpm4bkv6Hmga/vvIzlho3kuIvlhrPlrprvvIzkuI3mgKXnnYDmi43mnb/jgIIiLAogICAgICAi6Zeu6Ieq5bex77ya44CM5pyA5b2x5ZON5YWo5bGA55qE5piv5ZOq5LiA5Lu277yf44CN5YWI5oqT6YKj5Lu244CCIiwKICAgIF0sCiAgfSwKfTsK
+// 行动建议知识层（E-3）
+// 主题 → 思想原则 + 现实行动。让回答在「经典」之外，给出用户能落地的下一步，
+// 直接回应评审核心：经典不是答案，而是帮助用户找到答案的启发。
+// 原则取自 10 本公版经典的真实思想，不编造出处；现实行动是面向年轻人的可操作步骤。
+module.exports = {
+  迷茫: {
+    themeLabel: "方向不确定、不知道下一步",
+    from: { title: "论语", section: "学而" },
+    principle: "迷茫常因想得多、做得少；在反复践行里方向会慢慢清楚。",
+    inspiration: "不知道方向时，先动起来，方向会在行动里浮现。",
+    actions: [
+      "建立「每日一小步」：只定一个今天能完成的具体动作，而不是想清整个人生。",
+      "每周记一次反馈：做了什么、有什么新发现，让模糊感变成具体信息。",
+      "选一个感兴趣的小领域，给自己两周试错，用真实体验代替空想。",
+    ],
+  },
+  学习: {
+    themeLabel: "学和用连不上、动力不足",
+    from: { title: "论语", section: "为政" },
+    principle: "学而不思则罔，思而不学则殆：学和思要一起，光学不消化会迷惘，光想不学会空转。",
+    inspiration: "把学和眼前一个问题连起来，动力会从「学了能用上」里慢慢长出来。",
+    actions: [
+      "每学一节，用自己话讲一遍给想象中的朋友听。",
+      "找一个你正在学的内容能解决的小问题，马上用一次。",
+      "固定每周复盘：这周弄明白了什么、哪里还卡住。",
+    ],
+  },
+  行动: {
+    themeLabel: "想得多做得少、迈不出第一步",
+    from: { title: "道德经", section: "第六十四章" },
+    principle: "千里之行，始于足下：大目标从一个小到不必鼓勇气的第一步开始。",
+    inspiration: "先做一个两小时能完成的小作品，比想清整个计划更有用。",
+    actions: [
+      "把念头拆成一个「两小时内能完成」的小动作，今天就做。",
+      "做完看反馈，再决定下一步，不追求一次想透。",
+      "允许自己做得粗糙，先动起来比完美更重要。",
+    ],
+  },
+  情绪: {
+    themeLabel: "情绪被眼前处境牵着走",
+    from: { title: "沉思录", section: "卷四" },
+    principle: "你不是被事物本身困扰，而是被你对事物的看法困扰。",
+    inspiration: "情绪往往来自解读而非事实；先看清是哪一念在转，人会更从容。",
+    actions: [
+      "把此刻的情绪写下来，并标注触发它的具体事件。",
+      "问自己：「我把它想成了什么？」把事实和解读分开。",
+      "做一次深呼吸，或离开现场五分钟，打断情绪的惯性。",
+    ],
+  },
+  关系: {
+    themeLabel: "在意别人评价、关系消耗",
+    from: { title: "论语", section: "卫灵公" },
+    principle: "己所不欲，勿施于人；同时别人的评价是你控制不了的，先把注意力放回自己。",
+    inspiration: "把对他人评价的在意，换成对自己节奏与价值的确认。",
+    actions: [
+      "列出现在最在意谁的评价、以及为什么在意。",
+      "把「别人怎么看」和「事实是什么」分成两栏写下来。",
+      "每天只挑一件自己能掌控的事做好，其余先放下。",
+    ],
+  },
+  自我: {
+    themeLabel: "怀疑自己的价值",
+    from: { title: "柏拉图《申辩篇》", section: "摘要" },
+    principle: "认识自己：价值不来自和别人比，而来自看清自己真正在意什么。",
+    inspiration: "你真正想要的，常常和自己以为「应该要」的不一样。",
+    actions: [
+      "写三件你做起来会忘记时间的事，那往往藏着你真正在意的。",
+      "区分「我想要」和「别人希望我要」，各写一列。",
+      "每周留一段不被评价的时间，只做让自己舒服的事。",
+    ],
+  },
+  长期: {
+    themeLabel: "长期投入却看不到反馈",
+    from: { title: "孟子", section: "告子下" },
+    principle: "天将降大任于是人也，必先苦其心志：逆境常是长出韧劲的地方。",
+    inspiration: "把大目标拆小、分阶段走，先保住能继续前进的那点力量。",
+    actions: [
+      "把目标拆成月度小节点，每到一个就记一笔进展。",
+      "记录每阶段的进展，而不只是盯着最终结果。",
+      "允许自己有喘息，长期不是每天全力冲刺。",
+    ],
+  },
+  判断: {
+    themeLabel: "选项太多、拿不准重点",
+    from: { title: "中庸", section: "摘要" },
+    principle: "执两用中：抓住主要矛盾，先调查再下判断，不急于二选一。",
+    inspiration: "先把情况调查清楚，再抓最主要的那个矛盾，判断会更稳。",
+    actions: [
+      "把选项逐条写下来，各列利弊与最坏后果。",
+      "先花两周收集信息，再下决定，不急着拍板。",
+      "问自己：「最影响全局的是哪一件？」先抓那件。",
+    ],
+  },
+};

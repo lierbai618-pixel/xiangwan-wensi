@@ -1,1 +1,233 @@
-ewogICJtZXRhIjogewogICAgImdlbmVyYXRlZCI6ICIyMDI2LTA4LTAxVDE0OjMxOjUxLjc3OVoiLAogICAgImtiX21vZGVfZGVmYXVsdCI6ICJsZWdhY3kiLAogICAgInJvdXRlcl9tb2R1bGUiOiAia25vd2xlZGdlUm91dGVyLmpzIgogIH0sCiAgInNlY3Rpb25zIjogewogICAgInBoYXNlSF8xMDBfbm9vcCI6IHsKICAgICAgInRvdGFsIjogMTAwLAogICAgICAibm9uU2tpcCI6IDc4LAogICAgICAic2tpcF9ub1JldHJpZXZlIjogMjIsCiAgICAgICJyYW5rQ2h1bmtzX21pc21hdGNoIjogNjIsCiAgICAgICJsZWdhY3lSZXRyaWV2ZV9taXNtYXRjaCI6IDAsCiAgICAgICJzYW1wbGVzIjogWwogICAgICAgIHsKICAgICAgICAgICJxIjogIuS4uuS7gOS5iOWkqeepuuaYr+iTneiJsu+8nyIsCiAgICAgICAgICAib2ZmIjogWwogICAgICAgICAgICAi5bC85ZCE6ams5Y+v5Lym55CG5a2m77yI6IqC6YCJ77yJIgogICAgICAgICAgXSwKICAgICAgICAgICJvbiI6IFsKICAgICAgICAgICAgIuWwvOWQhOmprOWPr+S8pueQhuWtpu+8iOiKgumAie+8iSIsCiAgICAgICAgICAgICLorrror60iLAogICAgICAgICAgICAi5aSn5a2mIgogICAgICAgICAgXQogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgInEiOiAi5LuA5LmI5piv5LqR6K6h566X77yfIiwKICAgICAgICAgICJvZmYiOiBbXSwKICAgICAgICAgICJvbiI6IFsKICAgICAgICAgICAgIuiuuuivrSIsCiAgICAgICAgICAgICLlpKflraYiLAogICAgICAgICAgICAi6YGT5b6357uPIgogICAgICAgICAgXQogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgInEiOiAi5LuA5LmI5piv5b6u5pyN5Yqh5p625p6E77yfIiwKICAgICAgICAgICJvZmYiOiBbXSwKICAgICAgICAgICJvbiI6IFsKICAgICAgICAgICAgIuiuuuivrSIsCiAgICAgICAgICAgICLlpKflraYiLAogICAgICAgICAgICAi6YGT5b6357uPIgogICAgICAgICAgXQogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgInEiOiAi5Li65LuA5LmI5Lq65Lya55eb6Ium77yfIiwKICAgICAgICAgICJvZmYiOiBbCiAgICAgICAgICAgICLlsLzlkITpqazlj6/kvKbnkIblrabvvIjoioLpgInvvIkiCiAgICAgICAgICBdLAogICAgICAgICAgIm9uIjogWwogICAgICAgICAgICAi5bC85ZCE6ams5Y+v5Lym55CG5a2m77yI6IqC6YCJ77yJIiwKICAgICAgICAgICAgIuiuuuivrSIsCiAgICAgICAgICAgICLlpKflraYiCiAgICAgICAgICBdCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAicSI6ICLlpoLkvZXpnaLlr7nmrbvkuqHvvJ8iLAogICAgICAgICAgIm9mZiI6IFsKICAgICAgICAgICAgIuafj+aLieWbvuOAiueUs+i+qeevh+OAiyIKICAgICAgICAgIF0sCiAgICAgICAgICAib24iOiBbCiAgICAgICAgICAgICLmn4/mi4nlm77jgIrnlLPovqnnr4fjgIsiLAogICAgICAgICAgICAi6K666K+tIiwKICAgICAgICAgICAgIuWkp+WtpiIKICAgICAgICAgIF0KICAgICAgICB9CiAgICAgIF0KICAgIH0sCiAgICAidGZfaW5qZWN0aW9uIjogewogICAgICAicmVnX24iOiA1MCwKICAgICAgImNsYXNzaWNfaGl0M19ub1AwNCI6IDAuNjgsCiAgICAgICJjbGFzc2ljX2hpdDNfZmxhdFdpdGhQMDQiOiAwLjY2LAogICAgICAiY2xhc3NpY19oaXQzX3JvdXRlZCI6IDAuODYsCiAgICAgICJmbGF0X2ludHJ1c2lvbiI6IDYsCiAgICAgICJyb3V0ZWRfaW50cnVzaW9uIjogMCwKICAgICAgImRpc3BsYWNlZCI6IDEsCiAgICAgICJkaXNwbGFjZWRfaWRzIjogWwogICAgICAgIDQ1CiAgICAgIF0sCiAgICAgICJkaXNwbGFjZWRfZGV0YWlsIjogWwogICAgICAgIHsKICAgICAgICAgICJpZCI6IDQ1LAogICAgICAgICAgInEiOiAi5YGa5Yaz5a6a5pe25ZCs6Ieq5bex55qE6L+Y5piv5ZCs5Yir5Lq655qE77yfIiwKICAgICAgICAgICJmbGF0IjogWwogICAgICAgICAgICAi5rKJ5oCd5b2VIiwKICAgICAgICAgICAgIuehruiupOWBj+W3ruamguW/teWNocK35bqU5a+55pa55rOVIiwKICAgICAgICAgICAgIuehruiupOWBj+W3ruamguW/teWNocK35YW45Z6L6KGo546wIgogICAgICAgICAgXSwKICAgICAgICAgICJyb3V0ZWQiOiBbCiAgICAgICAgICAgICLmsonmgJ3lvZUiLAogICAgICAgICAgICAi6YGT5b6357uPIiwKICAgICAgICAgICAgIuWtn+WtkCIKICAgICAgICAgIF0KICAgICAgICB9CiAgICAgIF0sCiAgICAgICJiZW5jaF9uIjogMjAsCiAgICAgICJiZW5jaF9oaXQzX2ZsYXQiOiAwLjksCiAgICAgICJiZW5jaF9oaXQzX3JvdXRlZCI6IDEKICAgIH0sCiAgICAiZW1iZWRkaW5nX3dvcmxkIjogewogICAgICAicmVnX24iOiA1MCwKICAgICAgImNsYXNzaWNfaGl0M19iZWZvcmUiOiAwLjgyLAogICAgICAiY2xhc3NpY19oaXQzX2ZsYXQiOiAwLjc0LAogICAgICAiY2xhc3NpY19oaXQzX3JvdXRlZCI6IDAuODIsCiAgICAgICJmbGF0X2ludHJ1c2lvbl9yYXRlIjogMC4yNiwKICAgICAgInJvdXRlZF9pbnRydXNpb25fcmF0ZSI6IDAsCiAgICAgICJkaXNwbGFjZWQiOiA0LAogICAgICAiZGlzcGxhY2VkX2lkcyI6IFsKICAgICAgICAzLAogICAgICAgIDgsCiAgICAgICAgMjAsCiAgICAgICAgNDgKICAgICAgXSwKICAgICAgImRpc3BsYWNlZF9kZXRhaWwiOiBbCiAgICAgICAgewogICAgICAgICAgImlkIjogMywKICAgICAgICAgICJxIjogIuecn+eQhuWSjOWkmuaVsOS6uueahOaEj+ingeWGsueqgeaAjuS5iOWKnu+8nyIsCiAgICAgICAgICAiZmxhdCI6IFsKICAgICAgICAgICAgIuehruiupOWBj+W3ruamguW/teWNoSIsCiAgICAgICAgICAgICLnoa7orqTlgY/lt67mpoLlv7XljaEiLAogICAgICAgICAgICAi5rKJ5oCd5b2VIgogICAgICAgICAgXSwKICAgICAgICAgICJyb3V0ZWQiOiBbCiAgICAgICAgICAgICLmsonmgJ3lvZUiLAogICAgICAgICAgICAi5p+P5ouJ5Zu+44CK55Sz6L6p56+H44CLIiwKICAgICAgICAgICAgIueIseavlOWFi+azsOW+t+OAiuaJi+WGjOOAiyIKICAgICAgICAgIF0KICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJpZCI6IDgsCiAgICAgICAgICAicSI6ICLlpKflrrbpg73lj43lr7nmiJHvvIzmmK/kuI3mmK/miJHplJnkuobvvJ8iLAogICAgICAgICAgImZsYXQiOiBbCiAgICAgICAgICAgICLnoa7orqTlgY/lt67mpoLlv7XljaEiLAogICAgICAgICAgICAi56Gu6K6k5YGP5beu5qaC5b+15Y2hIiwKICAgICAgICAgICAgIueIseavlOWFi+azsOW+t+OAiuaJi+WGjOOAiyIKICAgICAgICAgIF0sCiAgICAgICAgICAicm91dGVkIjogWwogICAgICAgICAgICAi54ix5q+U5YWL5rOw5b6344CK5omL5YaM44CLIiwKICAgICAgICAgICAgIuayieaAneW9lSIsCiAgICAgICAgICAgICLmn4/mi4nlm77jgIrnlLPovqnnr4fjgIsiCiAgICAgICAgICBdCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAiaWQiOiAyMCwKICAgICAgICAgICJxIjogIuWmguS9lemdouWvueivseaDke+8nyIsCiAgICAgICAgICAiZmxhdCI6IFsKICAgICAgICAgICAgIuayieaAneW9lSIsCiAgICAgICAgICAgICLniLHmr5TlhYvms7DlvrfjgIrmiYvlhozjgIsiLAogICAgICAgICAgICAi56Gu6K6k5YGP5beu5qaC5b+15Y2hIgogICAgICAgICAgXSwKICAgICAgICAgICJyb3V0ZWQiOiBbCiAgICAgICAgICAgICLmsonmgJ3lvZUiLAogICAgICAgICAgICAi54ix5q+U5YWL5rOw5b6344CK5omL5YaM44CLIiwKICAgICAgICAgICAgIuWtn+WtkCIKICAgICAgICAgIF0KICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJpZCI6IDQ4LAogICAgICAgICAgInEiOiAi5pyL5Y+L54qv5LqG6ZSZ77yM5oiR6KaB5LiN6KaB5oyH5Ye677yfIiwKICAgICAgICAgICJmbGF0IjogWwogICAgICAgICAgICAi56Gu6K6k5YGP5beu5qaC5b+15Y2hIiwKICAgICAgICAgICAgIuehruiupOWBj+W3ruamguW/teWNoSIsCiAgICAgICAgICAgICLnoa7orqTlgY/lt67mpoLlv7XljaEiCiAgICAgICAgICBdLAogICAgICAgICAgInJvdXRlZCI6IFsKICAgICAgICAgICAgIuafj+aLieWbvuOAiueUs+i+qeevh+OAiyIsCiAgICAgICAgICAgICLmsonmgJ3lvZUiLAogICAgICAgICAgICAi6K666K+tIgogICAgICAgICAgXQogICAgICAgIH0KICAgICAgXSwKICAgICAgImJlbmNoX24iOiAyMCwKICAgICAgImJlbmNoX2hpdDNfZmxhdCI6IDEsCiAgICAgICJiZW5jaF9oaXQzX3JvdXRlZCI6IDEKICAgIH0sCiAgICAiZXh0ZW5zaWJpbGl0eSI6IHsKICAgICAgInVua25vd25fdHlwZV9uZXV0cmFsX3NhZmUiOiB0cnVlLAogICAgICAidW5rbm93bl90eXBlcyI6IFsKICAgICAgICAibWFuYWdlbWVudCIsCiAgICAgICAgImxhdyIsCiAgICAgICAgInNjaWVuY2UiLAogICAgICAgICJoaXN0b3J5IgogICAgICBdLAogICAgICAid29ya3BsYWNlX3F1ZXN0aW9uX3JvdXRlZF90aXRsZXMiOiBbCiAgICAgICAgIuiuuuivrSIsCiAgICAgICAgIuWkp+WtpiIsCiAgICAgICAgIumBk+W+t+e7jyIsCiAgICAgICAgIuW6hOWtkCIsCiAgICAgICAgIuWtn+WtkCIKICAgICAgXSwKICAgICAgIm1hbmFnZW1lbnRfZG9jX3ByZXNlbnRfd2hlbl9wcmlvcml0aXplZCI6IHRydWUsCiAgICAgICJhcmNoaXRlY3R1cmVfbm90ZSI6ICLmlrDlop7nsbvlnovku4XpnIDvvJrikaDlnKggcm91dGVRdWVzdGlvbiDlop7liqDln5/liIbmlK/lubborr7nva4ga25vd2xlZGdlUHJpb3JpdHkvcHJlZmVycmVkVHlwZXPvvJvikaFkb2Mg5bimIGtub3dsZWRnZV90eXBlIOWFg+aVsOaNruOAgnJhZy5qcyDmo4DntKIv6YeN5o6S5Luj56CB5LiOIHJvdXRlckFkaiDnrb7lkI3pm7bmlLnliqjjgIIiCiAgICB9LAogICAgInJvbGxiYWNrIjogewogICAgICAiZW5hYmxlZF9zdGF0ZSI6IHsKICAgICAgICAiZW5hYmxlZF9yb3V0ZV9yZWFzb24iOiAiY2xhc3NpYy1wcmlvcml0eS1kb21haW4iLAogICAgICAgICJlbmFibGVkX2Fkal9jbGFzc2ljIjogOTAsCiAgICAgICAgImRpc2FibGVkX2Fkal9jbGFzc2ljIjogOTAsCiAgICAgICAgIm9uX2VxX29mZiI6IGZhbHNlLAogICAgICAgICJvbl90aXRsZXMiOiBbCiAgICAgICAgICAi5a2f5a2QIiwKICAgICAgICAgICLorrror60iLAogICAgICAgICAgIuWkp+WtpiIKICAgICAgICBdLAogICAgICAgICJvZmZfdGl0bGVzIjogWwogICAgICAgICAgIuWtn+WtkCIKICAgICAgICBdCiAgICAgIH0sCiAgICAgICJkaXNhYmxlZF9zdGF0ZSI6IHsKICAgICAgICAiZW5hYmxlZF9yb3V0ZV9yZWFzb24iOiAicm91dGVyLWRpc2FibGVkIiwKICAgICAgICAiZW5hYmxlZF9hZGpfY2xhc3NpYyI6IDAsCiAgICAgICAgImRpc2FibGVkX2Fkal9jbGFzc2ljIjogMCwKICAgICAgICAib25fZXFfb2ZmIjogdHJ1ZSwKICAgICAgICAib25fdGl0bGVzIjogWwogICAgICAgICAgIuWtn+WtkCIKICAgICAgICBdLAogICAgICAgICJvZmZfdGl0bGVzIjogWwogICAgICAgICAgIuWtn+WtkCIKICAgICAgICBdCiAgICAgIH0sCiAgICAgICJyb2xsYmFja19lZmZlY3RpdmUiOiB0cnVlLAogICAgICAibm90ZSI6ICJLQl9ST1VURVJfRU5BQkxFRD1mYWxzZSDml7Ygcm91dGVyQWRqIOaBkuS4uiAw77yMcmV0cmlldmUg6Lev55Sx57uT5p6c5LiOIHJvdXRlPW51bGwg5pen5rWB56iL6YCQ5a2X6IqC5LiA6Ie044CCIgogICAgfQogIH0sCiAgImFjY2VwdGFuY2UiOiB7CiAgICAicm91dGVyX29ubHlfcmV0cmlldmFsX25vb3AiOiB0cnVlLAogICAgImNsYXNzaWNfaGl0M19nZV8wODIiOiB0cnVlLAogICAgImNvbmNlcHRfaW50cnVzaW9uX2VxXzAiOiB0cnVlLAogICAgImJlbmNobWFya19oaXQzX2dlXzA5NSI6IHRydWUsCiAgICAiZXh0ZW5zaWJpbGl0eV9zYWZlIjogdHJ1ZSwKICAgICJyb2xsYmFja19lZmZlY3RpdmUiOiB0cnVlCiAgfSwKICAiZ29fbm9fZ28iOiB0cnVlCn0=
+{
+  "meta": {
+    "generated": "2026-08-01T14:31:51.779Z",
+    "kb_mode_default": "legacy",
+    "router_module": "knowledgeRouter.js"
+  },
+  "sections": {
+    "phaseH_100_noop": {
+      "total": 100,
+      "nonSkip": 78,
+      "skip_noRetrieve": 22,
+      "rankChunks_mismatch": 62,
+      "legacyRetrieve_mismatch": 0,
+      "samples": [
+        {
+          "q": "为什么天空是蓝色？",
+          "off": [
+            "尼各马可伦理学（节选）"
+          ],
+          "on": [
+            "尼各马可伦理学（节选）",
+            "论语",
+            "大学"
+          ]
+        },
+        {
+          "q": "什么是云计算？",
+          "off": [],
+          "on": [
+            "论语",
+            "大学",
+            "道德经"
+          ]
+        },
+        {
+          "q": "什么是微服务架构？",
+          "off": [],
+          "on": [
+            "论语",
+            "大学",
+            "道德经"
+          ]
+        },
+        {
+          "q": "为什么人会痛苦？",
+          "off": [
+            "尼各马可伦理学（节选）"
+          ],
+          "on": [
+            "尼各马可伦理学（节选）",
+            "论语",
+            "大学"
+          ]
+        },
+        {
+          "q": "如何面对死亡？",
+          "off": [
+            "柏拉图《申辩篇》"
+          ],
+          "on": [
+            "柏拉图《申辩篇》",
+            "论语",
+            "大学"
+          ]
+        }
+      ]
+    },
+    "tf_injection": {
+      "reg_n": 50,
+      "classic_hit3_noP04": 0.68,
+      "classic_hit3_flatWithP04": 0.66,
+      "classic_hit3_routed": 0.86,
+      "flat_intrusion": 6,
+      "routed_intrusion": 0,
+      "displaced": 1,
+      "displaced_ids": [
+        45
+      ],
+      "displaced_detail": [
+        {
+          "id": 45,
+          "q": "做决定时听自己的还是听别人的？",
+          "flat": [
+            "沉思录",
+            "确认偏差概念卡·应对方法",
+            "确认偏差概念卡·典型表现"
+          ],
+          "routed": [
+            "沉思录",
+            "道德经",
+            "孟子"
+          ]
+        }
+      ],
+      "bench_n": 20,
+      "bench_hit3_flat": 0.9,
+      "bench_hit3_routed": 1
+    },
+    "embedding_world": {
+      "reg_n": 50,
+      "classic_hit3_before": 0.82,
+      "classic_hit3_flat": 0.74,
+      "classic_hit3_routed": 0.82,
+      "flat_intrusion_rate": 0.26,
+      "routed_intrusion_rate": 0,
+      "displaced": 4,
+      "displaced_ids": [
+        3,
+        8,
+        20,
+        48
+      ],
+      "displaced_detail": [
+        {
+          "id": 3,
+          "q": "真理和多数人的意见冲突怎么办？",
+          "flat": [
+            "确认偏差概念卡",
+            "确认偏差概念卡",
+            "沉思录"
+          ],
+          "routed": [
+            "沉思录",
+            "柏拉图《申辩篇》",
+            "爱比克泰德《手册》"
+          ]
+        },
+        {
+          "id": 8,
+          "q": "大家都反对我，是不是我错了？",
+          "flat": [
+            "确认偏差概念卡",
+            "确认偏差概念卡",
+            "爱比克泰德《手册》"
+          ],
+          "routed": [
+            "爱比克泰德《手册》",
+            "沉思录",
+            "柏拉图《申辩篇》"
+          ]
+        },
+        {
+          "id": 20,
+          "q": "如何面对诱惑？",
+          "flat": [
+            "沉思录",
+            "爱比克泰德《手册》",
+            "确认偏差概念卡"
+          ],
+          "routed": [
+            "沉思录",
+            "爱比克泰德《手册》",
+            "孟子"
+          ]
+        },
+        {
+          "id": 48,
+          "q": "朋友犯了错，我要不要指出？",
+          "flat": [
+            "确认偏差概念卡",
+            "确认偏差概念卡",
+            "确认偏差概念卡"
+          ],
+          "routed": [
+            "柏拉图《申辩篇》",
+            "沉思录",
+            "论语"
+          ]
+        }
+      ],
+      "bench_n": 20,
+      "bench_hit3_flat": 1,
+      "bench_hit3_routed": 1
+    },
+    "extensibility": {
+      "unknown_type_neutral_safe": true,
+      "unknown_types": [
+        "management",
+        "law",
+        "science",
+        "history"
+      ],
+      "workplace_question_routed_titles": [
+        "论语",
+        "大学",
+        "道德经",
+        "庄子",
+        "孟子"
+      ],
+      "management_doc_present_when_prioritized": true,
+      "architecture_note": "新增类型仅需：①在 routeQuestion 增加域分支并设置 knowledgePriority/preferredTypes；②doc 带 knowledge_type 元数据。rag.js 检索/重排代码与 routerAdj 签名零改动。"
+    },
+    "rollback": {
+      "enabled_state": {
+        "enabled_route_reason": "classic-priority-domain",
+        "enabled_adj_classic": 90,
+        "disabled_adj_classic": 90,
+        "on_eq_off": false,
+        "on_titles": [
+          "孟子",
+          "论语",
+          "大学"
+        ],
+        "off_titles": [
+          "孟子"
+        ]
+      },
+      "disabled_state": {
+        "enabled_route_reason": "router-disabled",
+        "enabled_adj_classic": 0,
+        "disabled_adj_classic": 0,
+        "on_eq_off": true,
+        "on_titles": [
+          "孟子"
+        ],
+        "off_titles": [
+          "孟子"
+        ]
+      },
+      "rollback_effective": true,
+      "note": "KB_ROUTER_ENABLED=false 时 routerAdj 恒为 0，retrieve 路由结果与 route=null 旧流程逐字节一致。"
+    }
+  },
+  "acceptance": {
+    "router_only_retrieval_noop": true,
+    "classic_hit3_ge_082": true,
+    "concept_intrusion_eq_0": true,
+    "benchmark_hit3_ge_095": true,
+    "extensibility_safe": true,
+    "rollback_effective": true
+  },
+  "go_no_go": true
+}

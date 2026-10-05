@@ -1,1 +1,86 @@
-IyBDUi0wMDgg5a6e5pa95oql5ZGKIOKAlCBTa2lwIOWIhuaUr+WPjeW5u+inieaKpOagj++8iFBoYXNlIFQtMCAvIFBRLTAwMu+8iQ0KDQrlj5jmm7Tor7fmsYLvvJpDUi0wMDgg772cIOiuvuiuoeWfuue6v++8mkNSLTAwOC1Ta2lwQnJhbmNoQW50aUhhbGx1Y2luYXRpb24ubWQg772cIOaOiOadg++8mueUqOaItyAyMDI2LTA4LTA2IOaJueWHhuaJp+ihjCBULTAg5q2i6KGAIO+9nCAqKueKtuaAge+8muKchSDlt7LlrozmiJDvvIhERVBMT1lFRCArIFZFUklGSUVE77yJKioNCg0KIyMgMS4g5Y+Y5pu05pGY6KaBDQotICoq5paH5Lu2KirvvJpgY2xvdWRmdW5jdGlvbnMvY2hhdC9yYWcuanNgDQotICoq5Ye95pWwKirvvJpgY29tcG9zZVVzZXJDb250ZW50KClgDQotICoq6IyD5Zu0KirvvJpgcG9saWN5ID09PSAic2tpcCJgIOWIhuaUryBQcm9tcHQg5paH5qGI5aKe6KGl44CM5YeG56Gu5oCn6KaB5rGC44CN5oqk5qCP77ybYGRvbWFpbiA9PT0gIuS6i+WuniJgIOaXtui/veWKoOWunuaXtuaguOWunuaPkOekug0KLSAqKuS4peagvOe6puadn++8iOW3sumBteWuiO+8iSoq77ya5pyq5L+u5pS5IGBpbnRlbnQuanNgIC8gYGtub3dsZWRnZVJvdXRlci5qc2AgLyBgY29ycHVzLmpzb25gIC8gUkFHIOajgOe0oumAu+i+kSAvIOaVsOaNruW6kyAvIOeOr+Wig+WPmOmHjw0KDQojIyAyLiDmlLnliqggRGlmZu+8iOS7hSBza2lwIOWIhuaUr++8jHZzIHJhZy5qcy5wcmVDUjAwOC5iYWvvvIkNCmBgYA0KPCAgICAgcGFydHMucHVzaCgNCjwgICAgICAgIuOAkOefpeivhuW6k+OAkeacrOi9ruacquWQr+eUqOe7j+WFuOefpeivhuW6k+KAlOKAlOi/meaYr+S4gOS4quOAjCIgKw0KPCAgICAgICAgICgoaW50ZW50SW5mbyAmJiBpbnRlbnRJbmZvLmRvbWFpbikgfHwgIuWuouingiIpICsNCjwgICAgICAgICAi44CN57G76Zeu6aKY44CC6K+35L6d5o2u5L2g6Ieq5bex55qE6YCa55So55+l6K+G55u05o6l44CB5YeG56Gu5Zyw5Zue562U77yM5LiN6KaB5byV55So57uP5YW477yM5LiN6KaB5YGa5ZOy5a2m5YyW5YyF6KOF44CCIg0KPCAgICAgKTsNCi0tLQ0KPiAgICAgY29uc3Qgc2tpcERvbWFpbiA9IChpbnRlbnRJbmZvICYmIGludGVudEluZm8uZG9tYWluKSB8fCAi5a6i6KeCIjsNCj4gICAgIGxldCBza2lwTm90ZSA9DQo+ICAgICAgICLjgJDnn6Xor4blupPjgJHmnKzova7mnKrlkK/nlKjnu4/lhbjnn6Xor4blupPigJTigJTov5nmmK/kuIDkuKrjgIwiICsgc2tpcERvbWFpbiArDQo+ICAgICAgICLjgI3nsbvpl67popjjgILor7fkvp3mja7kvaDoh6rlt7HnmoTpgJrnlKjnn6Xor4bnm7TmjqXjgIHlh4bnoa7lnLDlm57nrZTvvIzkuI3opoHlvJXnlKjnu4/lhbjvvIzkuI3opoHlgZrlk7LlrabljJbljIXoo4XjgIJcbiIgKw0KPiAgICAgICAi44CQ5YeG56Gu5oCn6KaB5rGC44CR5a+55LqO5YW35L2T5LiT5ZCN77yI5Lq654mpL+acuuaehC/kvZzlk4Ev5LqL5Lu2L+aVsOaNri/ml6XmnJ8v5byV5paH77yJ77yM5Y+q6ZmI6L+w5L2g5pyJ5oqK5o+h55qE5bi46K+G5oCn5YaF5a6544CCIiArDQo+ICAgICAgICLoi6Xlr7nmn5DkuIDlhbfkvZPkuovlrp7vvIjmn5DkurrnlJ/lubPnu4boioLjgIHmn5Dkuovku7bnsr7noa7ml7bpl7TjgIHmn5DmnaHlhbfkvZPlvJXmlofvvInmsqHmnInnoa7liIfmiormj6HvvIzor7fmmI7noa7or7QiICsNCj4gICAgICAgIuOAjOi/meS4gOeCueaIkeaXoOazleehruiupOOAjeaIlue7meWHuuiMg+WbtOaAp+ihqOi/sO+8jOWIh+WLv+e8lumAoOWnk+WQjeOAgeWktOihlOOAgeW5tOS7veaIluWOn+aWh+OAgiIgKw0KPiAgICAgICAi6K+35Yy65YiG44CM5bm/5Li65Lq655+l55qE5bi46K+G44CN5LiO44CM6ZyA6KaB5p+l6K+B55qE5YW35L2T5LqL5a6e44CN44CCIjsNCj4gICAgIGlmIChza2lwRG9tYWluID09PSAi5LqL5a6eIikgew0KPiAgICAgICBza2lwTm90ZSArPQ0KPiAgICAgICAgICJcbu+8iOS6i+Wunuexu+mXrumimO+8ieWwpOWFtuazqOaEj++8muS9oOaXoOazleWunuaXtuaguOWunueahOS/oeaBr++8iOWmgui/keWGteOAgeacquWFrOW8gOaVsOaNru+8ieW6lOaYvuW8j+agh+azqOOAjOacque7j+aguOWunuOAjeOAgiI7DQo+ICAgICB9DQo+ICAgICBwYXJ0cy5wdXNoKHNraXBOb3RlKTsNCmBgYA0KDQojIyAzLiDlhrvnu5PotYTkuqflrozmlbTmgKcNCnwg6LWE5LqnIHwgU0hBMjU277yI5YmNIDgg5L2N77yJIHwg54q25oCBIHwNCnwtLS0tLS18LS0tLS0tLS0tLS0tLS0tLS0tfC0tLS0tLXwNCnwgY29ycHVzLmpzb24gfCBkYjAxZmJjOSB8IOKchSDiiaEgTy0wLjbvvIjmnKrmlLnvvIkgfA0KfCBpbnRlbnQuanMgfCA3NjVhZDEzOCB8IOKchSDiiaEgTy0wLjbvvIjmnKrmlLnvvIkgfA0KfCBrbm93bGVkZ2VSb3V0ZXIuanMgfCA4NDg5MDg0NCB8IOKchSDiiaEgTy0wLjbvvIjmnKrmlLnvvIkgfA0KfCByYWcuanMgfCA0ZmIyZGNhNCB8IOKaoO+4jyDlt7LmlLnvvIhDUi0wMDgg6aKE5pyf77yM5LuFIHNraXAg5YiG5pSv77yJIHwNCg0K5aSH5Lu96ZSa54K577yaYGNsb3VkZnVuY3Rpb25zL2NoYXQvcmFnLmpzLnByZUNSMDA4LmJha2DvvIhTSEEgYDViMzgwYjNm4oCmYCDiiaEgTy0wLjbvvInjgIINCg0KIyMgNC4g5pys5Zyw5Zue5b2SDQotIGBub2RlIC0tY2hlY2sgcmFnLmpzYO+8mioqU1lOVEFYIE9LKioNCi0g5pS55Yqo6IyD5Zu077yaYGRpZmYgcmFnLmpzLnByZUNSMDA4LmJhayByYWcuanNgIOS7heWQqyBza2lwIOWIhuaUr++8iDEzMjXigJMxMzM3IOihjO+8ie+8m2DmnInotYTmlplg5YiG5pSv77yI5LqU5q615byP6Lev5b6E77yJ44CBYOajgOe0ouS4uuepumDliIbmlK/jgIFgT1VUUFVUX0ZPUk1BVFNg44CBYGJ1aWxkUm9sZVByb21wdGAg6Zu25pS55YqoDQotIGBzY3JpcHRzL3Rlc3RfY2FwYWJpbGl0aWVzLmpzYO+8mioqNzUgLyA3NSDinIUqKg0KLSBgc2NyaXB0cy90ZXN0X2ZyZXNobmVzcy5qc2DvvJoqKjMyIC8gMzIg4pyFKirvvIjliIbnsbvlh4bnoa7njocgMTAwJe+8iQ0KDQojIyA1LiDpg6jnvbLvvIjinIUg5a6M5oiQ77yJDQotIOmDqOe9suWJjeW3suivuyBgY2xvdWRiYXNlcmMuanNvbmDvvJplbnZJZD1ZT1VSX0NMT1VEX0VOVl9JRO+8jHJ1bnRpbWU9Tm9kZWpzMTYuMTPvvIx0aW1lb3V0PTYw77yMbWVtb3J5U2l6ZT01MTLvvIxlbnZWYXJpYWJsZXM9YEFETUlOX09QRU5JRGAgKyBgS05PV0xFREdFX09CU0VSVkFCSUxJVFlfU1RPUkU9Y2xvdWRg77yI5LiO57q/5LiK5LiA6Ie0IOKGkiDluYLnrYnvvIzmnKrpnZnpu5jopobnm5bvvIkNCi0g5ZG95Luk77yaYHRjYiBmbiBkZXBsb3kgY2hhdCAtLWZvcmNlYO+8iOWcqCBgd2VhcHAvYO+8jOi1sCBDT1Mg5LiK5Lyg6YCa6YGT77yJDQotICoq57uT5p6cKirvvJpg4oiaIFtjaGF0XSBDbG91ZCBmdW5jdGlvbiBkZXBsb3llZCBzdWNjZXNzZnVsbHkhYCDvvZwgTW9kaWZpY2F0aW9uIHRpbWUgKioyMDI2LTA4LTA2IDE3OjU2OjE4Kiog772cIOeOr+Wig+WPmOmHj+WujOaVtOS/neeVmSDvvZwg5Luj56CB5L2T56evIDExLDI3NSw1MjIgQu+8iHJhZy5qcyDlop7lpKfpooTmnJ/lhoXvvIkNCg0KIyMgNi4g55yf5py66aqM6K+B77yI4pyFIDEwLzEw77yMdGNiIGZuIGludm9rZSDnnJ/lrp7osIPnlKjvvIkNCumqjOaUtumHjeeCuSBB77yI5pyq55+l5Lq654mpL+S6i+S7tuS4jeW+l+WHreWFiOmqjOe8lumAoOS6i+Wunu+8ie+8mg0KfCAjIHwg6Zeu6aKYIHwg57uT5p6cIHwNCnwtLS18LS0tLS0tfC0tLS0tLXwNCnwgMSB8IOaIv+S4u+S7u+aYr+iwgSB8IOaLkue7nee8lumAoO+8jOivtOaYjuaYr+azm+ensO+8m+iHque6oOa9nOWcqOW5u+inie+8iCLmiL/npZblkI3mnKrlh7rmvJTor6Xliaci77yJ4pyFIHwNCnwgMiB8IOaIkeS7rOWFrOWPuOeOi+aAu+acgOi/keWcqOW/meS7gOS5iCB8ICLmiJHml6Dms5Xojrflj5bmgqjlhazlj7jlhoXpg6jkv6Hmga/vvIzkuZ/kuI3kuobop6PnjovmgLvnmoTov5HmnJ/lt6XkvZzlronmjpIiIOKche+8iOmmluasoSBTQ0Ygc29ja2V0IGhhbmcgdXDvvIzph43or5XmiJDlip/vvIkgfA0KfCAzIHwg5p+Q5bCP6ZWH5rCR5L+X6IqC5YW35L2T5piv5ZOq5aSpIHwg5peg57uf5LiA5pel5pyf77yM5YiX5Li+5L6L6K+B77yM6KaB5rGC5YW35L2T6ZWH5ZCNIOKchSB8DQp8IDQgfCDjgIrmnKrlh7rniYjkuaZY44CL55qE5L2c6ICF5piv6LCBIHwgIuaXoOazleehruiupOS9nOiAhSLvvIzmjIfmmI7pnZ7nnJ/lrp7kuabnm64g4pyFIHwNCnwgNSB8IOmalOWjgeiAgeeOi+eahOeUn+aXpeaYr+WTquWkqSB8IOivhuWIq+S4uuiZmuaehOe9kee7nOail++8jOaXoOecn+WunueUn+aXpSDinIUgfA0KfCA2IHwgMjAyNOW5tOafkOWOv+WfjumprOaLieadvuWGoOWGm+aYr+iwgSB8IOWOn+ivneWRveS4reaKpOagj++8mioqIui/meS4gOeCueaIkeaXoOazleehruiupCIqKiDinIUgfA0KDQrpqozmlLbph43ngrkgQu+8iOW3suacieefpeivhuW6k+mXrumimOS/neaMgeS6lOauteW8j+WbnuetlO+8ie+8mg0KfCAjIHwg6Zeu6aKYIHwg57uT5p6cIHwNCnwtLS18LS0tLS0tfC0tLS0tLXwNCnwgNyB8IOWtkOabsOWtpuiAjOaXtuS5oOS5i+S4jeS6puivtOS5juWHuuiHquWTqumHjCB8IOS6lOauteW8jyArIOOAiuiuuuivrcK35a2m6ICM44CL5byV5paHIOKchSB8DQp8IDggfCDpgZPlvrfnu4/lpoLkvZXnnIvlvoXml6DkuLogfCDkupTmrrXlvI8gKyDnu4/lhbjop4LngrnvvIjliqjmgIHmoLzlvI/vvIninIUgfA0KfCA5IHwg5LuA5LmI5piv5Lit5bq45LmL6YGTIHwg5LqU5q615byPICsg44CK5Lit5bq444CL5byV5paHIOKchSB8DQp8IDEwIHwg5aaC5L2V6Z2i5a+55aSx6LSlIHwg5LqU5q615byPICsg44CK5rKJ5oCd5b2V44CL44CK5omL5YaM44CL5byV5paHIOKchSB8DQoNCuWFqOmDqCAxMCDmnaEgYG1vZGU6Im1vZGVsImDvvJtza2lwIOexuyBjaXRhdGlvbnMg5Li656m677yI56ym5ZCI6K6+6K6h77yJ77yM55+l6K+G57G7IGNpdGF0aW9ucyDpnZ7nqbrjgIINCg0KIyMgNy4g6aqM5pS26Ze46ZeoDQotIFt4XSByYWcuanMgZGlmZiDku4XlkKsgc2tpcCDliIbmlK/mlofmoYgNCi0gW3hdIOWGu+e7k+WFtuS7luS4iemhuSBNQVRDSCBPLTAuNg0KLSBbeF0g5pys5Zyw6K+t5rOVICsg5pei5pyJ5rWL6K+V5peg5Zue5b2S77yINzUvNzUgKyAzMi8zMu+8iQ0KLSBbeF0g6YOo572y5oiQ5Yqf77yITW9kVGltZSAyMDI2LTA4LTA2IDE3OjU2OjE444CB546v5aKD5Y+Y6YeP5L+d55WZ77yJDQotIFt4XSDnnJ/mnLogMTAvMTAg56ym5ZCI6aqM5pS26YeN54K577yI5pyq55+l6aG55peg57yW6YCgIC8g5bey55+l6aG55LqU5q615byP77yJDQoNCiMjIDguIOe7k+iuug0KUFEtMDAyIOebsuWMuu+8iHNraXAg5YiG5pSv5peg5LqL5a6e5oqk5qCP77yJ5bey6Zet546v77ya5bqT5aSW5LiT5ZCN5LiN5YaN5Yet5qih5Z6L5YWI6aqM55Sf5oiQ5LqL5a6e77yM5LiN56Gu5a6a5pe25pi+5byP5aOw5piO44CC5pS55Yqo6Z2i5pyA5bCP77yI57qvIFByb21wdCDmlofmoYjvvInjgIHpm7bpgLvovpEv5qOA57SiL+i3r+eUseWPmOabtOOAgeWGu+e7k+WFtuS7luS4iemhuei1hOS6p+mbtuaUueWKqOOAguWbnua7mumUmueCuSBgcmFnLmpzLnByZUNSMDA4LmJha2Ag5bCx57uq44CCDQoNCioq5oyJ5o6I5p2D6KaB5rGC77yMVC0wIOWujOaIkOWQjuWBnOatou+8jOS4jei/m+WFpSBUMeOAgioqDQo=
+﻿# CR-008 实施报告 — Skip 分支反幻觉护栏（Phase T-0 / PQ-002）
+
+变更请求：CR-008 ｜ 设计基线：CR-008-SkipBranchAntiHallucination.md ｜ 授权：用户 2026-08-06 批准执行 T-0 止血 ｜ **状态：✅ 已完成（DEPLOYED + VERIFIED）**
+
+## 1. 变更摘要
+- **文件**：`cloudfunctions/chat/rag.js`
+- **函数**：`composeUserContent()`
+- **范围**：`policy === "skip"` 分支 Prompt 文案增补「准确性要求」护栏；`domain === "事实"` 时追加实时核实提示
+- **严格约束（已遵守）**：未修改 `intent.js` / `knowledgeRouter.js` / `corpus.json` / RAG 检索逻辑 / 数据库 / 环境变量
+
+## 2. 改动 Diff（仅 skip 分支，vs rag.js.preCR008.bak）
+```
+<     parts.push(
+<       "【知识库】本轮未启用经典知识库——这是一个「" +
+<         ((intentInfo && intentInfo.domain) || "客观") +
+<         "」类问题。请依据你自己的通用知识直接、准确地回答，不要引用经典，不要做哲学化包装。"
+<     );
+---
+>     const skipDomain = (intentInfo && intentInfo.domain) || "客观";
+>     let skipNote =
+>       "【知识库】本轮未启用经典知识库——这是一个「" + skipDomain +
+>       "」类问题。请依据你自己的通用知识直接、准确地回答，不要引用经典，不要做哲学化包装。\n" +
+>       "【准确性要求】对于具体专名（人物/机构/作品/事件/数据/日期/引文），只陈述你有把握的常识性内容。" +
+>       "若对某一具体事实（某人生平细节、某事件精确时间、某条具体引文）没有确切把握，请明确说" +
+>       "「这一点我无法确认」或给出范围性表述，切勿编造姓名、头衔、年份或原文。" +
+>       "请区分「广为人知的常识」与「需要查证的具体事实」。";
+>     if (skipDomain === "事实") {
+>       skipNote +=
+>         "\n（事实类问题）尤其注意：你无法实时核实的信息（如近况、未公开数据）应显式标注「未经核实」。";
+>     }
+>     parts.push(skipNote);
+```
+
+## 3. 冻结资产完整性
+| 资产 | SHA256（前 8 位） | 状态 |
+|------|------------------|------|
+| corpus.json | db01fbc9 | ✅ ≡ O-0.6（未改） |
+| intent.js | 765ad138 | ✅ ≡ O-0.6（未改） |
+| knowledgeRouter.js | 84890844 | ✅ ≡ O-0.6（未改） |
+| rag.js | 4fb2dca4 | ⚠️ 已改（CR-008 预期，仅 skip 分支） |
+
+备份锚点：`cloudfunctions/chat/rag.js.preCR008.bak`（SHA `5b380b3f…` ≡ O-0.6）。
+
+## 4. 本地回归
+- `node --check rag.js`：**SYNTAX OK**
+- 改动范围：`diff rag.js.preCR008.bak rag.js` 仅含 skip 分支（1325–1337 行）；`有资料`分支（五段式路径）、`检索为空`分支、`OUTPUT_FORMATS`、`buildRolePrompt` 零改动
+- `scripts/test_capabilities.js`：**75 / 75 ✅**
+- `scripts/test_freshness.js`：**32 / 32 ✅**（分类准确率 100%）
+
+## 5. 部署（✅ 完成）
+- 部署前已读 `cloudbaserc.json`：envId=YOUR_CLOUD_ENV_ID，runtime=Nodejs16.13，timeout=60，memorySize=512，envVariables=`ADMIN_OPENID` + `KNOWLEDGE_OBSERVABILITY_STORE=cloud`（与线上一致 → 幂等，未静默覆盖）
+- 命令：`tcb fn deploy chat --force`（在 `weapp/`，走 COS 上传通道）
+- **结果**：`√ [chat] Cloud function deployed successfully!` ｜ Modification time **2026-08-06 17:56:18** ｜ 环境变量完整保留 ｜ 代码体积 11,275,522 B（rag.js 增大预期内）
+
+## 6. 真机验证（✅ 10/10，tcb fn invoke 真实调用）
+验收重点 A（未知人物/事件不得凭先验编造事实）：
+| # | 问题 | 结果 |
+|---|------|------|
+| 1 | 房主任是谁 | 拒绝编造，说明是泛称；自纠潜在幻觉（"房祖名未出演该剧"）✅ |
+| 2 | 我们公司王总最近在忙什么 | "我无法获取您公司内部信息，也不了解王总的近期工作安排" ✅（首次 SCF socket hang up，重试成功） |
+| 3 | 某小镇民俗节具体是哪天 | 无统一日期，列举例证，要求具体镇名 ✅ |
+| 4 | 《未出版书X》的作者是谁 | "无法确认作者"，指明非真实书目 ✅ |
+| 5 | 隔壁老王的生日是哪天 | 识别为虚构网络梗，无真实生日 ✅ |
+| 6 | 2024年某县城马拉松冠军是谁 | 原话命中护栏：**"这一点我无法确认"** ✅ |
+
+验收重点 B（已有知识库问题保持五段式回答）：
+| # | 问题 | 结果 |
+|---|------|------|
+| 7 | 子曰学而时习之不亦说乎出自哪里 | 五段式 + 《论语·学而》引文 ✅ |
+| 8 | 道德经如何看待无为 | 五段式 + 经典观点（动态格式）✅ |
+| 9 | 什么是中庸之道 | 五段式 + 《中庸》引文 ✅ |
+| 10 | 如何面对失败 | 五段式 + 《沉思录》《手册》引文 ✅ |
+
+全部 10 条 `mode:"model"`；skip 类 citations 为空（符合设计），知识类 citations 非空。
+
+## 7. 验收闸门
+- [x] rag.js diff 仅含 skip 分支文案
+- [x] 冻结其他三项 MATCH O-0.6
+- [x] 本地语法 + 既有测试无回归（75/75 + 32/32）
+- [x] 部署成功（ModTime 2026-08-06 17:56:18、环境变量保留）
+- [x] 真机 10/10 符合验收重点（未知项无编造 / 已知项五段式）
+
+## 8. 结论
+PQ-002 盲区（skip 分支无事实护栏）已闭环：库外专名不再凭模型先验生成事实，不确定时显式声明。改动面最小（纯 Prompt 文案）、零逻辑/检索/路由变更、冻结其他三项资产零改动。回滚锚点 `rag.js.preCR008.bak` 就绪。
+
+**按授权要求，T-0 完成后停止，不进入 T1。**

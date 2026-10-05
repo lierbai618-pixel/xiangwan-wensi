@@ -1,1 +1,143 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIENhcGFiaWxpdHkgTGF5ZXIg4oCUIGluZGV4Lmpz77yI5qih5Z2X5YWl5Y+jIC8g57yW5o6S5Zmo77yJCi8vICAgUGhhc2UgUu+8muWunuaXtuW3peWFt+iDveWKm+aAu+aOp+OAggovLwovLyAgIOiwg+eUqOmTvu+8mgovLyAgICAg55So5oi36L6T5YWlIOKGkiBpbnRlbnQgcm91dGVy77yI5Y+q6K+75raI6LS55Ya757uTIGludGVudC5qc++8iQovLyAgICAgICAgICAgICAg4oaSIENhcGFiaWxpdHkgUm91dGVy77yIcm91dGVyLmpz77yJCi8vICAgICAgICAgICAgICDihpIgVG9vbO+8iHRpbWUgLyB3ZWF0aGVyIC8gY2FsY3VsYXRvciAvIGxvY2F0aW9u77yJCi8vICAgICAgICAgICAgICDihpIgUmVzcG9uc2UgRm9ybWF0dGVy77yIZm9ybWF0dGVyLmpz77yJCi8vCi8vICAg5LiJ5bGC6L6555WM77yI5b+F6aG75L+d5oyB5LqS5LiN5L615p+T77yJ77yaCi8vICAgICBDYXBhYmlsaXR5IExheWVyICDlrp7ml7bkuovlrp4gICDihpAg5pys5qih5Z2X77yM57uV6L+HIFJBRwovLyAgICAgRnJlc2huZXNzIExheWVyICAg546w5a6e5LqL5Lu26IOM5pmvIOKGkiDkvpvnu5nkupTmrrXlvI/mgJ3ovqgKLy8gICAgIEtub3dsZWRnZSBMYXllciAgIOe7j+WFuOefpeivhiAgICAg4oaSIGNvcnB1cy5qc29uIC8gUkFHCi8vICAg5pys5qih5Z2X5LiO5ZCO5Lik6ICF6Zu26ICm5ZCI77ya5LiN6K+7IGNvcnB1cy5qc29u77yM5LiN5YGaIGVtYmVkZGluZ++8jAovLyAgIOS4jeS/ruaUueS7u+S9leWGu+e7k+i1hOS6p++8jOS4jeWQkeefpeivhuW6k+WGmeWFpeS7u+S9lSLml7bpl7Tnn6Xor4Yi44CCCi8vCi8vICAg5aSx6LSl5ae/5oCB77ya5Lu75L2V5byC5bi45LiA5b6L6L+U5ZueIG51bGwg4oaSIOiwg+eUqOaWueebtOiQveWOnyBnZW5lcmF0ZUFuc3dlcuOAggovLyAgIOiDveWKm+WxguawuOi/nOaYryoq5aKe6YeP5peB6LevKirvvIzkuI3mmK/pk77ot6/kvp3otZbjgIIKLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Cid1c2Ugc3RyaWN0JzsKCnZhciByb3V0ZXIgPSByZXF1aXJlKCcuL3JvdXRlcicpOwp2YXIgdGltZUNhcCA9IHJlcXVpcmUoJy4vdGltZScpOwp2YXIgd2VhdGhlckNhcCA9IHJlcXVpcmUoJy4vd2VhdGhlcicpOwp2YXIgY2FsY0NhcCA9IHJlcXVpcmUoJy4vY2FsY3VsYXRvcicpOwp2YXIgbG9jYXRpb25DYXAgPSByZXF1aXJlKCcuL2xvY2F0aW9uJyk7CnZhciBmb3JtYXR0ZXIgPSByZXF1aXJlKCcuL2Zvcm1hdHRlcicpOwoKdmFyIENBUEFCSUxJVFkgPSByb3V0ZXIuQ0FQQUJJTElUWTsKCi8vIOWPquivu+W8leeUqOWGu+e7kyBpbnRlbnQuanPvvIjku4XmtojotLnnu5PorrrvvIzkuI3kv67mlLnjgIHkuI3lpI3liLblhbbpgLvovpHvvIkKdmFyIGNsYXNzaWZ5SW50ZW50ID0gbnVsbDsKdHJ5IHsKICBjbGFzc2lmeUludGVudCA9IHJlcXVpcmUoJy4uL2ludGVudCcpLmNsYXNzaWZ5SW50ZW50Owp9IGNhdGNoIChlKSB7CiAgY2xhc3NpZnlJbnRlbnQgPSBudWxsOwp9CgovKiog57uf5LiA5YyF6KOF5Li6IGNoYXQgcmVzdWx0IOW9oueKtu+8iOS4juaXouaciemTvui3r+WFvOWuue+8iSAqLwpmdW5jdGlvbiB3cmFwKGFuc3dlciwgbWV0YSkgewogIHJldHVybiB7CiAgICBtb2RlOiAnY2FwYWJpbGl0eScsCiAgICBhbnN3ZXI6IGFuc3dlciwKICAgIGNpdGF0aW9uczogW10sCiAgICByb3V0ZTogeyBkaW1lbnNpb25zOiBbXSwgYm9va3M6IFtdLCBjb3JlOiAnJyB9LAogICAgcmV0cmlldmFsOiB7IHF1ZXJ5VGVybXM6IFtdLCB0b3RhbERvY3VtZW50czogMCwgbWluU2NvcmU6IDAsIGNhcGFiaWxpdHk6IHRydWUgfSwKICAgIGNhcGFiaWxpdHk6IG1ldGEsCiAgICBfbW9kZWxVc2VkOiAnJywKICAgIF9tb2RlbFN0YXR1czogJ3Rvb2wnLAogICAgX21vZGVsRXJyb3I6ICcnLAogIH07Cn0KCi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQovLyBtYXliZUhhbmRsZShtZXNzYWdlLCBvcHRzKQovLyAgIG9wdHM6IHsgaGlzdG9yeSwgbG9jYXRpb24gfQovLyAgIOi/lOWbnu+8mgovLyAgICAgbnVsbCAgIOKGkiDpnZ7og73lipvojIPnlbTvvIzosIPnlKjmlrnnu6fnu63ljp/pk77ot6/vvIjpm7booYzkuLrlj5jljJbvvIkKLy8gICAgIHJlc3VsdCDihpIg6IO95Yqb5bGC5bey5o6l566h77yI57uV6L+HIFJBR++8iQovLyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KYXN5bmMgZnVuY3Rpb24gbWF5YmVIYW5kbGUobWVzc2FnZSwgb3B0cykgewogIG9wdHMgPSBvcHRzIHx8IHt9OwogIHZhciBxdWVyeSA9IChtZXNzYWdlIHx8ICcnKS50b1N0cmluZygpLnRyaW0oKTsKICBpZiAoIXF1ZXJ5KSByZXR1cm4gbnVsbDsKCiAgLy8g4pGgIGludGVudCByb3V0ZXLvvJrlj6ror7vlj5bml6LmnInmhI/lm77lsYLnu5PorrrvvIjkuLvopoHnlKjkuo7ljbHmnLrorqnkvY3vvIkKICB2YXIgaW50ZW50SW5mbyA9IG51bGw7CiAgaWYgKGNsYXNzaWZ5SW50ZW50KSB7CiAgICB0cnkgewogICAgICBpbnRlbnRJbmZvID0gY2xhc3NpZnlJbnRlbnQocXVlcnksIG9wdHMuaGlzdG9yeSB8fCBbXSk7CiAgICB9IGNhdGNoIChlKSB7CiAgICAgIGludGVudEluZm8gPSBudWxsOwogICAgfQogIH0KCiAgLy8g4pGhIENhcGFiaWxpdHkgUm91dGVyCiAgdmFyIGRlY2lzaW9uOwogIHRyeSB7CiAgICBkZWNpc2lvbiA9IHJvdXRlci5yb3V0ZShxdWVyeSwgeyBpbnRlbnRJbmZvOiBpbnRlbnRJbmZvIH0pOwogIH0gY2F0Y2ggKGUpIHsKICAgIHJldHVybiBudWxsOwogIH0KICBpZiAoIWRlY2lzaW9uIHx8ICFkZWNpc2lvbi5oaXQpIHJldHVybiBudWxsOwoKICB2YXIgbWV0YSA9IHsKICAgIGNhcGFiaWxpdHk6IGRlY2lzaW9uLmNhcGFiaWxpdHksCiAgICBzdWJfdHlwZTogZGVjaXNpb24uc3ViVHlwZSwKICAgIGNvbmZpZGVuY2U6IGRlY2lzaW9uLmNvbmZpZGVuY2UsCiAgICBzaWduYWxzOiBkZWNpc2lvbi5zaWduYWxzIHx8IFtdLAogICAgZW1vdGlvbmFsOiAhIWRlY2lzaW9uLmVtb3Rpb25hbCwKICAgIHRvb2xfb2s6IGZhbHNlLAogICAgdG9vbF9yZWFzb246ICcnLAogICAgYnlwYXNzX3JhZzogdHJ1ZSwKICAgIHRpbWVzdGFtcDogbmV3IERhdGUoKS50b0lTT1N0cmluZygpLAogIH07CgogIC8vIOKRoiBUb29sIOaJp+ihjAogIHZhciB0b29sUmVzdWx0ID0gbnVsbDsKICB0cnkgewogICAgaWYgKGRlY2lzaW9uLmNhcGFiaWxpdHkgPT09IENBUEFCSUxJVFkuVElNRSkgewogICAgICB0b29sUmVzdWx0ID0gdGltZUNhcC5yZXNvbHZlKHsgc3ViVHlwZTogZGVjaXNpb24uc3ViVHlwZSwgcXVlcnk6IHF1ZXJ5LCBub3c6IG9wdHMubm93IH0pOwogICAgfSBlbHNlIGlmIChkZWNpc2lvbi5jYXBhYmlsaXR5ID09PSBDQVBBQklMSVRZLldFQVRIRVIpIHsKICAgICAgdG9vbFJlc3VsdCA9IGF3YWl0IHdlYXRoZXJDYXAucmVzb2x2ZSh7IHN1YlR5cGU6IGRlY2lzaW9uLnN1YlR5cGUsIHF1ZXJ5OiBxdWVyeSB9KTsKICAgIH0gZWxzZSBpZiAoZGVjaXNpb24uY2FwYWJpbGl0eSA9PT0gQ0FQQUJJTElUWS5DQUxDVUxBVElPTikgewogICAgICB0b29sUmVzdWx0ID0gY2FsY0NhcC5yZXNvbHZlKHsgcXVlcnk6IHF1ZXJ5IH0pOwogICAgfSBlbHNlIGlmIChkZWNpc2lvbi5jYXBhYmlsaXR5ID09PSBDQVBBQklMSVRZLkxPQ0FUSU9OKSB7CiAgICAgIHRvb2xSZXN1bHQgPSBsb2NhdGlvbkNhcC5yZXNvbHZlKHsKICAgICAgICBzdWJUeXBlOiBkZWNpc2lvbi5zdWJUeXBlLAogICAgICAgIHF1ZXJ5OiBxdWVyeSwKICAgICAgICBsb2NhdGlvbjogb3B0cy5sb2NhdGlvbiwKICAgICAgfSk7CiAgICB9CiAgfSBjYXRjaCAoZSkgewogICAgY29uc29sZS5lcnJvcignW2NhcGFiaWxpdHldIOW3peWFt+aJp+ihjOW8guW4uO+8jOWbnumAgOWOn+mTvui3rzonLCBlICYmIGUubWVzc2FnZSk7CiAgICByZXR1cm4gbnVsbDsKICB9CgogIGlmICghdG9vbFJlc3VsdCB8fCAhdG9vbFJlc3VsdC5mYWN0KSByZXR1cm4gbnVsbDsgLy8g5peg5Y+v55So6L6T5Ye6IOKGkiDkuI3liqvmjIHvvIzkuqTlm54gUkFHCgogIG1ldGEudG9vbF9vayA9ICEhdG9vbFJlc3VsdC5vazsKICBtZXRhLnRvb2xfcmVhc29uID0gdG9vbFJlc3VsdC5yZWFzb24gfHwgJyc7CgogIC8vIOKRoyBSZXNwb25zZSBGb3JtYXR0ZXIKICB2YXIgZm9ybWF0dGVkID0gZm9ybWF0dGVyLmJ1aWxkQW5zd2VyKHsKICAgIGNhcGFiaWxpdHk6IGRlY2lzaW9uLmNhcGFiaWxpdHksCiAgICBzdWJUeXBlOiB0b29sUmVzdWx0LnN1YlR5cGUgfHwgZGVjaXNpb24uc3ViVHlwZSwKICAgIG9rOiB0b29sUmVzdWx0Lm9rLAogICAgZmFjdDogdG9vbFJlc3VsdC5mYWN0LAogICAgZGF0YTogdG9vbFJlc3VsdC5kYXRhLAogICAgcXVlcnk6IHF1ZXJ5LAogICAgZW1vdGlvbmFsOiAhIWRlY2lzaW9uLmVtb3Rpb25hbCwKICB9KTsKICBpZiAoIWZvcm1hdHRlZC5hbnN3ZXIpIHJldHVybiBudWxsOwoKICBtZXRhLmhhc19pbnZpdGUgPSBmb3JtYXR0ZWQuaGFzSW52aXRlOwogIHJldHVybiB3cmFwKGZvcm1hdHRlZC5hbnN3ZXIsIG1ldGEpOwp9Cgptb2R1bGUuZXhwb3J0cyA9IHsKICBtYXliZUhhbmRsZTogbWF5YmVIYW5kbGUsCiAgQ0FQQUJJTElUWTogQ0FQQUJJTElUWSwKfTsK
+// ============================================================
+// Capability Layer — index.js（模块入口 / 编排器）
+//   Phase R：实时工具能力总控。
+//
+//   调用链：
+//     用户输入 → intent router（只读消费冻结 intent.js）
+//              → Capability Router（router.js）
+//              → Tool（time / weather / calculator / location）
+//              → Response Formatter（formatter.js）
+//
+//   三层边界（必须保持互不侵染）：
+//     Capability Layer  实时事实   ← 本模块，绕过 RAG
+//     Freshness Layer   现实事件背景 → 供给五段式思辨
+//     Knowledge Layer   经典知识     → corpus.json / RAG
+//   本模块与后两者零耦合：不读 corpus.json，不做 embedding，
+//   不修改任何冻结资产，不向知识库写入任何"时间知识"。
+//
+//   失败姿态：任何异常一律返回 null → 调用方直落原 generateAnswer。
+//   能力层永远是**增量旁路**，不是链路依赖。
+// ============================================================
+'use strict';
+
+var router = require('./router');
+var timeCap = require('./time');
+var weatherCap = require('./weather');
+var calcCap = require('./calculator');
+var locationCap = require('./location');
+var formatter = require('./formatter');
+
+var CAPABILITY = router.CAPABILITY;
+
+// 只读引用冻结 intent.js（仅消费结论，不修改、不复制其逻辑）
+var classifyIntent = null;
+try {
+  classifyIntent = require('../intent').classifyIntent;
+} catch (e) {
+  classifyIntent = null;
+}
+
+/** 统一包装为 chat result 形状（与既有链路兼容） */
+function wrap(answer, meta) {
+  return {
+    mode: 'capability',
+    answer: answer,
+    citations: [],
+    route: { dimensions: [], books: [], core: '' },
+    retrieval: { queryTerms: [], totalDocuments: 0, minScore: 0, capability: true },
+    capability: meta,
+    _modelUsed: '',
+    _modelStatus: 'tool',
+    _modelError: '',
+  };
+}
+
+// ------------------------------------------------------------
+// maybeHandle(message, opts)
+//   opts: { history, location }
+//   返回：
+//     null   → 非能力范畴，调用方继续原链路（零行为变化）
+//     result → 能力层已接管（绕过 RAG）
+// ------------------------------------------------------------
+async function maybeHandle(message, opts) {
+  opts = opts || {};
+  var query = (message || '').toString().trim();
+  if (!query) return null;
+
+  // ① intent router：只读取既有意图层结论（主要用于危机让位）
+  var intentInfo = null;
+  if (classifyIntent) {
+    try {
+      intentInfo = classifyIntent(query, opts.history || []);
+    } catch (e) {
+      intentInfo = null;
+    }
+  }
+
+  // ② Capability Router
+  var decision;
+  try {
+    decision = router.route(query, { intentInfo: intentInfo });
+  } catch (e) {
+    return null;
+  }
+  if (!decision || !decision.hit) return null;
+
+  var meta = {
+    capability: decision.capability,
+    sub_type: decision.subType,
+    confidence: decision.confidence,
+    signals: decision.signals || [],
+    emotional: !!decision.emotional,
+    tool_ok: false,
+    tool_reason: '',
+    bypass_rag: true,
+    timestamp: new Date().toISOString(),
+  };
+
+  // ③ Tool 执行
+  var toolResult = null;
+  try {
+    if (decision.capability === CAPABILITY.TIME) {
+      toolResult = timeCap.resolve({ subType: decision.subType, query: query, now: opts.now });
+    } else if (decision.capability === CAPABILITY.WEATHER) {
+      toolResult = await weatherCap.resolve({ subType: decision.subType, query: query });
+    } else if (decision.capability === CAPABILITY.CALCULATION) {
+      toolResult = calcCap.resolve({ query: query });
+    } else if (decision.capability === CAPABILITY.LOCATION) {
+      toolResult = locationCap.resolve({
+        subType: decision.subType,
+        query: query,
+        location: opts.location,
+      });
+    }
+  } catch (e) {
+    console.error('[capability] 工具执行异常，回退原链路:', e && e.message);
+    return null;
+  }
+
+  if (!toolResult || !toolResult.fact) return null; // 无可用输出 → 不劫持，交回 RAG
+
+  meta.tool_ok = !!toolResult.ok;
+  meta.tool_reason = toolResult.reason || '';
+
+  // ④ Response Formatter
+  var formatted = formatter.buildAnswer({
+    capability: decision.capability,
+    subType: toolResult.subType || decision.subType,
+    ok: toolResult.ok,
+    fact: toolResult.fact,
+    data: toolResult.data,
+    query: query,
+    emotional: !!decision.emotional,
+  });
+  if (!formatted.answer) return null;
+
+  meta.has_invite = formatted.hasInvite;
+  return wrap(formatted.answer, meta);
+}
+
+module.exports = {
+  maybeHandle: maybeHandle,
+  CAPABILITY: CAPABILITY,
+};

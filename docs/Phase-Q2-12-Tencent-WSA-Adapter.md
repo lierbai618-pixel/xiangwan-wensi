@@ -1,1 +1,119 @@
-IyBQaGFzZSBRMi0xMu+8muiFvuiur+S6keiBlOe9keaQnOe0ou+8iFdTQe+8iVByb3ZpZGVyIEFkYXB0ZXIg5a6e5pa95oql5ZGKCgotICoq6KeS6ImyKirvvJpSZWxlYXNlIE1hbmFnZXIgKyBTZWFyY2ggSW5mcmFzdHJ1Y3R1cmUgRW5naW5lZXIKLSAqKuebruaghyoq77ya5a6e546w6IW+6K6vIFdTQSBQcm92aWRlciBBZGFwdGVy77yM5L2/5YW25o6l5YWl546w5pyJIGBzZWFyY2hMYXllcmDvvIzkv53mjIEgcHJvdmlkZXIgY29udHJhY3Qg5LiO5YWo6YOo5oqk5qCP77yMYGRhdGFfcm91dGU9ZG9tZXN0aWNg77yM5aSx6LSl5Zue6YCAIFJBR+OAggotICoq54q25oCBKirvvJrinIUg5Luj56CB5a6e546wICsg56a757q/5rWL6K+V5YWo57u/77yIMjI1ICsgMTA077yJ772c4puUICoq5pyq6YOo572yIC8g5pyq5pS555Sf5Lqn546v5aKD5Y+Y6YePIC8g5pyqIGNvbW1pdCAvIOacquaJqeWkp+eUqOaIt+iMg+WbtCoqCi0gKirnuqbmnZ/pgbXlrogqKu+8muacquS/ruaUuSBgY29ycHVzLmpzb25gIC8gYGludGVudC5qc2AgLyBga25vd2xlZGdlUm91dGVyLmpzYCAvIGByYWcuanNg77yb5pyqIG1vZGlmeSBwcm9kIGVudu+8m+acqiBkZXBsb3kvY29tbWl0L3B1c2jjgILlm5vlhrvnu5PotYTkuqcgU0hBICoqNC80IOS4jeWPmCoq44CCCgotLS0KCiMjIDEuIOS6pOS7mOeJqea4heWNlQoKfCDmlofku7YgfCDnsbvlnosgfCDor7TmmI4gfAp8LS0tfC0tLXwtLS18CnwgYGNsb3VkZnVuY3Rpb25zL2NoYXQvcHJvdmlkZXJzL3NlYXJjaC90ZW5jZW50V3NhU2VhcmNoLmpzYCB8ICoq5paw5aKeKiogfCDohb7orq8gV1NBIOS4k+eUqOmAgumFjSBhZGFwdGVy77yIUE9TVCArIEJlYXJlciArIEpTT04gYm9keSArIFBhZ2VzIOS6jOasoeino+aekO+8iSB8CnwgYGNsb3VkZnVuY3Rpb25zL2NoYXQvcHJvdmlkZXJzL3NlYXJjaC9pbmRleC5qc2AgfCDkv67mlLnvvIgqKumdnuWGu+e7kyoq77yJIHwg5rOo5YaMIGB0ZW5jZW50YCDmp73kvY3vvJpyZXF1aXJl44CBYWNjZXB0IOS6jiBgZ2V0UHJvdmlkZXJOYW1lYOOAgeiuoeWFpSBgaXNSZWFsUHJvdmlkZXJg44CB6K6h5YWlIGBpc0RvbWVzdGljUHJvdmlkZXJg44CB5paw5aKeIGRpc3BhdGNoIOWIhuaUryB8CnwgYHNjcmlwdHMvdGVzdF9xMzAuanNgIHwgKirmlrDlop4qKiB8IOiFvuiuryBXU0Eg56a757q/5Y2V5YWD5rWL6K+VICsg56uv5Yiw56uv6ZuG5oiQ5rWL6K+VIHwKfCDlhrvnu5PotYTkuqcgNCDku7YgfCDmnKrliqggfCBTSEEgNC80ID0g5Z+657q/77yMbXRpbWUg5pyq5Y+YIHwKCj4g5rOo77yaYGluZGV4LmpzYCDkuLrml6LmnIkgc2VhcmNoTGF5ZXIg5oq96LGh5bGC77yI6Z2e55+l6K+G5bqTL+mdnuaEj+Wbvi/pnZ4gUkFH77yJ77yMUTItMTAg5Lmf5pu+5pS55a6D5rOo5YaMIGBkb21lc3RpY0FwaVNlYXJjaGDjgILmnKzmrKHku4UqKuaWsOWinioqIGB0ZW5jZW50YCDliIbmlK/vvIzmnKrmlLnliqggYGRvbWVzdGljYCDot6/lvoTvvIzmlYXljp8gMjI1IFBBU1Mg5LiN5Y+X5b2x5ZON44CCCgotLS0KCiMjIDIuIFByb3ZpZGVyIENvbnRyYWN0IOWunueOsAoK5Lil5qC85ruh6Laz6KaB5rGC77yaCgpgYGBqcwpzZWFyY2gocXVlcnksIG9wdHMsIG5vZGVGZXRjaCkg4oaSIFByb21pc2U8eyBvaywgcHJvdmlkZXIsIHJlc3VsdHMsIHJlYXNvbiB9PgpgYGAKCi0gYHByb3ZpZGVyYCDlm7rlrprov5Tlm54gYCd0ZW5jZW50J2DvvIjihpIgYGRhdGFfcm91dGU9ZG9tZXN0aWNgIOeahOWJjeaPkO+8ieOAggotIGBvazpmYWxzZWAg5pe2IGByZWFzb25gIOaYjuehru+8iGBub19lbmRwb2ludGAgLyBgbm9fZmV0Y2hgIC8gYG5vX3Jlc3VsdHNgIC8g5Lyg6L6T6ZSZ6K+v55SxIGB3aXRoUmV0cnlgIOa0vueUn++8ie+8jOS4iuWxguaNruatpCBmYWlsLXNvZnQg5Zue6YCAIFJBR+OAggotIOe7k+aenOe7jyBgdXRpbC5ub3JtYWxpemVSZXN1bHRgIOagh+WHhuWMlu+8iOWJpeemu+i/vei4quWPguaVsOOAgeihpeWFqCBzb3VyY2XvvInvvIzkuI4gdGF2aWx5L2Jpbmcvc2VycC9kb21lc3RpYyDlkIzkuIDlvaLnirbjgIIKCi0tLQoKIyMgMy4g6IW+6K6vIFdTQSDnibnmgKfmlK/mjIHvvIjpgJDpobnvvIkKCnwg6KaB5rGCIHwg5a6e546wIHwKfC0tLXwtLS18CnwgKipQT1NUKiogfCBgdXRpbC5odHRwUG9zdEpzb25gIOS7pSBgbWV0aG9kOidQT1NUJ2Ag5Y+R5Ye677yb5rWL6K+V5Lit5bey5pat6KiAIGBpbml0Lm1ldGhvZCA9PT0gJ1BPU1QnYCB8CnwgKipCZWFyZXIgQXV0aCoqIHwg5b2TIGBURU5DRU5UX1dTQV9BUElfS0VZYCDphY3nva7ml7bvvIzor7fmsYLlpLQgYEF1dGhvcml6YXRpb246IEJlYXJlciA8a2V5PmDvvJvmtYvor5Xmlq3oqIDlpLTlgLznsr7noa7ljLnphY0gfAp8ICoqSlNPTiBib2R5KiogfCDor7fmsYLkvZMgYEpTT04uc3RyaW5naWZ5KHsgW3F1ZXJ5RmllbGRdOiBxdWVyeSwgLi4uZXh0cmEgfSlg77yb5rWL6K+V5pat6KiAIGJvZHkg5ZCr5p+l6K+i5a2X5q61IHwKfCAqKlBhZ2VzIEpTT04gc3RyaW5nIOS6jOasoeino+aekCoqIHwg5ZON5bqUIGBQYWdlc2Ag5a2X5q615Li6IEpTT04g5a2X56ym5LiyIOKGkiBgSlNPTi5wYXJzZWAg5YaN5Y+W5pWw57uE77yb5ZCM5pe25YW85a655bey5bGV5byA5Li65pWw57uE55qE5oOF5b2i77yb5a2X5q615ZCN5Y+v6YWN572u77yIYFRFTkNFTlRfV1NBX1BBR0VTX0ZJRUxEYO+8jOm7mOiupCBgUGFnZXNg77yM5pSv5oyBIGRvdC1wYXRo77yJ77yM5bm25YWc5bqV5o6i5rWLIGBTZWFyY2hJbmZvLlBhZ2VzYCAvIGBkYXRhLlBhZ2VzYCDnrYnluLjop4HlvaLnirYgfAoKIyMjIOmFjee9rumpseWKqO+8iOmbtue8lumAoO+8jOmBv+WFjeehrOe8lueggeacquefpSBBUEkg57uG6IqC77yJCmBgYApURU5DRU5UX1dTQV9CQVNFX1VSTCAgICAgIOW/hemhu++8m1dTQSDmjqXlj6PlnLDlnYAKVEVOQ0VOVF9XU0FfQVBJX0tFWSAgICAgICDlv4XpobvvvJtCZWFyZXIgVG9rZW4KVEVOQ0VOVF9XU0FfUVVFUllfRklFTEQgICDor7fmsYLkvZPmn6Xor6LlrZfmrrXlkI3vvIjpu5jorqQgJ3F1ZXJ5J++8iQpURU5DRU5UX1dTQV9FWFRSQV9CT0RZICAgIOmZhOWKoOWbuuWumiBib2R5IOWtl+aute+8iEpTT04g5a2X56ym5Liy77yM5Y+v6YCJ77yJClRFTkNFTlRfV1NBX1BBR0VTX0ZJRUxEICAg5ZON5bqU5Lit57uT5p6c5pWw57uE5a2X5q6177yI6buY6K6kICdQYWdlcyfvvIzmlK/mjIEgZG90LXBhdGjvvIkKVEVOQ0VOVF9XU0FfRklFTERfVElUTEUvVVJML1NOSVBQRVQvU09VUkNFICDnu5PmnpzpobnlrZfmrrXmmKDlsITvvIjpu5jorqTlgLzkuI7pgJrnlKjlsYLkuIDoh7TvvIkKYGBgCuWkjeeUqCBgU0VBUkNIX01BWF9SRVNVTFRTYCAvIGBTRUFSQ0hfVElNRU9VVF9NU2AgLyBgU0VBUkNIX0RBSUxZX1FVT1RBYO+8iOS4juaXouaciSBzZWFyY2hMYXllciDkuIDoh7TvvInjgIIKCi0tLQoKIyMgNC4g5oqk5qCP5LiO5pWw5o2u6ZqU56a777yI5YWo6YOo5L+d55WZ77yJCgrosIPnlKjpk77kuI4gYGRvbWVzdGljYCDlrozlhajkuIDoh7TvvIzmnKrlgZrku7vkvZXmlLnliqjvvJoKYGBgCnByaXZhY3lHYXRl77yI5pyA5YmN56uvLCBmYWlsLWNsb3NlZO+8ieKGkiBjYW5hcnlHYXRlIOKGkiBxdW90YShjb3N0R3VhcmQpIOKGkiB0ZW5jZW50IHByb3ZpZGVyIOKGkiBhdWRpdApgYGAKLSBgcHJpdmFjeUdhdGVg77ya6auY6aOO6ZmpIFBJSSDnm7TmjqUgYHBpaV9ibG9ja2VkYO+8jOmbtuWkluWRvO+8jGBkYXRhX3JvdXRlPWJsb2NrZWRg44CCCi0gYGNhbmFyeUdhdGVg77ya5LuFIGBTRUFSQ0hfQ0FOQVJZX09QRU5JRFNgIOWGheeUqOaIt+i1sOecn+WuniBgdGVuY2VudGDvvIzlhbbkvZnlvLrliLYgYG1vY2tg44CCCi0gYHF1b3RhYO+8muecn+Wunuiwg+eUqOiuoeaXpemFjemine+8jGBxdW90YV9leGNlZWRlZGAg5Y2z6ZmN57qn44CCCi0gYGF1ZGl0YO+8muS7hSA3IOS4quWuieWFqOeZveWQjeWNleWtl+aute+8jCoq57ud5LiN5ZCrIHF1ZXJ5IC8gb3BlbmlkIC8gVVJMIC8g5pCc57Si5YWo5paHKirjgIIKLSBgZnJlc2huZXNzUnVudGltZUd1YXJkYO+8mue7k+aehOWxgiArIOi1hOS6p+WxguWPjOS/nemZqemalOemu+ajgOafpe+8iOacquWcqOacrOasoeaUueWKqO+8ieOAggotICoqYGRhdGFfcm91dGVgIOaBkuWumiBgZG9tZXN0aWNgKirvvJpgaXNEb21lc3RpY1Byb3ZpZGVyKCd0ZW5jZW50Jyk9PT10cnVlYCDihpIg6Zu26Leo5aKD44CC5YW25q2j56Gu5oCn5L6d6LWW5omA5o6l5YWl55qEIFdTQSDkuLrlm73lhoXlkIjop4TmnI3liqHvvIjmnI3liqHlmajkuI7mlbDmja7lnYfnlZnlooPvvInvvIzkuI4gYGRvbWVzdGljYCDmp73kvY3lkIzmupDjgIIKCi0tLQoKIyMgNS4g5rWL6K+V57uT5p6cCgojIyMgNS4xIOWbnuW9ku+8muWOnyAyMjUgUEFTUyDkv53mjIEKYGBgClBoYXNlIFEyLTEwIOemu+e6v+mqjOivgTogMjI1IFBBU1MgLyAwIEZBSUwKYGBgCu+8iOi/kOihjCBgbm9kZSBzY3JpcHRzL3Rlc3RfcTI5LmpzYO+8jGBpbmRleC5qc2Ag5rOo5YaMIGB0ZW5jZW50YCDlkI4gYGRvbWVzdGljYCDot6/lvoTpm7blm57lvZLvvIkKCiMjIyA1LjIg5paw5aKe77ya6IW+6K6vIFdTQSDmtYvor5UgMTA0IFBBU1MgLyAwIEZBSUwKYGBgClBoYXNlIFEyLTEyIOiFvuiuryBXU0EgQWRhcHRlcjogMTA0IFBBU1MgLyAwIEZBSUwKYGBgCuimhueblu+8mgoxLiAqKkNvbnRyYWN0IOW9oueKtioq77ya6L+U5ZueIGB7b2sscHJvdmlkZXIscmVzdWx0cyxyZWFzb259YCDkuJQgYHByb3ZpZGVyPSd0ZW5jZW50J2DjgIIKMi4gKipQT1NUICsgQmVhcmVyICsgSlNPTiBib2R5IOWQqyBxdWVyeSoq77ya5LiJ6aG55pat6KiA5YWoIOKcheOAggozLiAqKlBhZ2VzIEpTT04gc3RyaW5nIOS6jOasoeino+aekCoq77ya5a2X56ym5LiyIOKGkiDmlbDnu4TvvIzlrZfmrrXmmKDlsITnlJ/mlYjvvIzniYfmrrXlkKvogZTnvZHmoIforrDjgIIKNC4gKipub19lbmRwb2ludCoq77ya5pyq6YWN572uIGBCQVNFX1VSTGAg4oaSIGBvazpmYWxzZWAgLyBgcmVhc29uPW5vX2VuZHBvaW50YCAvIOmbtuWkluWRvOOAggo1LiAqKm5vX3Jlc3VsdHMqKu+8mmBQYWdlcz0nW10nYCDihpIgYG9rOmZhbHNlYCAvIGByZWFzb249bm9fcmVzdWx0c2DjgIIKNi4gKipwcm92aWRlciDlkI0gPSB0ZW5jZW50KirvvJrlm7rlrprkuLogYHRlbmNlbnRg44CCCjcuICoqc2VhcmNoTGF5ZXIg6Lev55SxKirvvJpgZGF0YV9yb3V0ZT1kb21lc3RpY2DvvJtgaXNEb21lc3RpY1Byb3ZpZGVyYC9gaXNSZWFsUHJvdmlkZXJgIOWdh+ivhuWIq++8m+WuoeiuoeW5suWHgOOAggo4LiAqKuerr+WIsOerr++8iHRoaW5rRW5naW5l77yJKirvvJoKICAgLSA1IOadoeWcqOe6v+mXrumimCDihpIg6IGU572R57uT5p6c6L+b5YWl5Zue562U5paH5pysIOKche+8jGBkYXRhX3JvdXRlPWRvbWVzdGljYCDinIXvvIzlrqHorqHpm7bms4TpnLIg4pyF44CCCiAgIC0gMiDmnaHlpLHotKXpl67popjvvIjnqbrnu5PmnpwgLyDnvZHnu5zlvILluLjvvInihpIg56iz5a6a5Zue6YCAIFJBRyDlhZzlupUg4pyF44CCCiAgIC0g5rGH5oC777ya5YWo56iLICoq6Zu2IGNyb3NzX2JvcmRlcioq77yINy83IGBkb21lc3RpY2DvvInjgIIKICAgLSDlhrvnu5PotYTkuqcgU0hBIDQvNCDkuI3lj5jjgIFjb3JwdXMg5p2h55uu5pWw77yI5rS+55SfIGVtYmVkZGluZyDlkJHph4/mlbDvvIk9IDE0IOS4jeWPmOOAgSoq5pegIGluZ2VzdCoq44CCCgotLS0KCiMjIDYuIOS4iue6v+WJjee9ru+8iOS7jemYu+Whnu+8jOmhu+aOiOadg+WQjuaTjeS9nO+8iQoKfCDpobkgfCDnirbmgIEgfCDor7TmmI4gfAp8LS0tfC0tLXwtLS18CnwgQjEg5byA6YCa6IW+6K6v5LqR6IGU572R5pCc57SiIFdTQSB8IOKblCDlvoXlip4gfCDpnIDotKblj7flvIDpgJrlubbojrflj5bmjqXlj6PlnLDlnYDkuI4gU2VjcmV0SWQvS2V577yI5pig5bCE5Li6IGBURU5DRU5UX1dTQV9BUElfS0VZYO+8iSB8CnwgQjIg5b6u5L+hIHJlcXVlc3Qg5ZCI5rOV5Z+f5ZCN55m95ZCN5Y2VIHwg4puUIOW+heWKniB8IOWFrOS8l+W5s+WPsCDihpIg5byA5Y+R6K6+572uIOKGkiDmnI3liqHlmajln5/lkI0g4oaSIHJlcXVlc3Qg5ZCI5rOV5Z+f5ZCN77yM5re75YqgIFdTQSDln5/lkI3vvIjpobvlt7IgSUNQIOWkh+ahiO+8iSB8CnwgQjMg5YaZIGVudiDooaXkuIEgfCDim5Qg5b6F5YqeIHwg5ZyoIGBjbG91ZGJhc2VyYy5qc29uYCDms6jlhaXvvJpgU0VBUkNIX1BST1ZJREVSPXRlbmNlbnRgIC8gYEZSRVNITkVTU19FTkFCTEVEPXRydWVgIC8gYEZSRVNITkVTU19GQUNUVUFMX0VOQUJMRUQ9dHJ1ZWAgLyBgUFJJVkFDWV9HQVRFX0VOQUJMRUQ9dHJ1ZWDvvIjlu7rorq7vvIkvIGBTRUFSQ0hfQ0FOQVJZX0VOQUJMRUQ9dHJ1ZWAgKyBgU0VBUkNIX0NBTkFSWV9PUEVOSURTYCAvIGBURU5DRU5UX1dTQV9CQVNFX1VSTGAgLyBgVEVOQ0VOVF9XU0FfQVBJX0tFWWAgLyDphY3pop3lj4LmlbAgfAp8IEI0IGB0Y2IgZm4gZGVwbG95IGNoYXQgLS1mb3JjZWAgfCDim5Qg5b6F5YqeIHwg6YOo572y5Lya5aWX55SoIGBjbG91ZGJhc2VyYy5qc29uYCDnmoQgZW5277yM6aG75LiO546w572RIHJ1bnRpbWUvdGltZW91dC9tZW1vcnkg5a+56b2QIHwKfCBCNSDnnJ/lrp4gY2FuYXJ5IOiBlOiwgyB8IOKblCDlvoXlip4gfCDku4UgY2FuYXJ5IG9wZW5pZCDotbDnnJ/lrp4gYHRlbmNlbnRg77yM5YW25L2Z5LuNIG1vY2svUkFHIHwKfCBCNiDlsI/nqIvluo/lpIfmoYggfCDim5Qg5a6h5qC45LitIHwg5LiOIEIyIOS6kuS4uuWJjee9riB8Cgo+IOW7uuiurumhuuW6j++8mkIxIOKGkiBCMiDihpIgQjPvvIjlhpkgZW5277yJ4oaSIEI077yIZGVwbG9577yJ4oaSIEI177yIY2FuYXJ577yJ4oaSIEI277yI5omp6YeP77yJ44CCCgotLS0KCiMjIDcuIOe7k+iuugoK6IW+6K6vIFdTQSBBZGFwdGVyIOW3suaMiSBwcm92aWRlciBjb250cmFjdCDlrozmiJDvvIxQT1NUICsgQmVhcmVyICsgSlNPTiBib2R5ICsgUGFnZXMg5LqM5qyh6Kej5p6Q5YWo6YOo6JC95Zyw77yM6Zu257yW6YCg77yI6YWN572u6amx5Yqo77yJ44CC5pCc57Si57uT5p6c5LuF5L2cIHJlcXVlc3QgcnVudGltZSBjb250ZXh077yM5aSx6LSl56iz5a6a5Zue6YCAIFJBR++8jOefpeivhuW6k+mbtuaUueWKqO+8iOWbm+WGu+e7k+i1hOS6pyBTSEEgNC8044CBY29ycHVzPTE0IOS4jeWPmO+8ieOAguWOnyAyMjUgUEFTUyDkv53mjIHvvIzmlrDlop4gMTA0IFBBU1Mg5YWo57u/44CC5b2T5YmN5LuN5aSEKirmnKrpg6jnvbIgLyDmnKrmlLnnlJ/kuqcgZW52Kiog55qE5YeG5aSH5oCB77yM562J5b6F5o6I5p2D5o6o6L+bIEIx4oCTQjbjgIIK
+﻿# Phase Q2-12：腾讯云联网搜索（WSA）Provider Adapter 实施报告
+
+- **角色**：Release Manager + Search Infrastructure Engineer
+- **目标**：实现腾讯 WSA Provider Adapter，使其接入现有 `searchLayer`，保持 provider contract 与全部护栏，`data_route=domestic`，失败回退 RAG。
+- **状态**：✅ 代码实现 + 离线测试全绿（225 + 104）｜⛔ **未部署 / 未改生产环境变量 / 未 commit / 未扩大用户范围**
+- **约束遵守**：未修改 `corpus.json` / `intent.js` / `knowledgeRouter.js` / `rag.js`；未 modify prod env；未 deploy/commit/push。四冻结资产 SHA **4/4 不变**。
+
+---
+
+## 1. 交付物清单
+
+| 文件 | 类型 | 说明 |
+|---|---|---|
+| `cloudfunctions/chat/providers/search/tencentWsaSearch.js` | **新增** | 腾讯 WSA 专用适配 adapter（POST + Bearer + JSON body + Pages 二次解析） |
+| `cloudfunctions/chat/providers/search/index.js` | 修改（**非冻结**） | 注册 `tencent` 槽位：require、accept 于 `getProviderName`、计入 `isRealProvider`、计入 `isDomesticProvider`、新增 dispatch 分支 |
+| `scripts/test_q30.js` | **新增** | 腾讯 WSA 离线单元测试 + 端到端集成测试 |
+| 冻结资产 4 件 | 未动 | SHA 4/4 = 基线，mtime 未变 |
+
+> 注：`index.js` 为既有 searchLayer 抽象层（非知识库/非意图/非 RAG），Q2-10 也曾改它注册 `domesticApiSearch`。本次仅**新增** `tencent` 分支，未改动 `domestic` 路径，故原 225 PASS 不受影响。
+
+---
+
+## 2. Provider Contract 实现
+
+严格满足要求：
+
+```js
+search(query, opts, nodeFetch) → Promise<{ ok, provider, results, reason }>
+```
+
+- `provider` 固定返回 `'tencent'`（→ `data_route=domestic` 的前提）。
+- `ok:false` 时 `reason` 明确（`no_endpoint` / `no_fetch` / `no_results` / 传输错误由 `withRetry` 派生），上层据此 fail-soft 回退 RAG。
+- 结果经 `util.normalizeResult` 标准化（剥离追踪参数、补全 source），与 tavily/bing/serp/domestic 同一形状。
+
+---
+
+## 3. 腾讯 WSA 特性支持（逐项）
+
+| 要求 | 实现 |
+|---|---|
+| **POST** | `util.httpPostJson` 以 `method:'POST'` 发出；测试中已断言 `init.method === 'POST'` |
+| **Bearer Auth** | 当 `TENCENT_WSA_API_KEY` 配置时，请求头 `Authorization: Bearer <key>`；测试断言头值精确匹配 |
+| **JSON body** | 请求体 `JSON.stringify({ [queryField]: query, ...extra })`；测试断言 body 含查询字段 |
+| **Pages JSON string 二次解析** | 响应 `Pages` 字段为 JSON 字符串 → `JSON.parse` 再取数组；同时兼容已展开为数组的情形；字段名可配置（`TENCENT_WSA_PAGES_FIELD`，默认 `Pages`，支持 dot-path），并兜底探测 `SearchInfo.Pages` / `data.Pages` 等常见形状 |
+
+### 配置驱动（零编造，避免硬编码未知 API 细节）
+```
+TENCENT_WSA_BASE_URL      必须；WSA 接口地址
+TENCENT_WSA_API_KEY       必须；Bearer Token
+TENCENT_WSA_QUERY_FIELD   请求体查询字段名（默认 'query'）
+TENCENT_WSA_EXTRA_BODY    附加固定 body 字段（JSON 字符串，可选）
+TENCENT_WSA_PAGES_FIELD   响应中结果数组字段（默认 'Pages'，支持 dot-path）
+TENCENT_WSA_FIELD_TITLE/URL/SNIPPET/SOURCE  结果项字段映射（默认值与通用层一致）
+```
+复用 `SEARCH_MAX_RESULTS` / `SEARCH_TIMEOUT_MS` / `SEARCH_DAILY_QUOTA`（与既有 searchLayer 一致）。
+
+---
+
+## 4. 护栏与数据隔离（全部保留）
+
+调用链与 `domestic` 完全一致，未做任何改动：
+```
+privacyGate（最前端, fail-closed）→ canaryGate → quota(costGuard) → tencent provider → audit
+```
+- `privacyGate`：高风险 PII 直接 `pii_blocked`，零外呼，`data_route=blocked`。
+- `canaryGate`：仅 `SEARCH_CANARY_OPENIDS` 内用户走真实 `tencent`，其余强制 `mock`。
+- `quota`：真实调用计日配额，`quota_exceeded` 即降级。
+- `audit`：仅 7 个安全白名单字段，**绝不含 query / openid / URL / 搜索全文**。
+- `freshnessRuntimeGuard`：结构层 + 资产层双保险隔离检查（未在本次改动）。
+- **`data_route` 恒定 `domestic`**：`isDomesticProvider('tencent')===true` → 零跨境。其正确性依赖所接入的 WSA 为国内合规服务（服务器与数据均留境），与 `domestic` 槽位同源。
+
+---
+
+## 5. 测试结果
+
+### 5.1 回归：原 225 PASS 保持
+```
+Phase Q2-10 离线验证: 225 PASS / 0 FAIL
+```
+（运行 `node scripts/test_q29.js`，`index.js` 注册 `tencent` 后 `domestic` 路径零回归）
+
+### 5.2 新增：腾讯 WSA 测试 104 PASS / 0 FAIL
+```
+Phase Q2-12 腾讯 WSA Adapter: 104 PASS / 0 FAIL
+```
+覆盖：
+1. **Contract 形状**：返回 `{ok,provider,results,reason}` 且 `provider='tencent'`。
+2. **POST + Bearer + JSON body 含 query**：三项断言全 ✅。
+3. **Pages JSON string 二次解析**：字符串 → 数组，字段映射生效，片段含联网标记。
+4. **no_endpoint**：未配置 `BASE_URL` → `ok:false` / `reason=no_endpoint` / 零外呼。
+5. **no_results**：`Pages='[]'` → `ok:false` / `reason=no_results`。
+6. **provider 名 = tencent**：固定为 `tencent`。
+7. **searchLayer 路由**：`data_route=domestic`；`isDomesticProvider`/`isRealProvider` 均识别；审计干净。
+8. **端到端（thinkEngine）**：
+   - 5 条在线问题 → 联网结果进入回答文本 ✅，`data_route=domestic` ✅，审计零泄露 ✅。
+   - 2 条失败问题（空结果 / 网络异常）→ 稳定回退 RAG 兜底 ✅。
+   - 汇总：全程 **零 cross_border**（7/7 `domestic`）。
+   - 冻结资产 SHA 4/4 不变、corpus 条目数（派生 embedding 向量数）= 14 不变、**无 ingest**。
+
+---
+
+## 6. 上线前置（仍阻塞，须授权后操作）
+
+| 项 | 状态 | 说明 |
+|---|---|---|
+| B1 开通腾讯云联网搜索 WSA | ⛔ 待办 | 需账号开通并获取接口地址与 SecretId/Key（映射为 `TENCENT_WSA_API_KEY`） |
+| B2 微信 request 合法域名白名单 | ⛔ 待办 | 公众平台 → 开发设置 → 服务器域名 → request 合法域名，添加 WSA 域名（须已 ICP 备案） |
+| B3 写 env 补丁 | ⛔ 待办 | 在 `cloudbaserc.json` 注入：`SEARCH_PROVIDER=tencent` / `FRESHNESS_ENABLED=true` / `FRESHNESS_FACTUAL_ENABLED=true` / `PRIVACY_GATE_ENABLED=true`（建议）/ `SEARCH_CANARY_ENABLED=true` + `SEARCH_CANARY_OPENIDS` / `TENCENT_WSA_BASE_URL` / `TENCENT_WSA_API_KEY` / 配额参数 |
+| B4 `tcb fn deploy chat --force` | ⛔ 待办 | 部署会套用 `cloudbaserc.json` 的 env，须与现网 runtime/timeout/memory 对齐 |
+| B5 真实 canary 联调 | ⛔ 待办 | 仅 canary openid 走真实 `tencent`，其余仍 mock/RAG |
+| B6 小程序备案 | ⛔ 审核中 | 与 B2 互为前置 |
+
+> 建议顺序：B1 → B2 → B3（写 env）→ B4（deploy）→ B5（canary）→ B6（扩量）。
+
+---
+
+## 7. 结论
+
+腾讯 WSA Adapter 已按 provider contract 完成，POST + Bearer + JSON body + Pages 二次解析全部落地，零编造（配置驱动）。搜索结果仅作 request runtime context，失败稳定回退 RAG，知识库零改动（四冻结资产 SHA 4/4、corpus=14 不变）。原 225 PASS 保持，新增 104 PASS 全绿。当前仍处**未部署 / 未改生产 env** 的准备态，等待授权推进 B1–B6。

@@ -1,1 +1,100 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi6Zi26LeD5pif6L6wKFN0ZXBGdW4p5a6Y5pa5IEFQSSDlr7nor53mqKHlnovmtYHlvI/mtYvpgJ/jgIIK6YCQ5qih5Z6L5Y+R5p6B566A6aKY77yM6K6w5b2VIFRURlQo6aaW5a2X5bu26L+fKSDkuI7mgLvogJfml7bvvJvotoXml7YgMzBzIOWIpOWksei0peOAggrku4XmtYvog73ot5EgY2hhdCDnmoTmlofmnKwv5a+56K+d5qih5Z6L77ybVFRTL0FTUi/pn7PpopEv5Zu+5YOPL+aQnOe0ouexu+i3s+i/h+OAggoiIiIKaW1wb3J0IHVybGxpYi5yZXF1ZXN0LCBqc29uLCB0aW1lLCBkYXRldGltZSwgc3lzCgpCQVNFID0gImh0dHBzOi8vYXBpLnN0ZXBmdW4uY29tL3YxIgpLRVkgPSAiMWE0Sjg4ODVTOGUzNmlOU1gxOHpBeDlGcmxxdzRsQmV3N3pmY0FROUxvdUIzWlZ0TTVnZTZjZEVkU051ekxwdU4iCiMg5LuF5a+56K+d57G75qih5Z6L77yI5paH5pys55Sf5oiQ77yJ44CC5aSa5qih5oCB6KeG6KeJL+mfs+mikeaooeWei+e6r+aWh+acrOWPr+iDveS4jemAgueUqO+8jOWFiOWIl+WHuuWwneivleOAggpNT0RFTFMgPSBbCiAgICAic3RlcC0zLjUtZmxhc2giLAogICAgInN0ZXAtMy41LWZsYXNoLTI2MDMiLAogICAgInN0ZXAtMy43LWZsYXNoIiwKICAgICJzdGVwLTJ4LWxhcmdlIiwKICAgICJzdGVwLXJvdXRlci12MSIsCiAgICAic3RlcC1vdmVydHVyZS1wcmV2aWV3IiwKICAgICJzdGVwLTFvLXR1cmJvLXZpc2lvbiIsCl0KUFJPTVBUID0gIueUqOS4gOWPpeivneS7i+e7jeWtlOWtkCIKVElNRU9VVCA9IDMwCgpkZWYgYmVuY2gobSk6CiAgICBwYXlsb2FkID0ganNvbi5kdW1wcyh7CiAgICAgICAgIm1vZGVsIjogbSwKICAgICAgICAibWVzc2FnZXMiOiBbeyJyb2xlIjogInVzZXIiLCAiY29udGVudCI6IFBST01QVH1dLAogICAgICAgICJzdHJlYW0iOiBUcnVlLAogICAgfSkuZW5jb2RlKCJ1dGYtOCIpCiAgICByZXEgPSB1cmxsaWIucmVxdWVzdC5SZXF1ZXN0KAogICAgICAgIEJBU0UgKyAiL2NoYXQvY29tcGxldGlvbnMiLAogICAgICAgIGRhdGE9cGF5bG9hZCwKICAgICAgICBoZWFkZXJzPXsKICAgICAgICAgICAgIkF1dGhvcml6YXRpb24iOiAiQmVhcmVyICIgKyBLRVksCiAgICAgICAgICAgICJDb250ZW50LVR5cGUiOiAiYXBwbGljYXRpb24vanNvbiIsCiAgICAgICAgfSwKICAgICAgICBtZXRob2Q9IlBPU1QiLAogICAgKQogICAgdDAgPSB0aW1lLnRpbWUoKQogICAgdHRmdCA9IE5vbmUKICAgIGNodW5rcyA9IDAKICAgIGZpcnN0X3RleHQgPSAiIgogICAgZXJyID0gTm9uZQogICAgdHJ5OgogICAgICAgIHdpdGggdXJsbGliLnJlcXVlc3QudXJsb3BlbihyZXEsIHRpbWVvdXQ9VElNRU9VVCkgYXMgcmVzcDoKICAgICAgICAgICAgZm9yIHJhdyBpbiByZXNwOgogICAgICAgICAgICAgICAgbGluZSA9IHJhdy5kZWNvZGUoInV0Zi04IiwgInJlcGxhY2UiKS5zdHJpcCgpCiAgICAgICAgICAgICAgICBpZiBub3QgbGluZSBvciBub3QgbGluZS5zdGFydHN3aXRoKCJkYXRhOiIpOgogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgICAgICBkYXRhID0gbGluZVs1Ol0uc3RyaXAoKQogICAgICAgICAgICAgICAgaWYgZGF0YSA9PSAiW0RPTkVdIjoKICAgICAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgIG9iaiA9IGpzb24ubG9hZHMoZGF0YSkKICAgICAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgIGNob2ljZXMgPSBvYmouZ2V0KCJjaG9pY2VzIikgb3IgW3t9XQogICAgICAgICAgICAgICAgZGVsdGEgPSBjaG9pY2VzWzBdLmdldCgiZGVsdGEiKSBvciB7fQogICAgICAgICAgICAgICAgYyA9IGRlbHRhLmdldCgiY29udGVudCIpCiAgICAgICAgICAgICAgICBpZiBjOgogICAgICAgICAgICAgICAgICAgIGlmIHR0ZnQgaXMgTm9uZToKICAgICAgICAgICAgICAgICAgICAgICAgdHRmdCA9IHRpbWUudGltZSgpIC0gdDAKICAgICAgICAgICAgICAgICAgICAgICAgZmlyc3RfdGV4dCA9IGMKICAgICAgICAgICAgICAgICAgICBjaHVua3MgKz0gMQogICAgICAgIHRvdGFsID0gdGltZS50aW1lKCkgLSB0MAogICAgICAgIG9rID0gY2h1bmtzID4gMAogICAgICAgIGlmIG5vdCBvazoKICAgICAgICAgICAgZXJyID0gIm5vX2NvbnRlbnRfcmV0dXJuZWQiCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgdG90YWwgPSB0aW1lLnRpbWUoKSAtIHQwCiAgICAgICAgb2sgPSBGYWxzZQogICAgICAgIGVyciA9IHN0cihlKQogICAgcmV0dXJuIHsKICAgICAgICAibW9kZWwiOiBtLAogICAgICAgICJvayI6IG9rLAogICAgICAgICJ0dGZ0X3MiOiByb3VuZCh0dGZ0LCAzKSBpZiB0dGZ0IGlzIG5vdCBOb25lIGVsc2UgTm9uZSwKICAgICAgICAidG90YWxfcyI6IHJvdW5kKHRvdGFsLCAzKSwKICAgICAgICAiY2h1bmtzIjogY2h1bmtzLAogICAgICAgICJmaXJzdF90ZXh0IjogZmlyc3RfdGV4dFs6NDBdLAogICAgICAgICJlcnJvciI6IGVyciwKICAgIH0KCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICByZXN1bHRzID0gW10KICAgIHByaW50KCI9PT0gU3RlcEZ1biDlr7nor53mqKHlnovmtYvpgJ8gKOaegeeugOmimCwg5rWB5byPKSA9PT0iKQogICAgZm9yIG0gaW4gTU9ERUxTOgogICAgICAgIHIgPSBiZW5jaChtKQogICAgICAgIHJlc3VsdHMuYXBwZW5kKHIpCiAgICAgICAgc3RhdHVzID0gIk9LICIgaWYgclsib2siXSBlbHNlICJGQUlMIgogICAgICAgIHByaW50KGYiW3tzdGF0dXN9XSB7bToyNHN9IFRURlQ9e3JbJ3R0ZnRfcyddfXMgIHRvdGFsPXtyWyd0b3RhbF9zJ119cyAgY2h1bmtzPXtyWydjaHVua3MnXX0gIHtyWydlcnJvciddIG9yICcnfSIpCiAgICAjIOaOkuW6j++8iOaIkOWKn+eahOaMiSBUVEZUIOWNh+W6j++8iQogICAgb2tfcmVzID0gc29ydGVkKFtyIGZvciByIGluIHJlc3VsdHMgaWYgclsib2siXV0sIGtleT1sYW1iZGEgeDogeFsidHRmdF9zIl0pCiAgICBwcmludCgiXG49PT0g6YCf5bqm5o6S5ZCNKOaIkOWKn+aooeWeiywg5oyJIFRURlQpID09PSIpCiAgICBmb3IgaSwgciBpbiBlbnVtZXJhdGUob2tfcmVzLCAxKToKICAgICAgICBwcmludChmIntpfS4ge3JbJ21vZGVsJ106MjRzfSBUVEZUPXtyWyd0dGZ0X3MnXX1zICB0b3RhbD17clsndG90YWxfcyddfXMiKQogICAgdHMgPSBkYXRldGltZS5kYXRldGltZS5ub3coKS5zdHJmdGltZSgiJVklbSVkXyVIJU0lUyIpCiAgICBvdXQgPSBmInNjcmlwdHMvc3RlcGZ1bl9iZW5jaF97dHN9Lmpzb24iCiAgICB3aXRoIG9wZW4ob3V0LCAidyIsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICAgICAganNvbi5kdW1wKHsibW9kZWxzIjogTU9ERUxTLCAicHJvbXB0IjogUFJPTVBULCAicmVzdWx0cyI6IHJlc3VsdHMsCiAgICAgICAgICAgICAgICAgICAicmFua2luZyI6IFtyWyJtb2RlbCJdIGZvciByIGluIG9rX3Jlc119LCBmLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0yKQogICAgcHJpbnQoZiJcbuWOn+Wni+aVsOaNrjoge291dH0iKQo=
+# -*- coding: utf-8 -*-
+"""阶跃星辰(StepFun)官方 API 对话模型流式测速。
+逐模型发极简题，记录 TTFT(首字延迟) 与总耗时；超时 30s 判失败。
+仅测能跑 chat 的文本/对话模型；TTS/ASR/音频/图像/搜索类跳过。
+"""
+import urllib.request, json, time, datetime, sys
+
+BASE = "https://api.stepfun.com/v1"
+KEY = "1a4J8885S8e36iNSX18zAx9Frlqw4lBew7zfcAQ9LouB3ZVtM5ge6cdEdSNuzLpuN"
+# 仅对话类模型（文本生成）。多模态视觉/音频模型纯文本可能不适用，先列出尝试。
+MODELS = [
+    "step-3.5-flash",
+    "step-3.5-flash-2603",
+    "step-3.7-flash",
+    "step-2x-large",
+    "step-router-v1",
+    "step-overture-preview",
+    "step-1o-turbo-vision",
+]
+PROMPT = "用一句话介绍孔子"
+TIMEOUT = 30
+
+def bench(m):
+    payload = json.dumps({
+        "model": m,
+        "messages": [{"role": "user", "content": PROMPT}],
+        "stream": True,
+    }).encode("utf-8")
+    req = urllib.request.Request(
+        BASE + "/chat/completions",
+        data=payload,
+        headers={
+            "Authorization": "Bearer " + KEY,
+            "Content-Type": "application/json",
+        },
+        method="POST",
+    )
+    t0 = time.time()
+    ttft = None
+    chunks = 0
+    first_text = ""
+    err = None
+    try:
+        with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
+            for raw in resp:
+                line = raw.decode("utf-8", "replace").strip()
+                if not line or not line.startswith("data:"):
+                    continue
+                data = line[5:].strip()
+                if data == "[DONE]":
+                    break
+                try:
+                    obj = json.loads(data)
+                except Exception:
+                    continue
+                choices = obj.get("choices") or [{}]
+                delta = choices[0].get("delta") or {}
+                c = delta.get("content")
+                if c:
+                    if ttft is None:
+                        ttft = time.time() - t0
+                        first_text = c
+                    chunks += 1
+        total = time.time() - t0
+        ok = chunks > 0
+        if not ok:
+            err = "no_content_returned"
+    except Exception as e:
+        total = time.time() - t0
+        ok = False
+        err = str(e)
+    return {
+        "model": m,
+        "ok": ok,
+        "ttft_s": round(ttft, 3) if ttft is not None else None,
+        "total_s": round(total, 3),
+        "chunks": chunks,
+        "first_text": first_text[:40],
+        "error": err,
+    }
+
+if __name__ == "__main__":
+    results = []
+    print("=== StepFun 对话模型测速 (极简题, 流式) ===")
+    for m in MODELS:
+        r = bench(m)
+        results.append(r)
+        status = "OK " if r["ok"] else "FAIL"
+        print(f"[{status}] {m:24s} TTFT={r['ttft_s']}s  total={r['total_s']}s  chunks={r['chunks']}  {r['error'] or ''}")
+    # 排序（成功的按 TTFT 升序）
+    ok_res = sorted([r for r in results if r["ok"]], key=lambda x: x["ttft_s"])
+    print("\n=== 速度排名(成功模型, 按 TTFT) ===")
+    for i, r in enumerate(ok_res, 1):
+        print(f"{i}. {r['model']:24s} TTFT={r['ttft_s']}s  total={r['total_s']}s")
+    ts = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+    out = f"scripts/stepfun_bench_{ts}.json"
+    with open(out, "w", encoding="utf-8") as f:
+        json.dump({"models": MODELS, "prompt": PROMPT, "results": results,
+                   "ranking": [r["model"] for r in ok_res]}, f, ensure_ascii=False, indent=2)
+    print(f"\n原始数据: {out}")

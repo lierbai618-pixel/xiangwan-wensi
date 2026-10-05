@@ -1,1 +1,120 @@
-IyEvdXNyL2Jpbi9lbnYgbm9kZQondXNlIHN0cmljdCc7CgovKioKICog55Sf5oiQ44CM5Lq65qC85rWL6K+V44CN5aSW6ZO+55qE5LqM57u056CBIFBOR++8iOemu+e6v++8jOmbtui/kOihjOaXtuS+nei1lu+8iQogKgogKiDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZAKICog4pqg77iPIOaWueahiOW3suW6n+W8g++8iDIwMjYtMDktMjHvvInigJTigJQg5pys6ISa5pys5b2T5YmNKirkuI3lj4LkuI7kuqflk4HmtYHnqIsqKgogKiDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZAKICog5Y6f55So6YCU77ya5bCP56iL5bqP5peg5rOV5omT5byA5aSW6YOo5rWP6KeI5Zmo77yM5pS555So44CM5LqM57u056CB6ZW/5oyJ6K+G5Yir44CNCiAqICAgICAgICAg77yI6ZW/5oyJ5LqM57u056CBIOKGkiDor4bliKvlm77kuK3kuoznu7TnoIEg4oaSIOaJk+W8gOe9kemhte+8ieOAggogKgogKiDlup/lvIPljp/lm6DvvIjnnJ/mnLrlt7Lpqozor4EgKyDlvq7kv6Hlrpjmlrnlj6PlvoTvvInvvJoKICogICDjgIznm67liY3mlK/mjIHnmoTplb/mjInor4bliKvnmoTkuoznu7TnoIEqKumDveaYr+W+ruS/oeS9k+ezu+S4i+eahCoqCiAqICAgIO+8iOWwj+eoi+W6j+eggSAvIOW+ruS/oeS4quS6uueggSAvIOS8geS4muW+ruS/oeS4quS6uueggSAvIOe+pOeggSAvIOWFrOS8l+WPt+S6jOe7tOegge+8ie+8jAogKiAgICAqKuWvueS6juesrOS4ieaWueeUn+aIkOeahOS6jOe7tOeggeS4jeaUr+aMgemVv+aMieivhuWIqyoq44CN44CCCiAqICAg5oiR5Lus55Sf5oiQ55qE5piv5pmu6YCaIFVSTCDkuoznu7TnoIEg4oaSIOmVv+aMieiPnOWNleS7heaciSDovazlj5Ev5L+d5a2YL+aUtuiXjy/nv7vor5HvvIwKICogICDml6DjgIzor4bliKvlm77kuK3kuoznu7TnoIHjgI3lhaXlj6PjgILov5nmmK8qKueggeexu+Wei+ehrOmZkOWItioq77yM5LiOCiAqICAgc2hvdy1tZW51LWJ5LWxvbmdwcmVzcyDlsZ7mgKfjgIHmiJbpobXpnaLlhoUgaW1hZ2UgdnMgcHJldmlld0ltYWdlIOaXoOWFs+OAggogKgogKiDnjrDooYzmlrnmoYjvvJpgcGFnZXMvcXVpemAg5pS555SoIGB3eC5zZXRDbGlwYm9hcmREYXRhYOOAjOS4gOmUruWkjeWItumTvuaOpeOAjeOAggogKgogKiDkv53nlZnmnKzohJrmnKznmoTnkIbnlLHvvJrkuoznu7TnoIHnlJ/miJDog73lipvlnKgqKuWIhuS6q+WbviAvIOWwj+eoi+W6j+eggSoq562J5Zy65pmv5LuN5Y+v5aSN55So77yMCiAqICAgICAgICAgICAgICAgICAg5LiU5pys5paH5Lu26K6w5b2V5LqG6L+Z5p2h5bey5o6S6Zmk55qE5oqA5pyv6Lev57q/77yM6YG/5YWN5ZCO5Lq66YeN6LWw44CCCiAqIOWmguehrumcgOW9u+W6lea4heeQhu+8jOWPr+i/nuWQjCBgc2NyaXB0cy9xci1tYW5pZmVzdC5qc29uYCDkuIDlubbliKDpmaTjgIIKICog4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQCiAqCiAqIOi/kOihjO+8mgogKiAgIE5PREVfUEFUSD08aXNvbGF0ZWQtd29ya3NwYWNlPi9ub2RlX21vZHVsZXMgbm9kZSBzY3JpcHRzL2dlbi1xdWl6LXFyLmpzCiAqCiAqIOi+k+WHuu+8mm1pbmlwcm9ncmFtL2ltYWdlcy9xci88c2x1Zz4ucG5nICArICBzY3JpcHRzL3FyLW1hbmlmZXN0Lmpzb24KICoKICog4pqg77iPIOmTvuaOpea4heWNleW3suaOkumZpOacrOaXpeWunua1i+S4jeWPr+eUqOeahOS4pOadoe+8mgogKiAgICAgIMK3IGh0dHBzOi8vd3d3LmFkdmFuY2VkLXBlcnNvbmFsaXR5LmNvbS8uLi4g77yIRE5TIOWxgumYu+aWre+8mumYv+mHjOWFrOWFsSBETlMg6L+U5ZueIDAuMC4wLjDvvIkKICogICAgICDCtyBodHRwOi8vdC5jbi9BNjAyZllzRCAgICAgICAgICAgICAgICAgICAgIO+8iOefremTvuW3suWkseaViO+8jOaXoCBMb2NhdGlvbiDot7PovazvvIkKICovCgpjb25zdCBmcyA9IHJlcXVpcmUoJ2ZzJyk7CmNvbnN0IHBhdGggPSByZXF1aXJlKCdwYXRoJyk7CmNvbnN0IFFSQ29kZSA9IHJlcXVpcmUoJ3FyY29kZScpOwoKY29uc3QgT1VUX0RJUiA9IHBhdGguam9pbihfX2Rpcm5hbWUsICcuLicsICdtaW5pcHJvZ3JhbScsICdpbWFnZXMnLCAncXInKTsKCi8vIOWIhue7hCArIHNsdWcg5Y2z6L6T5Ye65paH5Lu25ZCNCmNvbnN0IEdST1VQUyA9IFsKICB7CiAgICBncm91cDogJ+iNo+agvOWFq+e7tCcsCiAgICBpdGVtczogWwogICAgICB7IHNsdWc6ICdqdW5ndXMtOGZ1bmN0aW9uJywgbmFtZTogJ+iNo+agvOWFq+e7tOa1i+ivle+8iOiNo+agvOaWr++8iScsIG5vdGU6ICfnrKzkuozku6PorqTnn6Xlip/og73mtYvor5UnLCB1cmw6ICdodHRwczovL3d3dy5qdW5ndXMuY24vemgtaGFucy90ZXN0LycgfSwKICAgICAgeyBzbHVnOiAndG90eXBlcy04ZnVuY3Rpb24nLCBuYW1lOiAn6I2j5qC85YWr57u05rWL6K+V77yIVG90eXBlc++8iScsIG5vdGU6ICcnLCB1cmw6ICdodHRwOi8vd3d3LnRvdHlwZXMuY29tJyB9LAogICAgICB7IHNsdWc6ICdzb3Vsc3RhdGlvbi04ZnVuY3Rpb24nLCBuYW1lOiAn6I2j5qC85YWr57u05rWL6K+V77yIU291bFN0YXRpb27vvIknLCBub3RlOiAn5Yqg6L296L6D5oWi77yI57qmIDEwc++8iScsIHVybDogJ2h0dHBzOi8vc291bHN0YXRpb24uY2x1Yi84ZnVuY3Rpb24nIH0sCiAgICBdLAogIH0sCiAgewogICAgZ3JvdXA6ICdNQlRJJywKICAgIGl0ZW1zOiBbCiAgICAgIHsgc2x1ZzogJzE2cGVyc29uYWxpdGllcycsIG5hbWU6ICdNQlRJIOWNgeWFreWei+S6uuagvCcsIG5vdGU6ICcxNlBlcnNvbmFsaXRpZXMg5a6Y5pa55Lit5paH54mIJywgdXJsOiAnaHR0cHM6Ly93d3cuMTZwZXJzb25hbGl0aWVzLmNvbS9jaCcgfSwKICAgIF0sCiAgfSwKICB7CiAgICBncm91cDogJ+S5neWei+S6uuagvCcsCiAgICBpdGVtczogWwogICAgICB7IHNsdWc6ICdlbm5lYXRhbycsIG5hbWU6ICfkuZ3lnovkurrmoLzmtYvor5XvvIjkurrmoLzkuZ3pgZPvvIknLCBub3RlOiAnJywgdXJsOiAnaHR0cHM6Ly9lbm5lYXRhby5jb20vdGVzdCcgfSwKICAgICAgeyBzbHVnOiAneXV6ZWxpLW5pbmUxNDQnLCBuYW1lOiAn5Lmd5Z6L5Lq65qC85rWL6K+V77yIMTQ0IOmimO+8iScsIG5vdGU6ICcnLCB1cmw6ICdodHRwczovL3R5cGVzLnl1emVsaS5jb20vc3VydmV5L25pbmUxNDQnIH0sCiAgICAgIHsgc2x1ZzogJ2VubmVhZ3JhbS1jYycsIG5hbWU6ICfkuZ3lnovkurrmoLzmtYvor5XvvIjnroDmmI7niYjvvIknLCBub3RlOiAnJywgdXJsOiAnaHR0cDovL3d3dy5lbm5lYWdyYW0uY2Mvanhjcy5waHAnIH0sCiAgICBdLAogIH0sCiAgewogICAgZ3JvdXA6ICfljaHnibnlsJQgMTZQRicsCiAgICBpdGVtczogWwogICAgICB7IHNsdWc6ICd5dXplbGktMTZwZicsIG5hbWU6ICfljaHnibnlsJQgMTZQRiDkurrmoLzmtYvor5UnLCBub3RlOiAn6K6k55+l5Yqf6IO95YC+5ZCRJywgdXJsOiAnaHR0cDovL3R5cGVzLnl1emVsaS5jb20vc3VydmV5L2NvZ25pdGl2ZS8nIH0sCiAgICBdLAogIH0sCiAgewogICAgZ3JvdXA6ICflv4PnkIblubTpvoQnLAogICAgaXRlbXM6IFsKICAgICAgeyBzbHVnOiAnYXJlYWxtZS1tZW50YWwtYWdlJywgbmFtZTogJ+W/g+eQhuW5tOm+hOa1i+ivle+8iEFyZWFsbWXvvIknLCBub3RlOiAnJywgdXJsOiAnaHR0cHM6Ly93d3cuYXJlYWxtZS5jb20vbWVudGFsLWFnZS10ZXN0L2NuLycgfSwKICAgICAgeyBzbHVnOiAneXV6ZWxpLW1lbnRhbC1hZ2UnLCBuYW1lOiAn5b+D55CG5bm06b6E5rWL6K+V77yI6K6w5b2V6aG177yJJywgbm90ZTogJycsIHVybDogJ2h0dHBzOi8vdHlwZXMueXV6ZWxpLmNvbS9yZWNvcmQvMDJlM2NmNzM2ZWMyM2UnIH0sCiAgICBdLAogIH0sCl07Cgpjb25zdCBPUFRTID0gewogIHR5cGU6ICdwbmcnLAogIGVycm9yQ29ycmVjdGlvbkxldmVsOiAnTScsCiAgbWFyZ2luOiAxLAogIHdpZHRoOiAzMjAsCiAgY29sb3I6IHsgZGFyazogJyMyYzJjMmFmZicsIGxpZ2h0OiAnI2ZmZmZmZmZmJyB9LAp9OwoKYXN5bmMgZnVuY3Rpb24gbWFpbigpIHsKICBmcy5ta2RpclN5bmMoT1VUX0RJUiwgeyByZWN1cnNpdmU6IHRydWUgfSk7CgogIGNvbnN0IG1hbmlmZXN0ID0gW107CiAgbGV0IGNvdW50ID0gMDsKCiAgZm9yIChjb25zdCBnIG9mIEdST1VQUykgewogICAgZm9yIChjb25zdCBpdCBvZiBnLml0ZW1zKSB7CiAgICAgIGNvbnN0IG91dCA9IHBhdGguam9pbihPVVRfRElSLCBpdC5zbHVnICsgJy5wbmcnKTsKICAgICAgYXdhaXQgUVJDb2RlLnRvRmlsZShvdXQsIGl0LnVybCwgT1BUUyk7CiAgICAgIGNvbnN0IHNpemUgPSBmcy5zdGF0U3luYyhvdXQpLnNpemU7CiAgICAgIG1hbmlmZXN0LnB1c2goeyBncm91cDogZy5ncm91cCwgLi4uaXQsIGZpbGU6ICdpbWFnZXMvcXIvJyArIGl0LnNsdWcgKyAnLnBuZycsIGJ5dGVzOiBzaXplIH0pOwogICAgICBjb3VudCsrOwogICAgICBjb25zb2xlLmxvZyhg4pyTICR7aXQuc2x1Zy5wYWRFbmQoMjYpfSAke1N0cmluZyhzaXplKS5wYWRTdGFydCg2KX0gQiAgICR7aXQudXJsfWApOwogICAgfQogIH0KCiAgLy8g5riF5Y2V5YaZ5YiwIHNjcmlwdHMv77yIKirkuI3mlL4gbWluaXByb2dyYW0vKirvvIzpgb/lhY3ooqvmiZPljIXov5vlsI/nqIvluo/vvIkKICBjb25zdCBtYW5pZmVzdFBhdGggPSBwYXRoLmpvaW4oX19kaXJuYW1lLCAncXItbWFuaWZlc3QuanNvbicpOwogIGZzLndyaXRlRmlsZVN5bmMobWFuaWZlc3RQYXRoLCBKU09OLnN0cmluZ2lmeShtYW5pZmVzdCwgbnVsbCwgMiksICd1dGY4Jyk7CgogIGNvbnN0IHRvdGFsID0gbWFuaWZlc3QucmVkdWNlKChzLCBtKSA9PiBzICsgbS5ieXRlcywgMCk7CiAgY29uc29sZS5sb2coYFxu5YWx55Sf5oiQICR7Y291bnR9IOW8oOS6jOe7tOegge+8jOWQiOiuoSAkeyh0b3RhbCAvIDEwMjQpLnRvRml4ZWQoMSl9IEtCYCk7CiAgY29uc29sZS5sb2coYOa4heWNleW3suWGmeWFpTogc2NyaXB0cy9xci1tYW5pZmVzdC5qc29uYCk7Cn0KCm1haW4oKS5jYXRjaCgoZSkgPT4gewogIGNvbnNvbGUuZXJyb3IoJ+eUn+aIkOWksei0pTonLCBlICYmIGUubWVzc2FnZSA/IGUubWVzc2FnZSA6IGUpOwogIHByb2Nlc3MuZXhpdCgxKTsKfSk7Cg==
+#!/usr/bin/env node
+'use strict';
+
+/**
+ * 生成「人格测试」外链的二维码 PNG（离线，零运行时依赖）
+ *
+ * ══════════════════════════════════════════════════════════════
+ * ⚠️ 方案已废弃（2026-09-21）—— 本脚本当前**不参与产品流程**
+ * ══════════════════════════════════════════════════════════════
+ * 原用途：小程序无法打开外部浏览器，改用「二维码长按识别」
+ *         （长按二维码 → 识别图中二维码 → 打开网页）。
+ *
+ * 废弃原因（真机已验证 + 微信官方口径）：
+ *   「目前支持的长按识别的二维码**都是微信体系下的**
+ *    （小程序码 / 微信个人码 / 企业微信个人码 / 群码 / 公众号二维码），
+ *    **对于第三方生成的二维码不支持长按识别**」。
+ *   我们生成的是普通 URL 二维码 → 长按菜单仅有 转发/保存/收藏/翻译，
+ *   无「识别图中二维码」入口。这是**码类型硬限制**，与
+ *   show-menu-by-longpress 属性、或页面内 image vs previewImage 无关。
+ *
+ * 现行方案：`pages/quiz` 改用 `wx.setClipboardData`「一键复制链接」。
+ *
+ * 保留本脚本的理由：二维码生成能力在**分享图 / 小程序码**等场景仍可复用，
+ *                  且本文件记录了这条已排除的技术路线，避免后人重走。
+ * 如确需彻底清理，可连同 `scripts/qr-manifest.json` 一并删除。
+ * ══════════════════════════════════════════════════════════════
+ *
+ * 运行：
+ *   NODE_PATH=<isolated-workspace>/node_modules node scripts/gen-quiz-qr.js
+ *
+ * 输出：miniprogram/images/qr/<slug>.png  +  scripts/qr-manifest.json
+ *
+ * ⚠️ 链接清单已排除本日实测不可用的两条：
+ *      · https://www.advanced-personality.com/... （DNS 层阻断：阿里公共 DNS 返回 0.0.0.0）
+ *      · http://t.cn/A602fYsD                     （短链已失效，无 Location 跳转）
+ */
+
+const fs = require('fs');
+const path = require('path');
+const QRCode = require('qrcode');
+
+const OUT_DIR = path.join(__dirname, '..', 'miniprogram', 'images', 'qr');
+
+// 分组 + slug 即输出文件名
+const GROUPS = [
+  {
+    group: '荣格八维',
+    items: [
+      { slug: 'jungus-8function', name: '荣格八维测试（荣格斯）', note: '第二代认知功能测试', url: 'https://www.jungus.cn/zh-hans/test/' },
+      { slug: 'totypes-8function', name: '荣格八维测试（Totypes）', note: '', url: 'http://www.totypes.com' },
+      { slug: 'soulstation-8function', name: '荣格八维测试（SoulStation）', note: '加载较慢（约 10s）', url: 'https://soulstation.club/8function' },
+    ],
+  },
+  {
+    group: 'MBTI',
+    items: [
+      { slug: '16personalities', name: 'MBTI 十六型人格', note: '16Personalities 官方中文版', url: 'https://www.16personalities.com/ch' },
+    ],
+  },
+  {
+    group: '九型人格',
+    items: [
+      { slug: 'enneatao', name: '九型人格测试（人格九道）', note: '', url: 'https://enneatao.com/test' },
+      { slug: 'yuzeli-nine144', name: '九型人格测试（144 题）', note: '', url: 'https://types.yuzeli.com/survey/nine144' },
+      { slug: 'enneagram-cc', name: '九型人格测试（简明版）', note: '', url: 'http://www.enneagram.cc/jxcs.php' },
+    ],
+  },
+  {
+    group: '卡特尔 16PF',
+    items: [
+      { slug: 'yuzeli-16pf', name: '卡特尔 16PF 人格测试', note: '认知功能倾向', url: 'http://types.yuzeli.com/survey/cognitive/' },
+    ],
+  },
+  {
+    group: '心理年龄',
+    items: [
+      { slug: 'arealme-mental-age', name: '心理年龄测试（Arealme）', note: '', url: 'https://www.arealme.com/mental-age-test/cn/' },
+      { slug: 'yuzeli-mental-age', name: '心理年龄测试（记录页）', note: '', url: 'https://types.yuzeli.com/record/02e3cf736ec23e' },
+    ],
+  },
+];
+
+const OPTS = {
+  type: 'png',
+  errorCorrectionLevel: 'M',
+  margin: 1,
+  width: 320,
+  color: { dark: '#2c2c2aff', light: '#ffffffff' },
+};
+
+async function main() {
+  fs.mkdirSync(OUT_DIR, { recursive: true });
+
+  const manifest = [];
+  let count = 0;
+
+  for (const g of GROUPS) {
+    for (const it of g.items) {
+      const out = path.join(OUT_DIR, it.slug + '.png');
+      await QRCode.toFile(out, it.url, OPTS);
+      const size = fs.statSync(out).size;
+      manifest.push({ group: g.group, ...it, file: 'images/qr/' + it.slug + '.png', bytes: size });
+      count++;
+      console.log(`✓ ${it.slug.padEnd(26)} ${String(size).padStart(6)} B   ${it.url}`);
+    }
+  }
+
+  // 清单写到 scripts/（**不放 miniprogram/**，避免被打包进小程序）
+  const manifestPath = path.join(__dirname, 'qr-manifest.json');
+  fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2), 'utf8');
+
+  const total = manifest.reduce((s, m) => s + m.bytes, 0);
+  console.log(`\n共生成 ${count} 张二维码，合计 ${(total / 1024).toFixed(1)} KB`);
+  console.log(`清单已写入: scripts/qr-manifest.json`);
+}
+
+main().catch((e) => {
+  console.error('生成失败:', e && e.message ? e.message : e);
+  process.exit(1);
+});

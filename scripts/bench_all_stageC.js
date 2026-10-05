@@ -1,1 +1,110 @@
-IyEvdXNyL2Jpbi9lbnYgbm9kZQondXNlIHN0cmljdCc7CgovKioKICog55m+54K85YWo5qih5Z6L5omr5o+PIMK3IOmYtuautSBD77ya6IGU572R6IO95Yqb5rWL6K+VCiAqCiAqIOWvuemYtuautSBBIOetm+WHuueahOWPr+eUqOaooeWei++8jOWQhOa1iyAyIOi9ruOAjOW8uuWItuiBlOe9keOAje+8mgogKiAgIGVuYWJsZV9zZWFyY2g6IHRydWUgKyBzZWFyY2hfb3B0aW9ucy5mb3JjZWRfc2VhcmNoOiB0cnVlCiAqCiAqIOmimOebruaYr+W/hemhu+iBlOe9keaJjeiDveetlOWvueeahOS6i+WunumimO+8iOWunuaXtuaMh+aVsOeCueS9je+8ie+8jOW5tuiHquWKqOWIneWIpO+8mgogKiAgIOKRoCDmmK/lkKblh7rnjrDlkIjnkIbnmoTmjIfmlbDngrnkvY3mlbDlrZfvvIgzIOS9jeaVtOaVsCArIOWwj+aVsO+8iQogKiAgIOKRoSDmmK/lkKboh6rov7DmnaXoh6rmkJzntKIKICogICDikaIg5piv5ZCm5piO56Gu6KGo56S65peg5rOV6I635Y+W5a6e5pe25pWw5o2u77yIPSDmnKrogZTnvZHvvIkKICoKICog6L+Q6KGM77yaREFTSFNDT1BFX0tFWT0uLi4gQ09OQz01IG5vZGUgc2NyaXB0cy9iZW5jaF9hbGxfc3RhZ2VDLmpzCiAqLwoKY29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwpjb25zdCBwYXRoID0gcmVxdWlyZSgncGF0aCcpOwpjb25zdCBvcyA9IHJlcXVpcmUoJ29zJyk7Cgpjb25zdCBLRVkgPSBwcm9jZXNzLmVudi5EQVNIU0NPUEVfS0VZOwpjb25zdCBCQVNFID0gJ2h0dHBzOi8vZGFzaHNjb3BlLmFsaXl1bmNzLmNvbS9jb21wYXRpYmxlLW1vZGUvdjEnOwpjb25zdCBDT05DVVJSRU5DWSA9IE51bWJlcihwcm9jZXNzLmVudi5DT05DIHx8IDUpOwpjb25zdCBUSU1FT1VUX01TID0gTnVtYmVyKHByb2Nlc3MuZW52LlRNTyB8fCA3NTAwMCk7CmNvbnN0IE9VVCA9IHBhdGguam9pbihvcy50bXBkaXIoKSwgJ3dkd3MtYmVuY2gnLCAnc3RhZ2VDLmpzb24nKTsKCmNvbnN0IFEgPSAn6K+36IGU572R5p+l6K+i5ZCO5Zue562U77yaMjAyNuW5tDnmnIgyMeaXpSBB6IKh5LiK6K+B5oyH5pWw55qE5pS255uY54K55L2N5piv5aSa5bCR77yf6K+357uZ5Ye65YW35L2T5pWw5a2X77yM5bm26K+05piO5pWw5o2u5p2l5rqQ44CCJzsKY29uc3QgY2prID0gKHMpID0+IChzLm1hdGNoKC9bXHU0ZTAwLVx1OWZhNV0vZykgfHwgW10pLmxlbmd0aDsKCmZ1bmN0aW9uIGp1ZGdlKHRleHQpIHsKICBjb25zdCBoYXNQb2ludCA9IC9cYlsyM11cZHszfShcLlxkezEsMn0pP1xiLy50ZXN0KHRleHQpOwogIGNvbnN0IHNlbGZTZWFyY2ggPSAv6IGU572RfOaQnOe0onzmn6Xor6LliLB85qOA57SifOaNri57MCw2fSjmiqXpgZN85pWw5o2ufOaYvuekuil85p2l5rqQWzrvvJpdLy50ZXN0KHRleHQpOwogIGNvbnN0IHJlZnVzZSA9IC/ml6Dms5Uo6I635Y+WfOiuv+mXrnzmn6Xor6J856Gu5a6aKXzkuI3og70o6I635Y+WfOiuv+mXrnzogZTnvZEpfOayoeaciSjlrp7ml7Z86IGU572RKXznn6Xor4bmiKrmraJ85LiN5YW35aSH6IGU572RfOaXoOazleWunuaXti8udGVzdCh0ZXh0KTsKICByZXR1cm4geyBoYXNQb2ludCwgc2VsZlNlYXJjaCwgcmVmdXNlIH07Cn0KCmFzeW5jIGZ1bmN0aW9uIG9uZShtb2RlbCwgcm91bmQpIHsKICBjb25zdCB0MCA9IERhdGUubm93KCk7CiAgY29uc3QgY3RsID0gbmV3IEFib3J0Q29udHJvbGxlcigpOwogIGNvbnN0IHRpbWVyID0gc2V0VGltZW91dCgoKSA9PiBjdGwuYWJvcnQoKSwgVElNRU9VVF9NUyk7CiAgbGV0IGNvbnRlbnQgPSAnJywgdXNhZ2UgPSBudWxsOwogIHRyeSB7CiAgICBjb25zdCByZXMgPSBhd2FpdCBmZXRjaChCQVNFICsgJy9jaGF0L2NvbXBsZXRpb25zJywgewogICAgICBtZXRob2Q6ICdQT1NUJywKICAgICAgaGVhZGVyczogeyBBdXRob3JpemF0aW9uOiAnQmVhcmVyICcgKyBLRVksICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicgfSwKICAgICAgYm9keTogSlNPTi5zdHJpbmdpZnkoewogICAgICAgIG1vZGVsLAogICAgICAgIG1lc3NhZ2VzOiBbeyByb2xlOiAndXNlcicsIGNvbnRlbnQ6IFEgfV0sCiAgICAgICAgbWF4X3Rva2VuczogNzAwLAogICAgICAgIHN0cmVhbTogZmFsc2UsCiAgICAgICAgZW5hYmxlX3NlYXJjaDogdHJ1ZSwKICAgICAgICBzZWFyY2hfb3B0aW9uczogeyBmb3JjZWRfc2VhcmNoOiB0cnVlLCBlbmFibGVfc291cmNlOiB0cnVlIH0sCiAgICAgIH0pLAogICAgICBzaWduYWw6IGN0bC5zaWduYWwsCiAgICB9KTsKICAgIGNvbnN0IHRvdGFsID0gRGF0ZS5ub3coKSAtIHQwOwogICAgaWYgKCFyZXMub2spIHsKICAgICAgY29uc3QgdHh0ID0gYXdhaXQgcmVzLnRleHQoKS5jYXRjaCgoKSA9PiAnJyk7CiAgICAgIGNsZWFyVGltZW91dCh0aW1lcik7CiAgICAgIGxldCBtc2cgPSB0eHQuc2xpY2UoMCwgMTQwKTsKICAgICAgdHJ5IHsgY29uc3QgaiA9IEpTT04ucGFyc2UodHh0KTsgbXNnID0gKGouZXJyb3IgJiYgKGouZXJyb3IubWVzc2FnZSB8fCBqLmVycm9yLmNvZGUpKSB8fCBtc2c7IH0gY2F0Y2ggKGUpIHt9CiAgICAgIHJldHVybiB7IG1vZGVsLCByb3VuZCwgb2s6IGZhbHNlLCBodHRwOiByZXMuc3RhdHVzLCBlcnI6IFN0cmluZyhtc2cpLnJlcGxhY2UoL1xzKy9nLCAnICcpLnNsaWNlKDAsIDk1KSwgdG90YWwgfTsKICAgIH0KICAgIGNvbnN0IGogPSBhd2FpdCByZXMuanNvbigpOwogICAgY2xlYXJUaW1lb3V0KHRpbWVyKTsKICAgIGNvbnRlbnQgPSAoai5jaG9pY2VzICYmIGouY2hvaWNlc1swXSAmJiBqLmNob2ljZXNbMF0ubWVzc2FnZSAmJiBqLmNob2ljZXNbMF0ubWVzc2FnZS5jb250ZW50KSB8fCAnJzsKICAgIHVzYWdlID0gai51c2FnZSB8fCBudWxsOwogICAgcmV0dXJuIE9iamVjdC5hc3NpZ24oeyBtb2RlbCwgcm91bmQsIG9rOiB0cnVlLCB0b3RhbCwgY2prOiBjamsoY29udGVudCksIG91dFRvazogdXNhZ2UgPyB1c2FnZS5jb21wbGV0aW9uX3Rva2VucyA6IG51bGwsIHByZXZpZXc6IGNvbnRlbnQucmVwbGFjZSgvXHMrL2csICcgJykuc2xpY2UoMCwgMTEwKSB9LCBqdWRnZShjb250ZW50KSk7CiAgfSBjYXRjaCAoZSkgewogICAgY2xlYXJUaW1lb3V0KHRpbWVyKTsKICAgIHJldHVybiB7IG1vZGVsLCByb3VuZCwgb2s6IGZhbHNlLCBodHRwOiAwLCBlcnI6IGUubmFtZSA9PT0gJ0Fib3J0RXJyb3InID8gJ1RJTUVPVVQnIDogZS5tZXNzYWdlLnNsaWNlKDAsIDk1KSwgdG90YWw6IERhdGUubm93KCkgLSB0MCB9OwogIH0KfQoKYXN5bmMgZnVuY3Rpb24gcG9vbChpdGVtcywgbGltaXQsIHdvcmtlcikgewogIGNvbnN0IG91dCA9IG5ldyBBcnJheShpdGVtcy5sZW5ndGgpOwogIGxldCBpID0gMCwgZG9uZSA9IDA7CiAgYXdhaXQgUHJvbWlzZS5hbGwoQXJyYXkuZnJvbSh7IGxlbmd0aDogTWF0aC5taW4obGltaXQsIGl0ZW1zLmxlbmd0aCkgfSwgYXN5bmMgKCkgPT4gewogICAgZm9yICg7OykgewogICAgICBjb25zdCBpZHggPSBpKys7CiAgICAgIGlmIChpZHggPj0gaXRlbXMubGVuZ3RoKSBicmVhazsKICAgICAgY29uc3QgciA9IGF3YWl0IHdvcmtlcihpdGVtc1tpZHhdKTsKICAgICAgb3V0W2lkeF0gPSByOyBkb25lKys7CiAgICAgIHByb2Nlc3Muc3Rkb3V0LndyaXRlKCcgIFsnICsgU3RyaW5nKGRvbmUpLnBhZFN0YXJ0KDMpICsgJy8nICsgaXRlbXMubGVuZ3RoICsgJ10gJyArIChyLm9rID8gJ+KckycgOiAn4pyXJykgKyAnICcgKwogICAgICAgIHIubW9kZWwuc2xpY2UoMCwgMzMpLnBhZEVuZCgzMykgKyAnICcgKwogICAgICAgIChyLm9rID8gU3RyaW5nKHIudG90YWwpLnBhZFN0YXJ0KDYpICsgJ21zICcgKyBTdHJpbmcoci5jamspLnBhZFN0YXJ0KDQpICsgJ+WtlyAnICsgKHIuaGFzUG9pbnQgPyAn5pyJ54K55L2NJyA6ICfml6DngrnkvY0gJykgKyAoci5zZWxmU2VhcmNoID8gJ+iHqui/sOaQnOe0oicgOiAn5pyq5o+Q5pCc57SiJykgKyAoci5yZWZ1c2UgPyAnIOensOaXoOazleiBlOe9kScgOiAnJykKICAgICAgICAgICAgICA6ICdIVFRQJyArIHIuaHR0cCArICcgJyArIHIuZXJyKSArICdcbicpOwogICAgfQogIH0pKTsKICByZXR1cm4gb3V0Owp9CgooYXN5bmMgKCkgPT4gewogIGNvbnN0IHN0YWdlQSA9IEpTT04ucGFyc2UoZnMucmVhZEZpbGVTeW5jKHBhdGguam9pbihfX2Rpcm5hbWUsICcuLicsICcuYmVuY2gnLCAnc3RhZ2VBLmpzb24nKSwgJ3V0ZjgnKSk7CiAgY29uc3QgbW9kZWxzID0gc3RhZ2VBLmJhaWxpYW4uZmlsdGVyKChyKSA9PiByLm9rKS5tYXAoKHIpID0+IHIubW9kZWwpOwogIGNvbnNvbGUubG9nKCfpmLbmrrUgQ++8micgKyBtb2RlbHMubGVuZ3RoICsgJyDmqKHlnosgw5cgMiDova7ogZTnvZHvvIzlubblj5EgJyArIENPTkNVUlJFTkNZICsgJ1xuJyk7CgogIGNvbnN0IGFsbCA9IFtdOwogIGZvciAoY29uc3Qgcm91bmQgb2YgWzEsIDJdKSB7CiAgICBjb25zb2xlLmxvZygnPT09IHJvdW5kICcgKyByb3VuZCArICcgPT09Jyk7CiAgICBjb25zdCB0MCA9IERhdGUubm93KCk7CiAgICBjb25zdCByZXMgPSBhd2FpdCBwb29sKG1vZGVscy5tYXAoKG0pID0+ICh7IG1vZGVsOiBtLCByb3VuZCB9KSksIENPTkNVUlJFTkNZLCAoeCkgPT4gb25lKHgubW9kZWwsIHgucm91bmQpKTsKICAgIGFsbC5wdXNoKC4uLnJlcyk7CiAgICBmcy5ta2RpclN5bmMocGF0aC5kaXJuYW1lKE9VVCksIHsgcmVjdXJzaXZlOiB0cnVlIH0pOwogICAgZnMud3JpdGVGaWxlU3luYyhPVVQsIEpTT04uc3RyaW5naWZ5KHsgZ2VuZXJhdGVkQXQ6IG5ldyBEYXRlKCkudG9JU09TdHJpbmcoKSwgcnVuczogYWxsIH0sIG51bGwsIDIpLCAndXRmOCcpOwogICAgY29uc29sZS5sb2coJyAg4oaSICcgKyBNYXRoLnJvdW5kKChEYXRlLm5vdygpIC0gdDApIC8gMTAwMCkgKyAnc1xuJyk7CiAgfQogIGNvbnNvbGUubG9nKCflrozmiJA6ICcgKyBPVVQpOwp9KSgpOwo=
+#!/usr/bin/env node
+'use strict';
+
+/**
+ * 百炼全模型扫描 · 阶段 C：联网能力测试
+ *
+ * 对阶段 A 筛出的可用模型，各测 2 轮「强制联网」：
+ *   enable_search: true + search_options.forced_search: true
+ *
+ * 题目是必须联网才能答对的事实题（实时指数点位），并自动初判：
+ *   ① 是否出现合理的指数点位数字（3 位整数 + 小数）
+ *   ② 是否自述来自搜索
+ *   ③ 是否明确表示无法获取实时数据（= 未联网）
+ *
+ * 运行：DASHSCOPE_KEY=... CONC=5 node scripts/bench_all_stageC.js
+ */
+
+const fs = require('fs');
+const path = require('path');
+const os = require('os');
+
+const KEY = process.env.DASHSCOPE_KEY;
+const BASE = 'https://dashscope.aliyuncs.com/compatible-mode/v1';
+const CONCURRENCY = Number(process.env.CONC || 5);
+const TIMEOUT_MS = Number(process.env.TMO || 75000);
+const OUT = path.join(os.tmpdir(), 'wdws-bench', 'stageC.json');
+
+const Q = '请联网查询后回答：2026年9月21日 A股上证指数的收盘点位是多少？请给出具体数字，并说明数据来源。';
+const cjk = (s) => (s.match(/[\u4e00-\u9fa5]/g) || []).length;
+
+function judge(text) {
+  const hasPoint = /\b[23]\d{3}(\.\d{1,2})?\b/.test(text);
+  const selfSearch = /联网|搜索|查询到|检索|据.{0,6}(报道|数据|显示)|来源[:：]/.test(text);
+  const refuse = /无法(获取|访问|查询|确定)|不能(获取|访问|联网)|没有(实时|联网)|知识截止|不具备联网|无法实时/.test(text);
+  return { hasPoint, selfSearch, refuse };
+}
+
+async function one(model, round) {
+  const t0 = Date.now();
+  const ctl = new AbortController();
+  const timer = setTimeout(() => ctl.abort(), TIMEOUT_MS);
+  let content = '', usage = null;
+  try {
+    const res = await fetch(BASE + '/chat/completions', {
+      method: 'POST',
+      headers: { Authorization: 'Bearer ' + KEY, 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        model,
+        messages: [{ role: 'user', content: Q }],
+        max_tokens: 700,
+        stream: false,
+        enable_search: true,
+        search_options: { forced_search: true, enable_source: true },
+      }),
+      signal: ctl.signal,
+    });
+    const total = Date.now() - t0;
+    if (!res.ok) {
+      const txt = await res.text().catch(() => '');
+      clearTimeout(timer);
+      let msg = txt.slice(0, 140);
+      try { const j = JSON.parse(txt); msg = (j.error && (j.error.message || j.error.code)) || msg; } catch (e) {}
+      return { model, round, ok: false, http: res.status, err: String(msg).replace(/\s+/g, ' ').slice(0, 95), total };
+    }
+    const j = await res.json();
+    clearTimeout(timer);
+    content = (j.choices && j.choices[0] && j.choices[0].message && j.choices[0].message.content) || '';
+    usage = j.usage || null;
+    return Object.assign({ model, round, ok: true, total, cjk: cjk(content), outTok: usage ? usage.completion_tokens : null, preview: content.replace(/\s+/g, ' ').slice(0, 110) }, judge(content));
+  } catch (e) {
+    clearTimeout(timer);
+    return { model, round, ok: false, http: 0, err: e.name === 'AbortError' ? 'TIMEOUT' : e.message.slice(0, 95), total: Date.now() - t0 };
+  }
+}
+
+async function pool(items, limit, worker) {
+  const out = new Array(items.length);
+  let i = 0, done = 0;
+  await Promise.all(Array.from({ length: Math.min(limit, items.length) }, async () => {
+    for (;;) {
+      const idx = i++;
+      if (idx >= items.length) break;
+      const r = await worker(items[idx]);
+      out[idx] = r; done++;
+      process.stdout.write('  [' + String(done).padStart(3) + '/' + items.length + '] ' + (r.ok ? '✓' : '✗') + ' ' +
+        r.model.slice(0, 33).padEnd(33) + ' ' +
+        (r.ok ? String(r.total).padStart(6) + 'ms ' + String(r.cjk).padStart(4) + '字 ' + (r.hasPoint ? '有点位' : '无点位 ') + (r.selfSearch ? '自述搜索' : '未提搜索') + (r.refuse ? ' 称无法联网' : '')
+              : 'HTTP' + r.http + ' ' + r.err) + '\n');
+    }
+  }));
+  return out;
+}
+
+(async () => {
+  const stageA = JSON.parse(fs.readFileSync(path.join(__dirname, '..', '.bench', 'stageA.json'), 'utf8'));
+  const models = stageA.bailian.filter((r) => r.ok).map((r) => r.model);
+  console.log('阶段 C：' + models.length + ' 模型 × 2 轮联网，并发 ' + CONCURRENCY + '\n');
+
+  const all = [];
+  for (const round of [1, 2]) {
+    console.log('=== round ' + round + ' ===');
+    const t0 = Date.now();
+    const res = await pool(models.map((m) => ({ model: m, round })), CONCURRENCY, (x) => one(x.model, x.round));
+    all.push(...res);
+    fs.mkdirSync(path.dirname(OUT), { recursive: true });
+    fs.writeFileSync(OUT, JSON.stringify({ generatedAt: new Date().toISOString(), runs: all }, null, 2), 'utf8');
+    console.log('  → ' + Math.round((Date.now() - t0) / 1000) + 's\n');
+  }
+  console.log('完成: ' + OUT);
+})();

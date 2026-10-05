@@ -1,1 +1,110 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIOa1i+ivlSA177ya5Ya757uT6LWE5Lqn5ZOI5biM5L+d5oqkCi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQovLyDov5nmmK8gUGhhc2UgUCsg5pyA56Gs55qE5LiA6YGT6Ze477ya5Zub6aG55Ya757uT6LWE5Lqn55qEIFNIQTI1NiDlv4XpobvnrYnkuo4KLy8gTy0wLjYg5Ya757uT5Z+657q/44CC5Lu75L2V5LiA5a2X6IqC5pS55Yqo6YO95Lya6K6p5pys5rWL6K+V57qi54Gv44CCCi8vCi8vIOWPjOmHjemUgeWumu+8mgovLyAgIOKRoCDmlq3oqIDlrp7pmYXmlofku7blk4jluIwgPT0g5pys5paH5Lu25YaF55qE5Z+657q/5bi46YePCi8vICAg4pGhIOaWreiogOWfuue6v+W4uOmHjyA9PSBkb2NzLzY3IOWuoeiuoeaKpeWRiuihqOagvOS4reiusOW9leeahOWTiOW4jAovLyAgIOKAlOKAlCDlj6rmlLnmtYvor5XluLjph4/ogIzkuI3mlLnmlofmoaPvvIjmiJblj43kuYvvvInkvJrnq4vliLvmmrTpnLLvvIzml6Dms5XmgoTmgoQi5rSX55m9IuOAggovLwovLyDlj6bliqDpnZnmgIHmiavmj4/vvJpQaGFzZSBQKyDmlrDlop7ku6PnoIHkuI3lvpflr7nlhrvnu5PotYTkuqfmiafooYzlhpnmk43kvZzjgIIKLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CgondXNlIHN0cmljdCc7Cgpjb25zdCBmcyA9IHJlcXVpcmUoJ2ZzJyk7CmNvbnN0IHBhdGggPSByZXF1aXJlKCdwYXRoJyk7CmNvbnN0IGNyeXB0byA9IHJlcXVpcmUoJ2NyeXB0bycpOwoKY29uc3QgV0VBUFAgPSBwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAnLi4nLCAnLi4nKTsKY29uc3QgQ0hBVCA9IHBhdGguam9pbihXRUFQUCwgJ2Nsb3VkZnVuY3Rpb25zJywgJ2NoYXQnKTsKY29uc3QgQVVESVRfRE9DID0gcGF0aC5qb2luKFdFQVBQLCAnZG9jcycsICc2Ny1QaGFzZVAr5a6h6K6h5oql5ZGKLm1kJyk7CgovLyBPLTAuNiDlhrvnu5Pln7rnur/vvIjkuI4gZG9jcy82NyDCp+ihqOagvOS4gOiHtO+8iQpjb25zdCBGUk9aRU5fQkFTRUxJTkUgPSB7CiAgJ2NvcnB1cy5qc29uJzogJzA2OGZhMWZhMDUyZWM3YjkzYTlkNjAwMDhjMjZiMjljNDI1YzQwZjBhYjcyNGFiMzM0ODNkYmQxMDAxNDU5YWUnLAogICdpbnRlbnQuanMnOiAnNzY1YWQxMzhlYzY4YzBmMTU5YzZmNzVhNjBlNTI2OGJlYjAyZmJhMTUyZjZkNTNkYmRjNTM5YmExNTYwY2EzOCcsCiAgJ3JhZy5qcyc6ICc1YjM4MGIzZjdjNjhmMzc0ZTNkNGU1MTI3YmQ3ZGJlZmY3NDc4NDk0MDFjYTlkMDQ4ODQ5OGRlY2UxNDA4Mjg2JywKICAna25vd2xlZGdlUm91dGVyLmpzJzogJzg0ODkwODQ0NWRiYjVlYTkzYTZmNTI3NzVkYzNjOGU2OTIyZmY5NzFkNmNlZTExNTU0N2YyMzZmZmVkMGE5MzUnLAp9OwoKLy8gUGhhc2UgUCsg5paw5aKeL+aUueWKqOeahOmdnuWGu+e7k+aWh+S7tu+8iOmcgOmdmeaAgeaJq+aPj+WFtuWGmeaTjeS9nO+8iQpjb25zdCBQSEFTRV9QX1BMVVNfRklMRVMgPSBbCiAgJ3JlZ2lzdHJ5L3JlZ2lzdHJ5UHJvdmlkZXIuanMnLAogICdyZWdpc3RyeS9qc29uUmVnaXN0cnlQcm92aWRlci5qcycsCiAgJ29ic2VydmFiaWxpdHkvb2JzZXJ2YWJpbGl0eUxvZ2dlci5qcycsCiAgJ29ic2VydmFiaWxpdHkvanNvbk9ic2VydmFiaWxpdHlTdG9yZS5qcycsCiAgJ29ic2VydmFiaWxpdHkvY2xvdWRPYnNlcnZhYmlsaXR5U3RvcmUuanMnLAogICdrbm93bGVkZ2VIZWFsdGhTY29yZS5qcycsCiAgJ2Rhc2hib2FyZC9kYXNoYm9hcmQuanMnLAogICdkYXNoYm9hcmQvcHJpbnREYXNoYm9hcmQuanMnLApdOwoKZnVuY3Rpb24gc2hhMjU2KGZpbGUpIHsKICByZXR1cm4gY3J5cHRvLmNyZWF0ZUhhc2goJ3NoYTI1NicpLnVwZGF0ZShmcy5yZWFkRmlsZVN5bmMoZmlsZSkpLmRpZ2VzdCgnaGV4Jyk7Cn0KCm1vZHVsZS5leHBvcnRzID0gewogIG5hbWU6ICflhrvnu5PotYTkuqflk4jluIzkv53miqQnLAogIHJ1bih0KSB7CiAgICAvLyAtLS0gMS4g5Zub6aG55Ya757uT6LWE5Lqn5ZOI5biMID09IOWfuue6vyAtLS0KICAgIE9iamVjdC5rZXlzKEZST1pFTl9CQVNFTElORSkuZm9yRWFjaCgobmFtZSkgPT4gewogICAgICBjb25zdCBwID0gcGF0aC5qb2luKENIQVQsIG5hbWUpOwogICAgICB0Lm9rKGZzLmV4aXN0c1N5bmMocCksICflhrvnu5PotYTkuqflrZjlnKjvvJonICsgbmFtZSk7CiAgICAgIGlmICghZnMuZXhpc3RzU3luYyhwKSkgcmV0dXJuOwogICAgICBjb25zdCBhY3R1YWwgPSBzaGEyNTYocCk7CiAgICAgIHQuZXF1YWwoYWN0dWFsLCBGUk9aRU5fQkFTRUxJTkVbbmFtZV0sIG5hbWUgKyAnIFNIQTI1NiA9PSBPLTAuNiDlhrvnu5Pln7rnur8nKTsKICAgIH0pOwoKICAgIC8vIC0tLSAyLiDln7rnur/luLjph48gPT0gZG9jcy82NyDlrqHorqHmiqXlkYrorrDlvZXvvIjpmLLmraLlj6rmlLnmtYvor5XkuI3mlLnmlofmoaPvvIkgLS0tCiAgICBpZiAodC5vayhmcy5leGlzdHNTeW5jKEFVRElUX0RPQyksICdkb2NzLzY3IOWuoeiuoeaKpeWRiuWtmOWcqO+8iOWTiOW4jOWfuue6v+eahOaWh+aho+adpea6kO+8iScpKSB7CiAgICAgIGNvbnN0IGRvYyA9IGZzLnJlYWRGaWxlU3luYyhBVURJVF9ET0MsICd1dGYtOCcpOwogICAgICBPYmplY3Qua2V5cyhGUk9aRU5fQkFTRUxJTkUpLmZvckVhY2goKG5hbWUpID0+IHsKICAgICAgICBjb25zdCBoYXNoID0gRlJPWkVOX0JBU0VMSU5FW25hbWVdOwogICAgICAgIHQub2soCiAgICAgICAgICBkb2MuaW5kZXhPZihoYXNoKSA+PSAwLAogICAgICAgICAgbmFtZSArICcg55qE5Z+657q/5ZOI5biM5ZyoIGRvY3MvNjcg5Lit5pyJ5o2u5Y+v5p+l77yI5rWL6K+V5bi46YeP5LiO5a6h6K6h5paH5qGj5LqS6ZSB77yJJwogICAgICAgICk7CiAgICAgIH0pOwogICAgfQoKICAgIC8vIC0tLSAzLiDpnZnmgIHmiavmj4/vvJpQaGFzZSBQKyDku6PnoIHkuI3lvpflhpnlhrvnu5PotYTkuqcgLS0tCiAgICBjb25zdCB3cml0ZUFwaXMgPSAvKHdyaXRlRmlsZVN5bmN8YXBwZW5kRmlsZVN5bmN8Y3JlYXRlV3JpdGVTdHJlYW18cHJvbWlzZXNcLndyaXRlRmlsZXx1bmxpbmtTeW5jfHJtU3luY3xyZW5hbWVTeW5jfGNvcHlGaWxlU3luYykvOwogICAgY29uc3QgZnJvemVuTmFtZXMgPSAvKGNvcnB1c1wuanNvbnxyYWdcLmpzfGludGVudFwuanN8a25vd2xlZGdlUm91dGVyXC5qcykvOwoKICAgIFBIQVNFX1BfUExVU19GSUxFUy5mb3JFYWNoKChyZWwpID0+IHsKICAgICAgY29uc3QgcCA9IHBhdGguam9pbihDSEFULCByZWwpOwogICAgICBpZiAoIWZzLmV4aXN0c1N5bmMocCkpIHsKICAgICAgICB0Lm9rKGZhbHNlLCAnUGhhc2UgUCsg5paH5Lu257y65aSx77yaJyArIHJlbCk7CiAgICAgICAgcmV0dXJuOwogICAgICB9CiAgICAgIGNvbnN0IHNyYyA9IGZzLnJlYWRGaWxlU3luYyhwLCAndXRmLTgnKTsKICAgICAgY29uc3QgY29kZU9ubHkgPSBzcmMucmVwbGFjZSgvXlxzKlwvXC8uKiQvZ20sICcnKS5yZXBsYWNlKC9cL1wqW1xzXFNdKj9cKlwvL2csICcnKTsKICAgICAgY29uc3QgbGluZXMgPSBjb2RlT25seS5zcGxpdCgnXG4nKTsKICAgICAgLy8g5ZCM5LiA6KGM5ZCM5pe25Ye6546wIuWGmSBBUEki5ZKMIuWGu+e7k+aWh+S7tuWQjSIg4oaSIOmrmOWNsQogICAgICBjb25zdCByaXNreSA9IGxpbmVzLmZpbHRlcigobCkgPT4gd3JpdGVBcGlzLnRlc3QobCkgJiYgZnJvemVuTmFtZXMudGVzdChsKSk7CiAgICAgIHQuZXF1YWwocmlza3kubGVuZ3RoLCAwLCByZWwgKyAnIOaXoOOAjOWGmeaTjeS9nCArIOWGu+e7k+i1hOS6p+OAjeWQjOeOsO+8iOacquWGmeWbnuWGu+e7k+i1hOS6p++8iScpOwogICAgfSk7CgogICAgLy8gLS0tIDQuIERhc2hib2FyZCAvIFJlZ2lzdHJ5IOWvuSBjb3JwdXMg55qE5byV55So5b+F6aG75piv5Y+q6K+76K+75Y+WIC0tLQogICAgY29uc3QgcHJvdmlkZXJTcmMgPSBmcy5yZWFkRmlsZVN5bmMocGF0aC5qb2luKENIQVQsICdyZWdpc3RyeScsICdqc29uUmVnaXN0cnlQcm92aWRlci5qcycpLCAndXRmLTgnKSArCiAgICAgIGZzLnJlYWRGaWxlU3luYyhwYXRoLmpvaW4oQ0hBVCwgJ3JlZ2lzdHJ5JywgJ3JlZ2lzdHJ5UHJvdmlkZXIuanMnKSwgJ3V0Zi04Jyk7CiAgICB0Lm9rKC9yZWFkRmlsZVN5bmMvLnRlc3QocHJvdmlkZXJTcmMpLCAnUmVnaXN0cnkgUHJvdmlkZXIg5L2/55SoIHJlYWRGaWxlU3luYyDor7vlj5bvvIjlj6ror7vor63kuYnvvIknKTsKICAgIHQub2soIXdyaXRlQXBpcy50ZXN0KHByb3ZpZGVyU3JjLnJlcGxhY2UoL15ccypcL1wvLiokL2dtLCAnJykpLCAnUmVnaXN0cnkgUHJvdmlkZXIg5a6M5YWo5LiN5ZCr5Lu75L2V5YaZIEFQSScpOwoKICAgIC8vIC0tLSA1LiDlrp7mtYvvvJrot5HkuIDpgY3lhajpk77ot6/lkI7lk4jluIzku43kuI3lj5jvvIjov5DooYzml7bpmLLmiqTvvIzkuI3lj6rmmK/pnZnmgIHmo4Dmn6XvvIkgLS0tCiAgICBjb25zdCBiZWZvcmVBbGwgPSBPYmplY3Qua2V5cyhGUk9aRU5fQkFTRUxJTkUpLm1hcCgobikgPT4gc2hhMjU2KHBhdGguam9pbihDSEFULCBuKSkpOwogICAgY29uc3QgeyBidWlsZERhc2hib2FyZCB9ID0gcmVxdWlyZShwYXRoLmpvaW4oQ0hBVCwgJ2Rhc2hib2FyZCcsICdkYXNoYm9hcmQuanMnKSk7CiAgICBjb25zdCB7IGJ1aWxkT2JzZXJ2YXRpb25SZWNvcmQgfSA9IHJlcXVpcmUocGF0aC5qb2luKENIQVQsICdvYnNlcnZhYmlsaXR5JywgJ29ic2VydmFiaWxpdHlMb2dnZXIuanMnKSk7CiAgICB0Lm5vVGhyb3coKCkgPT4gewogICAgICBidWlsZERhc2hib2FyZCh7IHN0b3JlOiB7IHJlYWRBbGw6ICgpID0+IFtdLCB3cml0ZTogKCkgPT4gUHJvbWlzZS5yZXNvbHZlKHsgb2s6IHRydWUgfSkgfSB9KTsKICAgICAgYnVpbGRPYnNlcnZhdGlvblJlY29yZCh7IHF1ZXJ5OiAnaGFzaC1wcm9iZScsIGludGVudDogeyBkb21haW46ICfpgJrnlKgnIH0sIHJlc3VsdDogeyBjaXRhdGlvbnM6IFtdIH0gfSk7CiAgICB9LCAn5omn6KGMIERhc2hib2FyZCArIE9ic2VydmFiaWxpdHkg5YWo6ZO+6Lev5LiN5oqb6ZSZJyk7CiAgICBjb25zdCBhZnRlckFsbCA9IE9iamVjdC5rZXlzKEZST1pFTl9CQVNFTElORSkubWFwKChuKSA9PiBzaGEyNTYocGF0aC5qb2luKENIQVQsIG4pKSk7CiAgICB0LmRlZXBFcXVhbChhZnRlckFsbCwgYmVmb3JlQWxsLCAn6L+Q6KGMIFBoYXNlIFArIOWFqOmTvui3r+WQju+8jOWbm+mhueWGu+e7k+i1hOS6p+WTiOW4jOS+neeEtuS4jeWPmCcpOwoKICAgIHQuaW5mbygn5Ya757uT5Z+657q/77yaY29ycHVzL2ludGVudC9yYWcva25vd2xlZGdlUm91dGVyIOWbm+mhue+8jOWFqOmDqOmUgeWumuS6jiBPLTAuNicpOwogIH0sCn07Cg==
+// ============================================================
+// 测试 5：冻结资产哈希保护
+// ------------------------------------------------------------
+// 这是 Phase P+ 最硬的一道闸：四项冻结资产的 SHA256 必须等于
+// O-0.6 冻结基线。任何一字节改动都会让本测试红灯。
+//
+// 双重锁定：
+//   ① 断言实际文件哈希 == 本文件内的基线常量
+//   ② 断言基线常量 == docs/67 审计报告表格中记录的哈希
+//   —— 只改测试常量而不改文档（或反之）会立刻暴露，无法悄悄"洗白"。
+//
+// 另加静态扫描：Phase P+ 新增代码不得对冻结资产执行写操作。
+// ============================================================
+
+'use strict';
+
+const fs = require('fs');
+const path = require('path');
+const crypto = require('crypto');
+
+const WEAPP = path.resolve(__dirname, '..', '..');
+const CHAT = path.join(WEAPP, 'cloudfunctions', 'chat');
+const AUDIT_DOC = path.join(WEAPP, 'docs', '67-PhaseP+审计报告.md');
+
+// O-0.6 冻结基线（与 docs/67 §表格一致）
+const FROZEN_BASELINE = {
+  'corpus.json': '068fa1fa052ec7b93a9d60008c26b29c425c40f0ab724ab33483dbd1001459ae',
+  'intent.js': '765ad138ec68c0f159c6f75a60e5268beb02fba152f6d53dbdc539ba1560ca38',
+  'rag.js': '5b380b3f7c68f374e3d4e5127bd7dbeff747849401ca9d0488498dece1408286',
+  'knowledgeRouter.js': '848908445dbb5ea93a6f52775dc3c8e6922ff971d6cee115547f236ffed0a935',
+};
+
+// Phase P+ 新增/改动的非冻结文件（需静态扫描其写操作）
+const PHASE_P_PLUS_FILES = [
+  'registry/registryProvider.js',
+  'registry/jsonRegistryProvider.js',
+  'observability/observabilityLogger.js',
+  'observability/jsonObservabilityStore.js',
+  'observability/cloudObservabilityStore.js',
+  'knowledgeHealthScore.js',
+  'dashboard/dashboard.js',
+  'dashboard/printDashboard.js',
+];
+
+function sha256(file) {
+  return crypto.createHash('sha256').update(fs.readFileSync(file)).digest('hex');
+}
+
+module.exports = {
+  name: '冻结资产哈希保护',
+  run(t) {
+    // --- 1. 四项冻结资产哈希 == 基线 ---
+    Object.keys(FROZEN_BASELINE).forEach((name) => {
+      const p = path.join(CHAT, name);
+      t.ok(fs.existsSync(p), '冻结资产存在：' + name);
+      if (!fs.existsSync(p)) return;
+      const actual = sha256(p);
+      t.equal(actual, FROZEN_BASELINE[name], name + ' SHA256 == O-0.6 冻结基线');
+    });
+
+    // --- 2. 基线常量 == docs/67 审计报告记录（防止只改测试不改文档） ---
+    if (t.ok(fs.existsSync(AUDIT_DOC), 'docs/67 审计报告存在（哈希基线的文档来源）')) {
+      const doc = fs.readFileSync(AUDIT_DOC, 'utf-8');
+      Object.keys(FROZEN_BASELINE).forEach((name) => {
+        const hash = FROZEN_BASELINE[name];
+        t.ok(
+          doc.indexOf(hash) >= 0,
+          name + ' 的基线哈希在 docs/67 中有据可查（测试常量与审计文档互锁）'
+        );
+      });
+    }
+
+    // --- 3. 静态扫描：Phase P+ 代码不得写冻结资产 ---
+    const writeApis = /(writeFileSync|appendFileSync|createWriteStream|promises\.writeFile|unlinkSync|rmSync|renameSync|copyFileSync)/;
+    const frozenNames = /(corpus\.json|rag\.js|intent\.js|knowledgeRouter\.js)/;
+
+    PHASE_P_PLUS_FILES.forEach((rel) => {
+      const p = path.join(CHAT, rel);
+      if (!fs.existsSync(p)) {
+        t.ok(false, 'Phase P+ 文件缺失：' + rel);
+        return;
+      }
+      const src = fs.readFileSync(p, 'utf-8');
+      const codeOnly = src.replace(/^\s*\/\/.*$/gm, '').replace(/\/\*[\s\S]*?\*\//g, '');
+      const lines = codeOnly.split('\n');
+      // 同一行同时出现"写 API"和"冻结文件名" → 高危
+      const risky = lines.filter((l) => writeApis.test(l) && frozenNames.test(l));
+      t.equal(risky.length, 0, rel + ' 无「写操作 + 冻结资产」同现（未写回冻结资产）');
+    });
+
+    // --- 4. Dashboard / Registry 对 corpus 的引用必须是只读读取 ---
+    const providerSrc = fs.readFileSync(path.join(CHAT, 'registry', 'jsonRegistryProvider.js'), 'utf-8') +
+      fs.readFileSync(path.join(CHAT, 'registry', 'registryProvider.js'), 'utf-8');
+    t.ok(/readFileSync/.test(providerSrc), 'Registry Provider 使用 readFileSync 读取（只读语义）');
+    t.ok(!writeApis.test(providerSrc.replace(/^\s*\/\/.*$/gm, '')), 'Registry Provider 完全不含任何写 API');
+
+    // --- 5. 实测：跑一遍全链路后哈希仍不变（运行时防护，不只是静态检查） ---
+    const beforeAll = Object.keys(FROZEN_BASELINE).map((n) => sha256(path.join(CHAT, n)));
+    const { buildDashboard } = require(path.join(CHAT, 'dashboard', 'dashboard.js'));
+    const { buildObservationRecord } = require(path.join(CHAT, 'observability', 'observabilityLogger.js'));
+    t.noThrow(() => {
+      buildDashboard({ store: { readAll: () => [], write: () => Promise.resolve({ ok: true }) } });
+      buildObservationRecord({ query: 'hash-probe', intent: { domain: '通用' }, result: { citations: [] } });
+    }, '执行 Dashboard + Observability 全链路不抛错');
+    const afterAll = Object.keys(FROZEN_BASELINE).map((n) => sha256(path.join(CHAT, n)));
+    t.deepEqual(afterAll, beforeAll, '运行 Phase P+ 全链路后，四项冻结资产哈希依然不变');
+
+    t.info('冻结基线：corpus/intent/rag/knowledgeRouter 四项，全部锁定于 O-0.6');
+  },
+};

@@ -1,1 +1,163 @@
-IyBkb2NzLzczIMK3IFBoYXNlIFArIE9ic2VydmF0aW9uIE1pbGVzdG9uZXMKCj4gKirop5LoibIqKu+8mlJlbGVhc2UgR3VhcmRpYW4gKyBQcm9kdWN0aW9uIFJlbGlhYmlsaXR5IE9ic2VydmVyCj4gKirpmLbmrrUqKu+8mk9ic2VydmF0aW9uIFBlcmlvZO+8iOmdnuW8gOWPkemYtuaute+8iQo+ICoq5Ya757uT5Z+657q/KirvvJpLbm93bGVkZ2UgUGxhdGZvcm0gdjEuMCBHQSArIE9wZXJhdGlvbnMgdjEuMCDCtyBPLTAuNgo+ICoq5pyA6auY57qm5p2fKirvvJrlj6ror7vop4Llr5/jgIHlj6rorrDlvZXkuI3kv67lpI3jgIHnpoHmraLov5vlhaUgUGhhc2UgUeOAgeemgeatoiBjb21taXQvcHVibGlzaAo+ICoq5Yib5bu65pe26Ze0KirvvJoyMDI2LTA4LTAyCgotLS0KCiMjIDAuIOaWh+aho+ebrueahAoK5ZyoIEZpbmFsIEZyZWV6Ze+8iGRvY3MvNzHvvInkuI4gT2JzZXJ2YXRpb24gUmV2aWV377yIZG9jcy83Mu+8ieS5i+WQju+8jOW7uueriyoq57uT5p6E5YyW55qE6KeC5a+f6YeM56iL56KR5qGG5p62KirvvIzkvb/lkI7nu63nnJ/lrp7mtYHph4/nmoTnp6/ntK/mnInmuIXmmbDnmoTor4TlrqHoioLngrnkuI7liKTlrprmoIflh4bjgILmnKzmlofmoaMqKuS4jeS/ruaUueS7u+S9leS7o+eggeOAgeS4jeinpuWPkeS7u+S9leS8mOWMluOAgeS4jeWQr+WKqCBQaGFzZSBRKirjgIIKCuaJgOacieaMh+agh+Wdh+adpeiHqiBgb2JzZXJ2YWJpbGl0eV9sb2dzYCDkupHlupPnnJ/lrp7orrDlvZXvvIjlj6ror7vmi4nlj5bvvInvvIxEYXNoYm9hcmQg6IGa5ZCI6YC76L6RIGByZWFkb25seT10cnVlIC8gcmVjb21wdXRlc19yZXRyaWV2YWw9ZmFsc2Vg77yM5peg5qih5ouf5pWw5o2u44CCCgotLS0KCiMjIDEuIOW9k+WJjeWfuue6v+W/q+eFp++8iOaWh+aho+WIm+W7uuaXtuecn+WunuaVsOaNru+8iQoKfCDmjIfmoIcgfCDlgLwgfCDmnaXmupAgfAp8LS0tLS0tfC0tLS0tfC0tLS0tLXwKfCDnnJ/lrp7moLfmnKzmlbAgfCAqKjE1KiogfCBgb2JzZXJ2YWJpbGl0eV9sb2dzYCBjb3VudCB8Cnwg5pe26Ze056qXIHwgMjAyNi0wOC0wMlQwMjozMyDihpIgMDM6MjXvvIjiiYg1MiBtaW7vvIkgfCBjcmVhdGVkX2F0IHwKfCBGYWxsYmFjayBSYXRlIHwgMC4yNjcgKDQvMTUpIHwga25vd2xlZGdlX3R5cGU9W10gfAp8IENpdGF0aW9uIFJhdGUgfCAwLjczMyAoMTEvMTUpIHwgY2l0YXRpb25fY291bnQ+MCB8CnwgS25vd2xlZGdlIFVzYWdlIHwgbm9uZT00LCBjbGFzc2ljPTExIHwga25vd2xlZGdlX3R5cGUg5YiG5biDIHwKfCBMYXRlbmN5IG1lYW4gLyBwNTAgLyBwOTAgLyBwOTUgLyBwOTkgfCA2NDk2IC8gNzA0NyAvIDg3MjcgLyA5NzIzIC8gOTcyMyBtcyB8IGxhdGVuY3lfbXMg5YiG5biDIHwKfCDplJnor6/orrDlvZUgfCAwIHwgZXJyb3Ig5a2X5q61IHwKfCBQc3ljaCBzaWduYWwg6Kem5Y+RIHwgMS8xNSAoNi43JSkgfCByb3V0ZXJfZGVjaXNpb24ucmVhc29uPWNvZ25pdGl2ZS1wc3ljaG9sb2d5LXNpZ25hbCB8Cnwg5Ya757uT6LWE5LqnIHwgNC80ID09IE8tMC42IHwgU0hBMjU2IOWkjeaguCB8CgoqKuWFs+mUruinguWvnyoq77yaMTUg5p2h5YWo6YOo6JC95Zyo5ZCM5LiAIH41MiDliIbpkp/nqpflj6PvvIznlpHkvLzkurrlt6Uv5rWL6K+V5rWB6YeP77ybKirlsJrmnKrop4Llr5/liLDmnInmnLrnlKjmiLfmtYHph48qKuOAgui/meaYr+i+vuaIkCBOPTUwLzEwMCDph4znqIvnopHnmoTkuLvopoHnk7bpoojigJTigJTpnIDopoHlnKjlsI/nqIvluo/mraPlvI/lj5HluIMv6L+H5a6h5ZCO57Sv56ev55yf5a6e55So5oi36K+35rGC44CCCgotLS0KCiMjIDIuIE9ic2VydmF0aW9uIE1pbGVzdG9uZSBGcmFtZXdvcmsKCuS4ieS4quinguWvn+iKgueCue+8jOaMieagt+acrOinhOaooemAkui/m+OAguavj+S4quiKgueCueWPquWBmioq5b+r54Wn5LiO5Yik5a6aKirvvIzkuI3lgZrku7vkvZXmlLnliqjjgIIKCiMjIyAyLjEgTWlsZXN0b25lIE49NTDvvIjnm67moIfvvJrntK/orqHnnJ/lrp4gb2JzZXJ2YWJpbGl0eV9sb2dzID49IDUw77yJCgoqKuinpuWPkeadoeS7tioq77yaYGNvdW50KG9ic2VydmFiaWxpdHlfbG9ncykgPj0gNTBgCgoqKuajgOafpemhuSoq77yaCjEuICoqRmFsbGJhY2sgUmF0ZSoqIOKAlCDmmK/lkKbku43pm4bkuK3lnKjnibnlrpogZG9tYWluL2ludGVudAoyLiAqKkNpdGF0aW9uIFJhdGUqKiDigJQgY2xhc3NpYyDlvJXnlKjnjofmmK/lkKbnqLPlrprvvIjln7rnur8gMC43MzPvvIkKMy4gKipLbm93bGVkZ2UgQ292ZXJhZ2UqKiDigJQga25vd2xlZGdlX3R5cGUg5YiG5biD77yIbm9uZS9jbGFzc2ljIOWNoOavlOWPmOWMlu+8iQo0LiAqKkxhdGVuY3kgZGlzdHJpYnV0aW9uKiog4oCUIG1lYW4gLyBwNTAgLyBwOTAgLyBwOTUgLyBwOTkg5piv5ZCm5oG25YyWCjUuICoqSXNzdWUtMDAxIOaYr+WQpuWGjeasoeWHuueOsCoqIOKAlCBwc3ljaCBzaWduYWwg6Kem5Y+R5qyh5pWw5LiO5ZG95Lit546HCgoqKui+k+WHuueJqSoq77yaYE9ic2VydmF0aW9uIFNuYXBzaG90IEAgTj01MGAKLSDkuIrov7AgNSDpobnmjIfmoIfnmoTnnJ/lrp7lgLwgKyDkuI7ln7rnur/vvIhOPTE177yJ55qEIGRlbHRhCi0gSXNzdWUtMDAxIOWkjeeOsOiuoeaVsOS4jumikeeOh+abtOaWsAotIOaYr+WQpuinpuWPkei/m+S4gOatpeinguWvn+W7uuiuru+8iOS7heW7uuiuru+8jOS4jeaUueWKqO+8iQoKKirlvZPliY3ov5vluqYqKu+8mjE1IC8gNTDvvIgzMCXvvInigJQg5pyq6L6+44CCCgotLS0KCiMjIyAyLjIgTWlsZXN0b25lIE49MTAw77yIUGhhc2UgUSBHYXRlIOWJjee9ruajgOafpeeCue+8iQoKKirop6blj5HmnaHku7YqKu+8mmBjb3VudChvYnNlcnZhYmlsaXR5X2xvZ3MpID49IDEwMGAKCioq5b+F6aG76YeN5paw5Yik5patIFBoYXNlIFEgR2F0ZSDlm5vmnaHku7YqKu+8iOazqOaEj++8mioq5LuF5Yik5pat77yM5LiN5ZCv5YqoIFBoYXNlIFEqKu+8ie+8mgoKfCDmnaHku7YgfCDliKTlrprlhoXlrrkgfCDmlbDmja7mnaXmupAgfAp8LS0tLS0tfC0tLS0tLS0tLS18LS0tLS0tLS0tLXwKfCAqKkEqKiB8IG9ic2VydmFiaWxpdHlfbG9ncyA+PSAxMDAgfCBjb3VudCB8CnwgKipCKiogfCDmmK/lkKblrZjlnKjnqLPlrprpl67popjmqKHlvI/vvIjlpoIgcHN5Y2gg5oyB57utIG1pc3PjgIHnibnlrpogZG9tYWluIGZhbGxiYWNrIOmbhuS4re+8iSB8IOi3qOagt+acrOe7n+iuoSB8CnwgKipDKiogfCBBRFIg5piv5ZCm6ZyA6KaB5ZCv5Yqo77yI6ZKI5a+55bey56Gu6K6k6Zeu6aKY5piv5ZCm6ZyA5b2i5oiQ5p625p6E5Yaz562W6K6w5b2V77yJIHwgSXNzdWUgUmVnaXN0cnkgfAp8ICoqRCoqIHwg5b2x5ZON6IyD5Zu05piv5ZCm5piO56Gu77yI6Zeu6aKY5piv5ZCm5riF5pmw55WM5a6a44CB5piv5ZCm56C05Z2PIE8tMC4277yJIHwgSXNzdWUg5YiG5p6QIHwKCioq6L6T5Ye654mpKirvvJpgUGhhc2UgUSBSZWFkaW5lc3MgUmV2aWV3IEAgTj0xMDBgCi0g5Zub5p2h5Lu26YCQ6aG5IFBBU1MvRkFJTAotIGBBTExPV19QSEFTRV9RID0gVFJVRSAvIEZBTFNFYAotIOiLpSBGQUxTRe+8muaYjuehruWTquS6m+adoeS7tuacqua7oei2s++8jOWIl+WHuuS7jemcgOinguWvn+eahOaVsOaNrgoKKirlvZPliY3ov5vluqYqKu+8mjE1IC8gMTAw77yIMTUl77yJ4oCUIOacqui+vuOAguW9k+WJjemihOWIpCBgQUxMT1dfUEhBU0VfUSA9IEZBTFNFYO+8iEEg5pyq6L6+44CBQiDmoLfmnKzkuI3otrPjgIFDIOaXoCBBRFLvvInjgIIKCi0tLQoKIyMjIDIuMyBNaWxlc3RvbmUgTj01MDDvvIjplb/mnJ/nqLPlrprmgKfmo4Dmn6XvvIkKCioq6Kem5Y+R5p2h5Lu2KirvvJpgY291bnQob2JzZXJ2YWJpbGl0eV9sb2dzKSA+PSA1MDBgCgoqKuWFs+azqOe7tOW6pioq77yaCi0gKipkb21haW4g5YiG5biDKiog4oCUIOaYr+WQpuacieaWsCBkb21haW4g5raM546w44CB5YiG5biD5piv5ZCm5Z2H6KGhCi0gKiprbm93bGVkZ2VfdHlwZSDliIbluIMqKiDigJQgY2xhc3NpYyAvIHBzeWNob2xvZ3kgLyBub25lIOmVv+acn+WNoOavlAotICoqZmFsbGJhY2sg5pS25pWbKiog4oCUIEZhbGxiYWNrIFJhdGUg5piv5ZCm6ZqP55+l6K+G5omp5bGV6ICM5LiL6ZmNCi0gKipsYXRlbmN5IFA5NS9QOTkqKiDigJQg6ZW/5pyf5bC+5bu26L+f6LaL5Yq/77yI5YWz6IGUIGRvY3MvNzQgUmVsaWFiaWxpdHkgT2JzZXJ2YXRpb27vvIkKLSAqKmNpdGF0aW9uIHF1YWxpdHkqKiDigJQg5byV55So5YeG56Gu5oCn5Lq65bel5oq95qC377yI5LiN5o6o5pat6K+t5LmJ77yM5LuF6K6w5b2V5oq95qC357uT5p6c77yJCgoqKui+k+WHuueJqSoq77yaYExvbmctdGVybSBTdGFiaWxpdHkgUmVwb3J0IEAgTj01MDBgCi0g5LiOIE49NTAgLyBOPTEwMCDnmoTotovlir/lr7nmr5QKLSDmmK/lkKblu7rorq7ov5vlhaXnn6Xor4bmianlsZUgLyBSb3V0ZXIg5LyY5YyW77yI5LuF5bu66K6u77yJCgoqKuW9k+WJjei/m+W6pioq77yaMTUgLyA1MDDvvIgzJe+8ieKAlCDmnKrovr7jgIIKCi0tLQoKIyMgMy4gSXNzdWUgUmVnaXN0cnnvvIjmnKzmrKHmm7TmlrDvvIkKCj4g54q25oCB5py65LuF5YWB6K6477yaYE9ic2VydmVkYCAvIGBDb25maXJtZWRgIC8gYEVzY2FsYXRlZGAgLyBgUmVzb2x2ZWRg77yIKirnpoHmraLkvb/nlKggUmVzb2x2ZWQqKu+8ieOAggo+IOaJgOacieWPkeeOsOWPquiusOW9leOAgeS4jeS/ruWkjeOAggoKIyMjIElzc3VlLTAwMSDCtyBQc3ljaG9sb2d5IEtub3dsZWRnZSBSb3V0aW5nIENvdmVyYWdlCgp8IOWtl+autSB8IOS4iuasoe+8iGRvY3MvNzLvvIkgfCDmnKzmrKHmm7TmlrAgfCDor7TmmI4gfAp8LS0tLS0tfC0tLS0tLS0tLS0tLS0tLS18LS0tLS0tLS0tLXwtLS0tLS18Cnwg54q25oCBIHwgQ29uZmlybWVkIHwgKipDb25maXJtZWQqKiB8IOacuuWItuW3suehruiupO+8iOS/oeWPt+ato+ehru+8ie+8jOS9hioq56aB5q2i5Y2H57qn5Li657O757uf5oCn6Zeu6aKYKiogfAp8IFNhbXBsZSBDb3VudCB8IDExIHwgKioxNSoqIHwg6KeC5a+f5qC35pys5oC76YeP5aKe6ZW/IHwKfCBDdXJyZW50IEZyZXF1ZW5jeSB8IDEvMTEgKDkuMSUpIHwgKioxLzE1ICg2LjclKSoqIHwg6Kem5Y+RIGNvZ25pdGl2ZS1wc3ljaG9sb2d5LXNpZ25hbCDnmoQgcXVlcnkg5Y2g5q+UIHwKfCBQc3ljaCBNaXNz77yI5ZG95Lit546H77yJIHwgMS8xICgxMDAlIG1pc3MpIHwgKioxLzEgKDEwMCUgbWlzcykqKiB8IOWUr+S4gCBwc3ljaCDkv6Hlj7cgcXVlcnnvvIgi5oiR5oC75piv5Y+N5aSN5qOA5p+l6Zeo5pyJ5rKh5pyJ6ZSBIu+8iWt0PVtd44CBY2l0PTAgfAp8IENvbmZpZGVuY2UgfCBMb3cgfCAqKkxvdyoqIHwgbj0xIHBzeWNoIOS6i+S7tu+8jOS4jei2s+S7peWIpOWumuezu+e7n+aAp++8m+e7tOaMgSBMb3cgfAp8IOagueWboO+8iOiusOW9le+8iSB8IFAtMDQg5qaC5b+15Y2h5Li6IENlcnRpZmllZCBDYW5kaWRhdGUg5pyqIFB1Ymxpc2hlZO+8jOacqui/m+ajgOe0oue0ouW8lSB8IOWQjCB8IOmdniBSb3V0ZXIg6YC76L6R6ZSZ6K+vIHwKfCDlpITnkIYgfCDnlZnlvoUgUGhhc2UgUSB8IOeVmeW+hSBQaGFzZSBRIHwg5b6FIEEvQi9DL0Qg5ruh6Laz5ZCO5o6I5p2DIHwKCioq5Yik5a6aKirvvJpJc3N1ZS0wMDEg5Li6ICoqQ29uZmlybWVkIOS9humdniBTeXN0ZW1pYyoq77yI5qC35pys5LiN6Laz77yJ44CC5b2T5YmN6aKR546HIDYuNyUg5YGP5L2O77yM5LiUIG1pc3MgMTAwJSDku4Xln7rkuo7ljZXkuIDmoLfmnKzjgILnu7TmjIHop4Llr5/vvIzkuI3ljYfnuqfjgIIKCiMjIyBJc3N1ZS0wMDIgwrcgbXNnU2VjQ2hlY2sgYWNjZXNzX3Rva2VuCgp8IOWtl+autSB8IOWAvCB8CnwtLS0tLS18LS0tLS18Cnwg54q25oCBIHwgKipFc2NhbGF0ZWQqKu+8iOe7tOaMge+8iSB8Cnwg546w6LGhIHwgYGludmFsaWQgd3ggb3BlbmFwaSBhY2Nlc3NfdG9rZW5gIHwKfCDlvbHlk40gfCDlhoXlrrnlronlhajmo4Dmn6XpmY3nuqfvvIjlh73mlbDlt7LkvJjpm4XpmY3nuqfvvIzkuI3lvbHlk43lm57nrZTvvIkgfAp8IOWkhOeQhiB8IOWIhua0viAqKlBoYXNlIFMtMCBTZWN1cml0eSBIYXJkZW5pbmcqKu+8iOeLrOeri+i9qO+8jOmdniBQaGFzZSBR77yJIHwKCiMjIyBJc3N1ZS0wMDMgwrcgTGF0ZW5jeSBwOTkgT2JzZXJ2YXRpb27vvIjmlrDlop7vvIkKCnwg5a2X5q61IHwg5YC8IHwKfC0tLS0tLXwtLS0tLXwKfCDnirbmgIEgfCAqKk9ic2VydmVkKirvvIjmlrDlop7vvIkgfAp8IOeOsOixoSB8IHA5OSBsYXRlbmN5ID0gKio5NzIzIG1zKirvvIzpgLzov5EgMTBzIOeUqOaIt+S+p+e6oue6vyB8Cnwg5b2x5ZONIHwg6ZW/5bC+55So5oi35L2T6aqM6aOO6Zmp77ybcDk54omIcDk1IOaPkOekuuWtmOWcqOWbuuWumumrmOaIkOacrOWtkOmbhiB8CnwgRXZpZGVuY2UgfCBtZWFuPTY0OTYgLyBwOTU9OTcyMyAvIHA5OT05NzIz77yIMTUg5qC35pys77yJIHwKfCDlvZPliY3nirbmgIEgfCDku4XorrDlvZXnl4fnirbvvJvmoLnlm6DpnIDliIbovajosIPmn6XvvIjop4EgZG9jcy83NO+8iSB8Cnwg5aSE55CGIHwg54us56uLIFJlbGlhYmlsaXR5IE9ic2VydmF0aW9uIFRyYWNr77yIZG9jcy83NO+8ie+8jCoq5Y+q6KeC5a+f5LiN5L+u5aSNKiogfAoKLS0tCgojIyA0LiBPYnNlcnZhdGlvbiBTdGF0dXPvvIjmnKzoioLngrnvvIkKCmBgYApDdXJyZW50IFNhbXBsZXM6ICAgICAgICAxNQpQaGFzZSBRIEdhdGUgKG5vdyk6ICAgICBBPUZBSUwoMTU8MTAwKSAvIEI9RkFJTCjmoLfmnKzkuI3otrMpIC8gQz1GQUlMKOaXoEFEUikgLyBEPVBBU1MKICAgICAgICAgICAgICAgICAgICAgICAgPT4gQUxMT1dfUEhBU0VfUSA9IEZBTFNFClJpc2sgU3VtbWFyeTogICAgICAgICAgIElzc3VlLTAwMSBDb25maXJtZWQobm9uLXN5c3RlbWljKSAvIElzc3VlLTAwMiBFc2NhbGF0ZWQgLyBJc3N1ZS0wMDMgT2JzZXJ2ZWQocDk54omIOS43cykKTmV4dCBSZXZpZXcgUG9pbnQ6ICAgICAgTWlsZXN0b25lIE49NTDvvIjpnIDlho0gKzM1IOecn+Wunuivt+axgu+8ie+8m+aIluS6uuW3peinpuWPkemHjeWuoQpgYGAKCi0tLQoKIyMgNS4g57qm5p2f6YG15a6I5aOw5piOCgotIOKdjCDmnKrkv67mlLnku7vkvZXku6PnoIHvvIhyYWcuanMgLyBpbnRlbnQuanMgLyBrbm93bGVkZ2VSb3V0ZXIuanMgLyBjb3JwdXMuanNvbiDlnYfmnKrliqjvvIkKLSDinYwg5pyq5L+u5pS5IFByb21wdCAvIE1ldGFkYXRhIENvbnRyYWN0IC8gUmVsZWFzZSBHYXRlIC8gUmVncmVzc2lvbgotIOKdjCDmnKrmlrDlop4gS25vd2xlZGdlIE9iamVjdCAvIOacqiBpbmdlc3QgLyDmnKogZW1iZWRkaW5nCi0g4p2MIOacqiBjb21taXQgLyDmnKogcHVibGlzaCAvIOacqui/m+WFpSBQaGFzZSBRCi0g4pyFIOS7heivu+WPluS6keW6k+ecn+WunuaVsOaNriArIOaWh+aho+WMlumHjOeoi+eikeahhuaetiArIOabtOaWsCBJc3N1ZSBSZWdpc3Ryee+8iOWPquiusOW9le+8iQoKPiAqKlJlbGVhc2UgR3VhcmRpYW4g56uL5Zy6KirvvJrkv53miqQgTy0wLjYg5Z+657q/77yM56ev57Sv55yf5a6e6K+B5o2u77yM562J5b6F5pWw5o2u6amx5Yqo5Yaz562W44CC5LiL5LiA6Zi25q6177yI5ZCrIFBoYXNlIFEg5oiWIFJlbGlhYmlsaXR5IOiwg+afpei9qO+8iemhu+eUseS6uuW3peaYvuW8j+aOiOadg+aWueWPr+WQr+WKqOOAggo=
+﻿# docs/73 · Phase P+ Observation Milestones
+
+> **角色**：Release Guardian + Production Reliability Observer
+> **阶段**：Observation Period（非开发阶段）
+> **冻结基线**：Knowledge Platform v1.0 GA + Operations v1.0 · O-0.6
+> **最高约束**：只读观察、只记录不修复、禁止进入 Phase Q、禁止 commit/publish
+> **创建时间**：2026-08-02
+
+---
+
+## 0. 文档目的
+
+在 Final Freeze（docs/71）与 Observation Review（docs/72）之后，建立**结构化的观察里程碑框架**，使后续真实流量的积累有清晰的评审节点与判定标准。本文档**不修改任何代码、不触发任何优化、不启动 Phase Q**。
+
+所有指标均来自 `observability_logs` 云库真实记录（只读拉取），Dashboard 聚合逻辑 `readonly=true / recomputes_retrieval=false`，无模拟数据。
+
+---
+
+## 1. 当前基线快照（文档创建时真实数据）
+
+| 指标 | 值 | 来源 |
+|------|-----|------|
+| 真实样本数 | **15** | `observability_logs` count |
+| 时间窗 | 2026-08-02T02:33 → 03:25（≈52 min） | created_at |
+| Fallback Rate | 0.267 (4/15) | knowledge_type=[] |
+| Citation Rate | 0.733 (11/15) | citation_count>0 |
+| Knowledge Usage | none=4, classic=11 | knowledge_type 分布 |
+| Latency mean / p50 / p90 / p95 / p99 | 6496 / 7047 / 8727 / 9723 / 9723 ms | latency_ms 分布 |
+| 错误记录 | 0 | error 字段 |
+| Psych signal 触发 | 1/15 (6.7%) | router_decision.reason=cognitive-psychology-signal |
+| 冻结资产 | 4/4 == O-0.6 | SHA256 复核 |
+
+**关键观察**：15 条全部落在同一 ~52 分钟窗口，疑似人工/测试流量；**尚未观察到有机用户流量**。这是达成 N=50/100 里程碑的主要瓶颈——需要在小程序正式发布/过审后累积真实用户请求。
+
+---
+
+## 2. Observation Milestone Framework
+
+三个观察节点，按样本规模递进。每个节点只做**快照与判定**，不做任何改动。
+
+### 2.1 Milestone N=50（目标：累计真实 observability_logs >= 50）
+
+**触发条件**：`count(observability_logs) >= 50`
+
+**检查项**：
+1. **Fallback Rate** — 是否仍集中在特定 domain/intent
+2. **Citation Rate** — classic 引用率是否稳定（基线 0.733）
+3. **Knowledge Coverage** — knowledge_type 分布（none/classic 占比变化）
+4. **Latency distribution** — mean / p50 / p90 / p95 / p99 是否恶化
+5. **Issue-001 是否再次出现** — psych signal 触发次数与命中率
+
+**输出物**：`Observation Snapshot @ N=50`
+- 上述 5 项指标的真实值 + 与基线（N=15）的 delta
+- Issue-001 复现计数与频率更新
+- 是否触发进一步观察建议（仅建议，不改动）
+
+**当前进度**：15 / 50（30%）— 未达。
+
+---
+
+### 2.2 Milestone N=100（Phase Q Gate 前置检查点）
+
+**触发条件**：`count(observability_logs) >= 100`
+
+**必须重新判断 Phase Q Gate 四条件**（注意：**仅判断，不启动 Phase Q**）：
+
+| 条件 | 判定内容 | 数据来源 |
+|------|----------|----------|
+| **A** | observability_logs >= 100 | count |
+| **B** | 是否存在稳定问题模式（如 psych 持续 miss、特定 domain fallback 集中） | 跨样本统计 |
+| **C** | ADR 是否需要启动（针对已确认问题是否需形成架构决策记录） | Issue Registry |
+| **D** | 影响范围是否明确（问题是否清晰界定、是否破坏 O-0.6） | Issue 分析 |
+
+**输出物**：`Phase Q Readiness Review @ N=100`
+- 四条件逐项 PASS/FAIL
+- `ALLOW_PHASE_Q = TRUE / FALSE`
+- 若 FALSE：明确哪些条件未满足，列出仍需观察的数据
+
+**当前进度**：15 / 100（15%）— 未达。当前预判 `ALLOW_PHASE_Q = FALSE`（A 未达、B 样本不足、C 无 ADR）。
+
+---
+
+### 2.3 Milestone N=500（长期稳定性检查）
+
+**触发条件**：`count(observability_logs) >= 500`
+
+**关注维度**：
+- **domain 分布** — 是否有新 domain 涌现、分布是否均衡
+- **knowledge_type 分布** — classic / psychology / none 长期占比
+- **fallback 收敛** — Fallback Rate 是否随知识扩展而下降
+- **latency P95/P99** — 长期尾延迟趋势（关联 docs/74 Reliability Observation）
+- **citation quality** — 引用准确性人工抽样（不推断语义，仅记录抽样结果）
+
+**输出物**：`Long-term Stability Report @ N=500`
+- 与 N=50 / N=100 的趋势对比
+- 是否建议进入知识扩展 / Router 优化（仅建议）
+
+**当前进度**：15 / 500（3%）— 未达。
+
+---
+
+## 3. Issue Registry（本次更新）
+
+> 状态机仅允许：`Observed` / `Confirmed` / `Escalated` / `Resolved`（**禁止使用 Resolved**）。
+> 所有发现只记录、不修复。
+
+### Issue-001 · Psychology Knowledge Routing Coverage
+
+| 字段 | 上次（docs/72） | 本次更新 | 说明 |
+|------|----------------|----------|------|
+| 状态 | Confirmed | **Confirmed** | 机制已确认（信号正确），但**禁止升级为系统性问题** |
+| Sample Count | 11 | **15** | 观察样本总量增长 |
+| Current Frequency | 1/11 (9.1%) | **1/15 (6.7%)** | 触发 cognitive-psychology-signal 的 query 占比 |
+| Psych Miss（命中率） | 1/1 (100% miss) | **1/1 (100% miss)** | 唯一 psych 信号 query（"我总是反复检查门有没有锁"）kt=[]、cit=0 |
+| Confidence | Low | **Low** | n=1 psych 事件，不足以判定系统性；维持 Low |
+| 根因（记录） | P-04 概念卡为 Certified Candidate 未 Published，未进检索索引 | 同 | 非 Router 逻辑错误 |
+| 处理 | 留待 Phase Q | 留待 Phase Q | 待 A/B/C/D 满足后授权 |
+
+**判定**：Issue-001 为 **Confirmed 但非 Systemic**（样本不足）。当前频率 6.7% 偏低，且 miss 100% 仅基于单一样本。维持观察，不升级。
+
+### Issue-002 · msgSecCheck access_token
+
+| 字段 | 值 |
+|------|-----|
+| 状态 | **Escalated**（维持） |
+| 现象 | `invalid wx openapi access_token` |
+| 影响 | 内容安全检查降级（函数已优雅降级，不影响回答） |
+| 处理 | 分派 **Phase S-0 Security Hardening**（独立轨，非 Phase Q） |
+
+### Issue-003 · Latency p99 Observation（新增）
+
+| 字段 | 值 |
+|------|-----|
+| 状态 | **Observed**（新增） |
+| 现象 | p99 latency = **9723 ms**，逼近 10s 用户侧红线 |
+| 影响 | 长尾用户体验风险；p99≈p95 提示存在固定高成本子集 |
+| Evidence | mean=6496 / p95=9723 / p99=9723（15 样本） |
+| 当前状态 | 仅记录症状；根因需分轨调查（见 docs/74） |
+| 处理 | 独立 Reliability Observation Track（docs/74），**只观察不修复** |
+
+---
+
+## 4. Observation Status（本节点）
+
+```
+Current Samples:        15
+Phase Q Gate (now):     A=FAIL(15<100) / B=FAIL(样本不足) / C=FAIL(无ADR) / D=PASS
+                        => ALLOW_PHASE_Q = FALSE
+Risk Summary:           Issue-001 Confirmed(non-systemic) / Issue-002 Escalated / Issue-003 Observed(p99≈9.7s)
+Next Review Point:      Milestone N=50（需再 +35 真实请求）；或人工触发重审
+```
+
+---
+
+## 5. 约束遵守声明
+
+- ❌ 未修改任何代码（rag.js / intent.js / knowledgeRouter.js / corpus.json 均未动）
+- ❌ 未修改 Prompt / Metadata Contract / Release Gate / Regression
+- ❌ 未新增 Knowledge Object / 未 ingest / 未 embedding
+- ❌ 未 commit / 未 publish / 未进入 Phase Q
+- ✅ 仅读取云库真实数据 + 文档化里程碑框架 + 更新 Issue Registry（只记录）
+
+> **Release Guardian 立场**：保护 O-0.6 基线，积累真实证据，等待数据驱动决策。下一阶段（含 Phase Q 或 Reliability 调查轨）须由人工显式授权方可启动。

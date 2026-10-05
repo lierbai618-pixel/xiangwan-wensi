@@ -1,1 +1,286 @@
-ewogICJnZW5lcmF0ZWRBdCI6ICIyMDI2LTA5LTIxVDA0OjI5OjM5LjA2NFoiLAogICJiYXNlIjogImh0dHBzOi8vZGFzaHNjb3BlLmFsaXl1bmNzLmNvbS9jb21wYXRpYmxlLW1vZGUvdjEiLAogICJnZW5Qcm9tcHQiOiAi5oiR5LuK5bm0MzDlsoHvvIzlt6XkvZznqLPlrprkvYbmgLvop4nlvpfmsqHku4DkuYjmhI/kuYnvvIzmg7PmlLnlj5jlj4jmgJXlpLHljrvnjrDlnKjnmoTkuIDliIfjgILmiJHor6XmgI7kuYjlip7vvJ8iLAogICJhdmFpbGFibGUiOiBbCiAgICAicXdlbjMuOC0yN2IiLAogICAgInF3ZW4zLjctZmxhc2gtMjAyNi0wNy0xNSIsCiAgICAicXdlbjMuOC1mbGFzaCIsCiAgICAia2ltaS1rMyIsCiAgICAiZGVlcHNlZWstdjQtZmxhc2gtMDczMSIsCiAgICAicXdlbjMuOC1tYXgtMDkwMiIsCiAgICAiZGVlcHNlZWstdjQuMS1mbGFzaCIsCiAgICAiZ2xtLTUuMyIsCiAgICAiZGVlcHNlZWstdjQtcHJvLTA4MTMiLAogICAgInF3ZW4zLjgtMi40dC1hOTViIiwKICAgICJxd2VuMy44LW1heCIsCiAgICAicXdlbjMuNy1mbGFzaCIKICBdLAogICJnZW5SZXN1bHRzIjogWwogICAgewogICAgICAibW9kZWwiOiAicXdlbjMuOC0yN2IiLAogICAgICAiZGVmYXVsdE1zIjogMzIyOTEsCiAgICAgICJkZWZhdWx0T2siOiB0cnVlLAogICAgICAiZGVmYXVsdENqayI6IDE0MTUsCiAgICAgICJkZWZhdWx0SGFzVGhpbmtpbmciOiB0cnVlLAogICAgICAiZGVmYXVsdFJlYXNvbmluZ0NoYXJzIjogMjQzLAogICAgICAiZGVmYXVsdFRva2VucyI6IDEzNjAsCiAgICAgICJub1RoaW5rTXMiOiAyNjE3NywKICAgICAgIm5vVGhpbmtDamsiOiAxNDAxLAogICAgICAibm9UaGlua09rIjogdHJ1ZSwKICAgICAgIm5vVGhpbmtOb3RlIjogIiIsCiAgICAgICJub1RoaW5rU3RpbGxUaGlua2luZyI6IGZhbHNlCiAgICB9LAogICAgewogICAgICAibW9kZWwiOiAicXdlbjMuNy1mbGFzaC0yMDI2LTA3LTE1IiwKICAgICAgImRlZmF1bHRNcyI6IDM1MTU1LAogICAgICAiZGVmYXVsdE9rIjogdHJ1ZSwKICAgICAgImRlZmF1bHRDamsiOiAxMDE0LAogICAgICAiZGVmYXVsdEhhc1RoaW5raW5nIjogdHJ1ZSwKICAgICAgImRlZmF1bHRSZWFzb25pbmdDaGFycyI6IDQwMDEsCiAgICAgICJkZWZhdWx0VG9rZW5zIjogMTk5OSwKICAgICAgIm5vVGhpbmtNcyI6IDE4MjY0LAogICAgICAibm9UaGlua0NqayI6IDExOTYsCiAgICAgICJub1RoaW5rT2siOiB0cnVlLAogICAgICAibm9UaGlua05vdGUiOiAiIiwKICAgICAgIm5vVGhpbmtTdGlsbFRoaW5raW5nIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJtb2RlbCI6ICJxd2VuMy44LWZsYXNoIiwKICAgICAgImRlZmF1bHRNcyI6IDYyNTEwLAogICAgICAiZGVmYXVsdE9rIjogdHJ1ZSwKICAgICAgImRlZmF1bHRDamsiOiAxNTkyLAogICAgICAiZGVmYXVsdEhhc1RoaW5raW5nIjogdHJ1ZSwKICAgICAgImRlZmF1bHRSZWFzb25pbmdDaGFycyI6IDQ1NSwKICAgICAgImRlZmF1bHRUb2tlbnMiOiAxNDkzLAogICAgICAibm9UaGlua01zIjogNDQ5MDMsCiAgICAgICJub1RoaW5rQ2prIjogMTQ2NSwKICAgICAgIm5vVGhpbmtPayI6IHRydWUsCiAgICAgICJub1RoaW5rTm90ZSI6ICIiLAogICAgICAibm9UaGlua1N0aWxsVGhpbmtpbmciOiBmYWxzZQogICAgfSwKICAgIHsKICAgICAgIm1vZGVsIjogImtpbWktazMiLAogICAgICAiZGVmYXVsdE1zIjogMTQ5OTk3LAogICAgICAiZGVmYXVsdE9rIjogZmFsc2UsCiAgICAgICJkZWZhdWx0Q2prIjogMCwKICAgICAgImRlZmF1bHRIYXNUaGlua2luZyI6IG51bGwsCiAgICAgICJkZWZhdWx0UmVhc29uaW5nQ2hhcnMiOiAwLAogICAgICAiZGVmYXVsdFRva2VucyI6IG51bGwsCiAgICAgICJub1RoaW5rTXMiOiBudWxsLAogICAgICAibm9UaGlua0NqayI6IDAsCiAgICAgICJub1RoaW5rT2siOiBudWxsLAogICAgICAibm9UaGlua05vdGUiOiAiIgogICAgfSwKICAgIHsKICAgICAgIm1vZGVsIjogImRlZXBzZWVrLXY0LWZsYXNoLTA3MzEiLAogICAgICAiZGVmYXVsdE1zIjogMTgwMDgsCiAgICAgICJkZWZhdWx0T2siOiB0cnVlLAogICAgICAiZGVmYXVsdENqayI6IDc0MSwKICAgICAgImRlZmF1bHRIYXNUaGlua2luZyI6IHRydWUsCiAgICAgICJkZWZhdWx0UmVhc29uaW5nQ2hhcnMiOiAxMDkzLAogICAgICAiZGVmYXVsdFRva2VucyI6IDExODUsCiAgICAgICJub1RoaW5rTXMiOiA2NDQ3LAogICAgICAibm9UaGlua0NqayI6IDU5MywKICAgICAgIm5vVGhpbmtPayI6IHRydWUsCiAgICAgICJub1RoaW5rTm90ZSI6ICIiLAogICAgICAibm9UaGlua1N0aWxsVGhpbmtpbmciOiBmYWxzZQogICAgfSwKICAgIHsKICAgICAgIm1vZGVsIjogInF3ZW4zLjgtbWF4LTA5MDIiLAogICAgICAiZGVmYXVsdE1zIjogNDQ1OTgsCiAgICAgICJkZWZhdWx0T2siOiB0cnVlLAogICAgICAiZGVmYXVsdENqayI6IDE0ODQsCiAgICAgICJkZWZhdWx0SGFzVGhpbmtpbmciOiB0cnVlLAogICAgICAiZGVmYXVsdFJlYXNvbmluZ0NoYXJzIjogMzMwLAogICAgICAiZGVmYXVsdFRva2VucyI6IDE0MjIsCiAgICAgICJub1RoaW5rTXMiOiAxODE3MiwKICAgICAgIm5vVGhpbmtDamsiOiAxMDQ4LAogICAgICAibm9UaGlua09rIjogdHJ1ZSwKICAgICAgIm5vVGhpbmtOb3RlIjogIiIsCiAgICAgICJub1RoaW5rU3RpbGxUaGlua2luZyI6IGZhbHNlCiAgICB9LAogICAgewogICAgICAibW9kZWwiOiAiZGVlcHNlZWstdjQuMS1mbGFzaCIsCiAgICAgICJkZWZhdWx0TXMiOiAxOTQwOSwKICAgICAgImRlZmF1bHRPayI6IHRydWUsCiAgICAgICJkZWZhdWx0Q2prIjogMCwKICAgICAgImRlZmF1bHRIYXNUaGlua2luZyI6IHRydWUsCiAgICAgICJkZWZhdWx0UmVhc29uaW5nQ2hhcnMiOiAxOTA4LAogICAgICAiZGVmYXVsdFRva2VucyI6IDEyMDAsCiAgICAgICJub1RoaW5rTXMiOiA4MzkyLAogICAgICAibm9UaGlua0NqayI6IDYyNiwKICAgICAgIm5vVGhpbmtPayI6IHRydWUsCiAgICAgICJub1RoaW5rTm90ZSI6ICIiLAogICAgICAibm9UaGlua1N0aWxsVGhpbmtpbmciOiBmYWxzZQogICAgfSwKICAgIHsKICAgICAgIm1vZGVsIjogImdsbS01LjMiLAogICAgICAiZGVmYXVsdE1zIjogMTQ3MTUsCiAgICAgICJkZWZhdWx0T2siOiB0cnVlLAogICAgICAiZGVmYXVsdENqayI6IDIsCiAgICAgICJkZWZhdWx0SGFzVGhpbmtpbmciOiB0cnVlLAogICAgICAiZGVmYXVsdFJlYXNvbmluZ0NoYXJzIjogNDgwMSwKICAgICAgImRlZmF1bHRUb2tlbnMiOiAxMjAwLAogICAgICAibm9UaGlua01zIjogMjk0LAogICAgICAibm9UaGlua0NqayI6IDAsCiAgICAgICJub1RoaW5rT2siOiBmYWxzZSwKICAgICAgIm5vVGhpbmtOb3RlIjogIuWPguaVsOiiq+aLkjogPDQwMD4gSW50ZXJuYWxFcnJvci5BbGdvLkludmFsaWRQYXJhbWV0ZXI6IFRoZSB2YWx1ZSBvZiB0aGUgZW5hYmxlX3RoaW5raW5nIHBhcmEiLAogICAgICAibm9UaGlua1N0aWxsVGhpbmtpbmciOiBudWxsCiAgICB9LAogICAgewogICAgICAibW9kZWwiOiAiZGVlcHNlZWstdjQtcHJvLTA4MTMiLAogICAgICAiZGVmYXVsdE1zIjogMjIxODQsCiAgICAgICJkZWZhdWx0T2siOiB0cnVlLAogICAgICAiZGVmYXVsdENqayI6IDAsCiAgICAgICJkZWZhdWx0SGFzVGhpbmtpbmciOiB0cnVlLAogICAgICAiZGVmYXVsdFJlYXNvbmluZ0NoYXJzIjogMTk3NSwKICAgICAgImRlZmF1bHRUb2tlbnMiOiAxMjAwLAogICAgICAibm9UaGlua01zIjogMTczNiwKICAgICAgIm5vVGhpbmtDamsiOiA1MCwKICAgICAgIm5vVGhpbmtPayI6IHRydWUsCiAgICAgICJub1RoaW5rTm90ZSI6ICIiLAogICAgICAibm9UaGlua1N0aWxsVGhpbmtpbmciOiBmYWxzZQogICAgfSwKICAgIHsKICAgICAgIm1vZGVsIjogInF3ZW4zLjgtMi40dC1hOTViIiwKICAgICAgImRlZmF1bHRNcyI6IDY1NDk3LAogICAgICAiZGVmYXVsdE9rIjogdHJ1ZSwKICAgICAgImRlZmF1bHRDamsiOiAxNDM5LAogICAgICAiZGVmYXVsdEhhc1RoaW5raW5nIjogdHJ1ZSwKICAgICAgImRlZmF1bHRSZWFzb25pbmdDaGFycyI6IDE0ODQsCiAgICAgICJkZWZhdWx0VG9rZW5zIjogMjEyMiwKICAgICAgIm5vVGhpbmtNcyI6IDIzNiwKICAgICAgIm5vVGhpbmtDamsiOiAwLAogICAgICAibm9UaGlua09rIjogZmFsc2UsCiAgICAgICJub1RoaW5rTm90ZSI6ICLlj4LmlbDooqvmi5I6IDw0MDA+IEludGVybmFsRXJyb3IuQWxnby5JbnZhbGlkUGFyYW1ldGVyOiBUaGUgdmFsdWUgb2YgdGhlIGVuYWJsZV90aGlua2luZyBwYXJhIiwKICAgICAgIm5vVGhpbmtTdGlsbFRoaW5raW5nIjogbnVsbAogICAgfSwKICAgIHsKICAgICAgIm1vZGVsIjogInF3ZW4zLjgtbWF4IiwKICAgICAgImRlZmF1bHRNcyI6IDY2Njk0LAogICAgICAiZGVmYXVsdE9rIjogdHJ1ZSwKICAgICAgImRlZmF1bHRDamsiOiAxNTQ5LAogICAgICAiZGVmYXVsdEhhc1RoaW5raW5nIjogdHJ1ZSwKICAgICAgImRlZmF1bHRSZWFzb25pbmdDaGFycyI6IDEyMTQsCiAgICAgICJkZWZhdWx0VG9rZW5zIjogMTk2NiwKICAgICAgIm5vVGhpbmtNcyI6IDE2NzM1LAogICAgICAibm9UaGlua0NqayI6IDkzOCwKICAgICAgIm5vVGhpbmtPayI6IHRydWUsCiAgICAgICJub1RoaW5rTm90ZSI6ICIiLAogICAgICAibm9UaGlua1N0aWxsVGhpbmtpbmciOiBmYWxzZQogICAgfSwKICAgIHsKICAgICAgIm1vZGVsIjogInF3ZW4zLjctZmxhc2giLAogICAgICAiZGVmYXVsdE1zIjogMzM5MDEsCiAgICAgICJkZWZhdWx0T2siOiB0cnVlLAogICAgICAiZGVmYXVsdENqayI6IDg1OCwKICAgICAgImRlZmF1bHRIYXNUaGlua2luZyI6IHRydWUsCiAgICAgICJkZWZhdWx0UmVhc29uaW5nQ2hhcnMiOiAzNTIwLAogICAgICAiZGVmYXVsdFRva2VucyI6IDE4NDksCiAgICAgICJub1RoaW5rTXMiOiAyMTQ0OSwKICAgICAgIm5vVGhpbmtDamsiOiAxNDE4LAogICAgICAibm9UaGlua09rIjogdHJ1ZSwKICAgICAgIm5vVGhpbmtOb3RlIjogIiIsCiAgICAgICJub1RoaW5rU3RpbGxUaGlua2luZyI6IGZhbHNlCiAgICB9CiAgXSwKICAic2VhcmNoUmVzdWx0cyI6IFsKICAgIHsKICAgICAgIm1vZGVsIjogInF3ZW4zLjgtMjdiIiwKICAgICAgIm9rIjogdHJ1ZSwKICAgICAgIm1zIjogOTQxNzksCiAgICAgICJncm91bmRlZCI6IHRydWUsCiAgICAgICJsZW4iOiA5ODAsCiAgICAgICJlcnIiOiAiIgogICAgfSwKICAgIHsKICAgICAgIm1vZGVsIjogInF3ZW4zLjctZmxhc2gtMjAyNi0wNy0xNSIsCiAgICAgICJvayI6IHRydWUsCiAgICAgICJtcyI6IDU0MzMwLAogICAgICAiZ3JvdW5kZWQiOiB0cnVlLAogICAgICAibGVuIjogMTA0MSwKICAgICAgImVyciI6ICIiCiAgICB9LAogICAgewogICAgICAibW9kZWwiOiAicXdlbjMuOC1mbGFzaCIsCiAgICAgICJvayI6IGZhbHNlLAogICAgICAibXMiOiAxMjAwMDMsCiAgICAgICJncm91bmRlZCI6IGZhbHNlLAogICAgICAibGVuIjogMCwKICAgICAgImVyciI6ICIiCiAgICB9LAogICAgewogICAgICAibW9kZWwiOiAia2ltaS1rMyIsCiAgICAgICJvayI6IHRydWUsCiAgICAgICJtcyI6IDk0ODEsCiAgICAgICJncm91bmRlZCI6IHRydWUsCiAgICAgICJsZW4iOiAxMzgsCiAgICAgICJlcnIiOiAiIgogICAgfSwKICAgIHsKICAgICAgIm1vZGVsIjogImRlZXBzZWVrLXY0LWZsYXNoLTA3MzEiLAogICAgICAib2siOiB0cnVlLAogICAgICAibXMiOiA3ODk2LAogICAgICAiZ3JvdW5kZWQiOiB0cnVlLAogICAgICAibGVuIjogNDEwLAogICAgICAiZXJyIjogIiIKICAgIH0sCiAgICB7CiAgICAgICJtb2RlbCI6ICJxd2VuMy44LW1heC0wOTAyIiwKICAgICAgIm9rIjogdHJ1ZSwKICAgICAgIm1zIjogOTU4MDUsCiAgICAgICJncm91bmRlZCI6IHRydWUsCiAgICAgICJsZW4iOiA5NTQsCiAgICAgICJlcnIiOiAiIgogICAgfSwKICAgIHsKICAgICAgIm1vZGVsIjogImRlZXBzZWVrLXY0LjEtZmxhc2giLAogICAgICAib2siOiB0cnVlLAogICAgICAibXMiOiA5OTE0LAogICAgICAiZ3JvdW5kZWQiOiBmYWxzZSwKICAgICAgImxlbiI6IDAsCiAgICAgICJlcnIiOiAiIgogICAgfSwKICAgIHsKICAgICAgIm1vZGVsIjogImdsbS01LjMiLAogICAgICAib2siOiBmYWxzZSwKICAgICAgIm1zIjogNjE2LAogICAgICAiZ3JvdW5kZWQiOiBmYWxzZSwKICAgICAgImxlbiI6IDAsCiAgICAgICJlcnIiOiAiPDQwMD4gSW50ZXJuYWxFcnJvci5BbGdvLkludmFsaWRQYXJhbWV0ZXI6IFRoaXMgbW9kZWwgZG9lcyBub3Qgc3VwcG9ydCIKICAgIH0sCiAgICB7CiAgICAgICJtb2RlbCI6ICJkZWVwc2Vlay12NC1wcm8tMDgxMyIsCiAgICAgICJvayI6IHRydWUsCiAgICAgICJtcyI6IDc5MTAsCiAgICAgICJncm91bmRlZCI6IGZhbHNlLAogICAgICAibGVuIjogMCwKICAgICAgImVyciI6ICIiCiAgICB9LAogICAgewogICAgICAibW9kZWwiOiAicXdlbjMuOC0yLjR0LWE5NWIiLAogICAgICAib2siOiB0cnVlLAogICAgICAibXMiOiA1NzA3MCwKICAgICAgImdyb3VuZGVkIjogdHJ1ZSwKICAgICAgImxlbiI6IDk0MCwKICAgICAgImVyciI6ICIiCiAgICB9LAogICAgewogICAgICAibW9kZWwiOiAicXdlbjMuOC1tYXgiLAogICAgICAib2siOiB0cnVlLAogICAgICAibXMiOiA2ODA1MiwKICAgICAgImdyb3VuZGVkIjogdHJ1ZSwKICAgICAgImxlbiI6IDkzOCwKICAgICAgImVyciI6ICIiCiAgICB9LAogICAgewogICAgICAibW9kZWwiOiAicXdlbjMuNy1mbGFzaCIsCiAgICAgICJvayI6IHRydWUsCiAgICAgICJtcyI6IDQ3OTAxLAogICAgICAiZ3JvdW5kZWQiOiB0cnVlLAogICAgICAibGVuIjogMTA0OSwKICAgICAgImVyciI6ICIiCiAgICB9CiAgXQp9
+{
+  "generatedAt": "2026-09-21T04:29:39.064Z",
+  "base": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+  "genPrompt": "我今年30岁，工作稳定但总觉得没什么意义，想改变又怕失去现在的一切。我该怎么办？",
+  "available": [
+    "qwen3.8-27b",
+    "qwen3.7-flash-2026-07-15",
+    "qwen3.8-flash",
+    "kimi-k3",
+    "deepseek-v4-flash-0731",
+    "qwen3.8-max-0902",
+    "deepseek-v4.1-flash",
+    "glm-5.3",
+    "deepseek-v4-pro-0813",
+    "qwen3.8-2.4t-a95b",
+    "qwen3.8-max",
+    "qwen3.7-flash"
+  ],
+  "genResults": [
+    {
+      "model": "qwen3.8-27b",
+      "defaultMs": 32291,
+      "defaultOk": true,
+      "defaultCjk": 1415,
+      "defaultHasThinking": true,
+      "defaultReasoningChars": 243,
+      "defaultTokens": 1360,
+      "noThinkMs": 26177,
+      "noThinkCjk": 1401,
+      "noThinkOk": true,
+      "noThinkNote": "",
+      "noThinkStillThinking": false
+    },
+    {
+      "model": "qwen3.7-flash-2026-07-15",
+      "defaultMs": 35155,
+      "defaultOk": true,
+      "defaultCjk": 1014,
+      "defaultHasThinking": true,
+      "defaultReasoningChars": 4001,
+      "defaultTokens": 1999,
+      "noThinkMs": 18264,
+      "noThinkCjk": 1196,
+      "noThinkOk": true,
+      "noThinkNote": "",
+      "noThinkStillThinking": false
+    },
+    {
+      "model": "qwen3.8-flash",
+      "defaultMs": 62510,
+      "defaultOk": true,
+      "defaultCjk": 1592,
+      "defaultHasThinking": true,
+      "defaultReasoningChars": 455,
+      "defaultTokens": 1493,
+      "noThinkMs": 44903,
+      "noThinkCjk": 1465,
+      "noThinkOk": true,
+      "noThinkNote": "",
+      "noThinkStillThinking": false
+    },
+    {
+      "model": "kimi-k3",
+      "defaultMs": 149997,
+      "defaultOk": false,
+      "defaultCjk": 0,
+      "defaultHasThinking": null,
+      "defaultReasoningChars": 0,
+      "defaultTokens": null,
+      "noThinkMs": null,
+      "noThinkCjk": 0,
+      "noThinkOk": null,
+      "noThinkNote": ""
+    },
+    {
+      "model": "deepseek-v4-flash-0731",
+      "defaultMs": 18008,
+      "defaultOk": true,
+      "defaultCjk": 741,
+      "defaultHasThinking": true,
+      "defaultReasoningChars": 1093,
+      "defaultTokens": 1185,
+      "noThinkMs": 6447,
+      "noThinkCjk": 593,
+      "noThinkOk": true,
+      "noThinkNote": "",
+      "noThinkStillThinking": false
+    },
+    {
+      "model": "qwen3.8-max-0902",
+      "defaultMs": 44598,
+      "defaultOk": true,
+      "defaultCjk": 1484,
+      "defaultHasThinking": true,
+      "defaultReasoningChars": 330,
+      "defaultTokens": 1422,
+      "noThinkMs": 18172,
+      "noThinkCjk": 1048,
+      "noThinkOk": true,
+      "noThinkNote": "",
+      "noThinkStillThinking": false
+    },
+    {
+      "model": "deepseek-v4.1-flash",
+      "defaultMs": 19409,
+      "defaultOk": true,
+      "defaultCjk": 0,
+      "defaultHasThinking": true,
+      "defaultReasoningChars": 1908,
+      "defaultTokens": 1200,
+      "noThinkMs": 8392,
+      "noThinkCjk": 626,
+      "noThinkOk": true,
+      "noThinkNote": "",
+      "noThinkStillThinking": false
+    },
+    {
+      "model": "glm-5.3",
+      "defaultMs": 14715,
+      "defaultOk": true,
+      "defaultCjk": 2,
+      "defaultHasThinking": true,
+      "defaultReasoningChars": 4801,
+      "defaultTokens": 1200,
+      "noThinkMs": 294,
+      "noThinkCjk": 0,
+      "noThinkOk": false,
+      "noThinkNote": "参数被拒: <400> InternalError.Algo.InvalidParameter: The value of the enable_thinking para",
+      "noThinkStillThinking": null
+    },
+    {
+      "model": "deepseek-v4-pro-0813",
+      "defaultMs": 22184,
+      "defaultOk": true,
+      "defaultCjk": 0,
+      "defaultHasThinking": true,
+      "defaultReasoningChars": 1975,
+      "defaultTokens": 1200,
+      "noThinkMs": 1736,
+      "noThinkCjk": 50,
+      "noThinkOk": true,
+      "noThinkNote": "",
+      "noThinkStillThinking": false
+    },
+    {
+      "model": "qwen3.8-2.4t-a95b",
+      "defaultMs": 65497,
+      "defaultOk": true,
+      "defaultCjk": 1439,
+      "defaultHasThinking": true,
+      "defaultReasoningChars": 1484,
+      "defaultTokens": 2122,
+      "noThinkMs": 236,
+      "noThinkCjk": 0,
+      "noThinkOk": false,
+      "noThinkNote": "参数被拒: <400> InternalError.Algo.InvalidParameter: The value of the enable_thinking para",
+      "noThinkStillThinking": null
+    },
+    {
+      "model": "qwen3.8-max",
+      "defaultMs": 66694,
+      "defaultOk": true,
+      "defaultCjk": 1549,
+      "defaultHasThinking": true,
+      "defaultReasoningChars": 1214,
+      "defaultTokens": 1966,
+      "noThinkMs": 16735,
+      "noThinkCjk": 938,
+      "noThinkOk": true,
+      "noThinkNote": "",
+      "noThinkStillThinking": false
+    },
+    {
+      "model": "qwen3.7-flash",
+      "defaultMs": 33901,
+      "defaultOk": true,
+      "defaultCjk": 858,
+      "defaultHasThinking": true,
+      "defaultReasoningChars": 3520,
+      "defaultTokens": 1849,
+      "noThinkMs": 21449,
+      "noThinkCjk": 1418,
+      "noThinkOk": true,
+      "noThinkNote": "",
+      "noThinkStillThinking": false
+    }
+  ],
+  "searchResults": [
+    {
+      "model": "qwen3.8-27b",
+      "ok": true,
+      "ms": 94179,
+      "grounded": true,
+      "len": 980,
+      "err": ""
+    },
+    {
+      "model": "qwen3.7-flash-2026-07-15",
+      "ok": true,
+      "ms": 54330,
+      "grounded": true,
+      "len": 1041,
+      "err": ""
+    },
+    {
+      "model": "qwen3.8-flash",
+      "ok": false,
+      "ms": 120003,
+      "grounded": false,
+      "len": 0,
+      "err": ""
+    },
+    {
+      "model": "kimi-k3",
+      "ok": true,
+      "ms": 9481,
+      "grounded": true,
+      "len": 138,
+      "err": ""
+    },
+    {
+      "model": "deepseek-v4-flash-0731",
+      "ok": true,
+      "ms": 7896,
+      "grounded": true,
+      "len": 410,
+      "err": ""
+    },
+    {
+      "model": "qwen3.8-max-0902",
+      "ok": true,
+      "ms": 95805,
+      "grounded": true,
+      "len": 954,
+      "err": ""
+    },
+    {
+      "model": "deepseek-v4.1-flash",
+      "ok": true,
+      "ms": 9914,
+      "grounded": false,
+      "len": 0,
+      "err": ""
+    },
+    {
+      "model": "glm-5.3",
+      "ok": false,
+      "ms": 616,
+      "grounded": false,
+      "len": 0,
+      "err": "<400> InternalError.Algo.InvalidParameter: This model does not support"
+    },
+    {
+      "model": "deepseek-v4-pro-0813",
+      "ok": true,
+      "ms": 7910,
+      "grounded": false,
+      "len": 0,
+      "err": ""
+    },
+    {
+      "model": "qwen3.8-2.4t-a95b",
+      "ok": true,
+      "ms": 57070,
+      "grounded": true,
+      "len": 940,
+      "err": ""
+    },
+    {
+      "model": "qwen3.8-max",
+      "ok": true,
+      "ms": 68052,
+      "grounded": true,
+      "len": 938,
+      "err": ""
+    },
+    {
+      "model": "qwen3.7-flash",
+      "ok": true,
+      "ms": 47901,
+      "grounded": true,
+      "len": 1049,
+      "err": ""
+    }
+  ]
+}

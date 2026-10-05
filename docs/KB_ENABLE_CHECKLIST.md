@@ -1,1 +1,71 @@
-IyBLQiAvIOS4iue6v+WJjeajgOafpea4heWNle+8iEtCX0VOQUJMRV9DSEVDS0xJU1QubWTvvIkKCj4g55uu55qE77ya5Zyo44CM6Zeu6YGT44CN5bCP56iL5bqP5q+P5qyh6YOo572yIC8g5YaF5rWL5YmN6YCQ6aG55Yu+6YCJ77yM6YG/5YWN5YaN5ryP5o6J5LqR5Ye95pWw44CB6ZuG5ZCI5oiW5ZCI5rOV5Z+f5ZCN44CCCj4g57u05oqk5Lq677ya5byA5Y+R5L6n44CC5pu05paw5pe25py677ya6YOo572y5rWB56iL5pyJ5Y+Y5YyW5oiW5paw5aKe6ZuG5ZCI5pe244CCCgotLS0KCiMjIEEuIOS6keWHveaVsOmDqOe9su+8iOmhuuW6j+mHjeimge+8jOavj+S4qumDveimgeWPs+mUruKGkuS4iuS8oOW5tumDqOe9ssK35LqR56uv6KOF5L6d6LWW77yJCgotIFsgXSBgbG9naW5gIOKAlOKAlCDmj5Dkvpsgb3Blbmlk77yM5piv5Y6G5Y+yIC8g5Lya6K+d5Yqf6IO955qE5YmN572uCi0gWyBdIGBoaXN0b3J5YCDigJTigJQg5aSa5Lya6K+d6K+75YaZ77yI5L6d6LWWIGBjb252ZXJzYXRpb25zYCDpm4blkIjvvIkKLSBbIF0gYGNoYXRgIOKAlOKAlCDkuLvlr7nor50gKyDlhpkgYHF1ZXN0aW9uX2xvZ3Ng77yI5ZCrIGBjb252ZXJzYXRpb25JZGDvvIkKLSBbIF0gYGFkbWluYCDigJTigJQg5qih5Z6L6YWN572uIENSVUQgKyBgaW5zaWdodHNgIOiBmuWQiO+8iOeZvumXrueci+adv+aVsOaNrua6kO+8iQotIFsgXSBgZmVlZGJhY2tgIOKAlOKAlCDlhpkgYGFuc3dlcl9mZWVkYmFja2AgLyBgYW5zd2VyX3F1YWxpdHlfbG9nYAoKPiDmvI/kvKDku7vkvZXkuIDkuKrpg73kvJrpnZnpu5jlpLHmlYjvvJpgbG9naW5gL2BoaXN0b3J5YCDmsqHkvKAg4oaSIOWOhuWPsuawuOS4jeinge+8m2BjaGF0YC9gYWRtaW5gL2BmZWVkYmFja2Ag5rKh5LygIOKGkiDlr7nlupTog73lipvlm57pgIDmiJbkuLrnqbrjgIIKCiMjIEIuIOS6keaVsOaNruW6k+mbhuWQiO+8iOS6keaOp+WItuWPsOaJi+WKqOW7uu+8jOadg+mZkOm7mOiupOWNs+WPr++8iQoKKipNVlAg5b+F6ZyA77yaKioKLSBbIF0gYHF1ZXN0aW9uX2xvZ3NgCi0gWyBdIGBhbnN3ZXJfZmVlZGJhY2tgCi0gWyBdIGBhbnN3ZXJfcXVhbGl0eV9sb2dgCi0gWyBdIGBjb252ZXJzYXRpb25zYAotIFsgXSBgbW9kZWxfY29uZmlnYAoKKipLQiDmqKHlvI/vvIjmmoLkuI3lkK/nlKjvvIzlkK/nlKjlkJHph48v5YWo5paH5Y+s5Zue5pe25omN5bu677yJ77yaKioKLSBbIF0gYGRvY3VtZW50c2AKLSBbIF0gYGNodW5rc2AKCj4g5LqR5pWw5o2u5bqT5LiN5Lya6Ieq5Yqo5bu66KGo44CC6aaW5qyh5YaZ5YWl5LiN5a2Y5Zyo55qE6ZuG5ZCI5Lya5oqlIGBEQVRBQkFTRV9DT0xMRUNUSU9OX05PVF9FWElTVGDvvIzpnIDlhYjmiYvliqjlu7rjgIIKCiMjIEMuIOi/kOihjOeOr+Wig+ehrOe6puadn++8iOW3sue6oOato++8jOWKoeW/hemBteWuiO+8iQoKLSBbIF0gYGNoYXRgIOS6keWHveaVsOi/kOihjOaXtiA9ICoqTm9kZWpzMTYuMTPvvIjplIHlrprvvIzml6Dms5XljYfnuqfvvIkqKgotIFsgXSDmiYDmnInkupHlh73mlbDku6PnoIHlhbzlrrkgTm9kZSAxNu+8jCoq56aB5q2i5Y6f55SfIGBmZXRjaGAqKu+8jOW/hemhu+i1sCBgcmFnLmpzYCDlhoXnva4gYG5vZGVGZXRjaGAKLSBbIF0gYGNoYXQvY29uZmlnLmpzb25gIOmHjOeahCBgcnVudGltZTpOb2RlanMxOC4xNWAg5LiN55Sf5pWI77yI546v5aKD5LuN5pivIDE277yJ77yM5LuF5Li65pen5aOw5piO77yb5Luj56CB5bey55SoIGBub2RlRmV0Y2hgIOWFvOWuuSAxNgoKPiDimqDvuI8g5LmL5YmN5paH5qGj5YaZ55qE44CM56Gu6K6kIGNoYXQg6L+Q6KGM5pe2IE5vZGUgMTgr44CN5pivKirplJnor6/mjIfku6TvvIzlt7LkvZzlup8qKuOAguS4jeimgeWGjeaNruatpOWOu+iwg+S4gOS4quaUueS4jeS6hueahOiuvue9ruOAggoKIyMgRC4g5b6u5L+h5YWs5LyX5bmz5Y+w5ZCI5rOV5Z+f5ZCN77yI55yf5py6IC8g5q2j5byP54mI5b+F6ZyA77yJCgotIFsgXSByZXF1ZXN0IOWQiOazleWfn+WQjeWKoOWFpSBgYXBpLmhjbnNlYy5jbmAKCj4g5byA5Y+R6ICF5bel5YW35Yu+6YCJ44CM5LiN5qCh6aqM5ZCI5rOV5Z+f5ZCN44CN5Y+v5Li05pe257uV6L+H77yb5L2GKirmraPlvI/niYjlsI/nqIvluo/kvJrooqvlvq7kv6HnvZHlhbPpnZnpu5jmi6bmiKoqKu+8iOihqOeOsOS4uuS4gOebtOWbnumAgOacrOWcsOWbnuetlO+8ie+8jOaJgOS7peS4iue6v+WJjeW/hemhu+WKoOOAggoKIyMgRS4g6YOo572y5ZCO55yf5py66aqM6K+B5riF5Y2VCgotIFsgXSDov5vogYrlpKnpobXoh6rliqjlu7rnrKzkuIDkuKrkvJror53vvIjpobbmoI/jgIzkvJror53jgI3lj6/op4Hljoblj7LliJfooajvvIkKLSBbIF0g5Y+R5raI5oGv5q2j5bi46L+U5Zue77yI5LiN5YaN5Ye6546w44CM54K55LiN5LqG5Y+R6YCB44CN77yJCi0gWyBdIOWFs+S6jumhteOAjOaEj+ingeWPjemmiOOAjeaPkOS6pOaIkOWKn++8iOWtl+auteW3suaUueS4uiBgcXVlc3Rpb25g77yJCi0gWyBdIOeuoeeQhumhtSBgaW5zaWdodHNgIOato+W4uOa4suafk++8mueZvumXruWIhuexu+i/m+W6piAvIOacieW4ruWKqeeOhyAvIOWumuaAp+WOn+WboO+8iGFkbWluLmpzIOW3suihpSBgY2F0ZWdvcnlCcmVha2Rvd25gL2BmZWVkYmFja2AvYHF1YWxpdHlgIOe7keWumu+8iQotIFsgXSDpobbmoI/jgIzmlrDlr7nor53jgI3lvIDnqbrnmb3kvJror53vvIzml6fkvJror53kv53nlZnlnKjliJfooajvvIzliKDpmaTkvJror53ku47liJfooajnp7vpmaQKCiMjIEYuIOWGu+e7k+e6quW+i++8iOeZvumXrumqjOivgeacn++8jHYwLjkueO+8iQoKLSBbIF0gKirlhrvnu5PmnJ/lj6rmlLbmlbDmja7jgIHkuI3loIblip/og70qKu+8m+S7heWFgeiuuOS/rumYu+aWreaApyBidWcKLSBbIF0g5LiN5b6X5pS577ya5Zue562U57uT5p6EIC8g5qCH562+5L2T57O7IC8gZmVlZGJhY2sg5paH5qGIIC8gcHJvbXB0IOavlOS+i++8iOS/nSAxMDAg6Zeu5qiq5ZCR5Y+v5q+U77yJCi0gWyBdIGByYWcuanNgIOS4juWbnuetlOaooeadv+S4jeWcqOW+ruiwg+iMg+WbtAotIFsgXSBQaGFzZSBHIOW8gOWQr+mXqOanm++8iCoq5YWo5ruh6LazKirmiY3lkK/liqjvvIzkuI3mjInml7bpl7TvvInvvJoKICAtIDEwMCDnnJ/lrp7pl67popgKICAtIDUwIOacieaViOWPjemmiAogIC0gMjAg5Liq5piO56Gu5aSx6LSl5qGI5L6LCiAgLSAxMCDkuKrpq5jku7flgLznlKjmiLfpl67ms5UKCiMjIEcuIOW3suefpemBl+eVme+8iOmdnumYu+aWre+8jOi3n+i4queUqO+8iQoKLSBbIF0gKipQMiDpmpDnp4HmlL/nrZYqKu+8muaJv+ivuuOAjOa4heepuuWFqOmDqOWvueivneOAjeS9huaXoOWFpeWPoyDihpIg5b6F5Yqg44CM5riF56m65YWo6YOo5a+56K+d44CN5oyJ6ZKu77yI5YigIGBjb252ZXJzYXRpb25zYCArIOS6jOasoeehruiupO+8ieaIluaUueaWh+ahiOS4uuOAjOWPr+WIoOmZpOW3suacieWvueivneOAjQotIFsgXSAqKuacquWfi+eCueaMh+aghyoq77yIUGhhc2UgRyDooaXvvInvvJrkuozmrKHov73pl67njofjgIHlvJXnlKjlsZXlvIDnjofjgIHnlKjmiLfor63oqIDlj5jljJbvvIjlrprmgKfor7vml7bpl7Tluo/vvIkKLSBbIF0gKirnvZHpobXniYjlt7LlvZLmoaMqKu+8muWOnyBgYXBwL2AgYGNvbXBvbmVudHMvYCBgbGliL2AgYGRhdGEvYCDnrYnlt7Lnp7voh7MgYGFyY2hpdmUvbWFveHVhbi1hc3Npc3RhbnQtbGVnYWN5L2DvvIzkuI7jgIzpl67pgZPjgI3kuLvnur/pmpTnprvvvIzkuI3lho3lubblhaXjgIHkuI3lho3nu7TmiqQKLSBbIF0g5qC555uu5b2V6YGX55WZ77yI5LiN5b2x5ZON5bCP56iL5bqP77yJ77yaYG5vZGVfbW9kdWxlcy9g44CBYC5uZXh0L2DjgIFgb3V0cHV0L2DvvIjnvZHpobXniYjmnoTlu7rkuqfnianvvIzlj6/ph43oo4XvvInjgIFgX2RlcGxveV8qLnppcGDvvIjkupHlh73mlbDpg6jnvbLljIXvvInjgIHmoLkgYHNjcmlwdHMvYO+8iOe9kemhteeJiOivreaWmeWvvOWFpeiEmuacrO+8iQo=
+﻿# KB / 上线前检查清单（KB_ENABLE_CHECKLIST.md）
+
+> 目的：在「问道」小程序每次部署 / 内测前逐项勾选，避免再漏掉云函数、集合或合法域名。
+> 维护人：开发侧。更新时机：部署流程有变化或新增集合时。
+
+---
+
+## A. 云函数部署（顺序重要，每个都要右键→上传并部署·云端装依赖）
+
+- [ ] `login` —— 提供 openid，是历史 / 会话功能的前置
+- [ ] `history` —— 多会话读写（依赖 `conversations` 集合）
+- [ ] `chat` —— 主对话 + 写 `question_logs`（含 `conversationId`）
+- [ ] `admin` —— 模型配置 CRUD + `insights` 聚合（百问看板数据源）
+- [ ] `feedback` —— 写 `answer_feedback` / `answer_quality_log`
+
+> 漏传任何一个都会静默失效：`login`/`history` 没传 → 历史永不见；`chat`/`admin`/`feedback` 没传 → 对应能力回退或为空。
+
+## B. 云数据库集合（云控制台手动建，权限默认即可）
+
+**MVP 必需：**
+- [ ] `question_logs`
+- [ ] `answer_feedback`
+- [ ] `answer_quality_log`
+- [ ] `conversations`
+- [ ] `model_config`
+
+**KB 模式（暂不启用，启用向量/全文召回时才建）：**
+- [ ] `documents`
+- [ ] `chunks`
+
+> 云数据库不会自动建表。首次写入不存在的集合会报 `DATABASE_COLLECTION_NOT_EXIST`，需先手动建。
+
+## C. 运行环境硬约束（已纠正，务必遵守）
+
+- [ ] `chat` 云函数运行时 = **Nodejs16.13（锁定，无法升级）**
+- [ ] 所有云函数代码兼容 Node 16，**禁止原生 `fetch`**，必须走 `rag.js` 内置 `nodeFetch`
+- [ ] `chat/config.json` 里的 `runtime:Nodejs18.15` 不生效（环境仍是 16），仅为旧声明；代码已用 `nodeFetch` 兼容 16
+
+> ⚠️ 之前文档写的「确认 chat 运行时 Node 18+」是**错误指令，已作废**。不要再据此去调一个改不了的设置。
+
+## D. 微信公众平台合法域名（真机 / 正式版必需）
+
+- [ ] request 合法域名加入 `api.hcnsec.cn`
+
+> 开发者工具勾选「不校验合法域名」可临时绕过；但**正式版小程序会被微信网关静默拦截**（表现为一直回退本地回答），所以上线前必须加。
+
+## E. 部署后真机验证清单
+
+- [ ] 进聊天页自动建第一个会话（顶栏「会话」可见历史列表）
+- [ ] 发消息正常返回（不再出现「点不了发送」）
+- [ ] 关于页「意见反馈」提交成功（字段已改为 `question`）
+- [ ] 管理页 `insights` 正常渲染：百问分类进度 / 有帮助率 / 定性原因（admin.js 已补 `categoryBreakdown`/`feedback`/`quality` 绑定）
+- [ ] 顶栏「新对话」开空白会话，旧会话保留在列表，删除会话从列表移除
+
+## F. 冻结纪律（百问验证期，v0.9.x）
+
+- [ ] **冻结期只收数据、不堆功能**；仅允许修阻断性 bug
+- [ ] 不得改：回答结构 / 标签体系 / feedback 文案 / prompt 比例（保 100 问横向可比）
+- [ ] `rag.js` 与回答模板不在微调范围
+- [ ] Phase G 开启门槛（**全满足**才启动，不按时间）：
+  - 100 真实问题
+  - 50 有效反馈
+  - 20 个明确失败案例
+  - 10 个高价值用户问法
+
+## G. 已知遗留（非阻断，跟踪用）
+
+- [ ] **P2 隐私政策**：承诺「清空全部对话」但无入口 → 待加「清空全部对话」按钮（删 `conversations` + 二次确认）或改文案为「可删除已有对话」
+- [ ] **未埋点指标**（Phase G 补）：二次追问率、引用展开率、用户语言变化（定性读时间序）
+- [ ] **网页版已归档**：原 `app/` `components/` `lib/` `data/` 等已移至 `archive/maoxuan-assistant-legacy/`，与「问道」主线隔离，不再并入、不再维护
+- [ ] 根目录遗留（不影响小程序）：`node_modules/`、`.next/`、`output/`（网页版构建产物，可重装）、`_deploy_*.zip`（云函数部署包）、根 `scripts/`（网页版语料导入脚本）

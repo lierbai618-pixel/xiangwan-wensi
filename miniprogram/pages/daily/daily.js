@@ -1,1 +1,78 @@
-Ly8g5ZCR5pma6Zeu5oCdIMK3IOavj+aXpeS4gOaAnemhtQovLyDlpI3nlKggZGF0YS9kYWlseVRob3VnaHRzLmpz77yb5oyJ5pel5pyf56Gu5a6a5oCn5oq95LiA5byg77yM5Y+v44CM5o2i5LiA5byg44CN5Zyo6ZuG5ZCI5YaF6L2u5pu/44CCCmNvbnN0IHsgZGFpbHlUaG91Z2h0cyB9ID0gcmVxdWlyZSgiLi4vLi4vZGF0YS9kYWlseVRob3VnaHRzLmpzIik7CgovLyDmjInml6XmnJ/noa7lrprmgKfpgInlj5bntKLlvJXvvJrlkIzlubTlkIzml6XnqLPlrprvvIzot6jml6Xlj5jljJbjgIIKZnVuY3Rpb24gZGF5SW5kZXgoZGF0ZSkgewogIGNvbnN0IHN0YXJ0ID0gbmV3IERhdGUoZGF0ZS5nZXRGdWxsWWVhcigpLCAwLCAwKTsKICBjb25zdCBkaWZmID0gZGF0ZSAtIHN0YXJ0OwogIGNvbnN0IG9uZURheSA9IDI0ICogNjAgKiA2MCAqIDEwMDA7CiAgcmV0dXJuIE1hdGguZmxvb3IoZGlmZiAvIG9uZURheSk7IC8vIOW9k+W5tOeahOesrOWHoOWkqQp9CgpmdW5jdGlvbiB0b2RheUxhYmVsKGQpIHsKICBjb25zdCB3ZCA9IFsi5pelIiwgIuS4gCIsICLkuowiLCAi5LiJIiwgIuWbmyIsICLkupQiLCAi5YWtIl1bZC5nZXREYXkoKV07CiAgcmV0dXJuIGQuZ2V0RnVsbFllYXIoKSArICLlubQiICsgKGQuZ2V0TW9udGgoKSArIDEpICsgIuaciCIgKyBkLmdldERhdGUoKSArICLml6Ugwrcg5ZGoIiArIHdkOwp9CgpQYWdlKHsKICBkYXRhOiB7CiAgICBjYXJkOiBudWxsLAogICAgZGF0ZUxhYmVsOiAiIiwKICAgIHRvdGFsOiBkYWlseVRob3VnaHRzLmxlbmd0aCwKICAgIGlkeDogMCwKICAgIG9mZnNldDogMCwgLy8g44CM5o2i5LiA5byg44CN5bim5p2l55qE5Li05pe25YGP56e7CiAgfSwKCiAgb25Mb2FkKCkgewogICAgdGhpcy5yZWZyZXNoKGZhbHNlKTsKICB9LAoKICByZWZyZXNoKGluY3IpIHsKICAgIGNvbnN0IG5vdyA9IG5ldyBEYXRlKCk7CiAgICBjb25zdCBiYXNlID0gZGF5SW5kZXgobm93KSAlIHRoaXMuZGF0YS50b3RhbDsKICAgIGNvbnN0IG9mZnNldCA9IGluY3IgPyAodGhpcy5kYXRhLm9mZnNldCArIDEpICUgdGhpcy5kYXRhLnRvdGFsIDogMDsKICAgIGNvbnN0IGlkeCA9IChiYXNlICsgb2Zmc2V0KSAlIHRoaXMuZGF0YS50b3RhbDsKICAgIHRoaXMuc2V0RGF0YSh7CiAgICAgIGNhcmQ6IGRhaWx5VGhvdWdodHNbaWR4XSwKICAgICAgZGF0ZUxhYmVsOiB0b2RheUxhYmVsKG5vdyksCiAgICAgIGlkeDogaWR4LAogICAgICBvZmZzZXQ6IG9mZnNldCwKICAgIH0pOwogIH0sCgogIGNoYW5nZUNhcmQoKSB7CiAgICB0aGlzLnJlZnJlc2godHJ1ZSk7CiAgfSwKCiAgY29weVF1b3RlKCkgewogICAgY29uc3QgYyA9IHRoaXMuZGF0YS5jYXJkOwogICAgaWYgKCFjKSByZXR1cm47CiAgICBjb25zdCB0ZXh0ID0gIuOAjCIgKyBjLnF1b3RlICsgIuOAjeKAlOKAlCIgKyBjLnNvdXJjZS50aXRsZSArICLCtyIgKyBjLnNvdXJjZS5jaGFwdGVyOwogICAgd3guc2hvd01vZGFsKHsKICAgICAgdGl0bGU6ICLku4rml6XkuIDmgJ0iLAogICAgICBjb250ZW50OiB0ZXh0LAogICAgICBzaG93Q2FuY2VsOiB0cnVlLAogICAgICBjb25maXJtVGV4dDogIuefpemBk+S6hiIsCiAgICAgIGNhbmNlbFRleHQ6ICLplb/mjInlpI3liLYiLAogICAgICBzdWNjZXNzOiAoKSA9PiB7fSwKICAgIH0pOwogIH0sCgogIGdvQ2hhdCgpIHsKICAgIC8vIOaKiuS7iuaXpemXrumimOS4juWOn+aWh+W4puWFpeWvueivne+8jOm8k+WKseWxleW8gAogICAgY29uc3QgYyA9IHRoaXMuZGF0YS5jYXJkOwogICAgaWYgKGMpIHsKICAgICAgd3guc2V0U3RvcmFnZVN5bmMoInBlbmRpbmdRdWVzdGlvbiIsIGMucXVlc3Rpb24gKyAiXG7vvIjku4rml6XkuIDmgJ3vvJrjgIwiICsgYy5xdW90ZSArICLjgI3igJTigJQiICsgYy5zb3VyY2UudGl0bGUgKyAi77yJIik7CiAgICB9CiAgICB3eC5zd2l0Y2hUYWIoeyB1cmw6ICIvcGFnZXMvY2hhdC9jaGF0IiB9KTsKICB9LAoKICBvblNoYXJlQXBwTWVzc2FnZSgpIHsKICAgIGNvbnN0IGMgPSB0aGlzLmRhdGEuY2FyZCB8fCB7fTsKICAgIHJldHVybiB7CiAgICAgIHRpdGxlOiAi5ZCR5pma5LiA5oCd77yaIiArIChjLnRoZW1lIHx8ICLnu4/lhbjmgJ3ovqgiKSArICLvvZwiICsgKGMucXVvdGUgfHwgIiIpLnNsaWNlKDAsIDIwKSArICLigKYiLAogICAgICBwYXRoOiAiL3BhZ2VzL2RhaWx5L2RhaWx5IiwKICAgIH07CiAgfSwKfSk7Cg==
+// 向晚问思 · 每日一思页
+// 复用 data/dailyThoughts.js；按日期确定性抽一张，可「换一张」在集合内轮替。
+const { dailyThoughts } = require("../../data/dailyThoughts.js");
+
+// 按日期确定性选取索引：同年同日稳定，跨日变化。
+function dayIndex(date) {
+  const start = new Date(date.getFullYear(), 0, 0);
+  const diff = date - start;
+  const oneDay = 24 * 60 * 60 * 1000;
+  return Math.floor(diff / oneDay); // 当年的第几天
+}
+
+function todayLabel(d) {
+  const wd = ["日", "一", "二", "三", "四", "五", "六"][d.getDay()];
+  return d.getFullYear() + "年" + (d.getMonth() + 1) + "月" + d.getDate() + "日 · 周" + wd;
+}
+
+Page({
+  data: {
+    card: null,
+    dateLabel: "",
+    total: dailyThoughts.length,
+    idx: 0,
+    offset: 0, // 「换一张」带来的临时偏移
+  },
+
+  onLoad() {
+    this.refresh(false);
+  },
+
+  refresh(incr) {
+    const now = new Date();
+    const base = dayIndex(now) % this.data.total;
+    const offset = incr ? (this.data.offset + 1) % this.data.total : 0;
+    const idx = (base + offset) % this.data.total;
+    this.setData({
+      card: dailyThoughts[idx],
+      dateLabel: todayLabel(now),
+      idx: idx,
+      offset: offset,
+    });
+  },
+
+  changeCard() {
+    this.refresh(true);
+  },
+
+  copyQuote() {
+    const c = this.data.card;
+    if (!c) return;
+    const text = "「" + c.quote + "」——" + c.source.title + "·" + c.source.chapter;
+    wx.showModal({
+      title: "今日一思",
+      content: text,
+      showCancel: true,
+      confirmText: "知道了",
+      cancelText: "长按复制",
+      success: () => {},
+    });
+  },
+
+  goChat() {
+    // 把今日问题与原文带入对话，鼓励展开
+    const c = this.data.card;
+    if (c) {
+      wx.setStorageSync("pendingQuestion", c.question + "\n（今日一思：「" + c.quote + "」——" + c.source.title + "）");
+    }
+    wx.switchTab({ url: "/pages/chat/chat" });
+  },
+
+  onShareAppMessage() {
+    const c = this.data.card || {};
+    return {
+      title: "向晚一思：" + (c.theme || "经典思辨") + "｜" + (c.quote || "").slice(0, 20) + "…",
+      path: "/pages/daily/daily",
+    };
+  },
+});

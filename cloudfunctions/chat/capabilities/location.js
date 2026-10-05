@@ -1,1 +1,75 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIENhcGFiaWxpdHkgTGF5ZXIg4oCUIGxvY2F0aW9uLmpz77yI5L2N572u6IO95Yqb77yJCi8vICAgUGhhc2UgUu+8muS9jee9ruafpeivouOAggovLwovLyAgIOaetuaehOS6i+Wunu+8muS6keWHveaVsOacrOi6q+ayoeacieeUqOaIt+S9jee9ruOAguS9jee9ruWPquiDveeUseWwj+eoi+W6j+WJjeerrwovLyAgIOWcqOeUqOaIt+aOiOadg+WQjumAmui/hyB3eC5nZXRMb2NhdGlvbiDkuIrmiqXvvIznu48gZXZlbnQubG9jYXRpb24g5Lyg5YWl44CCCi8vICAg5Zug5q2k5pys5qih5Z2X55qE5q2j56Gu6KGM5Li65piv77yaCi8vICAgICDCtyDliY3nq6/lt7LkvKDlhaXkvY3nva4g4oaSIOebtOaOpeWkjei/sOS6i+WunuOAggovLyAgICAgwrcg5pyq5Lyg5YWlIOKGkiDor7TmmI7ov5nmmK/jgIzpnIDopoHkvaDmjojmnYPjgI3ogIzpnZ7jgIzmiJHkuI3nn6XpgZPjgI3vvIznu5nlh7rot6/lvoTjgIIKLy8KLy8gICDpk4HlvovvvJoKLy8gICAgIMK3IOe7neS4jee8lumAoOS9jee9ruOAguS9jee9rumUmeivr+WPr+iDvemAoOaIkOecn+WunueahOWHuuihjOaNn+WkseOAggovLyAgICAgwrcg57ud5LiN5pOF6Ieq5o6o5pat77yISVAg5b2S5bGe5Zyw5LiN562J5LqO55So5oi35L2N572u77yM5LiN5YGa5q2k57G754yc5rWL77yJ44CCCi8vICAgICDCtyDpmpDnp4HkvJjlhYjvvJrkvY3nva7lsZ7mlY/mhJ/kv6Hmga/vvIzkuI3lhpnlhaXku7vkvZXml6Xlv5fmmI7mloflrZfmrrXjgIIKLy8KLy8gICDmnKzmqKHlnZfkuI3ov5vlhaXnn6Xor4blupPjgIHkuI3ov5vlhaUgZW1iZWRkaW5n44CB5LiN5b2x5ZONIFJBR+OAggovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KJ3VzZSBzdHJpY3QnOwoKLyoqCiAqIHJlc29sdmUoeyBxdWVyeSwgc3ViVHlwZSwgbG9jYXRpb24gfSkKICogICBsb2NhdGlvbjog5YmN56uv5LiK5oql55qEIHsgbGF0aXR1ZGUsIGxvbmdpdHVkZSwgYWRkcmVzcz8sIGNpdHk/IH0KICovCmZ1bmN0aW9uIHJlc29sdmUoaW5wdXQpIHsKICBpbnB1dCA9IGlucHV0IHx8IHt9OwogIHZhciBzdWIgPSBpbnB1dC5zdWJUeXBlIHx8ICdzZWxmJzsKICB2YXIgbG9jID0gaW5wdXQubG9jYXRpb24gfHwgbnVsbDsKCiAgdmFyIGhhc0xvYyA9ICEhKGxvYyAmJiAobG9jLmFkZHJlc3MgfHwgbG9jLmNpdHkgfHwKICAgICh0eXBlb2YgbG9jLmxhdGl0dWRlID09PSAnbnVtYmVyJyAmJiB0eXBlb2YgbG9jLmxvbmdpdHVkZSA9PT0gJ251bWJlcicpKSk7CgogIGlmICghaGFzTG9jKSB7CiAgICB2YXIgdGV4dCA9IHN1YiA9PT0gJ25lYXJieScKICAgICAgPyAn6KaB5om+6ZmE6L+R55qE5Zyw5pa577yM5b6X5YWI55+l6YGT5L2g5Zyo5ZOq4oCU4oCU6ICM5oiR6L+Z6YeM5ou/5LiN5Yiw5L2g55qE5L2N572u77yM6Zmk6Z2e5L2g5Zyo5bCP56iL5bqP6YeM5Li75Yqo5o6I5p2D5a6a5L2N44CCJyArCiAgICAgICAgJ+i/meS4jeaYr+aIkSLkuI3nn6XpgZMi77yM5piv6L+Z57G75L+h5oGv5oyJ6K6+6K6h5bCx5LiN6K+l6KKr5oiR6buY6K6k5ou/5Yiw44CCJyArCiAgICAgICAgJ+WmguaenOWPquaYr+aDs+aJvuS4quWcsOaWue+8jOWcsOWbvuW6lOeUqOS8muavlOaIkeWHhuW+l+WkmuOAgicKICAgICAgOiAn5L2g55qE5L2N572u5oiR6L+Z6L655ou/5LiN5Yiw4oCU4oCU5bCP56iL5bqP5rKh5pyJ6I635b6X5a6a5L2N5o6I5p2D5pe277yM5LqR56uv5piv55yL5LiN5Yiw5L2g5Zyo5ZOq55qE77yMJyArCiAgICAgICAgJ+aIkeS5n+S4jeS8mumdoCBJUCDkuYvnsbvnmoTkuJzopb/ljrvnjJzkuIDkuKrlnLDlkI3nu5nkvaDvvIznjJzplJnkuoblj43ogIzor6/kuovjgIInICsKICAgICAgICAn5aaC5p6c5L2g6ZyA6KaB77yM5Y+v5Lul5Zyo5bCP56iL5bqP6YeM5byA5ZCv5a6a5L2N5o6I5p2D77yb5oiW6ICF55u05o6l5ZGK6K+J5oiR5L2g5Zyo5ZOq5Liq5Z+O5biC77yM5oiR5Lus5o6l552A6IGK44CCJzsKICAgIHJldHVybiB7CiAgICAgIG9rOiBmYWxzZSwKICAgICAgY2FwYWJpbGl0eTogJ2xvY2F0aW9uX3F1ZXJ5JywKICAgICAgc3ViVHlwZTogc3ViLAogICAgICByZWFzb246ICdub19hdXRob3JpemF0aW9uJywKICAgICAgZmFjdDogdGV4dCwKICAgICAgZGF0YTogeyBhdXRob3JpemVkOiBmYWxzZSB9LAogICAgfTsKICB9CgogIHZhciB3aGVyZSA9IGxvYy5hZGRyZXNzIHx8IGxvYy5jaXR5IHx8ICcnOwogIHZhciBmYWN0OwogIGlmICh3aGVyZSkgewogICAgZmFjdCA9ICfmjInkvaDmjojmnYPnmoTlrprkvY3vvIzkvaDnjrDlnKjlnKjvvJonICsgd2hlcmUgKyAn44CCJzsKICB9IGVsc2UgewogICAgZmFjdCA9ICfmjInkvaDmjojmnYPnmoTlrprkvY3vvIzkvaDnjrDlnKjnmoTlnZDmoIfmmK8gJyArCiAgICAgIE51bWJlcihsb2MubGF0aXR1ZGUpLnRvRml4ZWQoNCkgKyAnLCAnICsgTnVtYmVyKGxvYy5sb25naXR1ZGUpLnRvRml4ZWQoNCkgKwogICAgICAn77yI5oiR6L+Z6YeM5rKh5pyJ5Zyw5ZCN6Kej5p6Q5pyN5Yqh77yM5Y+q6IO957uZ5Yiw5Z2Q5qCH77yJ44CCJzsKICB9CgogIGlmIChzdWIgPT09ICduZWFyYnknKSB7CiAgICBmYWN0ICs9ICcg6Iez5LqO6ZmE6L+R5pyJ5LuA5LmI77yM5oiR6L+Z6YeM5rKh5pyJ5o6l5YWl5Zyw5Zu+5qOA57Si6IO95Yqb77yM5Zyw5Zu+5bqU55So5Lya5pu06Z2g6LCx44CCJzsKICB9CgogIHJldHVybiB7CiAgICBvazogc3ViICE9PSAnbmVhcmJ5JywKICAgIGNhcGFiaWxpdHk6ICdsb2NhdGlvbl9xdWVyeScsCiAgICBzdWJUeXBlOiBzdWIsCiAgICByZWFzb246IHN1YiA9PT0gJ25lYXJieScgPyAnbm9fcG9pX3Byb3ZpZGVyJyA6ICcnLAogICAgZmFjdDogZmFjdCwKICAgIC8vIOmakOenge+8muS4jeWbnuS8oOWOn+Wni+WdkOagh+WIsOingua1i+Wxgu+8jOWPquagh+iusOaOiOadg+eKtuaAgQogICAgZGF0YTogeyBhdXRob3JpemVkOiB0cnVlIH0sCiAgfTsKfQoKbW9kdWxlLmV4cG9ydHMgPSB7IHJlc29sdmU6IHJlc29sdmUgfTsK
+// ============================================================
+// Capability Layer — location.js（位置能力）
+//   Phase R：位置查询。
+//
+//   架构事实：云函数本身没有用户位置。位置只能由小程序前端
+//   在用户授权后通过 wx.getLocation 上报，经 event.location 传入。
+//   因此本模块的正确行为是：
+//     · 前端已传入位置 → 直接复述事实。
+//     · 未传入 → 说明这是「需要你授权」而非「我不知道」，给出路径。
+//
+//   铁律：
+//     · 绝不编造位置。位置错误可能造成真实的出行损失。
+//     · 绝不擅自推断（IP 归属地不等于用户位置，不做此类猜测）。
+//     · 隐私优先：位置属敏感信息，不写入任何日志明文字段。
+//
+//   本模块不进入知识库、不进入 embedding、不影响 RAG。
+// ============================================================
+'use strict';
+
+/**
+ * resolve({ query, subType, location })
+ *   location: 前端上报的 { latitude, longitude, address?, city? }
+ */
+function resolve(input) {
+  input = input || {};
+  var sub = input.subType || 'self';
+  var loc = input.location || null;
+
+  var hasLoc = !!(loc && (loc.address || loc.city ||
+    (typeof loc.latitude === 'number' && typeof loc.longitude === 'number')));
+
+  if (!hasLoc) {
+    var text = sub === 'nearby'
+      ? '要找附近的地方，得先知道你在哪——而我这里拿不到你的位置，除非你在小程序里主动授权定位。' +
+        '这不是我"不知道"，是这类信息按设计就不该被我默认拿到。' +
+        '如果只是想找个地方，地图应用会比我准得多。'
+      : '你的位置我这边拿不到——小程序没有获得定位授权时，云端是看不到你在哪的，' +
+        '我也不会靠 IP 之类的东西去猜一个地名给你，猜错了反而误事。' +
+        '如果你需要，可以在小程序里开启定位授权；或者直接告诉我你在哪个城市，我们接着聊。';
+    return {
+      ok: false,
+      capability: 'location_query',
+      subType: sub,
+      reason: 'no_authorization',
+      fact: text,
+      data: { authorized: false },
+    };
+  }
+
+  var where = loc.address || loc.city || '';
+  var fact;
+  if (where) {
+    fact = '按你授权的定位，你现在在：' + where + '。';
+  } else {
+    fact = '按你授权的定位，你现在的坐标是 ' +
+      Number(loc.latitude).toFixed(4) + ', ' + Number(loc.longitude).toFixed(4) +
+      '（我这里没有地名解析服务，只能给到坐标）。';
+  }
+
+  if (sub === 'nearby') {
+    fact += ' 至于附近有什么，我这里没有接入地图检索能力，地图应用会更靠谱。';
+  }
+
+  return {
+    ok: sub !== 'nearby',
+    capability: 'location_query',
+    subType: sub,
+    reason: sub === 'nearby' ? 'no_poi_provider' : '',
+    fact: fact,
+    // 隐私：不回传原始坐标到观测层，只标记授权状态
+    data: { authorized: true },
+  };
+}
+
+module.exports = { resolve: resolve };

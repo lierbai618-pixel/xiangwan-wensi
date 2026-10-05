@@ -1,1 +1,180 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIGtub3dsZWRnZUhlYWx0aFNjb3JlIOKAlCDnn6Xor4blr7nosaHlgaXlurfliIbvvIhQaGFzZSBQKyAvIFBoYXNlIFAgwqc077yJCi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQovLyDlrp7njrAgZG9jcy82NiDCpzQg5a6a5LmJ55qE5LiD57u05YGl5bq35YiG5qih5Z6L77yaCi8vICAgTWV0YWRhdGEgMTUlIHwgQ2l0YXRpb24gMjAlIHwgRXZpZGVuY2UgMTAlIHwgUmV0cmlldmFsIDIwJQovLyAgIEZlZWRiYWNrIDE1JSB8IFVzYWdlIDEwJSB8IFJlZ3Jlc3Npb24gMTAlCi8vCi8vIOaguOW/g+e6puadn++8iOadpeiHqueUqOaItyArIGRvY3MvNjbvvInvvJoKLy8gICDCtyDnvLrlpLHnu7TluqbvvIhGZWVkYmFjayAvIFVzYWdl77yJ5b+F6aG75pi+56S6IE4vQe+8jCoq5LiN6IO95Lyq6YCgKirjgIIKLy8gICDCtyDnvLrlpLHnu7TluqbpgJrov4fjgIzmnYPph43ph43lvZLkuIDljJbjgI3lpITnkIbvvJpzY29yZSA9IM6jKOWPr+eUqOadg+mHjcOX57u05bqm5YiGKSAvIM6j5Y+v55So5p2D6YeN44CCCi8vICAgwrcg5Y+q6K+75pei5pyJ5oyH5qCH77yM5LiN6YeN566X5qOA57Si6YC76L6R44CCCi8vCi8vIOeUqOazle+8mgovLyAgIGNvbnN0IHsgY29tcHV0ZUhlYWx0aFNjb3JlLCBhZ2dyZWdhdGVIZWFsdGhTY29yZSB9ID0gcmVxdWlyZSgnLi9rbm93bGVkZ2VIZWFsdGhTY29yZScpOwovLyAgIGNvbXB1dGVIZWFsdGhTY29yZShyZWNvcmQsIGN0eCkgLT4geyBzY29yZSwgZGltZW5zaW9ucywgbmFEaW1lbnNpb25zIH0KLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CgondXNlIHN0cmljdCc7CgovLyAxOSDlrZfmrrXlpZHnuqbvvIhkb2NzLzYyIMKnNO+8ie+8jOeUqOS6jiBNZXRhZGF0YSDnu7TluqblrozmlbTmgKfor4TkvLAKY29uc3QgTUVUQURBVEFfQ09OVFJBQ1RfRklFTERTID0gWwogICdrbm93bGVkZ2VfaWQnLCAna25vd2xlZGdlX3R5cGUnLCAnZG9tYWluJywgJ3N1YmNhdGVnb3J5JywgJ2F1dGhvcml0eScsCiAgJ2V2aWRlbmNlX2xldmVsJywgJ2NpdGF0aW9uX3R5cGUnLCAnc291cmNlX3R5cGUnLCAndmVyc2lvbicsICdzdGF0dXMnLAogICdwcmlvcml0eScsICdxdWFsaXR5X3Njb3JlJywgJ2NvcHlyaWdodCcsICdjcmVhdGVkX2F0JywgJ3VwZGF0ZWRfYXQnLAogICdyZXZpZXdfc3RhdHVzJywgJ3Jldmlld2VyJywgJ2VtYmVkZGluZ192ZXJzaW9uJywgJ3JldHJpZXZhbF9wb2xpY3knLApdOwoKLy8g5p2D6YeN77yI5LiOIGRvY3MvNjYgwqc0IOS4gOiHtO+8iQpjb25zdCBXRUlHSFRTID0gewogIG1ldGFkYXRhOiAxNSwKICBjaXRhdGlvbjogMjAsCiAgZXZpZGVuY2U6IDEwLAogIHJldHJpZXZhbDogMjAsCiAgZmVlZGJhY2s6IDE1LAogIHVzYWdlOiAxMCwKICByZWdyZXNzaW9uOiAxMCwKfTsKCi8qKiDnu5/orqEgcmVjb3JkLm1ldGFkYXRhIOS4reWRveS4reWlkee6puWtl+auteeahOavlOS+i++8iDAuLjHvvIkgKi8KZnVuY3Rpb24gbWV0YWRhdGFDb21wbGV0ZW5lc3MobWV0YWRhdGEpIHsKICBpZiAoIW1ldGFkYXRhIHx8IHR5cGVvZiBtZXRhZGF0YSAhPT0gJ29iamVjdCcpIHJldHVybiBudWxsOyAvLyBOL0EKICBsZXQgcHJlc2VudCA9IDA7CiAgTUVUQURBVEFfQ09OVFJBQ1RfRklFTERTLmZvckVhY2goKGYpID0+IHsKICAgIGlmIChtZXRhZGF0YVtmXSAhPT0gdW5kZWZpbmVkICYmIG1ldGFkYXRhW2ZdICE9PSAnJykgcHJlc2VudCArPSAxOwogIH0pOwogIHJldHVybiBwcmVzZW50IC8gTUVUQURBVEFfQ09OVFJBQ1RfRklFTERTLmxlbmd0aDsKfQoKLyoqIOivgeaNruW8uuW6piDihpIgMC4uMe+8iGNsYXNzaWMg57uP5YW45paH5pys6KeG5Li65pyA6auY77yJICovCmZ1bmN0aW9uIGV2aWRlbmNlU2NvcmUocmVjb3JkKSB7CiAgY29uc3QgbWQgPSByZWNvcmQubWV0YWRhdGEgfHwge307CiAgY29uc3QgbHZsID0gbWQuZXZpZGVuY2VfbGV2ZWw7CiAgaWYgKGx2bCA9PT0gJ3ByaW1hcnknKSByZXR1cm4gMS4wOwogIGlmIChsdmwgPT09ICdzdXBwb3J0aW5nJykgcmV0dXJuIDAuODsKICBpZiAobHZsID09PSAnaWxsdXN0cmF0aXZlJykgcmV0dXJuIDAuNjsKICAvLyDnu4/lhbjvvIhjb3JwdXMgLyBjbGFzc2ljIOexu+Wei++8ieinhuS4uuadg+Wogee7j+WFuOaWh+acrAogIGlmIChyZWNvcmQuc291cmNlID09PSAnY29ycHVzJyB8fCByZWNvcmQua25vd2xlZGdlX3R5cGUgPT09ICdjbGFzc2ljJykgcmV0dXJuIDEuMDsKICByZXR1cm4gMC43Owp9CgovKiog5byV55So5YeG56Gu546HIOKGkiAwLi4x77yIY2xhc3NpYyDmgZLooqvlvJXnlKjvvJvmpoLlv7XljaHmnIkgY2l0YXRpb25fdHlwZSDljbPop4bkuLrlt7Lop4TojIPlvJXnlKjvvIkgKi8KZnVuY3Rpb24gY2l0YXRpb25TY29yZShyZWNvcmQpIHsKICBpZiAocmVjb3JkLmNpdGF0aW9uX3Bhc3MgIT09IHVuZGVmaW5lZCkgcmV0dXJuIHJlY29yZC5jaXRhdGlvbl9wYXNzID8gMS4wIDogMC4wOwogIGlmIChyZWNvcmQuc291cmNlID09PSAnY29ycHVzJykgcmV0dXJuIDEuMDsgLy8g57uP5YW45paH5pys5b+F54S25byV55SoCiAgY29uc3QgbWQgPSByZWNvcmQubWV0YWRhdGEgfHwge307CiAgaWYgKG1kLmNpdGF0aW9uX3R5cGUpIHJldHVybiAxLjA7IC8vIOWFt+Wkh+W8leeUqOe7k+aehAogIHJldHVybiBudWxsOyAvLyBOL0EKfQoKLyoqCiAqIOiuoeeul+WNleS4quefpeivhuWvueixoeWBpeW6t+WIhuOAggogKiBAcGFyYW0ge29iamVjdH0gcmVjb3JkIHsga25vd2xlZGdlX2lkLCBrbm93bGVkZ2VfdHlwZSwgc3RhdHVzLCBzb3VyY2UsCiAqICAgICAgICAgICAgICAgICAgICAgICAgICBtZXRhZGF0YT8oMTnlrZfmrrUpLCBjaXRhdGlvbl9wYXNzPywgcXVhbGl0eV9zY29yZSB9CiAqIEBwYXJhbSB7b2JqZWN0fSBjdHggeyByZXRyaWV2YWxIaXQzICgwLi4xLCDlhajlsYDku6PnkIYpLCByZWdyZXNzaW9uQWNjZXB0IChib29sKSwKICogICAgICAgICAgICAgICAgICAgICAgIGZlZWRiYWNrPygwLi4xKSwgdXNhZ2U/KDAuLjEpIH0KICogQHJldHVybnMge3tzY29yZTpudW1iZXIsIGRpbWVuc2lvbnM6b2JqZWN0LCBuYURpbWVuc2lvbnM6c3RyaW5nW119fQogKi8KZnVuY3Rpb24gY29tcHV0ZUhlYWx0aFNjb3JlKHJlY29yZCwgY3R4KSB7CiAgcmVjb3JkID0gcmVjb3JkIHx8IHt9OwogIGN0eCA9IGN0eCB8fCB7fTsKICBjb25zdCBkaW1lbnNpb25zID0ge307CgogIC8vIE1ldGFkYXRhCiAgY29uc3QgbWQgPSBtZXRhZGF0YUNvbXBsZXRlbmVzcyhyZWNvcmQubWV0YWRhdGEpOwogIGlmIChtZCA9PT0gbnVsbCkgewogICAgZGltZW5zaW9ucy5tZXRhZGF0YSA9IHsgdmFsdWU6IG51bGwsIHdlaWdodDogV0VJR0hUUy5tZXRhZGF0YSwgbmE6IHRydWUgfTsKICB9IGVsc2UgewogICAgZGltZW5zaW9ucy5tZXRhZGF0YSA9IHsgdmFsdWU6IG1kLCB3ZWlnaHQ6IFdFSUdIVFMubWV0YWRhdGEsIG5hOiBmYWxzZSB9OwogIH0KCiAgLy8gQ2l0YXRpb24KICBjb25zdCBjaXQgPSBjaXRhdGlvblNjb3JlKHJlY29yZCk7CiAgaWYgKGNpdCA9PT0gbnVsbCkgewogICAgZGltZW5zaW9ucy5jaXRhdGlvbiA9IHsgdmFsdWU6IG51bGwsIHdlaWdodDogV0VJR0hUUy5jaXRhdGlvbiwgbmE6IHRydWUgfTsKICB9IGVsc2UgewogICAgZGltZW5zaW9ucy5jaXRhdGlvbiA9IHsgdmFsdWU6IGNpdCwgd2VpZ2h0OiBXRUlHSFRTLmNpdGF0aW9uLCBuYTogZmFsc2UgfTsKICB9CgogIC8vIEV2aWRlbmNlCiAgZGltZW5zaW9ucy5ldmlkZW5jZSA9IHsgdmFsdWU6IGV2aWRlbmNlU2NvcmUocmVjb3JkKSwgd2VpZ2h0OiBXRUlHSFRTLmV2aWRlbmNlLCBuYTogZmFsc2UgfTsKCiAgLy8gUmV0cmlldmFs77yI5YWo5bGAIENsYXNzaWMgSGl0QDMg5Luj55CG77yb5Y2V5a+56LGh5qOA57Si5pyq6L+96Liq5pe26K+a5a6e5L2/55So5YWo5bGA5YC877yJCiAgY29uc3QgcmV0cmlldmFsID0gdHlwZW9mIGN0eC5yZXRyaWV2YWxIaXQzID09PSAnbnVtYmVyJyA/IGN0eC5yZXRyaWV2YWxIaXQzIDogbnVsbDsKICBpZiAocmV0cmlldmFsID09PSBudWxsKSB7CiAgICBkaW1lbnNpb25zLnJldHJpZXZhbCA9IHsgdmFsdWU6IG51bGwsIHdlaWdodDogV0VJR0hUUy5yZXRyaWV2YWwsIG5hOiB0cnVlIH07CiAgfSBlbHNlIHsKICAgIGRpbWVuc2lvbnMucmV0cmlldmFsID0geyB2YWx1ZTogcmV0cmlldmFsLCB3ZWlnaHQ6IFdFSUdIVFMucmV0cmlldmFsLCBuYTogZmFsc2UgfTsKICB9CgogIC8vIEZlZWRiYWNr77yI57y65aSxIOKGkiBOL0HvvIkKICBpZiAodHlwZW9mIGN0eC5mZWVkYmFjayA9PT0gJ251bWJlcicpIHsKICAgIGRpbWVuc2lvbnMuZmVlZGJhY2sgPSB7IHZhbHVlOiBjdHguZmVlZGJhY2ssIHdlaWdodDogV0VJR0hUUy5mZWVkYmFjaywgbmE6IGZhbHNlIH07CiAgfSBlbHNlIHsKICAgIGRpbWVuc2lvbnMuZmVlZGJhY2sgPSB7IHZhbHVlOiBudWxsLCB3ZWlnaHQ6IFdFSUdIVFMuZmVlZGJhY2ssIG5hOiB0cnVlIH07CiAgfQoKICAvLyBVc2FnZe+8iOe8uuWksSDihpIgTi9B77yJCiAgaWYgKHR5cGVvZiBjdHgudXNhZ2UgPT09ICdudW1iZXInKSB7CiAgICBkaW1lbnNpb25zLnVzYWdlID0geyB2YWx1ZTogY3R4LnVzYWdlLCB3ZWlnaHQ6IFdFSUdIVFMudXNhZ2UsIG5hOiBmYWxzZSB9OwogIH0gZWxzZSB7CiAgICBkaW1lbnNpb25zLnVzYWdlID0geyB2YWx1ZTogbnVsbCwgd2VpZ2h0OiBXRUlHSFRTLnVzYWdlLCBuYTogdHJ1ZSB9OwogIH0KCiAgLy8gUmVncmVzc2lvbu+8iOmXqOemgeWFqOmDqOmAmui/hyDihpIgMS4w77yJCiAgY29uc3QgcmVnID0gY3R4LnJlZ3Jlc3Npb25BY2NlcHQgPT09IHRydWUgPyAxLjAgOiBjdHgucmVncmVzc2lvbkFjY2VwdCA9PT0gZmFsc2UgPyAwLjAgOiBudWxsOwogIGlmIChyZWcgPT09IG51bGwpIHsKICAgIGRpbWVuc2lvbnMucmVncmVzc2lvbiA9IHsgdmFsdWU6IG51bGwsIHdlaWdodDogV0VJR0hUUy5yZWdyZXNzaW9uLCBuYTogdHJ1ZSB9OwogIH0gZWxzZSB7CiAgICBkaW1lbnNpb25zLnJlZ3Jlc3Npb24gPSB7IHZhbHVlOiByZWcsIHdlaWdodDogV0VJR0hUUy5yZWdyZXNzaW9uLCBuYTogZmFsc2UgfTsKICB9CgogIC8vIOadg+mHjemHjeW9kuS4gOWMlu+8muS7hee0r+WKoOWPr+eUqOe7tOW6pgogIGxldCB3U3VtID0gMDsKICBsZXQgYWNjID0gMDsKICBjb25zdCBuYURpbWVuc2lvbnMgPSBbXTsKICBPYmplY3Qua2V5cyhkaW1lbnNpb25zKS5mb3JFYWNoKChrKSA9PiB7CiAgICBjb25zdCBkID0gZGltZW5zaW9uc1trXTsKICAgIGlmIChkLm5hKSB7CiAgICAgIG5hRGltZW5zaW9ucy5wdXNoKGspOwogICAgfSBlbHNlIHsKICAgICAgd1N1bSArPSBkLndlaWdodDsKICAgICAgYWNjICs9IGQud2VpZ2h0ICogZC52YWx1ZTsKICAgIH0KICB9KTsKICBjb25zdCBzY29yZSA9IHdTdW0gPiAwID8gYWNjIC8gd1N1bSA6IDA7CgogIHJldHVybiB7IHNjb3JlOiBNYXRoLnJvdW5kKHNjb3JlICogMTAwMCkgLyAxMDAwLCBkaW1lbnNpb25zLCBuYURpbWVuc2lvbnMgfTsKfQoKLyoqCiAqIOiBmuWQiOWkmuS4quWvueixoeWBpeW6t+WIhu+8iOS+myBEYXNoYm9hcmQgSGVhbHRoIFNjb3JlIOaMh+agh++8ieOAggogKiBAcmV0dXJucyB7e2F2ZXJhZ2VTY29yZTpudW1iZXIsIHBlclJlY29yZDpBcnJheSwgbmFEaW1lbnNpb25zOnN0cmluZ1tdfX0KICovCmZ1bmN0aW9uIGFnZ3JlZ2F0ZUhlYWx0aFNjb3JlKHJlY29yZHMsIGN0eCkgewogIGNvbnN0IHBlclJlY29yZCA9IChyZWNvcmRzIHx8IFtdKS5tYXAoKHIpID0+ICh7CiAgICBrbm93bGVkZ2VfaWQ6IHIua25vd2xlZGdlX2lkLAogICAgc2NvcmU6IGNvbXB1dGVIZWFsdGhTY29yZShyLCBjdHgpLnNjb3JlLAogICAgbmFEaW1lbnNpb25zOiBjb21wdXRlSGVhbHRoU2NvcmUociwgY3R4KS5uYURpbWVuc2lvbnMsCiAgfSkpOwogIGNvbnN0IGF2ZyA9CiAgICBwZXJSZWNvcmQubGVuZ3RoID4gMAogICAgICA/IHBlclJlY29yZC5yZWR1Y2UoKHMsIHgpID0+IHMgKyB4LnNjb3JlLCAwKSAvIHBlclJlY29yZC5sZW5ndGgKICAgICAgOiAwOwogIC8vIOWQiOW5tuaJgOacieWvueixoeeahCBOL0Eg57u05bqm77yI5Y676YeN77yJCiAgY29uc3QgbmFTZXQgPSBuZXcgU2V0KCk7CiAgcGVyUmVjb3JkLmZvckVhY2goKHgpID0+IHgubmFEaW1lbnNpb25zLmZvckVhY2goKGQpID0+IG5hU2V0LmFkZChkKSkpOwogIHJldHVybiB7CiAgICBhdmVyYWdlU2NvcmU6IE1hdGgucm91bmQoYXZnICogMTAwMCkgLyAxMDAwLAogICAgcGVyUmVjb3JkLAogICAgbmFEaW1lbnNpb25zOiBBcnJheS5mcm9tKG5hU2V0KSwKICB9Owp9Cgptb2R1bGUuZXhwb3J0cyA9IHsKICBXRUlHSFRTLAogIE1FVEFEQVRBX0NPTlRSQUNUX0ZJRUxEUywKICBjb21wdXRlSGVhbHRoU2NvcmUsCiAgYWdncmVnYXRlSGVhbHRoU2NvcmUsCiAgbWV0YWRhdGFDb21wbGV0ZW5lc3MsCn07Cg==
+// ============================================================
+// knowledgeHealthScore — 知识对象健康分（Phase P+ / Phase P §4）
+// ------------------------------------------------------------
+// 实现 docs/66 §4 定义的七维健康分模型：
+//   Metadata 15% | Citation 20% | Evidence 10% | Retrieval 20%
+//   Feedback 15% | Usage 10% | Regression 10%
+//
+// 核心约束（来自用户 + docs/66）：
+//   · 缺失维度（Feedback / Usage）必须显示 N/A，**不能伪造**。
+//   · 缺失维度通过「权重重归一化」处理：score = Σ(可用权重×维度分) / Σ可用权重。
+//   · 只读既有指标，不重算检索逻辑。
+//
+// 用法：
+//   const { computeHealthScore, aggregateHealthScore } = require('./knowledgeHealthScore');
+//   computeHealthScore(record, ctx) -> { score, dimensions, naDimensions }
+// ============================================================
+
+'use strict';
+
+// 19 字段契约（docs/62 §4），用于 Metadata 维度完整性评估
+const METADATA_CONTRACT_FIELDS = [
+  'knowledge_id', 'knowledge_type', 'domain', 'subcategory', 'authority',
+  'evidence_level', 'citation_type', 'source_type', 'version', 'status',
+  'priority', 'quality_score', 'copyright', 'created_at', 'updated_at',
+  'review_status', 'reviewer', 'embedding_version', 'retrieval_policy',
+];
+
+// 权重（与 docs/66 §4 一致）
+const WEIGHTS = {
+  metadata: 15,
+  citation: 20,
+  evidence: 10,
+  retrieval: 20,
+  feedback: 15,
+  usage: 10,
+  regression: 10,
+};
+
+/** 统计 record.metadata 中命中契约字段的比例（0..1） */
+function metadataCompleteness(metadata) {
+  if (!metadata || typeof metadata !== 'object') return null; // N/A
+  let present = 0;
+  METADATA_CONTRACT_FIELDS.forEach((f) => {
+    if (metadata[f] !== undefined && metadata[f] !== '') present += 1;
+  });
+  return present / METADATA_CONTRACT_FIELDS.length;
+}
+
+/** 证据强度 → 0..1（classic 经典文本视为最高） */
+function evidenceScore(record) {
+  const md = record.metadata || {};
+  const lvl = md.evidence_level;
+  if (lvl === 'primary') return 1.0;
+  if (lvl === 'supporting') return 0.8;
+  if (lvl === 'illustrative') return 0.6;
+  // 经典（corpus / classic 类型）视为权威经典文本
+  if (record.source === 'corpus' || record.knowledge_type === 'classic') return 1.0;
+  return 0.7;
+}
+
+/** 引用准确率 → 0..1（classic 恒被引用；概念卡有 citation_type 即视为已规范引用） */
+function citationScore(record) {
+  if (record.citation_pass !== undefined) return record.citation_pass ? 1.0 : 0.0;
+  if (record.source === 'corpus') return 1.0; // 经典文本必然引用
+  const md = record.metadata || {};
+  if (md.citation_type) return 1.0; // 具备引用结构
+  return null; // N/A
+}
+
+/**
+ * 计算单个知识对象健康分。
+ * @param {object} record { knowledge_id, knowledge_type, status, source,
+ *                          metadata?(19字段), citation_pass?, quality_score }
+ * @param {object} ctx { retrievalHit3 (0..1, 全局代理), regressionAccept (bool),
+ *                       feedback?(0..1), usage?(0..1) }
+ * @returns {{score:number, dimensions:object, naDimensions:string[]}}
+ */
+function computeHealthScore(record, ctx) {
+  record = record || {};
+  ctx = ctx || {};
+  const dimensions = {};
+
+  // Metadata
+  const md = metadataCompleteness(record.metadata);
+  if (md === null) {
+    dimensions.metadata = { value: null, weight: WEIGHTS.metadata, na: true };
+  } else {
+    dimensions.metadata = { value: md, weight: WEIGHTS.metadata, na: false };
+  }
+
+  // Citation
+  const cit = citationScore(record);
+  if (cit === null) {
+    dimensions.citation = { value: null, weight: WEIGHTS.citation, na: true };
+  } else {
+    dimensions.citation = { value: cit, weight: WEIGHTS.citation, na: false };
+  }
+
+  // Evidence
+  dimensions.evidence = { value: evidenceScore(record), weight: WEIGHTS.evidence, na: false };
+
+  // Retrieval（全局 Classic Hit@3 代理；单对象检索未追踪时诚实使用全局值）
+  const retrieval = typeof ctx.retrievalHit3 === 'number' ? ctx.retrievalHit3 : null;
+  if (retrieval === null) {
+    dimensions.retrieval = { value: null, weight: WEIGHTS.retrieval, na: true };
+  } else {
+    dimensions.retrieval = { value: retrieval, weight: WEIGHTS.retrieval, na: false };
+  }
+
+  // Feedback（缺失 → N/A）
+  if (typeof ctx.feedback === 'number') {
+    dimensions.feedback = { value: ctx.feedback, weight: WEIGHTS.feedback, na: false };
+  } else {
+    dimensions.feedback = { value: null, weight: WEIGHTS.feedback, na: true };
+  }
+
+  // Usage（缺失 → N/A）
+  if (typeof ctx.usage === 'number') {
+    dimensions.usage = { value: ctx.usage, weight: WEIGHTS.usage, na: false };
+  } else {
+    dimensions.usage = { value: null, weight: WEIGHTS.usage, na: true };
+  }
+
+  // Regression（门禁全部通过 → 1.0）
+  const reg = ctx.regressionAccept === true ? 1.0 : ctx.regressionAccept === false ? 0.0 : null;
+  if (reg === null) {
+    dimensions.regression = { value: null, weight: WEIGHTS.regression, na: true };
+  } else {
+    dimensions.regression = { value: reg, weight: WEIGHTS.regression, na: false };
+  }
+
+  // 权重重归一化：仅累加可用维度
+  let wSum = 0;
+  let acc = 0;
+  const naDimensions = [];
+  Object.keys(dimensions).forEach((k) => {
+    const d = dimensions[k];
+    if (d.na) {
+      naDimensions.push(k);
+    } else {
+      wSum += d.weight;
+      acc += d.weight * d.value;
+    }
+  });
+  const score = wSum > 0 ? acc / wSum : 0;
+
+  return { score: Math.round(score * 1000) / 1000, dimensions, naDimensions };
+}
+
+/**
+ * 聚合多个对象健康分（供 Dashboard Health Score 指标）。
+ * @returns {{averageScore:number, perRecord:Array, naDimensions:string[]}}
+ */
+function aggregateHealthScore(records, ctx) {
+  const perRecord = (records || []).map((r) => ({
+    knowledge_id: r.knowledge_id,
+    score: computeHealthScore(r, ctx).score,
+    naDimensions: computeHealthScore(r, ctx).naDimensions,
+  }));
+  const avg =
+    perRecord.length > 0
+      ? perRecord.reduce((s, x) => s + x.score, 0) / perRecord.length
+      : 0;
+  // 合并所有对象的 N/A 维度（去重）
+  const naSet = new Set();
+  perRecord.forEach((x) => x.naDimensions.forEach((d) => naSet.add(d)));
+  return {
+    averageScore: Math.round(avg * 1000) / 1000,
+    perRecord,
+    naDimensions: Array.from(naSet),
+  };
+}
+
+module.exports = {
+  WEIGHTS,
+  METADATA_CONTRACT_FIELDS,
+  computeHealthScore,
+  aggregateHealthScore,
+  metadataCompleteness,
+};

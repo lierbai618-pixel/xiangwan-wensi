@@ -1,1 +1,18 @@
-Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwpjb25zdCBwID0gcHJvY2Vzcy5hcmd2WzJdOwpsZXQgcyA9IGZzLnJlYWRGaWxlU3luYyhwLCAndXRmOCcpOwpsZXQgc3RhcnQgPSBzLmluZGV4T2YoJ3snKTsKbGV0IGRlcHRoID0gMCwgZW5kID0gLTE7CmZvciAobGV0IGsgPSBzdGFydDsgayA8IHMubGVuZ3RoOyBrKyspIHsKICBjb25zdCBjaCA9IHNba107CiAgaWYgKGNoID09PSAneycpIGRlcHRoKys7CiAgZWxzZSBpZiAoY2ggPT09ICd9JykgeyBkZXB0aC0tOyBpZiAoZGVwdGggPT09IDApIHsgZW5kID0gazsgYnJlYWs7IH0gfQp9CmNvbnN0IHN1YiA9IHMuc2xpY2Uoc3RhcnQsIGVuZCArIDEpOwp0cnkgewogIGNvbnN0IGQgPSBKU09OLnBhcnNlKHN1Yik7CiAgY29uc29sZS5sb2coJ0tFWVM6JywgT2JqZWN0LmtleXMoZCkuam9pbignLCcpKTsKICBjb25zb2xlLmxvZygnX21vZGVsVXNlZDonLCBkLl9tb2RlbFVzZWQsICd8IF9tb2RlbFN0YXR1czonLCBkLl9tb2RlbFN0YXR1cywgJ3wgbW9kZTonLCBkLm1vZGUsICd8IGFuc3dlck1vZGU6JywgZC5hbnN3ZXJNb2RlKTsKfSBjYXRjaCAoZSkgewogIGNvbnNvbGUubG9nKCdQQVJTRV9FUlInLCBlLm1lc3NhZ2UsICd8IGhlYWQ6Jywgc3ViLnNsaWNlKDAsIDIwMCkpOwp9Cg==
+const fs = require('fs');
+const p = process.argv[2];
+let s = fs.readFileSync(p, 'utf8');
+let start = s.indexOf('{');
+let depth = 0, end = -1;
+for (let k = start; k < s.length; k++) {
+  const ch = s[k];
+  if (ch === '{') depth++;
+  else if (ch === '}') { depth--; if (depth === 0) { end = k; break; } }
+}
+const sub = s.slice(start, end + 1);
+try {
+  const d = JSON.parse(sub);
+  console.log('KEYS:', Object.keys(d).join(','));
+  console.log('_modelUsed:', d._modelUsed, '| _modelStatus:', d._modelStatus, '| mode:', d.mode, '| answerMode:', d.answerMode);
+} catch (e) {
+  console.log('PARSE_ERR', e.message, '| head:', sub.slice(0, 200));
+}

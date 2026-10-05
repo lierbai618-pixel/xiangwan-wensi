@@ -1,1 +1,89 @@
-Ly8gUGhhc2UgQy0zIOefpeivhuWbvuiwseWPrOWbnua1i+ivle+8mueUqOecn+Wunui1hOaWmeWMheaehOW7uuWGheWtmCBjaHVuayBzdG9yZe+8jOmqjOivgQovLyDjgIznlKjmiLfkurrnlJ/pl67popgg4oaSIOeOsOWunumXrumimOagh+etvi/kuLvpopgg4oaSIOe7j+WFuOeroOiKgiDihpIg5Y+v5byV55So5YaF5a6544CN6ZO+6Lev44CCCi8vIOe6ryBOb2RlIOi/kOihjO+8iOaXoOmcgOS6keWHreivge+8ieOAgueUqOazle+8mm5vZGUgc2NyaXB0cy90ZXN0X2MzX2tub3dsZWRnZV9ncmFwaC5qcwpjb25zdCBmcyA9IHJlcXVpcmUoImZzIik7CmNvbnN0IHBhdGggPSByZXF1aXJlKCJwYXRoIik7CmNvbnN0IGluZ2VzdCA9IHJlcXVpcmUoIi4uL2Nsb3VkZnVuY3Rpb25zL2luZ2VzdCIpOwpjb25zdCByYWcgPSByZXF1aXJlKCIuLi9jbG91ZGZ1bmN0aW9ucy9jaGF0L3JhZy5qcyIpOwoKY29uc3QgUk9PVCA9IHBhdGguam9pbihfX2Rpcm5hbWUsICIuLiIsICJ3ZWFwcF9rbm93bGVkZ2VfbWFya2VyIik7IC8vIG5vdCB1c2VkOyBpbmdlc3QgcmVzb2x2ZXMgZnJvbSBpdHMgb3duIGRpcgpjb25zdCBtYW5pZmVzdCA9IEpTT04ucGFyc2UoZnMucmVhZEZpbGVTeW5jKHBhdGguam9pbihfX2Rpcm5hbWUsICIuLiIsICJrbm93bGVkZ2UiLCAiaW5kZXguanNvbiIpLCAidXRmOCIpKTsKCmxldCBwYXNzID0gMCwgZmFpbCA9IDA7CmNvbnN0IGZhaWxzID0gW107CmZ1bmN0aW9uIGNoZWNrKG5hbWUsIGNvbmQpIHsKICBpZiAoY29uZCkgeyBwYXNzKys7IGNvbnNvbGUubG9nKCIgIOKclCAiICsgbmFtZSk7IH0KICBlbHNlIHsgZmFpbCsrOyBmYWlscy5wdXNoKG5hbWUpOyBjb25zb2xlLmxvZygiICDinJcgIiArIG5hbWUpOyB9Cn0KCi8vIDEpIOi9veWFpeWFqOmDqCByZWFkeSDotYTmlpnljIUg4oaSIOWGheWtmCBjaHVuayBzdG9yZQpjb25zdCByZWFkeSA9IG1hbmlmZXN0LmJvb2tzLmZpbHRlcigoYikgPT4gYi5zdGF0dXMgPT09ICJyZWFkeSIpOwpjb25zdCBhbGxDaHVua3MgPSBbXTsKY29uc3Qgc291cmNlTWFwID0ge307CmNvbnN0IG1ldGFNYXAgPSB7fTsKZm9yIChjb25zdCBiIG9mIHJlYWR5KSB7CiAgY29uc3QgYnVpbHQgPSBpbmdlc3QuYnVpbGRQYWNrYWdlQ2h1bmtzKGIucGF0aCk7CiAgc291cmNlTWFwW2IuaWRdID0gYnVpbHQuY29udGVudDsKICBtZXRhTWFwW2IuaWRdID0gYnVpbHQubWV0YTsKICBmb3IgKGNvbnN0IGMgb2YgYnVpbHQuY2h1bmtzKSB7CiAgICBhbGxDaHVua3MucHVzaChPYmplY3QuYXNzaWduKHt9LCBjLCB7IF9pZDogYi5pZCArICItIiArIGMuX2xvY2FsSWQgfSkpOwogIH0KfQpjb25zb2xlLmxvZygi6LWE5paZ5YyF5pWwOiIsIHJlYWR5Lmxlbmd0aCwgIiBjaHVua3Mg5oC75pWwOiIsIGFsbENodW5rcy5sZW5ndGgpOwpjaGVjaygiMTAg5pysIHJlYWR5IOi1hOaWmeWMheWFqOmDqOi9veWFpSIsIHJlYWR5Lmxlbmd0aCA9PT0gMTApOwpjaGVjaygiY2h1bmtzIOmdnuepuuS4lOW4piBwZXJzcGVjdGl2ZS90aGVtZXMvcHJvYmxlbV90YWdzIiwKICBhbGxDaHVua3MuZXZlcnkoKGMpID0+IGMudGl0bGUgJiYgQXJyYXkuaXNBcnJheShjLnRoZW1lcykgJiYgQXJyYXkuaXNBcnJheShjLnByb2JsZW1fdGFncykpKTsKCi8vIDIpIOS6uueUn+mXrumimOWPrOWbnua1i+ivlQpjb25zdCBxdWVzdGlvbnMgPSBbCiAgeyBxOiAi5oiR5aSn5a2m5q+V5Lia5ZCO5LiN55+l6YGT6YCJ5oup5LuA5LmI5pa55ZCR77yM5b6I54Sm6JmR44CCIiwgZXhwZWN0OiBbIuiuuuivrSIsICLmsonmgJ3lvZUiXSB9LAogIHsgcTogIuWKquWKm+S6huW+iOS5heayoeaciee7k+aenO+8jOaIkeaYr+S4jeaYr+ayoeacieS7t+WAvO+8nyIsIGV4cGVjdDogWyLmsonmgJ3lvZUiLCAi5bqE5a2QIiwgIuWtn+WtkCJdIH0sCiAgeyBxOiAi5aaC5L2V5oiQ5Li65pu05aW955qE5Lq677yfIiwgZXhwZWN0OiBbIuiuuuivrSIsICLlpKflraYiLCAi5a2f5a2QIl0gfSwKICB7IHE6ICLkuLrku4DkuYjnn6XpgZPpgZPnkIbljbTlgZrkuI3liLDvvJ8iLCBleHBlY3Q6IFsi5bC85ZCE6ams5Y+v5Lym55CG5a2m77yI6IqC6YCJ77yJIiwgIuWkp+WtpiJdIH0sCiAgeyBxOiAi5oiR5oC75piv6KKr5Yir5Lq655qE6K+E5Lu35b2x5ZON77yM5oCO5LmI5Yqe77yfIiwgZXhwZWN0OiBbIueIseavlOWFi+azsOW+t+OAiuaJi+WGjOOAiyIsICLmsonmgJ3lvZUiXSB9LAogIHsgcTogIuWmguS9lemdouWvueWksei0pe+8nyIsIGV4cGVjdDogWyLlrZ/lrZAiLCAi5rKJ5oCd5b2VIiwgIuW6hOWtkCJdIH0sCiAgeyBxOiAi5oiR5oOz6ZW/5pyf5Z2a5oyB5LiA5Lu25LqL77yM5oCO5LmI5Z+55YW75Lmg5oOv77yfIiwgZXhwZWN0OiBbIuWwvOWQhOmprOWPr+S8pueQhuWtpu+8iOiKgumAie+8iSIsICLorrror60iXSB9LAogIHsgcTogIuWmguS9leiupOivhuiHquW3se+8nyIsIGV4cGVjdDogWyLmn4/mi4nlm77jgIrnlLPovqnnr4fjgIsiLCAi6K666K+tIl0gfSwKICB7IHE6ICLmgI7moLflh4/lsJHlhoXogJfvvIzkuI7oh6rlt7Hlkozop6PvvJ8iLCBleHBlY3Q6IFsi6YGT5b6357uPIl0gfSwKXTsKCmNvbnNvbGUubG9nKCJcblvkurrnlJ/pl67popjlj6zlm55dIik7CmZvciAoY29uc3QgaXRlbSBvZiBxdWVzdGlvbnMpIHsKICBjb25zdCB7IGNpdGF0aW9ucyB9ID0gcmFnLnJhbmtDaHVua3MoaXRlbS5xLCBhbGxDaHVua3MsIDgpOwogIGNvbnN0IHRpdGxlcyA9IGNpdGF0aW9ucy5tYXAoKGMpID0+IGMudGl0bGUpOwogIGNvbnN0IGhpdCA9IGl0ZW0uZXhwZWN0LmZpbHRlcigoZSkgPT4gdGl0bGVzLmluY2x1ZGVzKGUpKTsKICBjaGVjaygi5Y+s5ZueWyIgKyBpdGVtLnEuc2xpY2UoMCwgMTIpICsgIuKApl0g5ZG95Lit5pyf5pyb57uP5YW4OiAiICsgaGl0LmpvaW4oIi8iKSwgaGl0Lmxlbmd0aCA+IDApOwogIC8vIOW8leeUqOe7k+aehOWujOaVtCArIOWPr+WumuS9jQogIGNvbnN0IGNpdGVPayA9IGNpdGF0aW9ucy5ldmVyeSgoYykgPT4KICAgIGMuY2l0YXRpb24gJiYgYy5jaXRhdGlvbi5kaXNwbGF5X3RleHQgJiYgYy5jaXRhdGlvbi5kaXNwbGF5X3RleHQuaW5jbHVkZXMoIuOAiiIpICYmCiAgICB0eXBlb2YgYy5jaXRhdGlvbi5zb3VyY2VfcG9zaXRpb24gPT09ICJzdHJpbmciICYmIGMudGV4dCAmJiBjLnRleHQubGVuZ3RoID4gMCk7CiAgY2hlY2soIiAg5byV55So5a2X5q615a6M5pW05LiU5Y+v5a6a5L2N77yIIiArIHRpdGxlcy5qb2luKCIsIikgKyAi77yJIiwgY2l0ZU9rKTsKICAvLyDlvJXnlKjlhoXlrrnpgJDlrZfmnaXoh6rljp/mlofvvIjkuI3lubvop4nvvIkKICBjb25zdCB2ZXJiYXRpbSA9IGNpdGF0aW9ucy5ldmVyeSgoYykgPT4gewogICAgY29uc3Qgc3JjID0gc291cmNlTWFwW09iamVjdC5rZXlzKHNvdXJjZU1hcCkuZmluZCgoaykgPT4gc291cmNlTWFwW2tdLmluY2x1ZGVzKGMudGV4dCkpXTsKICAgIHJldHVybiAhIXNyYzsKICB9KTsKICBjaGVjaygiICDlvJXnlKjmlofmnKzpgJDlrZfmnaXoh6rljp/lhbjvvIjml6Dlubvop4nvvIkiLCB2ZXJiYXRpbSk7Cn0KCi8vIDMpIHVzZXJfcXVlc3Rpb25zIOahpeaige+8mueUqOecn+WunueUqOaIt+mXruazleW6lOiDveWPrOWbnuWvueW6lOe7j+WFuApjb25zb2xlLmxvZygiXG5bdXNlcl9xdWVzdGlvbnMg5qGl5qKBXSIpOwpjb25zdCBsdW55dVVRID0gbWV0YU1hcFsibHVueXUiXS51c2VyX3F1ZXN0aW9uc1swXTsKY29uc3QgbWVkVVEgPSBtZXRhTWFwWyJtZWRpdGF0aW9ucyJdLnVzZXJfcXVlc3Rpb25zWzBdOwpjb25zdCB7IGNpdGF0aW9uczogY0wgfSA9IHJhZy5yYW5rQ2h1bmtzKGx1bnl1VVEsIGFsbENodW5rcywgOCk7CmNoZWNrKCLorrror60gdXNlcl9xdWVzdGlvbiDlj6zlm57jgIrorrror63jgIs6ICIgKyBsdW55dVVRLCBjTC5tYXAoKGMpID0+IGMudGl0bGUpLmluY2x1ZGVzKCLorrror60iKSk7CmNvbnN0IHsgY2l0YXRpb25zOiBjTSB9ID0gcmFnLnJhbmtDaHVua3MobWVkVVEsIGFsbENodW5rcywgOCk7CmNoZWNrKCLmsonmgJ3lvZUgdXNlcl9xdWVzdGlvbiDlj6zlm57jgIrmsonmgJ3lvZXjgIs6ICIgKyBtZWRVUSwgY00ubWFwKChjKSA9PiBjLnRpdGxlKS5pbmNsdWRlcygi5rKJ5oCd5b2VIikpOwoKLy8gNCkg54mI5p2D6Ze46Zeo77yacGVuZGluZyDlv4Xpobvooqvmi5IKY29uc29sZS5sb2coIlxuW+eJiOadg+mXuOmXqF0iKTsKY29uc3QgZ2F0ZVBlbmRpbmcgPSBpbmdlc3QuY2hlY2tJbmdlc3RHYXRlKHsgbGVnYWxDb25maXJtOiB0cnVlLCBjb3B5cmlnaHRTdGF0dXM6ICJwZW5kaW5nIiB9KTsKY29uc3QgZ2F0ZURlbnkgPSBpbmdlc3QuY2hlY2tJbmdlc3RHYXRlKHsgbGVnYWxDb25maXJtOiBmYWxzZSwgY29weXJpZ2h0U3RhdHVzOiAicHVibGljLWRvbWFpbiIgfSk7CmNoZWNrKCJwZW5kaW5nIOiiq+aLkiIsIGdhdGVQZW5kaW5nLm9rID09PSBmYWxzZSk7CmNoZWNrKCJsZWdhbENvbmZpcm09ZmFsc2Ug6KKr5ouSIiwgZ2F0ZURlbnkub2sgPT09IGZhbHNlKTsKY29uc3QgZ2F0ZU9rID0gaW5nZXN0LmNoZWNrSW5nZXN0R2F0ZSh7IGxlZ2FsQ29uZmlybTogdHJ1ZSwgY29weXJpZ2h0U3RhdHVzOiAicHVibGljLWRvbWFpbiIgfSk7CmNoZWNrKCLlkIjms5XlhazmnInpoobln5/pgJrov4ciLCBnYXRlT2sub2sgPT09IHRydWUpOwoKY29uc29sZS5sb2coIlxuPT09IOe7k+aenDogIiArIHBhc3MgKyAiIOmAmui/hywgIiArIGZhaWwgKyAiIOWksei0pSA9PT0iKTsKaWYgKGZhaWwpIHsgY29uc29sZS5sb2coIuWksei0pemhuTpcbiAtICIgKyBmYWlscy5qb2luKCJcbiAtICIpKTsgcHJvY2Vzcy5leGl0KDEpOyB9CmNvbnNvbGUubG9nKCJQaGFzZSBDLTMg55+l6K+G5Zu+6LCx5Y+s5Zue6aqM6K+B6YCa6L+H44CCIik7Cg==
+// Phase C-3 知识图谱召回测试：用真实资料包构建内存 chunk store，验证
+// 「用户人生问题 → 现实问题标签/主题 → 经典章节 → 可引用内容」链路。
+// 纯 Node 运行（无需云凭证）。用法：node scripts/test_c3_knowledge_graph.js
+const fs = require("fs");
+const path = require("path");
+const ingest = require("../cloudfunctions/ingest");
+const rag = require("../cloudfunctions/chat/rag.js");
+
+const ROOT = path.join(__dirname, "..", "weapp_knowledge_marker"); // not used; ingest resolves from its own dir
+const manifest = JSON.parse(fs.readFileSync(path.join(__dirname, "..", "knowledge", "index.json"), "utf8"));
+
+let pass = 0, fail = 0;
+const fails = [];
+function check(name, cond) {
+  if (cond) { pass++; console.log("  ✔ " + name); }
+  else { fail++; fails.push(name); console.log("  ✗ " + name); }
+}
+
+// 1) 载入全部 ready 资料包 → 内存 chunk store
+const ready = manifest.books.filter((b) => b.status === "ready");
+const allChunks = [];
+const sourceMap = {};
+const metaMap = {};
+for (const b of ready) {
+  const built = ingest.buildPackageChunks(b.path);
+  sourceMap[b.id] = built.content;
+  metaMap[b.id] = built.meta;
+  for (const c of built.chunks) {
+    allChunks.push(Object.assign({}, c, { _id: b.id + "-" + c._localId }));
+  }
+}
+console.log("资料包数:", ready.length, " chunks 总数:", allChunks.length);
+check("10 本 ready 资料包全部载入", ready.length === 10);
+check("chunks 非空且带 perspective/themes/problem_tags",
+  allChunks.every((c) => c.title && Array.isArray(c.themes) && Array.isArray(c.problem_tags)));
+
+// 2) 人生问题召回测试
+const questions = [
+  { q: "我大学毕业后不知道选择什么方向，很焦虑。", expect: ["论语", "沉思录"] },
+  { q: "努力了很久没有结果，我是不是没有价值？", expect: ["沉思录", "庄子", "孟子"] },
+  { q: "如何成为更好的人？", expect: ["论语", "大学", "孟子"] },
+  { q: "为什么知道道理却做不到？", expect: ["尼各马可伦理学（节选）", "大学"] },
+  { q: "我总是被别人的评价影响，怎么办？", expect: ["爱比克泰德《手册》", "沉思录"] },
+  { q: "如何面对失败？", expect: ["孟子", "沉思录", "庄子"] },
+  { q: "我想长期坚持一件事，怎么培养习惯？", expect: ["尼各马可伦理学（节选）", "论语"] },
+  { q: "如何认识自己？", expect: ["柏拉图《申辩篇》", "论语"] },
+  { q: "怎样减少内耗，与自己和解？", expect: ["道德经"] },
+];
+
+console.log("\n[人生问题召回]");
+for (const item of questions) {
+  const { citations } = rag.rankChunks(item.q, allChunks, 8);
+  const titles = citations.map((c) => c.title);
+  const hit = item.expect.filter((e) => titles.includes(e));
+  check("召回[" + item.q.slice(0, 12) + "…] 命中期望经典: " + hit.join("/"), hit.length > 0);
+  // 引用结构完整 + 可定位
+  const citeOk = citations.every((c) =>
+    c.citation && c.citation.display_text && c.citation.display_text.includes("《") &&
+    typeof c.citation.source_position === "string" && c.text && c.text.length > 0);
+  check("  引用字段完整且可定位（" + titles.join(",") + "）", citeOk);
+  // 引用内容逐字来自原文（不幻觉）
+  const verbatim = citations.every((c) => {
+    const src = sourceMap[Object.keys(sourceMap).find((k) => sourceMap[k].includes(c.text))];
+    return !!src;
+  });
+  check("  引用文本逐字来自原典（无幻觉）", verbatim);
+}
+
+// 3) user_questions 桥梁：用真实用户问法应能召回对应经典
+console.log("\n[user_questions 桥梁]");
+const lunyuUQ = metaMap["lunyu"].user_questions[0];
+const medUQ = metaMap["meditations"].user_questions[0];
+const { citations: cL } = rag.rankChunks(lunyuUQ, allChunks, 8);
+check("论语 user_question 召回《论语》: " + lunyuUQ, cL.map((c) => c.title).includes("论语"));
+const { citations: cM } = rag.rankChunks(medUQ, allChunks, 8);
+check("沉思录 user_question 召回《沉思录》: " + medUQ, cM.map((c) => c.title).includes("沉思录"));
+
+// 4) 版权闸门：pending 必须被拒
+console.log("\n[版权闸门]");
+const gatePending = ingest.checkIngestGate({ legalConfirm: true, copyrightStatus: "pending" });
+const gateDeny = ingest.checkIngestGate({ legalConfirm: false, copyrightStatus: "public-domain" });
+check("pending 被拒", gatePending.ok === false);
+check("legalConfirm=false 被拒", gateDeny.ok === false);
+const gateOk = ingest.checkIngestGate({ legalConfirm: true, copyrightStatus: "public-domain" });
+check("合法公有领域通过", gateOk.ok === true);
+
+console.log("\n=== 结果: " + pass + " 通过, " + fail + " 失败 ===");
+if (fail) { console.log("失败项:\n - " + fails.join("\n - ")); process.exit(1); }
+console.log("Phase C-3 知识图谱召回验证通过。");

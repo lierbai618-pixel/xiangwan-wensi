@@ -1,1 +1,77 @@
-IyBSQUcg55yf5a6e5byV55So5rWL6K+V77yIMjAg6aKYIMK3IOekvuS8muW9ouaIkCAvIOaIkOmVvyAvIOaDhee7qiAvIOS4k+WQjSAvIOWFs+ezu++8iQoKPiAqKue8luWPt+ivtOaYjioq77ya5Y6f6K6h5YiS5ZG95ZCN5Li6IGBkb2NzLzI4LVJBR+ecn+WunuW8leeUqOa1i+ivlS5tZGDvvIzkvYYgYGRvY3MvMjgtUGhhc2VH56ys5LiA6Zi25q615oql5ZGKLm1kYCDlt7LljaDnlKjnvJblj7cgMjjvvIwKPiDmlYXpobrlu7bkuLogYGRvY3MvMjlg44CC5pys5paH5Lu25Li644CM6Zeu6aKY5LqM77yaQUkg5Zue562U5rKh5pyJ55yf5q2j5L2/55So55+l6K+G5bqT44CN55qE5LiT6aG56aqM5pS25paH5qGj44CCCj4KPiDmtYvor5XmlrnlvI/vvJrnprvnur/osIPnlKggYGNsb3VkZnVuY3Rpb25zL2NoYXQvcmFnLmpzYCDnmoQgYGxlZ2FjeVJldHJpZXZlKHF1ZXJ5LCAzKWDvvIwKPiDkuI3kvp3otZbkupHnjq/looPvvIznu5Pmnpzlj6/lpI3njrDvvIjov5DooYwgYG5vZGUgdGVzdHMvcmFnLXJlZ3Jlc3Npb24uanNgIOS6puWPr+aJuemHj+WkjeeOsO+8ieOAggoKLS0tCgojIyAwLiDog4zmma/kuI7pqozmlLbnm67moIcKCueUqOaIt+WPjemmiO+8muOAjOmXruOAjuekvuS8muaYr+aAjuS5iOW9ouaIkOeahOOAj++8jOWbnuetlOWNtOaYr+S5seS4g+WFq+ezn+mhvuW3puWPs+iAjOiogOS7luOAjeKAlOKAlOWNsyBBSSDmsqHmnInnnJ/mraPkvp3mja7nn6Xor4blupPvvIwK6ICM5piv6KKrIHByb21wdCDov6vkuo7jgIzlv4XpobvlvJXnlKjotYTmlpnjgI3ljrvnoazlpZfkuI3nm7jlhbPnmoTkuInku7blpZfvvIjorrror60v6YGT5b6357uPL+ayieaAneW9le+8jGxleD0wL3ZlYz0wIOe6r+mdoOW4p+WBj+e9rumhtuS4iu+8ieOAggoK6aqM5pS255uu5qCH77yI5p2l6Ieq5LyY5YyW6KaB5rGC77yJ77yaCgoxLiAqKuW8uuWItiBSQUcg6ZO+6LevKirvvJrnlKjmiLfpl67popgg4oaSIOmXrumimOexu+Wei+WIpOaWrSDihpIg5qOA57Si5YWz6ZSu6K+N5omp5bGVIOKGkiDnn6Xor4blupPlj6zlm54g4oaSIOW8leeUqOe7j+WFuCDihpIg5Z+65LqO6LWE5paZ5Zue562U44CCCiAgIOemgeatouebtOaOpeiuqSBMTE0g6Ieq55Sx55Sf5oiQ44CB56aB5q2i57yW6YCg57uP5YW444CCCjIuICoq5Y+s5ZueIOKJpTMg5Liq55u45YWzIGNodW5rKirvvJrnrKzkuInmraXoh7PlsJHku47nn6Xor4blupPlj6zlm54gMyDkuKrnm7jlhbMgY2h1bmvjgIIKMy4gKirlvJXnlKjlvLrnuqbmnZ8qKu+8muaXoOWPrOWbnuaXtui+k+WHuuivmuWunuWjsOaYju+8iOOAjOebruWJjeefpeivhuW6k+S4reayoeacieaJvuWIsOebtOaOpeWvueW6lOWGheWuue+8jOaIkeWwhue7k+WQiOW3suacieaAneaDs+i/m+ihjOWIhuaekOOAje+8ie+8jAogICDnpoHmraLnvJbpgKDnu4/lhbjjgIIKCi0tLQoKIyMgMS4gUkFHIOWbnuetlOa1geeoi++8iOW3suWunueOsO+8iQoKfCDmraXpqqQgfCDliqjkvZwgfCDlrp7njrAgfAp8LS0tfC0tLXwtLS18Cnwg4pGgIOmXrumimOexu+Wei+WIpOaWrSB8IOivhuWIq+S6uueUn+WbsOaDkSAvIOekvuS8muWFs+ezuyAvIOmBk+W+t+mAieaLqSAvIOiHquaIkeaIkOmVvyAvIOaDhee7qumXrumimCAvIOS7t+WAvOmXrumimCB8IGBhbmFseXplUXVlcnlgICsgYGluZmVyUXVlcnlGcmFtZWAgfAp8IOKRoSDmo4DntKLlhbPplK7or43mianlsZUgfCDnlKjmiLflj6Por60g4oaSIOWTsuWtpuamguW/tSDihpIg57uP5YW456ug6IqC77yI5aaC44CM56S+5Lya5piv5oCO5LmI5b2i5oiQ55qE44CN5omp5bGV5Li6IOekvuS8mi/np6nluo8v6KeE5YiZL+WFseWQjOS9ky/kv67ouqsv5piO5piO5b63L+WfjumCpuKApu+8iSB8IGBjb25jZXB0QnJpZGdlYO+8iDgg5p2h5LiT5ZCN5qGlICsgNyDmnaHkuLvpopjmoaXvvIkgfAp8IOKRoiDnn6Xor4blupPlj6zlm54gfCDoh7PlsJHlj6zlm54gMyDkuKrnm7jlhbMgY2h1bmvvvIzkuJTmr4/mnaHlvJXnlKjpg73mnInnnJ/lrp7or43pnaIv5qCH562+6YeN5Y+g77yIbGV44omlMu+8jOadnOe7nSBsZXg9MCDnoazlpZfvvIkgfCBgbGVnYWN5UmV0cmlldmVgIOS4pOe6p+WPrOWbniB8Cnwg4pGjIOW8leeUqOe7j+WFuOWbnuetlCB8IOS6lOauteW8j+WbnuetlOS4reW/hemhu+W8leeUqOWPrOWbnuWGheWuue+8jOagvOW8j+S4uuOAkOeQhuino+OAkeKGkuOAkOWIhuaekOOAkeKGkuOAkOihjOWKqOOAkeKGkuOAkOe7j+WFuOOAkeKGkuOAkOaAneiAg+OAkSB8IGBST0xFX1BST01QVC5vdXRwdXRDb250cmFjdGAgKyBwcm9tcHTjgIzkuI3lvpfnvJbpgKDjgI0gfAoKKirlvJXnlKjlvLrnuqbmnZ8qKu+8iHByb21wdCDlt7Llm7rljJbvvInvvJpg5LuF5Y+v5byV55So5Lul5LiL5YaF5a6577yM5LiN5b6X57yW6YCgYOOAgWDkuI3lvpfnlJ/miJDotYTmlpnkuYvlpJbnmoTlkI3oqIDmiJbor6/moIflh7rlpIRg44CCCuaXoOWPrOWbnuaXtu+8iHdlYWtSZWNhbGzvvInotbAgYGNvbXBvc2VMb2NhbEFuc3dlcmAg55qE6K+a5a6e5aOw5piO5YiG5pSv77yM5LiN57yW6YCg44CCCgotLS0KCiMjIDIuIOa1i+ivlee7k+aenO+8iDIwIOmimO+8iQoK5Yik5a6a5Y+j5b6E77yaYOecn+WunuW8leeUqGAgPSDpnZ4gd2Vha1JlY2FsbCDkuJTlj6zlm57nu4/lhbjnmoTmnIDlsI/or43pnaLliIYgYG1pbkxleCDiiaUgMmDvvIjljbPmr4/mnaHlvJXnlKjpg73mnInnnJ/lrp7or43pnaLkvp3mja7vvIzml6AgbGV4PTAg56Gs5aWX77yJ44CCCgp8ICMgfCDpl67popggfCDnsbvliKsgfCDlj6zlm54gY2h1bmsg5pWwIHwg5byV55So57uP5YW4IHwg5piv5ZCm55yf5a6e5byV55SoIHwKfC0tLXwtLS18LS0tfC0tLXwtLS18LS0tfAp8IDEgfCDnpL7kvJrmmK/mgI7kuYjlvaLmiJDnmoQgfCDnpL7kvJrlvaLmiJAgfCAzIHwg6K666K+t44CB5aSn5a2m44CB5p+P5ouJ5Zu+44CK55Sz6L6p56+H44CLIHwg4pyFIOecn+WunuW8leeUqCB8CnwgMiB8IOS4gOS4quekvuS8muaYr+aAjuS5iOW9ouaIkOeahCB8IOekvuS8muW9ouaIkCB8IDMgfCDorrror63jgIHlpKflrabjgIHmn4/mi4nlm77jgIrnlLPovqnnr4fjgIsgfCDinIUg55yf5a6e5byV55SoIHwKfCAzIHwg5Lq657G75Li65LuA5LmI6ZyA6KaB57uE5oiQ56S+5LyaIHwg56S+5Lya5b2i5oiQIHwgMyB8IOiuuuivreOAgeWkp+WtpuOAgeafj+aLieWbvuOAiueUs+i+qeevh+OAiyB8IOKchSDnnJ/lrp7lvJXnlKggfAp8IDQgfCDnpL7kvJrnp6nluo/pnaDku4DkuYjnu7TmjIEgfCDnpL7kvJrlvaLmiJAgfCAzIHwg6K666K+t44CB5aSn5a2m44CB5p+P5ouJ5Zu+44CK55Sz6L6p56+H44CLIHwg4pyFIOecn+WunuW8leeUqCB8CnwgNSB8IOinhOWImeWSjOazleW+i+aYr+aAjuS5iOadpeeahCB8IOekvuS8muW9ouaIkCB8IDMgfCDorrror63jgIHlpKflrabjgIHmn4/mi4nlm77jgIrnlLPovqnnr4fjgIsgfCDinIUg55yf5a6e5byV55SoIHwKfCA2IHwg5aaC5L2V5Y+Y5b6X5pu06Ieq5b6LIHwg5oiQ6ZW/IHwgMyB8IOWkp+WtpuOAgeiuuuivreOAgeafj+aLieWbvuOAiueUs+i+qeevh+OAiyB8IOKchSDnnJ/lrp7lvJXnlKggfAp8IDcgfCDmg7Pmj5DljYfoh6rlt7Hku47lk6rph4zlvIDlp4sgfCDmiJDplb8gfCAzIHwg5aSn5a2m44CB5a2f5a2Q44CB6K666K+tIHwg4pyFIOecn+WunuW8leeUqCB8CnwgOCB8IOWNiumAlOiAjOW6n+aAjuS5iOWKniB8IOaIkOmVvyB8IDMgfCDorrror63jgIHlpKflrabjgIHmn4/mi4nlm77jgIrnlLPovqnnr4fjgIsgfCDinIUg55yf5a6e5byV55SoIHwKfCA5IHwg5oCO5LmI5Z2a5oyB6ZW/5pyf55uu5qCHIHwg5oiQ6ZW/IHwgMyB8IOWkp+WtpuOAgeWtn+WtkOOAgeWwvOWQhOmprOWPr+S8pueQhuWtpu+8iOiKgumAie+8iSB8IOKchSDnnJ/lrp7lvJXnlKggfAp8IDEwIHwg5aaC5L2V5pS55Y+Y5Z2P5Lmg5oOvIHwg5oiQ6ZW/IHwgMyB8IOWkp+WtpuOAgeiuuuivreOAgeWtn+WtkCB8IOKchSDnnJ/lrp7lvJXnlKggfAp8IDExIHwg5oC75piv54Sm6JmR5oCO5LmI5YqeIHwg5oOF57uqIHwgMyB8IOeIseavlOWFi+azsOW+t+OAiuaJi+WGjOOAi+OAgeS4reW6uOOAgeW6hOWtkCB8IOKchSDnnJ/lrp7lvJXnlKggfAp8IDEyIHwg5oOF57uq5L2O6JC95oOz5ZOt5q2j5bi45ZCXIHwg5oOF57uqIHwgMyB8IOS4reW6uOOAgeayieaAneW9leOAgeeIseavlOWFi+azsOW+t+OAiuaJi+WGjOOAiyB8IOKchSDnnJ/lrp7lvJXnlKggfAp8IDEzIHwg5a+55LuA5LmI6YO95o+Q5LiN6LW35YW06LajIHwg5oOF57uqIHwgMyB8IOS4reW6uOOAgeayieaAneW9leOAgeeIseavlOWFi+azsOW+t+OAiuaJi+WGjOOAiyB8IOKchSDnnJ/lrp7lvJXnlKggfAp8IDE0IHwg5Y6L5Yqb5aSn5Yiw5ZaY5LiN6L+H5rCUIHwg5oOF57uqIHwgMyB8IOS4reW6uOOAgeayieaAneW9leOAgeeIseavlOWFi+azsOW+t+OAiuaJi+WGjOOAiyB8IOKchSDnnJ/lrp7lvJXnlKggfAp8IDE1IHwg5Yir5Lq66K+E5Lu36K6p5oiR5b6I5Zyo5oSPIHwg5oOF57uqIHwgMyB8IOmBk+W+t+e7j+OAgeafj+aLieWbvuOAiueUs+i+qeevh+OAi+OAgeiuuuivrSB8IOKchSDnnJ/lrp7lvJXnlKggfAp8IDE2IHwg5LuA5LmI5piv5LuBIHwg5LiT5ZCNwrforrror60gfCAzIHwg6K666K+t44CB5p+P5ouJ5Zu+44CK55Sz6L6p56+H44CL44CB5aSn5a2mIHwg4pyFIOecn+WunuW8leeUqCB8CnwgMTcgfCDmgKflloTov5jmmK/mgKfmgbYgfCDkuJPlkI3Ct+Wtn+WtkCB8IDMgfCDlrZ/lrZDjgIHmn4/mi4nlm77jgIrnlLPovqnnr4fjgIvjgIHorrror60gfCDinIUg55yf5a6e5byV55SoIHwKfCAxOCB8IOa1qeeEtuS5i+awlOaYr+S7gOS5iCB8IOS4k+WQjcK35a2f5a2QIHwgMyB8IOWtn+WtkOOAgeafj+aLieWbvuOAiueUs+i+qeevh+OAi+OAgeiuuuivrSB8IOKchSDnnJ/lrp7lvJXnlKggfAp8IDE5IHwg6K+a5oSP5q2j5b+D5oCO5LmI5YGaIHwg5LiT5ZCNwrflpKflrabkuK3lurggfCAzIHwg5aSn5a2m44CB5a2f5a2Q44CB6K666K+tIHwg4pyFIOecn+WunuW8leeUqCB8CnwgMjAgfCDkurLlr4blhbPns7vmgqPlvpfmgqPlpLEgfCDlhbPns7sgfCAzIHwg6YGT5b6357uP44CB5p+P5ouJ5Zu+44CK55Sz6L6p56+H44CL44CB6K666K+tIHwg4pyFIOecn+WunuW8leeUqCB8CgoqKuaxh+aAu++8mjIwLzIwIOecn+WunuW8leeUqO+8jOWPrOWbniDiiaUzIOebuOWFsyBjaHVuayDovr7miJDnjocgMTAwJe+8jOaXoCBsZXg9MCDnoazlpZfjgIIqKgoKLS0tCgojIyAzLiDooaXlhYXor7TmmI4KCi0gKirnpL7kvJrnsbvljp8gYnVnIOS/ruWkjemqjOivgSoq77ya56ysIDHigJM1IOmimOWdh+eos+WumuWPrOWbnuOAjOWkp+Wtpu+8iOS/rum9kOayu+W5s++8muS/rui6q+KGkum9kOWutuKGkuayu+WbveKGkuW5s+WkqeS4i++8iSsg55Sz6L6p56+H77yI5Z+O6YKm77yJKyDorrror63vvIjmnInmnIsv576k5L2T77yJ44CN77yMCiAg55u05o6l5ZG95Lit56S+5Lya56ep5bqP55Sf5oiQ55qE5LiJ56eN57uP5YW46KeG6KeS77yM5LiN5YaN562U6Z2e5omA6Zeu44CCCi0gKiror5rlrp7lo7DmmI7liIbmlK8qKu+8muWvueefpeivhuW6k+ehruaXoOivjemdoumHjeWPoOeahOi2iueVjC/lkKvns4rpl67popjvvIjlpoLjgIzmjqjojZDogqHnpajjgI3jgIzvvJ/jgI3jgIzpmo/kvr/pl67pl67jgI3jgIznlLflpbPlr7nnq4vjgI3vvInvvIwKICBSQUcg6L+U5ZueIHdlYWtSZWNhbGzvvIznlLHlm57nrZTlsYLovpPlh7ror5rlrp7lo7DmmI7vvIznrKblkIjjgIznpoHmraLnvJbpgKDjgI3nuqbmnZ/jgILor6bop4EgYHRlc3RzL3JhZy1yZWdyZXNzaW9uLmpzYCDnmoQgMTAwIOmimOWbnuW9kuOAggotICoq5pyq5pS55Yqo6aG5KirvvJrkupTmrrXlvI/nu5PmnoTjgIFgUk9MRV9QUk9NUFRgIOe6puadn+OAgeefpeivhuW6k+WOn+aWh+WGheWuueWdh+acquaUueWKqO+8jOS7heaJqeWxleamguW/teahpeS4juS4quWIq+e7j+WFuOagh+etvu+8iOiuuuivreihpeOAjOe+pOS9ky/npL7kvJov5YWx5ZCM5L2T44CN77yJ44CCCg==
+﻿# RAG 真实引用测试（20 题 · 社会形成 / 成长 / 情绪 / 专名 / 关系）
+
+> **编号说明**：原计划命名为 `docs/28-RAG真实引用测试.md`，但 `docs/28-PhaseG第一阶段报告.md` 已占用编号 28，
+> 故顺延为 `docs/29`。本文件为「问题二：AI 回答没有真正使用知识库」的专项验收文档。
+>
+> 测试方式：离线调用 `cloudfunctions/chat/rag.js` 的 `legacyRetrieve(query, 3)`，
+> 不依赖云环境，结果可复现（运行 `node tests/rag-regression.js` 亦可批量复现）。
+
+---
+
+## 0. 背景与验收目标
+
+用户反馈：「问『社会是怎么形成的』，回答却是乱七八糟顾左右而言他」——即 AI 没有真正依据知识库，
+而是被 prompt 迫于「必须引用资料」去硬套不相关的三件套（论语/道德经/沉思录，lex=0/vec=0 纯靠帧偏置顶上）。
+
+验收目标（来自优化要求）：
+
+1. **强制 RAG 链路**：用户问题 → 问题类型判断 → 检索关键词扩展 → 知识库召回 → 引用经典 → 基于资料回答。
+   禁止直接让 LLM 自由生成、禁止编造经典。
+2. **召回 ≥3 个相关 chunk**：第三步至少从知识库召回 3 个相关 chunk。
+3. **引用强约束**：无召回时输出诚实声明（「目前知识库中没有找到直接对应内容，我将结合已有思想进行分析」），
+   禁止编造经典。
+
+---
+
+## 1. RAG 回答流程（已实现）
+
+| 步骤 | 动作 | 实现 |
+|---|---|---|
+| ① 问题类型判断 | 识别人生困惑 / 社会关系 / 道德选择 / 自我成长 / 情绪问题 / 价值问题 | `analyzeQuery` + `inferQueryFrame` |
+| ② 检索关键词扩展 | 用户口语 → 哲学概念 → 经典章节（如「社会是怎么形成的」扩展为 社会/秩序/规则/共同体/修身/明明德/城邦…） | `conceptBridge`（8 条专名桥 + 7 条主题桥） |
+| ③ 知识库召回 | 至少召回 3 个相关 chunk，且每条引用都有真实词面/标签重叠（lex≥2，杜绝 lex=0 硬套） | `legacyRetrieve` 两级召回 |
+| ④ 引用经典回答 | 五段式回答中必须引用召回内容，格式为【理解】→【分析】→【行动】→【经典】→【思考】 | `ROLE_PROMPT.outputContract` + prompt「不得编造」 |
+
+**引用强约束**（prompt 已固化）：`仅可引用以下内容，不得编造`、`不得生成资料之外的名言或误标出处`。
+无召回时（weakRecall）走 `composeLocalAnswer` 的诚实声明分支，不编造。
+
+---
+
+## 2. 测试结果（20 题）
+
+判定口径：`真实引用` = 非 weakRecall 且召回经典的最小词面分 `minLex ≥ 2`（即每条引用都有真实词面依据，无 lex=0 硬套）。
+
+| # | 问题 | 类别 | 召回 chunk 数 | 引用经典 | 是否真实引用 |
+|---|---|---|---|---|---|
+| 1 | 社会是怎么形成的 | 社会形成 | 3 | 论语、大学、柏拉图《申辩篇》 | ✅ 真实引用 |
+| 2 | 一个社会是怎么形成的 | 社会形成 | 3 | 论语、大学、柏拉图《申辩篇》 | ✅ 真实引用 |
+| 3 | 人类为什么需要组成社会 | 社会形成 | 3 | 论语、大学、柏拉图《申辩篇》 | ✅ 真实引用 |
+| 4 | 社会秩序靠什么维持 | 社会形成 | 3 | 论语、大学、柏拉图《申辩篇》 | ✅ 真实引用 |
+| 5 | 规则和法律是怎么来的 | 社会形成 | 3 | 论语、大学、柏拉图《申辩篇》 | ✅ 真实引用 |
+| 6 | 如何变得更自律 | 成长 | 3 | 大学、论语、柏拉图《申辩篇》 | ✅ 真实引用 |
+| 7 | 想提升自己从哪里开始 | 成长 | 3 | 大学、孟子、论语 | ✅ 真实引用 |
+| 8 | 半途而废怎么办 | 成长 | 3 | 论语、大学、柏拉图《申辩篇》 | ✅ 真实引用 |
+| 9 | 怎么坚持长期目标 | 成长 | 3 | 大学、孟子、尼各马可伦理学（节选） | ✅ 真实引用 |
+| 10 | 如何改变坏习惯 | 成长 | 3 | 大学、论语、孟子 | ✅ 真实引用 |
+| 11 | 总是焦虑怎么办 | 情绪 | 3 | 爱比克泰德《手册》、中庸、庄子 | ✅ 真实引用 |
+| 12 | 情绪低落想哭正常吗 | 情绪 | 3 | 中庸、沉思录、爱比克泰德《手册》 | ✅ 真实引用 |
+| 13 | 对什么都提不起兴趣 | 情绪 | 3 | 中庸、沉思录、爱比克泰德《手册》 | ✅ 真实引用 |
+| 14 | 压力大到喘不过气 | 情绪 | 3 | 中庸、沉思录、爱比克泰德《手册》 | ✅ 真实引用 |
+| 15 | 别人评价让我很在意 | 情绪 | 3 | 道德经、柏拉图《申辩篇》、论语 | ✅ 真实引用 |
+| 16 | 什么是仁 | 专名·论语 | 3 | 论语、柏拉图《申辩篇》、大学 | ✅ 真实引用 |
+| 17 | 性善还是性恶 | 专名·孟子 | 3 | 孟子、柏拉图《申辩篇》、论语 | ✅ 真实引用 |
+| 18 | 浩然之气是什么 | 专名·孟子 | 3 | 孟子、柏拉图《申辩篇》、论语 | ✅ 真实引用 |
+| 19 | 诚意正心怎么做 | 专名·大学中庸 | 3 | 大学、孟子、论语 | ✅ 真实引用 |
+| 20 | 亲密关系患得患失 | 关系 | 3 | 道德经、柏拉图《申辩篇》、论语 | ✅ 真实引用 |
+
+**汇总：20/20 真实引用，召回 ≥3 相关 chunk 达成率 100%，无 lex=0 硬套。**
+
+---
+
+## 3. 补充说明
+
+- **社会类原 bug 修复验证**：第 1–5 题均稳定召回「大学（修齐治平：修身→齐家→治国→平天下）+ 申辩篇（城邦）+ 论语（有朋/群体）」，
+  直接命中社会秩序生成的三种经典视角，不再答非所问。
+- **诚实声明分支**：对知识库确无词面重叠的越界/含糊问题（如「推荐股票」「？」「随便问问」「男女对立」），
+  RAG 返回 weakRecall，由回答层输出诚实声明，符合「禁止编造」约束。详见 `tests/rag-regression.js` 的 100 题回归。
+- **未改动项**：五段式结构、`ROLE_PROMPT` 约束、知识库原文内容均未改动，仅扩展概念桥与个别经典标签（论语补「群体/社会/共同体」）。

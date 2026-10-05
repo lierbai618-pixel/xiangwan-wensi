@@ -1,1 +1,138 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0NCiIiIg0KbW9kZWxfY29uZmlnIOWFqOmHjyBiZW5jaG1hcmvvvJo3IOS4quaooeWeiyDDlyDnu5/kuIAgMyDpl67ms5XjgIINCuiusOW9leW7tui/nyhzKSAvIGNvbnRlbnQg5a2X5pWwIC8g5oiQ5Yqf546HIC8g5piv5ZCm56m6562U44CCDQoiIiINCmltcG9ydCB1cmxsaWIucmVxdWVzdA0KaW1wb3J0IGpzb24NCmltcG9ydCBzc2wNCmltcG9ydCB0aW1lDQoNCmN0eCA9IHNzbC5jcmVhdGVfZGVmYXVsdF9jb250ZXh0KCkNCmN0eC5jaGVja19ob3N0bmFtZSA9IEZhbHNlDQpjdHgudmVyaWZ5X21vZGUgPSBzc2wuQ0VSVF9OT05FDQoNClNZUyA9ICLkvaDmmK/kuIDkuKrnn6Xor4bpl67nrZTliqnmiYvjgILor7fmj5Dkvpvkv6Hmga/lr4bluqbpq5jjgIHnu4boioLlhYXlrp7nmoTlm57nrZTvvIznm7TmjqXnu5nlh7rlhbPplK7kuovlrp7vvIzkuI3ph43lpI3pl67popjjgIHkuI3lrqLlpZflvIDlnLrjgIIiDQoNCk1PREVMUyA9IFsNCiAgICB7DQogICAgICAgICJuYW1lIjogImhjbnNlYy9EZWVwU2Vlay1WNC1GbGFzaCIsDQogICAgICAgICJ1cmwiOiAiaHR0cHM6Ly9hcGkuaGNuc2VjLmNuL3YxL2NoYXQvY29tcGxldGlvbnMiLA0KICAgICAgICAia2V5IjogInNrLVlPVVJfQVBJX0tFWV9IRVJFIiwNCiAgICAgICAgIm1vZGVsIjogIkRlZXBTZWVrLVY0LUZsYXNoIiwNCiAgICAgICAgImVuYWJsZWQiOiBGYWxzZSwNCiAgICB9LA0KICAgIHsNCiAgICAgICAgIm5hbWUiOiAiaGNuc2VjL0RlZXBTZWVrLVY0LVBybyIsDQogICAgICAgICJ1cmwiOiAiaHR0cHM6Ly9hcGkuaGNuc2VjLmNuL3YxL2NoYXQvY29tcGxldGlvbnMiLA0KICAgICAgICAia2V5IjogInNrLVlPVVJfQVBJX0tFWV9IRVJFIiwNCiAgICAgICAgIm1vZGVsIjogIkRlZXBTZWVrLVY0LVBybyIsDQogICAgICAgICJlbmFibGVkIjogRmFsc2UsDQogICAgfSwNCiAgICB7DQogICAgICAgICJuYW1lIjogIumYv+mHjOS6kU1BQVMvcXdlbi1wbHVzIiwNCiAgICAgICAgInVybCI6ICJodHRwczovL3dzLWtrdXBkc3BkaHk5aGp4dTcuY24tYmVpamluZy5tYWFzLmFsaXl1bmNzLmNvbS9jb21wYXRpYmxlLW1vZGUvdjEvY2hhdC9jb21wbGV0aW9ucyIsDQogICAgICAgICJrZXkiOiAic2stWU9VUl9BUElfS0VZX0hFUkUiLA0KICAgICAgICAibW9kZWwiOiAicXdlbi1wbHVzIiwNCiAgICAgICAgImVuYWJsZWQiOiBUcnVlLA0KICAgIH0sDQogICAgew0KICAgICAgICAibmFtZSI6ICLnmb7ngrwvcXdlbi1wbHVzIiwNCiAgICAgICAgInVybCI6ICJodHRwczovL2Rhc2hzY29wZS5hbGl5dW5jcy5jb20vY29tcGF0aWJsZS1tb2RlL3YxL2NoYXQvY29tcGxldGlvbnMiLA0KICAgICAgICAia2V5IjogInNrLVlPVVJfQVBJX0tFWV9IRVJFIiwNCiAgICAgICAgIm1vZGVsIjogInF3ZW4tcGx1cyIsDQogICAgICAgICJlbmFibGVkIjogVHJ1ZSwNCiAgICB9LA0KICAgIHsNCiAgICAgICAgIm5hbWUiOiAi55m+54K8L2RlZXBzZWVrLXY0LWZsYXNoLTA3MzEiLA0KICAgICAgICAidXJsIjogImh0dHBzOi8vZGFzaHNjb3BlLmFsaXl1bmNzLmNvbS9jb21wYXRpYmxlLW1vZGUvdjEvY2hhdC9jb21wbGV0aW9ucyIsDQogICAgICAgICJrZXkiOiAic2stWU9VUl9BUElfS0VZX0hFUkUiLA0KICAgICAgICAibW9kZWwiOiAiZGVlcHNlZWstdjQtZmxhc2gtMDczMSIsDQogICAgICAgICJlbmFibGVkIjogVHJ1ZSwNCiAgICB9LA0KICAgIHsNCiAgICAgICAgIm5hbWUiOiAi57qq5YWD5b6L5YqoL2RlZXBzZWVrLXY0LWZsYXNoIiwNCiAgICAgICAgInVybCI6ICJodHRwczovL3Rva2Vucmh5dGhtLnN0dWRpby92MS9jaGF0L2NvbXBsZXRpb25zIiwNCiAgICAgICAgImtleSI6ICJza190cl9MXzgxNk5Dc2ZPMXQ3OS0xMkxXZDdtVEpBcWtPWWs2bDdDWkh0WkNiNU1vIiwNCiAgICAgICAgIm1vZGVsIjogImRlZXBzZWVrLXY0LWZsYXNoIiwNCiAgICAgICAgImVuYWJsZWQiOiBUcnVlLA0KICAgIH0sDQogICAgew0KICAgICAgICAibmFtZSI6ICJhZ25lcy9hZ25lcy0yLjAtZmxhc2giLA0KICAgICAgICAidXJsIjogImh0dHBzOi8vYXBpaHViLmFnbmVzLWFpLmNvbS92MS9jaGF0L2NvbXBsZXRpb25zIiwNCiAgICAgICAgImtleSI6ICJzay1ZT1VSX0FQSV9LRVlfSEVSRSIsDQogICAgICAgICJtb2RlbCI6ICJhZ25lcy0yLjAtZmxhc2giLA0KICAgICAgICAiZW5hYmxlZCI6IFRydWUsDQogICAgfSwNCl0NCg0KUVVFU1RJT05TID0gWw0KICAgICgi5Lq654mpLeS7mOiIqiIsICLku5joiKrmmK/osIHvvJ/nroDopoHku4vnu43ku5bnmoTog4zmma/lkozku6PooajkvZzjgIIiKSwNCiAgICAoIuWunuaXti0yMDI05aSn6YCJIiwgIjIwMjTlubTnvo7lm73mgLvnu5/lpKfpgInnmoTnu5PmnpzmmK/ku4DkuYjvvJ/osIHojrfog5zvvJ8iKSwNCiAgICAoIuWunuaXti3np5HmioDmlrDpl7siLCAi5pyA6L+R5LiA5ZGo5pyJ5LuA5LmI5YC85b6X5YWz5rOo55qE56eR5oqA5paw6Ze777yfIiksDQpdDQoNCmRlZiBjYWxsKHVybCwga2V5LCBtb2RlbCwgcSk6DQogICAgYm9keSA9IGpzb24uZHVtcHMoew0KICAgICAgICAibW9kZWwiOiBtb2RlbCwNCiAgICAgICAgIm1lc3NhZ2VzIjogWw0KICAgICAgICAgICAgeyJyb2xlIjogInN5c3RlbSIsICJjb250ZW50IjogU1lTfSwNCiAgICAgICAgICAgIHsicm9sZSI6ICJ1c2VyIiwgImNvbnRlbnQiOiBxfSwNCiAgICAgICAgXSwNCiAgICAgICAgInN0cmVhbSI6IEZhbHNlLA0KICAgICAgICAibWF4X3Rva2VucyI6IDEwMjQsDQogICAgfSkuZW5jb2RlKCJ1dGYtOCIpDQogICAgcmVxID0gdXJsbGliLnJlcXVlc3QuUmVxdWVzdCh1cmwsIGRhdGE9Ym9keSwgbWV0aG9kPSJQT1NUIikNCiAgICByZXEuYWRkX2hlYWRlcigiQXV0aG9yaXphdGlvbiIsICJCZWFyZXIgIiArIGtleSkNCiAgICByZXEuYWRkX2hlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb247IGNoYXJzZXQ9dXRmLTgiKQ0KICAgIHQwID0gdGltZS50aW1lKCkNCiAgICB0cnk6DQogICAgICAgIHdpdGggdXJsbGliLnJlcXVlc3QudXJsb3BlbihyZXEsIHRpbWVvdXQ9NjAsIGNvbnRleHQ9Y3R4KSBhcyByZXNwOg0KICAgICAgICAgICAgcmF3ID0gcmVzcC5yZWFkKCkuZGVjb2RlKCJ1dGYtOCIsICJyZXBsYWNlIikNCiAgICAgICAgICAgIGR0ID0gdGltZS50aW1lKCkgLSB0MA0KICAgICAgICAgICAgZGF0YSA9IGpzb24ubG9hZHMocmF3KQ0KICAgICAgICAgICAgY2hvaWNlcyA9IGRhdGEuZ2V0KCJjaG9pY2VzIikgb3IgW3t9XQ0KICAgICAgICAgICAgbXNnID0gY2hvaWNlc1swXS5nZXQoIm1lc3NhZ2UiLCB7fSkgaWYgY2hvaWNlcyBlbHNlIHt9DQogICAgICAgICAgICBjb250ZW50ID0gKG1zZy5nZXQoImNvbnRlbnQiKSBvciAiIikuc3RyaXAoKQ0KICAgICAgICAgICAgcmV0dXJuIGR0LCBjb250ZW50LCBOb25lDQogICAgZXhjZXB0IHVybGxpYi5lcnJvci5IVFRQRXJyb3IgYXMgZToNCiAgICAgICAgcmV0dXJuIHRpbWUudGltZSgpIC0gdDAsICIiLCBlLnJlYWQoKS5kZWNvZGUoInV0Zi04IiwgInJlcGxhY2UiKVs6MjAwXQ0KICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToNCiAgICAgICAgcmV0dXJuIHRpbWUudGltZSgpIC0gdDAsICIiLCBzdHIoZSlbOjIwMF0NCg0KcHJpbnQoIj0iICogODApDQpwcmludCgibW9kZWxfY29uZmlnIOWFqOmHjyBiZW5jaG1hcmsg4oCUICVkIOS4quaooeWeiyDDlyAlZCDpl64iICUgKGxlbihNT0RFTFMpLCBsZW4oUVVFU1RJT05TKSkpDQpwcmludCgiPSIgKiA4MCkNCg0KcmVzdWx0cyA9IHt9DQpmb3IgbSBpbiBNT0RFTFM6DQogICAgdGFnID0gIlslc10iICUgbVsibmFtZSJdDQogICAgZW4gPSAiT04iIGlmIG1bImVuYWJsZWQiXSBlbHNlICJPRkYiDQogICAgcHJpbnQoIlxuJXMgIChlbmFibGVkPSVzKSIgJSAodGFnLCBlbikpDQogICAgbGF0cyA9IFtdDQogICAgbGVucyA9IFtdDQogICAgb2sgPSAwDQogICAgZm9yIHFuLCBxIGluIFFVRVNUSU9OUzoNCiAgICAgICAgZHQsIGNvbnRlbnQsIGVyciA9IGNhbGwobVsidXJsIl0sIG1bImtleSJdLCBtWyJtb2RlbCJdLCBxKQ0KICAgICAgICBpZiBlcnI6DQogICAgICAgICAgICBwcmludCgiICBbJXNdIEVSUiAlLjFmcyAgJXMiICUgKHFuLCBkdCwgZXJyKSkNCiAgICAgICAgICAgIGxhdHMuYXBwZW5kKGR0KQ0KICAgICAgICAgICAgbGVucy5hcHBlbmQoMCkNCiAgICAgICAgZWxzZToNCiAgICAgICAgICAgIGNsID0gbGVuKGNvbnRlbnQpDQogICAgICAgICAgICBvayArPSAxDQogICAgICAgICAgICBsYXRzLmFwcGVuZChkdCkNCiAgICAgICAgICAgIGxlbnMuYXBwZW5kKGNsKQ0KICAgICAgICAgICAgcHJpbnQoIiAgWyVzXSAlLjFmcyAvICVk5a2XIiAlIChxbiwgZHQsIGNsKSkNCiAgICBhdmdfdCA9IHN1bShsYXRzKSAvIGxlbihsYXRzKSBpZiBsYXRzIGVsc2UgMA0KICAgIGF2Z19sID0gc3VtKGxlbnMpIC8gbGVuKGxlbnMpIGlmIGxlbnMgZWxzZSAwDQogICAgcmVzdWx0c1ttWyJuYW1lIl1dID0geyJhdmdfdCI6IGF2Z190LCAiYXZnX2wiOiBhdmdfbCwgIm9rIjogb2ssICJ0b3RhbCI6IGxlbihRVUVTVElPTlMpfQ0KICAgIHByaW50KCIgIOKGkiDlubPlnYc6ICUuMWZzIC8gJS4wZuWtlyB8IOaIkOWKnzogJWQvJWQiICUgKGF2Z190LCBhdmdfbCwgb2ssIGxlbihRVUVTVElPTlMpKSkNCg0KcHJpbnQoIlxuIiArICI9IiAqIDgwKQ0KcHJpbnQoIuaOkuWQje+8iOaMieW5s+Wdh+W7tui/n+WNh+W6j++8iSIpDQpwcmludCgiPSIgKiA4MCkNCnJhbmtlZCA9IHNvcnRlZChyZXN1bHRzLml0ZW1zKCksIGtleT1sYW1iZGEgeDogeFsxXVsiYXZnX3QiXSkNCmZvciBpLCAobmFtZSwgcikgaW4gZW51bWVyYXRlKHJhbmtlZCk6DQogICAgcHJpbnQoIiVkLiAlLTM1cyAg5bu26L+fJS4xZnMgIOWtl+aVsCUuMGYgIOaIkOWKnyVkLyVkIg0KICAgICAgICAgICUgKGkrMSwgbmFtZSwgclsiYXZnX3QiXSwgclsiYXZnX2wiXSwgclsib2siXSwgclsidG90YWwiXSkpDQo=
+# -*- coding: utf-8 -*-
+"""
+model_config 全量 benchmark：7 个模型 × 统一 3 问法。
+记录延迟(s) / content 字数 / 成功率 / 是否空答。
+"""
+import urllib.request
+import json
+import ssl
+import time
+
+ctx = ssl.create_default_context()
+ctx.check_hostname = False
+ctx.verify_mode = ssl.CERT_NONE
+
+SYS = "你是一个知识问答助手。请提供信息密度高、细节充实的回答，直接给出关键事实，不重复问题、不客套开场。"
+
+MODELS = [
+    {
+        "name": "hcnsec/DeepSeek-V4-Flash",
+        "url": "https://api.hcnsec.cn/v1/chat/completions",
+        "key": "sk-YOUR_API_KEY_HERE",
+        "model": "DeepSeek-V4-Flash",
+        "enabled": False,
+    },
+    {
+        "name": "hcnsec/DeepSeek-V4-Pro",
+        "url": "https://api.hcnsec.cn/v1/chat/completions",
+        "key": "sk-YOUR_API_KEY_HERE",
+        "model": "DeepSeek-V4-Pro",
+        "enabled": False,
+    },
+    {
+        "name": "阿里云MAAS/qwen-plus",
+        "url": "https://ws-kkupdspdhy9hjxu7.cn-beijing.maas.aliyuncs.com/compatible-mode/v1/chat/completions",
+        "key": "sk-YOUR_API_KEY_HERE",
+        "model": "qwen-plus",
+        "enabled": True,
+    },
+    {
+        "name": "百炼/qwen-plus",
+        "url": "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions",
+        "key": "sk-YOUR_API_KEY_HERE",
+        "model": "qwen-plus",
+        "enabled": True,
+    },
+    {
+        "name": "百炼/deepseek-v4-flash-0731",
+        "url": "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions",
+        "key": "sk-YOUR_API_KEY_HERE",
+        "model": "deepseek-v4-flash-0731",
+        "enabled": True,
+    },
+    {
+        "name": "纪元律动/deepseek-v4-flash",
+        "url": "https://tokenrhythm.studio/v1/chat/completions",
+        "key": "sk_tr_L_816NCsfO1t79-12LWd7mTJAqkOYk6l7CZHtZCb5Mo",
+        "model": "deepseek-v4-flash",
+        "enabled": True,
+    },
+    {
+        "name": "agnes/agnes-2.0-flash",
+        "url": "https://apihub.agnes-ai.com/v1/chat/completions",
+        "key": "sk-YOUR_API_KEY_HERE",
+        "model": "agnes-2.0-flash",
+        "enabled": True,
+    },
+]
+
+QUESTIONS = [
+    ("人物-付航", "付航是谁？简要介绍他的背景和代表作。"),
+    ("实时-2024大选", "2024年美国总统大选的结果是什么？谁获胜？"),
+    ("实时-科技新闻", "最近一周有什么值得关注的科技新闻？"),
+]
+
+def call(url, key, model, q):
+    body = json.dumps({
+        "model": model,
+        "messages": [
+            {"role": "system", "content": SYS},
+            {"role": "user", "content": q},
+        ],
+        "stream": False,
+        "max_tokens": 1024,
+    }).encode("utf-8")
+    req = urllib.request.Request(url, data=body, method="POST")
+    req.add_header("Authorization", "Bearer " + key)
+    req.add_header("Content-Type", "application/json; charset=utf-8")
+    t0 = time.time()
+    try:
+        with urllib.request.urlopen(req, timeout=60, context=ctx) as resp:
+            raw = resp.read().decode("utf-8", "replace")
+            dt = time.time() - t0
+            data = json.loads(raw)
+            choices = data.get("choices") or [{}]
+            msg = choices[0].get("message", {}) if choices else {}
+            content = (msg.get("content") or "").strip()
+            return dt, content, None
+    except urllib.error.HTTPError as e:
+        return time.time() - t0, "", e.read().decode("utf-8", "replace")[:200]
+    except Exception as e:
+        return time.time() - t0, "", str(e)[:200]
+
+print("=" * 80)
+print("model_config 全量 benchmark — %d 个模型 × %d 问" % (len(MODELS), len(QUESTIONS)))
+print("=" * 80)
+
+results = {}
+for m in MODELS:
+    tag = "[%s]" % m["name"]
+    en = "ON" if m["enabled"] else "OFF"
+    print("\n%s  (enabled=%s)" % (tag, en))
+    lats = []
+    lens = []
+    ok = 0
+    for qn, q in QUESTIONS:
+        dt, content, err = call(m["url"], m["key"], m["model"], q)
+        if err:
+            print("  [%s] ERR %.1fs  %s" % (qn, dt, err))
+            lats.append(dt)
+            lens.append(0)
+        else:
+            cl = len(content)
+            ok += 1
+            lats.append(dt)
+            lens.append(cl)
+            print("  [%s] %.1fs / %d字" % (qn, dt, cl))
+    avg_t = sum(lats) / len(lats) if lats else 0
+    avg_l = sum(lens) / len(lens) if lens else 0
+    results[m["name"]] = {"avg_t": avg_t, "avg_l": avg_l, "ok": ok, "total": len(QUESTIONS)}
+    print("  → 平均: %.1fs / %.0f字 | 成功: %d/%d" % (avg_t, avg_l, ok, len(QUESTIONS)))
+
+print("\n" + "=" * 80)
+print("排名（按平均延迟升序）")
+print("=" * 80)
+ranked = sorted(results.items(), key=lambda x: x[1]["avg_t"])
+for i, (name, r) in enumerate(ranked):
+    print("%d. %-35s  延迟%.1fs  字数%.0f  成功%d/%d"
+          % (i+1, name, r["avg_t"], r["avg_l"], r["ok"], r["total"]))

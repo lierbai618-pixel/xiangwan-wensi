@@ -1,1 +1,109 @@
-IyBQUk9KRUNUX01BUC5tZCDCtyDkuIDlvKDlm77nnIvmh4LmlbTkuKrpobnnm64KCj4gKirliLfmlrDkuo4gMjAyNi0wOC0wN++8iOe7iOagoeiHsyBRMi0xNe+8iSoq77ya5aKe5YqgIEZyZXNobmVzcy9gcHJvdmlkZXJzL3NlYXJjaC9gIOaKpOagj+mTvuOAgVRoaW5rIOaooeW8j+OAgeWbm+aooeW8j+a0vuWPkeOAgWBzZWN1cml0eWAvYG9ic2VydmFiaWxpdHlgIOiKgueCueOAggoKYGBgbWVybWFpZApncmFwaCBURAogICAgc3ViZ3JhcGggRnJvbnRlbmQgW+WJjeerryBtaW5pcHJvZ3JhbS9dCiAgICAgICAgSFtob21lICsg5Zub5qih5byP6YCJ5oupXQogICAgICAgIENbY2hhdCArIOmakOengea1ruWxgiArIOW8leeUqOWNoV0KICAgICAgICBBW2Fib3V0XQogICAgICAgIEJbYm9va3Mg5Lmm5bqTXQogICAgICAgIEFEW2FkbWluIOWQjuWPsF0KICAgICAgICBQW3ByaXZhY3kg5Y2P6K6uXQogICAgICAgIFNbc2Vzc2lvbnMg5YiX6KGoXQogICAgZW5kCgogICAgc3ViZ3JhcGggRGlzcGF0Y2ggW2NoYXQvaW5kZXguanMg5rS+5Y+RXQogICAgICAgIE1PREVbRmFzdPCfjJAvRGVlcPCfk5ovVGhpbmvwn4yFXQogICAgICAgIFRSQUNLW0NhcGFiaWxpdHkvRnJlc2huZXNzL0tub3dsZWRnZV0KICAgIGVuZAoKICAgIHN1YmdyYXBoIEZyZXNoIFtGcmVzaG5lc3Mg6L2o6YGTXQogICAgICAgIEVDW2V2ZW50Q2xhc3NpZmllciDlm5vliIbnsbtdCiAgICAgICAgRkRbZnJlc2huZXNzLyogKyBmcmVzaG5lc3NSdW50aW1lR3VhcmRdCiAgICBlbmQKCiAgICBzdWJncmFwaCBTZWFyY2ggW3Byb3ZpZGVycy9zZWFyY2gvIOaKpOagj+mTvl0KICAgICAgICBTTFtzZWFyY2hMYXllciBpbmRleF0KICAgICAgICBQR1twcml2YWN5R2F0ZV0KICAgICAgICBDR1tjYW5hcnlHYXRlXQogICAgICAgIFFUW3F1b3RhXQogICAgICAgIFBSW3F3ZW4vdGVuY2VudC9kb21lc3RpYy9tb2NrXQogICAgICAgIEFVW2F1ZGl0IGRhdGFfcm91dGU9ZG9tZXN0aWNdCiAgICBlbmQKCiAgICBzdWJncmFwaCBDbG91ZCBb5LqR5Ye95pWwIGNsb3VkZnVuY3Rpb25zL10KICAgICAgICBDQVtjaGF0OiBpbmRleC9yYWcvaW50ZW50L2tub3dsZWRnZVJvdXRlci9hbnN3ZXJNb2RlXQogICAgICAgIENBUFtjYXBhYmlsaXRpZXM6IOaXtumXtC/lpKnmsJRdCiAgICAgICAgVEhbdGhpbms6IFNlYXJjaCtSQUcrUmVhc29uaW5nXQogICAgICAgIEZCW2ZlZWRiYWNrXQogICAgICAgIEhJW2hpc3Rvcnk6IGNvbnZlcnNhdGlvbnNdCiAgICAgICAgSU5baW5nZXN0OiBkb2N1bWVudHMvY2h1bmtzL21ldGFkYXRhXQogICAgICAgIExPW2xvZ2luXQogICAgICAgIEFETVthZG1pbjogbW9kZWxfY29uZmlnL+aXpeW/l10KICAgICAgICBTRUNbc2VjdXJpdHk6IG1zZ1NlY0NoZWNrXQogICAgICAgIE9CU1tvYnNlcnZhYmlsaXR5XQogICAgZW5kCgogICAgc3ViZ3JhcGggREIgW+aVsOaNruW6k+mbhuWQiF0KICAgICAgICBMW2xvZ3NdCiAgICAgICAgTUNbbW9kZWxfY29uZmlnXQogICAgICAgIFFMW3F1ZXN0aW9uX2xvZ3NdCiAgICAgICAgQUZbYW5zd2VyX2ZlZWRiYWNrXQogICAgICAgIEFRTFthbnN3ZXJfcXVhbGl0eV9sb2ddCiAgICAgICAgQ09OVltjb252ZXJzYXRpb25zXQogICAgICAgIENIW2NodW5rc10KICAgICAgICBET0NbZG9jdW1lbnRzXQogICAgICAgIE9CU0xbb2JzZXJ2YWJpbGl0eV9sb2dzXQogICAgZW5kCgogICAgc3ViZ3JhcGggS25vd2xlZGdlIFvnn6Xor4YgY29ycHVzLmpzb24g5Ya757uTXQogICAgICAgIEtOWzM3IOe7j+WFuCAvIHRhZ3MgLyBxdWVzdGlvbl9icmlkZ2VdCiAgICBlbmQKCiAgICBDIC0tPiBDQQogICAgQ0EgLS0+IERpc3BhdGNoCiAgICBEaXNwYXRjaCAtLT4gTU9ERQogICAgRGlzcGF0Y2ggLS0+IFRSQUNLCiAgICBUUkFDSyAtLT4gQ0FQCiAgICBUUkFDSyAtLT4gRnJlc2gKICAgIFRSQUNLIC0tPiBLTldbKEtub3dsZWRnZT1yYWcvY29ycHVzKV0KICAgIE1PREUgLS0+IFNlYXJjaAogICAgRnJlc2ggLS0+IFNlYXJjaAogICAgU2VhcmNoIC0tPiBTTCAtLT4gUEcgLS0+IENHIC0tPiBRVCAtLT4gUFIgLS0+IEFVCiAgICBQUiAtLT4gRkQKICAgIEZEIC0tPiBLTlcKICAgIEtOVyAtLT4gQ0EKICAgIENBUCAtLT4gQ0EKICAgIENBIC0tPiBEQgogICAgSEkgLS0+IENPTlYKICAgIElOIC0tPiBDSAogICAgSU4gLS0+IERPQwogICAgRkIgLS0+IEFGCiAgICBGQiAtLT4gQVFMCiAgICBBRE0gLS0+IE1DCiAgICBBRE0gLS0+IFFMCiAgICBBRE0gLS0+IEwKICAgIENBIC0tPiBPQlNMCiAgICBTRUMgLS0+IENBCmBgYAoKIyMg5qih5Z2X6YCf5p+lCgp8IOaDs+aUueS7gOS5iCB8IOWOu+WTqiB8CnwtLS0tLS0tLS18LS0tLS0tfAp8IOWJjeerr+iBiuWkqSBVSSAvIOWbm+aooeW8jyB8IGBtaW5pcHJvZ3JhbS9wYWdlcy9jaGF0L2NoYXQuanNgIHwKfCDlr7nor53mtL7lj5EgLyDot6/nlLEgfCBgY2xvdWRmdW5jdGlvbnMvY2hhdC9pbmRleC5qc2DvvIgqKumdnuWGu+e7kyoq77yJIHwKfCDlrp7ml7bog73lipvvvIjml7bpl7Qv5aSp5rCU77yJIHwgYGNsb3VkZnVuY3Rpb25zL2NhcGFiaWxpdGllcy9yb3V0ZXIuanNg77yIYENBUEFCSUxJVFlfRU5BQkxFRGDvvIkgfAp8IOS6i+S7tuWIhuexuyAvIOmZjee6pyAvIOi+k+WHuuWuiOWNqyB8IGBjbG91ZGZ1bmN0aW9ucy9jaGF0L2ZyZXNobmVzcy97ZXZlbnRDbGFzc2lmaWVyLGRvd25ncmFkZSxyZXNwb25kZXJ9LmpzYCB8Cnwg5Zyo57q/5pCc57Si5oqk5qCP6ZO+IHwgYGNsb3VkZnVuY3Rpb25zL2NoYXQvcHJvdmlkZXJzL3NlYXJjaC97aW5kZXgsY2FuYXJ5R2F0ZSxwcml2YWN5R2F0ZX0uanNgIHwKfCDmkJzntKIgcHJvdmlkZXLvvIjnmb7ngrwv6IW+6K6vL+WbveWGhe+8iSB8IGBjbG91ZGZ1bmN0aW9ucy9jaGF0L3Byb3ZpZGVycy9zZWFyY2gve3F3ZW5TZWFyY2gsdGVuY2VudFdzYVNlYXJjaCxkb21lc3RpY0FwaVNlYXJjaH0uanNgIHwKfCDpmpTnprvlrojljasgfCBgY2xvdWRmdW5jdGlvbnMvY2hhdC9mcmVzaG5lc3NSdW50aW1lR3VhcmQuanNgIHwKfCDnu4/lhbjlj6zlm57mupDvvIjlhrvnu5PvvIkgfCBgY2xvdWRmdW5jdGlvbnMvY2hhdC9jb3JwdXMuanNvbmDvvIhTSEEyNTYg5a6I6Zeo77yJIHwKfCBSQUcgLyDmhI/lm74gLyDot6/nlLHvvIjlhrvnu5PvvIkgfCBgY2xvdWRmdW5jdGlvbnMvY2hhdC97cmFnLGludGVudCxrbm93bGVkZ2VSb3V0ZXJ9LmpzYCB8Cnwg5Lya6K+d5Y6G5Y+yIHwgYGNsb3VkZnVuY3Rpb25zL2hpc3RvcnkvaW5kZXguanNg77yIQ09MTEVDVElPTj0iY29udmVyc2F0aW9ucyLvvIkgfAp8IOefpeivhuWFpeW6kyB8IGBjbG91ZGZ1bmN0aW9ucy9pbmdlc3QvaW5kZXguanNg77yIZG9jdW1lbnRzL2NodW5rcy9tZXRhZGF0Ye+8iSB8Cnwg5qih5Z6LL+aXpeW/l+euoeeQhiB8IGBjbG91ZGZ1bmN0aW9ucy9hZG1pbi9pbmRleC5qc2DvvIhtb2RlbF9jb25maWcvbG9ncy9xdWVzdGlvbl9sb2dz77yJIHwKfCDpg6jnvbLphY3nva7vvIjlv4Xor7vvvIkgfCBgY2xvdWRiYXNlcmMuanNvbmDvvIhlbnZWYXJpYWJsZXMvcnVudGltZS90aW1lb3V0L21lbW9yeVNpemXvvIkgfApgYGAK
+﻿# PROJECT_MAP.md · 一张图看懂整个项目
+
+> **刷新于 2026-08-07（终校至 Q2-15）**：增加 Freshness/`providers/search/` 护栏链、Think 模式、四模式派发、`security`/`observability` 节点。
+
+```mermaid
+graph TD
+    subgraph Frontend [前端 miniprogram/]
+        H[home + 四模式选择]
+        C[chat + 隐私浮层 + 引用卡]
+        A[about]
+        B[books 书库]
+        AD[admin 后台]
+        P[privacy 协议]
+        S[sessions 列表]
+    end
+
+    subgraph Dispatch [chat/index.js 派发]
+        MODE[Fast🌐/Deep📚/Think🌅]
+        TRACK[Capability/Freshness/Knowledge]
+    end
+
+    subgraph Fresh [Freshness 轨道]
+        EC[eventClassifier 四分类]
+        FD[freshness/* + freshnessRuntimeGuard]
+    end
+
+    subgraph Search [providers/search/ 护栏链]
+        SL[searchLayer index]
+        PG[privacyGate]
+        CG[canaryGate]
+        QT[quota]
+        PR[qwen/tencent/domestic/mock]
+        AU[audit data_route=domestic]
+    end
+
+    subgraph Cloud [云函数 cloudfunctions/]
+        CA[chat: index/rag/intent/knowledgeRouter/answerMode]
+        CAP[capabilities: 时间/天气]
+        TH[think: Search+RAG+Reasoning]
+        FB[feedback]
+        HI[history: conversations]
+        IN[ingest: documents/chunks/metadata]
+        LO[login]
+        ADM[admin: model_config/日志]
+        SEC[security: msgSecCheck]
+        OBS[observability]
+    end
+
+    subgraph DB [数据库集合]
+        L[logs]
+        MC[model_config]
+        QL[question_logs]
+        AF[answer_feedback]
+        AQL[answer_quality_log]
+        CONV[conversations]
+        CH[chunks]
+        DOC[documents]
+        OBSL[observability_logs]
+    end
+
+    subgraph Knowledge [知识 corpus.json 冻结]
+        KN[37 经典 / tags / question_bridge]
+    end
+
+    C --> CA
+    CA --> Dispatch
+    Dispatch --> MODE
+    Dispatch --> TRACK
+    TRACK --> CAP
+    TRACK --> Fresh
+    TRACK --> KNW[(Knowledge=rag/corpus)]
+    MODE --> Search
+    Fresh --> Search
+    Search --> SL --> PG --> CG --> QT --> PR --> AU
+    PR --> FD
+    FD --> KNW
+    KNW --> CA
+    CAP --> CA
+    CA --> DB
+    HI --> CONV
+    IN --> CH
+    IN --> DOC
+    FB --> AF
+    FB --> AQL
+    ADM --> MC
+    ADM --> QL
+    ADM --> L
+    CA --> OBSL
+    SEC --> CA
+```
+
+## 模块速查
+
+| 想改什么 | 去哪 |
+|---------|------|
+| 前端聊天 UI / 四模式 | `miniprogram/pages/chat/chat.js` |
+| 对话派发 / 路由 | `cloudfunctions/chat/index.js`（**非冻结**） |
+| 实时能力（时间/天气） | `cloudfunctions/capabilities/router.js`（`CAPABILITY_ENABLED`） |
+| 事件分类 / 降级 / 输出守卫 | `cloudfunctions/chat/freshness/{eventClassifier,downgrade,responder}.js` |
+| 在线搜索护栏链 | `cloudfunctions/chat/providers/search/{index,canaryGate,privacyGate}.js` |
+| 搜索 provider（百炼/腾讯/国内） | `cloudfunctions/chat/providers/search/{qwenSearch,tencentWsaSearch,domesticApiSearch}.js` |
+| 隔离守卫 | `cloudfunctions/chat/freshnessRuntimeGuard.js` |
+| 经典召回源（冻结） | `cloudfunctions/chat/corpus.json`（SHA256 守门） |
+| RAG / 意图 / 路由（冻结） | `cloudfunctions/chat/{rag,intent,knowledgeRouter}.js` |
+| 会话历史 | `cloudfunctions/history/index.js`（COLLECTION="conversations"） |
+| 知识入库 | `cloudfunctions/ingest/index.js`（documents/chunks/metadata） |
+| 模型/日志管理 | `cloudfunctions/admin/index.js`（model_config/logs/question_logs） |
+| 部署配置（必读） | `cloudbaserc.json`（envVariables/runtime/timeout/memorySize） |
+```

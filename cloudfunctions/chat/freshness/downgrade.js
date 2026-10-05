@@ -1,1 +1,98 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIEZyZXNobmVzcyBMYXllciDigJQgZG93bmdyYWRlLmpzCi8vICAgUGhhc2UgUSAvIFEwIFBvbGljeSDokL3lnLDvvJrpmY3nuqfnrZbnlaXvvIhRMCDCpzbvvInjgIIKLy8KLy8gICDop6blj5HvvJrmsqHmnInlj6/pnaDkuovlrp4gLyDmsqHmnInmmI7noa7kuovku7YgLyDmnaXmupDkuI3otrMgLyDkv6Hmga/lhrLnqoEgLyDkuovku7bnpoHlhaXjgIIKLy8gICDnpoHmraLvvJrnvJbpgKDjgIHlvLrooYzliIbmnpDjgIHlgYfoo4XpmY3nuqfvvIjlv4XpobvmmL7lvI/lkYrnn6XlvZPliY3nirbmgIHvvInjgIIKLy8gICDlhYHorrjkuInliqjkvZzvvJrpgoDor7fnlKjmiLfooaXlhYUgLyDovazlkJHmma7pgY3kurrmgKforqjorrogLyDor5rlrp7mib/orqTovrnnlYzjgIIKLy8gICDnuq/lh73mlbDjgIHpm7bkupHkvp3otZbvvIzlj6/nprvnur/ljZXmtYvjgIIKLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Cid1c2Ugc3RyaWN0JzsKCnZhciBTID0gcmVxdWlyZSgnLi9zY2hlbWEnKTsKdmFyIERPV05HUkFERV9SRUFTT04gPSBTLkRPV05HUkFERV9SRUFTT047CnZhciBVU0VSX0lOVEVOVCA9IFMuVVNFUl9JTlRFTlQ7CgovLyDnoa7lrprmgKfpgInmi6nvvIjlkIzpl67lkIznrZTvvIzkvr/kuo7mtYvor5XkuI7lrqHorqHvvIkKZnVuY3Rpb24gcGljayhpdGVtcywgc2VlZCkgewogIHZhciBoYXNoID0gMDsKICB2YXIgcyA9IHNlZWQgfHwgJyc7CiAgZm9yICh2YXIgaSA9IDA7IGkgPCBzLmxlbmd0aDsgaSsrKSBoYXNoID0gKGhhc2ggKiAzMSArIHMuY2hhckNvZGVBdChpKSkgPj4+IDA7CiAgcmV0dXJuIGl0ZW1zW2l0ZW1zLmxlbmd0aCA/IGhhc2ggJSBpdGVtcy5sZW5ndGggOiAwXTsKfQoKLy8g5Yqo5L2c4pGg77ya6YKA6K+355So5oi36KGl5YWF77yI5LqL5Lu25qih57OKIC8g55So5oi35Y+v6IO95o6M5o+h56ys5LiA5omL6IOM5pmv77yJCnZhciBJTlZJVEVfVEVNUExBVEVTID0gWwogICfkvaDmj5DliLDnmoTov5nku7bkuovvvIzmiJHmiYvlpLTmsqHmnInlj6/pnaDnmoTmoLjlrp7muKDpgZPvvIzkuI3mg7Plh63ljbDosaHkubHor7TjgILkvaDmlrnkvr/nroDljZXmj4/ov7DkuIDkuIvkvaDnnIvliLDnmoTmg4XlhrXlkJfvvJ/lpKfmpoLku4DkuYjml7blgJnjgIHlnKjlk6rph4znnIvliLDnmoTjgIHlvZPkuovkurrmmK/osIHigJTigJTkvaDnu5nnmoTog4zmma/otorlhbfkvZPvvIzmiJHku6zog73ogYrlvpfotorlrp7jgIInLAogICfov5nku7bkuovmiJHnm67liY3mn6XkuI3liLDlj6/ku6XmoLjlrp7nmoTkv6Hmga/jgILlpoLmnpzkvaDmhL/mhI/vvIzlj6/ku6XmiorkvaDnn6XpgZPnmoTmg4XlhrXorrLkuIDorrLvvJrml7bpl7TjgIHmnaXmupDjgIHmnIDorqnkvaDlnKjmhI/nmoTpgqPkuIDngrnjgILmiJHku6zln7rkuo7kvaDmj5DkvpvnmoTkuovlrp7mnaXogYrvvIzmiJHkvJrmiorlroPlvZPkvZwi5L2g55yL5Yiw55qE54mI5pysIuadpeWvueW+heOAgicsCl07CgovLyDliqjkvZzikaHvvJrovazlkJHmma7pgY3kurrmgKforqjorrrvvIjmioogQiDlronlhajpmY3nu7TkuLogQSDnmoTmoIflh4bliqjkvZzvvIkKdmFyIFVOSVZFUlNBTF9URU1QTEFURVMgPSBbCiAgJ+iZveeEtui/meS7tuS6i+eahOWFt+S9k+e7huiKguaIkei/mOayoeazleaguOWunu+8jOS9hui/meexu+S6i+aDheiDjOWQjueahOS6uuaAp+aYr+S4gOebtOWAvOW+l+iBiueahOKAlOKAlOavlOWmguS6uuWcqOe+pOS9k+mHjOS4uuS7gOS5iOWuueaYk+WkseWOu+WIhuWvuO+8jOaIluiAheaIkeS7rOS4uuS7gOS5iOWvuemZjOeUn+S6uueahOaVheS6i+aKleWFpemCo+S5iOW8uueahOaDhee7quOAguaDs+S7jui/memHjOW8gOWni+WQl++8nycsCiAgJ+e7huiKguaIkeayoeWKnuazleabv+S9oOaguOWunu+8jOS9hui/meexu+S6i+inpuWIsOeahOmXrumimOaYr+aZrumBjeeahO+8muS6uuS4uuS7gOS5iOS8mui/meagt+WPjeW6lOOAgeaIkeS7rOivpeaAjuS5iOiHquWkhOOAguWmguaenOS9oOaEv+aEj++8jOaIkeS7rOWPr+S7peWFiOaUvuS4i+i/meS4gOS7tuS6i++8jOiBiuiBiuWug+iDjOWQjueahOS6uuW/g+OAgicsCl07CgovLyDliqjkvZzikaLvvJror5rlrp7mib/orqTovrnnlYzvvIjnuq/kuovlrp7mn6Xor6LkuJTml6Dlj6/ovazljJbpkqnlrZDvvIkKdmFyIEhPTkVTVF9URU1QTEFURVMgPSBbCiAgJ+i/meS4quaIkeWPr+iDveW4ruS4jeS4iuKAlOKAlOWug+abtOS+nei1luacgOaWsOOAgeWPr+aguOWunueahOS/oeaBr++8jOiAjOS4jeaYr+aAneiAg+OAguaIkei/memHjOabtOmAguWQiOmZquS9oOiBiuS6i+aDheiDjOWQjueahOS6uuaAp+WSjOaEj+S5ieOAguWmguaenOS9oOaDs+iBiueahOaYr+Wug+W4pue7meS9oOeahOaEn+WPl+aIluWbsOaDke+8jOaIkeWcqOi/memHjOOAgicsCiAgJ+WFs+S6jui/meS7tuS6i+eahOacgOaWsOi/m+Wxle+8jOaIkeayoeacieWPr+mdoOeahOS/oeaBr+a4oOmBk++8jOe7meS4jeS6huS9oOi0n+i0o+S7u+eahOetlOahiOKAlOKAlOi/meexu+mXrumimOmUmeS4gOS4que7huiKguWwseWPr+iDveivr+WvvOS9oOOAguWmguaenOS9oOaEv+aEj+ivtOivtOWug+S4uuS7gOS5iOiuqeS9oOWcqOaEj++8jOaIkeS7rOWPr+S7peS7juWPpuS4gOS4quinkuW6puiBiuOAgicsCl07CgovLyDliqjkvZzikaPvvIhRMi0xNe+8ie+8muS6uueJqei6q+S7veafpeivouS4k+eUqOmZjee6p+KAlOKAlOaYjuehruaLkue7nee8lumAoOWtpuWOhi/lsaXljobvvIwKLy8gICDlubbop6Pph4rkuLrku4DkuYjkuI3og73nu5nlh7rlhbfkvZPkvKDorrDkv6Hmga/vvIjpq5jlubvop4npo47pmanpoobln5/vvInjgIIKdmFyIFBFUlNPTl9JREVOVElUWV9URU1QTEFURVMgPSBbCiAgJ+WFs+S6jui/meS4quS6uueahOWFt+S9k+iDjOaZr++8iOWtpuWOhuOAgee7j+WOhuOAgeWxpeWOhuetie+8ie+8jOaIkeayoeacieWPr+mdoOeahOS/oeaBr+adpea6kOWPr+S7peaguOWunu+8jOS4jeiDveWHreWNsOixoee7meS9oOe7huiKguKAlOKAlOi/meexu+S/oeaBr+mUmeS4gOWkhOWwseWPr+iDveivr+WvvOS9oOOAguWmguaenOS9oOaEv+aEj+iBiuiBiui/meS4quS6uuW4pue7meS9oOeahOaEn+WPl+OAgeaIluiAheS7luWBmueahOS6i+inpuWKqOS6huS7gOS5iOaZrumBjeaAp+eahOivnemimO+8jOaIkeWcqOi/memHjOOAgicsCiAgJ+i/meS4quS6uueahOivpue7huiDjOaZr+aIkeS4jeaOjOaPoe+8jOe7meS4jeS6huS9oOi0n+i0o+S7u+eahOS7i+e7jeKAlOKAlOWwpOWFtuaYr+WtpuWOhuOAgeWHuueUn+aXpeacn+i/meexu+e7huiKgu+8jOaooeWei+W+iOWuueaYkyLoh6rkv6HlnLDlh7rplJki44CC5aaC5p6c5L2g5pyJ54m55a6a6KeS5bqm5oOz6IGK77yI5q+U5aaC5LuW55qE5L2c5ZOB44CB5LuW6K+06L+H55qE6K+d44CB5oiW6ICF5LuW5Luj6KGo55qE6YKj57G7546w6LGh77yJ77yM5oiR5Lus5Y+v5Lul5Z+65LqO5L2g5o+Q5L6b55qE5pa55ZCR5p2l6LCI44CCJywKXTsKCi8vIGVtb3Rpb24g5LyY5YWI5Y+Y5L2T77ya5YWI5om/5o6l5oOF57uq77yM5YaN6ZmN57qn77yIUTAgwqc177yaZW1vdGlvbiDmsLjov5zmnIDpq5jvvIkKdmFyIEVNT1RJT05fUFJFRklYID0gWwogICfnnIvliLDkvaDlm6DkuLrov5nku7bkuovov5nkuYjpmr7lj5fvvIzlhYjliKvmgKXnnYDljrvlvITmuIXmpZrmr4/kuIDkuKrnu4boioLigJTigJTkvaDnmoTmhJ/lj5fmnKzouqvmm7TlgLzlvpfooqvnhafpob7jgIInLAogICfov5nku7bkuovorqnkvaDkuI3lpb3lj5fvvIzmiJHog73mhJ/op4nliLDjgILkuovlrp7nmoTpg6jliIbmiJHku6zlj6/ku6XmhaLkuIDngrnvvIzlhYjor7Tor7TlroPmiLPkuK3kvaDnmoTmmK/ku4DkuYjjgIInLApdOwoKLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIGJ1aWxkRG93bmdyYWRlKHsgcmVhc29uLCB1c2VySW50ZW50LCBxdWVyeSB9KQovLyAgIOi/lOWbniB7IGFuc3dlciwgYWN0aW9uLCByZWFzb24gfQovLyAgICAgYWN0aW9uOiBpbnZpdGVfc3VwcGxlbWVudCB8IHVuaXZlcnNhbF9odW1hbml0eSB8IGhvbmVzdF9ib3VuZGFyeQovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZnVuY3Rpb24gYnVpbGREb3duZ3JhZGUoaW5wdXQpIHsKICBpbnB1dCA9IGlucHV0IHx8IHt9OwogIHZhciByZWFzb24gPSBpbnB1dC5yZWFzb24gfHwgRE9XTkdSQURFX1JFQVNPTi5OT19SRUxJQUJMRV9GQUNUOwogIHZhciBpbnRlbnQgPSBpbnB1dC51c2VySW50ZW50IHx8IFVTRVJfSU5URU5ULlJFRkxFQ1RJT047CiAgdmFyIHF1ZXJ5ID0gaW5wdXQucXVlcnkgfHwgJyc7CgogIC8vIFEyLTE177ya5Lq654mp6Lqr5Lu95p+l6K+i6ZmN57qn4oCU4oCU5L2/55So5LiT55So5qih5p2/77yM5piO56Gu5ouS57ud57yW6YCg5Lyg6K6w57uG6IqCCiAgdmFyIGlzUGVyc29uSWRlbnRpdHkgPSAvKOaYr+iwgXzosIEkfOS9leiuuOS6uuS5n3zku4vnu43kuIDkuIsuezAsMjB9JHwuezIsMTB95piv5LuA5LmI5Lq6fC57MiwxMH3mmK/kvZXorrjkurp85L2g6K6k6K+GLnsyLDEwfXzkvaDnn6XpgZMuezIsMTB95ZCXJCkvdS50ZXN0KHF1ZXJ5KTsKCiAgdmFyIGFjdGlvbjsKICBpZiAocmVhc29uID09PSBET1dOR1JBREVfUkVBU09OLk5PX0NMRUFSX0VWRU5UKSB7CiAgICBhY3Rpb24gPSAnaW52aXRlX3N1cHBsZW1lbnQnOwogIH0gZWxzZSBpZiAocmVhc29uID09PSBET1dOR1JBREVfUkVBU09OLlJFU1RSSUNURURfRVZFTlQpIHsKICAgIC8vIHJlc3RyaWN0ZWTvvJrkuI3mjqXkuovku7bmnKzouqvvvIzovazlkJHmma7pgY3ljp/liJkgLyDmg4Xnu6rmib/mjqUKICAgIGFjdGlvbiA9IGludGVudCA9PT0gVVNFUl9JTlRFTlQuRU1PVElPTiA/ICd1bml2ZXJzYWxfaHVtYW5pdHknIDogJ2hvbmVzdF9ib3VuZGFyeSc7CiAgfSBlbHNlIGlmIChpc1BlcnNvbklkZW50aXR5KSB7CiAgICAvLyDkurrnianouqvku73mn6Xor6LvvJrml6DorrrmhI/lm77nsbvlnovvvIzpg73nlKjkuJPnlKjor5rlrp7ovrnnlYzmqKHmnb/vvIjmnIDpq5jkvJjlhYjvvIkKICAgIGFjdGlvbiA9ICdwZXJzb25faWRlbnRpdHlfYm91bmRhcnknOwogIH0gZWxzZSBpZiAoaW50ZW50ID09PSBVU0VSX0lOVEVOVC5JTkZPUk1BVElPTikgewogICAgYWN0aW9uID0gJ2hvbmVzdF9ib3VuZGFyeSc7CiAgfSBlbHNlIHsKICAgIGFjdGlvbiA9ICd1bml2ZXJzYWxfaHVtYW5pdHknOwogIH0KCiAgdmFyIGJvZHk7CiAgaWYgKGFjdGlvbiA9PT0gJ2ludml0ZV9zdXBwbGVtZW50JykgYm9keSA9IHBpY2soSU5WSVRFX1RFTVBMQVRFUywgcXVlcnkpOwogIGVsc2UgaWYgKGFjdGlvbiA9PT0gJ3VuaXZlcnNhbF9odW1hbml0eScpIGJvZHkgPSBwaWNrKFVOSVZFUlNBTF9URU1QTEFURVMsIHF1ZXJ5KTsKICBlbHNlIGlmIChhY3Rpb24gPT09ICdwZXJzb25faWRlbnRpdHlfYm91bmRhcnknKSBib2R5ID0gcGljayhQRVJTT05fSURFTlRJVFlfVEVNUExBVEVTLCBxdWVyeSk7CiAgZWxzZSBib2R5ID0gcGljayhIT05FU1RfVEVNUExBVEVTLCBxdWVyeSk7CgogIC8vIGVtb3Rpb24g5pyA6auY5LyY5YWI77ya5YWI5om/5o6l77yM5YaN57uZ6ZmN57qn5q2j5paHCiAgdmFyIGFuc3dlciA9IGludGVudCA9PT0gVVNFUl9JTlRFTlQuRU1PVElPTgogICAgPyBwaWNrKEVNT1RJT05fUFJFRklYLCBxdWVyeSArICdlJykgKyAnXG5cbicgKyBib2R5CiAgICA6IGJvZHk7CgogIHJldHVybiB7IGFuc3dlcjogYW5zd2VyLCBhY3Rpb246IGFjdGlvbiwgcmVhc29uOiByZWFzb24gfTsKfQoKbW9kdWxlLmV4cG9ydHMgPSB7IGJ1aWxkRG93bmdyYWRlOiBidWlsZERvd25ncmFkZSB9Owo=
+// ============================================================
+// Freshness Layer — downgrade.js
+//   Phase Q / Q0 Policy 落地：降级策略（Q0 §6）。
+//
+//   触发：没有可靠事实 / 没有明确事件 / 来源不足 / 信息冲突 / 事件禁入。
+//   禁止：编造、强行分析、假装降级（必须显式告知当前状态）。
+//   允许三动作：邀请用户补充 / 转向普遍人性讨论 / 诚实承认边界。
+//   纯函数、零云依赖，可离线单测。
+// ============================================================
+'use strict';
+
+var S = require('./schema');
+var DOWNGRADE_REASON = S.DOWNGRADE_REASON;
+var USER_INTENT = S.USER_INTENT;
+
+// 确定性选择（同问同答，便于测试与审计）
+function pick(items, seed) {
+  var hash = 0;
+  var s = seed || '';
+  for (var i = 0; i < s.length; i++) hash = (hash * 31 + s.charCodeAt(i)) >>> 0;
+  return items[items.length ? hash % items.length : 0];
+}
+
+// 动作①：邀请用户补充（事件模糊 / 用户可能掌握第一手背景）
+var INVITE_TEMPLATES = [
+  '你提到的这件事，我手头没有可靠的核实渠道，不想凭印象乱说。你方便简单描述一下你看到的情况吗？大概什么时候、在哪里看到的、当事人是谁——你给的背景越具体，我们能聊得越实。',
+  '这件事我目前查不到可以核实的信息。如果你愿意，可以把你知道的情况讲一讲：时间、来源、最让你在意的那一点。我们基于你提供的事实来聊，我会把它当作"你看到的版本"来对待。',
+];
+
+// 动作②：转向普遍人性讨论（把 B 安全降维为 A 的标准动作）
+var UNIVERSAL_TEMPLATES = [
+  '虽然这件事的具体细节我还没法核实，但这类事情背后的人性是一直值得聊的——比如人在群体里为什么容易失去分寸，或者我们为什么对陌生人的故事投入那么强的情绪。想从这里开始吗？',
+  '细节我没办法替你核实，但这类事触到的问题是普遍的：人为什么会这样反应、我们该怎么自处。如果你愿意，我们可以先放下这一件事，聊聊它背后的人心。',
+];
+
+// 动作③：诚实承认边界（纯事实查询且无可转化钩子）
+var HONEST_TEMPLATES = [
+  '这个我可能帮不上——它更依赖最新、可核实的信息，而不是思考。我这里更适合陪你聊事情背后的人性和意义。如果你想聊的是它带给你的感受或困惑，我在这里。',
+  '关于这件事的最新进展，我没有可靠的信息渠道，给不了你负责任的答案——这类问题错一个细节就可能误导你。如果你愿意说说它为什么让你在意，我们可以从另一个角度聊。',
+];
+
+// 动作④（Q2-15）：人物身份查询专用降级——明确拒绝编造学历/履历，
+//   并解释为什么不能给出具体传记信息（高幻觉风险领域）。
+var PERSON_IDENTITY_TEMPLATES = [
+  '关于这个人的具体背景（学历、经历、履历等），我没有可靠的信息来源可以核实，不能凭印象给你细节——这类信息错一处就可能误导你。如果你愿意聊聊这个人带给你的感受、或者他做的事触动了什么普遍性的话题，我在这里。',
+  '这个人的详细背景我不掌握，给不了你负责任的介绍——尤其是学历、出生日期这类细节，模型很容易"自信地出错"。如果你有特定角度想聊（比如他的作品、他说过的话、或者他代表的那类现象），我们可以基于你提供的方向来谈。',
+];
+
+// emotion 优先变体：先承接情绪，再降级（Q0 §5：emotion 永远最高）
+var EMOTION_PREFIX = [
+  '看到你因为这件事这么难受，先别急着去弄清楚每一个细节——你的感受本身更值得被照顾。',
+  '这件事让你不好受，我能感觉到。事实的部分我们可以慢一点，先说说它戳中你的是什么。',
+];
+
+// ============================================================
+// buildDowngrade({ reason, userIntent, query })
+//   返回 { answer, action, reason }
+//     action: invite_supplement | universal_humanity | honest_boundary
+// ============================================================
+function buildDowngrade(input) {
+  input = input || {};
+  var reason = input.reason || DOWNGRADE_REASON.NO_RELIABLE_FACT;
+  var intent = input.userIntent || USER_INTENT.REFLECTION;
+  var query = input.query || '';
+
+  // Q2-15：人物身份查询降级——使用专用模板，明确拒绝编造传记细节
+  var isPersonIdentity = /(是谁|谁$|何许人也|介绍一下.{0,20}$|.{2,10}是什么人|.{2,10}是何许人|你认识.{2,10}|你知道.{2,10}吗$)/u.test(query);
+
+  var action;
+  if (reason === DOWNGRADE_REASON.NO_CLEAR_EVENT) {
+    action = 'invite_supplement';
+  } else if (reason === DOWNGRADE_REASON.RESTRICTED_EVENT) {
+    // restricted：不接事件本身，转向普遍原则 / 情绪承接
+    action = intent === USER_INTENT.EMOTION ? 'universal_humanity' : 'honest_boundary';
+  } else if (isPersonIdentity) {
+    // 人物身份查询：无论意图类型，都用专用诚实边界模板（最高优先）
+    action = 'person_identity_boundary';
+  } else if (intent === USER_INTENT.INFORMATION) {
+    action = 'honest_boundary';
+  } else {
+    action = 'universal_humanity';
+  }
+
+  var body;
+  if (action === 'invite_supplement') body = pick(INVITE_TEMPLATES, query);
+  else if (action === 'universal_humanity') body = pick(UNIVERSAL_TEMPLATES, query);
+  else if (action === 'person_identity_boundary') body = pick(PERSON_IDENTITY_TEMPLATES, query);
+  else body = pick(HONEST_TEMPLATES, query);
+
+  // emotion 最高优先：先承接，再给降级正文
+  var answer = intent === USER_INTENT.EMOTION
+    ? pick(EMOTION_PREFIX, query + 'e') + '\n\n' + body
+    : body;
+
+  return { answer: answer, action: action, reason: reason };
+}
+
+module.exports = { buildDowngrade: buildDowngrade };

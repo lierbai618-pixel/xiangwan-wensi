@@ -1,1 +1,174 @@
-IyEvdXNyL2Jpbi9lbnYgbm9kZQondXNlIHN0cmljdCc7CgovKioKICog44CM6LGG5YyF5L2T5oSf44CN5Z+65YeGIOKAlOKAlCDph4/ljJbmtYHlvI/lm57nrZTnmoTmtYHnlYXluqYKICoKICog55So5oi355yL5rWB5byP5Zue562U5pe277yM5L2T5oSf55Sx5Zub5Liq5pWw5Yaz5a6a77yI5LiN5piv5oC76ICX5pe277yJ77yaCiAqICAg4pGgIOmmluWtl+W7tui/nyBmaXJzdENvbnRlbnQgICDlvIDlp4vlh7rlrZfopoHnrYnlpJrkuYUgICAgICAg55uu5qCHIDwgMXMKICogICDikaEg5a2X5rWB6YCfICAgY2prUGVyU2VjICAgICAg5q+P56eS5Ye65Yeg5Liq5rGJ5a2XICAgICAgICAgIOebruaghyA+IDE1IOaxieWtly9zCiAqICAg4pGiIOWNoemhv+WzsOWAvCBtYXhHYXAgICAgICAgICDmnIDplb8i5LiN5Ye65a2XIumXtOmalCAgICAgICDnm67moIcgPCAxLjVz77yI5ZCm5YiZ5YOP5piv5Y2h5L2P5LqG77yJCiAqICAg4pGjIOmmluenkuWHuuWtlyBidXJzdDFzICAgICAgICDpppblrZflkI4gMSDnp5LlhoXlh7rkuoblpJrlsJHlrZcgIOi2iuWkp+i2iiLpoboiCiAqCiAqIOaAu+iAl+aXtiB0b3RhbCDlj6rlvbHlk43miJDmnKzvvIjkupHlh73mlbAgR0Jz77yJ77yM5LiN5b2x5ZON5L2T5oSf44CCCiAqCiAqIOi/kOihjO+8mgogKiAgIERTX0tFWT1zay14eHggQUdfS0VZPXNrLXl5eSBub2RlIHNjcmlwdHMvYmVuY2hfZmx1ZW5jeS5qcwogKiAgIOeOr+Wig+WPmOmHjyBST1VORFMg5o6n5Yi26L2u5pWw77yI6buY6K6kIDPvvInvvJtDT05DSVNFPTEg6L+95Yqg5LiA6aKY6KaB5rGC55+t562UCiAqLwoKY29uc3QgRFNfS0VZID0gcHJvY2Vzcy5lbnYuRFNfS0VZOwpjb25zdCBBR19LRVkgPSBwcm9jZXNzLmVudi5BR19LRVk7CmlmICghRFNfS0VZIHx8ICFBR19LRVkpIHsgY29uc29sZS5lcnJvcign57y65bCRIERTX0tFWSAvIEFHX0tFWScpOyBwcm9jZXNzLmV4aXQoMSk7IH0KCmNvbnN0IFJPVU5EUyA9IE51bWJlcihwcm9jZXNzLmVudi5ST1VORFMgfHwgMyk7Cgpjb25zdCBTWVMgPSAn5L2g5piv44CM5ZCR5pma6Zeu5oCd44CN77yM5LiA5Liq5Lul57uP5YW45ZOy5a2m44CB5paH5a2m5LiO5b+D55CG5a2m5Li65qC55Z+655qE5oCd6L6o5Yqp5omL44CC5L2g5LiN5pu/55So5oi35YGa5Yaz5a6a77yM6ICM5piv6Zmq5LuW5oqK6Zeu6aKY55yL5riF44CB5ouT5bGV6KeG6KeS77yM5pyA5ZCO5oqK5Yik5pat55WZ57uZ5LuW6Ieq5bex44CC6K+355So5Lit5paH5Zue562U44CCJzsKY29uc3QgVVNFUiA9ICfmiJHku4rlubQzMOWyge+8jOW3peS9nOeos+WumuS9huaAu+inieW+l+ayoeS7gOS5iOaEj+S5ie+8jOaDs+aUueWPmOWPiOaAleWkseWOu+eOsOWcqOeahOS4gOWIh+OAguaIkeivpeaAjuS5iOWKnu+8nyc7CmNvbnN0IFVTRVJfU0hPUlQgPSBVU0VSICsgJ1xu77yI6K+35o6n5Yi25ZyoIDI1MCDlrZfku6XlhoXvvIznm7TmjqXnu5nmoLjlv4Pop4LngrnvvIzkuI3opoHliIbngrnnvZfliJfjgILvvIknOwoKY29uc3QgREFTSCA9ICdodHRwczovL2Rhc2hzY29wZS5hbGl5dW5jcy5jb20vY29tcGF0aWJsZS1tb2RlL3YxJzsKY29uc3QgQUdORVMgPSAnaHR0cHM6Ly9hcGkuYWduZXMtYWkuY24vdjEnOwoKLy8g5LiO55Sf5Lqn5LiJ5bGC6YWN572u5LiA5LiA5a+55bqUCmNvbnN0IE1PREVMUyA9IFsKICB7IHRhZzogJ+S4uyBkZWVwc2Vlay12NC4xLWZsYXNoJywgYmFzZTogREFTSCwga2V5OiBEU19LRVksIG1vZGVsOiAnZGVlcHNlZWstdjQuMS1mbGFzaCcsIHRoazogZmFsc2UgfSwKICB7IHRhZzogJ+asoSBhZ25lcy0yLjUtZmxhc2gnLCBiYXNlOiBBR05FUywga2V5OiBBR19LRVksIG1vZGVsOiAnYWduZXMtMi41LWZsYXNoJywgdGhrOiBudWxsIH0sCiAgeyB0YWc6ICflpIcgZGVlcHNlZWstdjQtcHJvLTA4MTMnLCBiYXNlOiBEQVNILCBrZXk6IERTX0tFWSwgbW9kZWw6ICdkZWVwc2Vlay12NC1wcm8tMDgxMycsIHRoazogZmFsc2UgfSwKXTsKCmNvbnN0IGNqa0xlbiA9IChzKSA9PiAocy5tYXRjaCgvW1x1NGUwMC1cdTlmYTVdL2cpIHx8IFtdKS5sZW5ndGg7Cgphc3luYyBmdW5jdGlvbiBtZWFzdXJlKG0sIG1zZywgdGFnKSB7CiAgY29uc3QgYm9keSA9IHsKICAgIG1vZGVsOiBtLm1vZGVsLAogICAgbWVzc2FnZXM6IFt7IHJvbGU6ICdzeXN0ZW0nLCBjb250ZW50OiBTWVMgfSwgeyByb2xlOiAndXNlcicsIGNvbnRlbnQ6IG1zZyB9XSwKICAgIG1heF90b2tlbnM6IDE1MzYsCiAgICBzdHJlYW06IHRydWUsCiAgfTsKICBpZiAobS50aGsgPT09IGZhbHNlKSBib2R5LmVuYWJsZV90aGlua2luZyA9IGZhbHNlOwoKICBjb25zdCB0MCA9IERhdGUubm93KCk7CiAgbGV0IGZpcnN0Q29udGVudCA9IG51bGwsIGxhc3REZWx0YSA9IG51bGwsIHByZXZBdCA9IG51bGw7CiAgbGV0IGNvbnRlbnQgPSAnJywgcmVhc29uaW5nID0gJycsIG1heEdhcCA9IDAsIGJ1cnN0MXMgPSAwLCBzdGFsbHMgPSAwOwoKICBjb25zdCByZXMgPSBhd2FpdCBmZXRjaChtLmJhc2UgKyAnL2NoYXQvY29tcGxldGlvbnMnLCB7CiAgICBtZXRob2Q6ICdQT1NUJywKICAgIGhlYWRlcnM6IHsgQXV0aG9yaXphdGlvbjogJ0JlYXJlciAnICsgbS5rZXksICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicgfSwKICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KGJvZHkpLAogIH0pOwogIGlmICghcmVzLm9rKSB7CiAgICBjb25zdCB0ID0gYXdhaXQgcmVzLnRleHQoKS5jYXRjaCgoKSA9PiAnJyk7CiAgICByZXR1cm4geyB0YWcsIGVycjogYEhUVFAgJHtyZXMuc3RhdHVzfSAke3Quc2xpY2UoMCwgMTAwKX1gIH07CiAgfQoKICBsZXQgYnVmID0gJyc7CiAgZm9yIGF3YWl0IChjb25zdCByYXcgb2YgcmVzLmJvZHkpIHsKICAgIGJ1ZiArPSBCdWZmZXIuZnJvbShyYXcpLnRvU3RyaW5nKCd1dGY4Jyk7CiAgICBjb25zdCBsaW5lcyA9IGJ1Zi5zcGxpdCgnXG4nKTsKICAgIGJ1ZiA9IGxpbmVzLnBvcCgpOwogICAgZm9yIChjb25zdCBsaW5lIG9mIGxpbmVzKSB7CiAgICAgIGNvbnN0IHQgPSBsaW5lLnRyaW0oKTsKICAgICAgaWYgKCF0LnN0YXJ0c1dpdGgoJ2RhdGE6JykpIGNvbnRpbnVlOwogICAgICBjb25zdCBkID0gdC5zbGljZSg1KS50cmltKCk7CiAgICAgIGlmIChkID09PSAnW0RPTkVdJyB8fCAhZCkgY29udGludWU7CiAgICAgIGxldCBqOyB0cnkgeyBqID0gSlNPTi5wYXJzZShkKTsgfSBjYXRjaCB7IGNvbnRpbnVlOyB9CiAgICAgIGNvbnN0IGNoID0gai5jaG9pY2VzICYmIGouY2hvaWNlc1swXTsKICAgICAgaWYgKCFjaCkgY29udGludWU7CiAgICAgIGNvbnN0IGRsID0gY2guZGVsdGEgfHwge307CiAgICAgIGlmIChkbC5yZWFzb25pbmdfY29udGVudCkgcmVhc29uaW5nICs9IGRsLnJlYXNvbmluZ19jb250ZW50OwogICAgICBpZiAoIWRsLmNvbnRlbnQpIGNvbnRpbnVlOwoKICAgICAgY29uc3Qgbm93ID0gRGF0ZS5ub3coKSAtIHQwOwogICAgICBpZiAoZmlyc3RDb250ZW50ID09PSBudWxsKSBmaXJzdENvbnRlbnQgPSBub3c7CiAgICAgIC8vIOWNoemhv+ajgOa1i++8muS7hee7n+iuoSLpppblrZfkuYvlkI4i55qE6Ze06ZqU77yI6aaW5a2X5YmN5pivIHByZWZpbGzvvIzkuI3nrpfljaHpob/vvIkKICAgICAgaWYgKHByZXZBdCAhPT0gbnVsbCkgewogICAgICAgIGNvbnN0IGdhcCA9IG5vdyAtIHByZXZBdDsKICAgICAgICBpZiAoZ2FwID4gbWF4R2FwKSBtYXhHYXAgPSBnYXA7CiAgICAgICAgaWYgKGdhcCA+IDE1MDApIHN0YWxscysrOwogICAgICB9CiAgICAgIHByZXZBdCA9IG5vdzsKICAgICAgY29udGVudCArPSBkbC5jb250ZW50OwogICAgICBpZiAobm93IC0gZmlyc3RDb250ZW50IDw9IDEwMDApIGJ1cnN0MXMgKz0gY2prTGVuKGRsLmNvbnRlbnQpOwogICAgfQogIH0KCiAgY29uc3QgdG90YWwgPSBEYXRlLm5vdygpIC0gdDA7CiAgY29uc3QgZGVjb2RlTXMgPSAoZmlyc3RDb250ZW50ICE9PSBudWxsICYmIGxhc3REZWx0YSAhPT0gbnVsbCkgPyBsYXN0RGVsdGEgLSBmaXJzdENvbnRlbnQgOiAoZmlyc3RDb250ZW50ICE9PSBudWxsID8gdG90YWwgLSBmaXJzdENvbnRlbnQgOiBudWxsKTsKICBjb25zdCBjamsgPSBjamtMZW4oY29udGVudCk7CiAgY29uc3QgZ2VuU2VjID0gZmlyc3RDb250ZW50ICE9PSBudWxsID8gKHRvdGFsIC0gZmlyc3RDb250ZW50KSAvIDEwMDAgOiBudWxsOwoKICByZXR1cm4gewogICAgdGFnLCBmaXJzdENvbnRlbnQsIHRvdGFsLCBjamssIHJjams6IGNqa0xlbihyZWFzb25pbmcpLAogICAgY2prUGVyU2VjOiBnZW5TZWMgJiYgZ2VuU2VjID4gMCA/IGNqayAvIGdlblNlYyA6IG51bGwsCiAgICBtYXhHYXAsIHN0YWxscywgYnVyc3QxcywKICAgIHByZXZpZXc6IGNvbnRlbnQuc2xpY2UoMCwgNTApLAogIH07Cn0KCihhc3luYyAoKSA9PiB7CiAgY29uc3Qgcm93cyA9IFtdOwogIGZvciAoY29uc3QgbSBvZiBNT0RFTFMpIHsKICAgIGZvciAobGV0IHIgPSAxOyByIDw9IFJPVU5EUzsgcisrKSB7CiAgICAgIHByb2Nlc3Muc3Rkb3V0LndyaXRlKGAke20udGFnfSAgciR7cn0gLi4uIGApOwogICAgICB0cnkgewogICAgICAgIGNvbnN0IHJlcyA9IGF3YWl0IG1lYXN1cmUobSwgVVNFUiwgbS50YWcpOwogICAgICAgIHJvd3MucHVzaCh7IC4uLnJlcywgbW9kZWw6IG0ubW9kZWwsIHJvdW5kOiByIH0pOwogICAgICAgIGlmIChyZXMuZXJyKSBjb25zb2xlLmxvZyhg4pyXICR7cmVzLmVycn1gKTsKICAgICAgICBlbHNlIGNvbnNvbGUubG9nKGDpppblrZcgJHtyZXMuZmlyc3RDb250ZW50fW1zIHwg5oC7ICR7cmVzLnRvdGFsfW1zIHwgJHtyZXMuY2prfeWtlyB8ICR7cmVzLmNqa1BlclNlYz8udG9GaXhlZCgxKX3lrZcvcyB8IOWNoemhv+WzsCAke3Jlcy5tYXhHYXB9bXNgKTsKICAgICAgfSBjYXRjaCAoZSkgewogICAgICAgIGNvbnNvbGUubG9nKGDinJcgJHtlLm1lc3NhZ2V9YCk7CiAgICAgICAgcm93cy5wdXNoKHsgdGFnOiBtLnRhZywgbW9kZWw6IG0ubW9kZWwsIHJvdW5kOiByLCBlcnI6IGUubWVzc2FnZSB9KTsKICAgICAgfQogICAgfQogIH0KCiAgY29uc3Qgb2sgPSByb3dzLmZpbHRlcigocikgPT4gIXIuZXJyKTsKICBjb25zdCBtZWQgPSAoYSkgPT4geyBjb25zdCBzID0gWy4uLmFdLnNvcnQoKHgsIHkpID0+IHggLSB5KTsgY29uc3QgbiA9IHMubGVuZ3RoOyByZXR1cm4gbiAlIDIgPyBzWyhuIC0gMSkgLyAyXSA6IE1hdGgucm91bmQoKHNbbiAvIDIgLSAxXSArIHNbbiAvIDJdKSAvIDIpOyB9OwoKICBjb25zb2xlLmxvZygnXG4nICsgJz0nLnJlcGVhdCg5MikpOwogIGNvbnNvbGUubG9nKCfmqKHlnosnLnBhZEVuZCgyNCkgKyAn6aaW5a2XKOS4reS9jSknLnBhZFN0YXJ0KDExKSArICfmgLvogJfml7YnLnBhZFN0YXJ0KDkpICsgJ+axieWtlycucGFkU3RhcnQoNykgKwogICAgJ+Wtly9zJy5wYWRTdGFydCg4KSArICfpppbnp5Llh7rlrZcnLnBhZFN0YXJ0KDkpICsgJ+WNoemhv+WzsCcucGFkU3RhcnQoOCkgKyAnIOWIpOWumicpOwogIGNvbnNvbGUubG9nKCctJy5yZXBlYXQoOTIpKTsKICBmb3IgKGNvbnN0IG0gb2YgTU9ERUxTKSB7CiAgICBjb25zdCB2ID0gb2suZmlsdGVyKChyKSA9PiByLm1vZGVsID09PSBtLm1vZGVsKTsKICAgIGlmICghdi5sZW5ndGgpIHsgY29uc29sZS5sb2cobS50YWcucGFkRW5kKDI0KSArICcgIOKclyDlhajpg6jlpLHotKUnKTsgY29udGludWU7IH0KICAgIGNvbnN0IGZjID0gbWVkKHYubWFwKChyKSA9PiByLmZpcnN0Q29udGVudCkpOwogICAgY29uc3QgdG90ID0gbWVkKHYubWFwKChyKSA9PiByLnRvdGFsKSk7CiAgICBjb25zdCBjamsgPSBtZWQodi5tYXAoKHIpID0+IHIuY2prKSk7CiAgICBjb25zdCBzcCA9IG1lZCh2Lm1hcCgocikgPT4gTWF0aC5yb3VuZChyLmNqa1BlclNlYyB8fCAwKSkpOwogICAgY29uc3QgYjEgPSBtZWQodi5tYXAoKHIpID0+IHIuYnVyc3QxcykpOwogICAgY29uc3QgbWcgPSBNYXRoLm1heCguLi52Lm1hcCgocikgPT4gci5tYXhHYXApKTsKICAgIGNvbnN0IHZlcmRpY3QgPQogICAgICBmYyA8IDEwMDAgJiYgbWcgPCAxNTAwID8gJ+KchSDmtYHnlYUnIDoKICAgICAgZmMgPCAyMDAwICYmIG1nIDwgMzAwMCA/ICfimqDvuI8g5Y+v5o6l5Y+XJyA6ICfwn5S0IOacieWNoemhv+aEnyc7CiAgICBjb25zb2xlLmxvZygKICAgICAgbS50YWcucGFkRW5kKDI0KSArCiAgICAgIChmYyArICdtcycpLnBhZFN0YXJ0KDExKSArCiAgICAgICh0b3QgKyAnbXMnKS5wYWRTdGFydCg5KSArCiAgICAgIFN0cmluZyhjamspLnBhZFN0YXJ0KDcpICsKICAgICAgU3RyaW5nKHNwKS5wYWRTdGFydCg4KSArCiAgICAgIFN0cmluZyhiMSkucGFkU3RhcnQoOSkgKwogICAgICAobWcgKyAnbXMnKS5wYWRTdGFydCg4KSArCiAgICAgICcgICcgKyB2ZXJkaWN0CiAgICApOwogIH0KICBjb25zb2xlLmxvZygnPScucmVwZWF0KDkyKSk7CgogIGNvbnNvbGUubG9nKCdcbuOAkOWPguiAg+mXqOanm+OAke+8iOS4mueVjOmAmueUqOe7j+mqjOWAvO+8jOmdnuWvueixhuWMheeahOWunua1i++8iScpOwogIGNvbnNvbGUubG9nKCcgIOmmluWtlyA8IDUwMG1zICDihpIg5Yeg5LmO5peg562J5b6F5oSfICAgICAg772cIDUwMOKAkzEwMDBtcyDihpIg6L275b6u562J5b6F77yM5Y+v5o6l5Y+XJyk7CiAgY29uc29sZS5sb2coJyAg5a2X5rWB6YCfID4gMjAg5rGJ5a2XL3Mg4oaSIOmhuua7keWmguaJk+Wtl+acuiAg772cIDEw4oCTMjAg4oaSIOeVpeaciemhv+aMqyDvvZwgPCAxMCDihpIg5piO5pi+5Y2hJyk7CiAgY29uc29sZS5sb2coJyAg5Y2h6aG/5bOwIDwgMTAwMG1zIOKGkiDml6DmhJ8gICAgICAgICAgICAg772cID4gMjUwMG1zIOKGkiDnlKjmiLfku6XkuLrmlq3kuoYnKTsKCiAgLy8g55+t562U5a+554Wn77yI5Y+v6YCJ77yJ77ya6K+B5piOIuimgeaxguabtOefrSA9IOaAu+iAl+aXtuaYvuiRl+S4i+mZje+8jOS9hummluWtl+S4jeWPmCIKICBpZiAocHJvY2Vzcy5lbnYuQ09OQ0lTRSA9PT0gJzEnKSB7CiAgICBjb25zb2xlLmxvZygnXG7jgJDnn63nrZTlr7nnhafjgJHlkIzkuIDmqKHlnosgKyDopoHmsYIg4omkMjUwIOWtl++8micpOwogICAgZm9yIChjb25zdCBtIG9mIE1PREVMUykgewogICAgICB0cnkgewogICAgICAgIGNvbnN0IGEgPSBhd2FpdCBtZWFzdXJlKG0sIFVTRVIsIG0udGFnICsgJ8K36ZW/Jyk7CiAgICAgICAgY29uc3QgYiA9IGF3YWl0IG1lYXN1cmUobSwgVVNFUl9TSE9SVCwgbS50YWcgKyAnwrfnn60nKTsKICAgICAgICBjb25zb2xlLmxvZyhgICAke20udGFnLnBhZEVuZCgyNCl9IOmVv+etlCAke2EuY2prfeWtly8ke2EudG90YWx9bXMgIOKGkiAg55+t562UICR7Yi5jamt95a2XLyR7Yi50b3RhbH1tcyAg77yI55yBICR7YS50b3RhbCAtIGIudG90YWx9bXPvvIzpppblrZcgJHthLmZpcnN0Q29udGVudH3ihpIke2IuZmlyc3RDb250ZW50fW1z77yJYCk7CiAgICAgIH0gY2F0Y2ggKGUpIHsgY29uc29sZS5sb2coYCAgJHttLnRhZ30g4pyXICR7ZS5tZXNzYWdlfWApOyB9CiAgICB9CiAgfQp9KSgpLmNhdGNoKChlKSA9PiB7IGNvbnNvbGUuZXJyb3IoJ+iEmuacrOW8guW4uO+8micsIGUgJiYgZS5zdGFjayB8fCBlKTsgcHJvY2Vzcy5leGl0KDEpOyB9KTsK
+#!/usr/bin/env node
+'use strict';
+
+/**
+ * 「豆包体感」基准 —— 量化流式回答的流畅度
+ *
+ * 用户看流式回答时，体感由四个数决定（不是总耗时）：
+ *   ① 首字延迟 firstContent   开始出字要等多久       目标 < 1s
+ *   ② 字流速   cjkPerSec      每秒出几个汉字          目标 > 15 汉字/s
+ *   ③ 卡顿峰值 maxGap         最长"不出字"间隔       目标 < 1.5s（否则像是卡住了）
+ *   ④ 首秒出字 burst1s        首字后 1 秒内出了多少字  越大越"顺"
+ *
+ * 总耗时 total 只影响成本（云函数 GBs），不影响体感。
+ *
+ * 运行：
+ *   DS_KEY=sk-xxx AG_KEY=sk-yyy node scripts/bench_fluency.js
+ *   环境变量 ROUNDS 控制轮数（默认 3）；CONCISE=1 追加一题要求短答
+ */
+
+const DS_KEY = process.env.DS_KEY;
+const AG_KEY = process.env.AG_KEY;
+if (!DS_KEY || !AG_KEY) { console.error('缺少 DS_KEY / AG_KEY'); process.exit(1); }
+
+const ROUNDS = Number(process.env.ROUNDS || 3);
+
+const SYS = '你是「向晚问思」，一个以经典哲学、文学与心理学为根基的思辨助手。你不替用户做决定，而是陪他把问题看清、拓展视角，最后把判断留给他自己。请用中文回答。';
+const USER = '我今年30岁，工作稳定但总觉得没什么意义，想改变又怕失去现在的一切。我该怎么办？';
+const USER_SHORT = USER + '\n（请控制在 250 字以内，直接给核心观点，不要分点罗列。）';
+
+const DASH = 'https://dashscope.aliyuncs.com/compatible-mode/v1';
+const AGNES = 'https://api.agnes-ai.cn/v1';
+
+// 与生产三层配置一一对应
+const MODELS = [
+  { tag: '主 deepseek-v4.1-flash', base: DASH, key: DS_KEY, model: 'deepseek-v4.1-flash', thk: false },
+  { tag: '次 agnes-2.5-flash', base: AGNES, key: AG_KEY, model: 'agnes-2.5-flash', thk: null },
+  { tag: '备 deepseek-v4-pro-0813', base: DASH, key: DS_KEY, model: 'deepseek-v4-pro-0813', thk: false },
+];
+
+const cjkLen = (s) => (s.match(/[\u4e00-\u9fa5]/g) || []).length;
+
+async function measure(m, msg, tag) {
+  const body = {
+    model: m.model,
+    messages: [{ role: 'system', content: SYS }, { role: 'user', content: msg }],
+    max_tokens: 1536,
+    stream: true,
+  };
+  if (m.thk === false) body.enable_thinking = false;
+
+  const t0 = Date.now();
+  let firstContent = null, lastDelta = null, prevAt = null;
+  let content = '', reasoning = '', maxGap = 0, burst1s = 0, stalls = 0;
+
+  const res = await fetch(m.base + '/chat/completions', {
+    method: 'POST',
+    headers: { Authorization: 'Bearer ' + m.key, 'Content-Type': 'application/json' },
+    body: JSON.stringify(body),
+  });
+  if (!res.ok) {
+    const t = await res.text().catch(() => '');
+    return { tag, err: `HTTP ${res.status} ${t.slice(0, 100)}` };
+  }
+
+  let buf = '';
+  for await (const raw of res.body) {
+    buf += Buffer.from(raw).toString('utf8');
+    const lines = buf.split('\n');
+    buf = lines.pop();
+    for (const line of lines) {
+      const t = line.trim();
+      if (!t.startsWith('data:')) continue;
+      const d = t.slice(5).trim();
+      if (d === '[DONE]' || !d) continue;
+      let j; try { j = JSON.parse(d); } catch { continue; }
+      const ch = j.choices && j.choices[0];
+      if (!ch) continue;
+      const dl = ch.delta || {};
+      if (dl.reasoning_content) reasoning += dl.reasoning_content;
+      if (!dl.content) continue;
+
+      const now = Date.now() - t0;
+      if (firstContent === null) firstContent = now;
+      // 卡顿检测：仅统计"首字之后"的间隔（首字前是 prefill，不算卡顿）
+      if (prevAt !== null) {
+        const gap = now - prevAt;
+        if (gap > maxGap) maxGap = gap;
+        if (gap > 1500) stalls++;
+      }
+      prevAt = now;
+      content += dl.content;
+      if (now - firstContent <= 1000) burst1s += cjkLen(dl.content);
+    }
+  }
+
+  const total = Date.now() - t0;
+  const decodeMs = (firstContent !== null && lastDelta !== null) ? lastDelta - firstContent : (firstContent !== null ? total - firstContent : null);
+  const cjk = cjkLen(content);
+  const genSec = firstContent !== null ? (total - firstContent) / 1000 : null;
+
+  return {
+    tag, firstContent, total, cjk, rcjk: cjkLen(reasoning),
+    cjkPerSec: genSec && genSec > 0 ? cjk / genSec : null,
+    maxGap, stalls, burst1s,
+    preview: content.slice(0, 50),
+  };
+}
+
+(async () => {
+  const rows = [];
+  for (const m of MODELS) {
+    for (let r = 1; r <= ROUNDS; r++) {
+      process.stdout.write(`${m.tag}  r${r} ... `);
+      try {
+        const res = await measure(m, USER, m.tag);
+        rows.push({ ...res, model: m.model, round: r });
+        if (res.err) console.log(`✗ ${res.err}`);
+        else console.log(`首字 ${res.firstContent}ms | 总 ${res.total}ms | ${res.cjk}字 | ${res.cjkPerSec?.toFixed(1)}字/s | 卡顿峰 ${res.maxGap}ms`);
+      } catch (e) {
+        console.log(`✗ ${e.message}`);
+        rows.push({ tag: m.tag, model: m.model, round: r, err: e.message });
+      }
+    }
+  }
+
+  const ok = rows.filter((r) => !r.err);
+  const med = (a) => { const s = [...a].sort((x, y) => x - y); const n = s.length; return n % 2 ? s[(n - 1) / 2] : Math.round((s[n / 2 - 1] + s[n / 2]) / 2); };
+
+  console.log('\n' + '='.repeat(92));
+  console.log('模型'.padEnd(24) + '首字(中位)'.padStart(11) + '总耗时'.padStart(9) + '汉字'.padStart(7) +
+    '字/s'.padStart(8) + '首秒出字'.padStart(9) + '卡顿峰'.padStart(8) + ' 判定');
+  console.log('-'.repeat(92));
+  for (const m of MODELS) {
+    const v = ok.filter((r) => r.model === m.model);
+    if (!v.length) { console.log(m.tag.padEnd(24) + '  ✗ 全部失败'); continue; }
+    const fc = med(v.map((r) => r.firstContent));
+    const tot = med(v.map((r) => r.total));
+    const cjk = med(v.map((r) => r.cjk));
+    const sp = med(v.map((r) => Math.round(r.cjkPerSec || 0)));
+    const b1 = med(v.map((r) => r.burst1s));
+    const mg = Math.max(...v.map((r) => r.maxGap));
+    const verdict =
+      fc < 1000 && mg < 1500 ? '✅ 流畅' :
+      fc < 2000 && mg < 3000 ? '⚠️ 可接受' : '🔴 有卡顿感';
+    console.log(
+      m.tag.padEnd(24) +
+      (fc + 'ms').padStart(11) +
+      (tot + 'ms').padStart(9) +
+      String(cjk).padStart(7) +
+      String(sp).padStart(8) +
+      String(b1).padStart(9) +
+      (mg + 'ms').padStart(8) +
+      '  ' + verdict
+    );
+  }
+  console.log('='.repeat(92));
+
+  console.log('\n【参考门槛】（业界通用经验值，非对豆包的实测）');
+  console.log('  首字 < 500ms  → 几乎无等待感      ｜ 500–1000ms → 轻微等待，可接受');
+  console.log('  字流速 > 20 汉字/s → 顺滑如打字机  ｜ 10–20 → 略有顿挫 ｜ < 10 → 明显卡');
+  console.log('  卡顿峰 < 1000ms → 无感             ｜ > 2500ms → 用户以为断了');
+
+  // 短答对照（可选）：证明"要求更短 = 总耗时显著下降，但首字不变"
+  if (process.env.CONCISE === '1') {
+    console.log('\n【短答对照】同一模型 + 要求 ≤250 字：');
+    for (const m of MODELS) {
+      try {
+        const a = await measure(m, USER, m.tag + '·长');
+        const b = await measure(m, USER_SHORT, m.tag + '·短');
+        console.log(`  ${m.tag.padEnd(24)} 长答 ${a.cjk}字/${a.total}ms  →  短答 ${b.cjk}字/${b.total}ms  （省 ${a.total - b.total}ms，首字 ${a.firstContent}→${b.firstContent}ms）`);
+      } catch (e) { console.log(`  ${m.tag} ✗ ${e.message}`); }
+    }
+  }
+})().catch((e) => { console.error('脚本异常：', e && e.stack || e); process.exit(1); });

@@ -1,1 +1,65 @@
-IyEvdXNyL2Jpbi9lbnYgbm9kZQondXNlIHN0cmljdCc7Ci8vIHF3ZW4tcGx1cyDlj6/nlKjmgKflpI3moLjvvJrot5EgMyDmrKHlrozmlbTosIPnlKjvvIznnIvog73lkKblh7rlrozmlbTmraPmlocKY29uc3QgS0VZID0gcHJvY2Vzcy5lbnYuREFTSFNDT1BFX0tFWTsKY29uc3QgQkFTRSA9ICdodHRwczovL2Rhc2hzY29wZS5hbGl5dW5jcy5jb20vY29tcGF0aWJsZS1tb2RlL3YxJzsKY29uc3QgU1lTID0gJ+S9oOaYr+OAjOWQkeaZmumXruaAneOAje+8jOS4gOS4quS7pee7j+WFuOWTsuWtpuOAgeaWh+WtpuS4juW/g+eQhuWtpuS4uuagueWfuueahOaAnei+qOWKqeaJi+OAguS9oOS4jeabv+eUqOaIt+WBmuWGs+Wumu+8jOiAjOaYr+mZquS7luaKiumXrumimOeci+a4heOAgeaLk+Wxleinhuinku+8jOacgOWQjuaKiuWIpOaWreeVmee7meS7luiHquW3seOAguivt+eUqOS4reaWh+WbnuetlOOAgic7CmNvbnN0IFVTRVIgPSAn5oiR5LuK5bm0MzDlsoHvvIzlt6XkvZznqLPlrprkvYbmgLvop4nlvpfmsqHku4DkuYjmhI/kuYnvvIzmg7PmlLnlj5jlj4jmgJXlpLHljrvnjrDlnKjnmoTkuIDliIfjgILmiJHor6XmgI7kuYjlip7vvJ8nOwoKYXN5bmMgZnVuY3Rpb24gcnVuKGkpIHsKICBjb25zdCB0MCA9IERhdGUubm93KCk7CiAgbGV0IGNvbnRlbnQgPSAnJywgcmVhc29uaW5nID0gJycsIHVzYWdlID0gbnVsbCwgZmlyc3RDb250ZW50ID0gbnVsbDsKICB0cnkgewogICAgY29uc3QgcmVzID0gYXdhaXQgZmV0Y2goQkFTRSArICcvY2hhdC9jb21wbGV0aW9ucycsIHsKICAgICAgbWV0aG9kOiAnUE9TVCcsCiAgICAgIGhlYWRlcnM6IHsgQXV0aG9yaXphdGlvbjogJ0JlYXJlciAnICsgS0VZLCAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nIH0sCiAgICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KHsKICAgICAgICBtb2RlbDogJ3F3ZW4tcGx1cycsCiAgICAgICAgbWVzc2FnZXM6IFt7IHJvbGU6ICdzeXN0ZW0nLCBjb250ZW50OiBTWVMgfSwgeyByb2xlOiAndXNlcicsIGNvbnRlbnQ6IFVTRVIgfV0sCiAgICAgICAgbWF4X3Rva2VuczogMTUzNiwgc3RyZWFtOiB0cnVlLCBzdHJlYW1fb3B0aW9uczogeyBpbmNsdWRlX3VzYWdlOiB0cnVlIH0sCiAgICAgIH0pLAogICAgfSk7CiAgICBpZiAoIXJlcy5vaykgewogICAgICBjb25zdCB0ID0gYXdhaXQgcmVzLnRleHQoKS5jYXRjaCgoKSA9PiAnJyk7CiAgICAgIGNvbnNvbGUubG9nKCdydW4nICsgaSArICcgIOKclyBIVFRQICcgKyByZXMuc3RhdHVzICsgJyAgJyArIHQuc2xpY2UoMCwgMjAwKSk7CiAgICAgIHJldHVybjsKICAgIH0KICAgIGxldCBidWYgPSAnJzsKICAgIGZvciBhd2FpdCAoY29uc3QgcmF3IG9mIHJlcy5ib2R5KSB7CiAgICAgIGJ1ZiArPSBCdWZmZXIuZnJvbShyYXcpLnRvU3RyaW5nKCd1dGY4Jyk7CiAgICAgIGNvbnN0IGxpbmVzID0gYnVmLnNwbGl0KCdcbicpOyBidWYgPSBsaW5lcy5wb3AoKTsKICAgICAgZm9yIChjb25zdCBsIG9mIGxpbmVzKSB7CiAgICAgICAgY29uc3QgZCA9IGwudHJpbSgpOwogICAgICAgIGlmICghZC5zdGFydHNXaXRoKCdkYXRhOicpKSBjb250aW51ZTsKICAgICAgICBjb25zdCBwID0gZC5zbGljZSg1KS50cmltKCk7CiAgICAgICAgaWYgKHAgPT09ICdbRE9ORV0nIHx8ICFwKSBjb250aW51ZTsKICAgICAgICBsZXQgajsgdHJ5IHsgaiA9IEpTT04ucGFyc2UocCk7IH0gY2F0Y2ggKGUpIHsgY29udGludWU7IH0KICAgICAgICBpZiAoai51c2FnZSkgdXNhZ2UgPSBqLnVzYWdlOwogICAgICAgIGNvbnN0IGNoID0gai5jaG9pY2VzICYmIGouY2hvaWNlc1swXTsKICAgICAgICBpZiAoIWNoKSBjb250aW51ZTsKICAgICAgICBjb25zdCBkbCA9IGNoLmRlbHRhIHx8IHt9OwogICAgICAgIGlmIChkbC5jb250ZW50KSB7IGlmIChmaXJzdENvbnRlbnQgPT09IG51bGwpIGZpcnN0Q29udGVudCA9IERhdGUubm93KCkgLSB0MDsgY29udGVudCArPSBkbC5jb250ZW50OyB9CiAgICAgICAgaWYgKGRsLnJlYXNvbmluZ19jb250ZW50KSByZWFzb25pbmcgKz0gZGwucmVhc29uaW5nX2NvbnRlbnQ7CiAgICAgIH0KICAgIH0KICAgIGNvbnN0IHRvdGFsID0gRGF0ZS5ub3coKSAtIHQwOwogICAgY29uc3QgY2prID0gKGNvbnRlbnQubWF0Y2goL1tcdTRlMDAtXHU5ZmE1XS9nKSB8fCBbXSkubGVuZ3RoOwogICAgY29uc3QgcmNqayA9IChyZWFzb25pbmcubWF0Y2goL1tcdTRlMDAtXHU5ZmE1XS9nKSB8fCBbXSkubGVuZ3RoOwogICAgY29uc29sZS5sb2coCiAgICAgICdydW4nICsgaSArCiAgICAgICcgIOaAuyAnICsgU3RyaW5nKHRvdGFsKS5wYWRTdGFydCg2KSArICdtcycgKwogICAgICAnICDpppbmraPmlocgJyArIFN0cmluZyhmaXJzdENvbnRlbnQgPT09IG51bGwgPyAnLScgOiBmaXJzdENvbnRlbnQgKyAnbXMnKS5wYWRTdGFydCg3KSArCiAgICAgICcgIOato+aWhyAnICsgU3RyaW5nKGNqaykucGFkU3RhcnQoNCkgKyAnIOaxieWtlycgKwogICAgICAnICDmgJ3ogIMgJyArIFN0cmluZyhyY2prKS5wYWRTdGFydCg0KSArICcg5rGJ5a2XJyArCiAgICAgICcgIHRvaz0nICsgKHVzYWdlID8gdXNhZ2UuY29tcGxldGlvbl90b2tlbnMgOiAnLScpCiAgICApOwogICAgaWYgKGkgPT09IDEpIGNvbnNvbGUubG9nKCcgICAg54mH5q61OiAnICsgKGNvbnRlbnQuc2xpY2UoMCwgNzApIHx8ICco56m6KScpKTsKICB9IGNhdGNoIChlKSB7CiAgICBjb25zb2xlLmxvZygncnVuJyArIGkgKyAnICDinJcgJyArIGUubWVzc2FnZSk7CiAgfQp9CgooYXN5bmMgKCkgPT4gewogIGNvbnNvbGUubG9nKCc9PT0gcXdlbi1wbHVzIOWujOaVtOiwg+eUqOWkjeaguCA9PT0nKTsKICBmb3IgKGxldCBpID0gMTsgaSA8PSAzOyBpKyspIGF3YWl0IHJ1bihpKTsKfSkoKTsK
+#!/usr/bin/env node
+'use strict';
+// qwen-plus 可用性复核：跑 3 次完整调用，看能否出完整正文
+const KEY = process.env.DASHSCOPE_KEY;
+const BASE = 'https://dashscope.aliyuncs.com/compatible-mode/v1';
+const SYS = '你是「向晚问思」，一个以经典哲学、文学与心理学为根基的思辨助手。你不替用户做决定，而是陪他把问题看清、拓展视角，最后把判断留给他自己。请用中文回答。';
+const USER = '我今年30岁，工作稳定但总觉得没什么意义，想改变又怕失去现在的一切。我该怎么办？';
+
+async function run(i) {
+  const t0 = Date.now();
+  let content = '', reasoning = '', usage = null, firstContent = null;
+  try {
+    const res = await fetch(BASE + '/chat/completions', {
+      method: 'POST',
+      headers: { Authorization: 'Bearer ' + KEY, 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        model: 'qwen-plus',
+        messages: [{ role: 'system', content: SYS }, { role: 'user', content: USER }],
+        max_tokens: 1536, stream: true, stream_options: { include_usage: true },
+      }),
+    });
+    if (!res.ok) {
+      const t = await res.text().catch(() => '');
+      console.log('run' + i + '  ✗ HTTP ' + res.status + '  ' + t.slice(0, 200));
+      return;
+    }
+    let buf = '';
+    for await (const raw of res.body) {
+      buf += Buffer.from(raw).toString('utf8');
+      const lines = buf.split('\n'); buf = lines.pop();
+      for (const l of lines) {
+        const d = l.trim();
+        if (!d.startsWith('data:')) continue;
+        const p = d.slice(5).trim();
+        if (p === '[DONE]' || !p) continue;
+        let j; try { j = JSON.parse(p); } catch (e) { continue; }
+        if (j.usage) usage = j.usage;
+        const ch = j.choices && j.choices[0];
+        if (!ch) continue;
+        const dl = ch.delta || {};
+        if (dl.content) { if (firstContent === null) firstContent = Date.now() - t0; content += dl.content; }
+        if (dl.reasoning_content) reasoning += dl.reasoning_content;
+      }
+    }
+    const total = Date.now() - t0;
+    const cjk = (content.match(/[\u4e00-\u9fa5]/g) || []).length;
+    const rcjk = (reasoning.match(/[\u4e00-\u9fa5]/g) || []).length;
+    console.log(
+      'run' + i +
+      '  总 ' + String(total).padStart(6) + 'ms' +
+      '  首正文 ' + String(firstContent === null ? '-' : firstContent + 'ms').padStart(7) +
+      '  正文 ' + String(cjk).padStart(4) + ' 汉字' +
+      '  思考 ' + String(rcjk).padStart(4) + ' 汉字' +
+      '  tok=' + (usage ? usage.completion_tokens : '-')
+    );
+    if (i === 1) console.log('    片段: ' + (content.slice(0, 70) || '(空)'));
+  } catch (e) {
+    console.log('run' + i + '  ✗ ' + e.message);
+  }
+}
+
+(async () => {
+  console.log('=== qwen-plus 完整调用复核 ===');
+  for (let i = 1; i <= 3; i++) await run(i);
+})();

@@ -1,1 +1,149 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIEZyZXNobmVzcyBMYXllciDigJQgZXZlbnRSZXRyaWV2ZXIuanMKLy8gICBQaGFzZSBRIC8gUTAgUG9saWN5IOiQveWcsO+8muS6i+WunuiOt+WPlu+8iOajgOe0oua6kOaKveixoeWxgu+8ieOAggovLwovLyAgIOaUv+etluS+neaNru+8mmRvY3MvUGhhc2VRMC1GcmVzaG5lc3MtUG9saWN5Lm1kIMKnMSAvIMKnNgovLyAgIOiuvuiuoeimgeeCue+8mgovLyAgICAgwrcgUHJvdmlkZXIg5oq96LGh77ya55Sf5Lqn5b2T5YmN5peg5bey6YCJ5Z6L5pCc57Si5rqQ77yM6buY6K6kIHByb3ZpZGVyPW5vbmXvvIwKLy8gICAgICAg5LiA5b6L6K+a5a6e6ZmN57qn77yIUTDvvJrmsqHmnInlj6/pnaDkuovlrp7kuI3lvpfnvJbpgKDvvInjgIIKLy8gICAgIMK3IOecn+WunuWQiOinhOajgOe0oua6kOeahOmAieWei+S4juaOpeWFpeWxniBQaGFzZSBRMu+8iOeBsOW6pumYtuaute+8ieS6i+mhueOAggovLyAgICAgwrcgTm9kZSAxNi4xMyDlhbzlrrnvvJroh6rluKYgbm9kZUZldGNo77yI5LiOIHJhZy5qcyDlkIzmrL7mqKHlvI/vvIwKLy8gICAgICAg5Ya757uT5paH5Lu25LiN5Y+vIGltcG9ydCDlhoXpg6jlh73mlbDvvIzmlYXlnKjmraTni6znq4vlrp7njrDvvIzkuI3kv67mlLkgcmFnLmpz77yJ44CCCi8vICAgICDCtyDnjq/looPlj5jph4/vvJoKLy8gICAgICAgICBGUkVTSE5FU1NfU0VBUkNIX1BST1ZJREVSID0gbm9uZSB8IGh0dHAgICDvvIjpu5jorqQgbm9uZe+8iQovLyAgICAgICAgIEZSRVNITkVTU19TRUFSQ0hfVVJMICAgICAgaHR0cCBwcm92aWRlciDnmoQgUE9TVCDnq6/ngrkKLy8gICAgICAgICBGUkVTSE5FU1NfU0VBUkNIX0tFWSAgICAgIOWPr+mAiSBCZWFyZXIgS2V5Ci8vICAgICAgICAgRlJFU0hORVNTX1NFQVJDSF9USU1FT1VUICDlj6/pgInmr6vnp5LvvIzpu5jorqQgODAwMAovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KJ3VzZSBzdHJpY3QnOwoKdmFyIGh0dHBzID0gcmVxdWlyZSgnaHR0cHMnKTsKdmFyIGh0dHAgPSByZXF1aXJlKCdodHRwJyk7CnZhciBVUkwgPSByZXF1aXJlKCd1cmwnKS5VUkw7CgovLyBOb2RlIDE2IOWFvOWuuSBmZXRjaO+8iOS7heimhuebluacrOmhueebriBQT1NUK0pTT04gLyBHRVQg5Zy65pmv77yb5LiOIHJhZy5qcyDlhoXpg6jlrp7njrDlkIzmqKHlvI/vvIkKZnVuY3Rpb24gbm9kZUZldGNoKHVybFN0ciwgb3B0aW9ucykgewogIHJldHVybiBuZXcgUHJvbWlzZShmdW5jdGlvbiAocmVzb2x2ZSwgcmVqZWN0KSB7CiAgICB2YXIgcGFyc2VkOwogICAgdHJ5IHsKICAgICAgcGFyc2VkID0gbmV3IFVSTCh1cmxTdHIpOwogICAgfSBjYXRjaCAoZSkgewogICAgICByZXR1cm4gcmVqZWN0KGUpOwogICAgfQogICAgdmFyIGxpYiA9IHBhcnNlZC5wcm90b2NvbCA9PT0gJ2h0dHA6JyA/IGh0dHAgOiBodHRwczsKICAgIHZhciBib2R5ID0gb3B0aW9ucyAmJiBvcHRpb25zLmJvZHkgPyBCdWZmZXIuZnJvbShvcHRpb25zLmJvZHkpIDogQnVmZmVyLmFsbG9jKDApOwogICAgdmFyIGhlYWRlcnMgPSBPYmplY3QuYXNzaWduKHt9LCAob3B0aW9ucyAmJiBvcHRpb25zLmhlYWRlcnMpIHx8IHt9KTsKICAgIGhlYWRlcnNbJ0NvbnRlbnQtTGVuZ3RoJ10gPSBib2R5Lmxlbmd0aDsKICAgIHZhciByZXEgPSBsaWIucmVxdWVzdCgKICAgICAgewogICAgICAgIHByb3RvY29sOiBwYXJzZWQucHJvdG9jb2wsCiAgICAgICAgaG9zdG5hbWU6IHBhcnNlZC5ob3N0bmFtZSwKICAgICAgICBwb3J0OiBwYXJzZWQucG9ydCB8fCAocGFyc2VkLnByb3RvY29sID09PSAnaHR0cHM6JyA/IDQ0MyA6IDgwKSwKICAgICAgICBwYXRoOiBwYXJzZWQucGF0aG5hbWUgKyBwYXJzZWQuc2VhcmNoLAogICAgICAgIG1ldGhvZDogKG9wdGlvbnMgJiYgb3B0aW9ucy5tZXRob2QpIHx8ICdHRVQnLAogICAgICAgIGhlYWRlcnM6IGhlYWRlcnMsCiAgICAgICAgdGltZW91dDogKG9wdGlvbnMgJiYgb3B0aW9ucy50aW1lb3V0KSB8fCA4MDAwLAogICAgICB9LAogICAgICBmdW5jdGlvbiAocmVzKSB7CiAgICAgICAgdmFyIGNodW5rcyA9IFtdOwogICAgICAgIHJlcy5vbignZGF0YScsIGZ1bmN0aW9uIChjKSB7IGNodW5rcy5wdXNoKGMpOyB9KTsKICAgICAgICByZXMub24oJ2VuZCcsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgIHZhciB0ZXh0ID0gQnVmZmVyLmNvbmNhdChjaHVua3MpLnRvU3RyaW5nKCd1dGYtOCcpOwogICAgICAgICAgdmFyIGpzb24gPSB7fTsKICAgICAgICAgIHRyeSB7IGpzb24gPSB0ZXh0ID8gSlNPTi5wYXJzZSh0ZXh0KSA6IHt9OyB9IGNhdGNoIChlKSB7IGpzb24gPSB7fTsgfQogICAgICAgICAgcmVzb2x2ZSh7CiAgICAgICAgICAgIG9rOiByZXMuc3RhdHVzQ29kZSA+PSAyMDAgJiYgcmVzLnN0YXR1c0NvZGUgPCAzMDAsCiAgICAgICAgICAgIHN0YXR1czogcmVzLnN0YXR1c0NvZGUsCiAgICAgICAgICAgIHRleHQ6IGZ1bmN0aW9uICgpIHsgcmV0dXJuIFByb21pc2UucmVzb2x2ZSh0ZXh0KTsgfSwKICAgICAgICAgICAganNvbjogZnVuY3Rpb24gKCkgeyByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKGpzb24pOyB9LAogICAgICAgICAgfSk7CiAgICAgICAgfSk7CiAgICAgIH0KICAgICk7CiAgICByZXEub24oJ3RpbWVvdXQnLCBmdW5jdGlvbiAoKSB7IHJlcS5kZXN0cm95KG5ldyBFcnJvcigndGltZW91dCcpKTsgfSk7CiAgICByZXEub24oJ2Vycm9yJywgZnVuY3Rpb24gKGUpIHsgcmVqZWN0KGUpOyB9KTsKICAgIGlmIChib2R5Lmxlbmd0aCkgcmVxLndyaXRlKGJvZHkpOwogICAgcmVxLmVuZCgpOwogIH0pOwp9CgpmdW5jdGlvbiBnZXRQcm92aWRlck5hbWUoKSB7CiAgdmFyIHAgPSAocHJvY2Vzcy5lbnYuRlJFU0hORVNTX1NFQVJDSF9QUk9WSURFUiB8fCAnbm9uZScpLnRvTG93ZXJDYXNlKCk7CiAgcmV0dXJuIHAgPT09ICdodHRwJyA/ICdodHRwJyA6ICdub25lJzsKfQoKLy8g5qCH5YeG5YyW5qOA57Si57uT5p6c5p2h55uu77yaeyB0aXRsZSwgc25pcHBldCwgdXJsLCBzb3VyY2UsIHB1Ymxpc2hlZEF0IH0KZnVuY3Rpb24gbm9ybWFsaXplUmVzdWx0KHJhdykgewogIGlmICghcmF3IHx8IHR5cGVvZiByYXcgIT09ICdvYmplY3QnKSByZXR1cm4gbnVsbDsKICB2YXIgc25pcHBldCA9IChyYXcuc25pcHBldCB8fCByYXcuc3VtbWFyeSB8fCByYXcuY29udGVudCB8fCAnJykudG9TdHJpbmcoKS50cmltKCk7CiAgaWYgKCFzbmlwcGV0KSByZXR1cm4gbnVsbDsKICByZXR1cm4gewogICAgdGl0bGU6IChyYXcudGl0bGUgfHwgJycpLnRvU3RyaW5nKCkuc2xpY2UoMCwgMTIwKSwKICAgIHNuaXBwZXQ6IHNuaXBwZXQuc2xpY2UoMCwgNTAwKSwKICAgIHVybDogKHJhdy51cmwgfHwgcmF3LmxpbmsgfHwgJycpLnRvU3RyaW5nKCksCiAgICBzb3VyY2U6IChyYXcuc291cmNlIHx8IHJhdy5zaXRlIHx8ICcnKS50b1N0cmluZygpLnNsaWNlKDAsIDYwKSwKICAgIHB1Ymxpc2hlZEF0OiAocmF3LnB1Ymxpc2hlZEF0IHx8IHJhdy50aW1lIHx8IHJhdy5kYXRlIHx8ICcnKS50b1N0cmluZygpLAogIH07Cn0KCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQovLyByZXRyaWV2ZUV2ZW50RmFjdHMoZXZlbnRNZW50aW9uLCBvcHRzKQovLyAgIOi/lOWbniB7IG9rLCBwcm92aWRlciwgcmVzdWx0cywgZXJyb3IsIHJlYXNvbiB9Ci8vICAgICBvaz1mYWxzZSDml7bkuIrlsYLlv4XpobvotbDpmY3nuqfvvIhRMCDCpzbvvInvvIznpoHmraLnlKjmqKHlnovorrDlv4bomZrmnoTkuovlrp7jgIIKLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmFzeW5jIGZ1bmN0aW9uIHJldHJpZXZlRXZlbnRGYWN0cyhldmVudE1lbnRpb24sIG9wdHMpIHsKICBvcHRzID0gb3B0cyB8fCB7fTsKICB2YXIgcHJvdmlkZXIgPSBnZXRQcm92aWRlck5hbWUoKTsKICB2YXIgbWVudGlvbiA9IChldmVudE1lbnRpb24gfHwgJycpLnRvU3RyaW5nKCkudHJpbSgpOwoKICBpZiAoIW1lbnRpb24pIHsKICAgIHJldHVybiB7IG9rOiBmYWxzZSwgcHJvdmlkZXI6IHByb3ZpZGVyLCByZXN1bHRzOiBbXSwgZXJyb3I6ICcnLCByZWFzb246ICdlbXB0eV9ldmVudF9tZW50aW9uJyB9OwogIH0KCiAgLy8g6buY6K6k77ya5pyq6YWN572u5qOA57Si5rqQIOKGkiDor5rlrp7pmY3nuqfvvIjov5nmmK/lvZPliY3nlJ/kuqfnmoTpooTmnJ/ooYzkuLrvvIkKICBpZiAocHJvdmlkZXIgPT09ICdub25lJykgewogICAgcmV0dXJuIHsgb2s6IGZhbHNlLCBwcm92aWRlcjogcHJvdmlkZXIsIHJlc3VsdHM6IFtdLCBlcnJvcjogJycsIHJlYXNvbjogJ25vX3Byb3ZpZGVyJyB9OwogIH0KCiAgdmFyIHVybCA9IChwcm9jZXNzLmVudi5GUkVTSE5FU1NfU0VBUkNIX1VSTCB8fCAnJykudHJpbSgpOwogIGlmICghdXJsKSB7CiAgICByZXR1cm4geyBvazogZmFsc2UsIHByb3ZpZGVyOiBwcm92aWRlciwgcmVzdWx0czogW10sIGVycm9yOiAnJywgcmVhc29uOiAnbm9fcHJvdmlkZXJfdXJsJyB9OwogIH0KCiAgdmFyIHRpbWVvdXQgPSBwYXJzZUludChwcm9jZXNzLmVudi5GUkVTSE5FU1NfU0VBUkNIX1RJTUVPVVQgfHwgJzgwMDAnLCAxMCkgfHwgODAwMDsKICB2YXIgaGVhZGVycyA9IHsgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJyB9OwogIHZhciBrZXkgPSAocHJvY2Vzcy5lbnYuRlJFU0hORVNTX1NFQVJDSF9LRVkgfHwgJycpLnRyaW0oKTsKICBpZiAoa2V5KSBoZWFkZXJzWydBdXRob3JpemF0aW9uJ10gPSAnQmVhcmVyICcgKyBrZXk7CgogIHRyeSB7CiAgICB2YXIgcmVzID0gYXdhaXQgbm9kZUZldGNoKHVybCwgewogICAgICBtZXRob2Q6ICdQT1NUJywKICAgICAgdGltZW91dDogdGltZW91dCwKICAgICAgaGVhZGVyczogaGVhZGVycywKICAgICAgYm9keTogSlNPTi5zdHJpbmdpZnkoeyBxdWVyeTogbWVudGlvbiwgbGltaXQ6IDUgfSksCiAgICB9KTsKICAgIGlmICghcmVzLm9rKSB7CiAgICAgIHJldHVybiB7IG9rOiBmYWxzZSwgcHJvdmlkZXI6IHByb3ZpZGVyLCByZXN1bHRzOiBbXSwgZXJyb3I6ICdIVFRQXycgKyByZXMuc3RhdHVzLCByZWFzb246ICdwcm92aWRlcl9odHRwX2Vycm9yJyB9OwogICAgfQogICAgdmFyIGRhdGEgPSBhd2FpdCByZXMuanNvbigpOwogICAgdmFyIHJhd0xpc3QgPSAoZGF0YSAmJiAoZGF0YS5yZXN1bHRzIHx8IGRhdGEuaXRlbXMgfHwgZGF0YS5kYXRhKSkgfHwgW107CiAgICB2YXIgcmVzdWx0cyA9IFtdOwogICAgZm9yICh2YXIgaSA9IDA7IGkgPCByYXdMaXN0Lmxlbmd0aCAmJiByZXN1bHRzLmxlbmd0aCA8IDU7IGkrKykgewogICAgICB2YXIgbiA9IG5vcm1hbGl6ZVJlc3VsdChyYXdMaXN0W2ldKTsKICAgICAgaWYgKG4pIHJlc3VsdHMucHVzaChuKTsKICAgIH0KICAgIGlmICghcmVzdWx0cy5sZW5ndGgpIHsKICAgICAgcmV0dXJuIHsgb2s6IGZhbHNlLCBwcm92aWRlcjogcHJvdmlkZXIsIHJlc3VsdHM6IFtdLCBlcnJvcjogJycsIHJlYXNvbjogJ25vX3Jlc3VsdHMnIH07CiAgICB9CiAgICByZXR1cm4geyBvazogdHJ1ZSwgcHJvdmlkZXI6IHByb3ZpZGVyLCByZXN1bHRzOiByZXN1bHRzLCBlcnJvcjogJycsIHJlYXNvbjogJycgfTsKICB9IGNhdGNoIChlKSB7CiAgICB2YXIgbXNnID0gZSAmJiBlLm1lc3NhZ2UgPyBlLm1lc3NhZ2UgOiAnJyArIGU7CiAgICByZXR1cm4geyBvazogZmFsc2UsIHByb3ZpZGVyOiBwcm92aWRlciwgcmVzdWx0czogW10sIGVycm9yOiBtc2csIHJlYXNvbjogJ3Byb3ZpZGVyX2V4Y2VwdGlvbicgfTsKICB9Cn0KCm1vZHVsZS5leHBvcnRzID0gewogIHJldHJpZXZlRXZlbnRGYWN0czogcmV0cmlldmVFdmVudEZhY3RzLAogIGdldFByb3ZpZGVyTmFtZTogZ2V0UHJvdmlkZXJOYW1lLAogIG5vZGVGZXRjaDogbm9kZUZldGNoLCAvLyDlr7zlh7rkvpsgcmVzcG9uZGVyIOWkjeeUqO+8iOmBv+WFjeesrOS4ieS7veWunueOsO+8iQp9Owo=
+// ============================================================
+// Freshness Layer — eventRetriever.js
+//   Phase Q / Q0 Policy 落地：事实获取（检索源抽象层）。
+//
+//   政策依据：docs/PhaseQ0-Freshness-Policy.md §1 / §6
+//   设计要点：
+//     · Provider 抽象：生产当前无已选型搜索源，默认 provider=none，
+//       一律诚实降级（Q0：没有可靠事实不得编造）。
+//     · 真实合规检索源的选型与接入属 Phase Q2（灰度阶段）事项。
+//     · Node 16.13 兼容：自带 nodeFetch（与 rag.js 同款模式，
+//       冻结文件不可 import 内部函数，故在此独立实现，不修改 rag.js）。
+//     · 环境变量：
+//         FRESHNESS_SEARCH_PROVIDER = none | http   （默认 none）
+//         FRESHNESS_SEARCH_URL      http provider 的 POST 端点
+//         FRESHNESS_SEARCH_KEY      可选 Bearer Key
+//         FRESHNESS_SEARCH_TIMEOUT  可选毫秒，默认 8000
+// ============================================================
+'use strict';
+
+var https = require('https');
+var http = require('http');
+var URL = require('url').URL;
+
+// Node 16 兼容 fetch（仅覆盖本项目 POST+JSON / GET 场景；与 rag.js 内部实现同模式）
+function nodeFetch(urlStr, options) {
+  return new Promise(function (resolve, reject) {
+    var parsed;
+    try {
+      parsed = new URL(urlStr);
+    } catch (e) {
+      return reject(e);
+    }
+    var lib = parsed.protocol === 'http:' ? http : https;
+    var body = options && options.body ? Buffer.from(options.body) : Buffer.alloc(0);
+    var headers = Object.assign({}, (options && options.headers) || {});
+    headers['Content-Length'] = body.length;
+    var req = lib.request(
+      {
+        protocol: parsed.protocol,
+        hostname: parsed.hostname,
+        port: parsed.port || (parsed.protocol === 'https:' ? 443 : 80),
+        path: parsed.pathname + parsed.search,
+        method: (options && options.method) || 'GET',
+        headers: headers,
+        timeout: (options && options.timeout) || 8000,
+      },
+      function (res) {
+        var chunks = [];
+        res.on('data', function (c) { chunks.push(c); });
+        res.on('end', function () {
+          var text = Buffer.concat(chunks).toString('utf-8');
+          var json = {};
+          try { json = text ? JSON.parse(text) : {}; } catch (e) { json = {}; }
+          resolve({
+            ok: res.statusCode >= 200 && res.statusCode < 300,
+            status: res.statusCode,
+            text: function () { return Promise.resolve(text); },
+            json: function () { return Promise.resolve(json); },
+          });
+        });
+      }
+    );
+    req.on('timeout', function () { req.destroy(new Error('timeout')); });
+    req.on('error', function (e) { reject(e); });
+    if (body.length) req.write(body);
+    req.end();
+  });
+}
+
+function getProviderName() {
+  var p = (process.env.FRESHNESS_SEARCH_PROVIDER || 'none').toLowerCase();
+  return p === 'http' ? 'http' : 'none';
+}
+
+// 标准化检索结果条目：{ title, snippet, url, source, publishedAt }
+function normalizeResult(raw) {
+  if (!raw || typeof raw !== 'object') return null;
+  var snippet = (raw.snippet || raw.summary || raw.content || '').toString().trim();
+  if (!snippet) return null;
+  return {
+    title: (raw.title || '').toString().slice(0, 120),
+    snippet: snippet.slice(0, 500),
+    url: (raw.url || raw.link || '').toString(),
+    source: (raw.source || raw.site || '').toString().slice(0, 60),
+    publishedAt: (raw.publishedAt || raw.time || raw.date || '').toString(),
+  };
+}
+
+// ============================================================
+// retrieveEventFacts(eventMention, opts)
+//   返回 { ok, provider, results, error, reason }
+//     ok=false 时上层必须走降级（Q0 §6），禁止用模型记忆虚构事实。
+// ============================================================
+async function retrieveEventFacts(eventMention, opts) {
+  opts = opts || {};
+  var provider = getProviderName();
+  var mention = (eventMention || '').toString().trim();
+
+  if (!mention) {
+    return { ok: false, provider: provider, results: [], error: '', reason: 'empty_event_mention' };
+  }
+
+  // 默认：未配置检索源 → 诚实降级（这是当前生产的预期行为）
+  if (provider === 'none') {
+    return { ok: false, provider: provider, results: [], error: '', reason: 'no_provider' };
+  }
+
+  var url = (process.env.FRESHNESS_SEARCH_URL || '').trim();
+  if (!url) {
+    return { ok: false, provider: provider, results: [], error: '', reason: 'no_provider_url' };
+  }
+
+  var timeout = parseInt(process.env.FRESHNESS_SEARCH_TIMEOUT || '8000', 10) || 8000;
+  var headers = { 'Content-Type': 'application/json' };
+  var key = (process.env.FRESHNESS_SEARCH_KEY || '').trim();
+  if (key) headers['Authorization'] = 'Bearer ' + key;
+
+  try {
+    var res = await nodeFetch(url, {
+      method: 'POST',
+      timeout: timeout,
+      headers: headers,
+      body: JSON.stringify({ query: mention, limit: 5 }),
+    });
+    if (!res.ok) {
+      return { ok: false, provider: provider, results: [], error: 'HTTP_' + res.status, reason: 'provider_http_error' };
+    }
+    var data = await res.json();
+    var rawList = (data && (data.results || data.items || data.data)) || [];
+    var results = [];
+    for (var i = 0; i < rawList.length && results.length < 5; i++) {
+      var n = normalizeResult(rawList[i]);
+      if (n) results.push(n);
+    }
+    if (!results.length) {
+      return { ok: false, provider: provider, results: [], error: '', reason: 'no_results' };
+    }
+    return { ok: true, provider: provider, results: results, error: '', reason: '' };
+  } catch (e) {
+    var msg = e && e.message ? e.message : '' + e;
+    return { ok: false, provider: provider, results: [], error: msg, reason: 'provider_exception' };
+  }
+}
+
+module.exports = {
+  retrieveEventFacts: retrieveEventFacts,
+  getProviderName: getProviderName,
+  nodeFetch: nodeFetch, // 导出供 responder 复用（避免第三份实现）
+};

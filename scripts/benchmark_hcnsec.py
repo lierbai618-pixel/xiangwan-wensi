@@ -1,1 +1,125 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0NCiIiIg0KYXBpLmhjbnNlYy5jbiDmqKHlnovlk43lupTpgJ/luqbmtYvor5XvvIjmtYHlvI/vvJpUVEZUICsg5oC76ICX5pe277yJDQrotLTlkIjjgIzlkJHmmZrpl67mgJ3jgI3lnLrmma/vvJrnlKjkuIDpgZPlk7LlrabpopggKyDkuIDpgZPnroDljZXpopjjgIINCiIiIg0KaW1wb3J0IGpzb24sIG9zLCBzc2wsIHRpbWUsIHN5cywgdXJsbGliLnJlcXVlc3QsIGRhdGV0aW1lDQoNCkFQSV9CQVNFID0gImh0dHBzOi8vYXBpLmhjbnNlYy5jbi92MS9jaGF0L2NvbXBsZXRpb25zIg0KQVBJX0tFWSA9IG9zLmVudmlyb24uZ2V0KCJIQ05TRUNfS0VZIiwgInNrLVlPVVJfQVBJX0tFWV9IRVJFIikNCg0KIyDlpI3mtYvvvJrkuIrkuIDova7lm6Dop6PmnpAgYnVn77yIY2hvaWNlczpbXSDmlLblsL7ljIXvvInor6/liKTnmoTmqKHlnosNCk1PREVMUyA9IFsNCiAgICAia2F0LWNvZGVyLXByby12Mi41IiwgIk1pbmlNYXgtTTMiLCAic2Vuc2Vub3ZhLTYuNy1mbGFzaC1saXRlIiwNCiAgICAic3RlcC0zLjUtZmxhc2giLCAic3RlcC0zLjUtZmxhc2gtMjYwMyIsDQpdDQoNCiMg5rWL6K+V6aKY77ya5p6B566A5LiA5Y+l6K+d77yM57qv5Y6L6YCf5bqm77yI5YiG6K+K55So77yJDQpRVUVTVElPTlMgPSBbDQogICAgKCJzaW1wbGUiLCAi55So5LiA5Y+l6K+d5Zue562U77ya5LuK5aSp6YCC5ZCI5oCd6ICD5ZCX77yfIiksDQpdDQoNClRSSUFMUyA9IDENClRJTUVPVVQgPSAzMA0KDQpjdHggPSBzc2wuY3JlYXRlX2RlZmF1bHRfY29udGV4dCgpDQpjdHguY2hlY2tfaG9zdG5hbWUgPSBGYWxzZQ0KY3R4LnZlcmlmeV9tb2RlID0gc3NsLkNFUlRfTk9ORQ0KDQoNCmRlZiBjYWxsKG1vZGVsLCBxLCB0aW1lb3V0PVRJTUVPVVQpOg0KICAgIGJvZHkgPSBqc29uLmR1bXBzKHsNCiAgICAgICAgIm1vZGVsIjogbW9kZWwsDQogICAgICAgICJtZXNzYWdlcyI6IFt7InJvbGUiOiAidXNlciIsICJjb250ZW50IjogcX1dLA0KICAgICAgICAic3RyZWFtIjogVHJ1ZSwNCiAgICAgICAgInRlbXBlcmF0dXJlIjogMC4zNSwNCiAgICAgICAgIm1heF90b2tlbnMiOiA4MDAsDQogICAgfSkuZW5jb2RlKCJ1dGYtOCIpDQogICAgcmVxID0gdXJsbGliLnJlcXVlc3QuUmVxdWVzdChBUElfQkFTRSwgZGF0YT1ib2R5LCBtZXRob2Q9IlBPU1QiKQ0KICAgIHJlcS5hZGRfaGVhZGVyKCJBdXRob3JpemF0aW9uIiwgIkJlYXJlciAiICsgQVBJX0tFWSkNCiAgICByZXEuYWRkX2hlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb247IGNoYXJzZXQ9dXRmLTgiKQ0KDQogICAgdDAgPSB0aW1lLnRpbWUoKQ0KICAgIHR0ZnQgPSBOb25lDQogICAgY2h1bmtzID0gMA0KICAgIHRleHQgPSBbXQ0KICAgIHRyeToNCiAgICAgICAgd2l0aCB1cmxsaWIucmVxdWVzdC51cmxvcGVuKHJlcSwgdGltZW91dD10aW1lb3V0LCBjb250ZXh0PWN0eCkgYXMgcmVzcDoNCiAgICAgICAgICAgIGZvciByYXcgaW4gcmVzcDoNCiAgICAgICAgICAgICAgICBsaW5lID0gcmF3LmRlY29kZSgidXRmLTgiLCAicmVwbGFjZSIpLnN0cmlwKCkNCiAgICAgICAgICAgICAgICBpZiBub3QgbGluZS5zdGFydHN3aXRoKCJkYXRhOiIpOg0KICAgICAgICAgICAgICAgICAgICBjb250aW51ZQ0KICAgICAgICAgICAgICAgIGRhdGEgPSBsaW5lWzU6XS5zdHJpcCgpDQogICAgICAgICAgICAgICAgaWYgZGF0YSA9PSAiW0RPTkVdIjoNCiAgICAgICAgICAgICAgICAgICAgYnJlYWsNCiAgICAgICAgICAgICAgICB0cnk6DQogICAgICAgICAgICAgICAgICAgIG9iaiA9IGpzb24ubG9hZHMoZGF0YSkNCiAgICAgICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uOg0KICAgICAgICAgICAgICAgICAgICBjb250aW51ZQ0KICAgICAgICAgICAgICAgIGlmIHR0ZnQgaXMgTm9uZToNCiAgICAgICAgICAgICAgICAgICAgdHRmdCA9IHRpbWUudGltZSgpIC0gdDANCiAgICAgICAgICAgICAgICBjaG9pY2VzID0gb2JqLmdldCgiY2hvaWNlcyIpIG9yIFt7fV0NCiAgICAgICAgICAgICAgICBjaDAgPSBjaG9pY2VzWzBdIGlmIGNob2ljZXMgZWxzZSB7fQ0KICAgICAgICAgICAgICAgIGRlbHRhID0gY2gwLmdldCgiZGVsdGEiLCB7fSkuZ2V0KCJjb250ZW50IikNCiAgICAgICAgICAgICAgICBpZiBkZWx0YToNCiAgICAgICAgICAgICAgICAgICAgdGV4dC5hcHBlbmQoZGVsdGEpDQogICAgICAgICAgICAgICAgICAgIGNodW5rcyArPSAxDQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOg0KICAgICAgICByZXR1cm4gew0KICAgICAgICAgICAgIm9rIjogRmFsc2UsICJ0dGZ0IjogTm9uZSwgInRvdGFsIjogdGltZS50aW1lKCkgLSB0MCwNCiAgICAgICAgICAgICJjaGFycyI6IDAsICJlcnJvciI6IHN0cihlKVs6MjAwXSwgInNhbXBsZSI6ICIiLA0KICAgICAgICB9DQogICAgdG90YWwgPSB0aW1lLnRpbWUoKSAtIHQwDQogICAgZnVsbCA9ICIiLmpvaW4odGV4dCkNCiAgICByZXR1cm4gew0KICAgICAgICAib2siOiBUcnVlLCAidHRmdCI6IHR0ZnQsICJ0b3RhbCI6IHRvdGFsLA0KICAgICAgICAiY2hhcnMiOiBsZW4oZnVsbCksICJlcnJvciI6ICIiLCAic2FtcGxlIjogZnVsbFs6MTIwXSwNCiAgICB9DQoNCg0KZGVmIG1haW4oKToNCiAgICByZXN1bHRzID0ge30NCiAgICBmb3IgbW9kZWwgaW4gTU9ERUxTOg0KICAgICAgICByZXN1bHRzW21vZGVsXSA9IHt9DQogICAgICAgIHByaW50KCJbTU9ERUxdICVzIiAlIG1vZGVsLCBmbHVzaD1UcnVlKQ0KICAgICAgICBmb3IgdGFnLCBxIGluIFFVRVNUSU9OUzoNCiAgICAgICAgICAgIHJlYyA9IHsidHRmdHMiOiBbXSwgInRvdGFscyI6IFtdLCAiY2hhcnMiOiBbXSwgIm9rIjogMCwgInNhbXBsZXMiOiBbXSwgImVycm9ycyI6IFtdfQ0KICAgICAgICAgICAgZm9yIHQgaW4gcmFuZ2UoVFJJQUxTKToNCiAgICAgICAgICAgICAgICByID0gY2FsbChtb2RlbCwgcSkNCiAgICAgICAgICAgICAgICBpZiByWyJvayJdOg0KICAgICAgICAgICAgICAgICAgICByZWNbIm9rIl0gKz0gMQ0KICAgICAgICAgICAgICAgICAgICBpZiByWyJ0dGZ0Il0gaXMgbm90IE5vbmU6DQogICAgICAgICAgICAgICAgICAgICAgICByZWNbInR0ZnRzIl0uYXBwZW5kKHJvdW5kKHJbInR0ZnQiXSwgMikpDQogICAgICAgICAgICAgICAgICAgIHJlY1sidG90YWxzIl0uYXBwZW5kKHJvdW5kKHJbInRvdGFsIl0sIDIpKQ0KICAgICAgICAgICAgICAgICAgICByZWNbImNoYXJzIl0uYXBwZW5kKHJbImNoYXJzIl0pDQogICAgICAgICAgICAgICAgICAgIGlmIHQgPT0gMDoNCiAgICAgICAgICAgICAgICAgICAgICAgIHJlY1sic2FtcGxlcyJdLmFwcGVuZChyWyJzYW1wbGUiXSkNCiAgICAgICAgICAgICAgICBlbHNlOg0KICAgICAgICAgICAgICAgICAgICByZWNbImVycm9ycyJdLmFwcGVuZChyWyJlcnJvciJdKQ0KICAgICAgICAgICAgICAgIHN0ID0gIk9LICUuMmZzKHR0ZnQgJS4yZnMpIiAlIChyWyJ0b3RhbCJdLCByWyJ0dGZ0Il0gb3IgMCkgaWYgclsib2siXSBlbHNlICJFUlIgJXMiICUgclsiZXJyb3IiXVs6NjBdDQogICAgICAgICAgICAgICAgcHJpbnQoIiAgIFslc10gdHJpYWwlZDogJXMiICUgKHRhZywgdCArIDEsIHN0KSwgZmx1c2g9VHJ1ZSkNCiAgICAgICAgICAgIHJlc3VsdHNbbW9kZWxdW3RhZ10gPSByZWMNCg0KICAgIHRzID0gZGF0ZXRpbWUuZGF0ZXRpbWUubm93KCkuc3RyZnRpbWUoIiVZJW0lZF8lSCVNJVMiKQ0KICAgIG91dCA9ICJEOi/kuI3nn6XpgZPmmK/llaUv5pWZ5ZGYL3dlYXBwL3NjcmlwdHMvaGNuc2VjX2JlbmNoXyVzLmpzb24iICUgdHMNCiAgICB3aXRoIG9wZW4ob3V0LCAidyIsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6DQogICAgICAgIGpzb24uZHVtcChyZXN1bHRzLCBmLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0yKQ0KDQogICAgIyDmsYfmgLvooajvvIjmjInlk7LlrabpopjlubPlnYfmgLvogJfml7bmjpLluo/vvIkNCiAgICBwcmludCgiXG49PT09PSDmsYfmgLvvvIjmnoHnroDpopjvvIzmgLvogJfml7bljYfluo/vvIk9PT09PSIsIGZsdXNoPVRydWUpDQogICAgcm93cyA9IFtdDQogICAgZm9yIG1vZGVsIGluIE1PREVMUzoNCiAgICAgICAgcmVjID0gcmVzdWx0c1ttb2RlbF0uZ2V0KCJzaW1wbGUiLCB7fSkNCiAgICAgICAgaWYgcmVjLmdldCgidG90YWxzIik6DQogICAgICAgICAgICBhdmcgPSBzdW0ocmVjWyJ0b3RhbHMiXSkgLyBsZW4ocmVjWyJ0b3RhbHMiXSkNCiAgICAgICAgICAgIHR0YXZnID0gc3VtKHJlY1sidHRmdHMiXSkgLyBsZW4ocmVjWyJ0dGZ0cyJdKSBpZiByZWNbInR0ZnRzIl0gZWxzZSAwDQogICAgICAgICAgICByb3dzLmFwcGVuZCgoYXZnLCBtb2RlbCwgcmVjWyJvayJdLCB0dGF2ZywgcmVjWyJjaGFycyJdKSkNCiAgICByb3dzLnNvcnQoKQ0KICAgIHByaW50KCIlLTI0cyAlOHMgJTVzICU4cyAlOHMiICUgKCJtb2RlbCIsICJhdmfmgLvogJfml7YiLCAi5oiQ5YqfIiwgIummluWtl+W7tui/nyIsICLlrZfmlbAiKSwgZmx1c2g9VHJ1ZSkNCiAgICBmb3IgYXZnLCBtb2RlbCwgb2ssIHR0YXZnLCBjaCBpbiByb3dzOg0KICAgICAgICBwcmludCgiJS0yNHMgJTcuMmZzICU0ZC8yICU3LjJmcyAlN2QiICUgKG1vZGVsLCBhdmcsIG9rLCB0dGF2ZywgKHN1bShjaCkvL2xlbihjaCkpIGlmIGNoIGVsc2UgMCksIGZsdXNoPVRydWUpDQogICAgcHJpbnQoIlxuSlNPTiAtPiAlcyIgJSBvdXQsIGZsdXNoPVRydWUpDQoNCg0KaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoNCiAgICBtYWluKCkNCg==
+# -*- coding: utf-8 -*-
+"""
+api.hcnsec.cn 模型响应速度测试（流式：TTFT + 总耗时）
+贴合「向晚问思」场景：用一道哲学题 + 一道简单题。
+"""
+import json, os, ssl, time, sys, urllib.request, datetime
+
+API_BASE = "https://api.hcnsec.cn/v1/chat/completions"
+API_KEY = os.environ.get("HCNSEC_KEY", "sk-YOUR_API_KEY_HERE")
+
+# 复测：上一轮因解析 bug（choices:[] 收尾包）误判的模型
+MODELS = [
+    "kat-coder-pro-v2.5", "MiniMax-M3", "sensenova-6.7-flash-lite",
+    "step-3.5-flash", "step-3.5-flash-2603",
+]
+
+# 测试题：极简一句话，纯压速度（分诊用）
+QUESTIONS = [
+    ("simple", "用一句话回答：今天适合思考吗？"),
+]
+
+TRIALS = 1
+TIMEOUT = 30
+
+ctx = ssl.create_default_context()
+ctx.check_hostname = False
+ctx.verify_mode = ssl.CERT_NONE
+
+
+def call(model, q, timeout=TIMEOUT):
+    body = json.dumps({
+        "model": model,
+        "messages": [{"role": "user", "content": q}],
+        "stream": True,
+        "temperature": 0.35,
+        "max_tokens": 800,
+    }).encode("utf-8")
+    req = urllib.request.Request(API_BASE, data=body, method="POST")
+    req.add_header("Authorization", "Bearer " + API_KEY)
+    req.add_header("Content-Type", "application/json; charset=utf-8")
+
+    t0 = time.time()
+    ttft = None
+    chunks = 0
+    text = []
+    try:
+        with urllib.request.urlopen(req, timeout=timeout, context=ctx) as resp:
+            for raw in resp:
+                line = raw.decode("utf-8", "replace").strip()
+                if not line.startswith("data:"):
+                    continue
+                data = line[5:].strip()
+                if data == "[DONE]":
+                    break
+                try:
+                    obj = json.loads(data)
+                except Exception:
+                    continue
+                if ttft is None:
+                    ttft = time.time() - t0
+                choices = obj.get("choices") or [{}]
+                ch0 = choices[0] if choices else {}
+                delta = ch0.get("delta", {}).get("content")
+                if delta:
+                    text.append(delta)
+                    chunks += 1
+    except Exception as e:
+        return {
+            "ok": False, "ttft": None, "total": time.time() - t0,
+            "chars": 0, "error": str(e)[:200], "sample": "",
+        }
+    total = time.time() - t0
+    full = "".join(text)
+    return {
+        "ok": True, "ttft": ttft, "total": total,
+        "chars": len(full), "error": "", "sample": full[:120],
+    }
+
+
+def main():
+    results = {}
+    for model in MODELS:
+        results[model] = {}
+        print("[MODEL] %s" % model, flush=True)
+        for tag, q in QUESTIONS:
+            rec = {"ttfts": [], "totals": [], "chars": [], "ok": 0, "samples": [], "errors": []}
+            for t in range(TRIALS):
+                r = call(model, q)
+                if r["ok"]:
+                    rec["ok"] += 1
+                    if r["ttft"] is not None:
+                        rec["ttfts"].append(round(r["ttft"], 2))
+                    rec["totals"].append(round(r["total"], 2))
+                    rec["chars"].append(r["chars"])
+                    if t == 0:
+                        rec["samples"].append(r["sample"])
+                else:
+                    rec["errors"].append(r["error"])
+                st = "OK %.2fs(ttft %.2fs)" % (r["total"], r["ttft"] or 0) if r["ok"] else "ERR %s" % r["error"][:60]
+                print("   [%s] trial%d: %s" % (tag, t + 1, st), flush=True)
+            results[model][tag] = rec
+
+    ts = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+    out = "D:/不知道是啥/教员/weapp/scripts/hcnsec_bench_%s.json" % ts
+    with open(out, "w", encoding="utf-8") as f:
+        json.dump(results, f, ensure_ascii=False, indent=2)
+
+    # 汇总表（按哲学题平均总耗时排序）
+    print("\n===== 汇总（极简题，总耗时升序）=====", flush=True)
+    rows = []
+    for model in MODELS:
+        rec = results[model].get("simple", {})
+        if rec.get("totals"):
+            avg = sum(rec["totals"]) / len(rec["totals"])
+            ttavg = sum(rec["ttfts"]) / len(rec["ttfts"]) if rec["ttfts"] else 0
+            rows.append((avg, model, rec["ok"], ttavg, rec["chars"]))
+    rows.sort()
+    print("%-24s %8s %5s %8s %8s" % ("model", "avg总耗时", "成功", "首字延迟", "字数"), flush=True)
+    for avg, model, ok, ttavg, ch in rows:
+        print("%-24s %7.2fs %4d/2 %7.2fs %7d" % (model, avg, ok, ttavg, (sum(ch)//len(ch)) if ch else 0), flush=True)
+    print("\nJSON -> %s" % out, flush=True)
+
+
+if __name__ == "__main__":
+    main()

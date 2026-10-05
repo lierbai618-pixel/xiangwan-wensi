@@ -1,1 +1,20 @@
-ewogICJwcm92aWRlciI6ICJkYXNoc2NvcGUiLAogICJtb2RlbCI6ICJ0ZXh0LWVtYmVkZGluZy12MyIsCiAgImRpbWVuc2lvbiI6IDEwMjQsCiAgImVuZHBvaW50IjogImh0dHBzOi8vZGFzaHNjb3BlLmFsaXl1bmNzLmNvbS9jb21wYXRpYmxlLW1vZGUvdjEvZW1iZWRkaW5ncyIsCiAgInJlcXVlc3RzIjogMTEsCiAgInRvdGFsX3Rva2VucyI6IDI1NjYsCiAgImZhaWx1cmVzIjogMCwKICAibGF0ZW5jeV9tcyI6IHsKICAgICJtaW4iOiAxMzYsCiAgICAibWF4IjogNTI1LAogICAgImF2ZyI6IDM0MwogIH0sCiAgInZlY3RvcnMiOiB7CiAgICAicGlsb3QiOiA3LAogICAgImNsYXNzaWNfbWlycm9yIjogMTQsCiAgICAicXVlcmllcyI6IDc0CiAgfSwKICAiZXN0X2Nvc3RfY255IjogMC4wMDEyODMKfQ==
+{
+  "provider": "dashscope",
+  "model": "text-embedding-v3",
+  "dimension": 1024,
+  "endpoint": "https://dashscope.aliyuncs.com/compatible-mode/v1/embeddings",
+  "requests": 11,
+  "total_tokens": 2566,
+  "failures": 0,
+  "latency_ms": {
+    "min": 136,
+    "max": 525,
+    "avg": 343
+  },
+  "vectors": {
+    "pilot": 7,
+    "classic_mirror": 14,
+    "queries": 74
+  },
+  "est_cost_cny": 0.001283
+}

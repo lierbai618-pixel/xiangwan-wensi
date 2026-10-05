@@ -1,1 +1,43 @@
-Ly8gUGhhc2UgQy0xIOefpeivhui1hOS6p+e7k+aehOagoemqjO+8iOe6ryBOb2Rl77yM5peg5LqR5L6d6LWW77yJCmNvbnN0IGZzID0gcmVxdWlyZSgiZnMiKTsKY29uc3QgcGF0aCA9IHJlcXVpcmUoInBhdGgiKTsKCmNvbnN0IFJPT1QgPSBwYXRoLmpvaW4oX19kaXJuYW1lLCAiLi4iLCAia25vd2xlZGdlIik7CmxldCBwYXNzID0gMCwgZmFpbCA9IDA7CmZ1bmN0aW9uIG9rKG5hbWUsIGNvbmQpIHsKICBpZiAoY29uZCkgeyBwYXNzKys7IGNvbnNvbGUubG9nKCIgIOKckyAiICsgbmFtZSk7IH0KICBlbHNlIHsgZmFpbCsrOyBjb25zb2xlLmxvZygiICDinJcgIiArIG5hbWUpOyB9Cn0KCi8vIDEuIG1hbmlmZXN0IOWQiOazlQpjb25zdCBpZHggPSBKU09OLnBhcnNlKGZzLnJlYWRGaWxlU3luYyhwYXRoLmpvaW4oUk9PVCwgImluZGV4Lmpzb24iKSwgInV0ZjgiKSk7Cm9rKCJpbmRleC5qc29uIOWPr+ino+aekOS4lOS4uuaVsOe7hCIsIEFycmF5LmlzQXJyYXkoaWR4LmJvb2tzKSk7Cm9rKCLpppbmibnop4TmqKEgMTB+MTUg5pys5YaF77yI5ZCrIHBlbmRpbmfvvIkiLCBpZHguYm9va3MubGVuZ3RoID49IDEwICYmIGlkeC5ib29rcy5sZW5ndGggPD0gMTUpOwoKLy8gMi4g5q+P5pysIHBlbmRpbmcvcmVhZHkg55qE6LWE5paZ5YyF6Lev5b6E5a2Y5ZyoCmNvbnN0IHN0YXR1c2VzID0ge307CmlkeC5ib29rcy5mb3JFYWNoKChiKSA9PiB7IHN0YXR1c2VzW2Iuc3RhdHVzXSA9IChzdGF0dXNlc1tiLnN0YXR1c10gfHwgMCkgKyAxOyB9KTsKY29uc29sZS5sb2coIiAg54q25oCB5YiG5biDOiIsIEpTT04uc3RyaW5naWZ5KHN0YXR1c2VzKSk7CgovLyAzLiByZWFkeSDnmoTotYTmlpnljIXvvJptZXRhZGF0YS5qc29uICsgc291cmNlIOWQqyAjIOeroOiKggppZHguYm9va3MuZmlsdGVyKChiKSA9PiBiLnN0YXR1cyA9PT0gInJlYWR5IikuZm9yRWFjaCgoYikgPT4gewogIGNvbnN0IGRpciA9IHBhdGguam9pbihST09ULCBiLnBhdGgpOwogIGNvbnN0IG1ldGFQYXRoID0gcGF0aC5qb2luKGRpciwgIm1ldGFkYXRhLmpzb24iKTsKICBjb25zdCBtZXRhID0gSlNPTi5wYXJzZShmcy5yZWFkRmlsZVN5bmMobWV0YVBhdGgsICJ1dGY4IikpOwogIG9rKGBbJHtiLmlkfV0gbWV0YWRhdGEuanNvbiDlkKsgbGVnYWxDb25maXJtPXRydWVgLCBtZXRhLmxlZ2FsQ29uZmlybSA9PT0gdHJ1ZSk7CiAgb2soYFske2IuaWR9XSBtZXRhZGF0YS5qc29uIOWQqyBwZXJzcGVjdGl2ZS90aGVtZXNgLCAhIW1ldGEucGVyc3BlY3RpdmUgJiYgQXJyYXkuaXNBcnJheShtZXRhLnRoZW1lcykpOwogIGNvbnN0IHNyY0ZpbGUgPSBmcy5yZWFkZGlyU3luYyhkaXIpLmZpbmQoKGYpID0+IC9ec291cmNlXC4odHh0fG1kKSQvLnRlc3QoZikpOwogIG9rKGBbJHtiLmlkfV0g5a2Y5ZyoIHNvdXJjZSDmlofku7ZgLCAhIXNyY0ZpbGUpOwogIGlmIChzcmNGaWxlKSB7CiAgICBjb25zdCBzcmMgPSBmcy5yZWFkRmlsZVN5bmMocGF0aC5qb2luKGRpciwgc3JjRmlsZSksICJ1dGY4Iik7CiAgICBjb25zdCBoYXNoZXMgPSAoc3JjLm1hdGNoKC9eIyAvZ20pIHx8IFtdKS5sZW5ndGg7CiAgICBvayhgWyR7Yi5pZH1dIHNvdXJjZSDnlKggIyDliIbnq6AgKD49MSlgLCBoYXNoZXMgPj0gMSk7CiAgfQp9KTsKCi8vIDQuIHBlbmRpbmcg6Iul5Li6IHB1YmxpYy1kb21haW4g5L2GIHN0YXR1cz1wZW5kaW5n77yM5LuF5o+Q56S6CmNvbnN0IHdhcm5QZW5kaW5nID0gaWR4LmJvb2tzLmZpbHRlcigoYikgPT4gYi5zdGF0dXMgPT09ICJwZW5kaW5nIiAmJiBiLmNvcHlyaWdodCA9PT0gInB1YmxpYy1kb21haW4iKTsKaWYgKHdhcm5QZW5kaW5nLmxlbmd0aCkgY29uc29sZS5sb2coIiAgwrcg5o+Q56S6OiDku6XkuIsgcHVibGljLWRvbWFpbiDotYTmlpnlvoXooaUgc291cmNlIOWQjuWPr+aghyByZWFkeToiLCB3YXJuUGVuZGluZy5tYXAoKGIpID0+IGIuaWQpLmpvaW4oIiwgIikpOwoKY29uc29sZS5sb2coYFxu57uT5p6cOiAke3Bhc3N9IOmAmui/hywgJHtmYWlsfSDlpLHotKVgKTsKcHJvY2Vzcy5leGl0KGZhaWwgPyAxIDogMCk7Cg==
+// Phase C-1 知识资产结构校验（纯 Node，无云依赖）
+const fs = require("fs");
+const path = require("path");
+
+const ROOT = path.join(__dirname, "..", "knowledge");
+let pass = 0, fail = 0;
+function ok(name, cond) {
+  if (cond) { pass++; console.log("  ✓ " + name); }
+  else { fail++; console.log("  ✗ " + name); }
+}
+
+// 1. manifest 合法
+const idx = JSON.parse(fs.readFileSync(path.join(ROOT, "index.json"), "utf8"));
+ok("index.json 可解析且为数组", Array.isArray(idx.books));
+ok("首批规模 10~15 本内（含 pending）", idx.books.length >= 10 && idx.books.length <= 15);
+
+// 2. 每本 pending/ready 的资料包路径存在
+const statuses = {};
+idx.books.forEach((b) => { statuses[b.status] = (statuses[b.status] || 0) + 1; });
+console.log("  状态分布:", JSON.stringify(statuses));
+
+// 3. ready 的资料包：metadata.json + source 含 # 章节
+idx.books.filter((b) => b.status === "ready").forEach((b) => {
+  const dir = path.join(ROOT, b.path);
+  const metaPath = path.join(dir, "metadata.json");
+  const meta = JSON.parse(fs.readFileSync(metaPath, "utf8"));
+  ok(`[${b.id}] metadata.json 含 legalConfirm=true`, meta.legalConfirm === true);
+  ok(`[${b.id}] metadata.json 含 perspective/themes`, !!meta.perspective && Array.isArray(meta.themes));
+  const srcFile = fs.readdirSync(dir).find((f) => /^source\.(txt|md)$/.test(f));
+  ok(`[${b.id}] 存在 source 文件`, !!srcFile);
+  if (srcFile) {
+    const src = fs.readFileSync(path.join(dir, srcFile), "utf8");
+    const hashes = (src.match(/^# /gm) || []).length;
+    ok(`[${b.id}] source 用 # 分章 (>=1)`, hashes >= 1);
+  }
+});
+
+// 4. pending 若为 public-domain 但 status=pending，仅提示
+const warnPending = idx.books.filter((b) => b.status === "pending" && b.copyright === "public-domain");
+if (warnPending.length) console.log("  · 提示: 以下 public-domain 资料待补 source 后可标 ready:", warnPending.map((b) => b.id).join(", "));
+
+console.log(`\n结果: ${pass} 通过, ${fail} 失败`);
+process.exit(fail ? 1 : 0);

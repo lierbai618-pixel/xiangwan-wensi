@@ -1,1 +1,34 @@
-IyBrbm93bGVkZ2UvIOKAlCDljp/lp4votYTmlpnku5PlupMKCuacrOebruW9leaYr+OAjOWTsuWtpuaAnei+qOWKqeaJi+OAjeeahCoq5Y6f5aeL6LWE5paZ5LuTKirvvIzkuI7ov5DooYzml7bmlbDmja7lupPvvIhgZG9jdW1lbnRzYCAvIGBjaHVua3Ng77yJ5YiG56a744CCCgotICoq6L+Z6YeM5pS+5LuA5LmIKirvvJrmr4/mnKzkuabkuIDkuKrmlofku7blpLnvvIzlkKsgYG1ldGFkYXRhLmpzb25g77yI5p2l5rqQ55m76K6w77yJKyBgc291cmNlLnR4dC9tZGDvvIjljp/mlocv5qCh5YuY5pys77yJ44CCCi0gKirov5nph4zkuI3mlL7ku4DkuYgqKu+8muS4jeWtmOaUvui/kOihjOaXtuaVsOaNruOAgeS4jeWtmOaUviBgY29ycHVzLmpzb25gIOaXp+ivreaWme+8iOaXp+ivreaWmeWcqCBgd2VhcHAvYXJjaGl2ZS9g77yJ44CCCi0gKirosIHmtojotLkqKu+8mlBoYXNlIEMtMiDnmoQgYGluZ2VzdGAg5LqR5Ye95pWw6K+75Y+W5pys5LuTIGBzdGF0dXM6IHJlYWR5YCDnmoTotYTmlpnljIXvvIzlhpnlhaXkupHnq68gYGRvY3VtZW50c2AgLyBgY2h1bmtzYOOAggotICoq6KeE6IyDKirvvJror6bop4EgYGRvY3MvMDct55+l6K+G6LWE5Lqn57uT5p6ELm1kYOOAggoKIyMg55uu5b2VCgpgYGAKa25vd2xlZGdlLwrilJzilIDilIAgUkVBRE1FLm1kCuKUnOKUgOKUgCBpbmRleC5qc29uICAgICAgICAgICMg6LWE5paZ5riF5Y2VIG1hbmlmZXN077yI5q+P5pys54q25oCBL+WIhuexuy/niYjmnYPvvIkK4pSc4pSA4pSAIF9URU1QTEFURS8gICAgICAgICAgIyDmlrDlu7rotYTmlpnljIXor7flpI3liLbmraTmqKHmnb8K4pSc4pSA4pSAIGNoaW5lc2VfcGhpbG9zb3BoeS8gIyDkuK3lm73lk7LlraYK4pSc4pSA4pSAIHdlc3Rlcm5fcGhpbG9zb3BoeS8gIyDopb/mlrnlk7LlraYK4pSc4pSA4pSAIHBzeWNob2xvZ3kvICAgICAgICAgIyDlv4PnkIblrabvvIjlj5fniYjmnYPkv53miqTkuLrkuLvvvIkK4pSU4pSA4pSAIGxpdGVyYXR1cmUvICAgICAgICAgIyDmloflrabvvIjpnIDlhazniYjor5HmnKzvvIkKYGBgCgojIyDmlrDlop7kuIDmnKzotYTmlpkKCjEuIOWkjeWItiBgX1RFTVBMQVRFL2Ag5Yiw5a+55bqU5YiG57G755uu5b2V77yM5paH5Lu25aS55ZCN55So56iz5a6aIHNsdWfvvIjoi7HmloflsI/lhpkr5LiL5YiS57q/77yJ44CCCjIuIOWhqyBgbWV0YWRhdGEuanNvbmDvvJrmnaXmupAv5L2c6ICFL+WIhuexuy/op4bop5Iv5Li76aKYL+eJiOadg++8jCoqYGxlZ2FsQ29uZmlybTogdHJ1ZWAqKuOAggozLiDmlL4gYHNvdXJjZS50eHQvbWRg77ya55SoIGAjIOevh+WQjWAg5YiG56ug44CCCjQuIOWcqCBgaW5kZXguanNvbmAg55m76K6w77yMYHN0YXR1c2Ag6K6+5Li6IGByZWFkeWDvvIjniYjmnYMgYHBlbmRpbmdgIOS4jeW+l+aghyByZWFkee+8ieOAggo1LiDmj5DkuqTor4TlrqHvvIzov5vlhaUgUGhhc2UgQy0yIOeUsSBgaW5nZXN0YCDlhaXlupPjgIIKCiMjIOWOn+WImQoKLSDlj6rlvZLmoaPvvIzkuI3liKDpmaTjgILkuIvmnrYgPSBgc3RhdHVzOiBhcmNoaXZlZGDjgIIKLSDniYjmnYPnrKzkuIDpl7jpl6jvvJpgcGVuZGluZ2AgLyBgbGVnYWxDb25maXJtOmZhbHNlYCDkuI3lvpflhaXlupPjgIIK
+﻿# knowledge/ — 原始资料仓库
+
+本目录是「哲学思辨助手」的**原始资料仓**，与运行时数据库（`documents` / `chunks`）分离。
+
+- **这里放什么**：每本书一个文件夹，含 `metadata.json`（来源登记）+ `source.txt/md`（原文/校勘本）。
+- **这里不放什么**：不存放运行时数据、不存放 `corpus.json` 旧语料（旧语料在 `weapp/archive/`）。
+- **谁消费**：Phase C-2 的 `ingest` 云函数读取本仓 `status: ready` 的资料包，写入云端 `documents` / `chunks`。
+- **规范**：详见 `docs/07-知识资产结构.md`。
+
+## 目录
+
+```
+knowledge/
+├── README.md
+├── index.json          # 资料清单 manifest（每本状态/分类/版权）
+├── _TEMPLATE/          # 新建资料包请复制此模板
+├── chinese_philosophy/ # 中国哲学
+├── western_philosophy/ # 西方哲学
+├── psychology/         # 心理学（受版权保护为主）
+└── literature/         # 文学（需公版译本）
+```
+
+## 新增一本资料
+
+1. 复制 `_TEMPLATE/` 到对应分类目录，文件夹名用稳定 slug（英文小写+下划线）。
+2. 填 `metadata.json`：来源/作者/分类/视角/主题/版权，**`legalConfirm: true`**。
+3. 放 `source.txt/md`：用 `# 篇名` 分章。
+4. 在 `index.json` 登记，`status` 设为 `ready`（版权 `pending` 不得标 ready）。
+5. 提交评审，进入 Phase C-2 由 `ingest` 入库。
+
+## 原则
+
+- 只归档，不删除。下架 = `status: archived`。
+- 版权第一闸门：`pending` / `legalConfirm:false` 不得入库。

@@ -1,1 +1,184 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIOa1i+ivlSAy77yaT2JzZXJ2YWJpbGl0eSDpnZ7pmLvloZ4gKyDlpLHotKXlronlhaggKyDlrZfmrrXlpZHnuqbopobnm5bluqYKLy8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCi8vIOWuiOaKpOe6puadn++8iGRvY3MvNjjvvInvvJoKLy8gICDCtyBsb2dPYnNlcnZhdGlvbiDmsLjkuI3mipvplJnliLDkuLvpk77ot6/vvIjlkIzmraXmipsv5byC5q2lIHJlamVjdCDpg73opoHlkJ7mjonvvIkKLy8gICDCtyDkuI0gYXdhaXQg6JC95bqT77ya5oWiIHN0b3JlIOS4jeW+l+aLluaFouS4u+a1geeoiwovLyAgIMK3IEpzb25PYnNlcnZhYmlsaXR5U3RvcmUud3JpdGUg5rC45LiN5oqb5Ye677yM5aSx6LSl6L+U5ZueIHtvazpmYWxzZX0KLy8gICDCtyDorrDlvZUgc2NoZW1hIOeos+Wumu+8m+WvuSBkb2NzLzYyIMKnOSDljYHkuozlrZfmrrXlpZHnuqbnmoTopobnm5bluqbooqsqKumUgeWumioq77yMCi8vICAgICDnvLrlj6Plv4XpobvmmL7lvI/mmrTpnLLogIzpnZ7lgYfoo4XlrozmlbQKLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CgondXNlIHN0cmljdCc7Cgpjb25zdCBmcyA9IHJlcXVpcmUoJ2ZzJyk7CmNvbnN0IG9zID0gcmVxdWlyZSgnb3MnKTsKY29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKTsKCmNvbnN0IENIQVQgPSBwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAnLi4nLCAnLi4nLCAnY2xvdWRmdW5jdGlvbnMnLCAnY2hhdCcpOwpjb25zdCB7CiAgbG9nT2JzZXJ2YXRpb24sCiAgYnVpbGRPYnNlcnZhdGlvblJlY29yZCwKICBjcmVhdGVEZWZhdWx0U3RvcmUsCn0gPSByZXF1aXJlKHBhdGguam9pbihDSEFULCAnb2JzZXJ2YWJpbGl0eScsICdvYnNlcnZhYmlsaXR5TG9nZ2VyJykpOwpjb25zdCB7IEpzb25PYnNlcnZhYmlsaXR5U3RvcmUgfSA9IHJlcXVpcmUocGF0aC5qb2luKENIQVQsICdvYnNlcnZhYmlsaXR5JywgJ2pzb25PYnNlcnZhYmlsaXR5U3RvcmUnKSk7CgovLyBkb2NzLzYyIMKnOSDljYHkuozlrZfmrrXlpZHnuqYKY29uc3QgQ09OVFJBQ1RfMTIgPSBbCiAgJ2tub3dsZWRnZV90eXBlJywgJ2RvbWFpbicsICdpbnRlbnQnLCAncmV0cmlldmFsX21vZGUnLCAncm91dGVyX2VuYWJsZWQnLAogICdyb3V0ZXJfYWRqdXN0bWVudCcsICdyZXJhbmtfc2NvcmUnLCAnY2l0YXRpb25fc291cmNlJywgJ2NodW5rX2lkJywKICAndmVjdG9yX3Njb3JlJywgJ3BvbGljeV9uYW1lJywgJ2ZhbGxiYWNrX3JlYXNvbicsCl07Ci8vIOW9k+WJjeWunueOsOeahOivmuWunuimhueblueKtuaAge+8iFBoYXNlIOKRpSDplIHlrprvvJvku7vkvZXlop7lh4/pg73kvJrorqnmnKzmtYvor5XlpLHotKXvvIzlvLrliLbmm7TmlrDmiqvpnLLvvIkKY29uc3QgQ09WRVJFRCA9IFsna25vd2xlZGdlX3R5cGUnLCAnZG9tYWluJywgJ2ludGVudCcsICdyb3V0ZXJfZW5hYmxlZCcsICdwb2xpY3lfbmFtZScsICdmYWxsYmFja19yZWFzb24nXTsKY29uc3QgRVFVSVZBTEVOVCA9IHsgY2l0YXRpb25fc291cmNlOiAncmV0cmlldmFsX3Jlc3VsdCcgfTsKY29uc3QgVU5DT1ZFUkVEID0gWydyZXRyaWV2YWxfbW9kZScsICdyb3V0ZXJfYWRqdXN0bWVudCcsICdyZXJhbmtfc2NvcmUnLCAnY2h1bmtfaWQnLCAndmVjdG9yX3Njb3JlJ107Cgpjb25zdCBTQU1QTEUgPSB7CiAgcXVlcnk6ICfmnIvlj4vniq/plJnopoHkuI3opoHmjIflh7onLAogIGFuc3dlcklkOiAnYW5zLXRlc3QtMDAxJywKICBjb252ZXJzYXRpb25JZDogJ2NvbnYtdGVzdC0wMDEnLAogIG9wZW5pZDogJ3Rlc3Qtb3BlbmlkJywKICBsYXRlbmN5TXM6IDEyMzQsCiAgaW50ZW50OiB7IHR5cGU6ICdhZHZpY2UnLCBkb21haW46ICfkurrpmYUnLCBrbm93bGVkZ2VQb2xpY3k6ICd1c2UnIH0sCiAgcmVzdWx0OiB7CiAgICBjaXRhdGlvbnM6IFsKICAgICAgeyB0aXRsZTogJ+iuuuivrcK35Li65pS/Jywga25vd2xlZGdlX3R5cGU6ICdjbGFzc2ljJyB9LAogICAgICB7IHRpdGxlOiAn56Gu6K6k5YGP5beuJywga25vd2xlZGdlX3R5cGU6ICdwc3ljaG9sb2d5JyB9LAogICAgXSwKICB9LAp9OwoKbW9kdWxlLmV4cG9ydHMgPSB7CiAgbmFtZTogJ09ic2VydmFiaWxpdHkg6Z2e6Zi75aGe5LiO5aSx6LSl5a6J5YWoJywKICBydW4odCkgewogICAgLy8gLS0tIDEuIOiusOW9leaehOW7uu+8muWtl+auteS4juWPluWAvOato+ehriAtLS0KICAgIGNvbnN0IHJlYyA9IGJ1aWxkT2JzZXJ2YXRpb25SZWNvcmQoU0FNUExFKTsKICAgIHQuZXF1YWwocmVjLnF1ZXJ5LCBTQU1QTEUucXVlcnksICdyZWNvcmQucXVlcnkg5q2j56GuJyk7CiAgICB0LmVxdWFsKHJlYy5hbnN3ZXJfaWQsICdhbnMtdGVzdC0wMDEnLCAncmVjb3JkLmFuc3dlcl9pZCDmraPnoa4nKTsKICAgIHQuZXF1YWwocmVjLmNvbnZlcnNhdGlvbl9pZCwgJ2NvbnYtdGVzdC0wMDEnLCAncmVjb3JkLmNvbnZlcnNhdGlvbl9pZCDmraPnoa4nKTsKICAgIHQuZXF1YWwocmVjLm9wZW5pZCwgJ3Rlc3Qtb3BlbmlkJywgJ3JlY29yZC5vcGVuaWQg5q2j56GuJyk7CiAgICB0LmVxdWFsKHJlYy5jaXRhdGlvbl9jb3VudCwgMiwgJ2NpdGF0aW9uX2NvdW50IOetieS6juW8leeUqOaVsCcpOwogICAgdC5kZWVwRXF1YWwocmVjLmtub3dsZWRnZV90eXBlLCBbJ2NsYXNzaWMnLCAncHN5Y2hvbG9neSddLCAna25vd2xlZGdlX3R5cGUg5Y676YeN6IGa5ZCI5q2j56GuJyk7CiAgICB0LmRlZXBFcXVhbChyZWMucmV0cmlldmFsX3Jlc3VsdCwgWyforrror63Ct+S4uuaUvycsICfnoa7orqTlgY/lt64nXSwgJ3JldHJpZXZhbF9yZXN1bHQg6K6w5b2V5ZG95Lit5qCH6aKYJyk7CiAgICB0LmVxdWFsKHJlYy5sYXRlbmN5X21zLCAxMjM0LCAnbGF0ZW5jeV9tcyDpgI/kvKAnKTsKICAgIHQuZXF1YWwocmVjLmRvbWFpbiwgJ+S6uumZhScsICdkb21haW4g6JC95bqT77yIZG9jcy82MiDCpzkg5aWR57qm5a2X5q6177yJJyk7CiAgICB0LmVxdWFsKHJlYy5pbnRlbnQsICdhZHZpY2UnLCAnaW50ZW50IOiQveW6k++8iGRvY3MvNjIgwqc5IOWlkee6puWtl+aute+8iScpOwogICAgdC5lcXVhbChyZWMucG9saWN5X25hbWUsICd1c2UnLCAncG9saWN5X25hbWUg6JC95bqT77yIZG9jcy82MiDCpzkg5aWR57qm5a2X5q6177yJJyk7CiAgICB0LmVxdWFsKHR5cGVvZiByZWMucm91dGVyX2VuYWJsZWQsICdib29sZWFuJywgJ3JvdXRlcl9lbmFibGVkIOiQveW6k+S4uuW4g+WwlOWAvCcpOwogICAgdC5vayghaXNOYU4oRGF0ZS5wYXJzZShyZWMuY3JlYXRlZF9hdCkpLCAnY3JlYXRlZF9hdCDkuLrlkIjms5UgSVNPIOaXtumXtOaIsycpOwogICAgdC5vayhyZWMucm91dGVyX2RlY2lzaW9uICE9PSB1bmRlZmluZWQsICdyb3V0ZXJfZGVjaXNpb24g5a2X5q615a2Y5Zyo77yI5Y+q6K+75aSN566X5Ya757uTIHJvdXRlUXVlc3Rpb27vvIknKTsKICAgIHQub2soJ2ZhbGxiYWNrX3JlYXNvbicgaW4gcmVjLCAnZmFsbGJhY2tfcmVhc29uIOWtl+auteWtmOWcqCcpOwoKICAgIC8vIC0tLSAyLiDnvLrlj4LmlbDkuI3ltKnvvJrnqbogb3B0cyDkuZ/opoHkuqflh7rnu5PmnoTlrozmlbTnmoTorrDlvZUgLS0tCiAgICBjb25zdCBlbXB0eSA9IHQubm9UaHJvdygoKSA9PiBidWlsZE9ic2VydmF0aW9uUmVjb3JkKCksICdidWlsZE9ic2VydmF0aW9uUmVjb3JkKCkg5peg5Y+C5LiN5oqb6ZSZJyk7CiAgICBpZiAoZW1wdHkpIHsKICAgICAgdC5lcXVhbChlbXB0eS5jaXRhdGlvbl9jb3VudCwgMCwgJ+aXoOW8leeUqOaXtiBjaXRhdGlvbl9jb3VudD0w77yI5LiN5Li6IHVuZGVmaW5lZO+8iScpOwogICAgICB0LmRlZXBFcXVhbChlbXB0eS5rbm93bGVkZ2VfdHlwZSwgW10sICfml6DlvJXnlKjml7Yga25vd2xlZGdlX3R5cGU9W10nKTsKICAgICAgdC5lcXVhbChlbXB0eS5vcGVuaWQsICd1bmtub3duJywgJ+e8uiBvcGVuaWQg5pe26ZmN57qn5Li6IHVua25vd27vvIjkuI3kvKrpgKDnnJ/lrp4gb3Blbmlk77yJJyk7CiAgICB9CgogICAgLy8gLS0tIDMuIGRvY3MvNjIgwqc5IOWlkee6puimhuebluW6pu+8mumUgeWumuW9k+WJjeivmuWunueKtuaAgSAtLS0KICAgIGNvbnN0IGFjdHVhbENvdmVyZWQgPSBDT05UUkFDVF8xMi5maWx0ZXIoKGYpID0+IGYgaW4gcmVjKTsKICAgIHQuZGVlcEVxdWFsKAogICAgICBhY3R1YWxDb3ZlcmVkLnNsaWNlKCkuc29ydCgpLAogICAgICBDT1ZFUkVELnNsaWNlKCkuc29ydCgpLAogICAgICAnwqc5IOWNgeS6jOWtl+auteebtOaOpeimhueblumbhuWQiCA9PSDlt7LmiqvpnLLnmoQgJyArIENPVkVSRUQubGVuZ3RoICsgJyDpobnvvIjnvLrlj6PkuI3lvpfooqvmgoTmgoTmlLnlj5jvvIknCiAgICApOwogICAgT2JqZWN0LmtleXMoRVFVSVZBTEVOVCkuZm9yRWFjaCgoaykgPT4gewogICAgICB0Lm9rKEVRVUlWQUxFTlRba10gaW4gcmVjLCAnwqc5ICcgKyBrICsgJyDnlLEgJyArIEVRVUlWQUxFTlRba10gKyAnIOetieS7t+imhueblicpOwogICAgfSk7CiAgICB0Lm9rKAogICAgICBVTkNPVkVSRUQuZXZlcnkoKGYpID0+ICEoZiBpbiByZWMpKSwKICAgICAgJ+acquimhueblueahCAnICsgVU5DT1ZFUkVELmxlbmd0aCArICcg6aG556Gu5a6e57y65bit77yIJyArIFVOQ09WRVJFRC5qb2luKCcvJykgKyAn77yJ4oCU4oCUIOWdh+mcgOWcqOWGu+e7kyByYWcuanMg5YaF6YOo5Z+L54K577yM5o6o6L+fIFBoYXNlIFEnCiAgICApOwogICAgdC5pbmZvKAogICAgICAnT2JzZXJ2YWJpbGl0eSDlpZHnuqbopobnm5bluqbvvJrnm7TmjqUgJyArIENPVkVSRUQubGVuZ3RoICsgJy8xMu+8jOetieS7tyAxLzEy77yM5pyq6KaG55uWICcgKyBVTkNPVkVSRUQubGVuZ3RoICsgJy8xMicKICAgICk7CgogICAgLy8gLS0tIDQuIHN0b3JlLndyaXRlIOWQjOatpeaKm+mUmSDihpIgbG9nT2JzZXJ2YXRpb24g5LiN5b6X5oqbIC0tLQogICAgY29uc3QgdGhyb3dpbmdTdG9yZSA9IHsKICAgICAgd3JpdGUoKSB7CiAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdib29tLXN5bmMnKTsKICAgICAgfSwKICAgIH07CiAgICBjb25zdCByMSA9IHQubm9UaHJvdygKICAgICAgKCkgPT4gbG9nT2JzZXJ2YXRpb24oT2JqZWN0LmFzc2lnbih7fSwgU0FNUExFLCB7IHN0b3JlOiB0aHJvd2luZ1N0b3JlIH0pKSwKICAgICAgJ3N0b3JlLndyaXRlIOWQjOatpeaKm+mUmeaXtiBsb2dPYnNlcnZhdGlvbiDkuI3mipvliLDkuLvpk77ot68nCiAgICApOwogICAgdC5vayhyMSAmJiByMS5hbnN3ZXJfaWQgPT09ICdhbnMtdGVzdC0wMDEnLCAn5ZCM5q2l5oqb6ZSZ5Zy65pmv5LuN6L+U5Zue5a6M5pW06K6w5b2VJyk7CgogICAgLy8gLS0tIDUuIHN0b3JlLndyaXRlIOi/lOWbniByZWplY3RlZCBQcm9taXNlIOKGkiDkuI3lvpfkuqfnlJ/mnKrmjZXojrfmi5Lnu50gLS0tCiAgICBsZXQgdW5oYW5kbGVkID0gbnVsbDsKICAgIGNvbnN0IG9uVW5oYW5kbGVkID0gKHJlYXNvbikgPT4gewogICAgICB1bmhhbmRsZWQgPSByZWFzb247CiAgICB9OwogICAgcHJvY2Vzcy5vbigndW5oYW5kbGVkUmVqZWN0aW9uJywgb25VbmhhbmRsZWQpOwogICAgY29uc3QgcmVqZWN0U3RvcmUgPSB7CiAgICAgIHdyaXRlKCkgewogICAgICAgIHJldHVybiBQcm9taXNlLnJlamVjdChuZXcgRXJyb3IoJ2Jvb20tYXN5bmMnKSk7CiAgICAgIH0sCiAgICB9OwogICAgdC5ub1Rocm93KAogICAgICAoKSA9PiBsb2dPYnNlcnZhdGlvbihPYmplY3QuYXNzaWduKHt9LCBTQU1QTEUsIHsgc3RvcmU6IHJlamVjdFN0b3JlIH0pKSwKICAgICAgJ3N0b3JlLndyaXRlIOW8guatpSByZWplY3Qg5pe2IGxvZ09ic2VydmF0aW9uIOS4jeaKmycKICAgICk7CgogICAgLy8gLS0tIDYuIOmdnumYu+Whnu+8muaFoiBzdG9yZSDkuI3lvpfmi5bmhaLov5Tlm54gLS0tCiAgICBjb25zdCBzbG93U3RvcmUgPSB7CiAgICAgIHdyaXRlKCkgewogICAgICAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSkgPT4gc2V0VGltZW91dCgoKSA9PiByZXNvbHZlKHsgb2s6IHRydWUgfSksIDMwMCkpOwogICAgICB9LAogICAgfTsKICAgIGNvbnN0IHQwID0gRGF0ZS5ub3coKTsKICAgIGxvZ09ic2VydmF0aW9uKE9iamVjdC5hc3NpZ24oe30sIFNBTVBMRSwgeyBzdG9yZTogc2xvd1N0b3JlIH0pKTsKICAgIGNvbnN0IGVsYXBzZWQgPSBEYXRlLm5vdygpIC0gdDA7CiAgICB0Lm9rKGVsYXBzZWQgPCA1MCwgJ3N0b3JlIOiAl+aXtiAzMDBtcyDml7YgbG9nT2JzZXJ2YXRpb24g5LuN5ZyoIDUwbXMg5YaF6L+U5Zue77yI5a6e5rWLICcgKyBlbGFwc2VkICsgJ21z77yM5pyqIGF3YWl077yJJyk7CgogICAgLy8gLS0tIDcuIEpzb25PYnNlcnZhYmlsaXR5U3RvcmUg6K+75YaZ5b6A6L+UIC0tLQogICAgY29uc3QgdG1wID0gcGF0aC5qb2luKG9zLnRtcGRpcigpLCAncGhhc2UtcC1wbHVzLW9icy0nICsgRGF0ZS5ub3coKSArICcuanNvbicpOwogICAgY29uc3Qgc3RvcmUgPSBuZXcgSnNvbk9ic2VydmFiaWxpdHlTdG9yZSh7IGZpbGVQYXRoOiB0bXAgfSk7CiAgICB0LmRlZXBFcXVhbChzdG9yZS5yZWFkQWxsKCksIFtdLCAn5paH5Lu25LiN5a2Y5Zyo5pe2IHJlYWRBbGwoKSDov5Tlm57nqbrmlbDnu4TvvIjkuI3mipvplJnvvIknKTsKICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUoc3RvcmUud3JpdGUocmVjKSkKICAgICAgLnRoZW4oKHcxKSA9PiB7CiAgICAgICAgdC5vayh3MSAmJiB3MS5vayA9PT0gdHJ1ZSwgJ3dyaXRlKCkg5oiQ5Yqf6L+U5ZueIHtvazp0cnVlfScpOwogICAgICAgIHJldHVybiBzdG9yZS53cml0ZShPYmplY3QuYXNzaWduKHt9LCByZWMsIHsgYW5zd2VyX2lkOiAnYW5zLXRlc3QtMDAyJyB9KSk7CiAgICAgIH0pCiAgICAgIC50aGVuKCgpID0+IHsKICAgICAgICBjb25zdCBhbGwgPSBzdG9yZS5yZWFkQWxsKCk7CiAgICAgICAgdC5lcXVhbChhbGwubGVuZ3RoLCAyLCAn5Lik5qyh5YaZ5YWl5ZCOIHJlYWRBbGwoKSDov5Tlm54gMiDmnaHvvIjov73liqDogIzpnZ7opobnm5bvvIknKTsKICAgICAgICB0LmVxdWFsKGFsbFswXS5hbnN3ZXJfaWQsICdhbnMtdGVzdC0wMDEnLCAn56ysIDEg5p2h6aG65bqP5q2j56GuJyk7CiAgICAgICAgdC5lcXVhbChhbGxbMV0uYW5zd2VyX2lkLCAnYW5zLXRlc3QtMDAyJywgJ+esrCAyIOadoemhuuW6j+ato+ehricpOwoKICAgICAgICAvLyDmlofku7booqvlhpnlnY8g4oaSIHJlYWRBbGwg6ZmN57qn5Li656m65pWw57uE77yM5LiN5oqb6ZSZCiAgICAgICAgZnMud3JpdGVGaWxlU3luYyh0bXAsICd7IHRoaXMgaXMgbm90IGpzb24nLCAndXRmLTgnKTsKICAgICAgICB0LmRlZXBFcXVhbChzdG9yZS5yZWFkQWxsKCksIFtdLCAn5a2Y5YKo5paH5Lu25o2f5Z2P5pe2IHJlYWRBbGwoKSDpmY3nuqfnqbrmlbDnu4TvvIjkuI3mipvplJnvvIknKTsKCiAgICAgICAgLy8g5YaZ5YWl6Z2e5rOV6Lev5b6EIOKGkiDov5Tlm54ge29rOmZhbHNlfe+8jOS4jeaKm+mUmQogICAgICAgIGNvbnN0IGJhZFN0b3JlID0gbmV3IEpzb25PYnNlcnZhYmlsaXR5U3RvcmUoewogICAgICAgICAgZmlsZVBhdGg6IHBhdGguam9pbih0bXAsICdzdWInLCAnZGlyJywgJ3guanNvbicpLAogICAgICAgIH0pOwogICAgICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUoYmFkU3RvcmUud3JpdGUocmVjKSk7CiAgICAgIH0pCiAgICAgIC50aGVuKCh3MikgPT4gewogICAgICAgIHQub2sodzIgJiYgdzIub2sgPT09IGZhbHNlLCAn5YaZ5YWl6Z2e5rOV6Lev5b6E6L+U5ZueIHtvazpmYWxzZX0g6ICM6Z2e5oqb6ZSZJyk7CiAgICAgICAgdHJ5IHsKICAgICAgICAgIGZzLnVubGlua1N5bmModG1wKTsKICAgICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgICAvKiBpZ25vcmUgKi8KICAgICAgICB9CgogICAgICAgIC8vIC0tLSA4LiDpu5jorqQgc3RvcmUg5bel5Y6C5Y+v55SoIC0tLQogICAgICAgIGNvbnN0IGRlZiA9IHQubm9UaHJvdygoKSA9PiBjcmVhdGVEZWZhdWx0U3RvcmUoKSwgJ2NyZWF0ZURlZmF1bHRTdG9yZSgpIOS4jeaKm+mUmScpOwogICAgICAgIHQub2soZGVmICYmIHR5cGVvZiBkZWYud3JpdGUgPT09ICdmdW5jdGlvbicgJiYgdHlwZW9mIGRlZi5yZWFkQWxsID09PSAnZnVuY3Rpb24nLAogICAgICAgICAgJ+m7mOiupCBzdG9yZSDlrp7njrAgd3JpdGUvcmVhZEFsbCDmjqXlj6MnKTsKCiAgICAgICAgLy8g5pS25bC+77ya56Gu6K6k5peg5pyq5o2V6I635ouS57udCiAgICAgICAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlKSA9PiBzZXRUaW1lb3V0KHJlc29sdmUsIDYwKSk7CiAgICAgIH0pCiAgICAgIC50aGVuKCgpID0+IHsKICAgICAgICBwcm9jZXNzLnJlbW92ZUxpc3RlbmVyKCd1bmhhbmRsZWRSZWplY3Rpb24nLCBvblVuaGFuZGxlZCk7CiAgICAgICAgdC5vayh1bmhhbmRsZWQgPT09IG51bGwsICflhajov4fnqIvml6AgdW5oYW5kbGVkUmVqZWN0aW9u77yI5byC5q2l5aSx6LSl6KKr5q2j56Gu5ZCe5o6J77yJJyk7CiAgICAgIH0pOwogIH0sCn07Cg==
+// ============================================================
+// 测试 2：Observability 非阻塞 + 失败安全 + 字段契约覆盖度
+// ------------------------------------------------------------
+// 守护约束（docs/68）：
+//   · logObservation 永不抛错到主链路（同步抛/异步 reject 都要吞掉）
+//   · 不 await 落库：慢 store 不得拖慢主流程
+//   · JsonObservabilityStore.write 永不抛出，失败返回 {ok:false}
+//   · 记录 schema 稳定；对 docs/62 §9 十二字段契约的覆盖度被**锁定**，
+//     缺口必须显式暴露而非假装完整
+// ============================================================
+
+'use strict';
+
+const fs = require('fs');
+const os = require('os');
+const path = require('path');
+
+const CHAT = path.resolve(__dirname, '..', '..', 'cloudfunctions', 'chat');
+const {
+  logObservation,
+  buildObservationRecord,
+  createDefaultStore,
+} = require(path.join(CHAT, 'observability', 'observabilityLogger'));
+const { JsonObservabilityStore } = require(path.join(CHAT, 'observability', 'jsonObservabilityStore'));
+
+// docs/62 §9 十二字段契约
+const CONTRACT_12 = [
+  'knowledge_type', 'domain', 'intent', 'retrieval_mode', 'router_enabled',
+  'router_adjustment', 'rerank_score', 'citation_source', 'chunk_id',
+  'vector_score', 'policy_name', 'fallback_reason',
+];
+// 当前实现的诚实覆盖状态（Phase ⑥ 锁定；任何增减都会让本测试失败，强制更新披露）
+const COVERED = ['knowledge_type', 'domain', 'intent', 'router_enabled', 'policy_name', 'fallback_reason'];
+const EQUIVALENT = { citation_source: 'retrieval_result' };
+const UNCOVERED = ['retrieval_mode', 'router_adjustment', 'rerank_score', 'chunk_id', 'vector_score'];
+
+const SAMPLE = {
+  query: '朋友犯错要不要指出',
+  answerId: 'ans-test-001',
+  conversationId: 'conv-test-001',
+  openid: 'test-openid',
+  latencyMs: 1234,
+  intent: { type: 'advice', domain: '人际', knowledgePolicy: 'use' },
+  result: {
+    citations: [
+      { title: '论语·为政', knowledge_type: 'classic' },
+      { title: '确认偏差', knowledge_type: 'psychology' },
+    ],
+  },
+};
+
+module.exports = {
+  name: 'Observability 非阻塞与失败安全',
+  run(t) {
+    // --- 1. 记录构建：字段与取值正确 ---
+    const rec = buildObservationRecord(SAMPLE);
+    t.equal(rec.query, SAMPLE.query, 'record.query 正确');
+    t.equal(rec.answer_id, 'ans-test-001', 'record.answer_id 正确');
+    t.equal(rec.conversation_id, 'conv-test-001', 'record.conversation_id 正确');
+    t.equal(rec.openid, 'test-openid', 'record.openid 正确');
+    t.equal(rec.citation_count, 2, 'citation_count 等于引用数');
+    t.deepEqual(rec.knowledge_type, ['classic', 'psychology'], 'knowledge_type 去重聚合正确');
+    t.deepEqual(rec.retrieval_result, ['论语·为政', '确认偏差'], 'retrieval_result 记录命中标题');
+    t.equal(rec.latency_ms, 1234, 'latency_ms 透传');
+    t.equal(rec.domain, '人际', 'domain 落库（docs/62 §9 契约字段）');
+    t.equal(rec.intent, 'advice', 'intent 落库（docs/62 §9 契约字段）');
+    t.equal(rec.policy_name, 'use', 'policy_name 落库（docs/62 §9 契约字段）');
+    t.equal(typeof rec.router_enabled, 'boolean', 'router_enabled 落库为布尔值');
+    t.ok(!isNaN(Date.parse(rec.created_at)), 'created_at 为合法 ISO 时间戳');
+    t.ok(rec.router_decision !== undefined, 'router_decision 字段存在（只读复算冻结 routeQuestion）');
+    t.ok('fallback_reason' in rec, 'fallback_reason 字段存在');
+
+    // --- 2. 缺参数不崩：空 opts 也要产出结构完整的记录 ---
+    const empty = t.noThrow(() => buildObservationRecord(), 'buildObservationRecord() 无参不抛错');
+    if (empty) {
+      t.equal(empty.citation_count, 0, '无引用时 citation_count=0（不为 undefined）');
+      t.deepEqual(empty.knowledge_type, [], '无引用时 knowledge_type=[]');
+      t.equal(empty.openid, 'unknown', '缺 openid 时降级为 unknown（不伪造真实 openid）');
+    }
+
+    // --- 3. docs/62 §9 契约覆盖度：锁定当前诚实状态 ---
+    const actualCovered = CONTRACT_12.filter((f) => f in rec);
+    t.deepEqual(
+      actualCovered.slice().sort(),
+      COVERED.slice().sort(),
+      '§9 十二字段直接覆盖集合 == 已披露的 ' + COVERED.length + ' 项（缺口不得被悄悄改变）'
+    );
+    Object.keys(EQUIVALENT).forEach((k) => {
+      t.ok(EQUIVALENT[k] in rec, '§9 ' + k + ' 由 ' + EQUIVALENT[k] + ' 等价覆盖');
+    });
+    t.ok(
+      UNCOVERED.every((f) => !(f in rec)),
+      '未覆盖的 ' + UNCOVERED.length + ' 项确实缺席（' + UNCOVERED.join('/') + '）—— 均需在冻结 rag.js 内部埋点，推迟 Phase Q'
+    );
+    t.info(
+      'Observability 契约覆盖度：直接 ' + COVERED.length + '/12，等价 1/12，未覆盖 ' + UNCOVERED.length + '/12'
+    );
+
+    // --- 4. store.write 同步抛错 → logObservation 不得抛 ---
+    const throwingStore = {
+      write() {
+        throw new Error('boom-sync');
+      },
+    };
+    const r1 = t.noThrow(
+      () => logObservation(Object.assign({}, SAMPLE, { store: throwingStore })),
+      'store.write 同步抛错时 logObservation 不抛到主链路'
+    );
+    t.ok(r1 && r1.answer_id === 'ans-test-001', '同步抛错场景仍返回完整记录');
+
+    // --- 5. store.write 返回 rejected Promise → 不得产生未捕获拒绝 ---
+    let unhandled = null;
+    const onUnhandled = (reason) => {
+      unhandled = reason;
+    };
+    process.on('unhandledRejection', onUnhandled);
+    const rejectStore = {
+      write() {
+        return Promise.reject(new Error('boom-async'));
+      },
+    };
+    t.noThrow(
+      () => logObservation(Object.assign({}, SAMPLE, { store: rejectStore })),
+      'store.write 异步 reject 时 logObservation 不抛'
+    );
+
+    // --- 6. 非阻塞：慢 store 不得拖慢返回 ---
+    const slowStore = {
+      write() {
+        return new Promise((resolve) => setTimeout(() => resolve({ ok: true }), 300));
+      },
+    };
+    const t0 = Date.now();
+    logObservation(Object.assign({}, SAMPLE, { store: slowStore }));
+    const elapsed = Date.now() - t0;
+    t.ok(elapsed < 50, 'store 耗时 300ms 时 logObservation 仍在 50ms 内返回（实测 ' + elapsed + 'ms，未 await）');
+
+    // --- 7. JsonObservabilityStore 读写往返 ---
+    const tmp = path.join(os.tmpdir(), 'phase-p-plus-obs-' + Date.now() + '.json');
+    const store = new JsonObservabilityStore({ filePath: tmp });
+    t.deepEqual(store.readAll(), [], '文件不存在时 readAll() 返回空数组（不抛错）');
+    return Promise.resolve(store.write(rec))
+      .then((w1) => {
+        t.ok(w1 && w1.ok === true, 'write() 成功返回 {ok:true}');
+        return store.write(Object.assign({}, rec, { answer_id: 'ans-test-002' }));
+      })
+      .then(() => {
+        const all = store.readAll();
+        t.equal(all.length, 2, '两次写入后 readAll() 返回 2 条（追加而非覆盖）');
+        t.equal(all[0].answer_id, 'ans-test-001', '第 1 条顺序正确');
+        t.equal(all[1].answer_id, 'ans-test-002', '第 2 条顺序正确');
+
+        // 文件被写坏 → readAll 降级为空数组，不抛错
+        fs.writeFileSync(tmp, '{ this is not json', 'utf-8');
+        t.deepEqual(store.readAll(), [], '存储文件损坏时 readAll() 降级空数组（不抛错）');
+
+        // 写入非法路径 → 返回 {ok:false}，不抛错
+        const badStore = new JsonObservabilityStore({
+          filePath: path.join(tmp, 'sub', 'dir', 'x.json'),
+        });
+        return Promise.resolve(badStore.write(rec));
+      })
+      .then((w2) => {
+        t.ok(w2 && w2.ok === false, '写入非法路径返回 {ok:false} 而非抛错');
+        try {
+          fs.unlinkSync(tmp);
+        } catch (e) {
+          /* ignore */
+        }
+
+        // --- 8. 默认 store 工厂可用 ---
+        const def = t.noThrow(() => createDefaultStore(), 'createDefaultStore() 不抛错');
+        t.ok(def && typeof def.write === 'function' && typeof def.readAll === 'function',
+          '默认 store 实现 write/readAll 接口');
+
+        // 收尾：确认无未捕获拒绝
+        return new Promise((resolve) => setTimeout(resolve, 60));
+      })
+      .then(() => {
+        process.removeListener('unhandledRejection', onUnhandled);
+        t.ok(unhandled === null, '全过程无 unhandledRejection（异步失败被正确吞掉）');
+      });
+  },
+};

@@ -1,1 +1,457 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIHRoaW5rL3RoaW5rRW5naW5lLmpzCi8vICAgUGhhc2UgUTItM++8mumXruaAneiejeWQiOW8leaTjiDigJQg5LiJ5qih5byP55yf5a6e6KGM5Li65YiG5rWB57yW5o6S5Zmo44CCCi8vCi8vICAg5Zyo5rS+5Y+R6ZO+5Lit55qE5L2N572u77yI5Lil5qC85L+d5oyB5pei5pyJ5LyY5YWI57qn77yM5LiN5oqi5Y2g5Lu75L2V5LiK5ri477yJ77yaCi8vICAgICBDYXBhYmlsaXR5KOaXtumXtC/lpKnmsJQv6K6h566XL+S9jee9rikgIOKGkCDmnIDpq5jvvIx0aGlua0VuZ2luZSDkuYvliY0KLy8gICAgICAg4oaSIEZyZXNobmVzcyjng63ngrkgQi9DL0Qg5a6J5YWo6Ze4KSAg4oaQIOasoemrmO+8jHRoaW5rRW5naW5lIOS5i+WJjQovLyAgICAgICAgIOKGkiAqKnRoaW5rRW5naW5l77yI5pys5qih5Z2X77yJKioKLy8gICAgICAgICAgIOKGkiBnZW5lcmF0ZUFuc3dlcihSQUcg5Ya757uT6ZO+6LevKSAg4oaQIOawuOi/nOeahOWFnOW6lQovLwovLyAgIOWIhua1geefqemYte+8iGRvY3MvUGhhc2UtUTItTW9kZS1TcGVjLm1kIMKnNCDokL3lnLDvvInvvJoKLy8gICAgIGZhc3QgIPCfjJAgID0gc2VhcmNoICAgICAgICDihpIg5pyJ5Y+v55So5LqL5a6e5YiZ5Ye644CM5LqL5a6e5pGY6KaBK+adpea6kOOAje+8m+WQpuWImSByZXR1cm4gbnVsbCDlm57pgIDljp/pk77ot68KLy8gICAgIGRlZXAgIPCfk5ogID0gUkFHICAgICAgICAgICDihpIg55u05o6lIHJldHVybiBudWxs77yM6LWw5Y6fIGdlbmVyYXRlQW5zd2Vy77yI6YCQ5a2X6IqC6Zu25pS55Yqo77yJCi8vICAgICB0aGluayDwn4yFICA9IHNlYXJjaCtSQUcrcmVhc29uaW5nIOKGkiBSQUcg5Y+q6K+75omT5bqVICsg5LqL5a6e5bGCICsg5oCd5oOz5bGC6J6N5ZCICi8vCi8vICAg5o6I5p2D5p2h5qy+5a+55bqU55qE56Gs57qm5p2f77yaCi8vICAgICDCtyBTZWFyY2ggQ29udGV4dCDlj6rmtLvlnKjmnKzmrKHor7fmsYLlhoXlrZjvvIhUaGlua0NvbnRleHTvvInvvIzlh7rlj4Llj6rluKYgdG9TYWZlTWV0Ye+8mwovLyAgICAgICDnu53kuI3lhpkgY29ycHVzIC8gZW1iZWRkaW5nIC8gbWV0YWRhdGEgLyDku7vkvZXnn6Xor4blupPpm4blkIjjgIIKLy8gICAgIMK3IOWkjeeUqCBmcmVzaG5lc3Mg55qEIGRldGVjdEZhYnJpY2F0aW9uIOWPjeW5u+iniemXuO+8iOS4jeWkjeWItuesrOS6jOS7veato+WIme+8ie+8mwovLyAgICAgICDpl7jkuI3lj6/nlKjml7YqKuS4jeWinuW8uioq77yIZmFpbC1jbG9zZWQgb24gYXVnbWVudGF0aW9u77yJ44CCCi8vICAgICDCtyBtb2NrIOawuOS4jeacjeWKoeecn+WunueUqOaIt++8mnByb3ZpZGVyPW1vY2sg5pe25pCc57Si6KKr5ouS77yM6Zmk6Z2e5pi+5byP5rWL6K+V5byA5YWz44CCCi8vICAgICDCtyDml6cgbW9kZSDlrZfmrrXvvIhwbGFpbi9kZWVwL2NsYXNzaWPvvInljp/moLfpgI/kvKDnu5kgUkFH77yM6K+t5LmJ5LiN5Y+Y44CCCi8vICAgICDCtyDku7vkvZXlvILluLjkuIDlvosgZmFpbC1zb2Z0IOKGkiDov5Tlm54gbnVsbO+8jOiwg+eUqOaWueiQveWbnuWGu+e7k+mTvui3r+OAggovLwovLyAgIE5vZGUgMTYuMTMg5YW85a6577yI5peg5Y+v6YCJ6ZO+IC8g5peg56m65YC85ZCI5bm277yJ44CCCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQondXNlIHN0cmljdCc7Cgp2YXIgYW5zd2VyTW9kZU1vZCA9IHJlcXVpcmUoJy4uL2Fuc3dlck1vZGUnKTsKdmFyIHRoaW5rQ29udGV4dE1vZCA9IHJlcXVpcmUoJy4uL3RoaW5rQ29udGV4dCcpOwp2YXIgZmFjdEV4dHJhY3RvciA9IHJlcXVpcmUoJy4vZmFjdEV4dHJhY3RvcicpOwp2YXIgcmVhc29uaW5nID0gcmVxdWlyZSgnLi9yZWFzb25pbmcnKTsKdmFyIGNpdGF0aW9uID0gcmVxdWlyZSgnLi9jaXRhdGlvbicpOwovLyBRMi0yN++8muWkjeeUqCBmcmVzaG5lc3Mg5LqL5Lu25YiG57G75Yik5a6a44CM5piv5ZCm6ZyA6IGU572R44CN77yM5L6b5pCc57SiIGF1dG8g6Lev55Sx6YCJ5oupIHF3ZW4vYWduZXPjgIIKdmFyIGV2ZW50Q2xhc3NpZmllciA9IHJlcXVpcmUoJy4uL2ZyZXNobmVzcy9ldmVudENsYXNzaWZpZXInKTsKCi8vIC0tLS0tLS0tLS0g5oOw5oCn5L6d6LWW77yI6YG/5YWN5Zyo5LiN6ZyA6KaB5pe25ouJ6LW36YeN5qih5Z2X77yJIC0tLS0tLS0tLS0KdmFyIF9nYXRlTG9hZGVkID0gZmFsc2U7CnZhciBfZ2F0ZSA9IG51bGw7Ci8vIOWkjeeUqCBmcmVzaG5lc3Mg55qE5Y+N5bm76KeJ56Gs6Ze477yIRC1h77yJ44CC5Yi75oSP5LiN5aSN5Yi25q2j5YiZ77ya5Y+q6IO95pyJ5LiA5Lu955yf55u444CCCmZ1bmN0aW9uIGdldEZhYnJpY2F0aW9uR2F0ZSgpIHsKICBpZiAoX2dhdGVMb2FkZWQpIHJldHVybiBfZ2F0ZTsKICBfZ2F0ZUxvYWRlZCA9IHRydWU7CiAgdHJ5IHsKICAgIHZhciBmID0gcmVxdWlyZSgnLi4vZnJlc2huZXNzJykuZGV0ZWN0RmFicmljYXRpb247CiAgICBfZ2F0ZSA9ICh0eXBlb2YgZiA9PT0gJ2Z1bmN0aW9uJykgPyBmIDogbnVsbDsKICB9IGNhdGNoIChlKSB7CiAgICBfZ2F0ZSA9IG51bGw7CiAgfQogIHJldHVybiBfZ2F0ZTsKfQoKdmFyIF9zZWFyY2hGbiA9IG51bGw7CmZ1bmN0aW9uIGdldFNlYXJjaEZuKG9wdHMpIHsKICBpZiAob3B0cyAmJiB0eXBlb2Ygb3B0cy5zZWFyY2hGbiA9PT0gJ2Z1bmN0aW9uJykgcmV0dXJuIG9wdHMuc2VhcmNoRm47CiAgaWYgKF9zZWFyY2hGbikgcmV0dXJuIF9zZWFyY2hGbjsKICB0cnkgewogICAgX3NlYXJjaEZuID0gcmVxdWlyZSgnLi4vcHJvdmlkZXJzL3NlYXJjaCcpLnNlYXJjaDsKICB9IGNhdGNoIChlKSB7CiAgICBfc2VhcmNoRm4gPSBudWxsOwogIH0KICByZXR1cm4gX3NlYXJjaEZuOwp9Cgp2YXIgX3JhZ0ZuID0gbnVsbDsKZnVuY3Rpb24gZ2V0UmFnRm4ob3B0cykgewogIGlmIChvcHRzICYmIHR5cGVvZiBvcHRzLmdlbmVyYXRlQW5zd2VyID09PSAnZnVuY3Rpb24nKSByZXR1cm4gb3B0cy5nZW5lcmF0ZUFuc3dlcjsKICBpZiAoX3JhZ0ZuKSByZXR1cm4gX3JhZ0ZuOwogIHRyeSB7CiAgICBfcmFnRm4gPSByZXF1aXJlKCcuLi9yYWcnKS5nZW5lcmF0ZUFuc3dlcjsKICB9IGNhdGNoIChlKSB7CiAgICBfcmFnRm4gPSBudWxsOwogIH0KICByZXR1cm4gX3JhZ0ZuOwp9CgovLyAtLS0tLS0tLS0tIOW8gOWFsyAtLS0tLS0tLS0tCmZ1bmN0aW9uIGVudlRydWUobmFtZSwgZGZsdCkgewogIHZhciB2ID0gcHJvY2Vzcy5lbnZbbmFtZV07CiAgaWYgKHYgPT09IHVuZGVmaW5lZCB8fCB2ID09PSBudWxsIHx8IHYgPT09ICcnKSByZXR1cm4gZGZsdDsKICByZXR1cm4gKCcnICsgdikudG9Mb3dlckNhc2UoKSA9PT0gJ3RydWUnOwp9CgovLyDmgJ3mg7PlsYLlvIDlhbPvvIjpu5jorqTlvIDvvJvlhbPmjonlkI4gdGhpbmsg562J5Lu35LqOIGRlZXAgKyDkuovlrp7lsYLvvIkKZnVuY3Rpb24gcmVhc29uaW5nRW5hYmxlZChvcHRzKSB7CiAgaWYgKG9wdHMgJiYgdHlwZW9mIG9wdHMucmVhc29uaW5nRW5hYmxlZCA9PT0gJ2Jvb2xlYW4nKSByZXR1cm4gb3B0cy5yZWFzb25pbmdFbmFibGVkOwogIHJldHVybiBlbnZUcnVlKCdUSElOS19SRUFTT05JTkdfRU5BQkxFRCcsIHRydWUpOwp9CgovLyDmtYvor5XkuJPnlKjvvJrlhYHorrggbW9jayDkuovlrp7ov5vlhaXnlJ/miJDvvIjnlJ/kuqfmgZIgZmFsc2XvvIkKZnVuY3Rpb24gYWxsb3dNb2NrKG9wdHMpIHsKICBpZiAob3B0cyAmJiBvcHRzLmFsbG93TW9ja0ZhY3RzID09PSB0cnVlKSByZXR1cm4gdHJ1ZTsKICByZXR1cm4gZW52VHJ1ZSgnVEhJTktfQUxMT1dfTU9DS19GQUNUUycsIGZhbHNlKTsKfQoKZnVuY3Rpb24gcmVzb2x2ZVByb3ZpZGVyKG9wdHMpIHsKICB2YXIgcCA9IChvcHRzICYmIG9wdHMuc2VhcmNoUHJvdmlkZXIpID8gb3B0cy5zZWFyY2hQcm92aWRlciA6IHByb2Nlc3MuZW52LlNFQVJDSF9QUk9WSURFUjsKICByZXR1cm4gKHAgfHwgJ21vY2snKS50b1N0cmluZygpLnRvTG93ZXJDYXNlKCk7Cn0KCmZ1bmN0aW9uIHJlc29sdmVGYWN0dWFsRW5hYmxlZChvcHRzKSB7CiAgaWYgKG9wdHMgJiYgKG9wdHMuZmFjdHVhbEVuYWJsZWQgPT09IHRydWUgfHwgb3B0cy5mYWN0dWFsRW5hYmxlZCA9PT0gZmFsc2UpKSByZXR1cm4gb3B0cy5mYWN0dWFsRW5hYmxlZDsKICByZXR1cm4gZW52VHJ1ZSgnRlJFU0hORVNTX0ZBQ1RVQUxfRU5BQkxFRCcsIGZhbHNlKTsKfQoKLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIOaQnOe0ouWHhuWFpemXuO+8iOS4iemHje+8iQovLyAgIOKRoCDkuovlrp7mupDmgLvpl7ggRlJFU0hORVNTX0ZBQ1RVQUxfRU5BQkxFRCDlv4XpobvkuLogdHJ1ZQovLyAgIOKRoSBwcm92aWRlciDkuI3og73mmK8gbm9uZQovLyAgIOKRoiBwcm92aWRlcj1tb2NrIOaXtuW/hemhu+aYvuW8j+W8gOa1i+ivleW8gOWFsyDigJTigJQgbW9jayDmsLjkuI3mnI3liqHnnJ/lrp7nlKjmiLcKLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmZ1bmN0aW9uIHNlYXJjaEdhdGUob3B0cykgewogIHZhciBwcm92aWRlciA9IHJlc29sdmVQcm92aWRlcihvcHRzKTsKICBpZiAoIXJlc29sdmVGYWN0dWFsRW5hYmxlZChvcHRzKSkgewogICAgcmV0dXJuIHsgYWxsb3dlZDogZmFsc2UsIHByb3ZpZGVyOiBwcm92aWRlciwgcmVhc29uOiAnZmFjdHVhbF9kaXNhYmxlZCcgfTsKICB9CiAgaWYgKHByb3ZpZGVyID09PSAnbm9uZScpIHsKICAgIHJldHVybiB7IGFsbG93ZWQ6IGZhbHNlLCBwcm92aWRlcjogcHJvdmlkZXIsIHJlYXNvbjogJ25vX3Byb3ZpZGVyJyB9OwogIH0KICBpZiAocHJvdmlkZXIgPT09ICdtb2NrJyAmJiAhYWxsb3dNb2NrKG9wdHMpKSB7CiAgICByZXR1cm4geyBhbGxvd2VkOiBmYWxzZSwgcHJvdmlkZXI6IHByb3ZpZGVyLCByZWFzb246ICdtb2NrX2Jsb2NrZWQnIH07CiAgfQogIHJldHVybiB7IGFsbG93ZWQ6IHRydWUsIHByb3ZpZGVyOiBwcm92aWRlciwgcmVhc29uOiAnJyB9Owp9CgovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KLy8g5Y+W5LqL5a6e77yac2VhcmNoIOKGkiBleHRyYWN0IOKGkiBmaWx0ZXLvvIjlhajnqIsgZmFpbC1zb2Z077yJCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQphc3luYyBmdW5jdGlvbiBnYXRoZXJGYWN0cyhxdWVyeSwgb3B0cywgZ2F0ZSkgewogIHZhciBvdXQgPSB7CiAgICByYXc6IFtdLCBmYWN0czogW10sIHVzYWJsZTogW10sCiAgICBtb2NrRmlsdGVyZWQ6IDAsIHNvdXJjZUNvdW50OiAwLCBjb25maWRlbmNlOiAnbm9uZScsCiAgICBvazogZmFsc2UsIHJlYXNvbjogZ2F0ZS5yZWFzb24gfHwgJycsCiAgfTsKICBpZiAoIWdhdGUuYWxsb3dlZCkgcmV0dXJuIG91dDsKCiAgdmFyIHNlYXJjaEZuID0gZ2V0U2VhcmNoRm4ob3B0cyk7CiAgaWYgKHR5cGVvZiBzZWFyY2hGbiAhPT0gJ2Z1bmN0aW9uJykgewogICAgb3V0LnJlYXNvbiA9ICdzZWFyY2hfbGF5ZXJfdW5hdmFpbGFibGUnOwogICAgcmV0dXJuIG91dDsKICB9CgogIHZhciByZXM7CiAgdHJ5IHsKICAgIHJlcyA9IGF3YWl0IHNlYXJjaEZuKHF1ZXJ5LCB7CiAgICAgIGFuc3dlck1vZGU6IG9wdHMgJiYgb3B0cy5hbnN3ZXJNb2RlLAogICAgICBvcGVuaWQ6IG9wdHMgJiYgb3B0cy5vcGVuaWQsCiAgICAgIF9fY2FuYXJ5OiBvcHRzICYmIG9wdHMuX19jYW5hcnksIC8vIOmAj+S8oOeBsOW6puazqOWFpe+8iOeUn+S6p+S4jeS9v+eUqO+8jOaXoOihjOS4uuWPmOWMlu+8iQogICAgICBzYWdlOiBvcHRzICYmIG9wdHMuc2FnZSwgc29jcmF0aWM6IG9wdHMgJiYgb3B0cy5zb2NyYXRpYywgLy8gUGhhc2UgWO+8muWFiOi0pC/oi4/moLzmi4nlupXkurrmoLzpgI/kvKAKICAgICAgbmV0d29ya05lZWRlZDogb3B0cyAmJiBvcHRzLm5ldHdvcmtOZWVkZWQsIC8vIFEyLTI377ya6YCP5Lyg6IGU572R6ZyA5rGC77yM5L6bIGF1dG8g6Lev55Sx6YCJIHF3ZW4vYWduZXMKICAgIH0pOwogIH0gY2F0Y2ggKGUpIHsKICAgIG91dC5yZWFzb24gPSAnc2VhcmNoX2V4Y2VwdGlvbic7CiAgICByZXR1cm4gb3V0OwogIH0KICBvdXQuYXVkaXQgPSAocmVzICYmIHJlcy5hdWRpdCkgPyByZXMuYXVkaXQgOiBudWxsOyAvLyDlrqHorqHlhYPmlbDmja7kuIrooYzvvIjku4XlronlhajlrZfmrrXvvIkKICBpZiAoIXJlcyB8fCByZXMub2sgIT09IHRydWUgfHwgIUFycmF5LmlzQXJyYXkocmVzLnJlc3VsdHMpIHx8ICFyZXMucmVzdWx0cy5sZW5ndGgpIHsKICAgIG91dC5yZWFzb24gPSAocmVzICYmIHJlcy5yZWFzb24pID8gcmVzLnJlYXNvbiA6ICdub19yZXN1bHRzJzsKICAgIHJldHVybiBvdXQ7CiAgfQoKICBvdXQucmF3ID0gcmVzLnJlc3VsdHM7CiAgdmFyIG1vY2tPayA9IGFsbG93TW9jayhvcHRzKTsKICB2YXIgZXggPSBmYWN0RXh0cmFjdG9yLmV4dHJhY3RGYWN0cyhyZXMucmVzdWx0cywgeyBhbGxvd01vY2s6IG1vY2tPayB9KTsKICBvdXQuZmFjdHMgPSBleC5mYWN0czsKICBvdXQuc291cmNlQ291bnQgPSBleC5zb3VyY2VDb3VudDsKICBvdXQudXNhYmxlID0gZmFjdEV4dHJhY3Rvci5maWx0ZXJVc2FibGUoZXguZmFjdHMsIHsgYWxsb3dNb2NrOiBtb2NrT2sgfSk7CiAgb3V0Lm1vY2tGaWx0ZXJlZCA9IGV4Lm1vY2tDb3VudCAtIChtb2NrT2sgPyBleC5tb2NrQ291bnQgOiAwKTsKICBvdXQuY29uZmlkZW5jZSA9IGZhY3RFeHRyYWN0b3IuYWdncmVnYXRlQ29uZmlkZW5jZShvdXQudXNhYmxlKTsKICBvdXQub2sgPSBvdXQudXNhYmxlLmxlbmd0aCA+IDA7CiAgaWYgKCFvdXQub2sgJiYgIW91dC5yZWFzb24pIG91dC5yZWFzb24gPSAnbm9fdXNhYmxlX2ZhY3QnOwogIHJldHVybiBvdXQ7Cn0KCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQovLyDlj43lubvop4npl7jvvJrlj6rkvZznlKjkuo7jgIzlvJXmk47oh6rlt7HnlJ/miJDjgIHml6DmnaXmupDog4zkuabjgI3nmoTmlofmnKzjgIIKLy8gICDluKYgVVJMICsgc291cmNlIOW9kuWxnueahOajgOe0ouWOn+aWh+aRmOimgeS4jeWcqOatpOWIl++8iOmCo+aYr+W8leeUqO+8jOS4jeaYr+e8lumAoO+8ie+8jAovLyAgIOWFtuWPr+aguOWunuaAp+eUsSBmYWN0RXh0cmFjdG9y44CM5pegIFVSTCDljbPkuKLlvIPjgI3kv53or4HjgIIKLy8gICDpl7jkuI3lj6/nlKgg4oaSIOinhuS4uuS4jemAmui/h++8iOWugeWPr+S4jeWinuW8uu+8jOS5n+S4jeaUvuihjOacque7j+ajgOafpeeahOeUn+aIkOaWh+acrO+8ieOAggovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZnVuY3Rpb24gcGFzc2VzRmFicmljYXRpb25HYXRlKHRleHQpIHsKICB2YXIgdCA9ICh0ZXh0IHx8ICcnKS50b1N0cmluZygpOwogIGlmICghdC50cmltKCkpIHJldHVybiB0cnVlOyAvLyDnqbrmlofmnKzml6DpnIDmo4Dmn6UKICB2YXIgZ2F0ZSA9IGdldEZhYnJpY2F0aW9uR2F0ZSgpOwogIGlmICghZ2F0ZSkgcmV0dXJuIGZhbHNlOyAgICAvLyBmYWlsLWNsb3NlZAogIHJldHVybiBnYXRlKHQpICE9PSB0cnVlOwp9CgovLyAtLS0tLS0tLS0tIGZhc3TvvJrkuovlrp7mkZjopoHvvIjnoa7lrprmgKfmqKHmnb/vvIzkuI3osIPmqKHlnovvvIkgLS0tLS0tLS0tLQpmdW5jdGlvbiBjb21wb3NlRmFzdEFuc3dlcihxdWVyeSwgZmFjdHMpIHsKICB2YXIgdG9waWMgPSByZWFzb25pbmcuZXh0cmFjdFRvcGljKHF1ZXJ5KTsKICB2YXIgaGVhZCA9IHRvcGljCiAgICA/ICflhbPkuo7jgIwnICsgdG9waWMgKyAn44CN77yM5oiR5qOA57Si5Yiw6L+Z5Lqb5YWs5byA5L+h5oGv77yaJwogICAgOiAn5oiR5qOA57Si5Yiw6L+Z5Lqb5YWs5byA5L+h5oGv77yaJzsKICB2YXIgbGluZXMgPSBbaGVhZCwgJyddOwogIGZvciAodmFyIGkgPSAwOyBpIDwgZmFjdHMubGVuZ3RoOyBpKyspIHsKICAgIHZhciBmID0gZmFjdHNbaV07CiAgICB2YXIgdGFpbCA9IFtdOwogICAgaWYgKGYuc291cmNlKSB0YWlsLnB1c2goZi5zb3VyY2UpOwogICAgaWYgKGYudGltZSkgdGFpbC5wdXNoKGYudGltZSk7CiAgICBsaW5lcy5wdXNoKChpICsgMSkgKyAnLiAnICsgZi5zdGF0ZW1lbnQpOwogICAgaWYgKHRhaWwubGVuZ3RoKSBsaW5lcy5wdXNoKCcgICDigJTigJQgJyArIHRhaWwuam9pbignIMK3ICcpKTsKICB9CiAgbGluZXMucHVzaCgnJyk7CiAgbGluZXMucHVzaCgn5Lul5LiK5piv5p2l5rqQ5Y6f5paH5pGY6KaB77yM5oiR5rKh5pyJ5YGa5LqM5qyh6Kej6K+744CC5oOz6IGK5a6D6IOM5ZCO6K+l5oCO5LmI5Yik5pat77yM5YiH5Yiw44CM8J+MhSDmgJ3ogIPjgI3jgIInKTsKICByZXR1cm4gbGluZXMuam9pbignXG4nKTsKfQoKLy8gLS0tLS0tLS0tLSB0aGlua++8muaYr+WQpumAguWQiOi/veWKoOaAneaDs+WxgiAtLS0tLS0tLS0tCmZ1bmN0aW9uIGF1Z21lbnRhdGlvblNraXBSZWFzb24oYmFzZSwgb3B0cykgewogIGlmICghYmFzZSB8fCAhYmFzZS5hbnN3ZXIpIHJldHVybiAnbm9fYmFzZV9hbnN3ZXInOwogIC8vIOWNseacuumTvui3r++8mue7neS4jei/veWKoOS7u+S9leaAnei+qOmZhOWKoOeJqQogIGlmIChiYXNlLmludGVudCAmJiBiYXNlLmludGVudC5jcmlzaXMpIHJldHVybiAnY3Jpc2lzJzsKICAvLyDmhI/lm77lsYLliKTlrprjgIzml6DpnIDnn6Xor4blupPjgI3vvIjlr5LmmoQv6Zey6IGKL+W3peWFt+exu++8ie+8mui/veWKoOaAneaDs+WxguWPquS8muaYvuW+l+iBkuWZqgogIGlmIChiYXNlLnJldHJpZXZhbCAmJiBiYXNlLnJldHJpZXZhbC5za2lwcGVkID09PSB0cnVlKSByZXR1cm4gJ2tub3dsZWRnZV9za2lwcGVkJzsKICAvLyDov4fnn63lm57nrZTpgJrluLjmmK/plJnor68v6ZmN57qn5Ye65Y+j77yM5LiN5YGa5aKe5by6CiAgaWYgKCgnJyArIGJhc2UuYW5zd2VyKS50cmltKCkubGVuZ3RoIDwgNDApIHJldHVybiAnc2hvcnRfYW5zd2VyJzsKICBpZiAoIXJlYXNvbmluZ0VuYWJsZWQob3B0cykpIHJldHVybiAncmVhc29uaW5nX2Rpc2FibGVkJzsKICByZXR1cm4gJyc7Cn0KCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQovLyBydW4obWVzc2FnZSwgb3B0cykg4oaSIFByb21pc2U8cmVzdWx0IHwgbnVsbD4KLy8gICDov5Tlm54gbnVsbCAgPSDmnKzlvJXmk47kuI3mjqXnrqHvvIzosIPnlKjmlrnnu6fnu63otbDljp8gZ2VuZXJhdGVBbnN3ZXLvvIjpm7booYzkuLrlj5jljJbvvIkKLy8gICDov5Tlm54gcmVzdWx0ID0g5bey5o6l566h77yM5b2i54q25LiOIGNoYXQgcmVzdWx0IOWFvOWuuQovLwovLyAgIG9wdHM6IHsKLy8gICAgIGFuc3dlck1vZGUsIG1vZGUsIG1vZGVscywgbW9kZWxDZmdFcnJvciwgaGlzdG9yeSwgdHVybiwKLy8gICAgIGZhY3R1YWxFbmFibGVkLCBzZWFyY2hQcm92aWRlciwKLy8gICAgIGdlbmVyYXRlQW5zd2VyLCAgIC8vIOazqOWFpe+8iGluZGV4LmpzIOS8oOWFpSByYWcuZ2VuZXJhdGVBbnN3ZXLvvJvmtYvor5XkvKAgZmFrZe+8iQovLyAgICAgc2VhcmNoRm4sICAgICAgICAgLy8g5rOo5YWl77yI5rWL6K+V55So77yJCi8vICAgICBhbGxvd01vY2tGYWN0cywgcmVhc29uaW5nRW5hYmxlZAovLyAgIH0KLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmFzeW5jIGZ1bmN0aW9uIHJ1bihtZXNzYWdlLCBvcHRzKSB7CiAgb3B0cyA9IG9wdHMgfHwge307CiAgdmFyIHF1ZXJ5ID0gKG1lc3NhZ2UgfHwgJycpLnRvU3RyaW5nKCkudHJpbSgpOwogIGlmICghcXVlcnkpIHJldHVybiBudWxsOwoKICB2YXIgcGxhbiA9IGFuc3dlck1vZGVNb2QucmVzb2x2ZShvcHRzLmFuc3dlck1vZGUsIHsgcXVlcnk6IHF1ZXJ5IH0pOwogIHZhciBnYXRlID0gc2VhcmNoR2F0ZShvcHRzKTsKCiAgLy8g5YWs5YWx5YWD5L+h5oGv77yI5penIG1vZGUg5a2X5q6155WZ55eV77yM6K+B5piO5YW85a655pyq56C077yJCiAgdmFyIGJhc2VNZXRhID0gewogICAgZW5naW5lOiAncTItMycsCiAgICBhbnN3ZXJNb2RlOiBwbGFuLmVmZmVjdGl2ZU1vZGUsCiAgICBwaXBlbGluZTogcGxhbi5waXBlbGluZSwKICAgIGlzRGVmYXVsdE1vZGU6IHBsYW4uaXNEZWZhdWx0LAogICAgbGVnYWN5TW9kZTogKG9wdHMubW9kZSB8fCAncGxhaW4nKSwKICAgIHNlYXJjaEFsbG93ZWQ6IGdhdGUuYWxsb3dlZCwKICAgIHNlYXJjaFByb3ZpZGVyOiBnYXRlLnByb3ZpZGVyLAogICAgc2VhcmNoUmVhc29uOiBnYXRlLnJlYXNvbiwKICAgIF9lcGhlbWVyYWw6IHRydWUsCiAgfTsKCiAgLy8gLS0tLS0tLS0tLS0tLS0tLSBkZWVwIPCfk5rvvJrnuq8gUkFHIC0tLS0tLS0tLS0tLS0tLS0KICAvLyDnm7TmjqXkuqTlm57ljp/pk77ot6/vvIzov57kuIDmrKHlpJrkvZnnmoTlh73mlbDosIPnlKjpg73kuI3lgZog4oCU4oCUIOmAkOWtl+iKgumbtuaUueWKqOS/neivgeOAggogIGlmIChwbGFuLmVmZmVjdGl2ZU1vZGUgPT09ICdkZWVwJykgcmV0dXJuIG51bGw7CgogIC8vIC0tLS0tLS0tLS0tLS0tLS0gZmFzdCDwn4yQ77yac2VhcmNo77yI5pmu6YCa5qih5byPID0g6YCa55So5Yqp5omL77yJLS0tLS0tLS0tLS0tLS0tLQogIC8vICAgUGhhc2UgUTItMjXvvJrmma7pgJrmqKHlvI/lupTlkYjnjrDjgIzoh6rnhLbpgJrnlKjliqnmiYvjgI3kurrmoLzvvIzogIzpnZ7lg7XnoaznmoTkuovlrp7liJfooajjgIIKICAvLyAgIOS8mOWFiOmHh+eUqOaQnOe0oiBQcm92aWRlciDnmoTmqKHlnovlkIjmiJDlm57nrZTvvIhhZ25lc1NlYXJjaCDlt7LmjIkgZmFzdCDms6jlhaXpgJrnlKjliqnmiYsKICAvLyAgIHN5c3RlbSBwcm9tcHTvvInvvJvku4XlvZPml6DlkIjmiJDmlofmnKzjgIHkvYbmnInlj6/moLjlrp7nu5PmnoTljJbkuovlrp7ml7bvvIzmiY3lm57pgIDliLDmqKHmnb/lvI8KICAvLyAgIOS6i+WunuaRmOimgeOAguS7u+S4gOi3r+W+hOmDvei/h+WPjeW5u+iniemXuO+8iGZhaWwtY2xvc2Vk77ya5LiN6YCa6L+H5YiZ5Zue6YCA5Ya757uTIFJBR++8ieOAggogIGlmIChwbGFuLmVmZmVjdGl2ZU1vZGUgPT09ICdmYXN0JykgewogICAgdmFyIHNlYXJjaEZuID0gZ2V0U2VhcmNoRm4ob3B0cyk7CiAgICBpZiAodHlwZW9mIHNlYXJjaEZuICE9PSAnZnVuY3Rpb24nKSByZXR1cm4gbnVsbDsKICAgIHZhciByYXcgPSBudWxsOwogICAgdHJ5IHsKICAgICAgcmF3ID0gYXdhaXQgc2VhcmNoRm4ocXVlcnksIHsKICAgICAgICBhbnN3ZXJNb2RlOiAnZmFzdCcsCiAgICAgICAgb3BlbmlkOiBvcHRzICYmIG9wdHMub3BlbmlkLAogICAgICAgIF9fY2FuYXJ5OiBvcHRzICYmIG9wdHMuX19jYW5hcnksCiAgICAgICAgc2FnZTogb3B0cyAmJiBvcHRzLnNhZ2UsIHNvY3JhdGljOiBvcHRzICYmIG9wdHMuc29jcmF0aWMsIC8vIFBoYXNlIFjvvJrlhYjotKQv6IuP5qC85ouJ5bqV5Lq65qC86YCP5LygCiAgICAgICAgLy8gUTItMjfvvJpmYXN0IOaooeW8j+WIsOi+vuacrOW8leaTjuaXtiBmcmVzaG5lc3Mg5beyIHJldHVybiBudWxs77yI6Z2eIELvvInvvIzmjInliIbnsbvlhZzlupXliKTlrprogZTnvZHpnIDmsYLvvJsKICAgICAgICAvLyAgIEIg57G777yI5p6B5bCR6KeB77yM5aaCIGZyZXNobmVzcyDlhbPpl63vvInotbAgcXdlbu+8jOWFtuS9mei1sCBhZ25lcyDnnIEgcXdlbiDpop3luqbjgIIKICAgICAgICBuZXR3b3JrTmVlZGVkOiAhIShldmVudENsYXNzaWZpZXIuY2xhc3NpZnlDYXRlZ29yeShxdWVyeSwgbnVsbCkuY2F0ZWdvcnkgPT09ICdCJyksCiAgICAgIH0pOwogICAgfSBjYXRjaCAoZSkgewogICAgICByYXcgPSBudWxsOwogICAgfQogICAgaWYgKCFyYXcgfHwgcmF3Lm9rICE9PSB0cnVlIHx8ICFBcnJheS5pc0FycmF5KHJhdy5yZXN1bHRzKSB8fCAhcmF3LnJlc3VsdHMubGVuZ3RoKSB7CiAgICAgIHJldHVybiBudWxsOyAvLyDml6Dlj6/nlKjmo4DntKIg4oaSIOWbnumAgOWOn+mTvui3r++8iOWGu+e7kyBSQUfvvIkKICAgIH0KCiAgICAvLyDmjqLmtYvmqKHlnovlkIjmiJDnmoToh6rnhLblm57nrZTvvIhhZ25lcyDotbAgc3ludGgg6Lev5b6E5pe2IHN5bnRoZXNpemVkPXRydWUsIGNvbnRlbnQ95Zue562U5q2j5paH77yJCiAgICB2YXIgc3ludGhJdGVtID0gbnVsbDsKICAgIGZvciAodmFyIHJpID0gMDsgcmkgPCByYXcucmVzdWx0cy5sZW5ndGg7IHJpKyspIHsKICAgICAgaWYgKHJhdy5yZXN1bHRzW3JpXSAmJiByYXcucmVzdWx0c1tyaV0uc3ludGhlc2l6ZWQgJiYgcmF3LnJlc3VsdHNbcmldLmNvbnRlbnQpIHsKICAgICAgICBzeW50aEl0ZW0gPSByYXcucmVzdWx0c1tyaV07CiAgICAgICAgYnJlYWs7CiAgICAgIH0KICAgIH0KCiAgICB2YXIgZmFzdEZhY3RzID0gZmFjdEV4dHJhY3Rvci5maWx0ZXJVc2FibGUoCiAgICAgIGZhY3RFeHRyYWN0b3IuZXh0cmFjdEZhY3RzKHJhdy5yZXN1bHRzLCB7IGFsbG93TW9jazogYWxsb3dNb2NrKG9wdHMpIH0pLmZhY3RzLAogICAgICB7IGFsbG93TW9jazogYWxsb3dNb2NrKG9wdHMpIH0KICAgICk7CgogICAgdmFyIGZhc3RUZXh0OwogICAgaWYgKHN5bnRoSXRlbSkgewogICAgICBmYXN0VGV4dCA9IHN5bnRoSXRlbS5jb250ZW50OyAvLyDpgJrnlKjliqnmiYvnm7TmjqXlm57nrZQKICAgIH0gZWxzZSB7CiAgICAgIGlmICghZmFzdEZhY3RzLmxlbmd0aCkgcmV0dXJuIG51bGw7IC8vIOaXoOWQiOaIkOS4lOaXoOWPr+eUqOS6i+WuniDihpIg5Zue6YCA5Y6f6ZO+6LevCiAgICAgIGZhc3RUZXh0ID0gY29tcG9zZUZhc3RBbnN3ZXIocXVlcnksIGZhc3RGYWN0cyk7CiAgICB9CgogICAgLy8g5Y+N5bm76KeJ6Ze477ya5ZCI5oiQ5paH5pys5LiO5qih5p2/5qGG5p625Y+l6YO96KaB6L+H77yI6Ze45LiN5Y+v55SoL+S4jemAmui/hyDihpIgZmFpbC1jbG9zZWQg5Zue6YCAIFJBR++8iQogICAgaWYgKCFwYXNzZXNGYWJyaWNhdGlvbkdhdGUoZmFzdFRleHQpKSByZXR1cm4gbnVsbDsKICAgIGlmICghc3ludGhJdGVtICYmICFwYXNzZXNGYWJyaWNhdGlvbkdhdGUoY29tcG9zZUZhc3RBbnN3ZXIocXVlcnksIFtdKSkpIHJldHVybiBudWxsOwoKICAgIHZhciBmYXN0Q2l0ZXMgPSBjaXRhdGlvbi5idWlsZFVuaWZpZWQoewogICAgICBmYWN0czogZmFzdEZhY3RzLCByYWdDaXRhdGlvbnM6IFtdLCBhbGxvd01vY2s6IGFsbG93TW9jayhvcHRzKSwKICAgIH0pOwogICAgdmFyIGZhc3RDdHggPSB0aGlua0NvbnRleHRNb2QubWFrZVRoaW5rQ29udGV4dCh7CiAgICAgIG1vZGU6ICdmYXN0JywgcXVlcnk6IHF1ZXJ5LAogICAgICBmYWN0czogZmFjdEV4dHJhY3Rvci50b0VwaGVtZXJhbEZhY3RzKGZhc3RGYWN0cyksIGtub3dsZWRnZTogW10sCiAgICB9KTsKCiAgICByZXR1cm4gewogICAgICBtb2RlOiAndGhpbmstZmFzdCcsCiAgICAgIGFuc3dlcjogZmFzdFRleHQsCiAgICAgIGNpdGF0aW9uczogW10sIC8vIOacqui1sCBSQUfvvIznu4/lhbjlvJXnlKjkuLrnqbrvvIjkv53mjIHml6LmnInkuIvmuLjor63kuYnvvIkKICAgICAgcm91dGU6IHsgZGltZW5zaW9uczogW10sIGJvb2tzOiBbXSwgY29yZTogJycgfSwKICAgICAgcmV0cmlldmFsOiB7IHF1ZXJ5VGVybXM6IFtdLCB0b3RhbERvY3VtZW50czogMCwgbWluU2NvcmU6IDAsIHNlYXJjaDogdHJ1ZSwgdGhpbms6IHRydWUgfSwKICAgICAgdGhpbms6IE9iamVjdC5hc3NpZ24oe30sIGJhc2VNZXRhLCB7CiAgICAgICAgZmFjdENvdW50OiByYXcucmVzdWx0cy5sZW5ndGgsCiAgICAgICAgdXNhYmxlRmFjdENvdW50OiBmYXN0RmFjdHMubGVuZ3RoLAogICAgICAgIG1vY2tGaWx0ZXJlZDogMCwKICAgICAgICBmYWN0Q29uZmlkZW5jZTogZmFjdEV4dHJhY3Rvci5hZ2dyZWdhdGVDb25maWRlbmNlKGZhc3RGYWN0cyksCiAgICAgICAgcmVhc29uaW5nQXBwbGllZDogZmFsc2UsCiAgICAgICAgYXVnbWVudGVkOiB0cnVlLAogICAgICAgIHNraXBSZWFzb246ICcnLAogICAgICAgIHN5bnRoZXNpemVkOiAhIXN5bnRoSXRlbSwKICAgICAgICBjaXRhdGlvbnM6IGZhc3RDaXRlcywKICAgICAgICBjaXRhdGlvbk1ldGE6IGNpdGF0aW9uLnRvU2FmZU1ldGEoZmFzdENpdGVzKSwKICAgICAgICBzZWFyY2hBdWRpdDogcmF3LmF1ZGl0IHx8IG51bGwsCiAgICAgICAgY29udGV4dDogdGhpbmtDb250ZXh0TW9kLnRvU2FmZU1ldGEoZmFzdEN0eCksCiAgICAgIH0pLAogICAgICBfbW9kZWxVc2VkOiBzeW50aEl0ZW0gPyAocmF3LnByb3ZpZGVyIHx8ICdhZ25lcycpIDogJycsCiAgICAgIF9tb2RlbFN0YXR1czogJ3NlYXJjaCcsCiAgICAgIF9tb2RlbEVycm9yOiAnJywKICAgIH07CiAgfQoKICAvLyAtLS0tLS0tLS0tLS0tLS0tIHRoaW5rIPCfjIXvvJpzZWFyY2ggKyBSQUcgKyByZWFzb25pbmcgLS0tLS0tLS0tLS0tLS0tLQogIHZhciByYWdGbiA9IGdldFJhZ0ZuKG9wdHMpOwogIGlmICh0eXBlb2YgcmFnRm4gIT09ICdmdW5jdGlvbicpIHJldHVybiBudWxsOyAvLyDmi7/kuI3liLAgUkFHIOKGkiDkuqTlm57ljp/pk77ot68KCiAgLy8g4pGgIOefpeivhuWxgiArIOKRoSDkuovlrp7lsYIg5bm25Y+R5omn6KGM77ya5Lik6ICF5LqS55u454us56uL77yIUkFHIOWPquivu+ivreaWme+8jOS6i+WunuWxguWPquiwgyBxd2VuIOaQnOe0ou+8ie+8jAogIC8vICAg5Liy6KGM5Lya5Y+g5Yqg6ICX5pe277yI5a6e5rWLIHRoaW5rIH4zMHPvvInvvIzlubblj5HlkI4g4omIIG1heChSQUcsIHF3ZW4pIOmHj+e6p++8jOaYvuiRl+aPkOmAn+OAggogIHZhciBiYXNlUCA9IHJhZ0ZuKHF1ZXJ5LCB7CiAgICB0dXJuOiBvcHRzLnR1cm4sCiAgICBtb2RlbHM6IG9wdHMubW9kZWxzIHx8IFtdLAogICAgbW9kZWxDZmdFcnJvcjogb3B0cy5tb2RlbENmZ0Vycm9yLAogICAgbW9kZTogb3B0cy5tb2RlIHx8ICdwbGFpbicsCiAgICBoaXN0b3J5OiBvcHRzLmhpc3RvcnkgfHwgW10sCiAgfSk7CiAgLy8gUTItMjfvvJp0aGluayDmqKHlvI/kuovlrp7lop7lvLrkv53nnJ/lrp7mlbDmja7otKjph48g4oaSIG5ldHdvcmtOZWVkZWQ9dHJ1Ze+8iGF1dG8g6Lev55Sx6YCJIHF3ZW7vvInvvIwKICAvLyAgIGFnbmVzIOaXoOiBlOe9keS8muS6p+WHuuS8qumAoOS6i+Wunu+8jOaVheS6i+WunuWxguaBkueUqCBxd2Vu44CCCiAgdmFyIGZhY3RzUCA9IGdhdGhlckZhY3RzKHF1ZXJ5LCBPYmplY3QuYXNzaWduKHt9LCBvcHRzLCB7IG5ldHdvcmtOZWVkZWQ6IHRydWUgfSksIGdhdGUpOwoKICB2YXIgYmFzZSA9IGF3YWl0IGJhc2VQOwogIGlmICghYmFzZSB8fCAhYmFzZS5hbnN3ZXIpIHsKICAgIHRyeSB7IGF3YWl0IGZhY3RzUDsgfSBjYXRjaCAoZSkge30gLy8g5raI6LS5IHBlbmRpbmcgcHJvbWlzZe+8jOmBv+WFjSB1bmhhbmRsZWQgcmVqZWN0aW9uCiAgICByZXR1cm4gYmFzZSB8fCBudWxsOwogIH0KICB2YXIgZmFjdHMgPSBhd2FpdCBmYWN0c1A7CgogIC8vIOKRoiDmgJ3mg7PlsYLvvJrliKTmlq3mmK/lkKbpgILlkIjlop7lvLoKICB2YXIgc2tpcCA9IGF1Z21lbnRhdGlvblNraXBSZWFzb24oYmFzZSwgb3B0cyk7CiAgdmFyIHRoaW5rTWV0YSA9IE9iamVjdC5hc3NpZ24oe30sIGJhc2VNZXRhLCB7CiAgICBmYWN0Q291bnQ6IGZhY3RzLmZhY3RzLmxlbmd0aCwKICAgIHVzYWJsZUZhY3RDb3VudDogZmFjdHMudXNhYmxlLmxlbmd0aCwKICAgIG1vY2tGaWx0ZXJlZDogZmFjdHMubW9ja0ZpbHRlcmVkLAogICAgZmFjdENvbmZpZGVuY2U6IGZhY3RzLmNvbmZpZGVuY2UsCiAgICByZWFzb25pbmdBcHBsaWVkOiBmYWxzZSwKICAgIGF1Z21lbnRlZDogZmFsc2UsCiAgICBza2lwUmVhc29uOiBza2lwLAogICAgc2VhcmNoQXVkaXQ6IGZhY3RzLmF1ZGl0LAogIH0pOwoKICBpZiAoc2tpcCkgewogICAgYmFzZS50aGluayA9IHRoaW5rTWV0YTsKICAgIHJldHVybiBiYXNlOwogIH0KCiAgdmFyIHJlYXNvbiA9IHJlYXNvbmluZy5idWlsZFJlYXNvbmluZyh7CiAgICBxdWVyeTogcXVlcnksCiAgICBmYWN0czogZmFjdHMudXNhYmxlLAogICAga25vd2xlZGdlOiBiYXNlLmNpdGF0aW9ucyB8fCBbXSwKICAgIGJhc2VBbnN3ZXI6IGJhc2UuYW5zd2VyLAogIH0pOwogIC8vIDIwMjYtMDktMjEgQ1It5Yig6Zmk562U5qGI5q616JC977yI5Lqn5ZOB5Yaz5a6a77yJ77ya5LiN5YaN5Zyo562U5qGI5pyr5bC+6L+95Yqg44CM8J+MhSDlho3mg7PkuIDlsYLjgI3mjqjnkIblnZfjgIIKICAvLyAgIOeQhueUse+8muivpeWdl+S4jiBnZW5lcmFsIOagvOW8j+eahOOAkOW7tuS8uOaAneiAg+OAkeWKn+iDvemHjeWkje+8iOS4pOiAhemDveaYr+OAjOeVmeS4gOS4quW8gOaUvumXrumimOOAje+8ie+8jOS/neeVmeWFtuS4gOWNs+WPr+OAggogIC8vICAg5Zue5rua77ya5bCGIEFQUEVORF9SRUFTT05JTkdfQkxPQ0sg572uIHRydWUg5Y2z5a6M5pW05oGi5aSN5Y6f6KGM5Li677yIcmVuZGVyUmVhc29uaW5nIOacquWBmuS7u+S9leaUueWKqO+8mwogIC8vICAgICAgICAgYnVpbGRSZWFzb25pbmcg5Li657qv5qih5p2/5rS+55Sf44CB5LiN6LCD5qih5Z6L77yM5pWF5L+d55WZ5Lul5pSv5oyB5LiA6KGM5Zue5rua77yJ44CCCiAgLy8gICDimqDvuI8g572u56m65a6J5YWo5oCn5bey5qC477yacGFzc2VzRmFicmljYXRpb25HYXRlIOWvueepuuaWh+acrOaBkui/lOWbniB0cnVlCiAgLy8gICAgICDvvIjop4HmnKzmlofku7YgYGlmICghdC50cmltKCkpIHJldHVybiB0cnVlO2DvvInvvIzlm6DmraTkuI3kvJrop6blj5EgZmFicmljYXRpb25fZ2F0ZV9yZWplY3RlZO+8jAogIC8vICAgICAgZmFjdEJsb2Nr77yI5LqL5a6e5byV55So5Z2X77yJ5LuN5Lya5q2j5bi46L+95Yqg6L6T5Ye6IOKAlOKAlCDmnKzmnaHmmK/mnKzmlLnliqjllK/kuIDpnIDopoHnlZnmhI/ogKblkIjnmoTlnLDmlrnjgIIKICB2YXIgQVBQRU5EX1JFQVNPTklOR19CTE9DSyA9IGZhbHNlOwogIHZhciByZWFzb25CbG9jayA9IEFQUEVORF9SRUFTT05JTkdfQkxPQ0sgPyByZWFzb25pbmcucmVuZGVyUmVhc29uaW5nKHJlYXNvbiwge30pIDogJyc7CgogIHZhciB1bmlmaWVkID0gY2l0YXRpb24uYnVpbGRVbmlmaWVkKHsKICAgIGZhY3RzOiBmYWN0cy51c2FibGUsCiAgICByYWdDaXRhdGlvbnM6IGJhc2UuY2l0YXRpb25zIHx8IFtdLAogICAgYWxsb3dNb2NrOiBhbGxvd01vY2sob3B0cyksCiAgfSk7CiAgdmFyIGZhY3RCbG9jayA9IGNpdGF0aW9uLnJlbmRlckZhY3RDaXRhdGlvbnModW5pZmllZCwge30pOwoKICB2YXIgYWRkaXRpb24gPSAnJyArIHJlYXNvbkJsb2NrICsgZmFjdEJsb2NrOwogIGlmICghYWRkaXRpb24udHJpbSgpKSB7CiAgICAvLyDmsqHmnInku7vkvZXlj6/ov73liqDlhoXlrrkg4oaSIOWOn+agt+i/lOWbniBSQUcg57uT5p6c77yI5LiOIGRlZXAg5a6M5YWo5LiA6Ie077yJCiAgICB0aGlua01ldGEuc2tpcFJlYXNvbiA9ICdub19tYXRlcmlhbCc7CiAgICBiYXNlLnRoaW5rID0gdGhpbmtNZXRhOwogICAgcmV0dXJuIGJhc2U7CiAgfQoKICAvLyDikaMg5Y+N5bm76KeJ6Ze477ya5Y+q5qOA5p+l5byV5pOO5paw5aKe5paH5pys77yI5oCd5oOz5bGC5Li65qih5p2/5rS+55Sf77yM55CG6K665LiK5oGS6L+H77ybCiAgLy8gICAg5L2G6Ze45b+F6aG755yf6LeR77yM5LiU6Ze45LiN5Y+v55So5pe25ouS57ud5aKe5by677yJCiAgaWYgKCFwYXNzZXNGYWJyaWNhdGlvbkdhdGUocmVhc29uQmxvY2spKSB7CiAgICB0aGlua01ldGEuc2tpcFJlYXNvbiA9ICdmYWJyaWNhdGlvbl9nYXRlX3JlamVjdGVkJzsKICAgIHRoaW5rTWV0YS5ndWFyZFZpb2xhdGlvbnMgPSBbJ2ZhYnJpY2F0aW9uLWRldGVjdGVkJ107CiAgICBiYXNlLnRoaW5rID0gdGhpbmtNZXRhOwogICAgcmV0dXJuIGJhc2U7IC8vIOmZjee6p+S4uue6ryBSQUcg5Zue562U77yM57ud5LiN5Lqk5LuY5Y+v55aR5aKe5by6CiAgfQoKICAvLyDikaQg6J6N5ZCI77yIVGhpbmtDb250ZXh0IOS7heeUqOS6juingua1i+iEseaVj+WFg+S/oeaBr++8jOato+aWh+S4jeiQveS7u+S9lSBlcGhlbWVyYWwg57uT5p6E77yJCiAgdmFyIGN0eCA9IHRoaW5rQ29udGV4dE1vZC5tYWtlVGhpbmtDb250ZXh0KHsKICAgIG1vZGU6ICd0aGluaycsCiAgICBxdWVyeTogcXVlcnksCiAgICBmYWN0czogZmFjdEV4dHJhY3Rvci50b0VwaGVtZXJhbEZhY3RzKGZhY3RzLnVzYWJsZSksCiAgICBrbm93bGVkZ2U6IChiYXNlLmNpdGF0aW9ucyB8fCBbXSkubWFwKGZ1bmN0aW9uIChjKSB7CiAgICAgIHJldHVybiB7IHRpdGxlOiAoYyAmJiBjLnRpdGxlKSB8fCAnJywgdGV4dDogKGMgJiYgYy5zdW1tYXJ5KSB8fCAnJyB9OwogICAgfSksCiAgfSk7CgogIGJhc2UuYW5zd2VyID0gYmFzZS5hbnN3ZXIgKyBhZGRpdGlvbjsKICB0aGlua01ldGEucmVhc29uaW5nQXBwbGllZCA9IHJlYXNvbmluZy5oYXNDb250ZW50KHJlYXNvbik7CiAgdGhpbmtNZXRhLmF1Z21lbnRlZCA9IHRydWU7CiAgdGhpbmtNZXRhLmNpdGF0aW9ucyA9IHVuaWZpZWQ7CiAgdGhpbmtNZXRhLmNpdGF0aW9uTWV0YSA9IGNpdGF0aW9uLnRvU2FmZU1ldGEodW5pZmllZCk7CiAgdGhpbmtNZXRhLmNvbnRleHQgPSB0aGlua0NvbnRleHRNb2QudG9TYWZlTWV0YShjdHgpOwogIGJhc2UudGhpbmsgPSB0aGlua01ldGE7CiAgaWYgKGJhc2UucmV0cmlldmFsKSBiYXNlLnJldHJpZXZhbC50aGluayA9IHRydWU7CiAgcmV0dXJuIGJhc2U7Cn0KCm1vZHVsZS5leHBvcnRzID0gewogIHJ1bjogcnVuLAogIC8vIOWvvOWHuuWGhemDqOS7tuS+m+emu+e6v+a1i+ivleS4juingua1i++8iOS4jeaUueWPmOi/kOihjOaXtuihjOS4uu+8iQogIHNlYXJjaEdhdGU6IHNlYXJjaEdhdGUsCiAgZ2F0aGVyRmFjdHM6IGdhdGhlckZhY3RzLAogIGNvbXBvc2VGYXN0QW5zd2VyOiBjb21wb3NlRmFzdEFuc3dlciwKICBhdWdtZW50YXRpb25Ta2lwUmVhc29uOiBhdWdtZW50YXRpb25Ta2lwUmVhc29uLAogIHBhc3Nlc0ZhYnJpY2F0aW9uR2F0ZTogcGFzc2VzRmFicmljYXRpb25HYXRlLAp9Owo=
+// ============================================================
+// think/thinkEngine.js
+//   Phase Q2-3：问思融合引擎 — 三模式真实行为分流编排器。
+//
+//   在派发链中的位置（严格保持既有优先级，不抢占任何上游）：
+//     Capability(时间/天气/计算/位置)  ← 最高，thinkEngine 之前
+//       → Freshness(热点 B/C/D 安全闸)  ← 次高，thinkEngine 之前
+//         → **thinkEngine（本模块）**
+//           → generateAnswer(RAG 冻结链路)  ← 永远的兜底
+//
+//   分流矩阵（docs/Phase-Q2-Mode-Spec.md §4 落地）：
+//     fast  🌐  = search        → 有可用事实则出「事实摘要+来源」；否则 return null 回退原链路
+//     deep  📚  = RAG           → 直接 return null，走原 generateAnswer（逐字节零改动）
+//     think 🌅  = search+RAG+reasoning → RAG 只读打底 + 事实层 + 思想层融合
+//
+//   授权条款对应的硬约束：
+//     · Search Context 只活在本次请求内存（ThinkContext），出参只带 toSafeMeta；
+//       绝不写 corpus / embedding / metadata / 任何知识库集合。
+//     · 复用 freshness 的 detectFabrication 反幻觉闸（不复制第二份正则）；
+//       闸不可用时**不增强**（fail-closed on augmentation）。
+//     · mock 永不服务真实用户：provider=mock 时搜索被拒，除非显式测试开关。
+//     · 旧 mode 字段（plain/deep/classic）原样透传给 RAG，语义不变。
+//     · 任何异常一律 fail-soft → 返回 null，调用方落回冻结链路。
+//
+//   Node 16.13 兼容（无可选链 / 无空值合并）。
+// ============================================================
+'use strict';
+
+var answerModeMod = require('../answerMode');
+var thinkContextMod = require('../thinkContext');
+var factExtractor = require('./factExtractor');
+var reasoning = require('./reasoning');
+var citation = require('./citation');
+// Q2-27：复用 freshness 事件分类判定「是否需联网」，供搜索 auto 路由选择 qwen/agnes。
+var eventClassifier = require('../freshness/eventClassifier');
+
+// ---------- 惰性依赖（避免在不需要时拉起重模块） ----------
+var _gateLoaded = false;
+var _gate = null;
+// 复用 freshness 的反幻觉硬闸（D-a）。刻意不复制正则：只能有一份真相。
+function getFabricationGate() {
+  if (_gateLoaded) return _gate;
+  _gateLoaded = true;
+  try {
+    var f = require('../freshness').detectFabrication;
+    _gate = (typeof f === 'function') ? f : null;
+  } catch (e) {
+    _gate = null;
+  }
+  return _gate;
+}
+
+var _searchFn = null;
+function getSearchFn(opts) {
+  if (opts && typeof opts.searchFn === 'function') return opts.searchFn;
+  if (_searchFn) return _searchFn;
+  try {
+    _searchFn = require('../providers/search').search;
+  } catch (e) {
+    _searchFn = null;
+  }
+  return _searchFn;
+}
+
+var _ragFn = null;
+function getRagFn(opts) {
+  if (opts && typeof opts.generateAnswer === 'function') return opts.generateAnswer;
+  if (_ragFn) return _ragFn;
+  try {
+    _ragFn = require('../rag').generateAnswer;
+  } catch (e) {
+    _ragFn = null;
+  }
+  return _ragFn;
+}
+
+// ---------- 开关 ----------
+function envTrue(name, dflt) {
+  var v = process.env[name];
+  if (v === undefined || v === null || v === '') return dflt;
+  return ('' + v).toLowerCase() === 'true';
+}
+
+// 思想层开关（默认开；关掉后 think 等价于 deep + 事实层）
+function reasoningEnabled(opts) {
+  if (opts && typeof opts.reasoningEnabled === 'boolean') return opts.reasoningEnabled;
+  return envTrue('THINK_REASONING_ENABLED', true);
+}
+
+// 测试专用：允许 mock 事实进入生成（生产恒 false）
+function allowMock(opts) {
+  if (opts && opts.allowMockFacts === true) return true;
+  return envTrue('THINK_ALLOW_MOCK_FACTS', false);
+}
+
+function resolveProvider(opts) {
+  var p = (opts && opts.searchProvider) ? opts.searchProvider : process.env.SEARCH_PROVIDER;
+  return (p || 'mock').toString().toLowerCase();
+}
+
+function resolveFactualEnabled(opts) {
+  if (opts && (opts.factualEnabled === true || opts.factualEnabled === false)) return opts.factualEnabled;
+  return envTrue('FRESHNESS_FACTUAL_ENABLED', false);
+}
+
+// ============================================================
+// 搜索准入闸（三重）
+//   ① 事实源总闸 FRESHNESS_FACTUAL_ENABLED 必须为 true
+//   ② provider 不能是 none
+//   ③ provider=mock 时必须显式开测试开关 —— mock 永不服务真实用户
+// ============================================================
+function searchGate(opts) {
+  var provider = resolveProvider(opts);
+  if (!resolveFactualEnabled(opts)) {
+    return { allowed: false, provider: provider, reason: 'factual_disabled' };
+  }
+  if (provider === 'none') {
+    return { allowed: false, provider: provider, reason: 'no_provider' };
+  }
+  if (provider === 'mock' && !allowMock(opts)) {
+    return { allowed: false, provider: provider, reason: 'mock_blocked' };
+  }
+  return { allowed: true, provider: provider, reason: '' };
+}
+
+// ============================================================
+// 取事实：search → extract → filter（全程 fail-soft）
+// ============================================================
+async function gatherFacts(query, opts, gate) {
+  var out = {
+    raw: [], facts: [], usable: [],
+    mockFiltered: 0, sourceCount: 0, confidence: 'none',
+    ok: false, reason: gate.reason || '',
+  };
+  if (!gate.allowed) return out;
+
+  var searchFn = getSearchFn(opts);
+  if (typeof searchFn !== 'function') {
+    out.reason = 'search_layer_unavailable';
+    return out;
+  }
+
+  var res;
+  try {
+    res = await searchFn(query, {
+      answerMode: opts && opts.answerMode,
+      openid: opts && opts.openid,
+      __canary: opts && opts.__canary, // 透传灰度注入（生产不使用，无行为变化）
+      sage: opts && opts.sage, socratic: opts && opts.socratic, // Phase X：先贤/苏格拉底人格透传
+      networkNeeded: opts && opts.networkNeeded, // Q2-27：透传联网需求，供 auto 路由选 qwen/agnes
+    });
+  } catch (e) {
+    out.reason = 'search_exception';
+    return out;
+  }
+  out.audit = (res && res.audit) ? res.audit : null; // 审计元数据上行（仅安全字段）
+  if (!res || res.ok !== true || !Array.isArray(res.results) || !res.results.length) {
+    out.reason = (res && res.reason) ? res.reason : 'no_results';
+    return out;
+  }
+
+  out.raw = res.results;
+  var mockOk = allowMock(opts);
+  var ex = factExtractor.extractFacts(res.results, { allowMock: mockOk });
+  out.facts = ex.facts;
+  out.sourceCount = ex.sourceCount;
+  out.usable = factExtractor.filterUsable(ex.facts, { allowMock: mockOk });
+  out.mockFiltered = ex.mockCount - (mockOk ? ex.mockCount : 0);
+  out.confidence = factExtractor.aggregateConfidence(out.usable);
+  out.ok = out.usable.length > 0;
+  if (!out.ok && !out.reason) out.reason = 'no_usable_fact';
+  return out;
+}
+
+// ============================================================
+// 反幻觉闸：只作用于「引擎自己生成、无来源背书」的文本。
+//   带 URL + source 归属的检索原文摘要不在此列（那是引用，不是编造），
+//   其可核实性由 factExtractor「无 URL 即丢弃」保证。
+//   闸不可用 → 视为不通过（宁可不增强，也不放行未经检查的生成文本）。
+// ============================================================
+function passesFabricationGate(text) {
+  var t = (text || '').toString();
+  if (!t.trim()) return true; // 空文本无需检查
+  var gate = getFabricationGate();
+  if (!gate) return false;    // fail-closed
+  return gate(t) !== true;
+}
+
+// ---------- fast：事实摘要（确定性模板，不调模型） ----------
+function composeFastAnswer(query, facts) {
+  var topic = reasoning.extractTopic(query);
+  var head = topic
+    ? '关于「' + topic + '」，我检索到这些公开信息：'
+    : '我检索到这些公开信息：';
+  var lines = [head, ''];
+  for (var i = 0; i < facts.length; i++) {
+    var f = facts[i];
+    var tail = [];
+    if (f.source) tail.push(f.source);
+    if (f.time) tail.push(f.time);
+    lines.push((i + 1) + '. ' + f.statement);
+    if (tail.length) lines.push('   —— ' + tail.join(' · '));
+  }
+  lines.push('');
+  lines.push('以上是来源原文摘要，我没有做二次解读。想聊它背后该怎么判断，切到「🌅 思考」。');
+  return lines.join('\n');
+}
+
+// ---------- think：是否适合追加思想层 ----------
+function augmentationSkipReason(base, opts) {
+  if (!base || !base.answer) return 'no_base_answer';
+  // 危机链路：绝不追加任何思辨附加物
+  if (base.intent && base.intent.crisis) return 'crisis';
+  // 意图层判定「无需知识库」（寒暄/闲聊/工具类）：追加思想层只会显得聒噪
+  if (base.retrieval && base.retrieval.skipped === true) return 'knowledge_skipped';
+  // 过短回答通常是错误/降级出口，不做增强
+  if (('' + base.answer).trim().length < 40) return 'short_answer';
+  if (!reasoningEnabled(opts)) return 'reasoning_disabled';
+  return '';
+}
+
+// ============================================================
+// run(message, opts) → Promise<result | null>
+//   返回 null  = 本引擎不接管，调用方继续走原 generateAnswer（零行为变化）
+//   返回 result = 已接管，形状与 chat result 兼容
+//
+//   opts: {
+//     answerMode, mode, models, modelCfgError, history, turn,
+//     factualEnabled, searchProvider,
+//     generateAnswer,   // 注入（index.js 传入 rag.generateAnswer；测试传 fake）
+//     searchFn,         // 注入（测试用）
+//     allowMockFacts, reasoningEnabled
+//   }
+// ============================================================
+async function run(message, opts) {
+  opts = opts || {};
+  var query = (message || '').toString().trim();
+  if (!query) return null;
+
+  var plan = answerModeMod.resolve(opts.answerMode, { query: query });
+  var gate = searchGate(opts);
+
+  // 公共元信息（旧 mode 字段留痕，证明兼容未破）
+  var baseMeta = {
+    engine: 'q2-3',
+    answerMode: plan.effectiveMode,
+    pipeline: plan.pipeline,
+    isDefaultMode: plan.isDefault,
+    legacyMode: (opts.mode || 'plain'),
+    searchAllowed: gate.allowed,
+    searchProvider: gate.provider,
+    searchReason: gate.reason,
+    _ephemeral: true,
+  };
+
+  // ---------------- deep 📚：纯 RAG ----------------
+  // 直接交回原链路，连一次多余的函数调用都不做 —— 逐字节零改动保证。
+  if (plan.effectiveMode === 'deep') return null;
+
+  // ---------------- fast 🌐：search（普通模式 = 通用助手）----------------
+  //   Phase Q2-25：普通模式应呈现「自然通用助手」人格，而非僵硬的事实列表。
+  //   优先采用搜索 Provider 的模型合成回答（agnesSearch 已按 fast 注入通用助手
+  //   system prompt）；仅当无合成文本、但有可核实结构化事实时，才回退到模板式
+  //   事实摘要。任一路径都过反幻觉闸（fail-closed：不通过则回退冻结 RAG）。
+  if (plan.effectiveMode === 'fast') {
+    var searchFn = getSearchFn(opts);
+    if (typeof searchFn !== 'function') return null;
+    var raw = null;
+    try {
+      raw = await searchFn(query, {
+        answerMode: 'fast',
+        openid: opts && opts.openid,
+        __canary: opts && opts.__canary,
+        sage: opts && opts.sage, socratic: opts && opts.socratic, // Phase X：先贤/苏格拉底人格透传
+        // Q2-27：fast 模式到达本引擎时 freshness 已 return null（非 B），按分类兜底判定联网需求；
+        //   B 类（极少见，如 freshness 关闭）走 qwen，其余走 agnes 省 qwen 额度。
+        networkNeeded: !!(eventClassifier.classifyCategory(query, null).category === 'B'),
+      });
+    } catch (e) {
+      raw = null;
+    }
+    if (!raw || raw.ok !== true || !Array.isArray(raw.results) || !raw.results.length) {
+      return null; // 无可用检索 → 回退原链路（冻结 RAG）
+    }
+
+    // 探测模型合成的自然回答（agnes 走 synth 路径时 synthesized=true, content=回答正文）
+    var synthItem = null;
+    for (var ri = 0; ri < raw.results.length; ri++) {
+      if (raw.results[ri] && raw.results[ri].synthesized && raw.results[ri].content) {
+        synthItem = raw.results[ri];
+        break;
+      }
+    }
+
+    var fastFacts = factExtractor.filterUsable(
+      factExtractor.extractFacts(raw.results, { allowMock: allowMock(opts) }).facts,
+      { allowMock: allowMock(opts) }
+    );
+
+    var fastText;
+    if (synthItem) {
+      fastText = synthItem.content; // 通用助手直接回答
+    } else {
+      if (!fastFacts.length) return null; // 无合成且无可用事实 → 回退原链路
+      fastText = composeFastAnswer(query, fastFacts);
+    }
+
+    // 反幻觉闸：合成文本与模板框架句都要过（闸不可用/不通过 → fail-closed 回退 RAG）
+    if (!passesFabricationGate(fastText)) return null;
+    if (!synthItem && !passesFabricationGate(composeFastAnswer(query, []))) return null;
+
+    var fastCites = citation.buildUnified({
+      facts: fastFacts, ragCitations: [], allowMock: allowMock(opts),
+    });
+    var fastCtx = thinkContextMod.makeThinkContext({
+      mode: 'fast', query: query,
+      facts: factExtractor.toEphemeralFacts(fastFacts), knowledge: [],
+    });
+
+    return {
+      mode: 'think-fast',
+      answer: fastText,
+      citations: [], // 未走 RAG，经典引用为空（保持既有下游语义）
+      route: { dimensions: [], books: [], core: '' },
+      retrieval: { queryTerms: [], totalDocuments: 0, minScore: 0, search: true, think: true },
+      think: Object.assign({}, baseMeta, {
+        factCount: raw.results.length,
+        usableFactCount: fastFacts.length,
+        mockFiltered: 0,
+        factConfidence: factExtractor.aggregateConfidence(fastFacts),
+        reasoningApplied: false,
+        augmented: true,
+        skipReason: '',
+        synthesized: !!synthItem,
+        citations: fastCites,
+        citationMeta: citation.toSafeMeta(fastCites),
+        searchAudit: raw.audit || null,
+        context: thinkContextMod.toSafeMeta(fastCtx),
+      }),
+      _modelUsed: synthItem ? (raw.provider || 'agnes') : '',
+      _modelStatus: 'search',
+      _modelError: '',
+    };
+  }
+
+  // ---------------- think 🌅：search + RAG + reasoning ----------------
+  var ragFn = getRagFn(opts);
+  if (typeof ragFn !== 'function') return null; // 拿不到 RAG → 交回原链路
+
+  // ① 知识层 + ② 事实层 并发执行：两者互相独立（RAG 只读语料，事实层只调 qwen 搜索），
+  //   串行会叠加耗时（实测 think ~30s），并发后 ≈ max(RAG, qwen) 量级，显著提速。
+  var baseP = ragFn(query, {
+    turn: opts.turn,
+    models: opts.models || [],
+    modelCfgError: opts.modelCfgError,
+    mode: opts.mode || 'plain',
+    history: opts.history || [],
+  });
+  // Q2-27：think 模式事实增强保真实数据质量 → networkNeeded=true（auto 路由选 qwen），
+  //   agnes 无联网会产出伪造事实，故事实层恒用 qwen。
+  var factsP = gatherFacts(query, Object.assign({}, opts, { networkNeeded: true }), gate);
+
+  var base = await baseP;
+  if (!base || !base.answer) {
+    try { await factsP; } catch (e) {} // 消费 pending promise，避免 unhandled rejection
+    return base || null;
+  }
+  var facts = await factsP;
+
+  // ③ 思想层：判断是否适合增强
+  var skip = augmentationSkipReason(base, opts);
+  var thinkMeta = Object.assign({}, baseMeta, {
+    factCount: facts.facts.length,
+    usableFactCount: facts.usable.length,
+    mockFiltered: facts.mockFiltered,
+    factConfidence: facts.confidence,
+    reasoningApplied: false,
+    augmented: false,
+    skipReason: skip,
+    searchAudit: facts.audit,
+  });
+
+  if (skip) {
+    base.think = thinkMeta;
+    return base;
+  }
+
+  var reason = reasoning.buildReasoning({
+    query: query,
+    facts: facts.usable,
+    knowledge: base.citations || [],
+    baseAnswer: base.answer,
+  });
+  // 2026-09-21 CR-删除答案段落（产品决定）：不再在答案末尾追加「🌅 再想一层」推理块。
+  //   理由：该块与 general 格式的【延伸思考】功能重复（两者都是「留一个开放问题」），保留其一即可。
+  //   回滚：将 APPEND_REASONING_BLOCK 置 true 即完整恢复原行为（renderReasoning 未做任何改动；
+  //         buildReasoning 为纯模板派生、不调模型，故保留以支持一行回滚）。
+  //   ⚠️ 置空安全性已核：passesFabricationGate 对空文本恒返回 true
+  //      （见本文件 `if (!t.trim()) return true;`），因此不会触发 fabrication_gate_rejected，
+  //      factBlock（事实引用块）仍会正常追加输出 —— 本条是本改动唯一需要留意耦合的地方。
+  var APPEND_REASONING_BLOCK = false;
+  var reasonBlock = APPEND_REASONING_BLOCK ? reasoning.renderReasoning(reason, {}) : '';
+
+  var unified = citation.buildUnified({
+    facts: facts.usable,
+    ragCitations: base.citations || [],
+    allowMock: allowMock(opts),
+  });
+  var factBlock = citation.renderFactCitations(unified, {});
+
+  var addition = '' + reasonBlock + factBlock;
+  if (!addition.trim()) {
+    // 没有任何可追加内容 → 原样返回 RAG 结果（与 deep 完全一致）
+    thinkMeta.skipReason = 'no_material';
+    base.think = thinkMeta;
+    return base;
+  }
+
+  // ④ 反幻觉闸：只检查引擎新增文本（思想层为模板派生，理论上恒过；
+  //    但闸必须真跑，且闸不可用时拒绝增强）
+  if (!passesFabricationGate(reasonBlock)) {
+    thinkMeta.skipReason = 'fabrication_gate_rejected';
+    thinkMeta.guardViolations = ['fabrication-detected'];
+    base.think = thinkMeta;
+    return base; // 降级为纯 RAG 回答，绝不交付可疑增强
+  }
+
+  // ⑤ 融合（ThinkContext 仅用于观测脱敏元信息，正文不落任何 ephemeral 结构）
+  var ctx = thinkContextMod.makeThinkContext({
+    mode: 'think',
+    query: query,
+    facts: factExtractor.toEphemeralFacts(facts.usable),
+    knowledge: (base.citations || []).map(function (c) {
+      return { title: (c && c.title) || '', text: (c && c.summary) || '' };
+    }),
+  });
+
+  base.answer = base.answer + addition;
+  thinkMeta.reasoningApplied = reasoning.hasContent(reason);
+  thinkMeta.augmented = true;
+  thinkMeta.citations = unified;
+  thinkMeta.citationMeta = citation.toSafeMeta(unified);
+  thinkMeta.context = thinkContextMod.toSafeMeta(ctx);
+  base.think = thinkMeta;
+  if (base.retrieval) base.retrieval.think = true;
+  return base;
+}
+
+module.exports = {
+  run: run,
+  // 导出内部件供离线测试与观测（不改变运行时行为）
+  searchGate: searchGate,
+  gatherFacts: gatherFacts,
+  composeFastAnswer: composeFastAnswer,
+  augmentationSkipReason: augmentationSkipReason,
+  passesFabricationGate: passesFabricationGate,
+};

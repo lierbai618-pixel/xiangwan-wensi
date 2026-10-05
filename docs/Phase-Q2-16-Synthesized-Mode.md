@@ -1,1 +1,46 @@
-IyBQaGFzZSBRMi0xNiDigJQg55m+54K85ZCI5oiQ5bqV5bqn5qih5byP77yI6IGU572R5pCc57Si5Y+v55So5YyW77yJCgojIyDog4zmma8K55So5oi356Gu6K6kIGBkZWVwc2Vlay12NC1mbGFzaC0wNzMxYCDmmK/pmL/ph4zkupHnmb7ngrzmqKHlnovjgILnu4/lrp7mtYvnoa7orqTvvJoqKueZvueCvCBPcGVuQUkg5YW85a655qih5byP77yIYC9jb21wYXRpYmxlLW1vZGUvdjFg77yJ5byA5ZCvIGBlbmFibGVfc2VhcmNoYCDlkI7vvIzlj6rov5Tlm57mqKHlnovnu7zlkIjmloflrZfvvIhgY2hvaWNlc1swXS5tZXNzYWdlLmNvbnRlbnRg77yJ77yM5LiN6L+U5Zue57uT5p6E5YyWIGBzZWFyY2hfcmVzdWx0c2Ag5pWw57uEKirjgIIKCi0g5LiT5bGeIFVSTCBgd3Mta2t1cGRzcGR5aDlqeHU3Li4ubWFhcy5hbGl5dW5jcy5jb21gIOaYr+eZvueCvOOAjOW3peS9nOepuumXtOerr+eCueOAje+8jOmcgOW3peS9nOepuumXtOS4k+WxnuWvhumSpe+8m+mAmueUqCBEYXNoU2NvcGUga2V5IOi/lOWbniBgNDAzIFdvcmtzcGFjZSBlbmRwb2ludCBhY2Nlc3MgZGVuaWVkYOOAggotIOmAmueUqCBEYXNoU2NvcGUg56uv54K5IGBkYXNoc2NvcGUuYWxpeXVuY3MuY29tL2NvbXBhdGlibGUtbW9kZS92MWAg55So6YCa55SoIGtleSDlj6/osIPpgJrvvIxIVFRQIDIwMO+8jOS9huWQjOagtyoq5pegIGBzZWFyY2hfcmVzdWx0c2AqKu+8jOS7hSBgY29udGVudGDjgIIKLSDlrp7mtYsgYGRlZXBzZWVrLXY0LWZsYXNoLTA3MzFgIOe7vOWQiOi0qOmHj+aYjuaYvuS8mOS6jiBgcXdlbi1wbHVzYO+8iOWJjeiAheaKiuS7mOiIquOAjOWkp+S4k+WtpuWOhuOAjeetlOWvueS6hu+8jOWQjuiAhee8lumAoOOAjOWMl+iIquacrOenkSvkuK3np5HpmaLnoZXlo6vjgI3vvInjgIIKCuWboOatpOWOnyBgcXdlblNlYXJjaC5qc2DvvIjlj6rlj5YgYHNlYXJjaF9yZXN1bHRzYCDmlbDnu4TvvInmsLjov5zliKTlrpogYG5vX3Jlc3VsdHNgIOKGkiDotbDpmY3nuqfmqKHmnb8g4oaSIOeUqOaIt+eci+WIsCLmiJHmsqHmnInlj6/pnaDkv6Hmga/mnaXmupAi44CCCgojIyDmlrnmoYjvvIjnlKjmiLfmjojmnYPvvJrlhYjnlKjnmb7ngrzlkIjmiJDmqKHlvI/vvIkK5b2T55m+54K85Y+q6L+U5Zue57u85ZCI5paH5a2X44CB5peg57uT5p6E5YyW5pWw57uE5pe277yMKirpgIDljJbkuLrjgIzmqKHlnovlkIjmiJDkuovlrp7lupXluqfvvIhVTlZFUklGSUVE77yJ44CNKirvvJrmioogYG1lc3NhZ2UuY29udGVudGAg5L2c5Li66IGU572R57u85ZCI5paH5pys5rWB5YWlIGZyZXNobmVzcyDpk77ot6/vvIzlj5flj43lubvop4nkuI7lhY3otKPlo7DmmI7nuqbmnZ/vvIwqKue7neS4jeebtOaOpeW9k+acgOe7iOetlOahiOS4i+WPkSoq44CCCgojIyDmlLnliqjvvIjlhrvnu5PotYTkuqfpm7bmlLnliqjvvIkKMS4gYHByb3ZpZGVycy9zZWFyY2gvcXdlblNlYXJjaC5qc2AKICAgLSDmlrDlop4gYHBpY2tTeW50aGVzaXplZENvbnRlbnQoZGF0YSlg77ya5Y+WIGBjaG9pY2VzWzBdLm1lc3NhZ2UuY29udGVudGDvvIzov4fmu6TmmI7mmL7mi5LnrZTjgIIKICAgLSBgc2VhcmNoKClgIOS4u+a1geeoi++8mue7k+aehOWMluaVsOe7hOS8mOWFiO+8m+aXoOaVsOe7hOS4lCBgUVdFTl9TRUFSQ0hfU1lOVEhfTU9ERSE9ZmFsc2VgIOaXtu+8jOWPliBjb250ZW50IOe7hOijhSBge3N5bnRoZXNpemVkOnRydWV9YCDnu5PmnpzvvIxgcmVhc29uPSdzeW50aF9jb250ZW50J2DjgIIKMi4gYGZyZXNobmVzcy9mYWN0RXh0cmFjdG9yLmpzYAogICAtIOivhuWIqyBgci5zeW50aGVzaXplZGAvYHNvdXJjZT09PSdiYWlsaWFuLXN5bnRoZXNpemVkJ2DvvIzmlL7lrr3jgIzlv4XpobvluKYgVVJM44CN56Gs6KeE5YiZ77yM5LuOIGBjb250ZW50YCDmir3lj5bkuovlrp7lj6XvvIznva7kv6HmgZLkuLogTE9X77yM6L6T5Ye6IGBoYXNTeW50aGVzaXplZGDjgIIKMy4gYGZyZXNobmVzcy9jb250ZXh0QnVpbGRlci5qc2AKICAgLSDlsIrph40gc2NoZW1hIOmTgeW+i+OAjFVOVkVSSUZJRUQg56aB5q2iIGZhY3Rfc3VtbWFyeeOAje+8muWQiOaIkOWGheWuuSoq5LiN6L+bIGZhY3Rfc3VtbWFyeSoq77yM5pS55Li65ZyoIGBldmVudENvbnRleHRgIOS4iuaMgiBgc3ludGhlc2l6ZWRfdGV4dGAg5a2X5q615Y2V54us5om/6L2977yM5bm25qCH6K6wIGBzeW50aGVzaXplZD10cnVlYOOAggo0LiBgZnJlc2huZXNzL3Jlc3BvbmRlci5qc2AKICAgLSDmiqTmoI/mlrDlop7jgIzogZTnvZHnu7zlkIjlhoXlrrnjgI3or7TmmI7vvIjpobvmoIfms6jkuI3noa7lrprmgKfjgIHkuI3lvpfmiornu4boioLlvZPnoa7lrprkuovlrp7vvInjgIIKICAgLSBgYnVpbGRGcmVzaG5lc3NVc2VyQ29udGVudGDvvJrlkIjmiJDmlofmnKzku6XjgIzmqKHlnovogZTnvZHnu7zlkIjvvIjmnKrnu4/ni6znq4vmoLjlrp7vvIzku4Xkvpvlj4LogIPvvInjgI3lnZflkYjnjrDjgIIKICAgLSBgZ3VhcmRPdXRwdXRg77ya5ZCI5oiQ5bqV5bqnKirkuI3op6blj5EgYmlvZ3JhcGh5LSog56Gs5ouSKirvvIjpgb/lhY3mraPnoa7nu7zlkIjlhoXlrrnooqvor6/kvKTvvInvvIzkvYbopoHmsYLlm57nrZTlkKvjgIzogZTnvZHnu7zlkIjlhY3otKPjgI3lo7DmmI7vvIhgbWlzc2luZy1zeW50aC1kaXNjbGFpbWVyYO+8ie+8jOWQpuWImeaLpuaIquWbnumAgOmZjee6p+OAggo1LiBgaW5kZXguanNgCiAgIC0g5pCc57Si5qih5Z6L5LyY6YCJIGBtb2RlbF9jb25maWdgIOS4reWQjeensOWQqyBgZGVlcHNlZWtgIOeahOaooeWei++8m+aJvuS4jeWIsOWbnumAgCBgbW9kZWxzWzBdYOOAguWvueivneaooeWei+S7jeeUsSBgb3JkZXJgIOacgOWwj+WGs+Wumu+8iHF3ZW4tcGx1c++8ie+8jOS6kuS4jeW9seWTjeOAggo2LiBgY2xvdWRiYXNlcmMuanNvbmAKICAgLSDmlrDlop4gYFFXRU5fU0VBUkNIX0JBU0VfVVJMYCAvIGBRV0VOX1NFQVJDSF9BUElfS0VZYCAvIGBRV0VOX1NFQVJDSF9NT0RFTD1kZWVwc2Vlay12NC1mbGFzaC0wNzMxYCAvIGBRV0VOX1NFQVJDSF9TWU5USF9NT0RFPXRydWVg77yM5by65Yi25pCc57Si6LWw55m+54K86YCa55So56uv54K5ICsgZGVlcHNlZWvvvIznq4vljbPnlJ/mlYjvvIjml6DpnIDmlLkgbW9kZWxfY29uZmln77yJ44CCCgojIyDpqozor4EKLSDmlrDlop4gYHRlc3RfcTM0LmpzYO+8mjI2IOaWreiogOWFqOe7v++8iHF3ZW5TZWFyY2gg5ZCI5oiQ5Zue6YCAIC8gZmFjdEV4dHJhY3RvciAvIGNvbnRleHRCdWlsZGVyIHN5bnRoZXNpemVkX3RleHQgLyByZXNwb25kZXIg5oqk5qCPK+WFjei0o+WjsOaYjumXqOanm++8ieOAggotIOS/ruatoyBgdGVzdF9xMzEuanNgIOWNleWFg8K3NiDku6Xlj43mmKAgUTItMTYg5paw6KGM5Li677yI57uT5p6E5YyW56m6K+acieaWh+Wtl+KGknN5bnRoX2NvbnRlbnTvvJvmloflrZfkuZ/nqbrihpJub19yZXN1bHRz77yJ44CCCi0g5Zue5b2S77yaKipxMjk9MjI1IC8gcTMwPTEwNCAvIHEzMT0xMzUgLyBxMzI9MjkgLyBxMzM9MzYgLyBxMzQ9MjYgPSA1NTUg5pat6KiA77yMMCDlpLHotKUqKuOAggotIOWbm+WGu+e7k+i1hOS6pyBTSEEgNC80IOS4jeWPmO+8iGNvcnB1cyBgZGIwMWZiYzlgIC8gaW50ZW50IGA3NjVhZDEzOGAgLyBrbm93bGVkZ2VSb3V0ZXIgYDg0ODkwODQ0NWAgLyByYWcgYDRmYjJkY2E0YO+8ieOAggotIGB0Y2IgZm4gZGVwbG95IGNoYXQgLS1mb3JjZWAg5oiQ5Yqf77ybYHRjYiBmbiBkZXRhaWxgIOehruiupCAxNiDpobnnjq/looPlj5jph4/lhajpg6jnlJ/mlYjvvIjlkKsgZGVlcHNlZWsg6YWN572u77yJ44CCCgojIyDnlKjmiLfpqozmlLYK55So6Ieq5bex5b6u5L+h5Y+377yI5bey5ZyoIGNhbmFyeSDnmb3lkI3ljZXvvInpl67lrp7ml7Yv5Lq654mp57G76Zeu6aKY77yM5aaC44CM5LuY6Iiq5piv6LCB44CN44CM5LuK5aSp5pyJ5LuA5LmI56eR5oqA5paw6Ze744CN44CCCi0g6aKE5pyf77ya6L+U5Zue5bim5p2l5rqQ5qCH5rOo44CM5pyq57uP54us56uL5qC45a6e44CN55qE6IGU572R57u85ZCI5YaF5a6577yIZGVlcHNlZWsg5bey5a6e5rWL562U5a+55aSn5LiT5a2m5Y6G77yJ44CCCi0g5LuN55yL5LiN5Yiw6IGU572R77ya4pGgIOmdniBhZG1pbiDotKblj7fvvJvikaEg55m+54K8IGtleSDlpLHmlYgv6aKd5bqm6ICX5bC977yIYHN5bnRoX2NvbnRlbnRgIOi9rCBgbm9fcmVzdWx0c2Ag5YaN6ZmN57qn77yJ77yb4pGiIOe9kee7nOi2heaXtu+8iGBTRUFSQ0hfVElNRU9VVF9NUz0zMDAwYO+8jOWPr+iwg+Wkp++8ieOAggoKIyMg5bey55+l6L6555WM77yI6K+a5a6e6K+05piO77yJCi0g55m+54K85ZCI5oiQ5qih5byPKirml6Dni6znq4vmnaXmupAgVVJMKirjgIHkuovlrp7nva7kv6HpmY3nuqfkuLogVU5WRVJJRklFRO+8jOWtmOWcqOaooeWei+e7vOWQiOivr+W3rumjjumZqe+8iOWPjeW5u+iniSvlhY3otKPlo7DmmI7lt7LlhZzlupXvvIzkvYbpnZ7pm7bpo47pmanvvInjgIIKLSDoi6XopoHjgIzluKbmnaXmupDpk77mjqXjgIHpm7blubvop4njgI3nmoTkuKXosKjogZTnvZHvvIzku43lu7rorq7liIfmjaLnnJ/Ct+aQnOe0oiBBUEnvvIjohb7orq/kupEgV1NB77yMUTItMTIg6YCC6YWN5Zmo5bey5bCx57uqIC8gQm9jaGHvvInigJTigJTlsYrml7bmlLkgYFNFQVJDSF9QUk9WSURFUmAg5LiO5a+55bqUIGVudiDljbPlj6/vvIzmnKzlkIjmiJDmqKHlvI/lj6/kuIDplK7lm57pgIDvvIhgUVdFTl9TRUFSQ0hfU1lOVEhfTU9ERT1mYWxzZWAg5oiW55u05o6lIGBTRUFSQ0hfUFJPVklERVI9bW9ja2DvvInjgIIK
+﻿# Phase Q2-16 — 百炼合成底座模式（联网搜索可用化）
+
+## 背景
+用户确认 `deepseek-v4-flash-0731` 是阿里云百炼模型。经实测确认：**百炼 OpenAI 兼容模式（`/compatible-mode/v1`）开启 `enable_search` 后，只返回模型综合文字（`choices[0].message.content`），不返回结构化 `search_results` 数组**。
+
+- 专属 URL `ws-kkupdspdyh9jxu7...maas.aliyuncs.com` 是百炼「工作空间端点」，需工作空间专属密钥；通用 DashScope key 返回 `403 Workspace endpoint access denied`。
+- 通用 DashScope 端点 `dashscope.aliyuncs.com/compatible-mode/v1` 用通用 key 可调通，HTTP 200，但同样**无 `search_results`**，仅 `content`。
+- 实测 `deepseek-v4-flash-0731` 综合质量明显优于 `qwen-plus`（前者把付航「大专学历」答对了，后者编造「北航本科+中科院硕士」）。
+
+因此原 `qwenSearch.js`（只取 `search_results` 数组）永远判定 `no_results` → 走降级模板 → 用户看到"我没有可靠信息来源"。
+
+## 方案（用户授权：先用百炼合成模式）
+当百炼只返回综合文字、无结构化数组时，**退化为「模型合成事实底座（UNVERIFIED）」**：把 `message.content` 作为联网综合文本流入 freshness 链路，受反幻觉与免责声明约束，**绝不直接当最终答案下发**。
+
+## 改动（冻结资产零改动）
+1. `providers/search/qwenSearch.js`
+   - 新增 `pickSynthesizedContent(data)`：取 `choices[0].message.content`，过滤明显拒答。
+   - `search()` 主流程：结构化数组优先；无数组且 `QWEN_SEARCH_SYNTH_MODE!=false` 时，取 content 组装 `{synthesized:true}` 结果，`reason='synth_content'`。
+2. `freshness/factExtractor.js`
+   - 识别 `r.synthesized`/`source==='bailian-synthesized'`，放宽「必须带 URL」硬规则，从 `content` 抽取事实句，置信恒为 LOW，输出 `hasSynthesized`。
+3. `freshness/contextBuilder.js`
+   - 尊重 schema 铁律「UNVERIFIED 禁止 fact_summary」：合成内容**不进 fact_summary**，改为在 `eventContext` 上挂 `synthesized_text` 字段单独承载，并标记 `synthesized=true`。
+4. `freshness/responder.js`
+   - 护栏新增「联网综合内容」说明（须标注不确定性、不得把细节当确定事实）。
+   - `buildFreshnessUserContent`：合成文本以「模型联网综合（未经独立核实，仅供参考）」块呈现。
+   - `guardOutput`：合成底座**不触发 biography-* 硬拒**（避免正确综合内容被误伤），但要求回答含「联网综合免责」声明（`missing-synth-disclaimer`），否则拦截回退降级。
+5. `index.js`
+   - 搜索模型优选 `model_config` 中名称含 `deepseek` 的模型；找不到回退 `models[0]`。对话模型仍由 `order` 最小决定（qwen-plus），互不影响。
+6. `cloudbaserc.json`
+   - 新增 `QWEN_SEARCH_BASE_URL` / `QWEN_SEARCH_API_KEY` / `QWEN_SEARCH_MODEL=deepseek-v4-flash-0731` / `QWEN_SEARCH_SYNTH_MODE=true`，强制搜索走百炼通用端点 + deepseek，立即生效（无需改 model_config）。
+
+## 验证
+- 新增 `test_q34.js`：26 断言全绿（qwenSearch 合成回退 / factExtractor / contextBuilder synthesized_text / responder 护栏+免责声明门槛）。
+- 修正 `test_q31.js` 单元·6 以反映 Q2-16 新行为（结构化空+有文字→synth_content；文字也空→no_results）。
+- 回归：**q29=225 / q30=104 / q31=135 / q32=29 / q33=36 / q34=26 = 555 断言，0 失败**。
+- 四冻结资产 SHA 4/4 不变（corpus `db01fbc9` / intent `765ad138` / knowledgeRouter `848908445` / rag `4fb2dca4`）。
+- `tcb fn deploy chat --force` 成功；`tcb fn detail` 确认 16 项环境变量全部生效（含 deepseek 配置）。
+
+## 用户验收
+用自己微信号（已在 canary 白名单）问实时/人物类问题，如「付航是谁」「今天有什么科技新闻」。
+- 预期：返回带来源标注「未经独立核实」的联网综合内容（deepseek 已实测答对大专学历）。
+- 仍看不到联网：① 非 admin 账号；② 百炼 key 失效/额度耗尽（`synth_content` 转 `no_results` 再降级）；③ 网络超时（`SEARCH_TIMEOUT_MS=3000`，可调大）。
+
+## 已知边界（诚实说明）
+- 百炼合成模式**无独立来源 URL**、事实置信降级为 UNVERIFIED，存在模型综合误差风险（反幻觉+免责声明已兜底，但非零风险）。
+- 若要「带来源链接、零幻觉」的严谨联网，仍建议切换真·搜索 API（腾讯云 WSA，Q2-12 适配器已就绪 / Bocha）——届时改 `SEARCH_PROVIDER` 与对应 env 即可，本合成模式可一键回退（`QWEN_SEARCH_SYNTH_MODE=false` 或直接 `SEARCH_PROVIDER=mock`）。

@@ -1,1 +1,50 @@
-cGFnZSB7IGJhY2tncm91bmQ6ICNlZmU0Y2Y7IH0KCi5wYWdlIHsKICBtaW4taGVpZ2h0OiAxMDB2aDsKICBwYWRkaW5nOiAzMnJweCAyOHJweCBjYWxjKDQwcnB4ICsgZW52KHNhZmUtYXJlYS1pbnNldC1ib3R0b20pKTsKICBib3gtc2l6aW5nOiBib3JkZXItYm94OwogIGJhY2tncm91bmQ6ICNlZmU0Y2Y7CiAgY29sb3I6ICMyZDI2MWM7Cn0KCi5oZWFkIHsgbWFyZ2luLWJvdHRvbTogMjRycHg7IH0KLmhlYWQtdGl0bGUgeyBkaXNwbGF5OiBibG9jazsgZm9udC1zaXplOiA0MHJweDsgZm9udC13ZWlnaHQ6IDgwMDsgY29sb3I6ICMyZDI2MWM7IH0KLmhlYWQtc3ViIHsgZGlzcGxheTogYmxvY2s7IGZvbnQtc2l6ZTogMjRycHg7IGNvbG9yOiAjN2E2ZDU4OyBtYXJnaW4tdG9wOiA4cnB4OyB9CgoubGlzdCB7IGRpc3BsYXk6IGZsZXg7IGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47IGdhcDogMTZycHg7IH0KCi5ib29rIHsKICBiYWNrZ3JvdW5kOiAjZmZmYWYwOwogIGJvcmRlcjogMXJweCBzb2xpZCByZ2JhKDExNSwgODMsIDQ5LCAwLjE2KTsKICBib3JkZXItcmFkaXVzOiAxMnJweDsKICBwYWRkaW5nOiAyNHJweCAyNnJweDsKICBib3gtc2hhZG93OiAwIDhycHggMThycHggcmdiYSg3NiwgNTMsIDMzLCAwLjA2KTsKfQouYm9vay5vcGVuIHsgYm9yZGVyLWNvbG9yOiAjYjk5MDUyOyB9CgouYm9vay1yb3cgeyBkaXNwbGF5OiBmbGV4OyBhbGlnbi1pdGVtczogY2VudGVyOyBqdXN0aWZ5LWNvbnRlbnQ6IHNwYWNlLWJldHdlZW47IH0KLmJvb2stbWFpbiB7IGRpc3BsYXk6IGZsZXg7IGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47IG1pbi13aWR0aDogMDsgfQouYm9vay10aXRsZSB7IGZvbnQtc2l6ZTogMzFycHg7IGZvbnQtd2VpZ2h0OiA3MDA7IGNvbG9yOiAjMmQyNjFjOyB9Ci5ib29rLWF1dGhvciB7IGZvbnQtc2l6ZTogMjNycHg7IGNvbG9yOiAjOGI3YzY0OyBtYXJnaW4tdG9wOiA2cnB4OyB9Ci5ib29rLWFycm93IHsgZmxleC1zaHJpbms6IDA7IGZvbnQtc2l6ZTogMjRycHg7IGNvbG9yOiAjOWIyZjI1OyBtYXJnaW4tbGVmdDogMTZycHg7IH0KCi5ib29rLWRldGFpbCB7IG1hcmdpbi10b3A6IDE4cnB4OyBwYWRkaW5nLXRvcDogMThycHg7IGJvcmRlci10b3A6IDFycHggc29saWQgcmdiYSgxMjYsIDkzLCA1MiwgMC4xNik7IH0KLmJvb2staW50cm8geyBmb250LXNpemU6IDI2cnB4OyBsaW5lLWhlaWdodDogMS43OyBjb2xvcjogIzRhNDAzMTsgfQouYm9vay1zYW1wbGUgewogIG1hcmdpbi10b3A6IDE0cnB4OwogIGZvbnQtc2l6ZTogMjZycHg7CiAgbGluZS1oZWlnaHQ6IDEuNzsKICBjb2xvcjogIzhhMzIyYTsKICBiYWNrZ3JvdW5kOiAjZjVlY2Q4OwogIGJvcmRlci1sZWZ0OiA1cnB4IHNvbGlkICNiOTkwNTI7CiAgcGFkZGluZzogMTRycHggMThycHg7CiAgYm9yZGVyLXJhZGl1czogNnJweDsKfQoKLmZvb3QgewogIG1hcmdpbi10b3A6IDQwcnB4OwogIHRleHQtYWxpZ246IGNlbnRlcjsKICBmb250LXNpemU6IDIzcnB4OwogIGNvbG9yOiAjOGI3YzY0Owp9Cg==
+page { background: #efe4cf; }
+
+.page {
+  min-height: 100vh;
+  padding: 32rpx 28rpx calc(40rpx + env(safe-area-inset-bottom));
+  box-sizing: border-box;
+  background: #efe4cf;
+  color: #2d261c;
+}
+
+.head { margin-bottom: 24rpx; }
+.head-title { display: block; font-size: 40rpx; font-weight: 800; color: #2d261c; }
+.head-sub { display: block; font-size: 24rpx; color: #7a6d58; margin-top: 8rpx; }
+
+.list { display: flex; flex-direction: column; gap: 16rpx; }
+
+.book {
+  background: #fffaf0;
+  border: 1rpx solid rgba(115, 83, 49, 0.16);
+  border-radius: 12rpx;
+  padding: 24rpx 26rpx;
+  box-shadow: 0 8rpx 18rpx rgba(76, 53, 33, 0.06);
+}
+.book.open { border-color: #b99052; }
+
+.book-row { display: flex; align-items: center; justify-content: space-between; }
+.book-main { display: flex; flex-direction: column; min-width: 0; }
+.book-title { font-size: 31rpx; font-weight: 700; color: #2d261c; }
+.book-author { font-size: 23rpx; color: #8b7c64; margin-top: 6rpx; }
+.book-arrow { flex-shrink: 0; font-size: 24rpx; color: #9b2f25; margin-left: 16rpx; }
+
+.book-detail { margin-top: 18rpx; padding-top: 18rpx; border-top: 1rpx solid rgba(126, 93, 52, 0.16); }
+.book-intro { font-size: 26rpx; line-height: 1.7; color: #4a4031; }
+.book-sample {
+  margin-top: 14rpx;
+  font-size: 26rpx;
+  line-height: 1.7;
+  color: #8a322a;
+  background: #f5ecd8;
+  border-left: 5rpx solid #b99052;
+  padding: 14rpx 18rpx;
+  border-radius: 6rpx;
+}
+
+.foot {
+  margin-top: 40rpx;
+  text-align: center;
+  font-size: 23rpx;
+  color: #8b7c64;
+}

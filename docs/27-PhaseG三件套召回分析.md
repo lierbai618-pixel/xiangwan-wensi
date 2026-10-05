@@ -1,1 +1,112 @@
-IyBQaGFzZSBHIOS4ieS7tuWll+WPrOWbnuWIhuaekO+8iOS4uuS7gOS5iOOAiuiuuuivreOAi+OAiumBk+W+t+e7j+OAi+OAiuayieaAneW9leOAi+aAu+aYr+S8mOWFiO+8iQoKPiDnm67nmoTvvJrlhYjlrprkvY3ljp/lm6DvvIzlho3lhrPlrprmlLnms5XjgILljp/liJkgPSAqKuaKrOWNh+mVv+Wwvu+8jOS4jeeugOWNleWOi+S9juS4ieS7tuWll+adg+mHjSoq77yI55So5oi35oyH5Luk77yJ44CCCj4g5YiG5p6Q5a+56LGh77yaYGNsb3VkZnVuY3Rpb25zL2NoYXQvcmFnLmpzYCDnmoQgYGxlZ2FjeVJldHJpZXZlYCArIGBmcmFtZVRpdGxlc2AgKyBgY29ycHVzLmpzb25g44CCCj4g57uT6K665pGY6KaB77ya5Li75Zug5pivICoqYGZyYW1lVGl0bGVzYCDnmoQgKzEwMCDluKflgY/nva7liIbphY3kuI3lnYcqKiDkuI4gKip0YWcv5ZCR6YePKFRGKeWvuemAmueUqOivjeeahOWBj+WQkSoq77ybYHF1ZXN0aW9uX2JyaWRnZWAg5a2X5q615Zyo5Luj56CB5LitKirlvZPliY3lubbmnKrooqvor7vlj5YqKu+8iOivpuingSDCpzTvvInjgIIKCi0tLQoKIyMgMC4g5qOA57Si5omT5YiG5YWs5byP77yI5LqL5a6e5Z+657q/77yJCgpgbGVnYWN5UmV0cmlldmVgIOWvueavj+evh+aWh+aho+eahOW+l+WIhu+8mgoKYGBgCnNjb3JlID0gbGV4aWNhbCArIHZlY3RvclNjb3JlICogMjQgKyBzb3VyY2VQcmlvcml0eSArIHByZWZlcnJlZEJvb3N0CiAgbGV4aWNhbCAgICAgIDog6K+N5rOV5Yy56YWN77yIdGFncyDnsr7noa4gKzEyIC8g5YyF5ZCrICs377yMdGl0bGUgKzbvvIxzZWN0aW9uICs177yMc3VtbWFyeSArNO+8jHRleHQgKzPvvIxoYXlzdGFjayArMe+8iQogIHZlY3RvclNjb3JlICA6IGNvc2luZSjmn6Xor6Lor43popHlkJHph48sIOaWh+aho+ivjemikeWQkemHjykgIOKGkCDms6jmhI/vvJrmmK/jgIzor43popEgVEYg5L2Z5bym44CN77yM6Z2e56We57uP5bWM5YWlCiAgc291cmNlUHJpb3JpdHk6IGltcG9ydGVkIOaJjSArMu+8jHNlZWQg5YWoIDAKICBwcmVmZXJyZWRCb29zdDog5ZG95Lit5b2T5YmNIGZyYW1lIOeahOS8mOWFiOS5puebriDihpIgKzEwMO+8iOWGs+WumuaAp+adg+mHje+8iQpgYGAKCuacgOe7iCBgZmlsdGVyKHNjb3JlID49IDQpYCDlkI7lj5YgdG9wM++8jOS4lOS8mOWFiOS5puebruaVtOS9k+WJjee9ru+8iGBwcmVmZXJyZWRSYW5rZWRgIOWFiOS6jiBmYWxsYmFja++8ieOAggoKLS0tCgojIyAxLiBjaHVuayDmlbDph4/mmK/lkKbov4flpJrvvJ8KCioq5ZCm77yM6Z2e5Li75Zug44CCKioKCnwg5LmmIHwgY2h1bmsg5pWwIHwKfC0tLXwtLS06fAp8IOiuuuivrSB8IDIgfAp8IOmBk+W+t+e7jyB8IDIgfAp8IOayieaAneW9lSB8IDIgfAp8IOW6hOWtkCB8IDIgfAp8IOWtn+WtkCAvIOWkp+WtpiAvIOS4reW6uCAvIOeUs+i+qeevhyAvIOeIseavlOWFi+azsOW+tyAvIOWwvOWQhOmprOWPryB8IOWQhCAxIHwKCuS4ieS7tuWll+WQhCAyIGNodW5r77yM5LiO5bqE5a2Q55u45ZCM77yb6ZW/5bC+5Lmm5aSa5Li6IDEgY2h1bmvjgIJjaHVuayDmlbDph4/lubbmnKrlkJHkuInku7blpZflgL7mlpzvvIzmlYUqKuaVsOmHj+S4jeaYr+WehOaWreadpea6kCoq44CC55yf5q2j6LW35L2c55So55qE5piv44CM5q+PIGNodW5rIOeahOW+l+WIhuS4iumZkOOAjeS4juOAjOaYr+WQpuiiqyArMTAwIOWBj+e9ruimhuebluOAjeOAggoKLS0tCgojIyAyLiBtZXRhZGF0Ye+8iHRhZ++8ieimhuebluaYr+WQpui/h+Wuve+8nwoKKirmmK/vvIzpg6jliIbljp/lm6DjgIIqKgoK5LiJ5Lu25aWX55qEIHRhZyDlgY/lkJEqKumrmOmikemAmueUqOeOsOS7o+ivjSoq77yM5LiO5aSn6YeP55So5oi36Zeu6aKY6K+N5rOV6YeN5Y+g77yaCgotIOmBk+W+t+e7j++8mmDoh6rnn6UgLyDlhoXogJcgLyDmiJDplb8gLyDkuI3kuokgLyDmn5TlkowgLyDnm7jlpIRgCi0g5rKJ5oCd5b2V77yaYOaOp+WItiAvIOWGheW/gyAvIOWuieWugSAvIOaDhee7qiAvIOWIpOaWrSAvIOaOpeWPl2AKLSDorrror63vvJpg5a2m5LmgIC8g5a6e6Le1IC8g5oiQ6ZW/IC8g6Ieq55yBIC8g6ZW/5pyf5Li75LmJIC8g56uL5b+XYAoK6L+Z5Lqb6K+N77yI5oiQ6ZW/IC8g5oOF57uqIC8g5YaF6ICXIC8g5o6n5Yi2IC8g5a6e6Le177yJ5Yeg5LmO5Ye6546w5Zyo5Lu75L2V5Lq655Sf5Zuw5oOR57G75o+Q6Zeu5LitIOKGkiDor43ms5UgKzEyLys3IOmikee5geinpuWPkeOAgumVv+WwvuS5piB0YWcg5YGP44CM5LiT5oyH44CN77yI5a2f5a2Q5Y6f5LuFIGDpgIblooMv5oiQ6ZW/L+WdmuaMgWDjgIHlpKflrabljp/ku4UgYOS/rui6qy/oh6rmiJHnrqHnkIYv55+l6KGMYO+8ie+8jOS4jueUqOaIt+WPo+ivremUmeS9jSDihpIg6K+N5rOV5Yeg5LmO5LiN5ZG95Lit44CCCgoqKlBoYXNlIEcg5a+5562WKirvvJrkuI3mmK/mlLbnqoTkuInku7blpZcgdGFn77yI5Lya5Lyk56iz5a6a5oCn77yJ77yM6ICM5pivKirmi5Plrr3plb/lsL4gdGFnKiog5Yiw55So5oi35Y+j6K+t5bGC77yI6KeBIGNvcnB1cy5qc29uIOaUueWKqO+8ieOAguW3sumqjOivge+8muWtn+WtkC/lpKflraYv5Lit5bq4IOWPrOWbnuaYvuiRl+WbnuWNh++8jOS4ieS7tuWll+WFuOWei+mXrumimOS7jeato+W4uOWPrOWbnuOAggoKLS0tCgojIyAzLiBlbWJlZGRpbmcg55u45Ly856m66Ze05piv5ZCm5YGP56e777yfCgoqKuaYr++8jOS9hui/memHjOeahOOAjGVtYmVkZGluZ+OAjeWunuS4uiBURiDor43popHkvZnlvKbvvIzlgY/np7vmlrnlkJEgPSDlgY/lkJHpgJrnlKjor43mlofmoaPjgIIqKgoKYHZlY3RvclNjb3JlID0gY29zaW5lKHF1ZXJ5VmVjLCBkb2NWZWMpYO+8jOWFtuS4rSBgZG9jVmVjYCDnlLEgYGRvY3VtZW50VGV4dCgpYCDmnoTlu7rvvIzopobnm5YgYHRleHQgKyBzdW1tYXJ5ICsgbW9kZXJuVXNhZ2UgKyBjYXV0aW9uICsgdGFnc2DjgILkuInku7blpZfnmoQgYG1vZGVyblVzYWdlL2NhdXRpb25gIOS9v+eUqOWkp+mHj+mAmueUqOeUn+a0u+ivje+8iCLlsJHlkozkurrmr5QiIuaKiuazqOaEj+WKm+aUvuWbnuiDveaUueWPmOeahOWcsOaWuSLvvInvvIzkvb/lhbYgVEYg5ZCR6YeP5LiO5aSa5pWw5p+l6K+i5pu06L+RIOKGkiBgdmVjdG9yU2NvcmUqMjRgIOWBj+mrmOOAggoK6ZW/5bC+5Lmm5Y6f5paH5YGP5Y+k5YW444CBbW9kZXJuVXNhZ2Ug5YGP56qEIOKGkiBURiDlkJHph4/nqIDnlo8g4oaSIOWQkemHj+WIhuS9juOAggoKKirov5nmmK/jgIzlkJHph4/lgY/np7vjgI3nmoTnnJ/lrp7lvaLmgIEqKu+8muS4jeaYr+aooeWei+WBj+inge+8jOiAjOaYryoq6K+t5paZ6KGo6L+w6aOO5qC85YGP5ZCRKirjgIJQaGFzZSBHIOacquW8leWFpeelnue7j+W1jOWFpe+8iOaetuaehOS4jeWPmO+8ie+8jOaVheivpeWBj+enu+S4u+imgemdoCB0YWcg5ouT5a69ICsg5bin6YWN572u5a+55Yay77yM6ICM6Z2e6YeN6K6t5ZCR6YeP44CCCgotLS0KCiMjIDQuIHF1ZXN0aW9uX2JyaWRnZSDmmK/lkKbov4fms5vvvJ/igJTigJQg5YWz6ZSu5Y+R546wCgoqKuW9k+WJjeS7o+eggeS4rSBgcXVlc3Rpb25fYnJpZGdlYCDlrZfmrrXmoLnmnKzkuI3lrZjlnKggLyDmnKrooqvor7vlj5bjgIIqKgoK5qOA57Si5Y+q6K+75Y+W5Lul5LiL5a2X5q6177yIYGxleGljYWxTY29yZWAgLyBgZG9jdW1lbnRUZXh0YO+8ie+8mgpgdGl0bGUsIHNlY3Rpb24sIHNvdXJjZSwgdGV4dCwgc3VtbWFyeSwgbW9kZXJuVXNhZ2UsIGNhdXRpb24sIHRhZ3Ng44CCCgrljbPvvJrnlKjmiLforr7mg7PnmoTjgIznlKjmiLfor63oqIAg4oaSIOWTsuWtpuamguW/tSDihpIg57uP5YW456ug6IqC44CN5pig5bCE5py65Yi277yMKirlnKjnjrDmnInku6PnoIHph4zmsqHmnInlr7nlupTlrp7njrAqKuOAgueOsOWtmOWUr+S4gOeUn+aViOeahOOAjOahpeOAjeaYr++8mgotIGB0YWdzYO+8iOW3suivu+WPlu+8jFBoYXNlIEcg5bey5ouT5a6977yJCi0gYGZyYW1lVGl0bGVzYO+8iOmFjee9ruihqO+8jFBoYXNlIEcg5bey6LCD5pW077yJCi0gYHRvcGljTGV4aWNvbmDvvIjku6PnoIHlhoXlhpnmrbvnmoTjgIzkuLvpopjor43ihpLlkIzkuYnor43jgI3ooajvvIzpnZ7mjInkuabnu4Tnu4fvvIkKCioq5Zug5q2kIFBoYXNlIEcg55qE44CMcXVlc3Rpb25fYnJpZGdlIOS8mOWMluOAjeS7peS4pOenjeW9ouW8j+iQveWcsO+8mioqCjEuICoq55Sf5pWI5bGC77yI5Luj56CB5bey6K+777yJKirvvJrmiormoaXnmoTjgIzmpoLlv7XlsYLjgI3nm7TmjqXlhpnov5sgYHRhZ3Ng4oCU4oCUdGFncyDljbPjgIznlKjmiLflj6Por63or40g4oaUIOWTsuWtpuamguW/teOAjeeahOaYoOWwhOi9veS9k+OAgui/meaYr+acrOmYtuauteWunumZheS6p+eUn+WPrOWbnuaPkOWNh+eahOS4u+adoOadhuOAggoyLiAqKuaWh+ahoy/pkqnlrZDlsYLvvIjku6PnoIHmnKror7vvvIkqKu+8muWcqCBgY29ycHVzLmpzb25gIOavj+acrOS5puaWsOWiniBgcXVlc3Rpb25fYnJpZGdlOiB7IGNvbmNlcHRzLCB1c2VyX3BocmFzZXMsIG1hcHNfdG8gfWAg5a2X5q6177yM5pi+5byP6K6w5b2V5LiJ5bGC5pig5bCE77yM5L2c5Li65Y+v5a6h6K6h55qE5qGl5o6l6LWE5Lqn5LiO5pyq5p2l5Luj56CB6ZKp5a2Q44CCCgo+IOKaoO+4jyAqKuW/hemhu+S/ruaUueS7o+eggeeahOi+ueeVjO+8iOacrOaKpeWRiuS7heWIhuaekO+8jOS4jeaUue+8iSoq77ya6Iul6KaB6K6pIGBxdWVzdGlvbl9icmlkZ2UudXNlcl9waHJhc2VzYCDooqsqKuS4u+WKqOaYoOWwhCoq77yI6ICM6Z2e5LuF6Z2gIHRhZ3Mg6KKr5Yqo5ZG95Lit77yJ77yM6ZyA5ZyoIGBsZXhpY2FsU2NvcmVgIOS4reaWsOWinuS4gOaute+8muW9k+eUqOaItyBxdWVyeSDlkb3kuK3mn5AgY2h1bmsg55qEIGBxdWVzdGlvbl9icmlkZ2UudXNlcl9waHJhc2VzYCDml7bnu5nkuojliqDmnYPvvIjnuqYgNiDooYzvvInjgILov5nlsZ7kuo7jgIzlv4Xpobvkv67mlLnkupHlh73mlbDpgLvovpHjgI3vvIzmjInmiafooYzljp/liJkqKuWFiOaKpeWRiuOAgeS4jeebtOaOpeaUuSoq77yM5bu66K6u5pS+5YWlIFBoYXNlIEctMiDor4TkvLDjgIIKCi0tLQoKIyMgNS4g5Li75Zug5o6S5bqP5LiOIFBoYXNlIEcg5a+5562W5pig5bCECgp8IOaOkuWQjSB8IOWOn+WboCB8IOaYr+WQpuS4u+WboCB8IFBoYXNlIEcg5a+5562WIHwg5piv5ZCm5pS55Luj56CBIHwKfC0tLXwtLS18LS0tfC0tLXwtLS18CnwgMSB8IGBmcmFtZVRpdGxlc2AgKzEwMCDlgY/nva7vvJrkuInku7blpZfopobnm5YgZ2VuZXJhbCtlbW90aW9uIOS4pOWkp+ahtu+8jOeUs+i+qeevhyAwIOW4pyB8ICoq5pivKiogfCDlsIbnlLPovqnnr4fliqDlhaXlhbbkuLvpopjlpZHlkIjluKfvvJvlrZ/lrZAv5aSn5a2mL+S4reW6uOihpeWFpSBnZW5lcmFsIOahtiB8IOS7heaUuemFjee9ruWAvO+8iHJldHJpZXZhbCDphY3nva7kvJjljJbvvIkgfAp8IDIgfCB0YWcg6K+t5LmJ6L+H5a69ICsgVEYg5ZCR6YeP5YGP5ZCR6YCa55So6K+NIHwg5pivIHwg5ouT5a696ZW/5bC+IHRhZyDoh7PnlKjmiLflj6Por63lsYLvvIhjb25jZXB0IOWxgu+8iSB8IOWQpu+8iHRhZ3Mg5bey6K+777yJIHwKfCAzIHwgcXVlc3Rpb25fYnJpZGdlIOacuuWItuS7o+eggeS4reS4jeWtmOWcqCB8IOe7k+aehOaApyB8IHRhZ3Mg5om/6L295qaC5b+15qGlICsg5YqgIG1ldGFkYXRhIOmSqeWtkCB8IOmSqeWtkOWQpu+8m+S4u+WKqOivu+WPlumcgCBHLTIg5Luj56CB5pS55YqoIHwKfCA0IHwgY2h1bmsg5pWw6YePIHwg5ZCmIHwg5LiN5YqoIHwg5ZCmIHwKCi0tLQoKIyMgNi4g5Li65LuA5LmI44CM5oqs5Y2H6ZW/5bC+44CN6ICM6Z2e44CM5Y6L5L2O5LiJ5Lu25aWX44CNCgotIOS8mOWFiOadg+mHjSArMTAwIOS/neaMgeS4jeWPmO+8m+S7heiwg+aVtOOAjOWTquS6m+S5pui/m+WFpeWTquS6m+W4p+OAjeOAggotIOaJgOacieS8mOWFiOS5puWcqOW4p+WGhSoq5bmz562J6I635b6XICsxMDAqKu+8jOacgOe7iCB0b3AzIOeUseOAjOivjeazlSvlkJHph4/jgI3lhrPog5wg4oaSIOmVv+WwvuS5puS7heWcqCoq55yf5q2j55u45YWzKirml7bmiY3ov5sgdG9wM++8jOS4jeS8muaXoOiEkeaMpOWNoOOAggotIOemu+e6v+mqjOivge+8muS4ieS7tuWll+WFuOWei+mXrumimO+8iOWGheiAly/lrabkuobmgLvlv5gv5bel5L2c5Y6L5Yqb5aSn77yJ5LuN56iz5a6a5Y+s5Zue77yM5pyq5aGM5pa577yI6KeBIGRvY3MvMjYgwqc1IOS4juWbnuW9kua1i+ivle+8ieOAggoKLS0tCgojIyA3LiDmrovnlZnpo47pmankuI4gRy0yIOW7uuiurgoKMS4gKirlpKflrabpooTmtYvljaDmr5TlgY/pq5jvvIgyMy4zJe+8iSoq77ya5YW25qCH562+77yI5oiQ6ZW/L+iHquW+iy/mj5DljYfoh6rlt7Ev6L+b5q2l77yJ6KaG55uW6YCa55So5oiQ6ZW/57G76Zeu6aKY6L6D5aSa44CCRy0yIOiLpeehruiupOi/h+W6pu+8jOWPr+W+ruiwg+Wkp+WtpiB0YWcg5oiW5bCG5YW256e75Ye66YOo5YiG6Z2e5aWR5ZCI5bin44CCCjIuICoq55Sz6L6p56+H55yf5a6e5o+Q5Y2H6ZyA5paw6aKY5Z6L6aqM6K+BKirvvJrljp8gMTAwIOmXruS4jeWQq+iLj+agvOaLieW6leexu+mXrumimO+8jOeUs+i+qeevh+eahCAw4oaS5pyJ5o+Q5Y2H5bCG55SxIGBwaGFzZS1nLXJlZ3Jlc3Npb24tdGVzdC5qc29uYO+8iDE1IOadoe+8ieWunua1i+ehruiupOOAggozLiAqKnF1ZXN0aW9uX2JyaWRnZSDkuLvliqjor7vlj5YqKu+8muWmgumcgOabtOW8uuOAjOeUqOaIt+WPo+ivreKGkue7j+WFuOOAjeaYoOWwhO+8iOWwpOWFtuW6lOWvueWujOWFqOayoeWHuueOsOi/h+eahOaOqui+nu+8ie+8jEctMiDor4TkvLDnu5kgYGxleGljYWxTY29yZWAg5YqgIH42IOihjCBgcXVlc3Rpb25fYnJpZGdlYCDor7vlj5bpgLvovpHigJTigJTlsYrml7bpnIDotbDku6PnoIHor4TlrqEgKyDph43mlrDpg6jnvbLjgIIK
+﻿# Phase G 三件套召回分析（为什么《论语》《道德经》《沉思录》总是优先）
+
+> 目的：先定位原因，再决定改法。原则 = **抬升长尾，不简单压低三件套权重**（用户指令）。
+> 分析对象：`cloudfunctions/chat/rag.js` 的 `legacyRetrieve` + `frameTitles` + `corpus.json`。
+> 结论摘要：主因是 **`frameTitles` 的 +100 帧偏置分配不均** 与 **tag/向量(TF)对通用词的偏向**；`question_bridge` 字段在代码中**当前并未被读取**（详见 §4）。
+
+---
+
+## 0. 检索打分公式（事实基线）
+
+`legacyRetrieve` 对每篇文档的得分：
+
+```
+score = lexical + vectorScore * 24 + sourcePriority + preferredBoost
+  lexical      : 词法匹配（tags 精确 +12 / 包含 +7，title +6，section +5，summary +4，text +3，haystack +1）
+  vectorScore  : cosine(查询词频向量, 文档词频向量)  ← 注意：是「词频 TF 余弦」，非神经嵌入
+  sourcePriority: imported 才 +2，seed 全 0
+  preferredBoost: 命中当前 frame 的优先书目 → +100（决定性权重）
+```
+
+最终 `filter(score >= 4)` 后取 top3，且优先书目整体前置（`preferredRanked` 先于 fallback）。
+
+---
+
+## 1. chunk 数量是否过多？
+
+**否，非主因。**
+
+| 书 | chunk 数 |
+|---|---:|
+| 论语 | 2 |
+| 道德经 | 2 |
+| 沉思录 | 2 |
+| 庄子 | 2 |
+| 孟子 / 大学 / 中庸 / 申辩篇 / 爱比克泰德 / 尼各马可 | 各 1 |
+
+三件套各 2 chunk，与庄子相同；长尾书多为 1 chunk。chunk 数量并未向三件套倾斜，故**数量不是垄断来源**。真正起作用的是「每 chunk 的得分上限」与「是否被 +100 偏置覆盖」。
+
+---
+
+## 2. metadata（tag）覆盖是否过宽？
+
+**是，部分原因。**
+
+三件套的 tag 偏向**高频通用现代词**，与大量用户问题词法重叠：
+
+- 道德经：`自知 / 内耗 / 成长 / 不争 / 柔和 / 相处`
+- 沉思录：`控制 / 内心 / 安宁 / 情绪 / 判断 / 接受`
+- 论语：`学习 / 实践 / 成长 / 自省 / 长期主义 / 立志`
+
+这些词（成长 / 情绪 / 内耗 / 控制 / 实践）几乎出现在任何人生困惑类提问中 → 词法 +12/+7 频繁触发。长尾书 tag 偏「专指」（孟子原仅 `逆境/成长/坚持`、大学原仅 `修身/自我管理/知行`），与用户口语错位 → 词法几乎不命中。
+
+**Phase G 对策**：不是收窄三件套 tag（会伤稳定性），而是**拓宽长尾 tag** 到用户口语层（见 corpus.json 改动）。已验证：孟子/大学/中庸 召回显著回升，三件套典型问题仍正常召回。
+
+---
+
+## 3. embedding 相似空间是否偏移？
+
+**是，但这里的「embedding」实为 TF 词频余弦，偏移方向 = 偏向通用词文档。**
+
+`vectorScore = cosine(queryVec, docVec)`，其中 `docVec` 由 `documentText()` 构建，覆盖 `text + summary + modernUsage + caution + tags`。三件套的 `modernUsage/caution` 使用大量通用生活词（"少和人比""把注意力放回能改变的地方"），使其 TF 向量与多数查询更近 → `vectorScore*24` 偏高。
+
+长尾书原文偏古典、modernUsage 偏窄 → TF 向量稀疏 → 向量分低。
+
+**这是「向量偏移」的真实形态**：不是模型偏见，而是**语料表述风格偏向**。Phase G 未引入神经嵌入（架构不变），故该偏移主要靠 tag 拓宽 + 帧配置对冲，而非重训向量。
+
+---
+
+## 4. question_bridge 是否过泛？—— 关键发现
+
+**当前代码中 `question_bridge` 字段根本不存在 / 未被读取。**
+
+检索只读取以下字段（`lexicalScore` / `documentText`）：
+`title, section, source, text, summary, modernUsage, caution, tags`。
+
+即：用户设想的「用户语言 → 哲学概念 → 经典章节」映射机制，**在现有代码里没有对应实现**。现存唯一生效的「桥」是：
+- `tags`（已读取，Phase G 已拓宽）
+- `frameTitles`（配置表，Phase G 已调整）
+- `topicLexicon`（代码内写死的「主题词→同义词」表，非按书组织）
+
+**因此 Phase G 的「question_bridge 优化」以两种形式落地：**
+1. **生效层（代码已读）**：把桥的「概念层」直接写进 `tags`——tags 即「用户口语词 ↔ 哲学概念」的映射载体。这是本阶段实际产生召回提升的主杠杆。
+2. **文档/钩子层（代码未读）**：在 `corpus.json` 每本书新增 `question_bridge: { concepts, user_phrases, maps_to }` 字段，显式记录三层映射，作为可审计的桥接资产与未来代码钩子。
+
+> ⚠️ **必须修改代码的边界（本报告仅分析，不改）**：若要让 `question_bridge.user_phrases` 被**主动映射**（而非仅靠 tags 被动命中），需在 `lexicalScore` 中新增一段：当用户 query 命中某 chunk 的 `question_bridge.user_phrases` 时给予加权（约 6 行）。这属于「必须修改云函数逻辑」，按执行原则**先报告、不直接改**，建议放入 Phase G-2 评估。
+
+---
+
+## 5. 主因排序与 Phase G 对策映射
+
+| 排名 | 原因 | 是否主因 | Phase G 对策 | 是否改代码 |
+|---|---|---|---|---|
+| 1 | `frameTitles` +100 偏置：三件套覆盖 general+emotion 两大桶，申辩篇 0 帧 | **是** | 将申辩篇加入其主题契合帧；孟子/大学/中庸补入 general 桶 | 仅改配置值（retrieval 配置优化） |
+| 2 | tag 语义过宽 + TF 向量偏向通用词 | 是 | 拓宽长尾 tag 至用户口语层（concept 层） | 否（tags 已读） |
+| 3 | question_bridge 机制代码中不存在 | 结构性 | tags 承载概念桥 + 加 metadata 钩子 | 钩子否；主动读取需 G-2 代码改动 |
+| 4 | chunk 数量 | 否 | 不动 | 否 |
+
+---
+
+## 6. 为什么「抬升长尾」而非「压低三件套」
+
+- 优先权重 +100 保持不变；仅调整「哪些书进入哪些帧」。
+- 所有优先书在帧内**平等获得 +100**，最终 top3 由「词法+向量」决胜 → 长尾书仅在**真正相关**时才进 top3，不会无脑挤占。
+- 离线验证：三件套典型问题（内耗/学了总忘/工作压力大）仍稳定召回，未塌方（见 docs/26 §5 与回归测试）。
+
+---
+
+## 7. 残留风险与 G-2 建议
+
+1. **大学预测占比偏高（23.3%）**：其标签（成长/自律/提升自己/进步）覆盖通用成长类问题较多。G-2 若确认过度，可微调大学 tag 或将其移出部分非契合帧。
+2. **申辩篇真实提升需新题型验证**：原 100 问不含苏格拉底类问题，申辩篇的 0→有提升将由 `phase-g-regression-test.json`（15 条）实测确认。
+3. **question_bridge 主动读取**：如需更强「用户口语→经典」映射（尤其应对完全没出现过的措辞），G-2 评估给 `lexicalScore` 加 ~6 行 `question_bridge` 读取逻辑——届时需走代码评审 + 重新部署。

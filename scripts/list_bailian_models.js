@@ -1,1 +1,15 @@
-IyEvdXNyL2Jpbi9lbnYgbm9kZQondXNlIHN0cmljdCc7Ci8vIOaemuS4vueZvueCvOWFqOmDqOWPr+eUqOaooeWeiyBpZApjb25zdCBLRVkgPSBwcm9jZXNzLmVudi5EQVNIU0NPUEVfS0VZOwpjb25zdCBCQVNFID0gJ2h0dHBzOi8vZGFzaHNjb3BlLmFsaXl1bmNzLmNvbS9jb21wYXRpYmxlLW1vZGUvdjEnOwoKKGFzeW5jICgpID0+IHsKICBjb25zdCByZXMgPSBhd2FpdCBmZXRjaChCQVNFICsgJy9tb2RlbHMnLCB7IGhlYWRlcnM6IHsgQXV0aG9yaXphdGlvbjogJ0JlYXJlciAnICsgS0VZIH0gfSk7CiAgY29uc29sZS5sb2coJ0hUVFAnLCByZXMuc3RhdHVzKTsKICBjb25zdCBqID0gYXdhaXQgcmVzLmpzb24oKTsKICBjb25zdCBhcnIgPSBqLmRhdGEgfHwgai5tb2RlbHMgfHwgW107CiAgY29uc3QgaWRzID0gYXJyLm1hcCgobSkgPT4gbS5pZCB8fCBtLm1vZGVsIHx8IG0ubmFtZSkuZmlsdGVyKEJvb2xlYW4pLnNvcnQoKTsKICBjb25zb2xlLmxvZygn5oC75pWwOicsIGlkcy5sZW5ndGgpOwogIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGlkcywgbnVsbCwgMCkpOwp9KSgpOwo=
+#!/usr/bin/env node
+'use strict';
+// 枚举百炼全部可用模型 id
+const KEY = process.env.DASHSCOPE_KEY;
+const BASE = 'https://dashscope.aliyuncs.com/compatible-mode/v1';
+
+(async () => {
+  const res = await fetch(BASE + '/models', { headers: { Authorization: 'Bearer ' + KEY } });
+  console.log('HTTP', res.status);
+  const j = await res.json();
+  const arr = j.data || j.models || [];
+  const ids = arr.map((m) => m.id || m.model || m.name).filter(Boolean).sort();
+  console.log('总数:', ids.length);
+  console.log(JSON.stringify(ids, null, 0));
+})();

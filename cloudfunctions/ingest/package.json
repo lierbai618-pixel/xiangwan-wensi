@@ -1,1 +1,1 @@
-eyJuYW1lIjogImluZ2VzdCIsICJ2ZXJzaW9uIjogIjEuMC4wIiwgImRlc2NyaXB0aW9uIjogIuWQkeaZmumXruaAnSAtIOefpeivhuW6k+WFpeW6k+S6keWHveaVsO+8iFAwIE1WUO+8mnR4dC9tYXJrZG93biDihpIg5YiH5YiGIOKGkiBjaHVua3Mg6ZuG5ZCI77yJIiwgIm1haW4iOiAiaW5kZXguanMiLCAiZGVwZW5kZW5jaWVzIjogeyJ3eC1zZXJ2ZXItc2RrIjogIn4yLjYuMyJ9fQo=
+{"name": "ingest", "version": "1.0.0", "description": "向晚问思 - 知识库入库云函数（P0 MVP：txt/markdown → 切分 → chunks 集合）", "main": "index.js", "dependencies": {"wx-server-sdk": "~2.6.3"}}

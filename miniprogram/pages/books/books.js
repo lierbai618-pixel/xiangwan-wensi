@@ -1,1 +1,22 @@
-Ly8g5ZCR5pma6Zeu5oCdIMK3IOe7j+WFuOmYheivuwpjb25zdCB7IGJvb2tzIH0gPSByZXF1aXJlKCIuLi8uLi9kYXRhL2Jvb2tzLmpzIik7CgpQYWdlKHsKICBkYXRhOiB7CiAgICBib29rcywKICAgIGFjdGl2ZUlkOiAiIiwKICB9LAoKICB0b2dnbGVEZXRhaWwoZSkgewogICAgY29uc3QgaWQgPSBlLmN1cnJlbnRUYXJnZXQuZGF0YXNldC5pZDsKICAgIHRoaXMuc2V0RGF0YSh7IGFjdGl2ZUlkOiB0aGlzLmRhdGEuYWN0aXZlSWQgPT09IGlkID8gIiIgOiBpZCB9KTsKICB9LAoKICBvblNoYXJlQXBwTWVzc2FnZSgpIHsKICAgIHJldHVybiB7CiAgICAgIHRpdGxlOiAi5ZCR5pma6Zeu5oCdIMK3IOe7j+WFuOmYheivu++8mjEwIOacrOWFrOeJiOWTsuWtpue7j+WFuCIsCiAgICAgIHBhdGg6ICIvcGFnZXMvYm9va3MvYm9va3MiLAogICAgICBpbWFnZVVybDogIi9hc3NldHMvc2hhcmUtY2FyZC5wbmciLAogICAgfTsKICB9LAp9KTsK
+// 向晚问思 · 经典阅读
+const { books } = require("../../data/books.js");
+
+Page({
+  data: {
+    books,
+    activeId: "",
+  },
+
+  toggleDetail(e) {
+    const id = e.currentTarget.dataset.id;
+    this.setData({ activeId: this.data.activeId === id ? "" : id });
+  },
+
+  onShareAppMessage() {
+    return {
+      title: "向晚问思 · 经典阅读：10 本公版哲学经典",
+      path: "/pages/books/books",
+      imageUrl: "/assets/share-card.png",
+    };
+  },
+});

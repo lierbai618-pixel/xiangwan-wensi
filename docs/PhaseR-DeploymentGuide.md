@@ -1,1 +1,163 @@
-IyBQaGFzZSBSIERlcGxveW1lbnQgR3VpZGUNCiMjIyBDYXBhYmlsaXR5IExheWVyIOmDqOe9suaTjeS9nOS4juWbnua7muaJi+WGjA0KDQp8IOmhuSB8IOWAvCB8DQp8LS0tfC0tLXwNCnwg55uu5qCH5LqR5Ye95pWwIHwgYGNsb3VkZnVuY3Rpb25zL2NoYXRgIHwNCnwg5LqR546v5aKDIHwgYFlPVVJfQ0xPVURfRU5WX0lEYCB8DQp8IOi/kOihjOaXtiB8IE5vZGVqczE2LjEz77yIKirkuI3lvpflj5jmm7QqKu+8iSB8DQp8IOaWsOWinuS+nei1liB8IOaXoO+8iOaXoOmcgCBgbnBtIGluc3RhbGxg77yMYHBhY2thZ2UuanNvbmAg5pyq5pS55Yqo77yJIHwNCnwg5pWw5o2u5bqT5Y+Y5pu0IHwg5peg77yI5LiN5paw5bu66ZuG5ZCI44CB5LiN5pS557Si5byV77yJIHwNCnwg5YmN56uv5Y+Y5pu0IHwg5peg77yIYG1pbmlwcm9ncmFtL2Ag6Zu25pS55Yqo77yJIHwNCg0KPiAqKuWJjee9rioq77ya5omn6KGM5pys5omL5YaM5YmN77yM6K+35YWI56Gu6K6k5bey5bCxIGBQaGFzZVItRGVwbG95bWVudFJlYWRpbmVzc1JlcG9ydC5tZGAgwqc4IOeahCBSLTAwMSDkvZzlh7rlhrPnrZbvvIjot6/lvoQgQSDlhYjkv64gLyDot6/lvoQgQiDluKbnvLrpmbfkuIrnur/vvInjgIINCg0KLS0tDQoNCiMjIDEuIOS4uuS7gOS5iOW/hemhu+aJi+WKqOmDqOe9sg0KDQrmspnnrrHnjq/looPliLDohb7orq/kupEgU0NGIOS7o+eggeS4iuS8oOerr+eCue+8iGBzY2YudGVuY2VudGNsb3VkYXBpLmNvbWDvvInnvZHnu5zkuI3lj6/ovr7vvIxgdGNiYCBDTEkg5Y+q6IO95a6M5oiQ6K+757G75pON5L2c44CCKirku6PnoIHpg6jnvbLlv4XpobvnlLHkvaDlnKjlvq7kv6HlvIDlj5HogIXlt6XlhbfkuK3miYvliqjlrozmiJAqKu+8jOi/meaYr+eOr+Wig+mZkOWItu+8jOmdnua1geeoi+WBj+WlveOAgg0KDQotLS0NCg0KIyMgMi4g6YOo572y5riF5Y2V77yIUHJlLWZsaWdodCBDaGVja2xpc3TvvIkNCg0K6YOo572y5YmN6YCQ6aG556Gu6K6k77yaDQoNCi0gWyBdIOWGu+e7k+Wbm+i1hOS6pyBTSEEyNTYg5LiOIGBQaGFzZVItRnJlZXplSW50ZWdyaXR5UmVwb3J0Lm1kYCDCpzEg5LiA6Ie0DQotIFsgXSBgd2VhcHAvc2NyaXB0cy9iYXNlbGluZS1vMC42L2Ag5YaF5Lik5Lu9IGAuYmFrYCDlrZjlnKjvvIhMMiDlm57mu5rliY3mj5DvvIkNCi0gWyBdIGBub2RlIHdlYXBwL3NjcmlwdHMvdGVzdF9jYXBhYmlsaXRpZXMuanNgIOi+k+WHuiA2MC82MA0KLSBbIF0gYGNsb3VkZnVuY3Rpb25zL2NoYXQvY2FwYWJpbGl0aWVzL2Ag5LiLIDcg5Liq5paH5Lu26b2Q5YWoDQotIFsgXSDlvq7kv6HlvIDlj5HogIXlt6Xlhbflt7LpgInkuK3kupHnjq/looMgYFlPVVJfQ0xPVURfRU5WX0lEYO+8iCoqSURFIEdVSSDmk43kvZzvvIzkuI3mmK/mlofku7bphY3nva4qKu+8iQ0KLSBbIF0g5bey56Gu6K6kIFItMDAxIOWGs+etlui3r+W+hA0KDQotLS0NCg0KIyMgMy4g6YOo572y5q2l6aqkDQoNCiMjIyBTdGVwIDEg4oCUIOaJk+W8gOmhueebrg0KDQrlvq7kv6HlvIDlj5HogIXlt6XlhbfmiZPlvIAgYHdlYXBwL2DvvIznoa7orqTlj7PkuIrop5LkupHnjq/looPkuLogYFlPVVJfQ0xPVURfRU5WX0lEYOOAgg0KDQojIyMgU3RlcCAyIOKAlCDkuIrkvKDlubbpg6jnvbIgY2hhdCDkupHlh73mlbANCg0K5ZyoIGBjbG91ZGZ1bmN0aW9ucy9jaGF0YCDnm67lvZXkuIrlj7PplK4g4oaSICoq44CM5LiK5Lyg5bm26YOo572y77ya5LqR56uv5a6J6KOF5L6d6LWW44CNKirjgIINCg0KPiDomb3nhLbmnKzmrKHml6DmlrDkvp3otZbvvIzku43lu7rorq7pgIki5LqR56uv5a6J6KOF5L6d6LWWIuS7peS/neivgSBgbm9kZV9tb2R1bGVzYCDkuI7kupHnq6/ov5DooYzml7bkuIDoh7TjgIINCg0K562J5b6F5o6n5Yi25Y+w5o+Q56S65LiK5Lyg5oiQ5Yqf44CCDQoNCiMjIyBTdGVwIDMg4oCUIOmFjee9rueOr+Wig+WPmOmHjw0KDQrkupHlvIDlj5HmjqfliLblj7Ag4oaSIOS6keWHveaVsCDihpIgYGNoYXRgIOKGkiDphY3nva4g4oaSIOeOr+Wig+WPmOmHj++8mg0KDQp8IOWPmOmHj+WQjSB8IOW7uuiuruWAvCB8IOe8uuecgeihjOS4uiB8IOivtOaYjiB8DQp8LS0tfC0tLXwtLS18LS0tfA0KfCBgQ0FQQUJJTElUWV9FTkFCTEVEYCB8ICoq5LiN6K6+572uKirvvIjmiJYgYHRydWVg77yJIHwg6buY6K6kICoq5ZCv55SoKiogfCDog73lipvlsYLmgLvlvIDlhbPjgILov5nmmK/nvLrpmbfkv67lpI3ogIzpnZ7lrp7pqoznibnmgKfvvIzmlYXpu5jorqTlvIDjgILorr7kuLogYGZhbHNlYCDljbPkuLogTDEg54aU5patIHwNCnwgYENBUEFCSUxJVFlfSU5WSVRFX0VOQUJMRURgIHwgKirkuI3orr7nva4qKu+8iOaIliBgdHJ1ZWDvvIkgfCDpu5jorqQgKirlkK/nlKgqKiB8IOS6i+WunuS5i+WQjuaYr+WQpui/veWKoCLlpoLmnpzkvaDmhL/mhI/vvIzmiJHku6zkuZ/lj6/ku6XogYrogYrigKbigKYi55qE5oCd6L6o6YKA6K+344CC6K6+IGBmYWxzZWAg5YiZ5Y+q57uZ57qv5LqL5a6e44CCKirku4XlvbHlk43mlofmoYjpo47moLzvvIzkuI3lvbHlk43kuovlrp7mraPnoa7mgKcqKiB8DQp8IGBXRUFUSEVSX1BST1ZJREVSYCB8ICoq5LiN6K6+572uKiogfCDpu5jorqQgYG5vbmVgIHwg5aSp5rCU5pWw5o2u5rqQ44CC5b2T5YmN5peg5ZCI6KeE5pWw5o2u5rqQ77yM5L+d5oyBIGBub25lYCDihpIg5aSp5rCU6Zeu6aKY6LWw6K+a5a6e6L6555WM5aOw5piO77yI57ud5LiN57yW6YCg5rip5bqm77yJ44CC5pWw5o2u5rqQ6YCJ5Z6L5bGeIFBoYXNlIFIy77yMKirmnKzpmLbmrrXkuI3lvpforr7nva4qKiB8DQoNCuihpeWFhe+8iOaXouacieWPmOmHj++8jOacrOasoeS4jeWPmOabtO+8ie+8mg0KDQp8IOWPmOmHj+WQjSB8IOW9k+WJjeWAvCB8IOivtOaYjiB8DQp8LS0tfC0tLXwtLS18DQp8IGBGUkVTSE5FU1NfRU5BQkxFRGAgfCDmnKrorr7nva7vvIjlhbPpl63vvIkgfCBQaGFzZSBRIOeDreeCueaAnei+qOWxgu+8jOS7jeWkhOWFs+mXreaAgSB8DQp8IGBLTk9XTEVER0VfT0JTRVJWQUJJTElUWV9TVE9SRWAgfCBgY2xvdWRgIHwg6KeC5rWL6JC95bqT77yM5L+d5oyB5LiN5Y+YIHwNCnwgYEFETUlOX09QRU5JRGAgfCDkv53nlZkgfCDkv53mjIHkuI3lj5ggfA0KDQo+IOS/ruaUueeOr+Wig+WPmOmHj+WQjuS6keWHveaVsOS8mumHjeaWsOWKoOi9ve+8jCoq5peg6ZyA6YeN5paw5LiK5Lyg5Luj56CBKirjgIINCg0KIyMjIFN0ZXAgNCDigJQg5YaS54Of6aqM6K+B77yI55yf5py65oiW5qih5ouf5Zmo77yJDQoNCuS+neasoeWPkemAge+8jOmAkOadoeaguOWvue+8mg0KDQp8ICMgfCDovpPlhaUgfCDmnJ/mnJsgfA0KfC0tLXwtLS18LS0tfA0KfCAxIHwgYOeOsOWcqOWHoOeCuWAgfCDov5Tlm57lhbfkvZPljJfkuqzml7bpl7TvvIwqKuS4jeW+lyoq5Ye6546wIuaXoOazleiBlOe9kSIi5peg5rOV6I635Y+W5pe26Ze0IiB8DQp8IDIgfCBg5LuK5aSp5Yeg5Y+3YCB8IOi/lOWbnuWFt+S9k+aXpeacnyB8DQp8IDMgfCBg546w5Zyo5piv5pif5pyf5YegYCB8IOi/lOWbnuaYn+acnyB8DQp8IDQgfCBgMjMrNDXnrYnkuo7lpJrlsJFgIHwg6L+U5ZueIGA2OGAgfA0KfCA1IHwgYDEw6Zmk5LulMGAgfCDor5rlrp7mi5LnrZTvvIwqKuS4jeW+lyoq57uZ5Ye65pWw5a2XIHwNCnwgNiB8IGDku4rlpKnlpKnmsJTmgI7kuYjmoLdgIHwg5aOw5piO6IO95Yqb6L6555WM77yMKirkuI3lvpcqKue8lumAoOa4qeW6piB8DQp8IDcgfCBg5oiR5Zyo5ZOqYCB8IOWjsOaYjumcgOaOiOadg+WumuS9je+8jCoq5LiN5b6XKirnjJzmtYvlnLDlkI0gfA0KfCA4IHwgYOaXtumXtOeahOaEj+S5ieaYr+S7gOS5iGAgfCDkupTmrrXlvI/lk7Llrablm57nrZTvvIjotbAgUkFH77yJ77yMKirkuI3lvpcqKui/lOWbnuaXtumXtOaVsOWtlyB8DQp8IDkgfCBg5aaC5L2V6Z2i5a+55aSx6LSlYCB8IOS6lOauteW8j+WTsuWtpuWbnuetlO+8jOihjOS4uuS4jumDqOe9suWJjeWujOWFqOS4gOiHtCB8DQoNCioq5Lu75oSP5LiA5p2h5LiN56ymIOKGkiDnq4vljbPmiafooYwgTDEg5Zue5rua77yM5LiN6KaB546w5Zy66LCD6K+V44CCKioNCg0KIyMjIFN0ZXAgNSDigJQg6KeC5rWL6ZO+6Lev56Gu6K6kDQoNCuS6keW8gOWPkeaOp+WItuWPsCDihpIg5pWw5o2u5bqTIOKGkiBgb2JzZXJ2YWJpbGl0eV9sb2dzYO+8jOafpeeci+acgOaWsOiusOW9le+8mg0KDQotIOiDveWKm+i3r+W+hOiusOW9leW6lOWQqyBgY2FwYWJpbGl0eS5uYW1lYCAvIGBieXBhc3NfcmFnOiB0cnVlYCAvIGB0b29sX29rYA0KLSDpnZ7og73lipvot6/lvoQgYGNhcGFiaWxpdHlgIOW6lOS4uiBgbnVsbGANCi0gKirku7vkvZXorrDlvZXpg73kuI3lvpflh7rnjrDlnZDmoIfmiJblnLDlnYDmmI7mlocqKg0KDQotLS0NCg0KIyMgNC4g5Zue5rua5pa55qGI77yI5LiJ57qn77yJDQoNCj4g5Y6f5YiZ77yaKirlhYjmraLooYDvvIzlho3lrprkvY3jgIIqKiDku7vkvZXlvILluLjkvJjlhYggTDHvvIzkuI3opoHlnKjnlJ/kuqfkuIrlsJ3or5Xkv67lpI3jgIINCg0KIyMjIEwxIOKAlCDlhbPpl63njq/looPlj5jph4/vvIjnp5LnuqfvvIzpppbpgInvvIkNCg0KYGBgDQrkupHlvIDlj5HmjqfliLblj7Ag4oaSIOS6keWHveaVsCBjaGF0IOKGkiDphY3nva4g4oaSIOeOr+Wig+WPmOmHjw0KQ0FQQUJJTElUWV9FTkFCTEVEID0gZmFsc2UNCmBgYA0KDQotICoq55Sf5pWI5pe26Ze0KirvvJrlh73mlbDph43mlrDliqDovb3lkI7nq4vljbPnlJ/mlYjvvIzml6DpnIDkuIrkvKDku6PnoIHjgIINCi0gKirmlYjmnpwqKu+8mmBjYXBhYmlsaXRpZXNgIOaooeWdlyoq5qC55pys5LiN6KKrIHJlcXVpcmUqKu+8jOmTvui3r+WujOWFqOmAgOWbniBDYXBhYmlsaXR5IOaOpeWFpeWJjeeahOeKtuaAgeOAgg0KLSAqKumAgueUqCoq77ya6IO95Yqb5bGC6KGM5Li65byC5bi444CB6K+v5Yik44CB5Zue562U6LSo6YeP5LiL6ZmN44CB6L+Q6KGM5pe25oql6ZSZ44CCDQotICoq5Ymv5L2c55SoKirvvJpg546w5Zyo5Yeg54K5YOexu+mXrumimOWbnuWIsOWOn+e8uumZt+eKtuaAge+8iOi/meaYr+WPr+aOpeWPl+eahOatouihgOS7o+S7t++8ieOAgg0KDQrlpoLmnpzlj6rmmK8i6YKA6K+35paH5qGIIuS4jeWQiOmAguiAjOS6i+Wunuato+ehru+8jOWPr+WFiOWwneivleabtOi9u+eahOWkhOe9ru+8mmBDQVBBQklMSVRZX0lOVklURV9FTkFCTEVEID0gZmFsc2Vg44CCDQoNCiMjIyBMMiDigJQg5oGi5aSNIGJhc2VsaW5lIOaWh+S7tu+8iOWIhumSn+e6p++8iQ0KDQrpgILnlKjvvJpMMSDml6Dms5Xop6PlhrPvvIjlpoIgYGluZGV4LmpzYCDmjqXlhaXngrnmiJbop4LmtYvlsYLmnKzouqvlvILluLjvvInjgIINCg0KYGBgYmFzaA0KY2Qgd2VhcHAvY2xvdWRmdW5jdGlvbnMvY2hhdA0KY3AgLi4vLi4vc2NyaXB0cy9iYXNlbGluZS1vMC42L2NoYXQtaW5kZXguanMubzA2LmJhayAgICAgICAgICAgIGluZGV4LmpzDQpjcCAuLi8uLi9zY3JpcHRzL2Jhc2VsaW5lLW8wLjYvb2JzZXJ2YWJpbGl0eUxvZ2dlci5qcy5vMDYuYmFrICAgb2JzZXJ2YWJpbGl0eS9vYnNlcnZhYmlsaXR5TG9nZ2VyLmpzDQpzaGEyNTZzdW0gaW5kZXguanMgb2JzZXJ2YWJpbGl0eS9vYnNlcnZhYmlsaXR5TG9nZ2VyLmpzDQojIOS4jiBzY3JpcHRzL2Jhc2VsaW5lLW8wLjYvU0hBMjU2U1VNUy50eHQg5q+U5a+577yM5b+F6aG75LiA6Ie0DQpgYGANCg0K54S25ZCO5Zyo5b6u5L+h5byA5Y+R6ICF5bel5YW36YeN5paw44CM5LiK5Lyg5bm26YOo572y77ya5LqR56uv5a6J6KOF5L6d6LWW44CN44CCDQoNCi0gKirmlYjmnpwqKu+8muaOpeWFpeeCueS4juingua1i+WxguWbnuWIsCBQaGFzZSBSIOS5i+WJje+8iOWQqyBQaGFzZSBRIEZyZXNobmVzcyDmjqXlhaXkuqbkuIDlubblm57pgIDvvIzms6jmhI/or4TkvLDvvInjgIINCi0gKirms6jmhI8qKu+8mmBjYXBhYmlsaXRpZXMvYCDnm67lvZXku43lnKjno4Hnm5jkuIrvvIzkvYblt7Lml6DkurrlvJXnlKjvvIzkuI3kuqfnlJ/ku7vkvZXov5DooYzml7blvbHlk43jgIINCg0KIyMjIEwzIOKAlCDliKDpmaQgY2FwYWJpbGl0aWVzIOebruW9le+8iOW9u+W6leaRmOmZpO+8iQ0KDQrpgILnlKjvvJrnoa7orqTog73lipvlsYLmlrnmoYjmlbTkvZPlup/lvIPjgIINCg0KYGBgYmFzaA0KIyDlu7rorq7lhYjlvZLmoaPogIzpnZ7nm7TmjqXliKDpmaQNCm12IHdlYXBwL2Nsb3VkZnVuY3Rpb25zL2NoYXQvY2FwYWJpbGl0aWVzIHdlYXBwL2FyY2hpdmUvY2FwYWJpbGl0aWVzLXBoYXNlUi0kKGRhdGUgKyVZJW0lZCkNCmBgYA0KDQrmiafooYwgTDMg5YmNKirlv4XpobvlhYjlrozmiJAgTDIqKu+8iOWQpuWImSBgaW5kZXguanNgIOeahCBgcmVxdWlyZSgnLi9jYXBhYmlsaXRpZXMnKWAg5Lya6LWwIGNhdGNoIOWIhuaUr+KAlOKAlOiZveS4jeiHtOWRve+8jOS9hueVmeS4i+aXoOaEj+S5ieeahOmUmeivr+aXpeW/l++8ieOAgg0KDQrliKDpmaTlkI7ph43mlrDkuIrkvKDpg6jnvbLjgIINCg0KIyMjIOWbnua7muWQjuW/heWBmg0KDQoxLiDlpI3moLjlhrvnu5Plm5votYTkuqcgU0hBMjU2IOKAlOKAlCDlupTlp4vnu4jkuIDoh7TvvIjlroPku6zku47mnKrooqvmlLnliqjvvIwqKuS7u+S9leWbnua7mumDveS4jemcgOimgeWKqOWug+S7rCoq77yJ44CCDQoyLiDph43ot5EgYHRlc3RfZnJlc2huZXNzLmpzYCAvIGB0ZXN0X3BoYXNlZTIuanNgIOehruiupOWOn+mTvui3r+WujOWlveOAgg0KMy4g5ZyoIGBkb2NzL2Ag6K6w5b2V5Zue5rua5Y6f5Zug5LiO546w5Zy66K+B5o2u77yM5L6b5ZCO57ut5a6a5L2N44CCDQoNCi0tLQ0KDQojIyA1LiDkuI3opoHlgZrnmoTkuosNCg0KfCDnpoHmraLliqjkvZwgfCDljp/lm6AgfA0KfC0tLXwtLS18DQp8IOS4uuS/riBidWcg6ICM5pS5IGBjb3JwdXMuanNvbmAg6KGl5pe26Ze055+l6K+GIHwg5a6e5pe25LqL5a6e5YaZ5YWl55+l6K+G5bqT5Y2z5Yi76L+H5pyf77yM5piv5rGh5p+TIHwNCnwg5Li65L+uIGJ1ZyDogIzmlLkgUHJvbXB0IOiuqeaooeWeiyLlrabkvJoi562U5pe26Ze0IHwgUHJvbXB0IOS6p+eUn+S4jeS6huS6i+Wunu+8jOWPquS8muivseWvvOe8lumAoCB8DQp8IOWPmOabtOS6keWHveaVsOi/kOihjOaXtueJiOacrCB8IOeUn+S6p+mUgeWumiBOb2RlanMxNi4xM++8jOWPmOabtOS8muW8leWFpeS4jeWPr+aOp+mjjumZqSB8DQp8IOacrOmYtuauteiuvue9riBgV0VBVEhFUl9QUk9WSURFUmAgfCDmlbDmja7mupDpgInlnovlsZ4gUjLvvIzmnKrnu4/or4TlrqHmjqXlhaXlpJbpg6ggQVBJIOWxnuaJqeWkp+iMg+WbtCB8DQp8IOWJjeerr+aOpeWFpSBgd3guZ2V0TG9jYXRpb25gIOS4iuaKpSB8IOinpuWPkSBSLTAwMyDmvZzkvI/pmpDnp4Hpo47pmanvvIzpobvlhYjop6PlhrPlm57nrZTmlofmnKzokL3lupPpl67popggfA0KfCDnlJ/kuqfnjq/looPng63mlLnku6PnoIHosIPor5UgfCDkuIDliIflvILluLjlhYggTDEg5q2i6KGAIHwNCg==
+﻿# Phase R Deployment Guide
+### Capability Layer 部署操作与回滚手册
+
+| 项 | 值 |
+|---|---|
+| 目标云函数 | `cloudfunctions/chat` |
+| 云环境 | `YOUR_CLOUD_ENV_ID` |
+| 运行时 | Nodejs16.13（**不得变更**） |
+| 新增依赖 | 无（无需 `npm install`，`package.json` 未改动） |
+| 数据库变更 | 无（不新建集合、不改索引） |
+| 前端变更 | 无（`miniprogram/` 零改动） |
+
+> **前置**：执行本手册前，请先确认已就 `PhaseR-DeploymentReadinessReport.md` §8 的 R-001 作出决策（路径 A 先修 / 路径 B 带缺陷上线）。
+
+---
+
+## 1. 为什么必须手动部署
+
+沙箱环境到腾讯云 SCF 代码上传端点（`scf.tencentcloudapi.com`）网络不可达，`tcb` CLI 只能完成读类操作。**代码部署必须由你在微信开发者工具中手动完成**，这是环境限制，非流程偏好。
+
+---
+
+## 2. 部署清单（Pre-flight Checklist）
+
+部署前逐项确认：
+
+- [ ] 冻结四资产 SHA256 与 `PhaseR-FreezeIntegrityReport.md` §1 一致
+- [ ] `weapp/scripts/baseline-o0.6/` 内两份 `.bak` 存在（L2 回滚前提）
+- [ ] `node weapp/scripts/test_capabilities.js` 输出 60/60
+- [ ] `cloudfunctions/chat/capabilities/` 下 7 个文件齐全
+- [ ] 微信开发者工具已选中云环境 `YOUR_CLOUD_ENV_ID`（**IDE GUI 操作，不是文件配置**）
+- [ ] 已确认 R-001 决策路径
+
+---
+
+## 3. 部署步骤
+
+### Step 1 — 打开项目
+
+微信开发者工具打开 `weapp/`，确认右上角云环境为 `YOUR_CLOUD_ENV_ID`。
+
+### Step 2 — 上传并部署 chat 云函数
+
+在 `cloudfunctions/chat` 目录上右键 → **「上传并部署：云端安装依赖」**。
+
+> 虽然本次无新依赖，仍建议选"云端安装依赖"以保证 `node_modules` 与云端运行时一致。
+
+等待控制台提示上传成功。
+
+### Step 3 — 配置环境变量
+
+云开发控制台 → 云函数 → `chat` → 配置 → 环境变量：
+
+| 变量名 | 建议值 | 缺省行为 | 说明 |
+|---|---|---|---|
+| `CAPABILITY_ENABLED` | **不设置**（或 `true`） | 默认 **启用** | 能力层总开关。这是缺陷修复而非实验特性，故默认开。设为 `false` 即为 L1 熔断 |
+| `CAPABILITY_INVITE_ENABLED` | **不设置**（或 `true`） | 默认 **启用** | 事实之后是否追加"如果你愿意，我们也可以聊聊……"的思辨邀请。设 `false` 则只给纯事实。**仅影响文案风格，不影响事实正确性** |
+| `WEATHER_PROVIDER` | **不设置** | 默认 `none` | 天气数据源。当前无合规数据源，保持 `none` → 天气问题走诚实边界声明（绝不编造温度）。数据源选型属 Phase R2，**本阶段不得设置** |
+
+补充（既有变量，本次不变更）：
+
+| 变量名 | 当前值 | 说明 |
+|---|---|---|
+| `FRESHNESS_ENABLED` | 未设置（关闭） | Phase Q 热点思辨层，仍处关闭态 |
+| `KNOWLEDGE_OBSERVABILITY_STORE` | `cloud` | 观测落库，保持不变 |
+| `ADMIN_OPENID` | 保留 | 保持不变 |
+
+> 修改环境变量后云函数会重新加载，**无需重新上传代码**。
+
+### Step 4 — 冒烟验证（真机或模拟器）
+
+依次发送，逐条核对：
+
+| # | 输入 | 期望 |
+|---|---|---|
+| 1 | `现在几点` | 返回具体北京时间，**不得**出现"无法联网""无法获取时间" |
+| 2 | `今天几号` | 返回具体日期 |
+| 3 | `现在是星期几` | 返回星期 |
+| 4 | `23+45等于多少` | 返回 `68` |
+| 5 | `10除以0` | 诚实拒答，**不得**给出数字 |
+| 6 | `今天天气怎么样` | 声明能力边界，**不得**编造温度 |
+| 7 | `我在哪` | 声明需授权定位，**不得**猜测地名 |
+| 8 | `时间的意义是什么` | 五段式哲学回答（走 RAG），**不得**返回时间数字 |
+| 9 | `如何面对失败` | 五段式哲学回答，行为与部署前完全一致 |
+
+**任意一条不符 → 立即执行 L1 回滚，不要现场调试。**
+
+### Step 5 — 观测链路确认
+
+云开发控制台 → 数据库 → `observability_logs`，查看最新记录：
+
+- 能力路径记录应含 `capability.name` / `bypass_rag: true` / `tool_ok`
+- 非能力路径 `capability` 应为 `null`
+- **任何记录都不得出现坐标或地址明文**
+
+---
+
+## 4. 回滚方案（三级）
+
+> 原则：**先止血，再定位。** 任何异常优先 L1，不要在生产上尝试修复。
+
+### L1 — 关闭环境变量（秒级，首选）
+
+```
+云开发控制台 → 云函数 chat → 配置 → 环境变量
+CAPABILITY_ENABLED = false
+```
+
+- **生效时间**：函数重新加载后立即生效，无需上传代码。
+- **效果**：`capabilities` 模块**根本不被 require**，链路完全退回 Capability 接入前的状态。
+- **适用**：能力层行为异常、误判、回答质量下降、运行时报错。
+- **副作用**：`现在几点`类问题回到原缺陷状态（这是可接受的止血代价）。
+
+如果只是"邀请文案"不合适而事实正确，可先尝试更轻的处置：`CAPABILITY_INVITE_ENABLED = false`。
+
+### L2 — 恢复 baseline 文件（分钟级）
+
+适用：L1 无法解决（如 `index.js` 接入点或观测层本身异常）。
+
+```bash
+cd weapp/cloudfunctions/chat
+cp ../../scripts/baseline-o0.6/chat-index.js.o06.bak            index.js
+cp ../../scripts/baseline-o0.6/observabilityLogger.js.o06.bak   observability/observabilityLogger.js
+sha256sum index.js observability/observabilityLogger.js
+# 与 scripts/baseline-o0.6/SHA256SUMS.txt 比对，必须一致
+```
+
+然后在微信开发者工具重新「上传并部署：云端安装依赖」。
+
+- **效果**：接入点与观测层回到 Phase R 之前（含 Phase Q Freshness 接入亦一并回退，注意评估）。
+- **注意**：`capabilities/` 目录仍在磁盘上，但已无人引用，不产生任何运行时影响。
+
+### L3 — 删除 capabilities 目录（彻底摘除）
+
+适用：确认能力层方案整体废弃。
+
+```bash
+# 建议先归档而非直接删除
+mv weapp/cloudfunctions/chat/capabilities weapp/archive/capabilities-phaseR-$(date +%Y%m%d)
+```
+
+执行 L3 前**必须先完成 L2**（否则 `index.js` 的 `require('./capabilities')` 会走 catch 分支——虽不致命，但留下无意义的错误日志）。
+
+删除后重新上传部署。
+
+### 回滚后必做
+
+1. 复核冻结四资产 SHA256 —— 应始终一致（它们从未被改动，**任何回滚都不需要动它们**）。
+2. 重跑 `test_freshness.js` / `test_phasee2.js` 确认原链路完好。
+3. 在 `docs/` 记录回滚原因与现场证据，供后续定位。
+
+---
+
+## 5. 不要做的事
+
+| 禁止动作 | 原因 |
+|---|---|
+| 为修 bug 而改 `corpus.json` 补时间知识 | 实时事实写入知识库即刻过期，是污染 |
+| 为修 bug 而改 Prompt 让模型"学会"答时间 | Prompt 产生不了事实，只会诱导编造 |
+| 变更云函数运行时版本 | 生产锁定 Nodejs16.13，变更会引入不可控风险 |
+| 本阶段设置 `WEATHER_PROVIDER` | 数据源选型属 R2，未经评审接入外部 API 属扩大范围 |
+| 前端接入 `wx.getLocation` 上报 | 触发 R-003 潜伏隐私风险，须先解决回答文本落库问题 |
+| 生产环境热改代码调试 | 一切异常先 L1 止血 |

@@ -1,1 +1,32 @@
-ewogICJpZCI6ICJlbmNoaXJpZGlvbiIsCiAgInRpdGxlIjogIueIseavlOWFi+azsOW+t+OAiuaJi+WGjOOAiyIsCiAgImF1dGhvciI6ICLniLHmr5TlhYvms7DlvrciLAogICJ0cmFuc2xhdG9yIjogIuWFrOeJiOiLseivke+8iEdlb3JnZSBMb25nIOetie+8ieS9nOagoeWLmOWPguiAgyIsCiAgInNvdXJjZSI6ICJFcGljdGV0dXMsIEVuY2hpcmlkaW9u77yI5YWs54mI6Iux6K+R6IqC6YCJ77yJIiwKICAiZWRpdGlvbiI6ICLlhazniYjoi7Hor5HoioLpgIkiLAogICJwdWJsaXNoZXIiOiBudWxsLAogICJ5ZWFyIjogIue6puWFrOWFgyAxMjUg5bm0IiwKICAiY29weXJpZ2h0X3N0YXR1cyI6ICJwdWJsaWMtZG9tYWluIiwKICAibGljZW5zZV9ub3RlIjogIkNDMCAvIOWFrOaciemihuWfn++8iOWOn+aWh++8jOWPpOW4jOiFiuaWh++8m+iLseaWh+S4uuWFrOeJiOivkeacrO+8iSIsCiAgInZlcmlmaWNhdGlvbl9kYXRlIjogIjIwMjYtMDctMjYiLAogICJjYXRlZ29yeSI6ICLopb/mlrnlk7LlraYiLAogICJwZXJzcGVjdGl2ZSI6ICLmlq/lpJrokZsiLAogICJ0aGVtZXMiOiBbIuaOp+WItiIsICLmjqXlj5ciLCAi5Yik5patIiwgIuaDhee7qiIsICLoh6rnlLEiLCAi6KGM5YqoIl0sCiAgInByb2JsZW1fdGFncyI6IFsi5LuW5Lq66K+E5Lu3IiwgIuaOp+WItiIsICLnhKbomZEiLCAi5oOF57uqIiwgIuaOpeWPlyIsICLooYzliqgiLCAi5YaF5b+D6Ieq55SxIiwgIuiiq+W9seWTjSIsICLlk6rkupvkuovmiJHog73mjqfliLYiXSwKICAidXNlcl9xdWVzdGlvbnMiOiBbCiAgICAi5oC75piv6KKr5Yir5Lq655qE6K+E5Lu35b2x5ZON5oCO5LmI5YqeIiwKICAgICLlk6rkupvkuovmmK/miJHog73mjqfliLbnmoQiLAogICAgIuS4uuS7gOS5iOS6i+aDheaAu+S4jeWmguaEvyIsCiAgICAi5aaC5L2V5LiN6KKr5aSW55WM5oOF57uq5ouW5Z6uIgogIF0sCiAgInNjZW5hcmlvcyI6IFsi5oOF57uq566h55CGIiwgIuiBjOWcuuWOi+WKmyIsICLkurrpmYXovrnnlYwiLCAi6Ieq5oiR5o6M5o6nIl0sCiAgImF1dGhvcml0eV9sZXZlbCI6IDUsCiAgImNpdGF0aW9uIjogeyAidGVtcGxhdGUiOiAi44CKe3RpdGxlfcK3e3NlY3Rpb25944CLIiwgImV4YW1wbGUiOiAi44CK5omL5YaMwrfnrKzkuIDoioLjgIsiIH0sCiAgImxhbmd1YWdlIjogInpoIiwKICAic291cmNlX3R5cGUiOiAidHJhbnNsYXRpb24iLAogICJjaGFwdGVyX3NwbGl0IjogImJ5LWNoYXB0ZXIiLAogICJsZWdhbENvbmZpcm0iOiB0cnVlLAogICJzdGF0dXMiOiAicmVhZHkiLAogICJub3RlcyI6ICLljp/mloflj6TluIzohYrmlofvvIzoioLpgInph4fnlKjlhazniYjoi7Hor5HmoKHli5jvvJvkuK3mlofkuLrlv6Dlrp7ovazor5HjgIIiCn0K
+{
+  "id": "enchiridion",
+  "title": "爱比克泰德《手册》",
+  "author": "爱比克泰德",
+  "translator": "公版英译（George Long 等）作校勘参考",
+  "source": "Epictetus, Enchiridion（公版英译节选）",
+  "edition": "公版英译节选",
+  "publisher": null,
+  "year": "约公元 125 年",
+  "copyright_status": "public-domain",
+  "license_note": "CC0 / 公有领域（原文，古希腊文；英文为公版译本）",
+  "verification_date": "2026-07-26",
+  "category": "西方哲学",
+  "perspective": "斯多葛",
+  "themes": ["控制", "接受", "判断", "情绪", "自由", "行动"],
+  "problem_tags": ["他人评价", "控制", "焦虑", "情绪", "接受", "行动", "内心自由", "被影响", "哪些事我能控制"],
+  "user_questions": [
+    "总是被别人的评价影响怎么办",
+    "哪些事是我能控制的",
+    "为什么事情总不如愿",
+    "如何不被外界情绪拖垮"
+  ],
+  "scenarios": ["情绪管理", "职场压力", "人际边界", "自我掌控"],
+  "authority_level": 5,
+  "citation": { "template": "《{title}·{section}》", "example": "《手册·第一节》" },
+  "language": "zh",
+  "source_type": "translation",
+  "chapter_split": "by-chapter",
+  "legalConfirm": true,
+  "status": "ready",
+  "notes": "原文古希腊文，节选采用公版英译校勘；中文为忠实转译。"
+}

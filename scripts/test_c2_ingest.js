@@ -1,1 +1,72 @@
-Ly8gUGhhc2UgQy0yIOWFpeW6k+iBlOiwg++8iOe6ryBOb2Rl77yM5peg5LqR5L6d6LWW77yJCi8vIOmqjOivge+8muKRoCBpbmdlc3RfcGFja2FnZSDop6PmnpDnnJ/lrp7otYTmlpnljIXvvJvikaEgS0Ig5qOA57Si77yIdGhlbWVzL3Byb2JsZW1fdGFncyDmoaXmooHvvInlj6zlm57mraPnoa7nu4/lhbjvvJsKLy8gICAgICAg4pGiIOW8leeUqOWPr+WumuS9je+8iHNvdXJjZVBvc2l0aW9u77yJLyDkuI3miKrmlq0gLyDkuI3lubvop4nvvIjljp/mlofpgJDlrZfvvInvvJvikaMg54mI5p2D6Ze46Zeo5ouS57udIHBlbmRpbmfjgIIKY29uc3QgcGF0aCA9IHJlcXVpcmUoInBhdGgiKTsKY29uc3QgaW5nZXN0ID0gcmVxdWlyZShwYXRoLmpvaW4oX19kaXJuYW1lLCAiLi4iLCAiY2xvdWRmdW5jdGlvbnMiLCAiaW5nZXN0IiwgImluZGV4LmpzIikpOwpjb25zdCB7IHJhbmtDaHVua3MgfSA9IHJlcXVpcmUocGF0aC5qb2luKF9fZGlybmFtZSwgIi4uIiwgImNsb3VkZnVuY3Rpb25zIiwgImNoYXQiLCAicmFnLmpzIikpOwoKbGV0IHBhc3MgPSAwLCBmYWlsID0gMDsKZnVuY3Rpb24gb2sobmFtZSwgY29uZCwgZXh0cmEpIHsKICBpZiAoY29uZCkgeyBwYXNzKys7IGNvbnNvbGUubG9nKCIgIOKckyAiICsgbmFtZSArIChleHRyYSA/ICIgICIgKyBleHRyYSA6ICIiKSk7IH0KICBlbHNlIHsgZmFpbCsrOyBjb25zb2xlLmxvZygiICDinJcgIiArIG5hbWUgKyAoZXh0cmEgPyAiICAiICsgZXh0cmEgOiAiIikpOyB9Cn0KCi8vIDEpIOino+aekOS4pOS4qiByZWFkeSDotYTmlpnljIXvvIjnnJ/lrp7orrror60gKyDmsonmgJ3lvZXmlofmnKzvvIkKY29uc3QgbHVueXUgPSBpbmdlc3QuYnVpbGRQYWNrYWdlQ2h1bmtzKCJjaGluZXNlX3BoaWxvc29waHkvbHVueXUiKTsKY29uc3QgbWVkID0gaW5nZXN0LmJ1aWxkUGFja2FnZUNodW5rcygid2VzdGVybl9waGlsb3NvcGh5L21lZGl0YXRpb25zIik7Cm9rKCLorrror63ljIXop6PmnpDlh7ogY2h1bmtzIiwgbHVueXUuY2h1bmtzLmxlbmd0aCA+IDAsICIoIiArIGx1bnl1LmNodW5rcy5sZW5ndGggKyAiKSIpOwpvaygi5rKJ5oCd5b2V5YyF6Kej5p6Q5Ye6IGNodW5rcyIsIG1lZC5jaHVua3MubGVuZ3RoID4gMCwgIigiICsgbWVkLmNodW5rcy5sZW5ndGggKyAiKSIpOwpvaygi6K666K+tIGNodW5rIOW4piBwZXJzcGVjdGl2ZT3lhJLlrrYiLCBsdW55dS5jaHVua3MuZXZlcnkoKGMpID0+IGMucGVyc3BlY3RpdmUgPT09ICLlhJLlrrYiKSk7Cm9rKCLmsonmgJ3lvZUgY2h1bmsg5bimIHBlcnNwZWN0aXZlPeaWr+WkmuiRmyIsIG1lZC5jaHVua3MuZXZlcnkoKGMpID0+IGMucGVyc3BlY3RpdmUgPT09ICLmlq/lpJrokZsiKSk7Cm9rKCLorrror60gY2h1bmsg5bimIHRoZW1lcy9wcm9ibGVtX3RhZ3MiLCBsdW55dS5jaHVua3MuZXZlcnkoKGMpID0+IEFycmF5LmlzQXJyYXkoYy50aGVtZXMpICYmIEFycmF5LmlzQXJyYXkoYy5wcm9ibGVtX3RhZ3MpKSk7Cm9rKCLnq6DoioLnu5PmnoTkv53nlZnvvIhzZWN0aW9uIOmdnuepuu+8iSIsIGx1bnl1LmNodW5rcy5ldmVyeSgoYykgPT4gYy5zZWN0aW9uICYmIGMuc2VjdGlvbi5sZW5ndGggPiAwKSk7Cgpjb25zdCBhbGxDaHVua3MgPSBsdW55dS5jaHVua3MuY29uY2F0KG1lZC5jaHVua3MpOwoKLy8gMikgNSDkuKrkurrnlJ/pl67popgg4oaSIOmqjOivgeWPrOWbngpjb25zdCBjYXNlcyA9IFsKICB7IHE6ICLmiJHlpKflrabmr5XkuJrlkI7kuI3nn6XpgZPpgInmi6nku4DkuYjmlrnlkJHvvIzlvojnhKbomZHjgIIiLCBleHBlY3Q6IFsi6K666K+tIiwgIuayieaAneW9lSJdLCB0YWc6ICLov7fojKsv5pa55ZCRIiB9LAogIHsgcTogIuWKquWKm+S6huW+iOS5heayoeaciee7k+aenO+8jOaIkeaYr+S4jeaYr+ayoeacieS7t+WAvO+8nyIsIGV4cGVjdDogWyLmsonmgJ3lvZUiXSwgdGFnOiAi5aSx6LSlL+S7t+WAvCIgfSwKICB7IHE6ICLlpoLkvZXmiJDkuLrmm7Tlpb3nmoTkurrvvJ8iLCBleHBlY3Q6IFsi6K666K+tIl0sIHRhZzogIuiHquaIkeaIkOmVvyIgfSwKICB7IHE6ICLmgLvmmK/mjqfliLbkuI3kvY/lr7nmnKrmnaXnmoTmi4Xlv6fvvIzmgI7kuYjlip7vvJ8iLCBleHBlY3Q6IFsi5rKJ5oCd5b2VIl0sIHRhZzogIueEpuiZkS/mjqfliLYiIH0sCiAgeyBxOiAi5oiR5oOz5byA5aeL6KGM5Yqo77yM5L2G5LiA55u05ouW5bu277yM5oCO5LmI56C077yfIiwgZXhwZWN0OiBbIuayieaAneW9lSJdLCB0YWc6ICLooYzliqjlipsiIH0sCl07Cgpjb25zdCByZXBvcnQgPSBbXTsKZm9yIChjb25zdCBjIG9mIGNhc2VzKSB7CiAgY29uc3QgeyBjaXRhdGlvbnMgfSA9IHJhbmtDaHVua3MoYy5xLCBhbGxDaHVua3MsIDMpOwogIGNvbnN0IHRpdGxlcyA9IGNpdGF0aW9ucy5tYXAoKHgpID0+IHgudGl0bGUpOwogIGNvbnN0IGhpdCA9IGMuZXhwZWN0LmZpbHRlcigoZSkgPT4gdGl0bGVzLmluY2x1ZGVzKGUpKTsKICBvayhgWyR7Yy50YWd9XSDlj6zlm57ljIXlkKvmnJ/mnJvnu4/lhbggJHtjLmV4cGVjdC5qb2luKCIvIil9YCwgaGl0Lmxlbmd0aCA9PT0gYy5leHBlY3QubGVuZ3RoLCAi4oaSICIgKyB0aXRsZXMuam9pbigi44CBIikpOwogIHJlcG9ydC5wdXNoKHsgcTogYy5xLCBleHBlY3Q6IGMuZXhwZWN0LCBnb3Q6IHRpdGxlcywgY2l0YXRpb25zIH0pOwp9CgovLyAzKSDlvJXnlKjotKjph4/vvJrlj6/lrprkvY0gLyDkuI3miKrmlq0gLyDkuI3lubvop4kKY29uc3Qgc2FtcGxlID0gcmVwb3J0WzBdLmNpdGF0aW9uczsKZm9yIChjb25zdCBjaXQgb2Ygc2FtcGxlKSB7CiAgb2soYOW8leeUqOOAiiR7Y2l0LnRpdGxlfeOAi+WQqyBzb3VyY2VfcG9zaXRpb25gLCAhIWNpdC5jaXRhdGlvbiAmJiB0eXBlb2YgY2l0LmNpdGF0aW9uLnNvdXJjZV9wb3NpdGlvbiA9PT0gInN0cmluZyIgJiYgY2l0LmNpdGF0aW9uLnNvdXJjZV9wb3NpdGlvbi5sZW5ndGggPiAwLCAiWyIgKyBjaXQuY2l0YXRpb24uc291cmNlX3Bvc2l0aW9uICsgIl0iKTsKICBvayhg5byV55SoIGRpc3BsYXlfdGV4dCDmoLzlvI/mraPnoa5gLCAvXuOAii4r44CLKMK3LispP1xzKlxbLitcXSQvLnRlc3QoY2l0LmNpdGF0aW9uLmRpc3BsYXlfdGV4dCksIGNpdC5jaXRhdGlvbi5kaXNwbGF5X3RleHQpOwogIC8vIOS4jeW5u+inie+8muiiq+W8leWGheWuueW/hemhu+aYryBzb3VyY2Ug55qE6YCQ5a2X54mH5q61CiAgY29uc3Qgc3JjID0gY2l0LnRpdGxlLmluY2x1ZGVzKCLorrror60iKSA/IGx1bnl1LmNvbnRlbnQgOiBtZWQuY29udGVudDsKICBvayhg5byV55So5YaF5a656YCQ5a2X5p2l6Ieq5Y6f5paH77yI5LiN5bm76KeJ77yJYCwgc3JjLmluY2x1ZGVzKGNpdC50ZXh0KSwgImxlbj0iICsgY2l0LnRleHQubGVuZ3RoKTsKICBvayhg5YaF5a655pyq5oiq5pat77yI6Z2e56m65LiUPD3ljp/mrrXvvIlgLCBjaXQudGV4dC50cmltKCkubGVuZ3RoID4gMCk7Cn0KCi8vIDQpIOeJiOadg+mXuOmXqO+8mnBlbmRpbmcgLyBsZWdhbENvbmZpcm09ZmFsc2Ug5b+F6aG75ouS57udCmNvbnN0IGdhdGVQZW5kaW5nID0gaW5nZXN0LmNoZWNrSW5nZXN0R2F0ZSh7IGxlZ2FsQ29uZmlybTogdHJ1ZSwgY29weXJpZ2h0U3RhdHVzOiAicGVuZGluZyIgfSk7CmNvbnN0IGdhdGVOb0NvbmZpcm0gPSBpbmdlc3QuY2hlY2tJbmdlc3RHYXRlKHsgbGVnYWxDb25maXJtOiBmYWxzZSwgY29weXJpZ2h0U3RhdHVzOiAicHVibGljLWRvbWFpbiIgfSk7CmNvbnN0IGdhdGVPayA9IGluZ2VzdC5jaGVja0luZ2VzdEdhdGUoeyBsZWdhbENvbmZpcm06IHRydWUsIGNvcHlyaWdodFN0YXR1czogInB1YmxpYy1kb21haW4iIH0pOwpvaygi6Ze46Zeo5ouS57udIHBlbmRpbmciLCBnYXRlUGVuZGluZy5vayA9PT0gZmFsc2UpOwpvaygi6Ze46Zeo5ouS57udIGxlZ2FsQ29uZmlybT1mYWxzZSIsIGdhdGVOb0NvbmZpcm0ub2sgPT09IGZhbHNlKTsKb2soIumXuOmXqOaUvuihjOWQiOinhOi1hOaWmSIsIGdhdGVPay5vayA9PT0gdHJ1ZSk7Cgpjb25zb2xlLmxvZygiXG49PT0g5qOA57SiL+W8leeUqOaKpeWRiu+8iOWJjSAxIOmimOekuuS+i++8jOW8leeUqOS4uuecn+WunuWOn+aWh+eJh+aute+8iT09PSIpOwpjb25zdCBxMCA9IHJlcG9ydFswXTsKY29uc29sZS5sb2coIumXrumimO+8miIgKyBxMC5xKTsKcTAuY2l0YXRpb25zLmZvckVhY2goKGMpID0+IHsKICBjb25zb2xlLmxvZygiICDCtyAiICsgYy5jaXRhdGlvbi5kaXNwbGF5X3RleHQpOwogIGNvbnNvbGUubG9nKCIgICAgIiArIGMudGV4dC5zbGljZSgwLCA2MCkucmVwbGFjZSgvXG4vZywgIiAiKSArIChjLnRleHQubGVuZ3RoID4gNjAgPyAi4oCmIiA6ICIiKSk7Cn0pOwoKY29uc29sZS5sb2coYFxu57uT5p6cOiAke3Bhc3N9IOmAmui/hywgJHtmYWlsfSDlpLHotKVgKTsKcHJvY2Vzcy5leGl0KGZhaWwgPyAxIDogMCk7Cg==
+// Phase C-2 入库联调（纯 Node，无云依赖）
+// 验证：① ingest_package 解析真实资料包；② KB 检索（themes/problem_tags 桥梁）召回正确经典；
+//       ③ 引用可定位（sourcePosition）/ 不截断 / 不幻觉（原文逐字）；④ 版权闸门拒绝 pending。
+const path = require("path");
+const ingest = require(path.join(__dirname, "..", "cloudfunctions", "ingest", "index.js"));
+const { rankChunks } = require(path.join(__dirname, "..", "cloudfunctions", "chat", "rag.js"));
+
+let pass = 0, fail = 0;
+function ok(name, cond, extra) {
+  if (cond) { pass++; console.log("  ✓ " + name + (extra ? "  " + extra : "")); }
+  else { fail++; console.log("  ✗ " + name + (extra ? "  " + extra : "")); }
+}
+
+// 1) 解析两个 ready 资料包（真实论语 + 沉思录文本）
+const lunyu = ingest.buildPackageChunks("chinese_philosophy/lunyu");
+const med = ingest.buildPackageChunks("western_philosophy/meditations");
+ok("论语包解析出 chunks", lunyu.chunks.length > 0, "(" + lunyu.chunks.length + ")");
+ok("沉思录包解析出 chunks", med.chunks.length > 0, "(" + med.chunks.length + ")");
+ok("论语 chunk 带 perspective=儒家", lunyu.chunks.every((c) => c.perspective === "儒家"));
+ok("沉思录 chunk 带 perspective=斯多葛", med.chunks.every((c) => c.perspective === "斯多葛"));
+ok("论语 chunk 带 themes/problem_tags", lunyu.chunks.every((c) => Array.isArray(c.themes) && Array.isArray(c.problem_tags)));
+ok("章节结构保留（section 非空）", lunyu.chunks.every((c) => c.section && c.section.length > 0));
+
+const allChunks = lunyu.chunks.concat(med.chunks);
+
+// 2) 5 个人生问题 → 验证召回
+const cases = [
+  { q: "我大学毕业后不知道选择什么方向，很焦虑。", expect: ["论语", "沉思录"], tag: "迷茫/方向" },
+  { q: "努力了很久没有结果，我是不是没有价值？", expect: ["沉思录"], tag: "失败/价值" },
+  { q: "如何成为更好的人？", expect: ["论语"], tag: "自我成长" },
+  { q: "总是控制不住对未来的担忧，怎么办？", expect: ["沉思录"], tag: "焦虑/控制" },
+  { q: "我想开始行动，但一直拖延，怎么破？", expect: ["沉思录"], tag: "行动力" },
+];
+
+const report = [];
+for (const c of cases) {
+  const { citations } = rankChunks(c.q, allChunks, 3);
+  const titles = citations.map((x) => x.title);
+  const hit = c.expect.filter((e) => titles.includes(e));
+  ok(`[${c.tag}] 召回包含期望经典 ${c.expect.join("/")}`, hit.length === c.expect.length, "→ " + titles.join("、"));
+  report.push({ q: c.q, expect: c.expect, got: titles, citations });
+}
+
+// 3) 引用质量：可定位 / 不截断 / 不幻觉
+const sample = report[0].citations;
+for (const cit of sample) {
+  ok(`引用《${cit.title}》含 source_position`, !!cit.citation && typeof cit.citation.source_position === "string" && cit.citation.source_position.length > 0, "[" + cit.citation.source_position + "]");
+  ok(`引用 display_text 格式正确`, /^《.+》(·.+)?\s*\[.+\]$/.test(cit.citation.display_text), cit.citation.display_text);
+  // 不幻觉：被引内容必须是 source 的逐字片段
+  const src = cit.title.includes("论语") ? lunyu.content : med.content;
+  ok(`引用内容逐字来自原文（不幻觉）`, src.includes(cit.text), "len=" + cit.text.length);
+  ok(`内容未截断（非空且<=原段）`, cit.text.trim().length > 0);
+}
+
+// 4) 版权闸门：pending / legalConfirm=false 必须拒绝
+const gatePending = ingest.checkIngestGate({ legalConfirm: true, copyrightStatus: "pending" });
+const gateNoConfirm = ingest.checkIngestGate({ legalConfirm: false, copyrightStatus: "public-domain" });
+const gateOk = ingest.checkIngestGate({ legalConfirm: true, copyrightStatus: "public-domain" });
+ok("闸门拒绝 pending", gatePending.ok === false);
+ok("闸门拒绝 legalConfirm=false", gateNoConfirm.ok === false);
+ok("闸门放行合规资料", gateOk.ok === true);
+
+console.log("\n=== 检索/引用报告（前 1 题示例，引用为真实原文片段）===");
+const q0 = report[0];
+console.log("问题：" + q0.q);
+q0.citations.forEach((c) => {
+  console.log("  · " + c.citation.display_text);
+  console.log("    " + c.text.slice(0, 60).replace(/\n/g, " ") + (c.text.length > 60 ? "…" : ""));
+});
+
+console.log(`\n结果: ${pass} 通过, ${fail} 失败`);
+process.exit(fail ? 1 : 0);

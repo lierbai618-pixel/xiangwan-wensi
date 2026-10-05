@@ -1,1 +1,97 @@
-J3VzZSBzdHJpY3QnOwovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KLy8gdGVzdF9xMzIuanMg4oCUIFBoYXNlIFEyLTE0IOe7re+8muWIhuexu+WZqOOAjOW9k+WJjeS6i+S7tuOAjei3r+eUsSArIGZyZXNobmVzcyDkuI3lho3nn63ot68KLy8gICDCtyDmlq3oqIDoh6rnhLbmlrDpl7sv5Yqo5oCB6Zeu5rOV56iz5a6a5b2SIELvvIjpq5jnva7kv6HvvInihpIg6Kem5Y+R6IGU572R5qOA57SiCi8vICAgwrcg5pat6KiA57qv5ZOy5a2mL+efpeivhumXruazleS7jeW9kiBB77yI5LiN6IGU572R77yM56ym5ZCI6K6+6K6h77yJCi8vICAgwrcg5pat6KiAIGZyZXNobmVzcy5tYXliZUhhbmRsZSDlr7kgQiDnsbvpl67popjjgJDnnJ/mraPosIPnlKggc2VhcmNoTGF5ZXIuc2VhcmNo44CRCi8vICAgICDvvIjnm7TmjqXplIHmrbsgUTItMTQg5L+u5aSN77ya5q2k5YmNIHJldHJpZXZlci5nZXRQcm92aWRlck5hbWUoKSDor7vml6flj5jph48KLy8gICAgICDlr7zoh7TmsLjov5znn63ot6/jgIHmsLjkuI3mo4DntKLvvIkKLy8gICDkvp3otZbvvJpOb2RlIDIyIOi3kea1i+ivle+8m+S4jeS+nei1luecn+Wunue9kee7nC/nnJ/lrp4gQVBJ44CCCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQp2YXIgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKTsKCnZhciBQQVNTID0gMCwgRkFJTCA9IDA7CmZ1bmN0aW9uIG9rKGNvbmQsIG5hbWUpIHsKICBpZiAoY29uZCkgeyBQQVNTKys7IC8qY29uc29sZS5sb2coJyAg4pyTICcgKyBuYW1lKTsqLyB9CiAgZWxzZSB7IEZBSUwrKzsgY29uc29sZS5sb2coJyAg4pyXIEZBSUw6ICcgKyBuYW1lKTsgfQp9CmZ1bmN0aW9uIGVxKGEsIGIsIG5hbWUpIHsgb2soYSA9PT0gYiwgbmFtZSArICcgKGdvdD0nICsgSlNPTi5zdHJpbmdpZnkoYSkgKyAnLCB3YW50PScgKyBKU09OLnN0cmluZ2lmeShiKSArICcpJyk7IH0KZnVuY3Rpb24gc2VjdGlvbih0KSB7IGNvbnNvbGUubG9nKCdcbj09PSAnICsgdCArICcgPT09Jyk7IH0KCnZhciBjbGFzc2lmaWVyID0gcmVxdWlyZSgnLi4vY2xvdWRmdW5jdGlvbnMvY2hhdC9mcmVzaG5lc3MvZXZlbnRDbGFzc2lmaWVyJyk7CnZhciBmcmVzaG5lc3MgPSByZXF1aXJlKCcuLi9jbG91ZGZ1bmN0aW9ucy9jaGF0L2ZyZXNobmVzcycpOwp2YXIgc2VhcmNoTGF5ZXIgPSByZXF1aXJlKCcuLi9jbG91ZGZ1bmN0aW9ucy9jaGF0L3Byb3ZpZGVycy9zZWFyY2gnKTsKCnZhciBCX1FVRVJJRVMgPSBbCiAgJ+S7iuWkqeacieS7gOS5iOenkeaKgOaWsOmXuycsCiAgJ+S7iuWkqeacieS7gOS5iEFJ55u45YWz55qE5raI5oGvJywKICAn5LuK5aSp5pyJ5LuA5LmI5YC85b6X5YWz5rOo55qE56eR5oqA5Yqo5oCBJywKICAn5pyA6L+R55S15b2x56Wo5oi/5oCO5LmI5qC3JywKICAn5pyA5paw6L+b5bGV5piv5LuA5LmIJywKICAn546w5Zyo5q2j5Zyo5Y+R55Sf5LuA5LmI5aSn5LqLJywKICAn5LuK5aSp5pyJ5LuA5LmI5paw6Ze7JywKICAn5pyA6L+R5pyJ5LuA5LmI5paw6Ze7JywKICAn5oCO5LmI55yL5pyA6L+R55qEQUnnqoHnoLQnLAogICfkvaDlr7nku4rlpKnnmoTogqHluILmgI7kuYjnnIsnCl07CnZhciBBX1FVRVJJRVMgPSBbCiAgJ+aAjuS5iOeQhuino+W6hOWtkOeahOmAjemBpea4uCcsCiAgJ+S6uueUn+eahOaEj+S5ieaYr+S7gOS5iCcsCiAgJ+aOqOiNkOS4gOacrOWlveS5picsCiAgJ+WLvuiCoeWumueQhuaYr+S7gOS5iCcsCiAgJ+iuuuivreWRiuivieaIkeS7gOS5iOmBk+eQhicKXTsKCnNlY3Rpb24oJ+WIhuexu+WZqMK35b2T5YmN5LqL5Lu26Zeu5rOV56iz5a6a5b2SIELvvIjop6blj5HogZTnvZHvvIknKTsKQl9RVUVSSUVTLmZvckVhY2goZnVuY3Rpb24gKHEpIHsKICB2YXIgciA9IGNsYXNzaWZpZXIuY2xhc3NpZnlDYXRlZ29yeShxLCBudWxsKTsKICBlcShyLmNhdGVnb3J5LCAnQicsICdC57G7OiAnICsgcSk7CiAgZXEoci5jb25maWRlbmNlLCAnaGlnaCcsICfpq5jnva7kv6E6ICcgKyBxKTsKfSk7CgpzZWN0aW9uKCfliIbnsbvlmajCt+e6r+WTsuWtpi/nn6Xor4bpl67ms5Xku43lvZIgQe+8iOS4jeiBlOe9ke+8jOespuWQiOiuvuiuoe+8iScpOwpBX1FVRVJJRVMuZm9yRWFjaChmdW5jdGlvbiAocSkgewogIHZhciByID0gY2xhc3NpZmllci5jbGFzc2lmeUNhdGVnb3J5KHEsIG51bGwpOwogIGVxKHIuY2F0ZWdvcnksICdBJywgJ0Hnsbs6ICcgKyBxKTsKfSk7CgpzZWN0aW9uKCfpm4bmiJDCt2ZyZXNobmVzcyDlv4XpobvnnJ/mraPosIPnlKggc2VhcmNoTGF5ZXIuc2VhcmNo77yI6ZSB5q27IFEyLTE0IOefrei3r+S/ruWkje+8iScpOwooYXN5bmMgZnVuY3Rpb24gKCkgewogIC8vIOazqOWFpeWBh+aQnOe0ou+8mui/lOWbniBvayDnu5PmnpzlubbmiZPosIPnlKjmoIforrDvvJvlkIzml7bpqozor4HmkJzntKLooqvnnJ/mraPop6bovr4KICB2YXIgY2FsbGVkID0geyB2OiBmYWxzZSB9OwogIHZhciByZWFsU2VhcmNoID0gc2VhcmNoTGF5ZXIuc2VhcmNoOwogIHNlYXJjaExheWVyLnNlYXJjaCA9IGZ1bmN0aW9uIChxLCBvcHRzKSB7CiAgICBjYWxsZWQudiA9IHRydWU7CiAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKHsKICAgICAgb2s6IHRydWUsIHByb3ZpZGVyOiAncXdlbicsCiAgICAgIHJlc3VsdHM6IFt7IHRpdGxlOiAn5rWL6K+V5paw6Ze7JywgdXJsOiAnaHR0cHM6Ly9leGFtcGxlLmNvbS8xJywgc25pcHBldDogJ+aRmOimgScsIHNvdXJjZTogJ+a1i+ivlea6kCcgfV0sCiAgICAgIHJlYXNvbjogJycsIGNhY2hlZDogZmFsc2UsCiAgICAgIGF1ZGl0OiB7IHByb3ZpZGVyOiAncXdlbicsIGxhdGVuY3lfbXM6IDEsIGNhY2hlX2hpdDogZmFsc2UsIGRvd25ncmFkZV9yZWFzb246ICcnLCBxdW90YV9yZW1haW5pbmc6IDQ5OSwgY2FuYXJ5X2Jsb2NrZWQ6IGZhbHNlLCBkYXRhX3JvdXRlOiAnZG9tZXN0aWMnIH0KICAgIH0pOwogIH07CgogIHRyeSB7CiAgICB2YXIgcmVzID0gYXdhaXQgZnJlc2huZXNzLm1heWJlSGFuZGxlKCfku4rlpKnmnInku4DkuYjnp5HmioDmlrDpl7snLCB7CiAgICAgIGZhY3R1YWxFbmFibGVkOiB0cnVlLAogICAgICBzZWFyY2hQcm92aWRlcjogJ3F3ZW4nLAogICAgICBhbnN3ZXJNb2RlOiAndGhpbmsnLAogICAgICBvcGVuaWQ6ICdhZG1pbi1vcGVuaWQtdGVzdCcsCiAgICAgIG1vZGVsczogW10sCiAgICAgIGhpc3Rvcnk6IFtdCiAgICB9KTsKICAgIG9rKGNhbGxlZC52ID09PSB0cnVlLCAnZnJlc2huZXNzIOehruWunuiwg+eUqOS6hiBzZWFyY2hMYXllci5zZWFyY2jvvIjmnKrnn63ot6/vvIknKTsKICAgIG9rKCEhcmVzLCAnbWF5YmVIYW5kbGUg6L+U5Zue5LqG57uT5p6c5a+56LGhJyk7CiAgICBpZiAocmVzICYmIHJlcy5mcmVzaG5lc3MpIHsKICAgICAgZXEocmVzLmZyZXNobmVzcy5zZWFyY2hfcHJvdmlkZXIsICdxd2VuJywgJ3NlYXJjaF9wcm92aWRlciDpgI/kvKDkuLogcXdlbicpOwogICAgICBvayghIXJlcy5mcmVzaG5lc3Muc2VhcmNoX2F1ZGl0LCAnc2VhcmNoX2F1ZGl0IOW3suWhq+WFhe+8iOivgeaYjuajgOe0oumTvui3r+iiq+aJp+ihjO+8iScpOwogICAgfQogIH0gY2F0Y2ggKGUpIHsKICAgIG9rKGZhbHNlLCAnbWF5YmVIYW5kbGUg5oqb5byC5bi4OiAnICsgKGUgJiYgZS5tZXNzYWdlKSk7CiAgfSBmaW5hbGx5IHsKICAgIHNlYXJjaExheWVyLnNlYXJjaCA9IHJlYWxTZWFyY2g7IC8vIOi/mOWOn++8jOmBv+WFjeaxoeafk+WFtuS7lua1i+ivlQogIH0KCiAgY29uc29sZS5sb2coJ1xuLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLScpOwogIGNvbnNvbGUubG9nKCd0ZXN0X3EzMiBQQVNTPScgKyBQQVNTICsgJyAgRkFJTD0nICsgRkFJTCk7CiAgcHJvY2Vzcy5leGl0KEZBSUwgPT09IDAgPyAwIDogMSk7Cn0pKCk7Cg==
+'use strict';
+// ============================================================
+// test_q32.js — Phase Q2-14 续：分类器「当前事件」路由 + freshness 不再短路
+//   · 断言自然新闻/动态问法稳定归 B（高置信）→ 触发联网检索
+//   · 断言纯哲学/知识问法仍归 A（不联网，符合设计）
+//   · 断言 freshness.maybeHandle 对 B 类问题【真正调用 searchLayer.search】
+//     （直接锁死 Q2-14 修复：此前 retriever.getProviderName() 读旧变量
+//      导致永远短路、永不检索）
+//   依赖：Node 22 跑测试；不依赖真实网络/真实 API。
+// ============================================================
+var path = require('path');
+
+var PASS = 0, FAIL = 0;
+function ok(cond, name) {
+  if (cond) { PASS++; /*console.log('  ✓ ' + name);*/ }
+  else { FAIL++; console.log('  ✗ FAIL: ' + name); }
+}
+function eq(a, b, name) { ok(a === b, name + ' (got=' + JSON.stringify(a) + ', want=' + JSON.stringify(b) + ')'); }
+function section(t) { console.log('\n=== ' + t + ' ==='); }
+
+var classifier = require('../cloudfunctions/chat/freshness/eventClassifier');
+var freshness = require('../cloudfunctions/chat/freshness');
+var searchLayer = require('../cloudfunctions/chat/providers/search');
+
+var B_QUERIES = [
+  '今天有什么科技新闻',
+  '今天有什么AI相关的消息',
+  '今天有什么值得关注的科技动态',
+  '最近电影票房怎么样',
+  '最新进展是什么',
+  '现在正在发生什么大事',
+  '今天有什么新闻',
+  '最近有什么新闻',
+  '怎么看最近的AI突破',
+  '你对今天的股市怎么看'
+];
+var A_QUERIES = [
+  '怎么理解庄子的逍遥游',
+  '人生的意义是什么',
+  '推荐一本好书',
+  '勾股定理是什么',
+  '论语告诉我什么道理'
+];
+
+section('分类器·当前事件问法稳定归 B（触发联网）');
+B_QUERIES.forEach(function (q) {
+  var r = classifier.classifyCategory(q, null);
+  eq(r.category, 'B', 'B类: ' + q);
+  eq(r.confidence, 'high', '高置信: ' + q);
+});
+
+section('分类器·纯哲学/知识问法仍归 A（不联网，符合设计）');
+A_QUERIES.forEach(function (q) {
+  var r = classifier.classifyCategory(q, null);
+  eq(r.category, 'A', 'A类: ' + q);
+});
+
+section('集成·freshness 必须真正调用 searchLayer.search（锁死 Q2-14 短路修复）');
+(async function () {
+  // 注入假搜索：返回 ok 结果并打调用标记；同时验证搜索被真正触达
+  var called = { v: false };
+  var realSearch = searchLayer.search;
+  searchLayer.search = function (q, opts) {
+    called.v = true;
+    return Promise.resolve({
+      ok: true, provider: 'qwen',
+      results: [{ title: '测试新闻', url: 'https://example.com/1', snippet: '摘要', source: '测试源' }],
+      reason: '', cached: false,
+      audit: { provider: 'qwen', latency_ms: 1, cache_hit: false, downgrade_reason: '', quota_remaining: 499, canary_blocked: false, data_route: 'domestic' }
+    });
+  };
+
+  try {
+    var res = await freshness.maybeHandle('今天有什么科技新闻', {
+      factualEnabled: true,
+      searchProvider: 'qwen',
+      answerMode: 'think',
+      openid: 'admin-openid-test',
+      models: [],
+      history: []
+    });
+    ok(called.v === true, 'freshness 确实调用了 searchLayer.search（未短路）');
+    ok(!!res, 'maybeHandle 返回了结果对象');
+    if (res && res.freshness) {
+      eq(res.freshness.search_provider, 'qwen', 'search_provider 透传为 qwen');
+      ok(!!res.freshness.search_audit, 'search_audit 已填充（证明检索链路被执行）');
+    }
+  } catch (e) {
+    ok(false, 'maybeHandle 抛异常: ' + (e && e.message));
+  } finally {
+    searchLayer.search = realSearch; // 还原，避免污染其他测试
+  }
+
+  console.log('\n----------------------------------------');
+  console.log('test_q32 PASS=' + PASS + '  FAIL=' + FAIL);
+  process.exit(FAIL === 0 ? 0 : 1);
+})();

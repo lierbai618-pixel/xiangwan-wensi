@@ -1,1 +1,128 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMw0KIyAtKi0gY29kaW5nOiB1dGYtOCAtKi0NCiIiIg0KQWduZXMg5qih5Z6L5rex5bqm5rWL6K+V77yaDQoxLiDlhbPpl60v6ZmN5L2OIHJlYXNvbmluZyDlr7kgZmxhc2gg5qih5Z6L55qE5b2x5ZONDQoyLiDnlKjlt7Lnn6Xlj6/mkJzntKLpl67popjvvIjku5joiKrvvInmtYvor5XmiYDmnInmqKHlnovlrp7pmYXmkJzntKLog73lipsNCjMuIOWvueavlCBtYXhfdG9rZW5zIDIwNDggdnMgMTAyNA0KIiIiDQoNCmltcG9ydCBqc29uLCB0aW1lLCBodHRwLmNsaWVudCwgc3NsDQoNCkFQSV9LRVkgPSAic2stWU9VUl9BUElfS0VZX0hFUkUiDQpCQVNFX1VSTCA9ICJhcGlodWIuYWduZXMtYWkuY29tIg0KUEFUSCA9ICIvdjEvY2hhdC9jb21wbGV0aW9ucyINCg0KSEVBREVSUyA9IHsNCiAgICAiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb247IGNoYXJzZXQ9dXRmLTgiLA0KICAgICJBY2NlcHQiOiAiYXBwbGljYXRpb24vanNvbiIsDQogICAgIkF1dGhvcml6YXRpb24iOiBmIkJlYXJlciB7QVBJX0tFWX0iLA0KfQ0KDQpNT0RFTFMgPSBbImFnbmVzLTIuMC1mbGFzaCIsICJhZ25lcy0yLjUtZmxhc2giLCAiYWduZXMtMi41LXBybyJdDQoNClRFU1RTID0gWw0KICAgIHsibmFtZSI6ICLmoIflh4YxMDI0K3dlYl9zZWFyY2giLCAibWF4X3Rva2VucyI6IDEwMjQsICJ3ZWJfc2VhcmNoIjogVHJ1ZSwgImV4dHJhIjoge319LA0KICAgIHsibmFtZSI6ICLmoIflh4YyMDQ4K3dlYl9zZWFyY2giLCAibWF4X3Rva2VucyI6IDIwNDgsICJ3ZWJfc2VhcmNoIjogVHJ1ZSwgImV4dHJhIjoge319LA0KICAgIHsibmFtZSI6ICIyMDQ4K3JlYXNvbmluZ19sb3ciLCAibWF4X3Rva2VucyI6IDIwNDgsICJ3ZWJfc2VhcmNoIjogVHJ1ZSwgImV4dHJhIjogeyJyZWFzb25pbmdfZWZmb3J0IjogImxvdyJ9fSwNCiAgICB7Im5hbWUiOiAiMjA0OCtub19yZWFzb25pbmciLCAibWF4X3Rva2VucyI6IDIwNDgsICJ3ZWJfc2VhcmNoIjogVHJ1ZSwgImV4dHJhIjogeyJyZWFzb25pbmciOiBGYWxzZX19LA0KXQ0KDQpRVUVTVElPTiA9ICLku5joiKrmmK/osIHvvJ/or7for6bnu4bku4vnu43ku5bnmoTogYzkuJrlkozmiJDlsLHjgIIiDQoNCg0KZGVmIGNhbGxfbW9kZWwobW9kZWwsIHF1ZXN0aW9uLCBtYXhfdG9rZW5zLCB3ZWJfc2VhcmNoLCBleHRyYSk6DQogICAgYm9keSA9IHsNCiAgICAgICAgIm1vZGVsIjogbW9kZWwsDQogICAgICAgICJtZXNzYWdlcyI6IFsNCiAgICAgICAgICAgIHsicm9sZSI6ICJzeXN0ZW0iLCAiY29udGVudCI6ICLkvaDmmK/nn6Xor4bliqnmiYvjgILnm7Tnu5nlhbPplK7kuovlrp7vvIzkuI3lrqLlpZfvvIzkuI3ph43lpI3pl67popjjgIIifSwNCiAgICAgICAgICAgIHsicm9sZSI6ICJ1c2VyIiwgImNvbnRlbnQiOiBxdWVzdGlvbn0NCiAgICAgICAgXSwNCiAgICAgICAgInN0cmVhbSI6IEZhbHNlLA0KICAgICAgICAibWF4X3Rva2VucyI6IG1heF90b2tlbnMsDQogICAgfQ0KICAgIGlmIHdlYl9zZWFyY2g6DQogICAgICAgIGJvZHlbIndlYl9zZWFyY2hfb3B0aW9ucyJdID0ge30NCiAgICBpZiBleHRyYToNCiAgICAgICAgYm9keS51cGRhdGUoZXh0cmEpDQoNCiAgICBwYXlsb2FkID0ganNvbi5kdW1wcyhib2R5LCBlbnN1cmVfYXNjaWk9RmFsc2UpLmVuY29kZSgidXRmLTgiKQ0KICAgIGNvbm4gPSBodHRwLmNsaWVudC5IVFRQU0Nvbm5lY3Rpb24oQkFTRV9VUkwsIGNvbnRleHQ9c3NsLmNyZWF0ZV9kZWZhdWx0X2NvbnRleHQoKSwgdGltZW91dD0yNSkNCiAgICBzdGFydCA9IHRpbWUudGltZSgpDQogICAgdHJ5Og0KICAgICAgICBjb25uLnJlcXVlc3QoIlBPU1QiLCBQQVRILCBib2R5PXBheWxvYWQsIGhlYWRlcnM9SEVBREVSUykNCiAgICAgICAgcmVzcCA9IGNvbm4uZ2V0cmVzcG9uc2UoKQ0KICAgICAgICBkYXRhID0gcmVzcC5yZWFkKCkuZGVjb2RlKCJ1dGYtOCIpDQogICAgICAgIGVsYXBzZWQgPSBpbnQoKHRpbWUudGltZSgpIC0gc3RhcnQpICogMTAwMCkNCg0KICAgICAgICBpZiByZXNwLnN0YXR1cyAhPSAyMDA6DQogICAgICAgICAgICByZXR1cm4gRmFsc2UsIGVsYXBzZWQsIE5vbmUsIE5vbmUsIGYiSFRUUCB7cmVzcC5zdGF0dXN9OiB7ZGF0YVs6MzAwXX0iDQoNCiAgICAgICAgb2JqID0ganNvbi5sb2FkcyhkYXRhKQ0KICAgICAgICBjaG9pY2VzID0gb2JqLmdldCgiY2hvaWNlcyIsIFtdKQ0KICAgICAgICBpZiBub3QgY2hvaWNlczoNCiAgICAgICAgICAgIHJldHVybiBGYWxzZSwgZWxhcHNlZCwgTm9uZSwgTm9uZSwgIm5vIGNob2ljZXMiDQoNCiAgICAgICAgY29udGVudCA9IGNob2ljZXNbMF0uZ2V0KCJtZXNzYWdlIiwge30pLmdldCgiY29udGVudCIsICIiKQ0KICAgICAgICB1c2FnZSA9IG9iai5nZXQoInVzYWdlIiwge30pDQogICAgICAgIHJldHVybiBUcnVlLCBlbGFwc2VkLCBjb250ZW50LCB1c2FnZSwgTm9uZQ0KICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToNCiAgICAgICAgZWxhcHNlZCA9IGludCgodGltZS50aW1lKCkgLSBzdGFydCkgKiAxMDAwKQ0KICAgICAgICByZXR1cm4gRmFsc2UsIGVsYXBzZWQsIE5vbmUsIE5vbmUsIHN0cihlKQ0KICAgIGZpbmFsbHk6DQogICAgICAgIGNvbm4uY2xvc2UoKQ0KDQoNCnByaW50KGYi6Zeu6aKYOiB7UVVFU1RJT059IikNCnByaW50KGYieyc9Jyo3MH0iKQ0KDQpyZXN1bHRzID0gW10NCmZvciBtb2RlbCBpbiBNT0RFTFM6DQogICAgcHJpbnQoZiJcbj4+PiDmqKHlnos6IHttb2RlbH0iKQ0KICAgIGZvciB0ZXN0IGluIFRFU1RTOg0KICAgICAgICBvaywgbGF0LCBjb250ZW50LCB1c2FnZSwgZXJyID0gY2FsbF9tb2RlbCgNCiAgICAgICAgICAgIG1vZGVsLCBRVUVTVElPTiwgdGVzdFsibWF4X3Rva2VucyJdLCB0ZXN0WyJ3ZWJfc2VhcmNoIl0sIHRlc3RbImV4dHJhIl0NCiAgICAgICAgKQ0KICAgICAgICByZXN1bHQgPSB7DQogICAgICAgICAgICAibW9kZWwiOiBtb2RlbCwNCiAgICAgICAgICAgICJ0ZXN0IjogdGVzdFsibmFtZSJdLA0KICAgICAgICAgICAgIm9rIjogb2ssDQogICAgICAgICAgICAibGF0ZW5jeV9tcyI6IGxhdCwNCiAgICAgICAgICAgICJjb250ZW50X2xlbiI6IGxlbihjb250ZW50KSBpZiBjb250ZW50IGVsc2UgMCwNCiAgICAgICAgICAgICJjb250ZW50X3ByZXZpZXciOiAoY29udGVudFs6MzAwXSArICIuLi4iKSBpZiBjb250ZW50IGFuZCBsZW4oY29udGVudCkgPiAzMDAgZWxzZSBjb250ZW50LA0KICAgICAgICAgICAgInVzYWdlIjogdXNhZ2UsDQogICAgICAgICAgICAiZXJyb3IiOiBlcnIsDQogICAgICAgIH0NCiAgICAgICAgcmVzdWx0cy5hcHBlbmQocmVzdWx0KQ0KDQogICAgICAgIHN0YXR1cyA9ICLinIUiIGlmIG9rIGVsc2UgIuKdjCINCiAgICAgICAgcHJpbnQoZiIgIFt7c3RhdHVzfV0ge3Rlc3RbJ25hbWUnXToyNHN9IHtsYXQ6NWR9bXMgfCBsZW49e3Jlc3VsdFsnY29udGVudF9sZW4nXTo0ZH0iLCBlbmQ9IiIpDQogICAgICAgIGlmIHVzYWdlOg0KICAgICAgICAgICAgY29tcCA9IHVzYWdlLmdldCgiY29tcGxldGlvbl90b2tlbnMiLCAwKQ0KICAgICAgICAgICAgcmQgPSB1c2FnZS5nZXQoImNvbXBsZXRpb25fdG9rZW5zX2RldGFpbHMiLCB7fSkuZ2V0KCJyZWFzb25pbmdfdG9rZW5zIiwgMCkNCiAgICAgICAgICAgIHR4dCA9IHVzYWdlLmdldCgiY29tcGxldGlvbl90b2tlbnNfZGV0YWlscyIsIHt9KS5nZXQoInRleHRfdG9rZW5zIiwgMCkNCiAgICAgICAgICAgIGlmIHJkOg0KICAgICAgICAgICAgICAgIHByaW50KGYiIHwgY29tcD17Y29tcH0gcmVhc29uaW5nPXtyZH0gdGV4dD17dHh0fSIpDQogICAgICAgICAgICBlbHNlOg0KICAgICAgICAgICAgICAgIHByaW50KGYiIHwgY29tcD17Y29tcH0iKQ0KICAgICAgICBlbHNlOg0KICAgICAgICAgICAgcHJpbnQoKQ0KICAgICAgICBpZiBjb250ZW50IGFuZCBvazoNCiAgICAgICAgICAgIHByaW50KGYiICAgICAgIC0+IHtyZXN1bHRbJ2NvbnRlbnRfcHJldmlldyddfSIpDQogICAgICAgIGlmIGVycjoNCiAgICAgICAgICAgIHByaW50KGYiICAgICAgIEVSUk9SOiB7ZXJyWzoxMjBdfSIpDQoNCnByaW50KGYiXG57Jz0nKjcwfSIpDQpwcmludCgi5rGH5oC777yI5LuF5oiQ5Yqf5LiUY29udGVudD4w55qE77yJOiIpDQpmb3IgbW9kZWwgaW4gTU9ERUxTOg0KICAgIG9rX3Jlc3VsdHMgPSBbciBmb3IgciBpbiByZXN1bHRzIGlmIHJbIm1vZGVsIl0gPT0gbW9kZWwgYW5kIHJbIm9rIl0gYW5kIHJbImNvbnRlbnRfbGVuIl0gPiAwXQ0KICAgIGlmIG9rX3Jlc3VsdHM6DQogICAgICAgIGF2Z19sYXQgPSBzdW0oclsibGF0ZW5jeV9tcyJdIGZvciByIGluIG9rX3Jlc3VsdHMpIC8gbGVuKG9rX3Jlc3VsdHMpDQogICAgICAgIGF2Z19sZW4gPSBzdW0oclsiY29udGVudF9sZW4iXSBmb3IgciBpbiBva19yZXN1bHRzKSAvIGxlbihva19yZXN1bHRzKQ0KICAgICAgICBwcmludChmIiAge21vZGVsfToge2xlbihva19yZXN1bHRzKX3mrKHmiJDlip8gfCDlubPlnYflu7bov58ge2F2Z19sYXQ6LjBmfW1zIHwg5bmz5Z2H5a2X5pWwIHthdmdfbGVuOi4wZn0iKQ0KICAgIGVsc2U6DQogICAgICAgIHByaW50KGYiICB7bW9kZWx9OiDml6DmiJDlip/orrDlvZUiKQ0KDQp3aXRoIG9wZW4oImFnbmVzX21vZGVsX2RlZXBfdGVzdC5qc29uIiwgInciLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOg0KICAgIGpzb24uZHVtcChyZXN1bHRzLCBmLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0yKQ0KcHJpbnQoIlxu57uT5p6c5bey5L+d5a2Y5YiwIGFnbmVzX21vZGVsX2RlZXBfdGVzdC5qc29uIikNCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Agnes 模型深度测试：
+1. 关闭/降低 reasoning 对 flash 模型的影响
+2. 用已知可搜索问题（付航）测试所有模型实际搜索能力
+3. 对比 max_tokens 2048 vs 1024
+"""
+
+import json, time, http.client, ssl
+
+API_KEY = "sk-YOUR_API_KEY_HERE"
+BASE_URL = "apihub.agnes-ai.com"
+PATH = "/v1/chat/completions"
+
+HEADERS = {
+    "Content-Type": "application/json; charset=utf-8",
+    "Accept": "application/json",
+    "Authorization": f"Bearer {API_KEY}",
+}
+
+MODELS = ["agnes-2.0-flash", "agnes-2.5-flash", "agnes-2.5-pro"]
+
+TESTS = [
+    {"name": "标准1024+web_search", "max_tokens": 1024, "web_search": True, "extra": {}},
+    {"name": "标准2048+web_search", "max_tokens": 2048, "web_search": True, "extra": {}},
+    {"name": "2048+reasoning_low", "max_tokens": 2048, "web_search": True, "extra": {"reasoning_effort": "low"}},
+    {"name": "2048+no_reasoning", "max_tokens": 2048, "web_search": True, "extra": {"reasoning": False}},
+]
+
+QUESTION = "付航是谁？请详细介绍他的职业和成就。"
+
+
+def call_model(model, question, max_tokens, web_search, extra):
+    body = {
+        "model": model,
+        "messages": [
+            {"role": "system", "content": "你是知识助手。直给关键事实，不客套，不重复问题。"},
+            {"role": "user", "content": question}
+        ],
+        "stream": False,
+        "max_tokens": max_tokens,
+    }
+    if web_search:
+        body["web_search_options"] = {}
+    if extra:
+        body.update(extra)
+
+    payload = json.dumps(body, ensure_ascii=False).encode("utf-8")
+    conn = http.client.HTTPSConnection(BASE_URL, context=ssl.create_default_context(), timeout=25)
+    start = time.time()
+    try:
+        conn.request("POST", PATH, body=payload, headers=HEADERS)
+        resp = conn.getresponse()
+        data = resp.read().decode("utf-8")
+        elapsed = int((time.time() - start) * 1000)
+
+        if resp.status != 200:
+            return False, elapsed, None, None, f"HTTP {resp.status}: {data[:300]}"
+
+        obj = json.loads(data)
+        choices = obj.get("choices", [])
+        if not choices:
+            return False, elapsed, None, None, "no choices"
+
+        content = choices[0].get("message", {}).get("content", "")
+        usage = obj.get("usage", {})
+        return True, elapsed, content, usage, None
+    except Exception as e:
+        elapsed = int((time.time() - start) * 1000)
+        return False, elapsed, None, None, str(e)
+    finally:
+        conn.close()
+
+
+print(f"问题: {QUESTION}")
+print(f"{'='*70}")
+
+results = []
+for model in MODELS:
+    print(f"\n>>> 模型: {model}")
+    for test in TESTS:
+        ok, lat, content, usage, err = call_model(
+            model, QUESTION, test["max_tokens"], test["web_search"], test["extra"]
+        )
+        result = {
+            "model": model,
+            "test": test["name"],
+            "ok": ok,
+            "latency_ms": lat,
+            "content_len": len(content) if content else 0,
+            "content_preview": (content[:300] + "...") if content and len(content) > 300 else content,
+            "usage": usage,
+            "error": err,
+        }
+        results.append(result)
+
+        status = "✅" if ok else "❌"
+        print(f"  [{status}] {test['name']:24s} {lat:5d}ms | len={result['content_len']:4d}", end="")
+        if usage:
+            comp = usage.get("completion_tokens", 0)
+            rd = usage.get("completion_tokens_details", {}).get("reasoning_tokens", 0)
+            txt = usage.get("completion_tokens_details", {}).get("text_tokens", 0)
+            if rd:
+                print(f" | comp={comp} reasoning={rd} text={txt}")
+            else:
+                print(f" | comp={comp}")
+        else:
+            print()
+        if content and ok:
+            print(f"       -> {result['content_preview']}")
+        if err:
+            print(f"       ERROR: {err[:120]}")
+
+print(f"\n{'='*70}")
+print("汇总（仅成功且content>0的）:")
+for model in MODELS:
+    ok_results = [r for r in results if r["model"] == model and r["ok"] and r["content_len"] > 0]
+    if ok_results:
+        avg_lat = sum(r["latency_ms"] for r in ok_results) / len(ok_results)
+        avg_len = sum(r["content_len"] for r in ok_results) / len(ok_results)
+        print(f"  {model}: {len(ok_results)}次成功 | 平均延迟 {avg_lat:.0f}ms | 平均字数 {avg_len:.0f}")
+    else:
+        print(f"  {model}: 无成功记录")
+
+with open("agnes_model_deep_test.json", "w", encoding="utf-8") as f:
+    json.dump(results, f, ensure_ascii=False, indent=2)
+print("\n结果已保存到 agnes_model_deep_test.json")

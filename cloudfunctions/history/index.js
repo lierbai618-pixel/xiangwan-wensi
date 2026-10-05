@@ -1,1 +1,266 @@
-Ly8g5ZCR5pma6Zeu5oCdIC0g5Lya6K+d5Y6G5Y+y5LqR5Ye95pWw77yI5aSa5Lya6K+d5qih5Z6L77yJCi8vIOavj+S4qiBvcGVuaWQg5Y+v5oul5pyJ5aSa5Liq5Lya6K+d77yM5q+P5p2h5Lya6K+d5pivIGNvbnZlcnNhdGlvbnMg6ZuG5ZCI5Lit55qE5LiA5p2h54us56uL5paH5qGj77yMCi8vIOWFtiBfaWQg5Y2zIGNvbnZlcnNhdGlvbklk77yM5L2c5Li65YmN56uv5LiOIHF1ZXN0aW9uX2xvZ3Mg5YWz6IGU55qE5Lya6K+d57u05bqm44CCCi8vIOWKqOS9nO+8mgovLyAgIGxpc3QgICAg4oCU4oCUIOWIl+WHuuivpSBvcGVuaWQg55qE5omA5pyJ5Lya6K+d77yI5oyJIHVwZGF0ZVRpbWUg5YCS5bqP77yJ77yM6L+U5ZueIFtfaWQsIHRpdGxlLCB1cGRhdGVUaW1lLCBjb3VudF0KLy8gICBjcmVhdGUgIOKAlOKAlCDmlrDlu7rkvJror53vvIzov5Tlm57mlrDkvJror50gX2lk77yIY29udmVyc2F0aW9uSWTvvIkKLy8gICBsb2FkICAgIOKAlOKAlCDmjIkgY29udmVyc2F0aW9uSWQg5Yqg6L296K+l5Lya6K+d55qEIG1lc3NhZ2Vz77yI5qCh6aqM5b2S5bGe77yM5LuF6L+U5Zue5pyA6L+RIE1BWF9UVVJOUyDova7nu5nmqKHlnovkuIrkuIvmlofvvIkKLy8gICBhcHBlbmQgIOKAlOKAlCDmiorkuIDova4gW3VzZXIsIGFzc2lzdGFudF0g6L+95Yqg6L+b6K+l5Lya6K+d77yI5qCh6aqM5b2S5bGe77yJ77yb6aaW5p2h5raI5oGv6Ieq5Yqo55So5L2c5Lya6K+d5qCH6aKYCi8vICAgcmVtb3ZlICDigJTigJQg5Yig6Zmk5oyH5a6a5Lya6K+d77yI5qCh6aqM5b2S5bGe77yJCi8vICAgZGVsZXRlQWxsIOKAlOKAlCDliKDpmaTor6Ugb3BlbmlkIOeahOWFqOmDqOS8muivne+8iOagoemqjOW9kuWxnu+8jOS4jeW9seWTjSBxdWVzdGlvbl9sb2dzIOetieWMv+WQjeWIhuaekOaVsOaNru+8iQovLyDmiYDmnInmjIkgY29udmVyc2F0aW9uSWQg55qE5YaZL+ivu+aTjeS9nOWdh+agoemqjCBvcGVuaWTvvIzotormnYPov5Tlm57plJnor6/vvIzpgb/lhY3kuLLlj7fjgIIKY29uc3QgY2xvdWQgPSByZXF1aXJlKCJ3eC1zZXJ2ZXItc2RrIik7CmNsb3VkLmluaXQoeyBlbnY6IGNsb3VkLkRZTkFNSUNfQ1VSUkVOVF9FTlYgfSk7Cgpjb25zdCBkYiA9IGNsb3VkLmRhdGFiYXNlKCk7CmNvbnN0IF8gPSBkYi5jb21tYW5kOwpjb25zdCBDT0xMRUNUSU9OID0gImNvbnZlcnNhdGlvbnMiOwpjb25zdCBNQVhfVFVSTlMgPSAyMDsgLy8g5o6n5Yi25Lyg57uZ5qih5Z6L55qE5LiK5LiL5paH6L2u5pWw77yIMSDova4gPSAxIOmXriAxIOetlO+8iQpjb25zdCBERUZBVUxUX1RJVExFID0gIuaWsOWvueivnSI7CgovLyDku4Xkv53nlZnmnIDov5EgTUFYX1RVUk5TIOi9rueUqOS6juaooeWei+S4iuS4i+aWh++8iOS4jeijgeWJquWtmOWCqO+8jOWtmOWCqOeVmeWFqOmHj++8iQpmdW5jdGlvbiB0YWlsRm9yQ29udGV4dChtZXNzYWdlcykgewogIGNvbnN0IHBhaXJzID0gW107CiAgZm9yIChsZXQgaSA9IDA7IGkgPCBtZXNzYWdlcy5sZW5ndGg7IGkgKz0gMikgewogICAgY29uc3QgdSA9IG1lc3NhZ2VzW2ldOwogICAgY29uc3QgYSA9IG1lc3NhZ2VzW2kgKyAxXTsKICAgIGlmICh1ICYmIHUucm9sZSA9PT0gInVzZXIiICYmIGEgJiYgYS5yb2xlID09PSAiYXNzaXN0YW50IikgewogICAgICBwYWlycy5wdXNoKFt1LCBhXSk7CiAgICB9IGVsc2UgaWYgKHUgJiYgdS5yb2xlID09PSAidXNlciIpIHsKICAgICAgcGFpcnMucHVzaChbdV0pOyAvLyDmnKvlsL7lraTnq4vnmoQgdXNlcu+8iOeQhuiuuuS4iuS4jeS8muaMgeS5heWMlu+8iQogICAgfQogIH0KICBjb25zdCBrZWVwID0gcGFpcnMuc2xpY2UoLU1BWF9UVVJOUyk7CiAgcmV0dXJuIGtlZXAucmVkdWNlKChhY2MsIHApID0+IGFjYy5jb25jYXQocCksIFtdKTsKfQoKYXN5bmMgZnVuY3Rpb24gbGlzdFNlc3Npb25zKG9wZW5pZCkgewogIGNvbnN0IHJlcyA9IGF3YWl0IGRiCiAgICAuY29sbGVjdGlvbihDT0xMRUNUSU9OKQogICAgLndoZXJlKHsgb3BlbmlkIH0pCiAgICAub3JkZXJCeSgidXBkYXRlVGltZSIsICJkZXNjIikKICAgIC5saW1pdCgxMDApCiAgICAuZ2V0KCk7CiAgY29uc3QgbGlzdCA9IChyZXMuZGF0YSB8fCBbXSkubWFwKChkKSA9PiAoewogICAgX2lkOiBkLl9pZCwKICAgIHRpdGxlOiBkLnRpdGxlIHx8IERFRkFVTFRfVElUTEUsCiAgICB1cGRhdGVUaW1lOiBkLnVwZGF0ZVRpbWUgfHwgbnVsbCwKICAgIGNvdW50OiAoZC5tZXNzYWdlcyB8fCBbXSkubGVuZ3RoLAogIH0pKTsKICByZXR1cm4geyBvazogdHJ1ZSwgbGlzdCB9Owp9Cgphc3luYyBmdW5jdGlvbiBjcmVhdGVTZXNzaW9uKG9wZW5pZCwgdGl0bGUpIHsKICBjb25zdCByZXMgPSBhd2FpdCBkYi5jb2xsZWN0aW9uKENPTExFQ1RJT04pLmFkZCh7CiAgICBkYXRhOiB7CiAgICAgIG9wZW5pZCwKICAgICAgdGl0bGU6IHRpdGxlIHx8IERFRkFVTFRfVElUTEUsCiAgICAgIG1lc3NhZ2VzOiBbXSwKICAgICAgY3JlYXRlVGltZTogZGIuc2VydmVyRGF0ZSgpLAogICAgICB1cGRhdGVUaW1lOiBkYi5zZXJ2ZXJEYXRlKCksCiAgICB9LAogIH0pOwogIHJldHVybiB7IG9rOiB0cnVlLCBfaWQ6IHJlcy5faWQgfTsKfQoKLy8g5Y+W5Ye65bGe5LqO6K+lIG9wZW5pZCDnmoTkvJror53mlofmoaPvvIzotormnYPmiJbml6DliJnov5Tlm54gZXJyb3IKYXN5bmMgZnVuY3Rpb24gZ2V0T3duZWREb2Mob3BlbmlkLCBjb252ZXJzYXRpb25JZCkgewogIGNvbnN0IGRvY1JlcyA9IGF3YWl0IGRiLmNvbGxlY3Rpb24oQ09MTEVDVElPTikuZG9jKGNvbnZlcnNhdGlvbklkKS5nZXQoKTsKICBjb25zdCBkID0gZG9jUmVzICYmIGRvY1Jlcy5kYXRhOwogIGlmICghZCkgcmV0dXJuIHsgZXJyb3I6ICLkvJror53kuI3lrZjlnKgiIH07CiAgaWYgKGQub3BlbmlkICE9PSBvcGVuaWQpIHJldHVybiB7IGVycm9yOiAi5peg5p2D6ZmQ6K6/6Zeu6K+l5Lya6K+dIiB9OwogIHJldHVybiB7IGRvYzogZCB9Owp9Cgphc3luYyBmdW5jdGlvbiBsb2FkU2Vzc2lvbihvcGVuaWQsIGNvbnZlcnNhdGlvbklkKSB7CiAgY29uc3QgciA9IGF3YWl0IGdldE93bmVkRG9jKG9wZW5pZCwgY29udmVyc2F0aW9uSWQpOwogIGlmIChyLmVycm9yKSByZXR1cm4geyBvazogZmFsc2UsIGVycm9yOiByLmVycm9yIH07CiAgY29uc3QgbWVzc2FnZXMgPSByLmRvYy5tZXNzYWdlcyB8fCBbXTsKICBjb25zdCBlbXB0eUFzc2lzdGFudCA9IG1lc3NhZ2VzLmZpbHRlcigKICAgIChtKSA9PiBtICYmIG0ucm9sZSA9PT0gImFzc2lzdGFudCIgJiYgIVN0cmluZyhtLmNvbnRlbnQgfHwgIiIpLnRyaW0oKQogICkubGVuZ3RoOwogIGNvbnNvbGUubG9nKAogICAgIltoaXN0b3J5OmxvYWRdIGNvbnZlcnNhdGlvbklkPSIgKyBjb252ZXJzYXRpb25JZCArCiAgICAgICIgfCDmtojmga/mgLvmlbA9IiArIG1lc3NhZ2VzLmxlbmd0aCArCiAgICAgICIgfCB1c2VyPSIgKyBtZXNzYWdlcy5maWx0ZXIoKG0pID0+IG0gJiYgbS5yb2xlID09PSAidXNlciIpLmxlbmd0aCArCiAgICAgICIgfCBhc3Npc3RhbnQ9IiArIG1lc3NhZ2VzLmZpbHRlcigobSkgPT4gbSAmJiBtLnJvbGUgPT09ICJhc3Npc3RhbnQiKS5sZW5ndGggKwogICAgICAiIHwg56m6YXNzaXN0YW50PSIgKyBlbXB0eUFzc2lzdGFudAogICk7CiAgcmV0dXJuIHsgb2s6IHRydWUsIG1lc3NhZ2VzOiBtZXNzYWdlcywgZXhpc3RzOiB0cnVlIH07Cn0KCi8vIOinhOiMg+WMluS4gOadoea2iOaBr++8muWtl+auteeZveWQjeWNlSArIOacjeWKoeerr+ihpSBjcmVhdGVkQXTjgIIKLy8g5rOo5oSP77ya5pWw57uE5YaF5YWD57Sg5LiN6IO95L2/55SoIGRiLnNlcnZlckRhdGUoKe+8jOaVheeUqCBJU08g5a2X56ym5Liy44CCCmZ1bmN0aW9uIG5vcm1hbGl6ZU1lc3NhZ2UobSkgewogIGlmICghbSB8fCAhbS5yb2xlKSByZXR1cm4gbnVsbDsKICBjb25zdCBiYXNlID0gewogICAgcm9sZTogbS5yb2xlLAogICAgY29udGVudDogU3RyaW5nKG0uY29udGVudCA9PSBudWxsID8gIiIgOiBtLmNvbnRlbnQpLAogICAgY3JlYXRlZEF0OiBtLmNyZWF0ZWRBdCB8fCBuZXcgRGF0ZSgpLnRvSVNPU3RyaW5nKCksCiAgICBjaXRhdGlvbnM6IEFycmF5LmlzQXJyYXkobS5jaXRhdGlvbnMpID8gbS5jaXRhdGlvbnMgOiBbXSwKICB9OwogIGlmIChtLnJvbGUgPT09ICJhc3Npc3RhbnQiKSB7CiAgICBiYXNlLmFuc3dlcklkID0gbS5hbnN3ZXJJZCB8fCAiIjsKICAgIGJhc2UubW9kZSA9IG0ubW9kZSB8fCAiIjsKICAgIGJhc2UubW9kZUxhYmVsID0gbS5tb2RlTGFiZWwgfHwgIiI7CiAgICBiYXNlLm1vZGVsVXNlZCA9IG0ubW9kZWxVc2VkIHx8ICIiOwogICAgYmFzZS5yb3V0ZSA9IG0ucm91dGUgfHwgbnVsbDsKICB9CiAgcmV0dXJuIGJhc2U7Cn0KCmFzeW5jIGZ1bmN0aW9uIGFwcGVuZFNlc3Npb24ob3BlbmlkLCBjb252ZXJzYXRpb25JZCwgdXNlck1zZywgYXNzaXN0YW50TXNnKSB7CiAgY29uc3QgciA9IGF3YWl0IGdldE93bmVkRG9jKG9wZW5pZCwgY29udmVyc2F0aW9uSWQpOwogIGlmIChyLmVycm9yKSByZXR1cm4geyBvazogZmFsc2UsIGVycm9yOiByLmVycm9yIH07CiAgY29uc3QgZG9jID0gci5kb2M7CiAgY29uc3Qgbm9ybVVzZXIgPSBub3JtYWxpemVNZXNzYWdlKHVzZXJNc2cpOwogIGNvbnN0IG5vcm1Bc3Npc3RhbnQgPSBub3JtYWxpemVNZXNzYWdlKGFzc2lzdGFudE1zZyk7CiAgLy8g5a6I5Y2r77yaYXNzaXN0YW50IOWGheWuueS4uuepuuinhuS4uuW8guW4uOi9ruasoe+8jOaLkue7neWGmeWFpe+8jOmBv+WFjeWOhuWPsumHjOeVmeS4i+OAjOepuuWbnuetlOOAjeOAggogIC8vIO+8iOWOhuWPsiBCdWfvvJrliY3nq6/miZPlrZfmnLrmlLnlhpnljp/lr7nosaHvvIzlr7zoh7Tov5nph4zlj6rmlLbliLAgMSDkuKrlrZfnrKbnlJroh7PnqbrkuLLvvIkKICBpZiAoIW5vcm1Bc3Npc3RhbnQgfHwgIW5vcm1Bc3Npc3RhbnQuY29udGVudC50cmltKCkpIHsKICAgIGNvbnNvbGUuZXJyb3IoIltoaXN0b3J5OmFwcGVuZF0g5ouS57ud5YaZ5YWl77yaYXNzaXN0YW50IOWGheWuueS4uuepuiBjb252ZXJzYXRpb25JZD0iICsgY29udmVyc2F0aW9uSWQpOwogICAgcmV0dXJuIHsgb2s6IGZhbHNlLCBlcnJvcjogIuWbnuetlOWGheWuueS4uuepuu+8jOacquWGmeWFpeWOhuWPsuOAgiIgfTsKICB9CiAgY29uc3QgbmV3UGFpciA9IFtub3JtVXNlciwgbm9ybUFzc2lzdGFudF0uZmlsdGVyKEJvb2xlYW4pOwogIGNvbnN0IGluY29taW5nVGl0bGUgPSAodXNlck1zZyAmJiB1c2VyTXNnLmNvbnRlbnQgPyB1c2VyTXNnLmNvbnRlbnQgOiAiIikKICAgIC5yZXBsYWNlKC9ccysvZywgIiAiKQogICAgLnNsaWNlKDAsIDIwKTsKICAvLyDmoIfpopjnrZbnlaXvvJrlt7LmnInpnZ7pu5jorqTmoIfpopjliJnkv53nlZnvvJvlkKbliJnnlKjpppbmnaHnlKjmiLfmtojmga/liY0gMjAg5a2XCiAgY29uc3QgbmV4dFRpdGxlID0KICAgIGRvYy50aXRsZSAmJiBkb2MudGl0bGUgIT09IERFRkFVTFRfVElUTEUgPyBkb2MudGl0bGUgOiBpbmNvbWluZ1RpdGxlIHx8IGRvYy50aXRsZSB8fCBERUZBVUxUX1RJVExFOwogIGNvbnN0IG1lcmdlZCA9IChkb2MubWVzc2FnZXMgfHwgW10pLmNvbmNhdChuZXdQYWlyKTsKICBhd2FpdCBkYgogICAgLmNvbGxlY3Rpb24oQ09MTEVDVElPTikKICAgIC5kb2MoY29udmVyc2F0aW9uSWQpCiAgICAudXBkYXRlKHsKICAgICAgZGF0YTogewogICAgICAgIHRpdGxlOiBuZXh0VGl0bGUsCiAgICAgICAgbWVzc2FnZXM6IG1lcmdlZCwKICAgICAgICB1cGRhdGVUaW1lOiBkYi5zZXJ2ZXJEYXRlKCksCiAgICAgIH0sCiAgICB9KTsKICBjb25zb2xlLmxvZygKICAgICJbaGlzdG9yeTphcHBlbmRdIGNvbnZlcnNhdGlvbklkPSIgKyBjb252ZXJzYXRpb25JZCArCiAgICAgICIgfCDmnKzova7lhpnlhaU9IiArIG5ld1BhaXIubGVuZ3RoICsKICAgICAgIiB8IGFzc2lzdGFudOmVv+W6pj0iICsgbm9ybUFzc2lzdGFudC5jb250ZW50Lmxlbmd0aCArCiAgICAgICIgfCBhbnN3ZXJJZD0iICsgbm9ybUFzc2lzdGFudC5hbnN3ZXJJZCArCiAgICAgICIgfCDntK/orqHmtojmga89IiArIG1lcmdlZC5sZW5ndGggKwogICAgICAiIHwg57Sv6K6hYXNzaXN0YW50PSIgKyBtZXJnZWQuZmlsdGVyKChtKSA9PiBtICYmIG0ucm9sZSA9PT0gImFzc2lzdGFudCIpLmxlbmd0aAogICk7CiAgcmV0dXJuIHsgb2s6IHRydWUsIHRvdGFsOiBtZXJnZWQubGVuZ3RoIH07Cn0KCmFzeW5jIGZ1bmN0aW9uIHJlbW92ZVNlc3Npb24ob3BlbmlkLCBjb252ZXJzYXRpb25JZCkgewogIGNvbnN0IHIgPSBhd2FpdCBnZXRPd25lZERvYyhvcGVuaWQsIGNvbnZlcnNhdGlvbklkKTsKICBpZiAoci5lcnJvcikgcmV0dXJuIHsgb2s6IGZhbHNlLCBlcnJvcjogci5lcnJvciB9OwogIGF3YWl0IGRiLmNvbGxlY3Rpb24oQ09MTEVDVElPTikuZG9jKGNvbnZlcnNhdGlvbklkKS5yZW1vdmUoKTsKICByZXR1cm4geyBvazogdHJ1ZSB9Owp9CgovLyDliKDpmaTor6Ugb3BlbmlkIOS4i+eahOWFqOmDqOS8muivne+8iOS7hSBjb252ZXJzYXRpb25zIOmbhuWQiO+8jOS4jeW9seWTjSBxdWVzdGlvbl9sb2dzIC8gYW5zd2VyX2ZlZWRiYWNrIC8gYW5zd2VyX3F1YWxpdHlfbG9nIOetieWMv+WQjeWIhuaekOaVsOaNru+8iQphc3luYyBmdW5jdGlvbiBkZWxldGVBbGxTZXNzaW9ucyhvcGVuaWQpIHsKICBjb25zdCByZXMgPSBhd2FpdCBkYi5jb2xsZWN0aW9uKENPTExFQ1RJT04pLndoZXJlKHsgb3BlbmlkIH0pLnJlbW92ZSgpOwogIHJldHVybiB7IG9rOiB0cnVlLCByZW1vdmVkOiAocmVzICYmIHJlcy5zdGF0cyAmJiByZXMuc3RhdHMucmVtb3ZlZCkgfHwgMCB9Owp9CgovLyAtLS0tLS0tLS0tLS0tLS0tIOaUtuiXj++8iGZhdm9yaXRlcyDpm4blkIjvvIkgLS0tLS0tLS0tLS0tLS0tLQovLyDnlKjmiLfmiormn5DmnaHlm57nrZTmlLbol4/liLDkuKrkurrmgJ3ovqjlupPvvJvmjIkgb3BlbmlkK2Fuc3dlcklkIOWOu+mHje+8iOmHjeWkjeaUtuiXj+W5guetie+8ieOAggpjb25zdCBGQVZfQ09MTEVDVElPTiA9ICJmYXZvcml0ZXMiOwoKYXN5bmMgZnVuY3Rpb24gYWRkRmF2b3JpdGUob3BlbmlkLCBpdGVtKSB7CiAgaWYgKCFpdGVtIHx8ICFpdGVtLmFuc3dlcklkKSByZXR1cm4geyBvazogZmFsc2UsIGVycm9yOiAi57y65bCR5pS26JeP5qCH6K+GIiB9OwogIGNvbnN0IGNudCA9IGF3YWl0IGRiLmNvbGxlY3Rpb24oRkFWX0NPTExFQ1RJT04pLndoZXJlKHsgb3BlbmlkLCBhbnN3ZXJJZDogaXRlbS5hbnN3ZXJJZCB9KS5jb3VudCgpOwogIGlmIChjbnQudG90YWwgPiAwKSByZXR1cm4geyBvazogdHJ1ZSwgZHVwbGljYXRlZDogdHJ1ZSB9OwogIGNvbnN0IGRvYyA9IHsKICAgIG9wZW5pZCwKICAgIGFuc3dlcklkOiBTdHJpbmcoaXRlbS5hbnN3ZXJJZCksCiAgICBxdWVzdGlvbjogU3RyaW5nKGl0ZW0ucXVlc3Rpb24gfHwgIiIpLnNsaWNlKDAsIDUwMCksCiAgICBhbnN3ZXI6IFN0cmluZyhpdGVtLmFuc3dlciB8fCAiIikuc2xpY2UoMCwgNDAwMCksCiAgICBjaXRhdGlvbnM6IEFycmF5LmlzQXJyYXkoaXRlbS5jaXRhdGlvbnMpID8gaXRlbS5jaXRhdGlvbnMuc2xpY2UoMCwgMjApIDogW10sCiAgICBzYWdlOiBpdGVtLnNhZ2UgfHwgIm5vbmUiLAogICAgYW5zd2VyTW9kZTogaXRlbS5hbnN3ZXJNb2RlIHx8ICIiLAogICAgY3JlYXRlZEF0OiBpdGVtLmNyZWF0ZWRBdCB8fCBuZXcgRGF0ZSgpLnRvSVNPU3RyaW5nKCksCiAgfTsKICBhd2FpdCBkYi5jb2xsZWN0aW9uKEZBVl9DT0xMRUNUSU9OKS5hZGQoeyBkYXRhOiBkb2MgfSk7CiAgcmV0dXJuIHsgb2s6IHRydWUsIGFkZGVkOiB0cnVlIH07Cn0KCmFzeW5jIGZ1bmN0aW9uIGxpc3RGYXZvcml0ZXMob3BlbmlkKSB7CiAgY29uc3QgcmVzID0gYXdhaXQgZGIKICAgIC5jb2xsZWN0aW9uKEZBVl9DT0xMRUNUSU9OKQogICAgLndoZXJlKHsgb3BlbmlkIH0pCiAgICAub3JkZXJCeSgiY3JlYXRlZEF0IiwgImRlc2MiKQogICAgLmxpbWl0KDIwMCkKICAgIC5nZXQoKTsKICByZXR1cm4gewogICAgb2s6IHRydWUsCiAgICBsaXN0OiAocmVzLmRhdGEgfHwgW10pLm1hcCgoZCkgPT4gKHsKICAgICAgX2lkOiBkLl9pZCwKICAgICAgYW5zd2VySWQ6IGQuYW5zd2VySWQsCiAgICAgIHF1ZXN0aW9uOiBkLnF1ZXN0aW9uLAogICAgICBhbnN3ZXI6IGQuYW5zd2VyLAogICAgICBjaXRhdGlvbnM6IGQuY2l0YXRpb25zIHx8IFtdLAogICAgICBzYWdlOiBkLnNhZ2UgfHwgIm5vbmUiLAogICAgICBhbnN3ZXJNb2RlOiBkLmFuc3dlck1vZGUgfHwgIiIsCiAgICAgIGNyZWF0ZWRBdDogZC5jcmVhdGVkQXQgfHwgbnVsbCwKICAgIH0pKSwKICB9Owp9Cgphc3luYyBmdW5jdGlvbiByZW1vdmVGYXZvcml0ZShvcGVuaWQsIGFuc3dlcklkKSB7CiAgaWYgKCFhbnN3ZXJJZCkgcmV0dXJuIHsgb2s6IGZhbHNlLCBlcnJvcjogIue8uuWwkeaUtuiXj+agh+ivhiIgfTsKICBhd2FpdCBkYi5jb2xsZWN0aW9uKEZBVl9DT0xMRUNUSU9OKS53aGVyZSh7IG9wZW5pZCwgYW5zd2VySWQ6IFN0cmluZyhhbnN3ZXJJZCkgfSkucmVtb3ZlKCk7CiAgcmV0dXJuIHsgb2s6IHRydWUgfTsKfQoKZXhwb3J0cy5tYWluID0gYXN5bmMgKGV2ZW50KSA9PiB7CiAgY29uc3QgY3R4ID0gY2xvdWQuZ2V0V1hDb250ZXh0KCk7CiAgY29uc3Qgb3BlbmlkID0gY3R4ICYmIGN0eC5PUEVOSUQ7CiAgaWYgKCFvcGVuaWQpIHsKICAgIHJldHVybiB7IG9rOiBmYWxzZSwgZXJyb3I6ICLmnKrojrflj5bliLDnlKjmiLfouqvku73vvIzor7fnqI3lkI7ph43or5XjgIIiIH07CiAgfQogIGNvbnN0IGFjdGlvbiA9IChldmVudCAmJiBldmVudC5hY3Rpb24pIHx8ICJsaXN0IjsKICBjb25zdCBjb252ZXJzYXRpb25JZCA9IChldmVudCAmJiBldmVudC5jb252ZXJzYXRpb25JZCkgfHwgIiI7CiAgdHJ5IHsKICAgIGlmIChhY3Rpb24gPT09ICJsaXN0IikgewogICAgICByZXR1cm4gYXdhaXQgbGlzdFNlc3Npb25zKG9wZW5pZCk7CiAgICB9CiAgICBpZiAoYWN0aW9uID09PSAiY3JlYXRlIikgewogICAgICByZXR1cm4gYXdhaXQgY3JlYXRlU2Vzc2lvbihvcGVuaWQsIGV2ZW50ICYmIGV2ZW50LnRpdGxlKTsKICAgIH0KICAgIGlmIChhY3Rpb24gPT09ICJsb2FkIikgewogICAgICBpZiAoIWNvbnZlcnNhdGlvbklkKSByZXR1cm4geyBvazogZmFsc2UsIGVycm9yOiAi57y65bCR5Lya6K+dIElEIiB9OwogICAgICBjb25zdCByID0gYXdhaXQgbG9hZFNlc3Npb24ob3BlbmlkLCBjb252ZXJzYXRpb25JZCk7CiAgICAgIHJldHVybiBPYmplY3QuYXNzaWduKHt9LCByLCB7IGNvbnRleHQ6IHRhaWxGb3JDb250ZXh0KHIubWVzc2FnZXMgfHwgW10pIH0pOwogICAgfQogICAgaWYgKGFjdGlvbiA9PT0gImFwcGVuZCIpIHsKICAgICAgY29uc3QgdXNlck1zZyA9IGV2ZW50ICYmIGV2ZW50LnVzZXJNc2c7CiAgICAgIGNvbnN0IGFzc2lzdGFudE1zZyA9IGV2ZW50ICYmIGV2ZW50LmFzc2lzdGFudE1zZzsKICAgICAgaWYgKCFjb252ZXJzYXRpb25JZCkgcmV0dXJuIHsgb2s6IGZhbHNlLCBlcnJvcjogIue8uuWwkeS8muivnSBJRCIgfTsKICAgICAgaWYgKCF1c2VyTXNnIHx8ICFhc3Npc3RhbnRNc2cpIHJldHVybiB7IG9rOiBmYWxzZSwgZXJyb3I6ICLnvLrlsJHmtojmga/lhoXlrrnjgIIiIH07CiAgICAgIHJldHVybiBhd2FpdCBhcHBlbmRTZXNzaW9uKG9wZW5pZCwgY29udmVyc2F0aW9uSWQsIHVzZXJNc2csIGFzc2lzdGFudE1zZyk7CiAgICB9CiAgICBpZiAoYWN0aW9uID09PSAicmVtb3ZlIikgewogICAgICBpZiAoIWNvbnZlcnNhdGlvbklkKSByZXR1cm4geyBvazogZmFsc2UsIGVycm9yOiAi57y65bCR5Lya6K+dIElEIiB9OwogICAgICByZXR1cm4gYXdhaXQgcmVtb3ZlU2Vzc2lvbihvcGVuaWQsIGNvbnZlcnNhdGlvbklkKTsKICAgIH0KICAgIGlmIChhY3Rpb24gPT09ICJkZWxldGVBbGwiKSB7CiAgICAgIC8vIOS7heWIoOmZpOivpeeUqOaIt+iHquW3seeahOWFqOmDqOS8muivne+8m+WMv+WQjeWIhuaekOaVsOaNru+8iHF1ZXN0aW9uX2xvZ3Mg562J77yJ5LiN5Y+X5b2x5ZONCiAgICAgIHJldHVybiBhd2FpdCBkZWxldGVBbGxTZXNzaW9ucyhvcGVuaWQpOwogICAgfQogICAgaWYgKGFjdGlvbiA9PT0gImZhdkFkZCIpIHsKICAgICAgaWYgKCFldmVudC5pdGVtKSByZXR1cm4geyBvazogZmFsc2UsIGVycm9yOiAi57y65bCR5pS26JeP5YaF5a65IiB9OwogICAgICByZXR1cm4gYXdhaXQgYWRkRmF2b3JpdGUob3BlbmlkLCBldmVudC5pdGVtKTsKICAgIH0KICAgIGlmIChhY3Rpb24gPT09ICJmYXZMaXN0IikgewogICAgICByZXR1cm4gYXdhaXQgbGlzdEZhdm9yaXRlcyhvcGVuaWQpOwogICAgfQogICAgaWYgKGFjdGlvbiA9PT0gImZhdlJlbW92ZSIpIHsKICAgICAgaWYgKCFldmVudC5hbnN3ZXJJZCkgcmV0dXJuIHsgb2s6IGZhbHNlLCBlcnJvcjogIue8uuWwkeaUtuiXj+agh+ivhiIgfTsKICAgICAgcmV0dXJuIGF3YWl0IHJlbW92ZUZhdm9yaXRlKG9wZW5pZCwgZXZlbnQuYW5zd2VySWQpOwogICAgfQogICAgcmV0dXJuIHsgb2s6IGZhbHNlLCBlcnJvcjogIuacquefpeWKqOS9nO+8miIgKyBhY3Rpb24gfTsKICB9IGNhdGNoIChlKSB7CiAgICByZXR1cm4geyBvazogZmFsc2UsIGVycm9yOiAi5Y6G5Y+y5pON5L2c5aSx6LSl77yM6K+356iN5ZCO6YeN6K+V44CCIiB9OwogIH0KfTsK
+// 向晚问思 - 会话历史云函数（多会话模型）
+// 每个 openid 可拥有多个会话，每条会话是 conversations 集合中的一条独立文档，
+// 其 _id 即 conversationId，作为前端与 question_logs 关联的会话维度。
+// 动作：
+//   list    —— 列出该 openid 的所有会话（按 updateTime 倒序），返回 [_id, title, updateTime, count]
+//   create  —— 新建会话，返回新会话 _id（conversationId）
+//   load    —— 按 conversationId 加载该会话的 messages（校验归属，仅返回最近 MAX_TURNS 轮给模型上下文）
+//   append  —— 把一轮 [user, assistant] 追加进该会话（校验归属）；首条消息自动用作会话标题
+//   remove  —— 删除指定会话（校验归属）
+//   deleteAll —— 删除该 openid 的全部会话（校验归属，不影响 question_logs 等匿名分析数据）
+// 所有按 conversationId 的写/读操作均校验 openid，越权返回错误，避免串号。
+const cloud = require("wx-server-sdk");
+cloud.init({ env: cloud.DYNAMIC_CURRENT_ENV });
+
+const db = cloud.database();
+const _ = db.command;
+const COLLECTION = "conversations";
+const MAX_TURNS = 20; // 控制传给模型的上下文轮数（1 轮 = 1 问 1 答）
+const DEFAULT_TITLE = "新对话";
+
+// 仅保留最近 MAX_TURNS 轮用于模型上下文（不裁剪存储，存储留全量）
+function tailForContext(messages) {
+  const pairs = [];
+  for (let i = 0; i < messages.length; i += 2) {
+    const u = messages[i];
+    const a = messages[i + 1];
+    if (u && u.role === "user" && a && a.role === "assistant") {
+      pairs.push([u, a]);
+    } else if (u && u.role === "user") {
+      pairs.push([u]); // 末尾孤立的 user（理论上不会持久化）
+    }
+  }
+  const keep = pairs.slice(-MAX_TURNS);
+  return keep.reduce((acc, p) => acc.concat(p), []);
+}
+
+async function listSessions(openid) {
+  const res = await db
+    .collection(COLLECTION)
+    .where({ openid })
+    .orderBy("updateTime", "desc")
+    .limit(100)
+    .get();
+  const list = (res.data || []).map((d) => ({
+    _id: d._id,
+    title: d.title || DEFAULT_TITLE,
+    updateTime: d.updateTime || null,
+    count: (d.messages || []).length,
+  }));
+  return { ok: true, list };
+}
+
+async function createSession(openid, title) {
+  const res = await db.collection(COLLECTION).add({
+    data: {
+      openid,
+      title: title || DEFAULT_TITLE,
+      messages: [],
+      createTime: db.serverDate(),
+      updateTime: db.serverDate(),
+    },
+  });
+  return { ok: true, _id: res._id };
+}
+
+// 取出属于该 openid 的会话文档，越权或无则返回 error
+async function getOwnedDoc(openid, conversationId) {
+  const docRes = await db.collection(COLLECTION).doc(conversationId).get();
+  const d = docRes && docRes.data;
+  if (!d) return { error: "会话不存在" };
+  if (d.openid !== openid) return { error: "无权限访问该会话" };
+  return { doc: d };
+}
+
+async function loadSession(openid, conversationId) {
+  const r = await getOwnedDoc(openid, conversationId);
+  if (r.error) return { ok: false, error: r.error };
+  const messages = r.doc.messages || [];
+  const emptyAssistant = messages.filter(
+    (m) => m && m.role === "assistant" && !String(m.content || "").trim()
+  ).length;
+  console.log(
+    "[history:load] conversationId=" + conversationId +
+      " | 消息总数=" + messages.length +
+      " | user=" + messages.filter((m) => m && m.role === "user").length +
+      " | assistant=" + messages.filter((m) => m && m.role === "assistant").length +
+      " | 空assistant=" + emptyAssistant
+  );
+  return { ok: true, messages: messages, exists: true };
+}
+
+// 规范化一条消息：字段白名单 + 服务端补 createdAt。
+// 注意：数组内元素不能使用 db.serverDate()，故用 ISO 字符串。
+function normalizeMessage(m) {
+  if (!m || !m.role) return null;
+  const base = {
+    role: m.role,
+    content: String(m.content == null ? "" : m.content),
+    createdAt: m.createdAt || new Date().toISOString(),
+    citations: Array.isArray(m.citations) ? m.citations : [],
+  };
+  if (m.role === "assistant") {
+    base.answerId = m.answerId || "";
+    base.mode = m.mode || "";
+    base.modeLabel = m.modeLabel || "";
+    base.modelUsed = m.modelUsed || "";
+    base.route = m.route || null;
+  }
+  return base;
+}
+
+async function appendSession(openid, conversationId, userMsg, assistantMsg) {
+  const r = await getOwnedDoc(openid, conversationId);
+  if (r.error) return { ok: false, error: r.error };
+  const doc = r.doc;
+  const normUser = normalizeMessage(userMsg);
+  const normAssistant = normalizeMessage(assistantMsg);
+  // 守卫：assistant 内容为空视为异常轮次，拒绝写入，避免历史里留下「空回答」。
+  // （历史 Bug：前端打字机改写原对象，导致这里只收到 1 个字符甚至空串）
+  if (!normAssistant || !normAssistant.content.trim()) {
+    console.error("[history:append] 拒绝写入：assistant 内容为空 conversationId=" + conversationId);
+    return { ok: false, error: "回答内容为空，未写入历史。" };
+  }
+  const newPair = [normUser, normAssistant].filter(Boolean);
+  const incomingTitle = (userMsg && userMsg.content ? userMsg.content : "")
+    .replace(/\s+/g, " ")
+    .slice(0, 20);
+  // 标题策略：已有非默认标题则保留；否则用首条用户消息前 20 字
+  const nextTitle =
+    doc.title && doc.title !== DEFAULT_TITLE ? doc.title : incomingTitle || doc.title || DEFAULT_TITLE;
+  const merged = (doc.messages || []).concat(newPair);
+  await db
+    .collection(COLLECTION)
+    .doc(conversationId)
+    .update({
+      data: {
+        title: nextTitle,
+        messages: merged,
+        updateTime: db.serverDate(),
+      },
+    });
+  console.log(
+    "[history:append] conversationId=" + conversationId +
+      " | 本轮写入=" + newPair.length +
+      " | assistant长度=" + normAssistant.content.length +
+      " | answerId=" + normAssistant.answerId +
+      " | 累计消息=" + merged.length +
+      " | 累计assistant=" + merged.filter((m) => m && m.role === "assistant").length
+  );
+  return { ok: true, total: merged.length };
+}
+
+async function removeSession(openid, conversationId) {
+  const r = await getOwnedDoc(openid, conversationId);
+  if (r.error) return { ok: false, error: r.error };
+  await db.collection(COLLECTION).doc(conversationId).remove();
+  return { ok: true };
+}
+
+// 删除该 openid 下的全部会话（仅 conversations 集合，不影响 question_logs / answer_feedback / answer_quality_log 等匿名分析数据）
+async function deleteAllSessions(openid) {
+  const res = await db.collection(COLLECTION).where({ openid }).remove();
+  return { ok: true, removed: (res && res.stats && res.stats.removed) || 0 };
+}
+
+// ---------------- 收藏（favorites 集合） ----------------
+// 用户把某条回答收藏到个人思辨库；按 openid+answerId 去重（重复收藏幂等）。
+const FAV_COLLECTION = "favorites";
+
+async function addFavorite(openid, item) {
+  if (!item || !item.answerId) return { ok: false, error: "缺少收藏标识" };
+  const cnt = await db.collection(FAV_COLLECTION).where({ openid, answerId: item.answerId }).count();
+  if (cnt.total > 0) return { ok: true, duplicated: true };
+  const doc = {
+    openid,
+    answerId: String(item.answerId),
+    question: String(item.question || "").slice(0, 500),
+    answer: String(item.answer || "").slice(0, 4000),
+    citations: Array.isArray(item.citations) ? item.citations.slice(0, 20) : [],
+    sage: item.sage || "none",
+    answerMode: item.answerMode || "",
+    createdAt: item.createdAt || new Date().toISOString(),
+  };
+  await db.collection(FAV_COLLECTION).add({ data: doc });
+  return { ok: true, added: true };
+}
+
+async function listFavorites(openid) {
+  const res = await db
+    .collection(FAV_COLLECTION)
+    .where({ openid })
+    .orderBy("createdAt", "desc")
+    .limit(200)
+    .get();
+  return {
+    ok: true,
+    list: (res.data || []).map((d) => ({
+      _id: d._id,
+      answerId: d.answerId,
+      question: d.question,
+      answer: d.answer,
+      citations: d.citations || [],
+      sage: d.sage || "none",
+      answerMode: d.answerMode || "",
+      createdAt: d.createdAt || null,
+    })),
+  };
+}
+
+async function removeFavorite(openid, answerId) {
+  if (!answerId) return { ok: false, error: "缺少收藏标识" };
+  await db.collection(FAV_COLLECTION).where({ openid, answerId: String(answerId) }).remove();
+  return { ok: true };
+}
+
+exports.main = async (event) => {
+  const ctx = cloud.getWXContext();
+  const openid = ctx && ctx.OPENID;
+  if (!openid) {
+    return { ok: false, error: "未获取到用户身份，请稍后重试。" };
+  }
+  const action = (event && event.action) || "list";
+  const conversationId = (event && event.conversationId) || "";
+  try {
+    if (action === "list") {
+      return await listSessions(openid);
+    }
+    if (action === "create") {
+      return await createSession(openid, event && event.title);
+    }
+    if (action === "load") {
+      if (!conversationId) return { ok: false, error: "缺少会话 ID" };
+      const r = await loadSession(openid, conversationId);
+      return Object.assign({}, r, { context: tailForContext(r.messages || []) });
+    }
+    if (action === "append") {
+      const userMsg = event && event.userMsg;
+      const assistantMsg = event && event.assistantMsg;
+      if (!conversationId) return { ok: false, error: "缺少会话 ID" };
+      if (!userMsg || !assistantMsg) return { ok: false, error: "缺少消息内容。" };
+      return await appendSession(openid, conversationId, userMsg, assistantMsg);
+    }
+    if (action === "remove") {
+      if (!conversationId) return { ok: false, error: "缺少会话 ID" };
+      return await removeSession(openid, conversationId);
+    }
+    if (action === "deleteAll") {
+      // 仅删除该用户自己的全部会话；匿名分析数据（question_logs 等）不受影响
+      return await deleteAllSessions(openid);
+    }
+    if (action === "favAdd") {
+      if (!event.item) return { ok: false, error: "缺少收藏内容" };
+      return await addFavorite(openid, event.item);
+    }
+    if (action === "favList") {
+      return await listFavorites(openid);
+    }
+    if (action === "favRemove") {
+      if (!event.answerId) return { ok: false, error: "缺少收藏标识" };
+      return await removeFavorite(openid, event.answerId);
+    }
+    return { ok: false, error: "未知动作：" + action };
+  } catch (e) {
+    return { ok: false, error: "历史操作失败，请稍后重试。" };
+  }
+};

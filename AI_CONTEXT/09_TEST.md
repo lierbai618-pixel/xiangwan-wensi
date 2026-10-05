@@ -1,1 +1,50 @@
-IyAwOSDCtyDmtYvor5XvvIhUZXN0c++8iQoKPiAqKuWIt+aWsOS6jiAyMDI2LTA4LTA377yI57uI5qCh6IezIFEyLTE177yJKirvvJrmtYvor5Xlt7Lmjqjov5vliLAgYHRlc3RfcTMzLmpzYO+8jOe0r+iuoee6piAqKjUyNiDmlq3oqIAgMCDlpLHotKUqKu+8iHEyOT0yMjUgLyBxMzA9MTA0IC8gcTMxPTEzMiAvIHEzMj0yOSAvIHEzMz0zNu+8ieOAggoKIyMg5rWL6K+V6LWE5Lqn5riF5Y2V77yI6IqC6YCJ6L+R5pyf77yJCgp8IOa1i+ivlSB8IOaWh+S7tiB8IOaWreiogCB8IOeKtuaAgSB8CnwtLS0tLS18LS0tLS0tfC0tLS0tLXwtLS0tLS18CnwgUGhhc2UgRiDnmb7pl64gfCBgdGVzdHMvZ2VuZXJhbC1haS10ZXN0LipgIHwgMTAwLzEwMCB8IOKchSB8CnwgUGhhc2UgSCDmhI/lm74gfCBgb25saW5lLXF1YWxpdHktdGVzdC5qc29uYCB8IDEwMCDpgJrov4cgfCDinIUgfAp8IFBoYXNlIEgg5LiN5Y+Y6YePIHwgYG9ubGluZS1xdWFsaXR5LXJ1bi5qc2AgfCA4LzggfCDinIUgfAp8IFBoYXNlIFIg6aaW6aqMIHwgY2FwYWJpbGl0aWVzIOaXtumXtC/lpKnmsJQgfCAzLzMgfCDinIUg5bey5LiK57q/IHwKfCBQaGFzZSBRMS1CIOWPjeW5u+iniSB8IGB0ZXN0cy90ZXN0X2ZyZXNobmVzc19xMS5qc2AgfCAzMS8zMSB8IOKchSB8CnwgUGhhc2UgUTEtQiDlrZjph4/lm57lvZIgfCDlrZjph4/nlKjkvosgfCAzMi8zMiB8IOKchSB8CnwgUTItNC1DIGNhbmFyeSB8IGBzY3JpcHRzL3Rlc3RfcTI0Yy5qc2AgfCAzNyB8IOKchSB8CnwgUTItNC1EIHByaXZhY3kgfCBgc2NyaXB0cy90ZXN0X3EyNGQuanNgIHwgMzkgfCDinIUgfAp8IFEyLTUtQiDlm73lhoXmupAgfCBgc2NyaXB0cy90ZXN0X3EyNWIuanNgIHwgNDEgfCDinIUgfAp8IFEyLTYtTVZQIOmalOemuyB8IGBzY3JpcHRzL3Rlc3RfcTI2LmpzYCB8IDMxIHwg4pyF77yIY29ycHVzIFNIQSDkuI3lj5jvvIkgfAp8IFEyLTcgTDIg6YeR5Lid6ZuAIHwgYHNjcmlwdHMvdGVzdF9xMjcuanNgIHwgMTI2IHwg4pyF77yIZGF0YV9yb3V0ZT1kb21lc3RpY++8iSB8CnwgUTItOC1NVlAg5r+A5rS7IHwgYHNjcmlwdHMvdGVzdF9xMjguanNgIHwgMjE3IHwg4pyF77yIYXVkaXQg6Zu25rOE6Zyy77yJIHwKfCBRMi0xMCDpgILphY3lmaggfCBgc2NyaXB0cy90ZXN0X3EyOS5qc2AgfCAyMjUgfCDinIUgfAp8IFEyLTEyIFdTQSB8IGBzY3JpcHRzL3Rlc3RfcTMwLmpzYCB8IDEwNCB8IOKchSB8CnwgUTItMTMgUXdlbiB8IGBzY3JpcHRzL3Rlc3RfcTMxLmpzYCB8IDEzMiB8IOKche+8iOS6i+WunumalOemu++8muW8gyBtZXNzYWdlLmNvbnRlbnTvvIkgfAp8IFEyLTE0LWIg6Lev55SxIHwgYHNjcmlwdHMvdGVzdF9xMzIuanNgIHwgMjkgfCDinIXvvIjplIHmrbsgZnJlc2huZXNzIOefrei3r+S/ruWkje+8iSB8CnwgKipRMi0xNSDkvKDorrDpmLLmiqQqKiB8IGBzY3JpcHRzL3Rlc3RfcTMzLmpzYCB8ICoqMzYqKiB8IOKche+8iOWQq+S8oOiusOajgOa1iyA3ICsg5oqk5qCPIDHvvIkgfAoKIyMg6KaG55uW546HCgotICoq5oSP5Zu+5YiG57G7KirvvJoxMDAvMTAw77yI55yf5a6eIGNsYXNzaWZ5SW50ZW5077yJCi0gKipSQUcg5LiN5Y+Y6YePKirvvJo4LzgKLSAqKkNhcGFiaWxpdHkg5YiG5rWBKirvvJozLzMKLSAqKuWPjeW5u+inieehrOmXuCoq77yaUTEtQiAzMS8zMSArIOWtmOmHjyAzMi8zMu+8m1EyLTE1IOS8oOiusCAzNi8zNgotICoq6IGU572R5pCc57SiKirvvJpxMjkrcTMwK3EzMStxMzIrcTMzIOe0r+iuoSB+NjI2IOWtkOaWreiogO+8iOWQq+S6i+WunumalOemu+OAgWRhdGFfcm91dGU9ZG9tZXN0aWPjgIHlrqHorqHpm7bms4TpnLLjgIHlpLHotKXlm57pgIAgUkFH77yJCi0gKirliY3nq6/kvZPpqowqKu+8mumakOengea1ruWxgiAvIOW8leeUqOWNoSAvIOWKqOaAgeagvOW8j++8iOS7o+eggeS+p+WwseS9je+8iQoKIyMg6YGX55WZ6Zeu6aKYCgoxLiBQaGFzZSBHIGBxdWVzdGlvbl9icmlkZ2VgIOacquiiq+S7o+eggeivu+WPlu+8iOecn+WunuaYoOWwhOmcgCBHLTIg5YqgIH42IOihjO+8iQoyLiBQaGFzZSBILTIg5rKZ566x5pegIGBAY2xvdWRiYXNlL25vZGUtc2RrYO+8jOecn+WuniAxMDAg6aKY6ZyA5L2g5py65Zmo6LeRCjMuIOWkp+WtpumihOa1i+WNoOavlCAyMy4zJSDlgY/pq5jvvIxHLTIg5b6F6LCDCjQuIG1zZ1NlY0NoZWNrIOecn+agueWboCBgLTUwMTAwMS8tNDAwMDNgIOS7jSAwJSDlj6/nlKjvvIhPUEVO77yM6KeBIENSLTAwMu+8iQo1LiAqKuiBlOe9keaQnOe0oumcgOeUqOaIt+WcqOS6keW6kyBgbW9kZWxfY29uZmlnYCDphY3lpb3nmb7ngrzmqKHlnovvvIjmlK/mjIEgZW5hYmxlX3NlYXJjaO+8ieaJjeacieerr+eCuSoq77yb5ZCm5YiZIGBub19lbmRwb2ludGDihpLor5rlrp7pmY3nuqcKCiMjIOi/kOihjOaWueW8j++8iOS9oOeOr+Wig++8iQoKYGBgYmFzaApub2RlIHdlYXBwL3Rlc3RzL29ubGluZS1xdWFsaXR5LXJ1bi5qcyAgICAgICAgIyBQaGFzZSBIIOemu+e6vyAxMDAvMTAwCm5vZGUgd2VhcHAvY2xvdWRmdW5jdGlvbnMvY2hhdC9zY3JpcHRzL3Rlc3RfcTMzLmpzICAgIyBRMi0xNSDkvKDorrDpmLLmiqQgMzYgUEFTUwpub2RlIHdlYXBwL2Nsb3VkZnVuY3Rpb25zL2NoYXQvc2NyaXB0cy90ZXN0X3EzMS5qcyAgICMgUTItMTMgUXdlbiDkuovlrp7pmpTnprsgMTMyIFBBU1MKYGBgCg==
+﻿# 09 · 测试（Tests）
+
+> **刷新于 2026-08-07（终校至 Q2-15）**：测试已推进到 `test_q33.js`，累计约 **526 断言 0 失败**（q29=225 / q30=104 / q31=132 / q32=29 / q33=36）。
+
+## 测试资产清单（节选近期）
+
+| 测试 | 文件 | 断言 | 状态 |
+|------|------|------|------|
+| Phase F 百问 | `tests/general-ai-test.*` | 100/100 | ✅ |
+| Phase H 意图 | `online-quality-test.json` | 100 通过 | ✅ |
+| Phase H 不变量 | `online-quality-run.js` | 8/8 | ✅ |
+| Phase R 首验 | capabilities 时间/天气 | 3/3 | ✅ 已上线 |
+| Phase Q1-B 反幻觉 | `tests/test_freshness_q1.js` | 31/31 | ✅ |
+| Phase Q1-B 存量回归 | 存量用例 | 32/32 | ✅ |
+| Q2-4-C canary | `scripts/test_q24c.js` | 37 | ✅ |
+| Q2-4-D privacy | `scripts/test_q24d.js` | 39 | ✅ |
+| Q2-5-B 国内源 | `scripts/test_q25b.js` | 41 | ✅ |
+| Q2-6-MVP 隔离 | `scripts/test_q26.js` | 31 | ✅（corpus SHA 不变） |
+| Q2-7 L2 金丝雀 | `scripts/test_q27.js` | 126 | ✅（data_route=domestic） |
+| Q2-8-MVP 激活 | `scripts/test_q28.js` | 217 | ✅（audit 零泄露） |
+| Q2-10 适配器 | `scripts/test_q29.js` | 225 | ✅ |
+| Q2-12 WSA | `scripts/test_q30.js` | 104 | ✅ |
+| Q2-13 Qwen | `scripts/test_q31.js` | 132 | ✅（事实隔离：弃 message.content） |
+| Q2-14-b 路由 | `scripts/test_q32.js` | 29 | ✅（锁死 freshness 短路修复） |
+| **Q2-15 传记防护** | `scripts/test_q33.js` | **36** | ✅（含传记检测 7 + 护栏 1） |
+
+## 覆盖率
+
+- **意图分类**：100/100（真实 classifyIntent）
+- **RAG 不变量**：8/8
+- **Capability 分流**：3/3
+- **反幻觉硬闸**：Q1-B 31/31 + 存量 32/32；Q2-15 传记 36/36
+- **联网搜索**：q29+q30+q31+q32+q33 累计 ~626 子断言（含事实隔离、data_route=domestic、审计零泄露、失败回退 RAG）
+- **前端体验**：隐私浮层 / 引用卡 / 动态格式（代码侧就位）
+
+## 遗留问题
+
+1. Phase G `question_bridge` 未被代码读取（真实映射需 G-2 加 ~6 行）
+2. Phase H-2 沙箱无 `@cloudbase/node-sdk`，真实 100 题需你机器跑
+3. 大学预测占比 23.3% 偏高，G-2 待调
+4. msgSecCheck 真根因 `-501001/-40003` 仍 0% 可用（OPEN，见 CR-002）
+5. **联网搜索需用户在云库 `model_config` 配好百炼模型（支持 enable_search）才有端点**；否则 `no_endpoint`→诚实降级
+
+## 运行方式（你环境）
+
+```bash
+node weapp/tests/online-quality-run.js        # Phase H 离线 100/100
+node weapp/cloudfunctions/chat/scripts/test_q33.js   # Q2-15 传记防护 36 PASS
+node weapp/cloudfunctions/chat/scripts/test_q31.js   # Q2-13 Qwen 事实隔离 132 PASS
+```

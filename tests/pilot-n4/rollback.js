@@ -1,1 +1,67 @@
-LyoqCiAqIFBoYXNlIE4tNCBSb2xsYmFjayBEcmlsbCDigJTigJQg55yf5a6e5pKk6ZSA5ryU57uDCiAqIOatpemqpO+8mmludmVudG9yeSDihpIg5Yig6ZmkIHBpbG90IG5hbWVzcGFjZSDkuqfnianvvIhyZWdpc3RyeSArIHZlY3RvciBpbmRleCArIHJlcG9ydHPvvIkKICogICAgICDihpIg5qCh6aqM55Sf5Lqn6LWE5Lqn5oyH57q55pyq5Y+YIOKGkiDmoKHpqowgbmFtZXNwYWNlIOW3sua4heepuiDihpIg5YaZIHJvbGxiYWNrLXJlcG9ydC5qc29u77yI5a2Y5LqOIG5hbWVzcGFjZSDkuYvlpJbvvIkKICog55So5rOV77yabm9kZSB0ZXN0cy9waWxvdC1uNC9yb2xsYmFjay5qcwogKi8KY29uc3QgZnMgPSByZXF1aXJlKCJmcyIpOwpjb25zdCBwYXRoID0gcmVxdWlyZSgicGF0aCIpOwpjb25zdCBjcnlwdG8gPSByZXF1aXJlKCJjcnlwdG8iKTsKCmNvbnN0IFJPT1QgPSBwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAiLi4iLCAiLi4iKTsKY29uc3QgQVJUID0gcGF0aC5qb2luKF9fZGlybmFtZSwgImFydGlmYWN0cyIpOwpjb25zdCBzaGEgPSAocCkgPT4gKGZzLmV4aXN0c1N5bmMocCkgPyBjcnlwdG8uY3JlYXRlSGFzaCgic2hhMjU2IikudXBkYXRlKGZzLnJlYWRGaWxlU3luYyhwKSkuZGlnZXN0KCJoZXgiKSA6IG51bGwpOwoKY29uc3QgZ3VhcmQgPSB7CiAgY29ycHVzOiBwYXRoLmpvaW4oUk9PVCwgImNsb3VkZnVuY3Rpb25zIiwgImNoYXQiLCAiY29ycHVzLmpzb24iKSwKICByYWc6IHBhdGguam9pbihST09ULCAiY2xvdWRmdW5jdGlvbnMiLCAiY2hhdCIsICJyYWcuanMiKSwKICBpbnRlbnQ6IHBhdGguam9pbihST09ULCAiY2xvdWRmdW5jdGlvbnMiLCAiY2hhdCIsICJpbnRlbnQuanMiKSwKICBpbmdlc3Q6IHBhdGguam9pbihST09ULCAiY2xvdWRmdW5jdGlvbnMiLCAiaW5nZXN0IiwgImluZGV4LmpzIiksCiAgcGhhc2VHOiBwYXRoLmpvaW4oUk9PVCwgInBoYXNlLWctcmVncmVzc2lvbi10ZXN0Lmpzb24iKSwKfTsKY29uc3QgYmVmb3JlID0gT2JqZWN0LmZyb21FbnRyaWVzKE9iamVjdC5lbnRyaWVzKGd1YXJkKS5tYXAoKFtrLCBwXSkgPT4gW2ssIHNoYShwKV0pKTsKCi8vIDEuIGludmVudG9yeQpjb25zdCBpbnZlbnRvcnkgPSBmcy5leGlzdHNTeW5jKEFSVCkKICA/IGZzLnJlYWRkaXJTeW5jKEFSVCkubWFwKChmKSA9PiB7CiAgICAgIGNvbnN0IHAgPSBwYXRoLmpvaW4oQVJULCBmKTsKICAgICAgcmV0dXJuIHsgZmlsZTogZiwgYnl0ZXM6IGZzLnN0YXRTeW5jKHApLnNpemUsIHNoYTI1Njogc2hhKHApIH07CiAgICB9KQogIDogW107CmNvbnN0IHJlZ2lzdHJ5QmVmb3JlID0gZnMuZXhpc3RzU3luYyhwYXRoLmpvaW4oQVJULCAicmVnaXN0cnkuanNvbiIpKQogID8gSlNPTi5wYXJzZShmcy5yZWFkRmlsZVN5bmMocGF0aC5qb2luKEFSVCwgInJlZ2lzdHJ5Lmpzb24iKSwgInV0ZjgiKSkucmVjb3Jkc1swXQogIDogbnVsbDsKY29uc3QgdmVjdG9yc0JlZm9yZSA9IGZzLmV4aXN0c1N5bmMocGF0aC5qb2luKEFSVCwgInZlY3Rvci1pbmRleC5qc29uIikpCiAgPyBKU09OLnBhcnNlKGZzLnJlYWRGaWxlU3luYyhwYXRoLmpvaW4oQVJULCAidmVjdG9yLWluZGV4Lmpzb24iKSwgInV0ZjgiKSkudmVjdG9yX2NvdW50X2FmdGVyCiAgOiBudWxsOwoKLy8gMi4g5omn6KGM5Yig6Zmk77yIUmVnaXN0cnkg6K6w5b2VICsgVmVjdG9yIOe0ouW8lSArIOWFqOmDqCBwaWxvdCDkuqfnianvvIkKZnMucm1TeW5jKEFSVCwgeyByZWN1cnNpdmU6IHRydWUsIGZvcmNlOiB0cnVlIH0pOwoKLy8gMy4g5qCh6aqMCmNvbnN0IGFmdGVyID0gT2JqZWN0LmZyb21FbnRyaWVzKE9iamVjdC5lbnRyaWVzKGd1YXJkKS5tYXAoKFtrLCBwXSkgPT4gW2ssIHNoYShwKV0pKTsKY29uc3QgcHJvZHVjdGlvblVudG91Y2hlZCA9IE9iamVjdC5rZXlzKGd1YXJkKS5ldmVyeSgoaykgPT4gYmVmb3JlW2tdID09PSBhZnRlcltrXSk7CmNvbnN0IG5hbWVzcGFjZUNsZWFyZWQgPSAhZnMuZXhpc3RzU3luYyhBUlQpOwpjb25zdCBjb3JwdXNTdGlsbE4gPSBKU09OLnBhcnNlKGZzLnJlYWRGaWxlU3luYyhndWFyZC5jb3JwdXMsICJ1dGY4IikpLmxlbmd0aDsKCmNvbnN0IHJlcG9ydCA9IHsKICBkcmlsbF90aW1lOiBuZXcgRGF0ZSgpLnRvSVNPU3RyaW5nKCksCiAgc3RlcHM6IFsKICAgIHsgc3RlcDogImludmVudG9yeSIsIGRldGFpbDogYCR7aW52ZW50b3J5Lmxlbmd0aH0g5LiqIHBpbG90IOS6p+eJqWAsIG9rOiB0cnVlIH0sCiAgICB7IHN0ZXA6ICJyZWdpc3RyeV9zdGF0ZV9yZXZlcnQiLCBkZXRhaWw6IHJlZ2lzdHJ5QmVmb3JlID8gYFAtMDQgc3RhdHVzICR7cmVnaXN0cnlCZWZvcmUuc3RhdHVzfSDihpIgcmVtb3ZlZO+8iG5hbWVzcGFjZSDlhbPpl63vvIlgIDogIm5vIHJlZ2lzdHJ5Iiwgb2s6IHRydWUgfSwKICAgIHsgc3RlcDogInZlY3Rvcl9kZWxldGUiLCBkZXRhaWw6IGDliKDpmaQgcGlsb3Qg5ZCR6YeP57Si5byV77yIYWZ0ZXItaW5kZXgg5YWxICR7dmVjdG9yc0JlZm9yZX0g5ZCR6YeP77yM5YW25LitIHBpbG90ICR7cmVnaXN0cnlCZWZvcmUgPyByZWdpc3RyeUJlZm9yZS5jaHVua19jb3VudCA6ICI/In0g5p2h77yJYCwgb2s6IHRydWUgfSwKICAgIHsgc3RlcDogIm5hbWVzcGFjZV9jbG9zZSIsIGRldGFpbDogYHRlc3RzL3BpbG90LW40L2FydGlmYWN0cyDlt7Lnp7vpmaQgPSAke25hbWVzcGFjZUNsZWFyZWR9YCwgb2s6IG5hbWVzcGFjZUNsZWFyZWQgfSwKICAgIHsgc3RlcDogInZlcnNpb25fcmV2ZXJ0IiwgZGV0YWlsOiAiUC0wNCB2ZXJzaW9uIDAuMS4wLXBpbG90IOS9nOW6n++8jOaXoOeUn+S6p+eJiOacrOmcgOWbnumAgCIsIG9rOiB0cnVlIH0sCiAgICB7IHN0ZXA6ICJwcm9kdWN0aW9uX3ZlcmlmeSIsIGRldGFpbDogYGNvcnB1cy9yYWcvaW50ZW50L2luZ2VzdC9waGFzZUcg5oyH57q55LiA6Ie0ID0gJHtwcm9kdWN0aW9uVW50b3VjaGVkfe+8m2NvcnB1cyDku43kuLogJHtjb3JwdXNTdGlsbE59IOadoWAsIG9rOiBwcm9kdWN0aW9uVW50b3VjaGVkIH0sCiAgXSwKICBoYXNoX2JlZm9yZTogYmVmb3JlLAogIGhhc2hfYWZ0ZXI6IGFmdGVyLAogIHByb2R1Y3Rpb25fdW50b3VjaGVkOiBwcm9kdWN0aW9uVW50b3VjaGVkLAogIG5hbWVzcGFjZV9jbGVhcmVkOiBuYW1lc3BhY2VDbGVhcmVkLAogIGNvcnB1c19vYmplY3RfY291bnQ6IGNvcnB1c1N0aWxsTiwKICBkZWxldGVkX2ludmVudG9yeTogaW52ZW50b3J5LAogIHJvbGxiYWNrX3Bhc3M6IHByb2R1Y3Rpb25VbnRvdWNoZWQgJiYgbmFtZXNwYWNlQ2xlYXJlZCwKICByZXByb2R1Y2liaWxpdHk6ICLkuqfnianlj6/nlLEgbm9kZSB0ZXN0cy9waWxvdC1uNC9ydW4tcGlsb3QuanMg5bmC562J6YeN5bu677yI5rqQ5paH5Lu2ICsgYmVuY2htYXJrIOS/neeVme+8iSIsCn07CmZzLndyaXRlRmlsZVN5bmMocGF0aC5qb2luKF9fZGlybmFtZSwgInJvbGxiYWNrLXJlcG9ydC5qc29uIiksIEpTT04uc3RyaW5naWZ5KHJlcG9ydCwgbnVsbCwgMiksICJ1dGY4Iik7CmNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHsgcm9sbGJhY2tfcGFzczogcmVwb3J0LnJvbGxiYWNrX3Bhc3MsIHByb2R1Y3Rpb25fdW50b3VjaGVkOiBwcm9kdWN0aW9uVW50b3VjaGVkLCBuYW1lc3BhY2VfY2xlYXJlZDogbmFtZXNwYWNlQ2xlYXJlZCwgY29ycHVzX29iamVjdF9jb3VudDogY29ycHVzU3RpbGxOLCBkZWxldGVkX2ZpbGVzOiBpbnZlbnRvcnkubGVuZ3RoIH0sIG51bGwsIDIpKTsK
+/**
+ * Phase N-4 Rollback Drill —— 真实撤销演练
+ * 步骤：inventory → 删除 pilot namespace 产物（registry + vector index + reports）
+ *      → 校验生产资产指纹未变 → 校验 namespace 已清空 → 写 rollback-report.json（存于 namespace 之外）
+ * 用法：node tests/pilot-n4/rollback.js
+ */
+const fs = require("fs");
+const path = require("path");
+const crypto = require("crypto");
+
+const ROOT = path.resolve(__dirname, "..", "..");
+const ART = path.join(__dirname, "artifacts");
+const sha = (p) => (fs.existsSync(p) ? crypto.createHash("sha256").update(fs.readFileSync(p)).digest("hex") : null);
+
+const guard = {
+  corpus: path.join(ROOT, "cloudfunctions", "chat", "corpus.json"),
+  rag: path.join(ROOT, "cloudfunctions", "chat", "rag.js"),
+  intent: path.join(ROOT, "cloudfunctions", "chat", "intent.js"),
+  ingest: path.join(ROOT, "cloudfunctions", "ingest", "index.js"),
+  phaseG: path.join(ROOT, "phase-g-regression-test.json"),
+};
+const before = Object.fromEntries(Object.entries(guard).map(([k, p]) => [k, sha(p)]));
+
+// 1. inventory
+const inventory = fs.existsSync(ART)
+  ? fs.readdirSync(ART).map((f) => {
+      const p = path.join(ART, f);
+      return { file: f, bytes: fs.statSync(p).size, sha256: sha(p) };
+    })
+  : [];
+const registryBefore = fs.existsSync(path.join(ART, "registry.json"))
+  ? JSON.parse(fs.readFileSync(path.join(ART, "registry.json"), "utf8")).records[0]
+  : null;
+const vectorsBefore = fs.existsSync(path.join(ART, "vector-index.json"))
+  ? JSON.parse(fs.readFileSync(path.join(ART, "vector-index.json"), "utf8")).vector_count_after
+  : null;
+
+// 2. 执行删除（Registry 记录 + Vector 索引 + 全部 pilot 产物）
+fs.rmSync(ART, { recursive: true, force: true });
+
+// 3. 校验
+const after = Object.fromEntries(Object.entries(guard).map(([k, p]) => [k, sha(p)]));
+const productionUntouched = Object.keys(guard).every((k) => before[k] === after[k]);
+const namespaceCleared = !fs.existsSync(ART);
+const corpusStillN = JSON.parse(fs.readFileSync(guard.corpus, "utf8")).length;
+
+const report = {
+  drill_time: new Date().toISOString(),
+  steps: [
+    { step: "inventory", detail: `${inventory.length} 个 pilot 产物`, ok: true },
+    { step: "registry_state_revert", detail: registryBefore ? `P-04 status ${registryBefore.status} → removed（namespace 关闭）` : "no registry", ok: true },
+    { step: "vector_delete", detail: `删除 pilot 向量索引（after-index 共 ${vectorsBefore} 向量，其中 pilot ${registryBefore ? registryBefore.chunk_count : "?"} 条）`, ok: true },
+    { step: "namespace_close", detail: `tests/pilot-n4/artifacts 已移除 = ${namespaceCleared}`, ok: namespaceCleared },
+    { step: "version_revert", detail: "P-04 version 0.1.0-pilot 作废，无生产版本需回退", ok: true },
+    { step: "production_verify", detail: `corpus/rag/intent/ingest/phaseG 指纹一致 = ${productionUntouched}；corpus 仍为 ${corpusStillN} 条`, ok: productionUntouched },
+  ],
+  hash_before: before,
+  hash_after: after,
+  production_untouched: productionUntouched,
+  namespace_cleared: namespaceCleared,
+  corpus_object_count: corpusStillN,
+  deleted_inventory: inventory,
+  rollback_pass: productionUntouched && namespaceCleared,
+  reproducibility: "产物可由 node tests/pilot-n4/run-pilot.js 幂等重建（源文件 + benchmark 保留）",
+};
+fs.writeFileSync(path.join(__dirname, "rollback-report.json"), JSON.stringify(report, null, 2), "utf8");
+console.log(JSON.stringify({ rollback_pass: report.rollback_pass, production_untouched: productionUntouched, namespace_cleared: namespaceCleared, corpus_object_count: corpusStillN, deleted_files: inventory.length }, null, 2));

@@ -1,1 +1,123 @@
-Ly8gUkFHIOWPrOWbnuWbnuW9kua1i+ivle+8iOemu+e6v++8jOaXoOmcgOS6keeOr+Wig++8iQovLyDnm67nmoTvvJrpqozor4HjgIzmpoLlv7XmoaUgKyDor63kuYnnm7jlhbPliKTlrpogKyDkuKTnuqfooaXkvY3jgI3kuInlpITmlLnliqjlkI7vvIwKLy8gICAxKSDmsqHmnInnoLTlnY8gUGhhc2UgRiDlt7LpgJrov4fpopjnm67vvIjkuI3lvJXlhaXmhI/lpJYgd2Vha1JlY2FsbO+8ie+8mwovLyAgIDIpICLnpL7kvJrmmK/mgI7kuYjlvaLmiJDnmoQiIOexu+mXrumimOecn+ato+WPrOWbniDiiaUzIOadoeebuOWFs+e7j+WFuO+8iOWkp+Wtpi/nlLPovqnnr4cv6K666K+t77yJ77ybCi8vICAgMykg5q+P5p2h6KKr5Y+s5Zue55qE57uP5YW46YO96Iez5bCR5pyJ6K+N6Z2i6YeN5Y+g77yIbGV4Pj0y77yJ77yM5p2c57udIGxleD0wIOe6r+W4p+WBj+e9ruehrOWll+OAggovLwovLyDov5DooYzvvJpub2RlIHdlYXBwL3Rlc3RzL3JhZy1yZWdyZXNzaW9uLmpzCgpjb25zdCBwYXRoID0gcmVxdWlyZSgicGF0aCIpOwpjb25zdCByYWcgPSByZXF1aXJlKHBhdGguam9pbihfX2Rpcm5hbWUsICIuLiIsICJjbG91ZGZ1bmN0aW9ucyIsICJjaGF0IiwgInJhZyIpKTsKY29uc3QgcGhhc2VGID0gcmVxdWlyZShwYXRoLmpvaW4oX19kaXJuYW1lLCAiLi4iLCAicGhhc2UtZi0xMDAtdGVzdC5qc29uIikpOwoKLy8g5Y+W5Ye6IDEwMCDpopjvvIjljrvlvJXlj7fvvIzkuI7nnJ/lrp7ovpPlhaXkuIDoh7TvvIkKY29uc3QgUVVFU1RJT05TID0gcGhhc2VGLnJlY29yZHMubWFwKChyKSA9PiAoewogIGlkOiByLmlkLAogIHE6IFN0cmluZyhyLnF1ZXN0aW9uIHx8ICIiKS5yZXBsYWNlKC9eIit8IiskL2csICIiKS50cmltKCksCiAgdGhlbWU6IHIudGhlbWUsCn0pKTsKCi8vIOekvuS8muexu+S4k+mhueWPmOS9k++8iOimhueblueUqOaIt+WOn+ivneOAjOekvuS8muaYr+aAjuS5iOW9ouaIkOeahOOAjeWPiiBQaGFzZSBGICMxMuOAjOS4gOS4quekvuS8muaYr+aAjuS5iOW9ouaIkOeahOOAje+8iQpjb25zdCBTT0NJQUxfVkFSSUFOVFMgPSBbCiAgIuekvuS8muaYr+aAjuS5iOW9ouaIkOeahCIsCiAgIuS4gOS4quekvuS8muaYr+aAjuS5iOW9ouaIkOeahCIsCiAgIuekvuS8muWIsOW6leaYr+aAjuS5iOadpeeahCIsCiAgIuS6uuexu+S4uuS7gOS5iOS8mue7hOaIkOekvuS8miIsCl07CgpmdW5jdGlvbiBydW5PbmUocSkgewogIGNvbnN0IHIgPSByYWcubGVnYWN5UmV0cmlldmUocSwgMyk7CiAgcmV0dXJuIHsKICAgIGZyYW1lOiByLmZyYW1lLAogICAgd2Vhazogci53ZWFrUmVjYWxsLAogICAgbjogci5jaXRhdGlvbnMubGVuZ3RoLAogICAgYm9va3M6IHIuY2l0YXRpb25zLm1hcCgoYykgPT4gYy50aXRsZSksCiAgICBsZXg6IHIuY2l0YXRpb25zLm1hcCgoYykgPT4gYy5sZXhpY2FsU2NvcmUpLAogICAgbWluTGV4OiByLmNpdGF0aW9ucy5sZW5ndGggPyBNYXRoLm1pbi5hcHBseShudWxsLCByLmNpdGF0aW9ucy5tYXAoKGMpID0+IGMubGV4aWNhbFNjb3JlKSkgOiAtMSwKICAgIGJyaWRnZWQ6IHIuYnJpZGdlZFRlcm1zLAogIH07Cn0KCi8vIC0tLS0gMS4g5YWo6YePIDEwMCDpopjlm57lvZIgLS0tLQpsZXQgd2Vha0xpc3QgPSBbXTsKbGV0IGdlMyA9IDA7CmxldCBlcTEyID0gMDsKbGV0IG1pbkxleFZpb2xhdGlvbnMgPSBbXTsgLy8g5Y+s5Zue5LqGIGxleDwyIOeahOe7j+WFuO+8iOS4jeW6lOWPkeeUn++8iQpjb25zdCBwZXJRdWVzdGlvbiA9IFtdOwpmb3IgKGNvbnN0IGl0ZW0gb2YgUVVFU1RJT05TKSB7CiAgY29uc3QgcmVzID0gcnVuT25lKGl0ZW0ucSk7CiAgaWYgKHJlcy53ZWFrKSB3ZWFrTGlzdC5wdXNoKHsgaWQ6IGl0ZW0uaWQsIHE6IGl0ZW0ucSB9KTsKICBpZiAocmVzLm4gPj0gMykgZ2UzICs9IDE7CiAgZWxzZSBpZiAocmVzLm4gPj0gMSkgZXExMiArPSAxOwogIGlmIChyZXMubWluTGV4ID49IDAgJiYgcmVzLm1pbkxleCA8IDIpIHsKICAgIG1pbkxleFZpb2xhdGlvbnMucHVzaCh7IGlkOiBpdGVtLmlkLCBxOiBpdGVtLnEsIG1pbkxleDogcmVzLm1pbkxleCwgYm9va3M6IHJlcy5ib29rcyB9KTsKICB9CiAgcGVyUXVlc3Rpb24ucHVzaCh7IGlkOiBpdGVtLmlkLCBuOiByZXMubiwgd2VhazogcmVzLndlYWssIGJvb2tzOiByZXMuYm9va3Muam9pbigiLyIpIH0pOwp9CgovLyAtLS0tIDIuIOekvuS8muexu+S4k+mhuSAtLS0tCmNvbnN0IHNvY2lhbFJlc3VsdHMgPSBTT0NJQUxfVkFSSUFOVFMubWFwKChxKSA9PiB7CiAgY29uc3QgcmVzID0gcnVuT25lKHEpOwogIHJldHVybiB7CiAgICBxLAogICAgbjogcmVzLm4sCiAgICB3ZWFrOiByZXMud2VhaywKICAgIGJvb2tzOiByZXMuYm9va3MsCiAgICBsZXg6IHJlcy5sZXgsCiAgICBoYXNEYXh1ZTogcmVzLmJvb2tzLmluZGV4T2YoIuWkp+WtpiIpID49IDAsCiAgICBoYXNBcG9sb2d5OiByZXMuYm9va3MuaW5kZXhPZigi5p+P5ouJ5Zu+44CK55Sz6L6p56+H44CLIikgPj0gMCwKICAgIGhhc0x1bnl1OiByZXMuYm9va3MuaW5kZXhPZigi6K666K+tIikgPj0gMCwKICB9Owp9KTsKCi8vIC0tLS0g6L6T5Ye6IC0tLS0KY29uc29sZS5sb2coIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iKTsKY29uc29sZS5sb2coIlJBRyDlj6zlm57lm57lvZLvvIhQaGFzZSBGIDEwMCDpopggKyDnpL7kvJrkuJPpobnvvIkiKTsKY29uc29sZS5sb2coIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iKTsKCmNvbnNvbGUubG9nKCJcbi0tLSDlhajph48gMTAwIOmimOe7n+iuoSAtLS0iKTsKY29uc29sZS5sb2coIiAg5oC76aKY5pWwICAgICAgICAgICAgOiIsIFFVRVNUSU9OUy5sZW5ndGgpOwpjb25zb2xlLmxvZygiICDlj6zlm57iiaUzIOadoSAgICAgICAgIDoiLCBnZTMsICIoIiArIChnZTMgLyBRVUVTVElPTlMubGVuZ3RoICogMTAwKS50b0ZpeGVkKDApICsgIiUpIik7CmNvbnNvbGUubG9nKCIgIOWPrOWbniAxfjIg5p2hICAgICAgIDoiLCBlcTEyKTsKY29uc29sZS5sb2coIiAgd2Vha1JlY2FsbCgwIOadoSkgIDoiLCB3ZWFrTGlzdC5sZW5ndGgpOwpjb25zb2xlLmxvZygiICBsZXg8MiDov53op4Tlj6zlm54gICAgIDoiLCBtaW5MZXhWaW9sYXRpb25zLmxlbmd0aCwgIijlupTkuLogMCkiKTsKCmlmICh3ZWFrTGlzdC5sZW5ndGgpIHsKICBjb25zb2xlLmxvZygiXG4gIHdlYWtSZWNhbGwg6aKY77yI6ZyA5Lq65bel56Gu6K6k5piv5ZCm56Gu5peg55u45YWz5YaF5a6577yJOiIpOwogIHdlYWtMaXN0LmZvckVhY2goKHcpID0+IGNvbnNvbGUubG9nKCIgICAgIyIgKyB3LmlkLCB3LnEpKTsKfQppZiAobWluTGV4VmlvbGF0aW9ucy5sZW5ndGgpIHsKICBjb25zb2xlLmxvZygiXG4gIOKaoCBsZXg8MiDov53op4TvvIjooqvnuq/luKflgY/nva7pobbkuIrvvIzpnIDkv67lpI3vvIk6Iik7CiAgbWluTGV4VmlvbGF0aW9ucy5mb3JFYWNoKCh2KSA9PiBjb25zb2xlLmxvZygiICAgICMiICsgdi5pZCwgdi5xLCAibWluTGV4PSIgKyB2Lm1pbkxleCwgdi5ib29rcy5qb2luKCIvIikpKTsKfQoKY29uc29sZS5sb2coIlxuLS0tIOekvuS8muexu+S4k+mhue+8iOeUqOaIt+WOnyBidWcg5Zy65pmv77yJLS0tIik7CmxldCBzb2NpYWxQYXNzID0gMDsKc29jaWFsUmVzdWx0cy5mb3JFYWNoKChzKSA9PiB7CiAgY29uc3QgcGFzcyA9ICFzLndlYWsgJiYgcy5uID49IDMgJiYgcy5oYXNEYXh1ZTsKICBpZiAocGFzcykgc29jaWFsUGFzcyArPSAxOwogIGNvbnNvbGUubG9nKAogICAgIiAgIiArIChwYXNzID8gIuKchSIgOiAi4p2MIikgKwogICAgIiBuPSIgKyBzLm4gKwogICAgIiDlpKflraY9IiArIChzLmhhc0RheHVlID8gIuKckyIgOiAi4pyXIikgKwogICAgIiDnlLPovqnnr4c9IiArIChzLmhhc0Fwb2xvZ3kgPyAi4pyTIiA6ICLinJciKSArCiAgICAiIOiuuuivrT0iICsgKHMuaGFzTHVueXUgPyAi4pyTIiA6ICLinJciKSArCiAgICAiIHwgIiArIHMucSArCiAgICAiIHwgWyIgKyBzLmJvb2tzLmpvaW4oIiwgIikgKyAiXSIKICApOwp9KTsKY29uc29sZS5sb2coIlxuICDnpL7kvJrnsbvkuJPpobnpgJrov4c6Iiwgc29jaWFsUGFzcyArICIvIiArIHNvY2lhbFJlc3VsdHMubGVuZ3RoLCAiKOimgeaxgiDiiaUzIOadoeS4lOWQq+OAiuWkp+WtpuOAiykiKTsKCmNvbnNvbGUubG9nKCJcbi0tLSDpgJDpopjlj6zlm57mpoLop4jvvIhpZCB8IG4gfCBib29rc++8iS0tLSIpOwpwZXJRdWVzdGlvbi5mb3JFYWNoKChwKSA9PiB7CiAgY29uc29sZS5sb2coIiAgIyIgKyBTdHJpbmcocC5pZCkucGFkU3RhcnQoMywgIiAiKSArICIgfCAiICsgcC5uICsgIiB8ICIgKyBwLmJvb2tzKTsKfSk7CgovLyAtLS0tIOWIpOWumiAtLS0tCi8vIOehrOmAmui/h+adoeS7tu+8muKRoCDnpL7kvJrkuJPpobnlhajov4fvvIjnlKjmiLfljp8gYnVnIOWcuuaZr++8ie+8m+KRoSDpm7YgbGV4PDIg6L+d6KeE77yI5p2c57udIGxleD0wIOS4ieS7tuWll+ehrOWll++8ieOAggovLyB3ZWFrUmVjYWxsIOS4uuWPguiAg+aMh+agh++8muivjemdouWHhuWFpeS4i++8jOefpeivhuW6k+ehruaXoOivjemdoumHjeWPoOeahOWQq+eziumimOS8mui1sOivmuWunuWjsOaYju+8jOWxnumihOacn+ihjOS4uuOAggpjb25zdCBvayA9IG1pbkxleFZpb2xhdGlvbnMubGVuZ3RoID09PSAwICYmIHNvY2lhbFBhc3MgPT09IHNvY2lhbFJlc3VsdHMubGVuZ3RoOwpjb25zb2xlLmxvZygiXG49PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Iik7CmNvbnNvbGUubG9nKCLlm57lvZLnu5Porro6Iiwgb2sgPyAi4pyFIOmAmui/hyIgOiAi4p2MIOWtmOWcqOmXrumimO+8jOmcgOaOkuafpSIpOwpjb25zb2xlLmxvZygiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIpOwpwcm9jZXNzLmV4aXQob2sgPyAwIDogMSk7Cg==
+// RAG 召回回归测试（离线，无需云环境）
+// 目的：验证「概念桥 + 语义相关判定 + 两级补位」三处改动后，
+//   1) 没有破坏 Phase F 已通过题目（不引入意外 weakRecall）；
+//   2) "社会是怎么形成的" 类问题真正召回 ≥3 条相关经典（大学/申辩篇/论语）；
+//   3) 每条被召回的经典都至少有词面重叠（lex>=2），杜绝 lex=0 纯帧偏置硬套。
+//
+// 运行：node weapp/tests/rag-regression.js
+
+const path = require("path");
+const rag = require(path.join(__dirname, "..", "cloudfunctions", "chat", "rag"));
+const phaseF = require(path.join(__dirname, "..", "phase-f-100-test.json"));
+
+// 取出 100 题（去引号，与真实输入一致）
+const QUESTIONS = phaseF.records.map((r) => ({
+  id: r.id,
+  q: String(r.question || "").replace(/^"+|"+$/g, "").trim(),
+  theme: r.theme,
+}));
+
+// 社会类专项变体（覆盖用户原话「社会是怎么形成的」及 Phase F #12「一个社会是怎么形成的」）
+const SOCIAL_VARIANTS = [
+  "社会是怎么形成的",
+  "一个社会是怎么形成的",
+  "社会到底是怎么来的",
+  "人类为什么会组成社会",
+];
+
+function runOne(q) {
+  const r = rag.legacyRetrieve(q, 3);
+  return {
+    frame: r.frame,
+    weak: r.weakRecall,
+    n: r.citations.length,
+    books: r.citations.map((c) => c.title),
+    lex: r.citations.map((c) => c.lexicalScore),
+    minLex: r.citations.length ? Math.min.apply(null, r.citations.map((c) => c.lexicalScore)) : -1,
+    bridged: r.bridgedTerms,
+  };
+}
+
+// ---- 1. 全量 100 题回归 ----
+let weakList = [];
+let ge3 = 0;
+let eq12 = 0;
+let minLexViolations = []; // 召回了 lex<2 的经典（不应发生）
+const perQuestion = [];
+for (const item of QUESTIONS) {
+  const res = runOne(item.q);
+  if (res.weak) weakList.push({ id: item.id, q: item.q });
+  if (res.n >= 3) ge3 += 1;
+  else if (res.n >= 1) eq12 += 1;
+  if (res.minLex >= 0 && res.minLex < 2) {
+    minLexViolations.push({ id: item.id, q: item.q, minLex: res.minLex, books: res.books });
+  }
+  perQuestion.push({ id: item.id, n: res.n, weak: res.weak, books: res.books.join("/") });
+}
+
+// ---- 2. 社会类专项 ----
+const socialResults = SOCIAL_VARIANTS.map((q) => {
+  const res = runOne(q);
+  return {
+    q,
+    n: res.n,
+    weak: res.weak,
+    books: res.books,
+    lex: res.lex,
+    hasDaxue: res.books.indexOf("大学") >= 0,
+    hasApology: res.books.indexOf("柏拉图《申辩篇》") >= 0,
+    hasLunyu: res.books.indexOf("论语") >= 0,
+  };
+});
+
+// ---- 输出 ----
+console.log("==============================================");
+console.log("RAG 召回回归（Phase F 100 题 + 社会专项）");
+console.log("==============================================");
+
+console.log("\n--- 全量 100 题统计 ---");
+console.log("  总题数            :", QUESTIONS.length);
+console.log("  召回≥3 条         :", ge3, "(" + (ge3 / QUESTIONS.length * 100).toFixed(0) + "%)");
+console.log("  召回 1~2 条       :", eq12);
+console.log("  weakRecall(0 条)  :", weakList.length);
+console.log("  lex<2 违规召回     :", minLexViolations.length, "(应为 0)");
+
+if (weakList.length) {
+  console.log("\n  weakRecall 题（需人工确认是否确无相关内容）:");
+  weakList.forEach((w) => console.log("    #" + w.id, w.q));
+}
+if (minLexViolations.length) {
+  console.log("\n  ⚠ lex<2 违规（被纯帧偏置顶上，需修复）:");
+  minLexViolations.forEach((v) => console.log("    #" + v.id, v.q, "minLex=" + v.minLex, v.books.join("/")));
+}
+
+console.log("\n--- 社会类专项（用户原 bug 场景）---");
+let socialPass = 0;
+socialResults.forEach((s) => {
+  const pass = !s.weak && s.n >= 3 && s.hasDaxue;
+  if (pass) socialPass += 1;
+  console.log(
+    "  " + (pass ? "✅" : "❌") +
+    " n=" + s.n +
+    " 大学=" + (s.hasDaxue ? "✓" : "✗") +
+    " 申辩篇=" + (s.hasApology ? "✓" : "✗") +
+    " 论语=" + (s.hasLunyu ? "✓" : "✗") +
+    " | " + s.q +
+    " | [" + s.books.join(", ") + "]"
+  );
+});
+console.log("\n  社会类专项通过:", socialPass + "/" + socialResults.length, "(要求 ≥3 条且含《大学》)");
+
+console.log("\n--- 逐题召回概览（id | n | books）---");
+perQuestion.forEach((p) => {
+  console.log("  #" + String(p.id).padStart(3, " ") + " | " + p.n + " | " + p.books);
+});
+
+// ---- 判定 ----
+// 硬通过条件：① 社会专项全过（用户原 bug 场景）；② 零 lex<2 违规（杜绝 lex=0 三件套硬套）。
+// weakRecall 为参考指标：词面准入下，知识库确无词面重叠的含糊题会走诚实声明，属预期行为。
+const ok = minLexViolations.length === 0 && socialPass === socialResults.length;
+console.log("\n==============================================");
+console.log("回归结论:", ok ? "✅ 通过" : "❌ 存在问题，需排查");
+console.log("==============================================");
+process.exit(ok ? 0 : 1);

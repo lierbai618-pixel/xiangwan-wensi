@@ -1,1 +1,32 @@
-ewogICJpZCI6ICJ6aHVhbmd6aSIsCiAgInRpdGxlIjogIuW6hOWtkCIsCiAgImF1dGhvciI6ICLluoTlkagiLAogICJ0cmFuc2xhdG9yIjogbnVsbCwKICAic291cmNlIjogIuS7pemDreW6huiXqeOAiuW6hOWtkOmbhumHiuOAi+S9nOagoeWLmOWPguiAg++8iOiKgumAie+8iSIsCiAgImVkaXRpb24iOiAi6YOt5bqG6Jep44CK5bqE5a2Q6ZuG6YeK44CL5qCh5YuY5Y+C6ICDIiwKICAicHVibGlzaGVyIjogbnVsbCwKICAieWVhciI6ICLmiJjlm73vvIjnuqblhazlhYPliY004oCT5YmNM+S4lue6qu+8iSIsCiAgImNvcHlyaWdodF9zdGF0dXMiOiAicHVibGljLWRvbWFpbiIsCiAgImxpY2Vuc2Vfbm90ZSI6ICJDQzAgLyDlhazmnInpoobln5/vvIjljp/mlofvvIkiLAogICJ2ZXJpZmljYXRpb25fZGF0ZSI6ICIyMDI2LTA3LTI2IiwKICAiY2F0ZWdvcnkiOiAi5Lit5Zu95ZOy5a2mIiwKICAicGVyc3BlY3RpdmUiOiAi6YGT5a62IiwKICAidGhlbWVzIjogWyLoh6rnlLEiLCAi6YCN6YGlIiwgIuWxgOmZkCIsICLpobrlhbboh6rnhLYiLCAi55y855WMIiwgIuS7t+WAvCIsICLnhKbomZEiXSwKICAicHJvYmxlbV90YWdzIjogWyLoh6rnlLEiLCAi6YCN6YGlIiwgIuWxgOmZkCIsICLlpLHotKUiLCAi54Sm6JmRIiwgIuS7t+WAvOaEnyIsICLpobrlhbboh6rnhLYiLCAi5q+U6L6DIiwgIuWmguS9lemdouWvueWksei0pSIsICLkuLrku4DkuYjotorliqrlipvotornhKbomZEiXSwKICAidXNlcl9xdWVzdGlvbnMiOiBbCiAgICAi5aaC5L2V6Z2i5a+55aSx6LSlIiwKICAgICLkuLrku4DkuYjotorliqrlipvotornhKbomZEiLAogICAgIuaAu+aLv+iHquW3seWSjOWIq+S6uuavlOi+g+aAjuS5iOWKniIsCiAgICAi5oCO5qC36I635b6X55yf5q2j55qE6Ieq55SxIgogIF0sCiAgInNjZW5hcmlvcyI6IFsi5oqX5oyr5YqbIiwgIuiHquaIkeaOpee6syIsICLnnLznlYzmi5PlsZUiLCAi5oOF57uq55aP5a+8Il0sCiAgImF1dGhvcml0eV9sZXZlbCI6IDUsCiAgImNpdGF0aW9uIjogeyAidGVtcGxhdGUiOiAi44CKe3RpdGxlfcK3e3NlY3Rpb25944CLIiwgImV4YW1wbGUiOiAi44CK5bqE5a2QwrfpgI3pgaXmuLjjgIsiIH0sCiAgImxhbmd1YWdlIjogInpoIiwKICAic291cmNlX3R5cGUiOiAiYW5jaWVudC10ZXh0IiwKICAiY2hhcHRlcl9zcGxpdCI6ICJieS1jaGFwdGVyIiwKICAibGVnYWxDb25maXJtIjogdHJ1ZSwKICAic3RhdHVzIjogInJlYWR5IiwKICAibm90ZXMiOiAi6IqC6YCJ44CK6YCN6YGl5ri444CL44CK5YW755Sf5Li744CL44CK56eL5rC044CL44CCIgp9Cg==
+{
+  "id": "zhuangzi",
+  "title": "庄子",
+  "author": "庄周",
+  "translator": null,
+  "source": "以郭庆藩《庄子集释》作校勘参考（节选）",
+  "edition": "郭庆藩《庄子集释》校勘参考",
+  "publisher": null,
+  "year": "战国（约公元前4–前3世纪）",
+  "copyright_status": "public-domain",
+  "license_note": "CC0 / 公有领域（原文）",
+  "verification_date": "2026-07-26",
+  "category": "中国哲学",
+  "perspective": "道家",
+  "themes": ["自由", "逍遥", "局限", "顺其自然", "眼界", "价值", "焦虑"],
+  "problem_tags": ["自由", "逍遥", "局限", "失败", "焦虑", "价值感", "顺其自然", "比较", "如何面对失败", "为什么越努力越焦虑"],
+  "user_questions": [
+    "如何面对失败",
+    "为什么越努力越焦虑",
+    "总拿自己和别人比较怎么办",
+    "怎样获得真正的自由"
+  ],
+  "scenarios": ["抗挫力", "自我接纳", "眼界拓展", "情绪疏导"],
+  "authority_level": 5,
+  "citation": { "template": "《{title}·{section}》", "example": "《庄子·逍遥游》" },
+  "language": "zh",
+  "source_type": "ancient-text",
+  "chapter_split": "by-chapter",
+  "legalConfirm": true,
+  "status": "ready",
+  "notes": "节选《逍遥游》《养生主》《秋水》。"
+}

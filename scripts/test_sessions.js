@@ -1,1 +1,167 @@
-Ly8g5rWL6K+VIGhpc3Rvcnkg5LqR5Ye95pWw5aSa5Lya6K+d6YC76L6R77yI5YaF5a2YIG1vY2sgd3gtc2VydmVyLXNkayDnmoQgZGLvvIkKLy8g6KaG55uW77yaY3JlYXRlIC8gbGlzdCAvIGxvYWQgLyBhcHBlbmQgLyDmoIfpopjoh6rliqjnlJ/miJAgLyBvcGVuaWQg6LaK5p2D5qCh6aqMIC8gcmVtb3ZlIC8g57y65Y+C5qCh6aqMCmNvbnN0IE1vZHVsZSA9IHJlcXVpcmUoIm1vZHVsZSIpOwpjb25zdCBwYXRoID0gcmVxdWlyZSgicGF0aCIpOwoKLy8gLS0tLSDlhoXlrZjniYggbW9jayDmlbDmja7lupMgLS0tLQpmdW5jdGlvbiBtYWtlTW9ja0RiKCkgewogIGNvbnN0IHN0b3JlID0geyBjb252ZXJzYXRpb25zOiBbXSB9OwogIGxldCBzZXEgPSAwOwogIGNvbnN0IG1hdGNoRG9jcyA9IChhcnIsIHF1ZXJ5KSA9PgogICAgYXJyLmZpbHRlcigoZCkgPT4gT2JqZWN0LmtleXMocXVlcnkpLmV2ZXJ5KChrKSA9PiBkW2tdID09PSBxdWVyeVtrXSkpOwogIGZ1bmN0aW9uIG1ha2VDb2xsZWN0aW9uKG5hbWUpIHsKICAgIGNvbnN0IGRhdGEgPSBzdG9yZVtuYW1lXSB8fCAoc3RvcmVbbmFtZV0gPSBbXSk7CiAgICBjb25zdCBjaGFpbiA9IHsKICAgICAgX3doZXJlczogW10sCiAgICAgIF9vcmRlcnM6IFtdLAogICAgICBfbGltaXQ6IDEwMCwKICAgICAgd2hlcmUocSkgewogICAgICAgIHRoaXMuX3doZXJlcy5wdXNoKHEpOwogICAgICAgIHJldHVybiB0aGlzOwogICAgICB9LAogICAgICBvcmRlckJ5KGYsIGRpcikgewogICAgICAgIHRoaXMuX29yZGVycy5wdXNoKFtmLCBkaXJdKTsKICAgICAgICByZXR1cm4gdGhpczsKICAgICAgfSwKICAgICAgbGltaXQobikgewogICAgICAgIHRoaXMuX2xpbWl0ID0gbjsKICAgICAgICByZXR1cm4gdGhpczsKICAgICAgfSwKICAgICAgYXN5bmMgZ2V0KCkgewogICAgICAgIGxldCBhcnIgPSBkYXRhLnNsaWNlKCk7CiAgICAgICAgdGhpcy5fd2hlcmVzLmZvckVhY2goKHEpID0+IHsKICAgICAgICAgIGFyciA9IG1hdGNoRG9jcyhhcnIsIHEpOwogICAgICAgIH0pOwogICAgICAgIHRoaXMuX29yZGVycy5mb3JFYWNoKChbZiwgZGlyXSkgPT4gewogICAgICAgICAgYXJyLnNvcnQoKGEsIGIpID0+IHsKICAgICAgICAgICAgY29uc3QgYXYgPSBhW2ZdICYmIGFbZl0uX19kYXRlID8gYVtmXS5fX2RhdGUgOiBhW2ZdIHx8IDA7CiAgICAgICAgICAgIGNvbnN0IGJ2ID0gYltmXSAmJiBiW2ZdLl9fZGF0ZSA/IGJbZl0uX19kYXRlIDogYltmXSB8fCAwOwogICAgICAgICAgICByZXR1cm4gZGlyID09PSAiZGVzYyIgPyBidiAtIGF2IDogYXYgLSBidjsKICAgICAgICAgIH0pOwogICAgICAgIH0pOwogICAgICAgIHJldHVybiB7IGRhdGE6IGFyci5zbGljZSgwLCB0aGlzLl9saW1pdCkgfTsKICAgICAgfSwKICAgICAgYXN5bmMgYWRkKHsgZGF0YSB9KSB7CiAgICAgICAgY29uc3QgZG9jID0gT2JqZWN0LmFzc2lnbih7fSwgZGF0YSwgeyBfaWQ6ICJjIiArICsrc2VxIH0pOwogICAgICAgIGRhdGEuX2lkID0gZG9jLl9pZDsKICAgICAgICBzdG9yZVtuYW1lXS5wdXNoKGRvYyk7CiAgICAgICAgcmV0dXJuIHsgX2lkOiBkb2MuX2lkIH07CiAgICAgIH0sCiAgICAgIGRvYyhpZCkgewogICAgICAgIHJldHVybiB7CiAgICAgICAgICBhc3luYyBnZXQoKSB7CiAgICAgICAgICAgIGNvbnN0IGQgPSBzdG9yZVtuYW1lXS5maW5kKCh4KSA9PiB4Ll9pZCA9PT0gaWQpOwogICAgICAgICAgICByZXR1cm4geyBkYXRhOiBkIHx8IG51bGwgfTsKICAgICAgICAgIH0sCiAgICAgICAgICBhc3luYyB1cGRhdGUoeyBkYXRhIH0pIHsKICAgICAgICAgICAgY29uc3QgZCA9IHN0b3JlW25hbWVdLmZpbmQoKHgpID0+IHguX2lkID09PSBpZCk7CiAgICAgICAgICAgIGlmIChkKSBPYmplY3QuYXNzaWduKGQsIGRhdGEpOwogICAgICAgICAgICByZXR1cm4geyBvazogdHJ1ZSB9OwogICAgICAgICAgfSwKICAgICAgICAgIGFzeW5jIHJlbW92ZSgpIHsKICAgICAgICAgICAgY29uc3QgaSA9IHN0b3JlW25hbWVdLmZpbmRJbmRleCgoeCkgPT4geC5faWQgPT09IGlkKTsKICAgICAgICAgICAgaWYgKGkgPj0gMCkgc3RvcmVbbmFtZV0uc3BsaWNlKGksIDEpOwogICAgICAgICAgICByZXR1cm4geyBvazogdHJ1ZSB9OwogICAgICAgICAgfSwKICAgICAgICB9OwogICAgICB9LAogICAgfTsKICAgIHJldHVybiBjaGFpbjsKICB9CiAgcmV0dXJuIHsKICAgIGNvbGxlY3Rpb246IChuYW1lKSA9PiBtYWtlQ29sbGVjdGlvbihuYW1lKSwKICAgIHNlcnZlckRhdGU6ICgpID0+ICh7IF9fZGF0ZTogRGF0ZS5ub3coKSB9KSwKICAgIGNvbW1hbmQ6IHt9LAogIH07Cn0KCmNvbnN0IG1vY2tDbG91ZCA9IHsKICBpbml0KCkge30sCiAgZGF0YWJhc2UoKSB7CiAgICByZXR1cm4gbWFrZU1vY2tEYigpOwogIH0sCiAgZ2V0V1hDb250ZXh0KCkgewogICAgcmV0dXJuIHsgT1BFTklEOiAidXNlckEiIH07CiAgfSwKfTsKCmNvbnN0IG9yaWdMb2FkID0gTW9kdWxlLl9sb2FkOwpNb2R1bGUuX2xvYWQgPSBmdW5jdGlvbiAocmVxdWVzdCkgewogIGlmIChyZXF1ZXN0ID09PSAid3gtc2VydmVyLXNkayIpIHJldHVybiBtb2NrQ2xvdWQ7CiAgcmV0dXJuIG9yaWdMb2FkLmFwcGx5KHRoaXMsIGFyZ3VtZW50cyk7Cn07Cgpjb25zdCBoaXN0b3J5ID0gcmVxdWlyZShwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAiLi4vY2xvdWRmdW5jdGlvbnMvaGlzdG9yeS9pbmRleC5qcyIpKTsKCihhc3luYyAoKSA9PiB7CiAgbGV0IHBhc3MgPSAwOwogIGxldCBmYWlsID0gMDsKICBjb25zdCBhc3NlcnQgPSAoY29uZCwgbXNnKSA9PiB7CiAgICBpZiAoY29uZCkgcGFzcysrOwogICAgZWxzZSB7CiAgICAgIGZhaWwrKzsKICAgICAgY29uc29sZS5lcnJvcigiICDinJcgRkFJTDoiLCBtc2cpOwogICAgfQogIH07CgogIC8vIGNyZWF0ZQogIGNvbnN0IGMxID0gYXdhaXQgaGlzdG9yeS5tYWluKHsgYWN0aW9uOiAiY3JlYXRlIiB9KTsKICBhc3NlcnQoYzEub2sgJiYgYzEuX2lkLCAiY3JlYXRlIOi/lOWbniBfaWQiKTsKICBjb25zdCBjaWQxID0gYzEuX2lkOwoKICAvLyBsaXN0IOW6lOWMheWQq+WImuW7uueahOS8muivnQogIGNvbnN0IGwxID0gYXdhaXQgaGlzdG9yeS5tYWluKHsgYWN0aW9uOiAibGlzdCIgfSk7CiAgYXNzZXJ0KGwxLm9rICYmIGwxLmxpc3QubGVuZ3RoID09PSAxICYmIGwxLmxpc3RbMF0uX2lkID09PSBjaWQxLCAibGlzdCDlkKvmlrDkvJror50iKTsKCiAgLy8gYXBwZW5kCiAgY29uc3QgYTEgPSBhd2FpdCBoaXN0b3J5Lm1haW4oewogICAgYWN0aW9uOiAiYXBwZW5kIiwKICAgIGNvbnZlcnNhdGlvbklkOiBjaWQxLAogICAgdXNlck1zZzogeyByb2xlOiAidXNlciIsIGNvbnRlbnQ6ICLkvaDlpb3miJHmmK/lsI/mmI4iIH0sCiAgICBhc3Npc3RhbnRNc2c6IHsgcm9sZTogImFzc2lzdGFudCIsIGNvbnRlbnQ6ICLlnKjnmoQiIH0sCiAgfSk7CiAgYXNzZXJ0KGExLm9rLCAiYXBwZW5kIG9rIik7CgogIC8vIGxvYWQg5Y+W5ZueIDIg5p2h5raI5oGvICsg6KeS6Imy5q2j56GuCiAgY29uc3QgbGQxID0gYXdhaXQgaGlzdG9yeS5tYWluKHsgYWN0aW9uOiAibG9hZCIsIGNvbnZlcnNhdGlvbklkOiBjaWQxIH0pOwogIGFzc2VydChsZDEub2sgJiYgbGQxLm1lc3NhZ2VzLmxlbmd0aCA9PT0gMiwgImxvYWQg6L+U5ZueIDIg5p2h5raI5oGvIik7CiAgYXNzZXJ0KAogICAgbGQxLm1lc3NhZ2VzWzBdLnJvbGUgPT09ICJ1c2VyIiAmJiBsZDEubWVzc2FnZXNbMV0ucm9sZSA9PT0gImFzc2lzdGFudCIsCiAgICAi5raI5oGv6KeS6Imy5q2j56GuIgogICk7CgogIC8vIOagh+mimOiHquWKqOWPluiHqummluadoSB1c2VyIOWJjSAyMCDlrZcKICBjb25zdCBsMiA9IGF3YWl0IGhpc3RvcnkubWFpbih7IGFjdGlvbjogImxpc3QiIH0pOwogIGFzc2VydChsMi5saXN0WzBdLnRpdGxlID09PSAi5L2g5aW95oiR5piv5bCP5piOIiwgIuagh+mimOiHquWKqOWPlummluadoSB1c2VyIOWJjTIw5a2XIik7CgogIC8vIOi2iuadg++8muWPpuS4gOeUqOaIt+S4jeiDvSBsb2FkIC8gYXBwZW5kCiAgbW9ja0Nsb3VkLmdldFdYQ29udGV4dCA9ICgpID0+ICh7IE9QRU5JRDogInVzZXJCIiB9KTsKICBjb25zdCBiYWRMb2FkID0gYXdhaXQgaGlzdG9yeS5tYWluKHsgYWN0aW9uOiAibG9hZCIsIGNvbnZlcnNhdGlvbklkOiBjaWQxIH0pOwogIGFzc2VydCghYmFkTG9hZC5vayAmJiAv5peg5p2D6ZmQLy50ZXN0KGJhZExvYWQuZXJyb3IgfHwgIiIpLCAi6LaK5p2DIGxvYWQg6KKr5ouSIik7CiAgY29uc3QgYmFkQXBwZW5kID0gYXdhaXQgaGlzdG9yeS5tYWluKHsKICAgIGFjdGlvbjogImFwcGVuZCIsCiAgICBjb252ZXJzYXRpb25JZDogY2lkMSwKICAgIHVzZXJNc2c6IHsgcm9sZTogInVzZXIiLCBjb250ZW50OiAieCIgfSwKICAgIGFzc2lzdGFudE1zZzogeyByb2xlOiAiYXNzaXN0YW50IiwgY29udGVudDogInkiIH0sCiAgfSk7CiAgYXNzZXJ0KCFiYWRBcHBlbmQub2ssICLotormnYMgYXBwZW5kIOiiq+aLkiIpOwoKICAvLyDmgaLlpI0gdXNlckHvvIzlho3lu7rkuIDkuKrkvJror53vvIxsaXN0IOW6lOaciSAyIOS4qgogIG1vY2tDbG91ZC5nZXRXWENvbnRleHQgPSAoKSA9PiAoeyBPUEVOSUQ6ICJ1c2VyQSIgfSk7CiAgY29uc3QgYzIgPSBhd2FpdCBoaXN0b3J5Lm1haW4oeyBhY3Rpb246ICJjcmVhdGUiIH0pOwogIGNvbnN0IGwzID0gYXdhaXQgaGlzdG9yeS5tYWluKHsgYWN0aW9uOiAibGlzdCIgfSk7CiAgYXNzZXJ0KGwzLmxpc3QubGVuZ3RoID09PSAyLCAidXNlckEg5pyJIDIg5Liq5Lya6K+dIik7CgogIC8vIHJlbW92ZQogIGNvbnN0IHJtID0gYXdhaXQgaGlzdG9yeS5tYWluKHsgYWN0aW9uOiAicmVtb3ZlIiwgY29udmVyc2F0aW9uSWQ6IGNpZDEgfSk7CiAgYXNzZXJ0KHJtLm9rLCAicmVtb3ZlIG9rIik7CiAgY29uc3QgbDQgPSBhd2FpdCBoaXN0b3J5Lm1haW4oeyBhY3Rpb246ICJsaXN0IiB9KTsKICBhc3NlcnQobDQubGlzdC5sZW5ndGggPT09IDEgJiYgbDQubGlzdFswXS5faWQgPT09IGMyLl9pZCwgInJlbW92ZSDlkI7liakgMSDkuKoiKTsKCiAgLy8g57y6IGNvbnZlcnNhdGlvbklkIOaKpemUmQogIGNvbnN0IG5vSWQgPSBhd2FpdCBoaXN0b3J5Lm1haW4oeyBhY3Rpb246ICJsb2FkIiB9KTsKICBhc3NlcnQoIW5vSWQub2sgJiYgL+e8uuWwkeS8muivnS8udGVzdChub0lkLmVycm9yIHx8ICIiKSwgIue8uiBjb252ZXJzYXRpb25JZCDmiqXplJkiKTsKCiAgY29uc29sZS5sb2coYFxu5aSa5Lya6K+d6YC76L6R5rWL6K+V77yaJHtwYXNzfSDpgJrov4csICR7ZmFpbH0g5aSx6LSlYCk7CiAgcHJvY2Vzcy5leGl0KGZhaWwgPT09IDAgPyAwIDogMSk7Cn0pKCk7Cg==
+// 测试 history 云函数多会话逻辑（内存 mock wx-server-sdk 的 db）
+// 覆盖：create / list / load / append / 标题自动生成 / openid 越权校验 / remove / 缺参校验
+const Module = require("module");
+const path = require("path");
+
+// ---- 内存版 mock 数据库 ----
+function makeMockDb() {
+  const store = { conversations: [] };
+  let seq = 0;
+  const matchDocs = (arr, query) =>
+    arr.filter((d) => Object.keys(query).every((k) => d[k] === query[k]));
+  function makeCollection(name) {
+    const data = store[name] || (store[name] = []);
+    const chain = {
+      _wheres: [],
+      _orders: [],
+      _limit: 100,
+      where(q) {
+        this._wheres.push(q);
+        return this;
+      },
+      orderBy(f, dir) {
+        this._orders.push([f, dir]);
+        return this;
+      },
+      limit(n) {
+        this._limit = n;
+        return this;
+      },
+      async get() {
+        let arr = data.slice();
+        this._wheres.forEach((q) => {
+          arr = matchDocs(arr, q);
+        });
+        this._orders.forEach(([f, dir]) => {
+          arr.sort((a, b) => {
+            const av = a[f] && a[f].__date ? a[f].__date : a[f] || 0;
+            const bv = b[f] && b[f].__date ? b[f].__date : b[f] || 0;
+            return dir === "desc" ? bv - av : av - bv;
+          });
+        });
+        return { data: arr.slice(0, this._limit) };
+      },
+      async add({ data }) {
+        const doc = Object.assign({}, data, { _id: "c" + ++seq });
+        data._id = doc._id;
+        store[name].push(doc);
+        return { _id: doc._id };
+      },
+      doc(id) {
+        return {
+          async get() {
+            const d = store[name].find((x) => x._id === id);
+            return { data: d || null };
+          },
+          async update({ data }) {
+            const d = store[name].find((x) => x._id === id);
+            if (d) Object.assign(d, data);
+            return { ok: true };
+          },
+          async remove() {
+            const i = store[name].findIndex((x) => x._id === id);
+            if (i >= 0) store[name].splice(i, 1);
+            return { ok: true };
+          },
+        };
+      },
+    };
+    return chain;
+  }
+  return {
+    collection: (name) => makeCollection(name),
+    serverDate: () => ({ __date: Date.now() }),
+    command: {},
+  };
+}
+
+const mockCloud = {
+  init() {},
+  database() {
+    return makeMockDb();
+  },
+  getWXContext() {
+    return { OPENID: "userA" };
+  },
+};
+
+const origLoad = Module._load;
+Module._load = function (request) {
+  if (request === "wx-server-sdk") return mockCloud;
+  return origLoad.apply(this, arguments);
+};
+
+const history = require(path.resolve(__dirname, "../cloudfunctions/history/index.js"));
+
+(async () => {
+  let pass = 0;
+  let fail = 0;
+  const assert = (cond, msg) => {
+    if (cond) pass++;
+    else {
+      fail++;
+      console.error("  ✗ FAIL:", msg);
+    }
+  };
+
+  // create
+  const c1 = await history.main({ action: "create" });
+  assert(c1.ok && c1._id, "create 返回 _id");
+  const cid1 = c1._id;
+
+  // list 应包含刚建的会话
+  const l1 = await history.main({ action: "list" });
+  assert(l1.ok && l1.list.length === 1 && l1.list[0]._id === cid1, "list 含新会话");
+
+  // append
+  const a1 = await history.main({
+    action: "append",
+    conversationId: cid1,
+    userMsg: { role: "user", content: "你好我是小明" },
+    assistantMsg: { role: "assistant", content: "在的" },
+  });
+  assert(a1.ok, "append ok");
+
+  // load 取回 2 条消息 + 角色正确
+  const ld1 = await history.main({ action: "load", conversationId: cid1 });
+  assert(ld1.ok && ld1.messages.length === 2, "load 返回 2 条消息");
+  assert(
+    ld1.messages[0].role === "user" && ld1.messages[1].role === "assistant",
+    "消息角色正确"
+  );
+
+  // 标题自动取自首条 user 前 20 字
+  const l2 = await history.main({ action: "list" });
+  assert(l2.list[0].title === "你好我是小明", "标题自动取首条 user 前20字");
+
+  // 越权：另一用户不能 load / append
+  mockCloud.getWXContext = () => ({ OPENID: "userB" });
+  const badLoad = await history.main({ action: "load", conversationId: cid1 });
+  assert(!badLoad.ok && /无权限/.test(badLoad.error || ""), "越权 load 被拒");
+  const badAppend = await history.main({
+    action: "append",
+    conversationId: cid1,
+    userMsg: { role: "user", content: "x" },
+    assistantMsg: { role: "assistant", content: "y" },
+  });
+  assert(!badAppend.ok, "越权 append 被拒");
+
+  // 恢复 userA，再建一个会话，list 应有 2 个
+  mockCloud.getWXContext = () => ({ OPENID: "userA" });
+  const c2 = await history.main({ action: "create" });
+  const l3 = await history.main({ action: "list" });
+  assert(l3.list.length === 2, "userA 有 2 个会话");
+
+  // remove
+  const rm = await history.main({ action: "remove", conversationId: cid1 });
+  assert(rm.ok, "remove ok");
+  const l4 = await history.main({ action: "list" });
+  assert(l4.list.length === 1 && l4.list[0]._id === c2._id, "remove 后剩 1 个");
+
+  // 缺 conversationId 报错
+  const noId = await history.main({ action: "load" });
+  assert(!noId.ok && /缺少会话/.test(noId.error || ""), "缺 conversationId 报错");
+
+  console.log(`\n多会话逻辑测试：${pass} 通过, ${fail} 失败`);
+  process.exit(fail === 0 ? 0 : 1);
+})();

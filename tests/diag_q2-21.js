@@ -1,1 +1,115 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09DQovLyBRMi0yMSDor4rmlq3vvJrlm57nrZTlrozmlbTmgKfigJTigJTlr7nmr5Tnmb7ngrzljp/lp4vov5Tlm54gdnMg5pyA57uI5Lqk5LuYDQovLyAgIDEuIOeZvueCvCBtZXNzYWdlLmNvbnRlbnQg5Y6f5aeL6ZW/5bqmDQovLyAgIDIuIHN5bnRoZXNpemVkX3RleHQg57uP6L+HIGNvbnRleHRCdWlsZGVyIOWQjueahOmVv+W6pg0KLy8gICAzLiDlv6vpgJ/pgJrpgZPmnIDnu4ggYW5zd2VyIOmVv+W6pg0KLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09DQondXNlIHN0cmljdCc7DQoNCnByb2Nlc3MuZW52LkZSRVNITkVTU19FTkFCTEVEID0gJ3RydWUnOw0KcHJvY2Vzcy5lbnYuRlJFU0hORVNTX0ZBQ1RVQUxfRU5BQkxFRCA9ICd0cnVlJzsNCnByb2Nlc3MuZW52LlNFQVJDSF9QUk9WSURFUiA9ICdxd2VuJzsNCnByb2Nlc3MuZW52LlNFQVJDSF9USU1FT1VUX01TID0gJzE1MDAwJzsNCnByb2Nlc3MuZW52LlFXRU5fU0VBUkNIX0JBU0VfVVJMID0gJ2h0dHBzOi8vZGFzaHNjb3BlLmFsaXl1bmNzLmNvbS9jb21wYXRpYmxlLW1vZGUvdjEnOw0KcHJvY2Vzcy5lbnYuUVdFTl9TRUFSQ0hfQVBJX0tFWSA9ICdzay1ZT1VSX0FQSV9LRVlfSEVSRSc7DQpwcm9jZXNzLmVudi5RV0VOX1NFQVJDSF9NT0RFTCA9ICdkZWVwc2Vlay12NC1mbGFzaC0wNzMxJzsNCnByb2Nlc3MuZW52LlFXRU5fU0VBUkNIX1NZTlRIX01PREUgPSAndHJ1ZSc7DQpwcm9jZXNzLmVudi5TRUFSQ0hfQ0FOQVJZX0VOQUJMRUQgPSAndHJ1ZSc7DQpwcm9jZXNzLmVudi5TRUFSQ0hfQ0FOQVJZX09QRU5JRFMgPSAnWU9VUl9BRE1JTl9PUEVOSUQnOw0KcHJvY2Vzcy5lbnYuUFJJVkFDWV9HQVRFX0VOQUJMRUQgPSAndHJ1ZSc7DQoNCnZhciBmcmVzaG5lc3MgPSByZXF1aXJlKCcuLi9jbG91ZGZ1bmN0aW9ucy9jaGF0L2ZyZXNobmVzcycpOw0KdmFyIG1heWJlSGFuZGxlID0gZnJlc2huZXNzLm1heWJlSGFuZGxlOw0KdmFyIHF3ZW5TZWFyY2ggPSByZXF1aXJlKCcuLi9jbG91ZGZ1bmN0aW9ucy9jaGF0L3Byb3ZpZGVycy9zZWFyY2gvcXdlblNlYXJjaCcpOw0KDQp2YXIgaHR0cHMgPSByZXF1aXJlKCdodHRwcycpOw0KdmFyIGh0dHAgPSByZXF1aXJlKCdodHRwJyk7DQp2YXIgdXJsUCA9IHJlcXVpcmUoJ3VybCcpOw0KZnVuY3Rpb24gbm9kZUZldGNoKHUsIG9wdHMpIHsNCiAgb3B0cyA9IG9wdHMgfHwge307DQogIHJldHVybiBuZXcgUHJvbWlzZShmdW5jdGlvbiAocmVzb2x2ZSwgcmVqZWN0KSB7DQogICAgdmFyIHBhcnNlZCA9IHVybFAucGFyc2UodSk7DQogICAgdmFyIG1vZCA9IHBhcnNlZC5wcm90b2NvbCA9PT0gJ2h0dHBzOicgPyBodHRwcyA6IGh0dHA7DQogICAgdmFyIHJlcU9wdHMgPSB7DQogICAgICBob3N0bmFtZTogcGFyc2VkLmhvc3RuYW1lLA0KICAgICAgcG9ydDogcGFyc2VkLnBvcnQgfHwgKHBhcnNlZC5wcm90b2NvbCA9PT0gJ2h0dHBzOicgPyA0NDMgOiA4MCksDQogICAgICBwYXRoOiBwYXJzZWQucGF0aG5hbWUgKyAocGFyc2VkLnNlYXJjaCB8fCAnJyksDQogICAgICBtZXRob2Q6IChvcHRzLm1ldGhvZCB8fCAnR0VUJykudG9VcHBlckNhc2UoKSwNCiAgICAgIGhlYWRlcnM6IG9wdHMuaGVhZGVycyB8fCB7fSwNCiAgICAgIHRpbWVvdXQ6IG9wdHMudGltZW91dCB8fCAyMDAwMCwNCiAgICB9Ow0KICAgIHZhciByZXEgPSBtb2QucmVxdWVzdChyZXFPcHRzLCBmdW5jdGlvbiAocmVzKSB7DQogICAgICB2YXIgY2h1bmtzID0gW107DQogICAgICByZXMub24oJ2RhdGEnLCBmdW5jdGlvbiAoYykgeyBjaHVua3MucHVzaChjKTsgfSk7DQogICAgICByZXMub24oJ2VuZCcsIGZ1bmN0aW9uICgpIHsNCiAgICAgICAgdmFyIGJ1ZiA9IEJ1ZmZlci5jb25jYXQoY2h1bmtzKTsNCiAgICAgICAgcmVzb2x2ZSh7DQogICAgICAgICAgb2s6IHJlcy5zdGF0dXNDb2RlID49IDIwMCAmJiByZXMuc3RhdHVzQ29kZSA8IDMwMCwNCiAgICAgICAgICBzdGF0dXM6IHJlcy5zdGF0dXNDb2RlLA0KICAgICAgICAgIGpzb246IGZ1bmN0aW9uICgpIHsgcmV0dXJuIEpTT04ucGFyc2UoYnVmLnRvU3RyaW5nKCkpOyB9LA0KICAgICAgICAgIHRleHQ6IGZ1bmN0aW9uICgpIHsgcmV0dXJuIGJ1Zi50b1N0cmluZygpOyB9LA0KICAgICAgICB9KTsNCiAgICAgIH0pOw0KICAgIH0pOw0KICAgIHJlcS5vbignZXJyb3InLCByZWplY3QpOw0KICAgIHJlcS5vbigndGltZW91dCcsIGZ1bmN0aW9uICgpIHsgcmVxLmRlc3Ryb3koKTsgcmVqZWN0KG5ldyBFcnJvcigndGltZW91dCcpKTsgfSk7DQogICAgaWYgKG9wdHMuYm9keSkgcmVxLndyaXRlKG9wdHMuYm9keSk7DQogICAgcmVxLmVuZCgpOw0KICB9KTsNCn0NCg0KdmFyIE1PREVMUyA9IFt7DQogIG5hbWU6ICdkZWVwc2Vlay12NC1mbGFzaC0wNzMxJywNCiAgYmFzZVVSTDogJ2h0dHBzOi8vZGFzaHNjb3BlLmFsaXl1bmNzLmNvbS9jb21wYXRpYmxlLW1vZGUvdjEnLA0KICBhcGlLZXk6ICdzay1ZT1VSX0FQSV9LRVlfSEVSRScsDQogIG1vZGVsOiAnZGVlcHNlZWstdjQtZmxhc2gtMDczMScsDQogIHRpbWVvdXQ6IDI1MDAwDQp9XTsNCg0KYXN5bmMgZnVuY3Rpb24gcnVuKCkgew0KICB2YXIgcXVlcmllcyA9IFsn6ISx5Y+j56eA5ryU5ZGY5oi/5Li75Lu7JywgJ+S7mOiIquaYr+iwgSddOw0KICANCiAgZm9yICh2YXIgaSA9IDA7IGkgPCBxdWVyaWVzLmxlbmd0aDsgaSsrKSB7DQogICAgdmFyIHEgPSBxdWVyaWVzW2ldOw0KICAgIGNvbnNvbGUubG9nKCdcbj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0nKTsNCiAgICBjb25zb2xlLmxvZygn6Zeu5rOVOiAiJyArIHEgKyAnIicpOw0KICAgIA0KICAgIC8vIEEuIOebtOaOpeiwg+eZvueCvOeci+WOn+Wni+i/lOWbng0KICAgIGNvbnNvbGUubG9nKCdcbi0tLSBBLiDnmb7ngrwgQVBJIOWOn+Wni+i/lOWbniAtLS0nKTsNCiAgICB2YXIgdDAgPSBEYXRlLm5vdygpOw0KICAgIHZhciBkaXJlY3QgPSBhd2FpdCBxd2VuU2VhcmNoLnNlYXJjaChxLCB7fSwgbm9kZUZldGNoKTsNCiAgICBjb25zb2xlLmxvZygn6ICX5pe2OicsIERhdGUubm93KCkgLSB0MCwgJ21zJyk7DQogICAgY29uc29sZS5sb2coJ29rOicsIGRpcmVjdC5vaywgJ3wgcmVhc29uOicsIGRpcmVjdC5yZWFzb24sICd8IHN5bnRoZXNpemVkOicsICEhZGlyZWN0LnN5bnRoZXNpemVkKTsNCiAgICBpZiAoZGlyZWN0LnJlc3VsdHMgJiYgZGlyZWN0LnJlc3VsdHNbMF0pIHsNCiAgICAgIHZhciByYXdTbmlwcGV0ID0gZGlyZWN0LnJlc3VsdHNbMF0uc25pcHBldCB8fCAnJzsNCiAgICAgIGNvbnNvbGUubG9nKCfljp/lp4sgc25pcHBldCDplb/luqY6JywgcmF3U25pcHBldC5sZW5ndGgsICflrZcnKTsNCiAgICAgIGNvbnNvbGUubG9nKCfljp/lp4vlhoXlrrk6Jyk7DQogICAgICBjb25zb2xlLmxvZyhyYXdTbmlwcGV0LnNsaWNlKDAsIDgwMCkpOw0KICAgICAgaWYgKHJhd1NuaXBwZXQubGVuZ3RoID4gODAwKSBjb25zb2xlLmxvZygnLi4uIFvmiKrmlq3mmL7npLosIOWunumZhScsIHJhd1NuaXBwZXQubGVuZ3RoLCAn5a2XXScpOw0KICAgIH0NCiAgICANCiAgICAvLyBCLiDlhajpk77ot6/nnIvmnIDnu4jkuqTku5gNCiAgICBjb25zb2xlLmxvZygnXG4tLS0gQi4gbWF5YmVIYW5kbGUg5YWo6ZO+6LevIC0tLScpOw0KICAgIHQwID0gRGF0ZS5ub3coKTsNCiAgICB2YXIgcmVzID0gYXdhaXQgbWF5YmVIYW5kbGUocSwgew0KICAgICAgbW9kZWxzOiBNT0RFTFMsDQogICAgICBvcGVuaWQ6ICdZT1VSX0FETUlOX09QRU5JRCcsDQogICAgICBhbnN3ZXJNb2RlOiAndGhpbmsnLA0KICAgICAgaGlzdG9yeTogW10NCiAgICB9KTsNCiAgICBjb25zb2xlLmxvZygn6ICX5pe2OicsIERhdGUubm93KCkgLSB0MCwgJ21zJyk7DQogICAgDQogICAgaWYgKCFyZXMpIHsgY29uc29sZS5sb2coJ+KdjCBudWxsJyk7IGNvbnRpbnVlOyB9DQogICAgDQogICAgdmFyIGFucyA9IHJlcy5hbnN3ZXIgfHwgJyc7DQogICAgY29uc29sZS5sb2coJ+acgOe7iCBhbnN3ZXIg6ZW/5bqmOicsIGFucy5sZW5ndGgsICflrZcnKTsNCiAgICBjb25zb2xlLmxvZygnZGlyZWN0X2ZhY3R1YWw6JywgISEocmVzLmZyZXNobmVzcyAmJiByZXMuZnJlc2huZXNzLmRpcmVjdF9mYWN0dWFsKSk7DQogICAgY29uc29sZS5sb2coJ2Rvd25ncmFkZWQ6JywgISEocmVzLmZyZXNobmVzcyAmJiByZXMuZnJlc2huZXNzLmRvd25ncmFkZWQpKTsNCiAgICANCiAgICBjb25zb2xlLmxvZygnXG4tLS0g5pyA57uI5a6M5pW05Zue562UIC0tLScpOw0KICAgIGNvbnNvbGUubG9nKGFucyk7DQogICAgY29uc29sZS5sb2coJy0tLSBb5Zue562U57uT5p2fLCDlhbEnLCBhbnMubGVuZ3RoLCAn5a2XXSAtLS0nKTsNCiAgfQ0KfQ0KDQpydW4oKS5jYXRjaChmdW5jdGlvbihlKSB7IGNvbnNvbGUuZXJyb3IoJ+W8guW4uDonLCBlKTsgcHJvY2Vzcy5leGl0KDEpOyB9KTsNCg==
+// ============================================================
+// Q2-21 诊断：回答完整性——对比百炼原始返回 vs 最终交付
+//   1. 百炼 message.content 原始长度
+//   2. synthesized_text 经过 contextBuilder 后的长度
+//   3. 快速通道最终 answer 长度
+// ============================================================
+'use strict';
+
+process.env.FRESHNESS_ENABLED = 'true';
+process.env.FRESHNESS_FACTUAL_ENABLED = 'true';
+process.env.SEARCH_PROVIDER = 'qwen';
+process.env.SEARCH_TIMEOUT_MS = '15000';
+process.env.QWEN_SEARCH_BASE_URL = 'https://dashscope.aliyuncs.com/compatible-mode/v1';
+process.env.QWEN_SEARCH_API_KEY = 'sk-YOUR_API_KEY_HERE';
+process.env.QWEN_SEARCH_MODEL = 'deepseek-v4-flash-0731';
+process.env.QWEN_SEARCH_SYNTH_MODE = 'true';
+process.env.SEARCH_CANARY_ENABLED = 'true';
+process.env.SEARCH_CANARY_OPENIDS = 'YOUR_ADMIN_OPENID';
+process.env.PRIVACY_GATE_ENABLED = 'true';
+
+var freshness = require('../cloudfunctions/chat/freshness');
+var maybeHandle = freshness.maybeHandle;
+var qwenSearch = require('../cloudfunctions/chat/providers/search/qwenSearch');
+
+var https = require('https');
+var http = require('http');
+var urlP = require('url');
+function nodeFetch(u, opts) {
+  opts = opts || {};
+  return new Promise(function (resolve, reject) {
+    var parsed = urlP.parse(u);
+    var mod = parsed.protocol === 'https:' ? https : http;
+    var reqOpts = {
+      hostname: parsed.hostname,
+      port: parsed.port || (parsed.protocol === 'https:' ? 443 : 80),
+      path: parsed.pathname + (parsed.search || ''),
+      method: (opts.method || 'GET').toUpperCase(),
+      headers: opts.headers || {},
+      timeout: opts.timeout || 20000,
+    };
+    var req = mod.request(reqOpts, function (res) {
+      var chunks = [];
+      res.on('data', function (c) { chunks.push(c); });
+      res.on('end', function () {
+        var buf = Buffer.concat(chunks);
+        resolve({
+          ok: res.statusCode >= 200 && res.statusCode < 300,
+          status: res.statusCode,
+          json: function () { return JSON.parse(buf.toString()); },
+          text: function () { return buf.toString(); },
+        });
+      });
+    });
+    req.on('error', reject);
+    req.on('timeout', function () { req.destroy(); reject(new Error('timeout')); });
+    if (opts.body) req.write(opts.body);
+    req.end();
+  });
+}
+
+var MODELS = [{
+  name: 'deepseek-v4-flash-0731',
+  baseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  apiKey: 'sk-YOUR_API_KEY_HERE',
+  model: 'deepseek-v4-flash-0731',
+  timeout: 25000
+}];
+
+async function run() {
+  var queries = ['脱口秀演员房主任', '付航是谁'];
+  
+  for (var i = 0; i < queries.length; i++) {
+    var q = queries[i];
+    console.log('\n========================================');
+    console.log('问法: "' + q + '"');
+    
+    // A. 直接调百炼看原始返回
+    console.log('\n--- A. 百炼 API 原始返回 ---');
+    var t0 = Date.now();
+    var direct = await qwenSearch.search(q, {}, nodeFetch);
+    console.log('耗时:', Date.now() - t0, 'ms');
+    console.log('ok:', direct.ok, '| reason:', direct.reason, '| synthesized:', !!direct.synthesized);
+    if (direct.results && direct.results[0]) {
+      var rawSnippet = direct.results[0].snippet || '';
+      console.log('原始 snippet 长度:', rawSnippet.length, '字');
+      console.log('原始内容:');
+      console.log(rawSnippet.slice(0, 800));
+      if (rawSnippet.length > 800) console.log('... [截断显示, 实际', rawSnippet.length, '字]');
+    }
+    
+    // B. 全链路看最终交付
+    console.log('\n--- B. maybeHandle 全链路 ---');
+    t0 = Date.now();
+    var res = await maybeHandle(q, {
+      models: MODELS,
+      openid: 'YOUR_ADMIN_OPENID',
+      answerMode: 'think',
+      history: []
+    });
+    console.log('耗时:', Date.now() - t0, 'ms');
+    
+    if (!res) { console.log('❌ null'); continue; }
+    
+    var ans = res.answer || '';
+    console.log('最终 answer 长度:', ans.length, '字');
+    console.log('direct_factual:', !!(res.freshness && res.freshness.direct_factual));
+    console.log('downgraded:', !!(res.freshness && res.freshness.downgraded));
+    
+    console.log('\n--- 最终完整回答 ---');
+    console.log(ans);
+    console.log('--- [回答结束, 共', ans.length, '字] ---');
+  }
+}
+
+run().catch(function(e) { console.error('异常:', e); process.exit(1); });

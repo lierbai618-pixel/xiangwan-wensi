@@ -1,1 +1,159 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIHRoaW5rL2NpdGF0aW9uLmpzCi8vICAgUGhhc2UgUTItM++8mumXruaAneiejeWQiOW8leaTjiDigJQg5byV55So5bGC44CCCi8vCi8vICAg6IGM6LSj77ya5oqK5Lik57G75p2l5rqQ57uf5LiA5oiQ5Y+v5bGV56S644CB5Y+v6L+95rqv55qE5byV55So5p2h55uu77yaCi8vICAgICB0eXBlPSdmYWN0JyAgICDor7fmsYLnuqfmo4DntKLkuovlrp7vvIjlpJbpg6jmnaXmupDvvIzluKYgVVJM77yJCi8vICAgICB0eXBlPSdjbGFzc2ljJyBSQUcg57uP5YW45byV55So77yI5YaF6YOo55+l6K+G5bqT77yM5Y+q6K+777yM5pegIFVSTO+8iQovLwovLyAgIOWFs+mUrui+ueeVjO+8mgovLyAgICAgwrcg5pys5qih5Z2XKirkuI3kv67mlLkqKiByZXN1bHQuY2l0YXRpb25z77yI6YKj5pivIFJBRyDnu4/lhbjlvJXnlKjnmoTml6LmnInlh7rlj6PvvIwKLy8gICAgICAgbG9nUXVlc3Rpb24gLyDliY3nq6/pg73lnKjmtojotLnlroPvvInjgILono3lkIjlvJXnlKjlj6rotbAgcmVzdWx0LnRoaW5rLmNpdGF0aW9uc++8jAovLyAgICAgICDpgb/lhY3msaHmn5Pml6LmnInkuIvmuLjnu5/orqHjgIIKLy8gICAgIMK3IG1vY2sg5byV55So5ZyoIGFsbG93TW9jaz1mYWxzZSDml7bkuIDlvovkuI3ovpPlh7og4oCU4oCUIOeUqOaIt+awuOi/nOeci+S4jeWIsCBbTU9DS13jgIIKLy8gICAgIMK3IOaJgOacieS6p+eJqeW4piBfZXBoZW1lcmFsIOivreS5ie+8muWxnuS6juacrOasoeWTjeW6lOi9veiNt++8jOS4jeWFpeefpeivhuW6k+OAggovLwovLyAgIOe6r+WHveaVsOOAgembtuS6keS+nei1luOAgU5vZGUgMTYuMTMg5YW85a6544CCCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQondXNlIHN0cmljdCc7Cgp2YXIgTUFYX0NJVEFUSU9OUyA9IDg7CnZhciBNQVhfVElUTEVfTEVOID0gNjA7CgpmdW5jdGlvbiBjbGlwKHMsIG4pIHsKICB2YXIgdCA9IChzIHx8ICcnKS50b1N0cmluZygpLnJlcGxhY2UoL1xzKy9nLCAnICcpLnRyaW0oKTsKICBpZiAodC5sZW5ndGggPiBuKSB0ID0gdC5zbGljZSgwLCBuKSArICfigKYnOwogIHJldHVybiB0Owp9CgpmdW5jdGlvbiBkZWR1cGVLZXlPZihjKSB7CiAgaWYgKCFjKSByZXR1cm4gJyc7CiAgcmV0dXJuICgoYy51cmwgfHwgJycpICsgJ3wnICsgKGMudGl0bGUgfHwgJycpKS50b0xvd2VyQ2FzZSgpOwp9CgovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KLy8gYnVpbGRGYWN0Q2l0YXRpb25zKGZhY3RzLCBvcHRzKSDihpIgQ2l0YXRpb25bXQovLyAgIGZhY3RzOiB0aGluay9mYWN0RXh0cmFjdG9yIOS6p+WHuueahCBGYWN0W13vvIjlu7rorq7lt7IgZmlsdGVyVXNhYmxl77yJCi8vICAgb3B0cyA6IHsgYWxsb3dNb2NrLCBtYXggfQovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZnVuY3Rpb24gYnVpbGRGYWN0Q2l0YXRpb25zKGZhY3RzLCBvcHRzKSB7CiAgb3B0cyA9IG9wdHMgfHwge307CiAgdmFyIGFsbG93TW9jayA9IG9wdHMuYWxsb3dNb2NrID09PSB0cnVlOwogIHZhciBtYXggPSAodHlwZW9mIG9wdHMubWF4ID09PSAnbnVtYmVyJyAmJiBvcHRzLm1heCA+IDApID8gb3B0cy5tYXggOiBNQVhfQ0lUQVRJT05TOwogIHZhciBsaXN0ID0gQXJyYXkuaXNBcnJheShmYWN0cykgPyBmYWN0cyA6IFtdOwogIHZhciBvdXQgPSBbXTsKICB2YXIgc2VlbiA9IHt9OwoKICBmb3IgKHZhciBpID0gMDsgaSA8IGxpc3QubGVuZ3RoICYmIG91dC5sZW5ndGggPCBtYXg7IGkrKykgewogICAgdmFyIGYgPSBsaXN0W2ldOwogICAgaWYgKCFmIHx8ICFmLnVybCkgY29udGludWU7CiAgICBpZiAoZi5pc01vY2sgJiYgIWFsbG93TW9jaykgY29udGludWU7IC8vIG1vY2sg5rC45LiN5Ye6546w5Zyo55So5oi35Y+v6KeB5byV55So5LitCgogICAgdmFyIGMgPSB7CiAgICAgIHR5cGU6ICdmYWN0JywKICAgICAgdGl0bGU6IGNsaXAoZi50aXRsZSB8fCBmLnN0YXRlbWVudCwgTUFYX1RJVExFX0xFTiksCiAgICAgIHVybDogKGYudXJsIHx8ICcnKS50b1N0cmluZygpLAogICAgICBzb3VyY2U6IChmLnNvdXJjZSB8fCAnJykudG9TdHJpbmcoKSwKICAgICAgdGltZTogKGYudGltZSB8fCAnJykudG9TdHJpbmcoKSwKICAgICAgY29uZmlkZW5jZTogZi5jb25maWRlbmNlIHx8ICdsb3cnLAogICAgfTsKICAgIHZhciBrID0gZGVkdXBlS2V5T2YoYyk7CiAgICBpZiAoc2VlbltrXSkgY29udGludWU7CiAgICBzZWVuW2tdID0gdHJ1ZTsKICAgIG91dC5wdXNoKGMpOwogIH0KICByZXR1cm4gb3V0Owp9CgovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KLy8gYnVpbGRDbGFzc2ljQ2l0YXRpb25zKHJhZ0NpdGF0aW9ucywgb3B0cykg4oaSIENpdGF0aW9uW10KLy8gICByYWdDaXRhdGlvbnM6IHJhZy5qcyBlbnJpY2hDaXRhdGlvbnMg5Lqn5Ye677yIeyB0aXRsZSwgdGFncywgLi4uIH3vvIkKLy8gICDlj6rlgZrlj6ror7vmmKDlsITvvIzkuI3kv67mlLnljp/mlbDnu4TjgIHkuI3lm57lhpnnn6Xor4blupPjgIIKLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmZ1bmN0aW9uIGJ1aWxkQ2xhc3NpY0NpdGF0aW9ucyhyYWdDaXRhdGlvbnMsIG9wdHMpIHsKICBvcHRzID0gb3B0cyB8fCB7fTsKICB2YXIgbWF4ID0gKHR5cGVvZiBvcHRzLm1heCA9PT0gJ251bWJlcicgJiYgb3B0cy5tYXggPiAwKSA/IG9wdHMubWF4IDogTUFYX0NJVEFUSU9OUzsKICB2YXIgbGlzdCA9IEFycmF5LmlzQXJyYXkocmFnQ2l0YXRpb25zKSA/IHJhZ0NpdGF0aW9ucyA6IFtdOwogIHZhciBvdXQgPSBbXTsKICB2YXIgc2VlbiA9IHt9OwoKICBmb3IgKHZhciBpID0gMDsgaSA8IGxpc3QubGVuZ3RoICYmIG91dC5sZW5ndGggPCBtYXg7IGkrKykgewogICAgdmFyIHIgPSBsaXN0W2ldOwogICAgaWYgKCFyKSBjb250aW51ZTsKICAgIHZhciB0aXRsZSA9IGNsaXAoci50aXRsZSB8fCByLmJvb2ssIE1BWF9USVRMRV9MRU4pOwogICAgaWYgKCF0aXRsZSkgY29udGludWU7CiAgICB2YXIgYyA9IHsgdHlwZTogJ2NsYXNzaWMnLCB0aXRsZTogdGl0bGUsIHVybDogJycsIHNvdXJjZTogJ+efpeivhuW6kycsIHRpbWU6ICcnLCBjb25maWRlbmNlOiAnaGlnaCcgfTsKICAgIHZhciBrID0gZGVkdXBlS2V5T2YoYyk7CiAgICBpZiAoc2VlbltrXSkgY29udGludWU7CiAgICBzZWVuW2tdID0gdHJ1ZTsKICAgIG91dC5wdXNoKGMpOwogIH0KICByZXR1cm4gb3V0Owp9CgovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KLy8gYnVpbGRVbmlmaWVkKHsgZmFjdHMsIHJhZ0NpdGF0aW9ucywgYWxsb3dNb2NrIH0pIOKGkiBDaXRhdGlvbltdCi8vICAg6J6N5ZCI5byV55So77ya5LqL5a6e5Zyo5YmN77yI5pe25pWI5oCn77yJ77yM57uP5YW45Zyo5ZCO77yI6Kej6YeK5oCn77yJ77yM5pW05L2T5Y676YeN5bm25oiq5pat44CCCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpmdW5jdGlvbiBidWlsZFVuaWZpZWQoaW5wdXQpIHsKICBpbnB1dCA9IGlucHV0IHx8IHt9OwogIHZhciBmYWN0Q2l0ZXMgPSBidWlsZEZhY3RDaXRhdGlvbnMoaW5wdXQuZmFjdHMsIHsgYWxsb3dNb2NrOiBpbnB1dC5hbGxvd01vY2sgPT09IHRydWUgfSk7CiAgdmFyIGNsYXNzaWNDaXRlcyA9IGJ1aWxkQ2xhc3NpY0NpdGF0aW9ucyhpbnB1dC5yYWdDaXRhdGlvbnMsIHt9KTsKICB2YXIgbWVyZ2VkID0gZmFjdENpdGVzLmNvbmNhdChjbGFzc2ljQ2l0ZXMpOwoKICB2YXIgb3V0ID0gW107CiAgdmFyIHNlZW4gPSB7fTsKICBmb3IgKHZhciBpID0gMDsgaSA8IG1lcmdlZC5sZW5ndGggJiYgb3V0Lmxlbmd0aCA8IE1BWF9DSVRBVElPTlM7IGkrKykgewogICAgdmFyIGsgPSBkZWR1cGVLZXlPZihtZXJnZWRbaV0pOwogICAgaWYgKHNlZW5ba10pIGNvbnRpbnVlOwogICAgc2VlbltrXSA9IHRydWU7CiAgICBvdXQucHVzaChtZXJnZWRbaV0pOwogIH0KICByZXR1cm4gb3V0Owp9CgovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KLy8gcmVuZGVyRmFjdENpdGF0aW9ucyhjaXRhdGlvbnMsIG9wdHMpIOKGkiBzdHJpbmcKLy8gICDku4XmuLLmn5MgdHlwZT0nZmFjdCcg55qE5aSW6YOo5p2l5rqQ77yI57uP5YW45byV55So5bey5ZyoIFJBRyDmraPmlofkuK3lkYjnjrDvvIzkuI3ph43lpI3vvInjgIIKLy8gICDnqbrliJfooajov5Tlm57nqbrkuLIg4oaSIOiwg+eUqOaWueS4jei/veWKoOS7u+S9leaWh+acrOOAggovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZnVuY3Rpb24gcmVuZGVyRmFjdENpdGF0aW9ucyhjaXRhdGlvbnMsIG9wdHMpIHsKICBvcHRzID0gb3B0cyB8fCB7fTsKICB2YXIgbGlzdCA9IEFycmF5LmlzQXJyYXkoY2l0YXRpb25zKSA/IGNpdGF0aW9ucyA6IFtdOwogIHZhciBmYWN0cyA9IFtdOwogIGZvciAodmFyIGkgPSAwOyBpIDwgbGlzdC5sZW5ndGg7IGkrKykgewogICAgaWYgKGxpc3RbaV0gJiYgbGlzdFtpXS50eXBlID09PSAnZmFjdCcpIGZhY3RzLnB1c2gobGlzdFtpXSk7CiAgfQogIGlmICghZmFjdHMubGVuZ3RoKSByZXR1cm4gJyc7CgogIHZhciB0aXRsZSA9IG9wdHMudGl0bGUgfHwgJ+WPguiAg+adpea6kCc7CiAgdmFyIGxpbmVzID0gWycnLCAnJywgdGl0bGUgKyAn77yaJ107CiAgZm9yICh2YXIgaiA9IDA7IGogPCBmYWN0cy5sZW5ndGg7IGorKykgewogICAgdmFyIGMgPSBmYWN0c1tqXTsKICAgIHZhciB0YWlsID0gW107CiAgICBpZiAoYy5zb3VyY2UpIHRhaWwucHVzaChjLnNvdXJjZSk7CiAgICBpZiAoYy50aW1lKSB0YWlsLnB1c2goYy50aW1lKTsKICAgIGxpbmVzLnB1c2goKGogKyAxKSArICcuICcgKyBjLnRpdGxlICsgKHRhaWwubGVuZ3RoID8gJ++8iCcgKyB0YWlsLmpvaW4oJyDCtyAnKSArICfvvIknIDogJycpKTsKICB9CiAgcmV0dXJuIGxpbmVzLmpvaW4oJ1xuJyk7Cn0KCi8vIOS+m+ingua1i+eUqOeahOiEseaVj+aRmOimge+8iOWPquacieiuoeaVsOS4juexu+Wei++8jOS4jeWQq+WGheWuue+8iQpmdW5jdGlvbiB0b1NhZmVNZXRhKGNpdGF0aW9ucykgewogIHZhciBsaXN0ID0gQXJyYXkuaXNBcnJheShjaXRhdGlvbnMpID8gY2l0YXRpb25zIDogW107CiAgdmFyIGZhY3RDb3VudCA9IDAsIGNsYXNzaWNDb3VudCA9IDA7CiAgZm9yICh2YXIgaSA9IDA7IGkgPCBsaXN0Lmxlbmd0aDsgaSsrKSB7CiAgICBpZiAobGlzdFtpXSAmJiBsaXN0W2ldLnR5cGUgPT09ICdmYWN0JykgZmFjdENvdW50Kys7CiAgICBlbHNlIGlmIChsaXN0W2ldICYmIGxpc3RbaV0udHlwZSA9PT0gJ2NsYXNzaWMnKSBjbGFzc2ljQ291bnQrKzsKICB9CiAgcmV0dXJuIHsgdG90YWw6IGxpc3QubGVuZ3RoLCBmYWN0OiBmYWN0Q291bnQsIGNsYXNzaWM6IGNsYXNzaWNDb3VudCB9Owp9Cgptb2R1bGUuZXhwb3J0cyA9IHsKICBidWlsZEZhY3RDaXRhdGlvbnM6IGJ1aWxkRmFjdENpdGF0aW9ucywKICBidWlsZENsYXNzaWNDaXRhdGlvbnM6IGJ1aWxkQ2xhc3NpY0NpdGF0aW9ucywKICBidWlsZFVuaWZpZWQ6IGJ1aWxkVW5pZmllZCwKICByZW5kZXJGYWN0Q2l0YXRpb25zOiByZW5kZXJGYWN0Q2l0YXRpb25zLAogIHRvU2FmZU1ldGE6IHRvU2FmZU1ldGEsCiAgTUFYX0NJVEFUSU9OUzogTUFYX0NJVEFUSU9OUywKfTsK
+// ============================================================
+// think/citation.js
+//   Phase Q2-3：问思融合引擎 — 引用层。
+//
+//   职责：把两类来源统一成可展示、可追溯的引用条目：
+//     type='fact'    请求级检索事实（外部来源，带 URL）
+//     type='classic' RAG 经典引用（内部知识库，只读，无 URL）
+//
+//   关键边界：
+//     · 本模块**不修改** result.citations（那是 RAG 经典引用的既有出口，
+//       logQuestion / 前端都在消费它）。融合引用只走 result.think.citations，
+//       避免污染既有下游统计。
+//     · mock 引用在 allowMock=false 时一律不输出 —— 用户永远看不到 [MOCK]。
+//     · 所有产物带 _ephemeral 语义：属于本次响应载荷，不入知识库。
+//
+//   纯函数、零云依赖、Node 16.13 兼容。
+// ============================================================
+'use strict';
+
+var MAX_CITATIONS = 8;
+var MAX_TITLE_LEN = 60;
+
+function clip(s, n) {
+  var t = (s || '').toString().replace(/\s+/g, ' ').trim();
+  if (t.length > n) t = t.slice(0, n) + '…';
+  return t;
+}
+
+function dedupeKeyOf(c) {
+  if (!c) return '';
+  return ((c.url || '') + '|' + (c.title || '')).toLowerCase();
+}
+
+// ============================================================
+// buildFactCitations(facts, opts) → Citation[]
+//   facts: think/factExtractor 产出的 Fact[]（建议已 filterUsable）
+//   opts : { allowMock, max }
+// ============================================================
+function buildFactCitations(facts, opts) {
+  opts = opts || {};
+  var allowMock = opts.allowMock === true;
+  var max = (typeof opts.max === 'number' && opts.max > 0) ? opts.max : MAX_CITATIONS;
+  var list = Array.isArray(facts) ? facts : [];
+  var out = [];
+  var seen = {};
+
+  for (var i = 0; i < list.length && out.length < max; i++) {
+    var f = list[i];
+    if (!f || !f.url) continue;
+    if (f.isMock && !allowMock) continue; // mock 永不出现在用户可见引用中
+
+    var c = {
+      type: 'fact',
+      title: clip(f.title || f.statement, MAX_TITLE_LEN),
+      url: (f.url || '').toString(),
+      source: (f.source || '').toString(),
+      time: (f.time || '').toString(),
+      confidence: f.confidence || 'low',
+    };
+    var k = dedupeKeyOf(c);
+    if (seen[k]) continue;
+    seen[k] = true;
+    out.push(c);
+  }
+  return out;
+}
+
+// ============================================================
+// buildClassicCitations(ragCitations, opts) → Citation[]
+//   ragCitations: rag.js enrichCitations 产出（{ title, tags, ... }）
+//   只做只读映射，不修改原数组、不回写知识库。
+// ============================================================
+function buildClassicCitations(ragCitations, opts) {
+  opts = opts || {};
+  var max = (typeof opts.max === 'number' && opts.max > 0) ? opts.max : MAX_CITATIONS;
+  var list = Array.isArray(ragCitations) ? ragCitations : [];
+  var out = [];
+  var seen = {};
+
+  for (var i = 0; i < list.length && out.length < max; i++) {
+    var r = list[i];
+    if (!r) continue;
+    var title = clip(r.title || r.book, MAX_TITLE_LEN);
+    if (!title) continue;
+    var c = { type: 'classic', title: title, url: '', source: '知识库', time: '', confidence: 'high' };
+    var k = dedupeKeyOf(c);
+    if (seen[k]) continue;
+    seen[k] = true;
+    out.push(c);
+  }
+  return out;
+}
+
+// ============================================================
+// buildUnified({ facts, ragCitations, allowMock }) → Citation[]
+//   融合引用：事实在前（时效性），经典在后（解释性），整体去重并截断。
+// ============================================================
+function buildUnified(input) {
+  input = input || {};
+  var factCites = buildFactCitations(input.facts, { allowMock: input.allowMock === true });
+  var classicCites = buildClassicCitations(input.ragCitations, {});
+  var merged = factCites.concat(classicCites);
+
+  var out = [];
+  var seen = {};
+  for (var i = 0; i < merged.length && out.length < MAX_CITATIONS; i++) {
+    var k = dedupeKeyOf(merged[i]);
+    if (seen[k]) continue;
+    seen[k] = true;
+    out.push(merged[i]);
+  }
+  return out;
+}
+
+// ============================================================
+// renderFactCitations(citations, opts) → string
+//   仅渲染 type='fact' 的外部来源（经典引用已在 RAG 正文中呈现，不重复）。
+//   空列表返回空串 → 调用方不追加任何文本。
+// ============================================================
+function renderFactCitations(citations, opts) {
+  opts = opts || {};
+  var list = Array.isArray(citations) ? citations : [];
+  var facts = [];
+  for (var i = 0; i < list.length; i++) {
+    if (list[i] && list[i].type === 'fact') facts.push(list[i]);
+  }
+  if (!facts.length) return '';
+
+  var title = opts.title || '参考来源';
+  var lines = ['', '', title + '：'];
+  for (var j = 0; j < facts.length; j++) {
+    var c = facts[j];
+    var tail = [];
+    if (c.source) tail.push(c.source);
+    if (c.time) tail.push(c.time);
+    lines.push((j + 1) + '. ' + c.title + (tail.length ? '（' + tail.join(' · ') + '）' : ''));
+  }
+  return lines.join('\n');
+}
+
+// 供观测用的脱敏摘要（只有计数与类型，不含内容）
+function toSafeMeta(citations) {
+  var list = Array.isArray(citations) ? citations : [];
+  var factCount = 0, classicCount = 0;
+  for (var i = 0; i < list.length; i++) {
+    if (list[i] && list[i].type === 'fact') factCount++;
+    else if (list[i] && list[i].type === 'classic') classicCount++;
+  }
+  return { total: list.length, fact: factCount, classic: classicCount };
+}
+
+module.exports = {
+  buildFactCitations: buildFactCitations,
+  buildClassicCitations: buildClassicCitations,
+  buildUnified: buildUnified,
+  renderFactCitations: renderFactCitations,
+  toSafeMeta: toSafeMeta,
+  MAX_CITATIONS: MAX_CITATIONS,
+};

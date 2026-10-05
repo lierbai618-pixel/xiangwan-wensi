@@ -1,1 +1,89 @@
-PHZpZXcgY2xhc3M9InBhZ2UiPgogIDx2aWV3IGNsYXNzPSJ0YWJzIj4KICAgIDx2aWV3IGNsYXNzPSJ0YWIge3t0YWIgPT09ICdwcml2YWN5JyA/ICdvbicgOiAnJ319IiBkYXRhLXRhYj0icHJpdmFjeSIgYmluZHRhcD0ic3dpdGNoVGFiIj7pmpDnp4HmlL/nrZY8L3ZpZXc+CiAgICA8dmlldyBjbGFzcz0idGFiIHt7dGFiID09PSAndGVybXMnID8gJ29uJyA6ICcnfX0iIGRhdGEtdGFiPSJ0ZXJtcyIgYmluZHRhcD0ic3dpdGNoVGFiIj7nlKjmiLfljY/orq48L3ZpZXc+CiAgPC92aWV3PgoKICA8c2Nyb2xsLXZpZXcgc2Nyb2xsLXkgY2xhc3M9ImRvYyIgZW5oYW5jZWQgc2hvdy1zY3JvbGxiYXI9Int7ZmFsc2V9fSI+CiAgICA8IS0tIOmakOengeaUv+etliAtLT4KICAgIDxibG9jayB3eDppZj0ie3t0YWIgPT09ICdwcml2YWN5J319Ij4KICAgICAgPHZpZXcgY2xhc3M9ImRvYy10aXRsZSI+44CM5ZCR5pma6Zeu5oCd44CN6ZqQ56eB5pS/562WPC92aWV3PgogICAgICA8dmlldyBjbGFzcz0iZG9jLW1ldGEiPuabtOaWsOaXpeacn++8mnt7dXBkYXRlZEF0fX3jgIDnlJ/mlYjml6XmnJ/vvJp7e3VwZGF0ZWRBdH19PC92aWV3PgoKICAgICAgPHRleHQgY2xhc3M9ImxlYWQiPuacrOWwj+eoi+W6j+OAjOWQkeaZmumXruaAneOAje+8iOS7peS4i+eugOensCLmnKzlsI/nqIvluo8i77yJ5piv5LiA5qy+5Lul57uP5YW45ZOy5a2m44CB5paH5a2m5LiO5b+D55CG5a2m5Li65qC55Z+655qE5oCd6L6o5Yqp5omL44CC5oiR5Lus6Z2e5bi46YeN6KeG5L2g55qE5Liq5Lq65L+h5oGv5LiO6ZqQ56eB5L+d5oqk44CC5pys5pS/562W6K+05piO5oiR5Lus5pS26ZuG5ZOq5Lqb5L+h5oGv44CB5aaC5L2V5L2/55So5LiO5a2Y5YKo77yM5Lul5Y+K5L2g5Lqr5pyJ55qE5p2D5Yip44CC6K+35L2g5Zyo5L2/55So5YmN5LuU57uG6ZiF6K+744CCPC90ZXh0PgoKICAgICAgPHZpZXcgY2xhc3M9InNlYy1oIj7kuIDjgIHmiJHku6zmlLbpm4bnmoTkv6Hmga88L3ZpZXc+CiAgICAgIDx0ZXh0IGNsYXNzPSJwIj7kuLrlkJHkvaDmj5Dkvpvpl67nrZTkuI7kvJror53kv53lrZjmnI3liqHvvIzmiJHku6zkvJrmlLbpm4bku6XkuIvlv4XopoHkv6Hmga/vvJo8L3RleHQ+CiAgICAgIDx0ZXh0IGNsYXNzPSJsaSI+MS4g55So5oi35Yy/5ZCN5qCH6K+G77yIT3BlbklE77yJ77ya55Sx5b6u5L+h5Zyo5L2g5L2/55So5LqR6IO95Yqb5pe26Ieq5Yqo55Sf5oiQ77yM55So5LqO5Yy65YiG5LiN5ZCM55So5oi344CB5L+d5a2Y5LiO5oGi5aSN5L2g55qE5Lya6K+d44CC5oiR5Lus5LiN5Lya6I635Y+W5L2g55qE5b6u5L+h5pi156ew44CB5aS05YOP44CB5omL5py65Y+377yM5Lmf5LiN5Lya6K+75Y+W5L2g55qE6YCa6K6v5b2V44CB55u45YaM44CB5L2N572u562J5L+h5oGv44CCPC90ZXh0PgogICAgICA8dGV4dCBjbGFzcz0ibGkiPjIuIOS9oOi+k+WFpeeahOmXrumimOS4juWvueivneWGheWuue+8mueUqOS6jueUn+aIkOWbnuetlOOAgeS/neWtmOWOhuWPsuS8muivne+8jOS7peWPiuWcqOS9oOWQjOaEj+eahOiMg+WbtOWGheaUuei/m+acjeWKoei0qOmHj+OAgjwvdGV4dD4KICAgICAgPHRleHQgY2xhc3M9ImxpIj4zLiDmhI/op4Hlj43ppojlhoXlrrnvvJrlvZPkvaDkuLvliqjmj5DkuqTlj43ppojml7bvvIzmiJHku6zkvJrorrDlvZXlj43ppojmlofmnKzvvIznlKjkuo7mlLnov5vkuqflk4HjgII8L3RleHQ+CiAgICAgIDx0ZXh0IGNsYXNzPSJsaSI+NC4g5b+F6KaB55qE5pel5b+X5L+h5oGv77ya5Li65o6S6Zqc5LiO57uf6K6h77yM6K6w5b2V5o+Q6Zeu5pe26Ze044CB5Zue562U5qih5byP44CB5YaF5a655a6J5YWo5qOA5rWL57uT5p6c562J5oqA5pyv5a2X5q6144CCPC90ZXh0PgoKICAgICAgPHZpZXcgY2xhc3M9InNlYy1oIj7kuozjgIHkv6Hmga/nmoTkvb/nlKg8L3ZpZXc+CiAgICAgIDx0ZXh0IGNsYXNzPSJsaSI+MS4g55Sf5oiQ5bm26L+U5Zue6Zeu562U57uT5p6c77ybPC90ZXh0PgogICAgICA8dGV4dCBjbGFzcz0ibGkiPjIuIOS/neWtmOS4juaBouWkjeS9oOeahOWOhuWPsuS8muivne+8iOWPr+maj+aXtuWcqOWvueivnemhtSLmuIXnqbrlhajpg6jlr7nor50i5Yig6Zmk77yJ77ybPC90ZXh0PgogICAgICA8dGV4dCBjbGFzcz0ibGkiPjMuIOS+neaNruOAiue9kee7nOWuieWFqOazleOAi+etieazleinhO+8jOWvuei+k+WFpeS4jui+k+WHuuaWh+acrOi/m+ihjOWGheWuueWuieWFqOajgOa1i++8jOi/h+a7pOi/neazlei/neinhOWGheWuue+8mzwvdGV4dD4KICAgICAgPHRleHQgY2xhc3M9ImxpIj40LiDnu5/orqHkvb/nlKjmg4XlhrXjgIHmjpLmn6XmlYXpmpzjgIHkvJjljJbmqKHlnovkuI7otYTmlpnlupPjgII8L3RleHQ+CgogICAgICA8dmlldyBjbGFzcz0ic2VjLWgiPuS4ieOAgeS/oeaBr+eahOWtmOWCqOS4juWuieWFqDwvdmlldz4KICAgICAgPHRleHQgY2xhc3M9ImxpIj4xLiDkuIrov7Dkv6Hmga/lrZjlgqjkuo7lvq7kv6HkupHlvIDlj5HvvIjohb7orq/kupHvvInmj5DkvpvnmoTkupHmlbDmja7lupPkuK3vvIzmnI3liqHlmajkvY3kuo7kuK3lm73looPlhoXjgII8L3RleHQ+CiAgICAgIDx0ZXh0IGNsYXNzPSJsaSI+Mi4g5oiR5Lus6YeH5Y+W5ZCI55CG55qE5oqA5pyv5LiO566h55CG5o6q5pa95L+d5oqk5L2g55qE5L+h5oGv5a6J5YWo77yM6Ziy5q2i5pyq57uP5o6I5p2D55qE6K6/6Zeu44CB5rOE6Zyy5oiW56+h5pS544CCPC90ZXh0PgogICAgICA8dGV4dCBjbGFzcz0ibGkiPjMuIOaIkeS7rOS7heWcqOWunueOsOS4iui/sOebrueahOaJgOW/hemcgOeahOacn+mXtOWGheS/neeVmeS9oOeahOS/oeaBr++8m+S9oOa4heepuuS8muivneWQju+8jOWvueW6lOeahOS8muivneiusOW9leWwhuiiq+WIoOmZpOOAgjwvdGV4dD4KCiAgICAgIDx2aWV3IGNsYXNzPSJzZWMtaCI+5Zub44CB5L+h5oGv55qE5a+55aSW5o+Q5L6bPC92aWV3PgogICAgICA8dGV4dCBjbGFzcz0ibGkiPjEuIOaIkeS7rOS4jeS8muWQkeS7u+S9leesrOS4ieaWueWHuuWUruS9oOeahOS4quS6uuS/oeaBr+OAgjwvdGV4dD4KICAgICAgPHRleHQgY2xhc3M9ImxpIj4yLiDlhoXlrrnlronlhajmo4DmtYvkvp3miZjlvq7kv6HlvIDmlL7lubPlj7Dog73lipvlrp7njrDvvJvkupHlrZjlgqjmnI3liqHnlLHohb7orq/kupHmj5DkvpvjgII8L3RleHQ+CiAgICAgIDx0ZXh0IGNsYXNzPSJsaSI+My4g5Li65o+Q5L6b6Zeu562U5LiO6IGU572R5pCc57Si5pyN5Yqh77yM5L2g6L6T5YWl55qE6Zeu6aKY5paH5pys77yI57uP6ISx5pWP5aSE55CG77yM5Y676Zmk5omL5py65Y+344CB6YKu566x562J5Liq5Lq66Lqr5Lu95L+h5oGv5ZCO77yJ5bCG5Lyg6L6T6Iez56ys5LiJ5pa5IEFJIOaooeWei+acjeWKoeWVhui/m+ihjOWkp+ivreiogOaooeWei+aOqOeQhuS4juiBlOe9keS/oeaBr+ajgOe0ou+8jOS4u+imgeWMheaLrCBBZ25lc++8iGFwaWh1Yi5hZ25lcy1haS5jb23vvInjgIHpmL/ph4zkupHnmb7ngrzvvIhEYXNoU2NvcGXvvInnrYnvvIzor7fmsYLnu5/kuIDnu48gYXBpLmhjbnNlYy5jbiDnvZHlhbPovazlj5HvvIznm7jlhbPmnI3liqHlmajlnYfkvY3kuo7kuK3lm73looPlhoXjgILmiJHku6zku4XkvKDovpPpl67popjmlofmnKzmnKzouqvvvIzkuI3kvKDovpPkvaDnmoQgT3BlbklE44CB5Lya6K+d5Y6G5Y+y5oiW5YW25LuW5Liq5Lq65L+h5oGv44CCPC90ZXh0PgogICAgICA8dGV4dCBjbGFzcz0ibGkiPjQuIOmZpOS4iui/sOaDheW9ouWklu+8jOaIkeS7rOS4jeS8muWQkeWFtuS7luesrOS4ieaWueWFseS6q+S9oOeahOS/oeaBr++8jOazleW+i+azleinhOimgeaxguaIluS9oOWPpuihjOWQjOaEj+eahOmZpOWkluOAgjwvdGV4dD4KCiAgICAgIDx2aWV3IGNsYXNzPSJzZWMtaCI+5LqU44CB5L2g55qE5p2D5YipPC92aWV3PgogICAgICA8dGV4dCBjbGFzcz0ibGkiPjEuIOS9oOWPr+maj+aXtuWcqOWvueivnemhteeCueWHuyLmuIXnqbrlhajpg6jlr7nor50i5Yig6Zmk5L2g55qE5Lya6K+d6K6w5b2V77ybPC90ZXh0PgogICAgICA8dGV4dCBjbGFzcz0ibGkiPjIuIOS9oOWPr+mAmui/hyLlhbPkuo4i6aG155qEIuaEj+ingeWPjemmiCLogZTns7vmiJHku6zvvIzooYzkvb/mn6Xor6LjgIHmm7TmraPjgIHliKDpmaTnrYnmnYPliKnvvJs8L3RleHQ+CiAgICAgIDx0ZXh0IGNsYXNzPSJsaSI+My4g5L2g5Y+v6YCJ5oup5LiN5ZCM5oSP5pys5pS/562W5bm25YGc5q2i5L2/55So5pys5bCP56iL5bqP44CCPC90ZXh0PgoKICAgICAgPHZpZXcgY2xhc3M9InNlYy1oIj7lha3jgIHmnKrmiJDlubTkurrkv53miqQ8L3ZpZXc+CiAgICAgIDx0ZXh0IGNsYXNzPSJwIj7oi6XkvaDmmK/mnKrmiJDlubTkurrvvIzor7flnKjnm5HmiqTkurrmjIflr7zkuIvkvb/nlKjmnKzlsI/nqIvluo/vvIzlubblnKjnm5HmiqTkurrlkIzmhI/lkI7lkJHmiJHku6zmj5DkvpvkuKrkurrkv6Hmga/jgII8L3RleHQ+CgogICAgICA8dmlldyBjbGFzcz0ic2VjLWgiPuS4g+OAgeaUv+etluabtOaWsOS4juiBlOezu+aWueW8jzwvdmlldz4KICAgICAgPHRleHQgY2xhc3M9InAiPuacrOaUv+etluWPr+iDvemAguaXtuabtOaWsO+8jOabtOaWsOWQjuS8muWcqOacrOmhteWFrOekuuOAguWmguWvueacrOaUv+etluacieS7u+S9leeWkemXru+8jOWPr+mAmui/hyLlhbPkuo4i6aG155qEIuaEj+ingeWPjemmiCLkuI7miJHku6zogZTns7vjgII8L3RleHQ+CiAgICA8L2Jsb2NrPgoKICAgIDwhLS0g55So5oi35Y2P6K6uIC0tPgogICAgPGJsb2NrIHd4OmVsaWY9Int7dGFiID09PSAndGVybXMnfX0iPgogICAgICA8dmlldyBjbGFzcz0iZG9jLXRpdGxlIj7jgIzlkJHmmZrpl67mgJ3jgI3nlKjmiLfljY/orq48L3ZpZXc+CiAgICAgIDx2aWV3IGNsYXNzPSJkb2MtbWV0YSI+5pu05paw5pel5pyf77yae3t1cGRhdGVkQXR9feOAgOeUn+aViOaXpeacn++8mnt7dXBkYXRlZEF0fX08L3ZpZXc+CgogICAgICA8dGV4dCBjbGFzcz0ibGVhZCI+5qyi6L+O5L2/55So44CM5ZCR5pma6Zeu5oCd44CN44CC5Zyo5L2/55So5pys5bCP56iL5bqP5YmN77yM6K+35L2g5LuU57uG6ZiF6K+75bm25YWF5YiG55CG6Kej5pys5Y2P6K6u44CC5L2g5L2/55So5pys5bCP56iL5bqP5Y2z6KeG5Li65bey6ZiF6K+75bm25ZCM5oSP5pys5Y2P6K6u5YWo6YOo5YaF5a6544CCPC90ZXh0PgoKICAgICAgPHZpZXcgY2xhc3M9InNlYy1oIj7kuIDjgIHmnI3liqHor7TmmI48L3ZpZXc+CiAgICAgIDx0ZXh0IGNsYXNzPSJsaSI+MS4g5pys5bCP56iL5bqP5piv5LiA5qy+5oCd6L6o6L6F5Yqp5bel5YW377yM55+l6K+G5p2l5rqQ5Lul44CK6K666K+t44CL44CK5a2f5a2Q44CL44CK6YGT5b6357uP44CL44CK5bqE5a2Q44CL44CK5rKJ5oCd5b2V44CL44CK5bC85ZCE6ams5Y+v5Lym55CG5a2m44CL562JIDEwIOacrOWFrOeJiOe7j+WFuOWPiuacrOWcsOi1hOaWmeW6k+S4uuWfuuehgOOAgjwvdGV4dD4KICAgICAgPHRleHQgY2xhc3M9ImxpIj4yLiDmnKzlsI/nqIvluo/kuI3mm7/kvaDlgZrlhrPlrprjgIHkuI3oh6rnp7DmnYPlqIHjgIHkuI3omZrmnoTor63lvZXjgILlm57nrZTku4XkvpvlrabkuaDlj4LogIPvvIzmraPlvI/lvJXnlKjor7fku6XmnYPlqIHniYjmnKzkuLrlh4bjgII8L3RleHQ+CiAgICAgIDx0ZXh0IGNsYXNzPSJsaSI+My4g5Zue562U5YaF5a6555Sx5qOA57Si5LiO5Lq65bel5pm66IO95qih5Z6L5YWx5ZCM55Sf5oiQ77yM5Y+v6IO95a2Y5Zyo5LiN5YeG56Gu5oiW5LiN5a6M5pW05LmL5aSE77yM5LiN5p6E5oiQ5Lu75L2V5LiT5Lia5bu66K6u44CCPC90ZXh0PgoKICAgICAgPHZpZXcgY2xhc3M9InNlYy1oIj7kuozjgIHnlKjmiLfooYzkuLrop4TojIM8L3ZpZXc+CiAgICAgIDx0ZXh0IGNsYXNzPSJwIj7kvaDmib/or7rlnKjkvb/nlKjmnKzlsI/nqIvluo/ml7bkuI3lvpfvvJo8L3RleHQ+CiAgICAgIDx0ZXh0IGNsYXNzPSJsaSI+MS4g5Y+R5biD5oiW5Lyg5pKt6L+d5Y+N5rOV5b6L5rOV6KeE44CB5Y2x5a6z5Zu95a625a6J5YWo44CB56C05Z2P5rCR5peP5Zui57uT44CB5raJ5Y+K6L+d5rOV6L+d6KeE55qE5YaF5a6577ybPC90ZXh0PgogICAgICA8dGV4dCBjbGFzcz0ibGkiPjIuIOWPkeW4g+a3q+enveOAgeaatOWKm+OAgeS+rui+seOAgeivveiwpOOAgemqmuaJsOetieS4jeiJr+S/oeaBr++8mzwvdGV4dD4KICAgICAgPHRleHQgY2xhc3M9ImxpIj4zLiDliKnnlKjmnKzlsI/nqIvluo/ku47kuovku7vkvZXov53ms5XmiJbkvrXlrrPku5bkurrlkIjms5XmnYPnm4rnmoTooYzkuLrvvJs8L3RleHQ+CiAgICAgIDx0ZXh0IGNsYXNzPSJsaSI+NC4g5Lul5Lu75L2V5oqA5pyv5omL5q615bmy5omw44CB56C05Z2P5pys5bCP56iL5bqP55qE5q2j5bi46L+Q6KGM44CCPC90ZXh0PgogICAgICA8dGV4dCBjbGFzcz0icCB0aXAiPuaIkeS7rOS8muS+neazleWvuei+k+WFpeS4jui+k+WHuuWGheWuuei/m+ihjOWuieWFqOajgOa1i++8m+Wvuei/neinhOWGheWuueWwhuS6iOS7peaLpuaIqu+8jOW5tuWPr+iDvemZkOWItuebuOWFs+i0puWPt+eahOS9v+eUqOOAgjwvdGV4dD4KCiAgICAgIDx2aWV3IGNsYXNzPSJzZWMtaCI+5LiJ44CB55+l6K+G5Lqn5p2DPC92aWV3PgogICAgICA8dGV4dCBjbGFzcz0ibGkiPjEuIOaJgOW8leeUqOaWh+eMrueahOiRl+S9nOadg+W9kuWOn+iRl+S9nOadg+S6uuWPiuWHuueJiOaWueaJgOacie+8m+acrOWwj+eoi+W6j+S7heS9nOWtpuS5oOaVtOeQhuS4juajgOe0ouS5i+eUqOOAgjwvdGV4dD4KICAgICAgPHRleHQgY2xhc3M9ImxpIj4yLiDmnKzlsI/nqIvluo/nmoTnlYzpnaLorr7orqHjgIHnqIvluo/ku6PnoIHnrYnnlLHlvIDlj5HogIXkuqvmnInnm7jlupTmnYPliKnjgII8L3RleHQ+CgogICAgICA8dmlldyBjbGFzcz0ic2VjLWgiPuWbm+OAgeWFjei0o+WjsOaYjjwvdmlldz4KICAgICAgPHRleHQgY2xhc3M9ImxpIj4xLiDmnKzlsI/nqIvluo/mjIki546w54q2IuaPkOS+m+acjeWKoe+8jOWvueWbnuetlOWGheWuueeahOWHhuehruaAp+OAgeWujOaVtOaAp+OAgeaXtuaViOaAp+S4jeS9nOS/neivge+8mzwvdGV4dD4KICAgICAgPHRleHQgY2xhc3M9ImxpIj4yLiDlm6DkuI3lj6/mipflipvjgIHnvZHnu5zmlYXpmpzjgIHnrKzkuInmlrnmnI3liqHkuK3mlq3nrYnlr7zoh7TnmoTmnI3liqHmmoLlgZzmiJbmlbDmja7kuKLlpLHvvIzmiJHku6zlnKjms5XlvovlhYHorrjojIPlm7TlhoXkuI3mib/mi4XotKPku7vvvJs8L3RleHQ+CiAgICAgIDx0ZXh0IGNsYXNzPSJsaSI+My4g5L2g5Zug5L2/55So5pys5bCP56iL5bqP5L2c5Ye655qE5Lu75L2V5Yaz562W5Y+K5YW25ZCO5p6c77yM55Sx5L2g6Ieq6KGM5om/5ouF44CCPC90ZXh0PgoKICAgICAgPHZpZXcgY2xhc3M9InNlYy1oIj7kupTjgIHljY/orq7lj5jmm7Q8L3ZpZXc+CiAgICAgIDx0ZXh0IGNsYXNzPSJwIj7miJHku6zlj6/og73pgILml7bkv67orqLmnKzljY/orq7vvIzkv67orqLlkI7lsIblnKjmnKzpobXlhaznpLrjgILoi6XkvaDnu6fnu63kvb/nlKjmnKzlsI/nqIvluo/vvIzljbPop4bkuLrmjqXlj5fkv67orqLlkI7nmoTljY/orq7jgII8L3RleHQ+CgogICAgICA8dmlldyBjbGFzcz0ic2VjLWgiPuWFreOAgeWFtuS7ljwvdmlldz4KICAgICAgPHRleHQgY2xhc3M9InAiPuacrOWNj+iurueahOiuoueri+OAgeaJp+ihjOS4juino+mHiuWdh+mAgueUqOS4reWNjuS6uuawkeWFseWSjOWbveazleW+i+OAguWmguacieS6ieiuru+8jOWPjOaWueW6lOWPi+WlveWNj+WVhuino+WGs+OAgjwvdGV4dD4KICAgIDwvYmxvY2s+CgogICAgPHZpZXcgY2xhc3M9ImRvYy1mb290Ij7mhJ/osKLkvaDnmoTkv6Hku7vkuI7kvb/nlKjjgII8L3ZpZXc+CiAgPC9zY3JvbGwtdmlldz4KPC92aWV3Pgo=
+<view class="page">
+  <view class="tabs">
+    <view class="tab {{tab === 'privacy' ? 'on' : ''}}" data-tab="privacy" bindtap="switchTab">隐私政策</view>
+    <view class="tab {{tab === 'terms' ? 'on' : ''}}" data-tab="terms" bindtap="switchTab">用户协议</view>
+  </view>
+
+  <scroll-view scroll-y class="doc" enhanced show-scrollbar="{{false}}">
+    <!-- 隐私政策 -->
+    <block wx:if="{{tab === 'privacy'}}">
+      <view class="doc-title">「向晚问思」隐私政策</view>
+      <view class="doc-meta">更新日期：{{updatedAt}}　生效日期：{{updatedAt}}</view>
+
+      <text class="lead">本小程序「向晚问思」（以下简称"本小程序"）是一款以经典哲学、文学与心理学为根基的思辨助手。我们非常重视你的个人信息与隐私保护。本政策说明我们收集哪些信息、如何使用与存储，以及你享有的权利。请你在使用前仔细阅读。</text>
+
+      <view class="sec-h">一、我们收集的信息</view>
+      <text class="p">为向你提供问答与会话保存服务，我们会收集以下必要信息：</text>
+      <text class="li">1. 用户匿名标识（OpenID）：由微信在你使用云能力时自动生成，用于区分不同用户、保存与恢复你的会话。我们不会获取你的微信昵称、头像、手机号，也不会读取你的通讯录、相册、位置等信息。</text>
+      <text class="li">2. 你输入的问题与对话内容：用于生成回答、保存历史会话，以及在你同意的范围内改进服务质量。</text>
+      <text class="li">3. 意见反馈内容：当你主动提交反馈时，我们会记录反馈文本，用于改进产品。</text>
+      <text class="li">4. 必要的日志信息：为排障与统计，记录提问时间、回答模式、内容安全检测结果等技术字段。</text>
+
+      <view class="sec-h">二、信息的使用</view>
+      <text class="li">1. 生成并返回问答结果；</text>
+      <text class="li">2. 保存与恢复你的历史会话（可随时在对话页"清空全部对话"删除）；</text>
+      <text class="li">3. 依据《网络安全法》等法规，对输入与输出文本进行内容安全检测，过滤违法违规内容；</text>
+      <text class="li">4. 统计使用情况、排查故障、优化模型与资料库。</text>
+
+      <view class="sec-h">三、信息的存储与安全</view>
+      <text class="li">1. 上述信息存储于微信云开发（腾讯云）提供的云数据库中，服务器位于中国境内。</text>
+      <text class="li">2. 我们采取合理的技术与管理措施保护你的信息安全，防止未经授权的访问、泄露或篡改。</text>
+      <text class="li">3. 我们仅在实现上述目的所必需的期间内保留你的信息；你清空会话后，对应的会话记录将被删除。</text>
+
+      <view class="sec-h">四、信息的对外提供</view>
+      <text class="li">1. 我们不会向任何第三方出售你的个人信息。</text>
+      <text class="li">2. 内容安全检测依托微信开放平台能力实现；云存储服务由腾讯云提供。</text>
+      <text class="li">3. 为提供问答与联网搜索服务，你输入的问题文本（经脱敏处理，去除手机号、邮箱等个人身份信息后）将传输至第三方 AI 模型服务商进行大语言模型推理与联网信息检索，主要包括 Agnes（apihub.agnes-ai.com）、阿里云百炼（DashScope）等，请求统一经 api.hcnsec.cn 网关转发，相关服务器均位于中国境内。我们仅传输问题文本本身，不传输你的 OpenID、会话历史或其他个人信息。</text>
+      <text class="li">4. 除上述情形外，我们不会向其他第三方共享你的信息，法律法规要求或你另行同意的除外。</text>
+
+      <view class="sec-h">五、你的权利</view>
+      <text class="li">1. 你可随时在对话页点击"清空全部对话"删除你的会话记录；</text>
+      <text class="li">2. 你可通过"关于"页的"意见反馈"联系我们，行使查询、更正、删除等权利；</text>
+      <text class="li">3. 你可选择不同意本政策并停止使用本小程序。</text>
+
+      <view class="sec-h">六、未成年人保护</view>
+      <text class="p">若你是未成年人，请在监护人指导下使用本小程序，并在监护人同意后向我们提供个人信息。</text>
+
+      <view class="sec-h">七、政策更新与联系方式</view>
+      <text class="p">本政策可能适时更新，更新后会在本页公示。如对本政策有任何疑问，可通过"关于"页的"意见反馈"与我们联系。</text>
+    </block>
+
+    <!-- 用户协议 -->
+    <block wx:elif="{{tab === 'terms'}}">
+      <view class="doc-title">「向晚问思」用户协议</view>
+      <view class="doc-meta">更新日期：{{updatedAt}}　生效日期：{{updatedAt}}</view>
+
+      <text class="lead">欢迎使用「向晚问思」。在使用本小程序前，请你仔细阅读并充分理解本协议。你使用本小程序即视为已阅读并同意本协议全部内容。</text>
+
+      <view class="sec-h">一、服务说明</view>
+      <text class="li">1. 本小程序是一款思辨辅助工具，知识来源以《论语》《孟子》《道德经》《庄子》《沉思录》《尼各马可伦理学》等 10 本公版经典及本地资料库为基础。</text>
+      <text class="li">2. 本小程序不替你做决定、不自称权威、不虚构语录。回答仅供学习参考，正式引用请以权威版本为准。</text>
+      <text class="li">3. 回答内容由检索与人工智能模型共同生成，可能存在不准确或不完整之处，不构成任何专业建议。</text>
+
+      <view class="sec-h">二、用户行为规范</view>
+      <text class="p">你承诺在使用本小程序时不得：</text>
+      <text class="li">1. 发布或传播违反法律法规、危害国家安全、破坏民族团结、涉及违法违规的内容；</text>
+      <text class="li">2. 发布淫秽、暴力、侮辱、诽谤、骚扰等不良信息；</text>
+      <text class="li">3. 利用本小程序从事任何违法或侵害他人合法权益的行为；</text>
+      <text class="li">4. 以任何技术手段干扰、破坏本小程序的正常运行。</text>
+      <text class="p tip">我们会依法对输入与输出内容进行安全检测；对违规内容将予以拦截，并可能限制相关账号的使用。</text>
+
+      <view class="sec-h">三、知识产权</view>
+      <text class="li">1. 所引用文献的著作权归原著作权人及出版方所有；本小程序仅作学习整理与检索之用。</text>
+      <text class="li">2. 本小程序的界面设计、程序代码等由开发者享有相应权利。</text>
+
+      <view class="sec-h">四、免责声明</view>
+      <text class="li">1. 本小程序按"现状"提供服务，对回答内容的准确性、完整性、时效性不作保证；</text>
+      <text class="li">2. 因不可抗力、网络故障、第三方服务中断等导致的服务暂停或数据丢失，我们在法律允许范围内不承担责任；</text>
+      <text class="li">3. 你因使用本小程序作出的任何决策及其后果，由你自行承担。</text>
+
+      <view class="sec-h">五、协议变更</view>
+      <text class="p">我们可能适时修订本协议，修订后将在本页公示。若你继续使用本小程序，即视为接受修订后的协议。</text>
+
+      <view class="sec-h">六、其他</view>
+      <text class="p">本协议的订立、执行与解释均适用中华人民共和国法律。如有争议，双方应友好协商解决。</text>
+    </block>
+
+    <view class="doc-foot">感谢你的信任与使用。</view>
+  </scroll-view>
+</view>

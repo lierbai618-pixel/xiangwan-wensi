@@ -1,1 +1,36 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIHByb3ZpZGVycy9zZWFyY2gvYmluZy5qcwovLyAgIFBoYXNlIFEyLTHvvJpBenVyZSBCaW5nIFdlYiBTZWFyY2gg5rqQ6aqo5p6277yI5YCZ6YCJ77yM5pyq5ZCv55So77yJ44CCCi8vICAg5Y6f5YiZ77ya5pegIEFQSSBLZXkg4oaSIOeri+WNsyBvazpmYWxzZe+8iOe7neS4jeaKm+W8guW4uO+8jGZhaWwtc29mdO+8ieOAggovLyAgIOecn+Wunua/gOa0u+adoeS7tu+8iOeUseS4iuWxgiBzZWFyY2hMYXllciDmjqfliLbvvInvvJpTRUFSQ0hfUFJPVklERVI9YmluZwovLyAgIOS4lCBGUkVTSE5FU1NfRkFDVFVBTF9FTkFCTEVEPXRydWUg5LiU6YWN572uIEJJTkdfU0VBUkNIX0tFWeOAggovLyAgIOacrOaWh+S7tuS4jeivu+WPliBGUkVTSE5FU1NfRkFDVFVBTF9FTkFCTEVEIOKAlOKAlCDku4XkvZzkuLogcHJvdmlkZXIg5a6e546w6KKr6LCD55So44CCCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQondXNlIHN0cmljdCc7Cgp2YXIgdXRpbCA9IHJlcXVpcmUoJy4vdXRpbCcpOwoKZnVuY3Rpb24gc2VhcmNoKHF1ZXJ5LCBvcHRzLCBub2RlRmV0Y2gpIHsKICB2YXIga2V5ID0gKHByb2Nlc3MuZW52LkJJTkdfU0VBUkNIX0tFWSB8fCAnJykudHJpbSgpOwogIGlmICgha2V5KSB7CiAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKHsgb2s6IGZhbHNlLCBwcm92aWRlcjogJ2JpbmcnLCByZXN1bHRzOiBbXSwgcmVhc29uOiAnbm9fYXBpX2tleScgfSk7CiAgfQogIHZhciBlbmRwb2ludCA9IChwcm9jZXNzLmVudi5CSU5HX1NFQVJDSF9VUkwgfHwgJ2h0dHBzOi8vYXBpLmJpbmcubWljcm9zb2Z0LmNvbS92Ny4wL3NlYXJjaCcpLnRyaW0oKTsKICB2YXIgdXJsID0gZW5kcG9pbnQgKyAnP3E9JyArIGVuY29kZVVSSUNvbXBvbmVudChxdWVyeSkgKyAnJmNvdW50PTUmbWt0PXpoLUNOJzsKICB2YXIgaGVhZGVycyA9IHsgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJywgJ09jcC1BcGltLVN1YnNjcmlwdGlvbi1LZXknOiBrZXkgfTsKCiAgcmV0dXJuIHV0aWwuaHR0cEdldEpzb24obm9kZUZldGNoLCB1cmwsIGhlYWRlcnMsIDgwMDApLnRoZW4oZnVuY3Rpb24gKGRhdGEpIHsKICAgIHZhciByYXcgPSAoZGF0YSAmJiBkYXRhLndlYlBhZ2VzICYmIGRhdGEud2ViUGFnZXMudmFsdWUpIHx8IFtdOwogICAgdmFyIHJlc3VsdHMgPSBbXTsKICAgIGZvciAodmFyIGkgPSAwOyBpIDwgcmF3Lmxlbmd0aCAmJiByZXN1bHRzLmxlbmd0aCA8IDU7IGkrKykgewogICAgICB2YXIgbiA9IHV0aWwubm9ybWFsaXplUmVzdWx0KHJhd1tpXSk7CiAgICAgIGlmIChuKSByZXN1bHRzLnB1c2gobik7CiAgICB9CiAgICBpZiAoIXJlc3VsdHMubGVuZ3RoKSB7CiAgICAgIHJldHVybiB7IG9rOiBmYWxzZSwgcHJvdmlkZXI6ICdiaW5nJywgcmVzdWx0czogW10sIHJlYXNvbjogJ25vX3Jlc3VsdHMnIH07CiAgICB9CiAgICByZXR1cm4geyBvazogdHJ1ZSwgcHJvdmlkZXI6ICdiaW5nJywgcmVzdWx0czogcmVzdWx0cywgcmVhc29uOiAnJyB9OwogIH0pOwp9Cgptb2R1bGUuZXhwb3J0cyA9IHsgc2VhcmNoOiBzZWFyY2ggfTsK
+// ============================================================
+// providers/search/bing.js
+//   Phase Q2-1：Azure Bing Web Search 源骨架（候选，未启用）。
+//   原则：无 API Key → 立即 ok:false（绝不抛异常，fail-soft）。
+//   真实激活条件（由上层 searchLayer 控制）：SEARCH_PROVIDER=bing
+//   且 FRESHNESS_FACTUAL_ENABLED=true 且配置 BING_SEARCH_KEY。
+//   本文件不读取 FRESHNESS_FACTUAL_ENABLED —— 仅作为 provider 实现被调用。
+// ============================================================
+'use strict';
+
+var util = require('./util');
+
+function search(query, opts, nodeFetch) {
+  var key = (process.env.BING_SEARCH_KEY || '').trim();
+  if (!key) {
+    return Promise.resolve({ ok: false, provider: 'bing', results: [], reason: 'no_api_key' });
+  }
+  var endpoint = (process.env.BING_SEARCH_URL || 'https://api.bing.microsoft.com/v7.0/search').trim();
+  var url = endpoint + '?q=' + encodeURIComponent(query) + '&count=5&mkt=zh-CN';
+  var headers = { 'Content-Type': 'application/json', 'Ocp-Apim-Subscription-Key': key };
+
+  return util.httpGetJson(nodeFetch, url, headers, 8000).then(function (data) {
+    var raw = (data && data.webPages && data.webPages.value) || [];
+    var results = [];
+    for (var i = 0; i < raw.length && results.length < 5; i++) {
+      var n = util.normalizeResult(raw[i]);
+      if (n) results.push(n);
+    }
+    if (!results.length) {
+      return { ok: false, provider: 'bing', results: [], reason: 'no_results' };
+    }
+    return { ok: true, provider: 'bing', results: results, reason: '' };
+  });
+}
+
+module.exports = { search: search };

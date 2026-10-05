@@ -1,1 +1,21 @@
-aW1wb3J0IG9zLCBqc29uLCB0aW1lLCB1cmxsaWIucmVxdWVzdCwgdXJsbGliLmVycm9yCmtleSA9IG9zLmVudmlyb24uZ2V0KCJEQVNIU0NPUEVfQVBJX0tFWSIsICIiKQpwcmludCgia2V5X3ByZXNlbnQ6IiwgYm9vbChrZXkpLCAibGVuOiIsIGxlbihrZXkpKQp1cmwgPSAiaHR0cHM6Ly9kYXNoc2NvcGUuYWxpeXVuY3MuY29tL2NvbXBhdGlibGUtbW9kZS92MS9lbWJlZGRpbmdzIgpib2R5ID0ganNvbi5kdW1wcyh7Im1vZGVsIjoidGV4dC1lbWJlZGRpbmctdjMiLCJpbnB1dCI6WyLnoa7orqTlgY/lt67mmK/kuIDnp43orqTnn6XlgY/lt64iXSwiZGltZW5zaW9ucyI6MTAyNCwiZW5jb2RpbmdfZm9ybWF0IjoiZmxvYXQifSkuZW5jb2RlKCJ1dGYtOCIpCnJlcSA9IHVybGxpYi5yZXF1ZXN0LlJlcXVlc3QodXJsLCBkYXRhPWJvZHksIGhlYWRlcnM9eyJBdXRob3JpemF0aW9uIjoiQmVhcmVyICIra2V5LCJDb250ZW50LVR5cGUiOiJhcHBsaWNhdGlvbi9qc29uIn0pCnQwPXRpbWUudGltZSgpCnRyeToKICAgIHdpdGggdXJsbGliLnJlcXVlc3QudXJsb3BlbihyZXEsIHRpbWVvdXQ9MjUpIGFzIHI6CiAgICAgICAgZCA9IGpzb24ubG9hZHMoci5yZWFkKCkuZGVjb2RlKCJ1dGYtOCIpKQogICAgICAgIHZlYyA9IGRbImRhdGEiXVswXVsiZW1iZWRkaW5nIl0KICAgICAgICBwcmludCgiU1RBVFVTOiBPSyIpCiAgICAgICAgcHJpbnQoImRpbToiLCBsZW4odmVjKSkKICAgICAgICBwcmludCgibGF0ZW5jeV9tczoiLCByb3VuZCgodGltZS50aW1lKCktdDApKjEwMDApKQogICAgICAgIHByaW50KCJ1c2FnZToiLCBkLmdldCgidXNhZ2UiKSkKICAgICAgICBwcmludCgiaGVhZDU6IiwgW3JvdW5kKHgsNikgZm9yIHggaW4gdmVjWzo1XV0pCmV4Y2VwdCB1cmxsaWIuZXJyb3IuSFRUUEVycm9yIGFzIGU6CiAgICBwcmludCgiU1RBVFVTOiBIVFRQX0VSUk9SIiwgZS5jb2RlKQogICAgcHJpbnQoZS5yZWFkKCkuZGVjb2RlKCJ1dGYtOCIsICJpZ25vcmUiKVs6NDAwXSkKZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgcHJpbnQoIlNUQVRVUzogRkFJTCIsIHR5cGUoZSkuX19uYW1lX18sIHN0cihlKVs6MzAwXSkK
+import os, json, time, urllib.request, urllib.error
+key = os.environ.get("DASHSCOPE_API_KEY", "")
+print("key_present:", bool(key), "len:", len(key))
+url = "https://dashscope.aliyuncs.com/compatible-mode/v1/embeddings"
+body = json.dumps({"model":"text-embedding-v3","input":["确认偏差是一种认知偏差"],"dimensions":1024,"encoding_format":"float"}).encode("utf-8")
+req = urllib.request.Request(url, data=body, headers={"Authorization":"Bearer "+key,"Content-Type":"application/json"})
+t0=time.time()
+try:
+    with urllib.request.urlopen(req, timeout=25) as r:
+        d = json.loads(r.read().decode("utf-8"))
+        vec = d["data"][0]["embedding"]
+        print("STATUS: OK")
+        print("dim:", len(vec))
+        print("latency_ms:", round((time.time()-t0)*1000))
+        print("usage:", d.get("usage"))
+        print("head5:", [round(x,6) for x in vec[:5]])
+except urllib.error.HTTPError as e:
+    print("STATUS: HTTP_ERROR", e.code)
+    print(e.read().decode("utf-8", "ignore")[:400])
+except Exception as e:
+    print("STATUS: FAIL", type(e).__name__, str(e)[:300])

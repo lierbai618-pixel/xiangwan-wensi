@@ -1,1 +1,101 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIENhcGFiaWxpdHkgTGF5ZXIg4oCUIGZvcm1hdHRlci5qc++8iOWbnuetlOagvOW8j+WMlu+8iQovLyAgIFBoYXNlIFLvvJrlt6Xlhbfnu5Pmnpwg4oaSIOeUqOaIt+WPr+ivu+WbnuetlOOAggovLwovLyAgIOagvOW8j+Wlkee6pu+8iOmhuuW6j+S4jeWPr+mioOWAku+8ie+8mgovLyAgICAg4pGgIOS6i+Wunue7k+aenOS8mOWFiCDigJTigJQg56ys5LiA5Y+l5b+F6aG75piv562U5qGI5pys6Lqr77yM5LiN6ZO65Z6r44CB5LiN5a+S5pqE44CB5LiN6Kej6YeK6L+H56iL44CCCi8vICAgICDikaEg5oCd6L6o6YKA6K+35Y+v6YCJIOKAlOKAlCDkuIDlj6Xor53vvIzlhYvliLbvvIzmsLjov5zmmK/pgoDor7fogIzpnZ7or7TmlZnjgIIKLy8KLy8gICDkuLrku4DkuYjpgoDor7flv4Xpobsi5Y+v6YCJIu+8mgovLyAgICAg55So5oi36ZeuIueOsOWcqOWHoOeCuSLml7bmg7PopoHnmoTmmK/ml7bpl7TjgILnoazloZ7lk7LlrabmmK/lj6bkuIDnp43lvaLlvI/nmoTnrZTpnZ7miYDpl67vvIwKLy8gICAgIOWSjOWOn+adpeeahCBidWcg5bGe5LqO5ZCM5LiA57G76ZSZ6K+v77yI5ou/5Lq65qC86KaG55uW6ZyA5rGC77yJ44CCCi8vICAgICDlm6DmraTop4TliJnmmK/vvJrlj6rmnInkuovlrp7miJDlip/nu5nlh7rlkI7vvIzmiY3lhYHorrjpmYTliqDkuIDlj6XpgoDor7fvvJsKLy8gICAgIOiDveWKm+i+ueeVjOWjsOaYju+8iOafpeS4jeWIsOWkqeawlC/kvY3nva7vvInoh6rluKbmlLblsL7vvIzkuI3lho3ov73liqDvvIzpgb/lhY3or63msJTplJnkvY3jgIIKLy8KLy8gICDmnKzmqKHlnZfkuI3ov5vlhaXnn6Xor4blupPjgIHkuI3ov5vlhaUgZW1iZWRkaW5n44CB5LiN5b2x5ZONIFJBR+OAggovLyAgIOe6r+WHveaVsO+8jOWPr+emu+e6v+WNlea1i+OAggovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KJ3VzZSBzdHJpY3QnOwoKdmFyIElOVklURV9FTkFCTEVEID0gKHByb2Nlc3MuZW52LkNBUEFCSUxJVFlfSU5WSVRFX0VOQUJMRUQgfHwgJ3RydWUnKS50b0xvd2VyQ2FzZSgpICE9PSAnZmFsc2UnOwoKLy8g56Gu5a6a5oCn5oyR6YCJ77yI5ZCM6Zeu5ZCM562U77yM5L6/5LqO5rWL6K+V5LiO5a6h6K6h77yJCmZ1bmN0aW9uIHBpY2soaXRlbXMsIHNlZWQpIHsKICBpZiAoIWl0ZW1zIHx8IGl0ZW1zLmxlbmd0aCA9PT0gMCkgcmV0dXJuICcnOwogIHZhciBoYXNoID0gMDsKICB2YXIgcyA9IChzZWVkIHx8ICcnKS50b1N0cmluZygpOwogIGZvciAodmFyIGkgPSAwOyBpIDwgcy5sZW5ndGg7IGkrKykgaGFzaCA9IChoYXNoICogMzEgKyBzLmNoYXJDb2RlQXQoaSkpID4+PiAwOwogIHJldHVybiBpdGVtc1toYXNoICUgaXRlbXMubGVuZ3RoXTsKfQoKdmFyIElOVklURVMgPSB7CiAgdGltZV9xdWVyeTogWwogICAgJ+WmguaenOS9oOaEv+aEj++8jOaIkeS7rOS5n+WPr+S7peiBiuiBiuaXtumXtOi/meS7tuS6i+acrOi6q+KAlOKAlOWug+S4uuS7gOS5iOaAu+aYr+S4jeWkn+eUqOOAgicsCiAgICAn6aG65bim5LiA5o+Q77ya5aaC5p6c5L2g5q2k5Yi75Zyo5oSP55qE5YW25a6e5LiN5piv5Yeg54K577yM6ICM5pivIuWPiOi/h+WOu+S4gOWkqeS6hiLvvIzmiJHlnKjov5nlhL/jgIInLAogICAgJ+WmguaenOS9oOaDs+eahOivne+8jOaIkeS7rOS5n+WPr+S7peiBiuiBiuS9oOaJk+eul+aAjuS5iOeUqOaOpeS4i+adpeeahOi/meauteaXtumXtOOAgicsCiAgXSwKICAvLyDmt7HlpJwv5YeM5pmo5LiT55So77yI5pe25q615oSf55+l77yM5q+U6YCa55So6YKA6K+35pu06LS05Lq677yJCiAgdGltZV9xdWVyeV9sYXRlOiBbCiAgICAn6L+Z5Liq54K56L+Y6YaS552A77yM5aaC5p6c5LiN5Y+q5piv5p+l5Liq5pe26Ze077yM5oOz6K+054K55LuA5LmI5oiR6YO95Zyo44CCJywKICAgICflpJzmt7HkuobjgILlpoLmnpzkvaDmmK/ooqvku4DkuYjkuovmkpHnnYDmsqHnnaHvvIzlj6/ku6Xor7Tor7TjgIInLAogIF0sCiAgY2FsY3VsYXRpb25fcXVlcnk6IFsKICAgICfnrpfmuIXmpZrkuobjgILlpoLmnpzov5nkuKrmlbDog4zlkI7mmK/kuKrorqnkvaDkuLrpmr7nmoTlhrPlrprvvIzmiJHku6zkuZ/lj6/ku6XogYrogYrmgI7kuYjpgInjgIInLAogICAgJ+aVsOWtl+aYr+i/meagt+OAguimgeaYr+Wug+eJteedgOafkOS7tuS9oOato+WcqOadg+ihoeeahOS6i++8jOWPr+S7peivtOivtOeci+OAgicsCiAgXSwKICB3ZWF0aGVyX3F1ZXJ5OiBbCiAgICAn5aaC5p6c5L2g5YW25a6e5piv5Zyo5oOz6KaB5LiN6KaB5Ye66Zeo6L+Z5Lu25LqL77yM5oiR5Lus5Y+v5Lul6IGK6IGK44CCJywKICBdLAogIGxvY2F0aW9uX3F1ZXJ5OiBbCiAgICAn5aaC5p6c5L2g6Zeu55qE5LiN5Y+q5piv5Zyw55CG5L2N572u77yM5oiR5Zyo6L+Z5YS/44CCJywKICBdLAp9OwoKLy8g5oOF57uq5bm25a2Y5pe255qE5pS25bC+77ya5YWI5o6l5L2P5Lq677yM5YaN6LCI5Yir55qE44CCCi8vIOi/memHjOS4jeiusumBk+eQhuOAgeS4jeW8lee7j+WFuOOAgeS4jei/vemXruKAlOKAlOWPquihqOaYjiLmiJHnnIvop4HkvaDkuoYi44CCCnZhciBFTU9USU9OX0lOVklURVMgPSBbCiAgJ+eci+S9oOi/meS8muWEv+S4jeWkquWlveWPl+OAguimgeaYr+aDs+ivtOivtO+8jOaIkeWcqOOAgicsCiAgJ+WFiOaKiuS6i+Wunue7meS9oOS6huOAguWmguaenOW/g+mHjOmCo+S7tuS6i+abtOmHje+8jOaIkeS7rOWPr+S7peiBiumCo+S4quOAgicsCiAgJ+aXtumXtOS5i+WklueahOmCo+S7tuS6i++8jOWmguaenOS9oOaEv+aEj+iusu+8jOaIkeWQrOedgOOAgicsCl07CgovKioKICogYnVpbGRBbnN3ZXIoeyBjYXBhYmlsaXR5LCBzdWJUeXBlLCBvaywgZmFjdCwgZGF0YSwgcXVlcnkgfSkKICogICDov5Tlm54geyBhbnN3ZXIsIGhhc0ludml0ZSB9CiAqLwpmdW5jdGlvbiBidWlsZEFuc3dlcihpbnB1dCkgewogIGlucHV0ID0gaW5wdXQgfHwge307CiAgdmFyIGZhY3QgPSAoaW5wdXQuZmFjdCB8fCAnJykudG9TdHJpbmcoKS50cmltKCk7CiAgaWYgKCFmYWN0KSByZXR1cm4geyBhbnN3ZXI6ICcnLCBoYXNJbnZpdGU6IGZhbHNlIH07CgogIC8vIOWksei0pSAvIOiDveWKm+i+ueeVjOWjsOaYju+8muaWh+ahiOiHquW4puaUtuWwvu+8jOS4jei/veWKoOmCgOivtwogIGlmICghaW5wdXQub2spIHJldHVybiB7IGFuc3dlcjogZmFjdCwgaGFzSW52aXRlOiBmYWxzZSB9OwogIGlmICghSU5WSVRFX0VOQUJMRUQpIHJldHVybiB7IGFuc3dlcjogZmFjdCwgaGFzSW52aXRlOiBmYWxzZSB9OwoKICB2YXIgaW52aXRlOwogIGlmIChpbnB1dC5lbW90aW9uYWwpIHsKICAgIC8vIOaDhee7quS8mOWFiO+8muS6i+WunueFp+e7me+8jOaUtuWwvuaNouaIkOaDhee7quaJv+aOpe+8iOS4jeivtOaVmeOAgeS4jeW8lee7j+WFuO+8iQogICAgdmFyIHBvb2wgPSBFTU9USU9OX0lOVklURVM7CiAgICBpZiAoaW5wdXQuY2FwYWJpbGl0eSAhPT0gJ3RpbWVfcXVlcnknKSB7CiAgICAgIHBvb2wgPSBbJ+WFiOaKiue7k+aenOe7meS9oOS6huOAguWmguaenOW/g+mHjOmCo+S7tuS6i+abtOmHje+8jOaIkeS7rOWPr+S7peiBiumCo+S4quOAgicsICfnnIvkvaDov5nkvJrlhL/kuI3lpKrlpb3lj5fjgILopoHmmK/mg7Por7Tor7TvvIzmiJHlnKjjgIInXTsKICAgIH0KICAgIGludml0ZSA9IHBpY2socG9vbCwgaW5wdXQucXVlcnkgfHwgZmFjdCk7CiAgfSBlbHNlIHsKICAgIHZhciBrZXkgPSBpbnB1dC5jYXBhYmlsaXR5OwogICAgLy8g5pe25q615oSf55+l77ya5rex5aSc77yIMjM6MDAtMDU6MDDvvInpl67ml7bpl7TvvIzmjaLmm7TotLTkurrnmoTkuIDlj6UKICAgIGlmIChrZXkgPT09ICd0aW1lX3F1ZXJ5JyAmJiBpbnB1dC5kYXRhICYmIHR5cGVvZiBpbnB1dC5kYXRhLmhvdXIgPT09ICdudW1iZXInKSB7CiAgICAgIHZhciBoID0gaW5wdXQuZGF0YS5ob3VyOwogICAgICBpZiAoaCA+PSAyMyB8fCBoIDwgNSkga2V5ID0gJ3RpbWVfcXVlcnlfbGF0ZSc7CiAgICB9CiAgICBpbnZpdGUgPSBwaWNrKElOVklURVNba2V5XSB8fCBbXSwgaW5wdXQucXVlcnkgfHwgZmFjdCk7CiAgfQogIGlmICghaW52aXRlKSByZXR1cm4geyBhbnN3ZXI6IGZhY3QsIGhhc0ludml0ZTogZmFsc2UgfTsKCiAgcmV0dXJuIHsgYW5zd2VyOiBmYWN0ICsgJ1xuXG4nICsgaW52aXRlLCBoYXNJbnZpdGU6IHRydWUgfTsKfQoKbW9kdWxlLmV4cG9ydHMgPSB7CiAgYnVpbGRBbnN3ZXI6IGJ1aWxkQW5zd2VyLAogIElOVklURVM6IElOVklURVMsCiAgRU1PVElPTl9JTlZJVEVTOiBFTU9USU9OX0lOVklURVMsCn07Cg==
+// ============================================================
+// Capability Layer — formatter.js（回答格式化）
+//   Phase R：工具结果 → 用户可读回答。
+//
+//   格式契约（顺序不可颠倒）：
+//     ① 事实结果优先 —— 第一句必须是答案本身，不铺垫、不寒暄、不解释过程。
+//     ② 思辨邀请可选 —— 一句话，克制，永远是邀请而非说教。
+//
+//   为什么邀请必须"可选"：
+//     用户问"现在几点"时想要的是时间。硬塞哲学是另一种形式的答非所问，
+//     和原来的 bug 属于同一类错误（拿人格覆盖需求）。
+//     因此规则是：只有事实成功给出后，才允许附加一句邀请；
+//     能力边界声明（查不到天气/位置）自带收尾，不再追加，避免语气错位。
+//
+//   本模块不进入知识库、不进入 embedding、不影响 RAG。
+//   纯函数，可离线单测。
+// ============================================================
+'use strict';
+
+var INVITE_ENABLED = (process.env.CAPABILITY_INVITE_ENABLED || 'true').toLowerCase() !== 'false';
+
+// 确定性挑选（同问同答，便于测试与审计）
+function pick(items, seed) {
+  if (!items || items.length === 0) return '';
+  var hash = 0;
+  var s = (seed || '').toString();
+  for (var i = 0; i < s.length; i++) hash = (hash * 31 + s.charCodeAt(i)) >>> 0;
+  return items[hash % items.length];
+}
+
+var INVITES = {
+  time_query: [
+    '如果你愿意，我们也可以聊聊时间这件事本身——它为什么总是不够用。',
+    '顺带一提：如果你此刻在意的其实不是几点，而是"又过去一天了"，我在这儿。',
+    '如果你想的话，我们也可以聊聊你打算怎么用接下来的这段时间。',
+  ],
+  // 深夜/凌晨专用（时段感知，比通用邀请更贴人）
+  time_query_late: [
+    '这个点还醒着，如果不只是查个时间，想说点什么我都在。',
+    '夜深了。如果你是被什么事撑着没睡，可以说说。',
+  ],
+  calculation_query: [
+    '算清楚了。如果这个数背后是个让你为难的决定，我们也可以聊聊怎么选。',
+    '数字是这样。要是它牵着某件你正在权衡的事，可以说说看。',
+  ],
+  weather_query: [
+    '如果你其实是在想要不要出门这件事，我们可以聊聊。',
+  ],
+  location_query: [
+    '如果你问的不只是地理位置，我在这儿。',
+  ],
+};
+
+// 情绪并存时的收尾：先接住人，再谈别的。
+// 这里不讲道理、不引经典、不追问——只表明"我看见你了"。
+var EMOTION_INVITES = [
+  '看你这会儿不太好受。要是想说说，我在。',
+  '先把事实给你了。如果心里那件事更重，我们可以聊那个。',
+  '时间之外的那件事，如果你愿意讲，我听着。',
+];
+
+/**
+ * buildAnswer({ capability, subType, ok, fact, data, query })
+ *   返回 { answer, hasInvite }
+ */
+function buildAnswer(input) {
+  input = input || {};
+  var fact = (input.fact || '').toString().trim();
+  if (!fact) return { answer: '', hasInvite: false };
+
+  // 失败 / 能力边界声明：文案自带收尾，不追加邀请
+  if (!input.ok) return { answer: fact, hasInvite: false };
+  if (!INVITE_ENABLED) return { answer: fact, hasInvite: false };
+
+  var invite;
+  if (input.emotional) {
+    // 情绪优先：事实照给，收尾换成情绪承接（不说教、不引经典）
+    var pool = EMOTION_INVITES;
+    if (input.capability !== 'time_query') {
+      pool = ['先把结果给你了。如果心里那件事更重，我们可以聊那个。', '看你这会儿不太好受。要是想说说，我在。'];
+    }
+    invite = pick(pool, input.query || fact);
+  } else {
+    var key = input.capability;
+    // 时段感知：深夜（23:00-05:00）问时间，换更贴人的一句
+    if (key === 'time_query' && input.data && typeof input.data.hour === 'number') {
+      var h = input.data.hour;
+      if (h >= 23 || h < 5) key = 'time_query_late';
+    }
+    invite = pick(INVITES[key] || [], input.query || fact);
+  }
+  if (!invite) return { answer: fact, hasInvite: false };
+
+  return { answer: fact + '\n\n' + invite, hasInvite: true };
+}
+
+module.exports = {
+  buildAnswer: buildAnswer,
+  INVITES: INVITES,
+  EMOTION_INVITES: EMOTION_INVITES,
+};

@@ -1,1 +1,140 @@
-IyBSZWxlYXNlIEd1YXJkaWFuIMK3IFBoYXNlIFArIE9ic2VydmF0aW9uIFdhaXRpbmcgU3RhdGUgQ2xvc3VyZQoKPiAqKkdlbmVyYXRlZCoqOiAyMDI2LTA4LTAyIDE2OjI4IEdNVCs4Cj4gKipSb2xlKio6IFJlbGVhc2UgR3VhcmRpYW4gKyBQcm9kdWN0aW9uIFJlbGlhYmlsaXR5IE9ic2VydmVyICsgQUkgU3lzdGVtIFJlbGlhYmlsaXR5IEF1ZGl0b3IKPiAqKlByaW5jaXBsZSoqOiBPYnNlcnZhdGlvbiBCZWZvcmUgT3B0aW1pemF0aW9uIOKAlCDop4Llr5/jgIHpqozor4HjgIHorrDlvZXjgIHlrqHorqHvvJvkuI3kvJjljJbjgIHkuI3kv67lpI3jgIHkuI3njJzlm6DjgIIKPiAqKlNlc3Npb24qKjogUGhhc2UgUCsgTWFpbnRlbmFuY2UgU2Vzc2lvbiDigJQgQ0xPU0VELCBlbnRlcmluZyBXQUlUSU5HIHN0YXRlLgoKLS0tCgojIyAxLiBGcmVlemUgSW50ZWdyaXR5IOKAlCBQQVNT77yI5pyA57uI6ZSa5a6a77yJCgpgY2xvdWRmdW5jdGlvbnMvY2hhdC9gIOWbm+WGu+e7k+i1hOS6pyBTSEEyNTYg5LiOIE8tMC42IGJhc2VsaW5lICoq6YCQ5a2X6IqC5LiA6Ie0KirjgIIKCnwgQXNzZXQgfCBTSEEyNTYgfCBPLTAuNiB8IFJlc3VsdCB8CnwtLS0tLS0tfC0tLS0tLS0tfC0tLS0tLS18LS0tLS0tLS18CnwgY29ycHVzLmpzb24gfCBgZGIwMWZiYzkyMDY0Y2JlYTNhNjY4OGE5ODE2MGI2YTcwYzllMTUwMjU5YjU0MDYzYzhlMmU5Njk3NGVhYmM4YmAgfCDinJMgfCBQQVNTIHwKfCBpbnRlbnQuanMgfCBgNzY1YWQxMzhlYzY4YzBmMTU5YzZmNzVhNjBlNTI2OGJlYjAyZmJhMTUyZjZkNTNkYmRjNTM5YmExNTYwY2EzOGAgfCDinJMgfCBQQVNTIHwKfCByYWcuanMgfCBgNWIzODBiM2Y3YzY4ZjM3NGUzZDRlNTEyN2JkN2RiZWZmNzQ3ODQ5NDAxY2E5ZDA0ODg0OThkZWNlMTQwODI4NmAgfCDinJMgfCBQQVNTIHwKfCBrbm93bGVkZ2VSb3V0ZXIuanMgfCBgODQ4OTA4NDQ1ZGJiNWVhOTNhNmY1Mjc3NWRjM2M4ZTY5MjJmZjk3MWQ2Y2VlMTE1NTQ3ZjIzNmZmZWQwYTkzNWAgfCDinJMgfCBQQVNTIHwKCioqRmluYWw6IFBBU1MqKiDigJQg5peg6LWE5Lqn5ryC56e744CB5pegIFJvdXRlci9Qcm9tcHQvSW50ZW50L1JBRy9NZXRhZGF0YSDlj5jljJbjgIIKCi0tLQoKIyMgMi4g5b2T5YmN6KeC5a+f54q25oCBIOKAlCBXQUlUSU5HCgp8IOWtl+autSB8IOWAvCB8CnwtLS0tLS18LS0tLS18CnwgQ3VycmVudCBTYW1wbGUgfCAqKjE2KiogfAp8IFRhcmdldCB8ICoqNTAqKiB8CnwgUmVtYWluaW5nIHwgKiorMzQqKiB8CnwgU3RhdHVzIHwgKipXQUlUSU5HIEZPUiBPUkdBTklDIFRSQUZGSUMqKiB8CgoqKuivtOaYjioq77ya5b2T5YmN5qC35pys5YWo6YOo77yIMTYg5p2h77yJ5p2l6IeqIFBoYXNlIFArIOmDqOe9suWQjueahOS6uuW3pS/mtYvor5Xnqpflj6PvvIgwMjozM+KGkjA2OjM0Wu+8ie+8jOacieacuueUqOaIt+a1gemHjyDiiYggMOOAgiszNCDmnaHnvLrlj6MqKuW/hemhuyoq5p2l6Ieq44CM6L+H5a6h5Y+R5biD5ZCO44CN55qE55yf5a6e55So5oi36K+35rGC44CC6KeC5a+f6ICFKirkuI3nlJ/miJDku7vkvZXmtYvor5Xor7fmsYIqKuOAggoKLS0tCgojIyAzLiDlhrvnu5Pln7rnur/vvIhGaXhlZCBCYXNlbGluZe+8iQoK5Lul5LiL5oyH5qCH5LiOIElzc3VlIOeKtuaAgeWcqCBOPTUwIOinpuWPkeWJjSoq5Zu65a6a5bCB5a2YKirvvIzkvZzkuLrkuIvkuIDova7lr7nmr5Tln7rlh4bvvJoKCiMjIyBNZXRyaWNz77yITj0xNu+8iQpgYGAKRmFsbGJhY2sgUmF0ZSA9IDUvMTYgPSAwLjMxMgpDaXRhdGlvbiBSYXRlID0gMTEvMTYgPSAwLjY4OApDb3ZlcmFnZTogICAgICBub25lPTUgLyBjbGFzc2ljPTExIC8gcHN5Y2hvbG9neT0wCkxhdGVuY3k6ICAgICAgIG1lYW49NjQ3MG1zIC8gcDUwPTcwNDdtcyAvIHA5MD04NzI3bXMgLyBwOTU9ODcyN21zIC8gcDk5PTk3MjNtcwpFcnJvcnM6ICAgICAgICAwClBzeWNoIHNpZ25hbDogIDEvMTYgKDYuMjUlLCAxMDAlIG1pc3MsIG49MSkKYGBgCgojIyMgSXNzdWUgUmVnaXN0cnkKYGBgCiMwMDEgUHN5Y2hvbG9neSBSb3V0aW5nIOKAlCBDb25maXJtZWQobm9uLXN5c3RlbWljKQogICAgIFNhbXBsZT0xNiAvIEZyZXE9MS8xNig2LjI1JSkgLyBDb25maWRlbmNlPUxvdyAvIDEwMCUgbWlzcyhuPTEpCiAgICAgUnVsZTog5peg5paw5aKeIHBzeWNoIGV2aWRlbmNlIOKGkiDnpoHmraLljYfnuqfns7vnu5/mgKcKCiMwMDIgbXNnU2VjQ2hlY2sg4oCUIEVzY2FsYXRlZCDihpIgUGhhc2UgUy0wIOeLrOeri+i9qAogICAgIFJ1bGU6IOemgeatouWcqCBQaGFzZSBQKyDkv67lpI0KCiMwMDMgTGF0ZW5jeSBwOTkg4oCUIE9ic2VydmVkICg5NzIzbXMsIFVudmVyaWZpZWQpCiAgICAgUnVsZTog5pegIGluc3RydW1lbnRhdGlvbiDmlbDmja4g4oaSIOemgeatoiBSb290IENhdXNlIENvbmZpcm0KYGBgCgojIyMgTGF0ZW5jeSBSZWxpYWJpbGl0eSBUcmFja++8iEgx4oCTSDUg5YWoIFVudmVyaWZpZWTvvIkKYGBgCkgxIExMTSBQcm92aWRlciAgICAgIOKAlCBVbnZlcmlmaWVkICjmlbDmja7ppaXppb8pCkgyIENGIENvbGQgU3RhcnQgICAgIOKAlCBVbnZlcmlmaWVkICjmlbDmja7ppaXppb8pCkgzIFJldHJpZXZhbCAgICAgICAgIOKAlCBVbnZlcmlmaWVkICjmlbDmja7ppaXppb8pCkg0IE5ldHdvcmsgICAgICAgICAgIOKAlCBVbnZlcmlmaWVkICjmlbDmja7ppaXppb8pCkg1IERhdGFiYXNlICAgICAgICAgIOKAlCBVbnZlcmlmaWVkICjmlbDmja7ppaXppb8pCmBgYApSZWY6IGBkb2NzLzc0LVJlbGlhYmlsaXR5T2JzZXJ2YXRpb24ubWRgCgotLS0KCiMjIDQuIOS4u+WKqOinguWvn+W+queOr+WFs+mXrQoK4pyFICoq5Li75Yqo6KeC5a+f5b6q546v5bey5YWz6ZetKirjgILmnKwgU2Vzc2lvbiDkuI3lho3vvJoKLSDph43lpI3miavmj48gLyDph43lpI3mi4nlj5YgbGl2ZSBsb2dzCi0g6YeN5aSN55Sf5oiQ5oql5ZGKIC8g6YeN5aSN5Yib5bu65paH5qGjCi0g5Lu75L2V5Luj56CB44CB6LWE5Lqn44CB6YWN572u44CBUHJvbXB044CBTWV0YWRhdGHjgIFSb3V0ZXLjgIFSQUfjgIFLbm93bGVkZ2UgT2JqZWN0IOS/ruaUuQotIGluZ2VzdCAvIGVtYmVkZGluZyAvIOiwg+WPgiAvIOS8mOWMliBsYXRlbmN5IC8g5L+u5aSNIElzc3VlCi0gY29tbWl0IC8gcHVibGlzaCAvIOi/m+WFpSBQaGFzZSBRCgoqKumHjeWQr+adoeS7tu+8iOWUr+S4gO+8iSoq77yaYG9ic2VydmFiaWxpdHlfbG9ncyA+PSA1MGAg55yf5a6e55Sf5Lqn5qC35pys5Ye6546w44CCCgotLS0KCiMjIDUuIOS4i+S4gOinpuWPkeadoeS7tu+8iE49NTAgRmluYWwgUmV2aWV377yJCgrlvZMgYG9ic2VydmFiaWxpdHlfbG9ncyA+PSA1MGAg5pe277yM5pys6KeS6Imy5bCGKirph43lkK/op4Llr5/lvqrnjq8qKuW5tuaJp+ihjO+8mgoKKipSZWxlYXNlIEd1YXJkaWFuIMK3IFBoYXNlIFArIE49NTAgRmluYWwgT2JzZXJ2YXRpb24gUmV2aWV3KioK4oaSIOeUn+aIkCBgZG9jcy9QaGFzZVArLU41MC1GaW5hbE9ic2VydmF0aW9uUmV2aWV3Lm1kYAoKMTIg6IqC5YaF5a6577yaCjEuIEZyZWV6ZSBJbnRlZ3JpdHkKMi4gU2FtcGxlIEdyb3d0aCAoTj0xNiDihpIgTj01MCkKMy4gTj0xNiDihpIgTj01MCBNZXRyaWNzIENvbXBhcmlzb24KNC4gRmFsbGJhY2sgVHJlbmQKNS4gQ2l0YXRpb24gVHJlbmQKNi4gQ292ZXJhZ2UgRXZvbHV0aW9uCjcuIExhdGVuY3kgRXZvbHV0aW9uCjguIElzc3VlIFJlZ2lzdHJ5IEV2b2x1dGlvbgo5LiBSZWxpYWJpbGl0eSBUcmFjayBVcGRhdGUKMTAuIFJpc2sgU3VtbWFyeQoxMS4gUGhhc2UgUSBHYXRlIFByZXZpZXcKMTIuIEZpbmFsIERlY2lzaW9uCgotLS0KCiMjIDYuIFBoYXNlIFEg5b2T5YmN54q25oCBIOKAlCBCTE9DS0VECgpgYGAKQUxMT1dfUEhBU0VfUSA9IEZBTFNFCgpBIFNhbXBsZSA+PSAxMDAgICAgICAgIOKGkiBGQUlMICAoMTYpCkIgUmVsaWFiaWxpdHkgRXZpZGVuY2Ug4oaSIEZBSUwgICjmlbDmja7ppaXppb8sIEgxLUg1IOWFqCBVbnZlcmlmaWVkKQpDIEFEUiBjb21wbGV0ZWQgICAgICAgIOKGkiBGQUlMICAo5pegKQpEIEZyZWV6ZSBJbnRlZ3JpdHkgICAgIOKGkiBQQVNTCgrihpIgQkxPQ0tFRApgYGAKCi0tLQoKIyMgSSBjb25maXJtCgpgYGAKTm8gY29kZSBjaGFuZ2VkLgpObyBhc3NldHMgY2hhbmdlZC4KTm8gb3B0aW1pemF0aW9uIHBlcmZvcm1lZC4KTm8gUGhhc2UgUSBlbnRlcmVkLgpPYnNlcnZhdGlvbiBjbG9zZWQuCldhaXRpbmcgZm9yIG9yZ2FuaWMgdHJhZmZpYy4KYGBgCgotLS0KKlBoYXNlIFArIE1haW50ZW5hbmNlIFNlc3Npb24g57uT5p2f44CC5LiL5qyh5LuL5YWl5p2h5Lu277ya55Sf5Lqn5pel5b+X6L6+5YiwIE4+PTUw44CCKgo=
+﻿# Release Guardian · Phase P+ Observation Waiting State Closure
+
+> **Generated**: 2026-08-02 16:28 GMT+8
+> **Role**: Release Guardian + Production Reliability Observer + AI System Reliability Auditor
+> **Principle**: Observation Before Optimization — 观察、验证、记录、审计；不优化、不修复、不猜因。
+> **Session**: Phase P+ Maintenance Session — CLOSED, entering WAITING state.
+
+---
+
+## 1. Freeze Integrity — PASS（最终锚定）
+
+`cloudfunctions/chat/` 四冻结资产 SHA256 与 O-0.6 baseline **逐字节一致**。
+
+| Asset | SHA256 | O-0.6 | Result |
+|-------|--------|-------|--------|
+| corpus.json | `db01fbc92064cbea3a6688a98160b6a70c9e150259b54063c8e2e96974eabc8b` | ✓ | PASS |
+| intent.js | `765ad138ec68c0f159c6f75a60e5268beb02fba152f6d53dbdc539ba1560ca38` | ✓ | PASS |
+| rag.js | `5b380b3f7c68f374e3d4e5127bd7dbeff747849401ca9d0488498dece1408286` | ✓ | PASS |
+| knowledgeRouter.js | `848908445dbb5ea93a6f52775dc3c8e6922ff971d6cee115547f236ffed0a935` | ✓ | PASS |
+
+**Final: PASS** — 无资产漂移、无 Router/Prompt/Intent/RAG/Metadata 变化。
+
+---
+
+## 2. 当前观察状态 — WAITING
+
+| 字段 | 值 |
+|------|-----|
+| Current Sample | **16** |
+| Target | **50** |
+| Remaining | **+34** |
+| Status | **WAITING FOR ORGANIC TRAFFIC** |
+
+**说明**：当前样本全部（16 条）来自 Phase P+ 部署后的人工/测试窗口（02:33→06:34Z），有机用户流量 ≈ 0。+34 条缺口**必须**来自「过审发布后」的真实用户请求。观察者**不生成任何测试请求**。
+
+---
+
+## 3. 冻结基线（Fixed Baseline）
+
+以下指标与 Issue 状态在 N=50 触发前**固定封存**，作为下一轮对比基准：
+
+### Metrics（N=16）
+```
+Fallback Rate = 5/16 = 0.312
+Citation Rate = 11/16 = 0.688
+Coverage:      none=5 / classic=11 / psychology=0
+Latency:       mean=6470ms / p50=7047ms / p90=8727ms / p95=8727ms / p99=9723ms
+Errors:        0
+Psych signal:  1/16 (6.25%, 100% miss, n=1)
+```
+
+### Issue Registry
+```
+#001 Psychology Routing — Confirmed(non-systemic)
+     Sample=16 / Freq=1/16(6.25%) / Confidence=Low / 100% miss(n=1)
+     Rule: 无新增 psych evidence → 禁止升级系统性
+
+#002 msgSecCheck — Escalated → Phase S-0 独立轨
+     Rule: 禁止在 Phase P+ 修复
+
+#003 Latency p99 — Observed (9723ms, Unverified)
+     Rule: 无 instrumentation 数据 → 禁止 Root Cause Confirm
+```
+
+### Latency Reliability Track（H1–H5 全 Unverified）
+```
+H1 LLM Provider      — Unverified (数据饥饿)
+H2 CF Cold Start     — Unverified (数据饥饿)
+H3 Retrieval         — Unverified (数据饥饿)
+H4 Network           — Unverified (数据饥饿)
+H5 Database          — Unverified (数据饥饿)
+```
+Ref: `docs/74-ReliabilityObservation.md`
+
+---
+
+## 4. 主动观察循环关闭
+
+✅ **主动观察循环已关闭**。本 Session 不再：
+- 重复扫描 / 重复拉取 live logs
+- 重复生成报告 / 重复创建文档
+- 任何代码、资产、配置、Prompt、Metadata、Router、RAG、Knowledge Object 修改
+- ingest / embedding / 调参 / 优化 latency / 修复 Issue
+- commit / publish / 进入 Phase Q
+
+**重启条件（唯一）**：`observability_logs >= 50` 真实生产样本出现。
+
+---
+
+## 5. 下一触发条件（N=50 Final Review）
+
+当 `observability_logs >= 50` 时，本角色将**重启观察循环**并执行：
+
+**Release Guardian · Phase P+ N=50 Final Observation Review**
+→ 生成 `docs/PhaseP+-N50-FinalObservationReview.md`
+
+12 节内容：
+1. Freeze Integrity
+2. Sample Growth (N=16 → N=50)
+3. N=16 → N=50 Metrics Comparison
+4. Fallback Trend
+5. Citation Trend
+6. Coverage Evolution
+7. Latency Evolution
+8. Issue Registry Evolution
+9. Reliability Track Update
+10. Risk Summary
+11. Phase Q Gate Preview
+12. Final Decision
+
+---
+
+## 6. Phase Q 当前状态 — BLOCKED
+
+```
+ALLOW_PHASE_Q = FALSE
+
+A Sample >= 100        → FAIL  (16)
+B Reliability Evidence → FAIL  (数据饥饿, H1-H5 全 Unverified)
+C ADR completed        → FAIL  (无)
+D Freeze Integrity     → PASS
+
+→ BLOCKED
+```
+
+---
+
+## I confirm
+
+```
+No code changed.
+No assets changed.
+No optimization performed.
+No Phase Q entered.
+Observation closed.
+Waiting for organic traffic.
+```
+
+---
+*Phase P+ Maintenance Session 结束。下次介入条件：生产日志达到 N>=50。*

@@ -1,1 +1,41 @@
-Ly8g5ZCR5pma6Zeu5oCdIC0g5bCP56iL5bqP5YWl5Y+jCi8vIOWIneWni+WMluW+ruS/oeS6keW8gOWPkeOAguS9v+eUqCBEWU5BTUlDX0NVUlJFTlRfRU5WIOWPr+iHquWKqOaMh+WQkeW9k+WJjeS6keeOr+Wig++8jAovLyDml6DpnIDmiYvliqjloavlhpnnjq/looMgSUTvvIjml6DorrrotKblj7fkuIvmnInlh6DkuKrnjq/looPpg73og73mraPnoa7ot6/nlLHvvInjgIIKQXBwKHsKICBnbG9iYWxEYXRhOiB7CiAgICBvcGVuaWQ6ICIiLCAvLyDlvZPliY3nlKjmiLfljL/lkI3moIfor4bvvIjmnaXoh6ogY2hhdCDkupHlh73mlbAgZ2V0V1hDb250ZXh0KCkuT1BFTklE77yJCiAgfSwKCiAgb25MYXVuY2goKSB7CiAgICBpZiAoIXd4LmNsb3VkKSB7CiAgICAgIGNvbnNvbGUuZXJyb3IoIuW9k+WJjeWfuuehgOW6k+S4jeaUr+aMgeS6keW8gOWPke+8jOivt+S9v+eUqCAyLjIuMyDmiJbku6XkuIrnmoTln7rnoYDlupMiKTsKICAgICAgcmV0dXJuOwogICAgfQogICAgd3guY2xvdWQuaW5pdCh7CiAgICAgIGVudjogd3guY2xvdWQuRFlOQU1JQ19DVVJSRU5UX0VOViwKICAgICAgdHJhY2VVc2VyOiB0cnVlLAogICAgfSk7CiAgICB0aGlzLmxvZ2luKCk7CiAgfSwKCiAgLy8g6L2755m75b2V77ya5LiN5by55o6I5p2D44CB5LiN5ou/5aS05YOP5pi156ew77yM5Y+q55SoIG9wZW5pZCDlgZrnlKjmiLfnu7TluqbljLrliIbjgIIKICAvLyDosIPkuJPpl6jnmoQgbG9naW4g5LqR5Ye95pWw5Y+WIE9QRU5JRO+8iOWPluiHquS6keS4iuS4i+aWh++8jOWuouaIt+err+aXoOazleS8qumAoO+8ie+8jOWJjeerr+e8k+WtmOWIsOacrOWcsOOAggogIGxvZ2luKCkgewogICAgY29uc3QgY2FjaGVkID0gd3guZ2V0U3RvcmFnZVN5bmMoIm9wZW5pZCIpOwogICAgaWYgKGNhY2hlZCkgewogICAgICB0aGlzLmdsb2JhbERhdGEub3BlbmlkID0gY2FjaGVkOwogICAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKGNhY2hlZCk7CiAgICB9CiAgICByZXR1cm4gd3guY2xvdWQKICAgICAgLmNhbGxGdW5jdGlvbih7IG5hbWU6ICJsb2dpbiIsIGRhdGE6IHt9IH0pCiAgICAgIC50aGVuKChyZXMpID0+IHsKICAgICAgICBjb25zdCBvcGVuaWQgPSAocmVzICYmIHJlcy5yZXN1bHQgJiYgcmVzLnJlc3VsdC5vcGVuaWQpIHx8ICIiOwogICAgICAgIGlmIChvcGVuaWQpIHsKICAgICAgICAgIHRoaXMuZ2xvYmFsRGF0YS5vcGVuaWQgPSBvcGVuaWQ7CiAgICAgICAgICB3eC5zZXRTdG9yYWdlU3luYygib3BlbmlkIiwgb3BlbmlkKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIG9wZW5pZDsKICAgICAgfSkKICAgICAgLmNhdGNoKCgpID0+ICIiKTsKICB9LAp9KTsK
+// 向晚问思 - 小程序入口
+// 初始化微信云开发。使用 DYNAMIC_CURRENT_ENV 可自动指向当前云环境，
+// 无需手动填写环境 ID（无论账号下有几个环境都能正确路由）。
+App({
+  globalData: {
+    openid: "", // 当前用户匿名标识（来自 chat 云函数 getWXContext().OPENID）
+  },
+
+  onLaunch() {
+    if (!wx.cloud) {
+      console.error("当前基础库不支持云开发，请使用 2.2.3 或以上的基础库");
+      return;
+    }
+    wx.cloud.init({
+      env: wx.cloud.DYNAMIC_CURRENT_ENV,
+      traceUser: true,
+    });
+    this.login();
+  },
+
+  // 轻登录：不弹授权、不拿头像昵称，只用 openid 做用户维度区分。
+  // 调专门的 login 云函数取 OPENID（取自云上下文，客户端无法伪造），前端缓存到本地。
+  login() {
+    const cached = wx.getStorageSync("openid");
+    if (cached) {
+      this.globalData.openid = cached;
+      return Promise.resolve(cached);
+    }
+    return wx.cloud
+      .callFunction({ name: "login", data: {} })
+      .then((res) => {
+        const openid = (res && res.result && res.result.openid) || "";
+        if (openid) {
+          this.globalData.openid = openid;
+          wx.setStorageSync("openid", openid);
+        }
+        return openid;
+      })
+      .catch(() => "");
+  },
+});

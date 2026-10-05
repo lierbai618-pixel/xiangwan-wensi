@@ -1,1 +1,76 @@
-ewogICJlbnZJZCI6ICJZT1VSX0NMT1VEX0VOVl9JRCIsCiAgImZ1bmN0aW9uUm9vdCI6ICJjbG91ZGZ1bmN0aW9ucyIsCiAgImZ1bmN0aW9ucyI6IFsKICAgIHsKICAgICAgIm5hbWUiOiAiY2hhdCIsCiAgICAgICJ0aW1lb3V0IjogNjAsCiAgICAgICJtZW1vcnlTaXplIjogNTEyLAogICAgICAicnVudGltZSI6ICJOb2RlanMxNi4xMyIsCiAgICAgICJ0cmlnZ2VycyI6IFsKICAgICAgICB7CiAgICAgICAgICAibmFtZSI6ICJrZWVwd2FybSIsCiAgICAgICAgICAidHlwZSI6ICJ0aW1lciIsCiAgICAgICAgICAiY29uZmlnIjogIjAgKi8xICogKiAqICogKiIKICAgICAgICB9CiAgICAgIF0sCiAgICAgICJlbnZWYXJpYWJsZXMiOiB7CiAgICAgICAgIkFETUlOX09QRU5JRCI6ICJZT1VSX0FETUlOX09QRU5JRCIsCiAgICAgICAgIktOT1dMRURHRV9PQlNFUlZBQklMSVRZX1NUT1JFIjogImNsb3VkIiwKICAgICAgICAiRlJFU0hORVNTX0VOQUJMRUQiOiAiZmFsc2UiLAogICAgICAgICJGUkVTSE5FU1NfRkFDVFVBTF9FTkFCTEVEIjogImZhbHNlIiwKICAgICAgICAiU0VBUkNIX1BST1ZJREVSIjogIm1vY2siLAogICAgICAgICJQUklWQUNZX0dBVEVfRU5BQkxFRCI6ICJ0cnVlIiwKICAgICAgICAiU0VBUkNIX0NBTkFSWV9FTkFCTEVEIjogImZhbHNlIiwKICAgICAgICAiU0VBUkNIX0NBTkFSWV9PUEVOSURTIjogIllPVVJfQURNSU5fT1BFTklEIiwKICAgICAgICAiU0VBUkNIX01BWF9SRVNVTFRTIjogIjUiLAogICAgICAgICJTRUFSQ0hfVElNRU9VVF9NUyI6ICIxMjAwMCIsCiAgICAgICAgIlNFQVJDSF9SRVRSWSI6ICIxIiwKICAgICAgICAiU0VBUkNIX0RBSUxZX1FVT1RBIjogIjUwMCIsCiAgICAgICAgIlFXRU5fU0VBUkNIX0JBU0VfVVJMIjogImh0dHBzOi8vZGFzaHNjb3BlLmFsaXl1bmNzLmNvbS9jb21wYXRpYmxlLW1vZGUvdjEiLAogICAgICAgICJRV0VOX1NFQVJDSF9BUElfS0VZIjogInNrLVlPVVJfQVBJX0tFWV9IRVJFIiwKICAgICAgICAiUVdFTl9TRUFSQ0hfTU9ERUwiOiAicXdlbi1tYXgiLAogICAgICAgICJRV0VOX1NFQVJDSF9TWU5USF9NT0RFIjogInRydWUiLAogICAgICAgICJRV0VOX1BMVVNfRU5BQkxFRCI6ICJmYWxzZSIsCiAgICAgICAgIlFXRU5fUExVU19CQVNFX1VSTCI6ICJodHRwczovL2Rhc2hzY29wZS5hbGl5dW5jcy5jb20vY29tcGF0aWJsZS1tb2RlL3YxIiwKICAgICAgICAiUVdFTl9QTFVTX0FQSV9LRVkiOiAic2stWU9VUl9BUElfS0VZX0hFUkUiLAogICAgICAgICJRV0VOX1BMVVNfTU9ERUwiOiAicXdlbi1wbHVzIiwKICAgICAgICAiUVdFTl9QTFVTX1RJTUVPVVRfTVMiOiAiMTUwMDAiLAogICAgICAgICJLQl9NT0RFIjogImtiIgogICAgICB9CiAgICB9LAogICAgewogICAgICAibmFtZSI6ICJsb2dpbiIsCiAgICAgICJ0aW1lb3V0IjogMTAsCiAgICAgICJtZW1vcnlTaXplIjogMTI4LAogICAgICAicnVudGltZSI6ICJOb2RlanMxNi4xMyIKICAgIH0sCiAgICB7CiAgICAgICJuYW1lIjogImhpc3RvcnkiLAogICAgICAidGltZW91dCI6IDIwLAogICAgICAibWVtb3J5U2l6ZSI6IDI1NiwKICAgICAgInJ1bnRpbWUiOiAiTm9kZWpzMTYuMTMiCiAgICB9LAogICAgewogICAgICAibmFtZSI6ICJhZG1pbiIsCiAgICAgICJ0aW1lb3V0IjogNjAsCiAgICAgICJtZW1vcnlTaXplIjogMjU2LAogICAgICAicnVudGltZSI6ICJOb2RlanMxNi4xMyIsCiAgICAgICJlbnZWYXJpYWJsZXMiOiB7CiAgICAgICAgIkFETUlOX09QRU5JRCI6ICJZT1VSX0FETUlOX09QRU5JRCIKICAgICAgfQogICAgfSwKICAgIHsKICAgICAgIm5hbWUiOiAiaW5nZXN0IiwKICAgICAgInRpbWVvdXQiOiAzMCwKICAgICAgIm1lbW9yeVNpemUiOiAyNTYsCiAgICAgICJydW50aW1lIjogIk5vZGVqczE2LjEzIgogICAgfSwKICAgIHsKICAgICAgIm5hbWUiOiAiZmVlZGJhY2siLAogICAgICAidGltZW91dCI6IDEwLAogICAgICAibWVtb3J5U2l6ZSI6IDEyOCwKICAgICAgInJ1bnRpbWUiOiAiTm9kZWpzMTYuMTMiCiAgICB9CiAgXQp9Cg==
+{
+  "envId": "YOUR_CLOUD_ENV_ID",
+  "functionRoot": "cloudfunctions",
+  "functions": [
+    {
+      "name": "chat",
+      "timeout": 60,
+      "memorySize": 512,
+      "runtime": "Nodejs16.13",
+      "triggers": [
+        {
+          "name": "keepwarm",
+          "type": "timer",
+          "config": "0 */1 * * * * *"
+        }
+      ],
+      "envVariables": {
+        "ADMIN_OPENID": "YOUR_ADMIN_OPENID",
+        "KNOWLEDGE_OBSERVABILITY_STORE": "cloud",
+        "FRESHNESS_ENABLED": "false",
+        "FRESHNESS_FACTUAL_ENABLED": "false",
+        "SEARCH_PROVIDER": "mock",
+        "PRIVACY_GATE_ENABLED": "true",
+        "SEARCH_CANARY_ENABLED": "false",
+        "SEARCH_CANARY_OPENIDS": "YOUR_ADMIN_OPENID",
+        "SEARCH_MAX_RESULTS": "5",
+        "SEARCH_TIMEOUT_MS": "12000",
+        "SEARCH_RETRY": "1",
+        "SEARCH_DAILY_QUOTA": "500",
+        "QWEN_SEARCH_BASE_URL": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+        "QWEN_SEARCH_API_KEY": "sk-YOUR_API_KEY_HERE",
+        "QWEN_SEARCH_MODEL": "qwen-max",
+        "QWEN_SEARCH_SYNTH_MODE": "true",
+        "QWEN_PLUS_ENABLED": "false",
+        "QWEN_PLUS_BASE_URL": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+        "QWEN_PLUS_API_KEY": "sk-YOUR_API_KEY_HERE",
+        "QWEN_PLUS_MODEL": "qwen-plus",
+        "QWEN_PLUS_TIMEOUT_MS": "15000",
+        "KB_MODE": "kb"
+      }
+    },
+    {
+      "name": "login",
+      "timeout": 10,
+      "memorySize": 128,
+      "runtime": "Nodejs16.13"
+    },
+    {
+      "name": "history",
+      "timeout": 20,
+      "memorySize": 256,
+      "runtime": "Nodejs16.13"
+    },
+    {
+      "name": "admin",
+      "timeout": 60,
+      "memorySize": 256,
+      "runtime": "Nodejs16.13",
+      "envVariables": {
+        "ADMIN_OPENID": "YOUR_ADMIN_OPENID"
+      }
+    },
+    {
+      "name": "ingest",
+      "timeout": 30,
+      "memorySize": 256,
+      "runtime": "Nodejs16.13"
+    },
+    {
+      "name": "feedback",
+      "timeout": 10,
+      "memorySize": 128,
+      "runtime": "Nodejs16.13"
+    }
+  ]
+}

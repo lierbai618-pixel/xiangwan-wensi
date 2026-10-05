@@ -1,1 +1,108 @@
-Ly8g55+l6K+G5bqT6IGU6LCD6ISa5pys77yIUDAg5pS25bC+IMK3IOWGheWuueaXoOWFs+eahOe6r+W3peeoi+mqjOivge+8iQovLyDpqozor4HojIPlm7TvvJoKLy8gICBbQV0gTGVnYWN5IOaooeW8jyBlbmQtdG8tZW5kIOajgOe0ou+8iOecn+WuniBjb3JwdXMuanNvbu+8jOaXoOS6keWHreivgeWPr+i3ke+8iQovLyAgIFtCXSBLQiByYW5rQ2h1bmtzIOaOkuW6j+mAu+i+ke+8iOeUqOWQiOaIkCBjaHVua3Mg5aS55YW36aqM6K+B77yM5peg6ZyA5LqR77yJCi8vICAgW0NdIEtCIOaooeW8j+WbnumAgO+8muaXoOS6keWHreivgeaXtuiHquWKqOWbnumAgCBsZWdhY3nvvIzkuI3ltKnmuoMKLy8gICBbRF0gaW5nZXN0LnNwbGl0Q2h1bmtzIOWNleWFg++8mlBhcmVudC9DaGlsZCDkuqflh7ogKyDlhbPogZTmraPnoa4KLy8g5LiN5L+u5pS55Lu75L2V55Sf5Lqn5Luj56CB77yM5LiN5byV5YWlIGVtYmVkZGluZ++8jOS4jeaUueWPmCBsZWdhY3kg6KGM5Li644CCCmNvbnN0IHBhdGggPSByZXF1aXJlKCJwYXRoIik7CmNvbnN0IGZzID0gcmVxdWlyZSgiZnMiKTsKCmNvbnN0IFJBRyA9IHJlcXVpcmUocGF0aC5qb2luKF9fZGlybmFtZSwgIi4uIiwgImNsb3VkZnVuY3Rpb25zIiwgImNoYXQiLCAicmFnLmpzIikpOwpjb25zdCB7IHNwbGl0Q2h1bmtzIH0gPSByZXF1aXJlKHBhdGguam9pbihfX2Rpcm5hbWUsICIuLiIsICJjbG91ZGZ1bmN0aW9ucyIsICJpbmdlc3QiLCAiaW5kZXguanMiKSk7Cgpjb25zdCBxdWVzdGlvbnNQYXRoID0gcGF0aC5qb2luKF9fZGlybmFtZSwgIi4uIiwgInRlc3RzIiwgInF1ZXN0aW9ucy5qc29uIik7CmNvbnN0IHF1ZXN0aW9ucyA9IEpTT04ucGFyc2UoZnMucmVhZEZpbGVTeW5jKHF1ZXN0aW9uc1BhdGgsICJ1dGYtOCIpKS5xdWVzdGlvbnMgfHwgW107CgpmdW5jdGlvbiBwcmludENpdGF0aW9ucyhjaXRhdGlvbnMpIHsKICByZXR1cm4gKGNpdGF0aW9ucyB8fCBbXSkubWFwKChjLCBpKSA9PiB7CiAgICBjb25zdCBjaXRlID0gYy5jaXRhdGlvbiB8fCB7fTsKICAgIHJldHVybiBgICAgICBbJHtpICsgMX1dICR7Yy50aXRsZSB8fCAiPyJ9IHwgZGlzcGxheT0iJHtjaXRlLmRpc3BsYXlfdGV4dCB8fCAiIn0iIHwgcG9zPSIke2NpdGUuc291cmNlX3Bvc2l0aW9uIHx8ICIifSIgfCBzY29yZT0keyhjLnNjb3JlIHx8IDApLnRvRml4ZWQoMil9YDsKICB9KS5qb2luKCJcbiIpOwp9CgpsZXQgcGFzcyA9IDA7CmxldCBmYWlsID0gMDsKZnVuY3Rpb24gY2hlY2sobmFtZSwgY29uZCkgewogIGlmIChjb25kKSB7CiAgICBwYXNzKys7CiAgICBjb25zb2xlLmxvZygiICAg4pyTICIgKyBuYW1lKTsKICB9IGVsc2UgewogICAgZmFpbCsrOwogICAgY29uc29sZS5sb2coIiAgIOKclyAiICsgbmFtZSk7CiAgfQp9Cgphc3luYyBmdW5jdGlvbiBtYWluKCkgewogIGNvbnNvbGUubG9nKCI9PT0gUDAg55+l6K+G5bqT6IGU6LCD77yI57qvIE5vZGXvvIzml6DkupHlh63or4HvvIk9PT1cbiIpOwoKICAvLyBbQV0gTGVnYWN5IOaooeW8jyBlbmQtdG8tZW5kCiAgY29uc29sZS5sb2coIltBXSBMZWdhY3kg5qih5byP5qOA57Si77yI6buY6K6k77yM5peg5LqR77yJ4oCUIOmqjOivgeaXp+aOpeWPo+S4jeiiq+egtOWdjyIpOwogIGxldCBsZWdhY3lBbGxPayA9IHRydWU7CiAgZm9yIChjb25zdCBxIG9mIHF1ZXN0aW9ucykgewogICAgY29uc3QgciA9IGF3YWl0IFJBRy5nZW5lcmF0ZUFuc3dlcihxLnF1ZXJ5LCB7IHR1cm46IDAsIG1vZGVsczogW10gfSk7CiAgICBjb25zdCBvayA9IHIgJiYgQXJyYXkuaXNBcnJheShyLmNpdGF0aW9ucykgJiYgci5jaXRhdGlvbnMubGVuZ3RoID4gMDsKICAgIGlmICghb2spIGxlZ2FjeUFsbE9rID0gZmFsc2U7CiAgICBjaGVjayhgIiR7cS5xdWVyeS5zbGljZSgwLCAxNCl94oCmIiDov5Tlm57iiaUx5byV55SoYCwgb2spOwogICAgaWYgKG9rKSB7CiAgICAgIGNvbnNvbGUubG9nKGAgICDpl67popg6ICR7cS5xdWVyeX1gKTsKICAgICAgY29uc29sZS5sb2coYCAgIOaooeW8jz0ke3IubW9kZX0gfCDlvJXnlKjmlbA9JHtyLmNpdGF0aW9ucy5sZW5ndGh9IHwgcXVlcnlUZXJtcz0keyhyLnJldHJpZXZhbCAmJiByLnJldHJpZXZhbC5xdWVyeVRlcm1zIHx8IFtdKS5sZW5ndGh9IHwgbWluU2NvcmU9JHsoci5yZXRyaWV2YWwgJiYgci5yZXRyaWV2YWwubWluU2NvcmUpfWApOwogICAgICBjb25zb2xlLmxvZyhwcmludENpdGF0aW9ucyhyLmNpdGF0aW9ucykpOwogICAgICAvLyBsZWdhY3kg5qih5byP6L+U5Zue5paH5qGj57qn5byV55So77yIdGl0bGUvc291cmNlL3RleHQvc3VtbWFyeS90YWdz77yJ77yM5LiN5ZCrIGNodW5rIOe6pyBjaXRhdGlvbiDkv6HlsIHjgIIKICAgICAgLy8gS0Ig5qih5byP55qEIGNodW5rIOe6pyBjaXRhdGlvbiDkv6HlsIEoZGlzcGxheV90ZXh0L3NvdXJjZV9wb3NpdGlvbi92ZXJpZmllZCkg5ZyoIFtCXSDljZXni6zpqozor4HjgIIKICAgICAgY29uc3QgY2l0ZU9rID0gci5jaXRhdGlvbnMuZXZlcnkoKGMpID0+IGMudGl0bGUgJiYgdHlwZW9mIGMuc291cmNlICE9PSAidW5kZWZpbmVkIiAmJiBjLnRleHQpOwogICAgICBjaGVjayhgICAg4pSUIOW8leeUqOWtl+auteWujOaVtChsZWdhY3k6IHRpdGxlL3NvdXJjZS90ZXh0KWAsIGNpdGVPayk7CiAgICB9CiAgfQoKICAvLyBbQl0gS0IgcmFua0NodW5rcyDpgLvovpHvvIjlkIjmiJDlpLnlhbfvvIkKICBjb25zb2xlLmxvZygiXG5bQl0gS0IgcmFua0NodW5rcyDpgLvovpHvvIjlkIjmiJAgY2h1bmtzIOWkueWFt++8jOaXoOS6ke+8ieKAlCDpqozor4HmlrDnn6Xor4blupPmjpLluo/kuI7lvJXnlKjnu5PmnoQiKTsKICBjb25zdCBmaXh0dXJlID0gIiMg56S65L6L5paH5qGjXG7lpoLkvZXmiorlpKfku7vliqHmi4bmiJDlsI/mraXpqqTjgILlhYjliJfmuIXljZXvvIzlho3mjInkvJjlhYjnuqfmjpLluo/vvIzmr4/lpKnlj6rlgZrliY3kuInku7bjgIJcbuiwg+afpeiDveW4ruWKqeWIpOaWreOAguS/oeaBr+S4jei2s+aXtuS4jeimgeaApeedgOS4i+e7k+iuuu+8jOWFiOaUtumbhuS6i+WunuWGjeWIhuaekOOAglxu6YGH5Yiw5oyr5oqY5pe277yM5YWI5oqK6Zeu6aKY5ouG5bCP77yM5YaN5om+5LiA5Lu26IO956uL5Yi75YGa55qE5bCP5LqL44CCIjsKICBjb25zdCBjaHVua3MgPSBzcGxpdENodW5rcyhmaXh0dXJlLCB7IHRpdGxlOiAi56S65L6L5paH5qGjIiwgeWVhcjogIjIwMjQiLCBzb3VyY2U6ICLmtYvor5XlpLnlhbciIH0pOwogIGNvbnN0IGtiID0gUkFHLnJhbmtDaHVua3MoIuaAjuS5iOaKiuWkp+S7u+WKoeaLhuaIkOWwj+atpemqpCIsIGNodW5rcywgMyk7CiAgY2hlY2soInJhbmtDaHVua3Mg6L+U5Zue4omlMeWRveS4rSIsIGtiLmNpdGF0aW9ucy5sZW5ndGggPiAwKTsKICBjaGVjaygi5byV55SoIGRpc3BsYXlfdGV4dCDlrozmlbQiLCBrYi5jaXRhdGlvbnMuZXZlcnkoKGMpID0+IGMuY2l0YXRpb24gJiYgYy5jaXRhdGlvbi5kaXNwbGF5X3RleHQpKTsKICBjaGVjaygi5byV55SoIHNvdXJjZV9wb3NpdGlvbiDlrozmlbQiLCBrYi5jaXRhdGlvbnMuZXZlcnkoKGMpID0+IGMuY2l0YXRpb24gJiYgdHlwZW9mIGMuY2l0YXRpb24uc291cmNlX3Bvc2l0aW9uID09PSAic3RyaW5nIikpOwogIGNoZWNrKCJldmlkZW5jZVN0YXR1cz1rYiIsIGtiLmNpdGF0aW9ucy5ldmVyeSgoYykgPT4gYy5ldmlkZW5jZVN0YXR1cyA9PT0gImtiIikpOwogIGlmIChrYi5jaXRhdGlvbnMubGVuZ3RoKSBjb25zb2xlLmxvZyhwcmludENpdGF0aW9ucyhrYi5jaXRhdGlvbnMpKTsKCiAgLy8gW0NdIEtCIOaooeW8j+WbnumAgAogIGNvbnNvbGUubG9nKCJcbltDXSBLQiDmqKHlvI/lm57pgIDvvIjml6DkupHlh63or4HlupTlm57pgIAgbGVnYWN577yM5LiN5bSp5rqD77yJIik7CiAgcHJvY2Vzcy5lbnYuS0JfTU9ERSA9ICJrYiI7CiAgbGV0IGZlbGxCYWNrID0gZmFsc2U7CiAgY29uc3Qgb3JpZ0VyciA9IGNvbnNvbGUuZXJyb3I7CiAgY29uc29sZS5lcnJvciA9IGZ1bmN0aW9uICgpIHsKICAgIGlmICgv5Zue6YCAIGxlZ2FjeS8udGVzdChBcnJheS5wcm90b3R5cGUuam9pbi5jYWxsKGFyZ3VtZW50cywgIiAiKSkpIGZlbGxCYWNrID0gdHJ1ZTsKICAgIG9yaWdFcnIuYXBwbHkoY29uc29sZSwgYXJndW1lbnRzKTsKICB9OwogIGxldCByMiA9IG51bGw7CiAgbGV0IHRocmV3ID0gZmFsc2U7CiAgdHJ5IHsKICAgIHIyID0gYXdhaXQgUkFHLnJldHJpZXZlKCLmgI7kuYjliIbmuIXovbvph43nvJPmgKUiLCAzKTsKICB9IGNhdGNoIChlKSB7CiAgICB0aHJldyA9IHRydWU7CiAgfQogIGNvbnNvbGUuZXJyb3IgPSBvcmlnRXJyOwogIGNoZWNrKCJLQiDmqKHlvI/mnKrltKnmuoMiLCAhdGhyZXcpOwogIGNoZWNrKCJLQiDmqKHlvI/ov5Tlm57nu5PmnpzvvIhsZWdhY3kg5Zue6YCA77yJIiwgcjIgJiYgQXJyYXkuaXNBcnJheShyMi5jaXRhdGlvbnMpKTsKICBjaGVjaygi6Kem5Y+RIGxlZ2FjeSDlm57pgIDml6Xlv5ciLCBmZWxsQmFjayk7CiAgZGVsZXRlIHByb2Nlc3MuZW52LktCX01PREU7CgogIC8vIFtEXSBpbmdlc3Quc3BsaXRDaHVua3Mg5Y2V5YWDCiAgY29uc29sZS5sb2coIlxuW0RdIGluZ2VzdC5zcGxpdENodW5rcyDljZXlhYMg4oCUIOmqjOivgSBQYXJlbnQvQ2hpbGQg5Lqn5Ye6Iik7CiAgY29uc3Qgc3AgPSBzcGxpdENodW5rcygiIyDnq6DoioLkuIBcbuesrOS4gOauteWGheWuuei+g+mVv+eahOaWh+acrOeUqOS6jua1i+ivleWIh+WIhumAu+i+keaYr+WQpuS/neaMgeWujOaVtOOAglxu56ys5LqM5q6157un57ut6KGl5YWF5YaF5a6544CCXG4jIOeroOiKguS6jFxu5Y+m5LiA6IqC5YaF5a6555So5LqO6aqM6K+B5aSa56ug6IqC5YiH5YiG44CCIiwgeyB0aXRsZTogIua1i+ivleaWh+ahoyIgfSk7CiAgY29uc3QgcGFyZW50cyA9IHNwLmZpbHRlcigoYykgPT4gYy5sZXZlbCA9PT0gInBhcmVudCIpOwogIGNvbnN0IGNoaWxkcmVuID0gc3AuZmlsdGVyKChjKSA9PiBjLmxldmVsID09PSAiY2hpbGQiKTsKICBjaGVjaygi5Lqn5Ye6IDIg5LiqIHBhcmVudCBjaHVuayIsIHBhcmVudHMubGVuZ3RoID09PSAyKTsKICBjaGVjaygi5Lqn5Ye6IOKJpTEg5LiqIGNoaWxkIGNodW5rIiwgY2hpbGRyZW4ubGVuZ3RoID49IDEpOwogIGNoZWNrKCJjaGlsZCDlhbPogZQgcGFyZW50X2xvY2FsIiwgY2hpbGRyZW4uZXZlcnkoKGMpID0+ICEhYy5wYXJlbnRfbG9jYWwpKTsKICBjaGVjaygi56ug6IqC5ZCN6KKr57un5om/5YiwIHNlY3Rpb24iLCBwYXJlbnRzLmV2ZXJ5KChjKSA9PiBjLnNlY3Rpb24gPT09ICLnq6DoioLkuIAiIHx8IGMuc2VjdGlvbiA9PT0gIueroOiKguS6jCIpKTsKCiAgY29uc29sZS5sb2coYFxuPT09IOe7k+aenO+8miR7cGFzc30g6YCa6L+HIC8gJHtmYWlsfSDlpLHotKUgPT09YCk7CiAgcHJvY2Vzcy5leGl0KGZhaWwgPyAxIDogMCk7Cn0KCm1haW4oKS5jYXRjaCgoZSkgPT4gewogIGNvbnNvbGUuZXJyb3IoIuiBlOiwg+iEmuacrOW8guW4uO+8miIsIGUpOwogIHByb2Nlc3MuZXhpdCgxKTsKfSk7Cg==
+// 知识库联调脚本（P0 收尾 · 内容无关的纯工程验证）
+// 验证范围：
+//   [A] Legacy 模式 end-to-end 检索（真实 corpus.json，无云凭证可跑）
+//   [B] KB rankChunks 排序逻辑（用合成 chunks 夹具验证，无需云）
+//   [C] KB 模式回退：无云凭证时自动回退 legacy，不崩溃
+//   [D] ingest.splitChunks 单元：Parent/Child 产出 + 关联正确
+// 不修改任何生产代码，不引入 embedding，不改变 legacy 行为。
+const path = require("path");
+const fs = require("fs");
+
+const RAG = require(path.join(__dirname, "..", "cloudfunctions", "chat", "rag.js"));
+const { splitChunks } = require(path.join(__dirname, "..", "cloudfunctions", "ingest", "index.js"));
+
+const questionsPath = path.join(__dirname, "..", "tests", "questions.json");
+const questions = JSON.parse(fs.readFileSync(questionsPath, "utf-8")).questions || [];
+
+function printCitations(citations) {
+  return (citations || []).map((c, i) => {
+    const cite = c.citation || {};
+    return `     [${i + 1}] ${c.title || "?"} | display="${cite.display_text || ""}" | pos="${cite.source_position || ""}" | score=${(c.score || 0).toFixed(2)}`;
+  }).join("\n");
+}
+
+let pass = 0;
+let fail = 0;
+function check(name, cond) {
+  if (cond) {
+    pass++;
+    console.log("   ✓ " + name);
+  } else {
+    fail++;
+    console.log("   ✗ " + name);
+  }
+}
+
+async function main() {
+  console.log("=== P0 知识库联调（纯 Node，无云凭证）===\n");
+
+  // [A] Legacy 模式 end-to-end
+  console.log("[A] Legacy 模式检索（默认，无云）— 验证旧接口不被破坏");
+  let legacyAllOk = true;
+  for (const q of questions) {
+    const r = await RAG.generateAnswer(q.query, { turn: 0, models: [] });
+    const ok = r && Array.isArray(r.citations) && r.citations.length > 0;
+    if (!ok) legacyAllOk = false;
+    check(`"${q.query.slice(0, 14)}…" 返回≥1引用`, ok);
+    if (ok) {
+      console.log(`   问题: ${q.query}`);
+      console.log(`   模式=${r.mode} | 引用数=${r.citations.length} | queryTerms=${(r.retrieval && r.retrieval.queryTerms || []).length} | minScore=${(r.retrieval && r.retrieval.minScore)}`);
+      console.log(printCitations(r.citations));
+      // legacy 模式返回文档级引用（title/source/text/summary/tags），不含 chunk 级 citation 信封。
+      // KB 模式的 chunk 级 citation 信封(display_text/source_position/verified) 在 [B] 单独验证。
+      const citeOk = r.citations.every((c) => c.title && typeof c.source !== "undefined" && c.text);
+      check(`   └ 引用字段完整(legacy: title/source/text)`, citeOk);
+    }
+  }
+
+  // [B] KB rankChunks 逻辑（合成夹具）
+  console.log("\n[B] KB rankChunks 逻辑（合成 chunks 夹具，无云）— 验证新知识库排序与引用结构");
+  const fixture = "# 示例文档\n如何把大任务拆成小步骤。先列清单，再按优先级排序，每天只做前三件。\n调查能帮助判断。信息不足时不要急着下结论，先收集事实再分析。\n遇到挫折时，先把问题拆小，再找一件能立刻做的小事。";
+  const chunks = splitChunks(fixture, { title: "示例文档", year: "2024", source: "测试夹具" });
+  const kb = RAG.rankChunks("怎么把大任务拆成小步骤", chunks, 3);
+  check("rankChunks 返回≥1命中", kb.citations.length > 0);
+  check("引用 display_text 完整", kb.citations.every((c) => c.citation && c.citation.display_text));
+  check("引用 source_position 完整", kb.citations.every((c) => c.citation && typeof c.citation.source_position === "string"));
+  check("evidenceStatus=kb", kb.citations.every((c) => c.evidenceStatus === "kb"));
+  if (kb.citations.length) console.log(printCitations(kb.citations));
+
+  // [C] KB 模式回退
+  console.log("\n[C] KB 模式回退（无云凭证应回退 legacy，不崩溃）");
+  process.env.KB_MODE = "kb";
+  let fellBack = false;
+  const origErr = console.error;
+  console.error = function () {
+    if (/回退 legacy/.test(Array.prototype.join.call(arguments, " "))) fellBack = true;
+    origErr.apply(console, arguments);
+  };
+  let r2 = null;
+  let threw = false;
+  try {
+    r2 = await RAG.retrieve("怎么分清轻重缓急", 3);
+  } catch (e) {
+    threw = true;
+  }
+  console.error = origErr;
+  check("KB 模式未崩溃", !threw);
+  check("KB 模式返回结果（legacy 回退）", r2 && Array.isArray(r2.citations));
+  check("触发 legacy 回退日志", fellBack);
+  delete process.env.KB_MODE;
+
+  // [D] ingest.splitChunks 单元
+  console.log("\n[D] ingest.splitChunks 单元 — 验证 Parent/Child 产出");
+  const sp = splitChunks("# 章节一\n第一段内容较长的文本用于测试切分逻辑是否保持完整。\n第二段继续补充内容。\n# 章节二\n另一节内容用于验证多章节切分。", { title: "测试文档" });
+  const parents = sp.filter((c) => c.level === "parent");
+  const children = sp.filter((c) => c.level === "child");
+  check("产出 2 个 parent chunk", parents.length === 2);
+  check("产出 ≥1 个 child chunk", children.length >= 1);
+  check("child 关联 parent_local", children.every((c) => !!c.parent_local));
+  check("章节名被继承到 section", parents.every((c) => c.section === "章节一" || c.section === "章节二"));
+
+  console.log(`\n=== 结果：${pass} 通过 / ${fail} 失败 ===`);
+  process.exit(fail ? 1 : 0);
+}
+
+main().catch((e) => {
+  console.error("联调脚本异常：", e);
+  process.exit(1);
+});

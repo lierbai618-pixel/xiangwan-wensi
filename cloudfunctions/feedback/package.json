@@ -1,1 +1,1 @@
-eyJuYW1lIjogImZlZWRiYWNrIiwgInZlcnNpb24iOiAiMS4wLjAiLCAiZGVzY3JpcHRpb24iOiAi5ZCR5pma6Zeu5oCdIC0g5Zue562U6LSo6YeP5Y+N6aaI5LqR5Ye95pWw77yIYW5zd2VyX2ZlZWRiYWNrIOaUtumbhu+8iSIsICJtYWluIjogImluZGV4LmpzIiwgImRlcGVuZGVuY2llcyI6IHsid3gtc2VydmVyLXNkayI6ICJ+Mi42LjMifX0K
+{"name": "feedback", "version": "1.0.0", "description": "向晚问思 - 回答质量反馈云函数（answer_feedback 收集）", "main": "index.js", "dependencies": {"wx-server-sdk": "~2.6.3"}}

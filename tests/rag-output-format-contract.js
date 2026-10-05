@@ -1,1 +1,112 @@
-IyEvdXNyL2Jpbi9lbnYgbm9kZQondXNlIHN0cmljdCc7CgovKioKICog6L6T5Ye65qC85byP5aWR57qm5rWL6K+VIOKAlOKAlCDplIHlrpogQ1ItMjAyNi0wOS0yMeOAjOWIoOmZpOetlOahiOauteiQveOAjeeahOehruWIh+iMg+WbtAogKgogKiDkuLrku4DkuYjpnIDopoHov5nkuKrmtYvor5XvvJoKICogICDor6UgQ1Ig55qE5L2c55So5Z+f5piv44CMKirlj6rliKAgZ2VuZXJhbCDnmoTjgJDlu7rorq7jgJEqKuOAje+8jGVtb3Rpb24g5LiOIHBoaWxvc29waHkg55qECiAqICAg44CQ5bu66K6u44CR5pivKirliLvmhI/kv53nlZkqKueahOS+i+WkluOAguS9huW9k+aXtuayoeacieS7u+S9leaWreiogOimhueblui/meS4quWMuuWIhiDigJTigJQKICogICDkuIDml6blsIbmnaXmnInkurrpobrmiYvmiorkuInlpITkuIDotbfliKDmjonvvIzmtYvor5Xku43kvJrlhajnu7/vvIzkuqflk4HooYzkuLrljbTlt7LooqvmgoTmgoTmlLnlj5jjgIIKICogICDmnKzmlofku7blsLHmmK/miorjgIzmhI/lm77jgI3lm7rljJbmiJDlj6/miafooYznmoTlpZHnuqbjgIIKICoKICog6L+Q6KGM77yaIG5vZGUgdGVzdHMvcmFnLW91dHB1dC1mb3JtYXQtY29udHJhY3QuanMKICovCgpjb25zdCBwYXRoID0gcmVxdWlyZSgncGF0aCcpOwoKY29uc3QgQ0hBVCA9IHBhdGguam9pbihfX2Rpcm5hbWUsICcuLicsICdjbG91ZGZ1bmN0aW9ucycsICdjaGF0Jyk7CmNvbnN0IHJhZyA9IHJlcXVpcmUocGF0aC5qb2luKENIQVQsICdyYWcuanMnKSk7CmNvbnN0IHJlYXNvbmluZyA9IHJlcXVpcmUocGF0aC5qb2luKENIQVQsICd0aGluaycsICdyZWFzb25pbmcuanMnKSk7CgpsZXQgcGFzcyA9IDA7CmNvbnN0IGZhaWx1cmVzID0gW107CgpmdW5jdGlvbiBvayhuYW1lLCBjb25kLCBleHRyYSkgewogIGlmIChjb25kKSB7IHBhc3MrKzsgY29uc29sZS5sb2coJyAg4pyTICcgKyBuYW1lKTsgfQogIGVsc2UgeyBmYWlsdXJlcy5wdXNoKG5hbWUpOyBjb25zb2xlLmxvZygnICDinJcgJyArIG5hbWUgKyAoZXh0cmEgPyAnIDo6ICcgKyBleHRyYSA6ICcnKSk7IH0KfQoKY29uc3QgRiA9IHJhZy5PVVRQVVRfRk9STUFUUzsKCmNvbnNvbGUubG9nKCdcblsxXSBnZW5lcmFsIOaEj+Wbvu+8muW3suenu+mZpOOAkOW7uuiuruOAke+8jOS/neeVmeWFtuS9meWIhuautScpOwp7CiAgY29uc3QgYyA9IEYuZ2VuZXJhbC5jb250cmFjdDsKICBvaygnZ2VuZXJhbCDkuI3lkKvjgJDlu7rorq7jgJEnLCBjLmluZGV4T2YoJ+OAkOW7uuiuruOAkScpIDwgMCk7CiAgb2soJ2dlbmVyYWwg5LuN5ZCr44CQ5Zue562U44CRJywgYy5pbmRleE9mKCfjgJDlm57nrZTjgJEnKSA+PSAwKTsKICBvaygnZ2VuZXJhbCDku43lkKvjgJDliIbmnpDjgJEnLCBjLmluZGV4T2YoJ+OAkOWIhuaekOOAkScpID49IDApOwogIG9rKCdnZW5lcmFsIOS7jeWQq+OAkOW7tuS8uOaAneiAg+OAke+8iOacrCBDUiDmmI7noa7kv53nlZnvvIknLCBjLmluZGV4T2YoJ+OAkOW7tuS8uOaAneiAg+OAkScpID49IDApOwogIG9rKCdnZW5lcmFsIOWIhuauteaVsOS4uiAz77yI5Zue562UL+WIhuaekC/lu7bkvLjmgJ3ogIPvvIknLAogICAgKGMubWF0Y2goL+OAkFte44CRXSvjgJEvZykgfHwgW10pLmxlbmd0aCA9PT0gMywKICAgICdnb3Q9JyArIEpTT04uc3RyaW5naWZ5KGMubWF0Y2goL+OAkFte44CRXSvjgJEvZykpKTsKfQoKY29uc29sZS5sb2coJ1xuWzJdIGVtb3Rpb24g5oSP5Zu+77ya5bey56e76Zmk44CQ55CG6Kej44CR44CQ5bu66K6u44CR77yM5LuF5L+d55WZ44CQ5YiG5p6Q44CR44CQ5oCd6ICD44CRJyk7CnsKICBjb25zdCBjID0gRi5lbW90aW9uLmNvbnRyYWN0OwogIC8vIDIwMjYtMDktMjEg56ys5LqM6L2uIENS77ya5o6o57+75LqG5ZCM5pel56ys5LiA6L2u44CMZW1vdGlvbiDkv53nlZnjgJDlu7rorq7jgJHjgI3nmoTlhrPlrprvvIzmlq3oqIDmlrnlkJHlt7Llj43ovazjgIIKICBvaygnZW1vdGlvbiDkuI3lkKvjgJDnkIbop6PjgJHvvIjnrKzkuozova4gQ1Ig56e76Zmk77yJJywgYy5pbmRleE9mKCfjgJDnkIbop6PjgJEnKSA8IDApOwogIG9rKCdlbW90aW9uIOS4jeWQq+OAkOW7uuiuruOAke+8iOesrOS6jOi9riBDUiDnp7vpmaTvvIknLCBjLmluZGV4T2YoJ+OAkOW7uuiuruOAkScpIDwgMCk7CiAgb2soJ2Vtb3Rpb24g5LuN5ZCr44CQ5YiG5p6Q44CRJywgYy5pbmRleE9mKCfjgJDliIbmnpDjgJEnKSA+PSAwKTsKICBvaygnZW1vdGlvbiDku43lkKvjgJDmgJ3ogIPjgJHvvIjmjInopoHmsYLkv53nlZnvvIknLCBjLmluZGV4T2YoJ+OAkOaAneiAg+OAkScpID49IDApOwogIG9rKCdlbW90aW9uIOWUr+S4gOWIhuauteagh+mimOaVsOS4uiAy77yI5YiG5p6QL+aAneiAg++8iScsCiAgICBbLi4ubmV3IFNldChjLm1hdGNoKC/jgJBbXuOAkV0r44CRL2cpIHx8IFtdKV0ubGVuZ3RoID09PSAyLAogICAgJ2dvdD0nICsgSlNPTi5zdHJpbmdpZnkoWy4uLm5ldyBTZXQoYy5tYXRjaCgv44CQW17jgJFdK+OAkS9nKSB8fCBbXSldKSk7Cn0KCmNvbnNvbGUubG9nKCdcblszXSBwaGlsb3NvcGh5IOaEj+Wbvu+8muOAkOW7uuiuruOAkeWPr+mAieauteW/hemhu+S/neeVme+8iOacrCBDUiDliLvmhI/nmoTkvovlpJbvvIknKTsKewogIGNvbnN0IGMgPSBGLnBoaWxvc29waHkuY29udHJhY3Q7CiAgb2soJ3BoaWxvc29waHkgKirku43lkKsqKuOAkOW7uuiuruOAkeWPr+mAieautScsIGMuaW5kZXhPZign44CQ5bu66K6u44CRJykgPj0gMCk7CiAgb2soJ3BoaWxvc29waHkg5LuN5ZCr44CQ55CG6Kej44CRJywgYy5pbmRleE9mKCfjgJDnkIbop6PjgJEnKSA+PSAwKTsKICBvaygncGhpbG9zb3BoeSDku43lkKvjgJDnu4/lhbjop4LngrnjgJEnLCBjLmluZGV4T2YoJ+OAkOe7j+WFuOingueCueOAkScpID49IDApOwogIG9rKCdwaGlsb3NvcGh5IOS7jeWQq+OAkOaAneiAg+OAkScsIGMuaW5kZXhPZign44CQ5oCd6ICD44CRJykgPj0gMCk7Cn0KCmNvbnNvbGUubG9nKCdcbls0XSB0ZWNobmljYWwg5oSP5Zu+77ya5aeL57uI5peg5Zu65a6a5YiG5q6177yI5LiN5Y+X5pysIENSIOW9seWTje+8iScpOwp7CiAgY29uc3QgYyA9IEYudGVjaG5pY2FsLmNvbnRyYWN0OwogIG9rKCd0ZWNobmljYWwg5LiN5ZCr44CQ5bu66K6u44CRJywgYy5pbmRleE9mKCfjgJDlu7rorq7jgJEnKSA8IDApOwogIG9rKCd0ZWNobmljYWwg5LiN5ZCr5Lu75L2V44CQeOOAkeWIhuauteagh+mimCcsIChjLm1hdGNoKC/jgJBbXuOAkV0r44CRL2cpIHx8IFtdKS5sZW5ndGggPT09IDAsCiAgICAnZ290PScgKyBKU09OLnN0cmluZ2lmeShjLm1hdGNoKC/jgJBbXuOAkV0r44CRL2cpKSk7Cn0KCmNvbnNvbGUubG9nKCdcbls1XSBvdXRwdXRDb250cmFjdCDmrbvku6PnoIHlt7Lnp7vpmaTvvIznlJ/kuqfot6/lvoTmlLnnlLEgT1VUUFVUX0ZPUk1BVFMg5Yaz5a6aJyk7CnsKICAvLyAyMDI2LTA5LTIxIOesrOS6jOi9riBDUu+8mm91dHB1dENvbnRyYWN0IOiiq+enu+mZpOOAggogIC8vIOenu+mZpOS+neaNru+8iOW3suWunua1i+ehruiupO+8ie+8mmJ1aWxkUm9sZVByb21wdCgpIOS4jiBmcmVzaG5lc3MvcmVzcG9uZGVyLmpzIOWdh+S4jea2iOi0ueivpemUruOAggogIG9rKCdST0xFX1BST01QVCDkuI3lho3lkKsgb3V0cHV0Q29udHJhY3Qg6ZSuJywgISgnb3V0cHV0Q29udHJhY3QnIGluIHJhZy5ST0xFX1BST01QVCkpOwogIGNvbnN0IGJ1aWx0ID0gcmFnLmJ1aWxkUm9sZVByb21wdCgpOwogIG9rKCdidWlsZFJvbGVQcm9tcHQoKSDku43mraPluLjnu4Too4XvvIjkuI3lm6Dnp7vpmaTogIzmiqXplJnvvIknLAogICAgdHlwZW9mIGJ1aWx0ID09PSAnc3RyaW5nJyAmJiBidWlsdC5sZW5ndGggPiAwKTsKICBvaygn57uE6KOF5paH5pys5ZCr44CQ5YiG5p6Q44CR77yI6K+B5piOIGZtdC5jb250cmFjdCDku43mjqXlhaXnlJ/kuqfot6/lvoTvvIknLAogICAgYnVpbHQuaW5kZXhPZign44CQ5YiG5p6Q44CRJykgPj0gMCk7Cn0KCmNvbnNvbGUubG9nKCdcbls2XSByZXNvbHZlRm9ybWF0IOWFnOW6leihjOS4uuacquiiq+egtOWdjycpOwp7CiAgb2soJ3Jlc29sdmVGb3JtYXQoZ2VuZXJhbCkg4oaSIGdlbmVyYWwnLCByYWcucmVzb2x2ZUZvcm1hdCh7IGZvcm1hdDogJ2dlbmVyYWwnIH0pLmtleSA9PT0gJ2dlbmVyYWwnKTsKICBvaygncmVzb2x2ZUZvcm1hdChlbW90aW9uKSDihpIgZW1vdGlvbicsIHJhZy5yZXNvbHZlRm9ybWF0KHsgZm9ybWF0OiAnZW1vdGlvbicgfSkua2V5ID09PSAnZW1vdGlvbicpOwogIG9rKCfmnKrnn6UgZm9ybWF0IOKGkiDlm57pgIAgZ2VuZXJhbCcsIHJhZy5yZXNvbHZlRm9ybWF0KHsgZm9ybWF0OiAnX19ub25leGlzdGVudF9fJyB9KS5rZXkgPT09ICdnZW5lcmFsJyk7CiAgb2soJ+epuuWFpeWPgiDihpIg5Zue6YCAIGdlbmVyYWwnLCByYWcucmVzb2x2ZUZvcm1hdCh7fSkua2V5ID09PSAnZ2VuZXJhbCcpOwp9Cgpjb25zb2xlLmxvZygnXG5bN10g44CM8J+MhSDlho3mg7PkuIDlsYLjgI3nlLHmqKHmnb/lsYLnp7vpmaTvvIzkvYbmuLLmn5Plmajlv4Xpobvlrozlpb3vvIjkuIDooYzlm57mu5rnmoTliY3mj5DvvIknKTsKewogIGNvbnN0IHIgPSByZWFzb25pbmcucmVuZGVyUmVhc29uaW5nKHsKICAgIGh5cG90aGVzZXM6IFsn5YGH6K6+QSddLCB0ZW5zaW9uczogWyflvKDliptCJ10sIG9wZW5RdWVzdGlvbnM6IFsn5b6F6ZeuQyddLAogIH0sIHt9KTsKICBvaygncmVuZGVyUmVhc29uaW5nIOS7jeiDveato+W4uOa4suafk++8iOWbnua7muW8gOWFs+S+nei1luWug++8iScsIHIuaW5kZXhPZign8J+MhSDlho3mg7PkuIDlsYInKSA+PSAwKTsKICBvaygncmVuZGVyUmVhc29uaW5nIOS7jei+k+WHuuS4ieexu+WJjee8gCcsCiAgICByLmluZGV4T2YoJ8K3IOW8oOWKm++8micpID49IDAgJiYgci5pbmRleE9mKCfCtyDlgYforr7vvJonKSA+PSAwICYmIHIuaW5kZXhPZignwrcg5b6F6Zeu77yaJykgPj0gMCk7CiAgb2soJ+aXoOWGheWuueaXtui/lOWbnuepuuS4su+8iOWOn+acieWlkee6puS4jeWPmO+8iScsIHJlYXNvbmluZy5yZW5kZXJSZWFzb25pbmcoe30sIHt9KSA9PT0gJycpOwp9Cgpjb25zb2xlLmxvZygnXG49PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Jyk7CmNvbnNvbGUubG9nKCcgIOiMg+WbtOmUgeWumuWlkee6pua1i+ivlSAgUEFTUzogJyArIHBhc3MgKyAnICAgRkFJTDogJyArIGZhaWx1cmVzLmxlbmd0aCk7CmNvbnNvbGUubG9nKCc9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Jyk7CmlmIChmYWlsdXJlcy5sZW5ndGgpIHsKICBjb25zb2xlLmxvZygn5aSx6LSl6aG577yaXG4gLSAnICsgZmFpbHVyZXMuam9pbignXG4gLSAnKSk7CiAgcHJvY2Vzcy5leGl0KDEpOwp9CmNvbnNvbGUubG9nKCflhajpg6jpgJrov4cg4pyTJyk7Cg==
+#!/usr/bin/env node
+'use strict';
+
+/**
+ * 输出格式契约测试 —— 锁定 CR-2026-09-21「删除答案段落」的确切范围
+ *
+ * 为什么需要这个测试：
+ *   该 CR 的作用域是「**只删 general 的【建议】**」，emotion 与 philosophy 的
+ *   【建议】是**刻意保留**的例外。但当时没有任何断言覆盖这个区分 ——
+ *   一旦将来有人顺手把三处一起删掉，测试仍会全绿，产品行为却已被悄悄改变。
+ *   本文件就是把「意图」固化成可执行的契约。
+ *
+ * 运行： node tests/rag-output-format-contract.js
+ */
+
+const path = require('path');
+
+const CHAT = path.join(__dirname, '..', 'cloudfunctions', 'chat');
+const rag = require(path.join(CHAT, 'rag.js'));
+const reasoning = require(path.join(CHAT, 'think', 'reasoning.js'));
+
+let pass = 0;
+const failures = [];
+
+function ok(name, cond, extra) {
+  if (cond) { pass++; console.log('  ✓ ' + name); }
+  else { failures.push(name); console.log('  ✗ ' + name + (extra ? ' :: ' + extra : '')); }
+}
+
+const F = rag.OUTPUT_FORMATS;
+
+console.log('\n[1] general 意图：已移除【建议】，保留其余分段');
+{
+  const c = F.general.contract;
+  ok('general 不含【建议】', c.indexOf('【建议】') < 0);
+  ok('general 仍含【回答】', c.indexOf('【回答】') >= 0);
+  ok('general 仍含【分析】', c.indexOf('【分析】') >= 0);
+  ok('general 仍含【延伸思考】（本 CR 明确保留）', c.indexOf('【延伸思考】') >= 0);
+  ok('general 分段数为 3（回答/分析/延伸思考）',
+    (c.match(/【[^】]+】/g) || []).length === 3,
+    'got=' + JSON.stringify(c.match(/【[^】]+】/g)));
+}
+
+console.log('\n[2] emotion 意图：已移除【理解】【建议】，仅保留【分析】【思考】');
+{
+  const c = F.emotion.contract;
+  // 2026-09-21 第二轮 CR：推翻了同日第一轮「emotion 保留【建议】」的决定，断言方向已反转。
+  ok('emotion 不含【理解】（第二轮 CR 移除）', c.indexOf('【理解】') < 0);
+  ok('emotion 不含【建议】（第二轮 CR 移除）', c.indexOf('【建议】') < 0);
+  ok('emotion 仍含【分析】', c.indexOf('【分析】') >= 0);
+  ok('emotion 仍含【思考】（按要求保留）', c.indexOf('【思考】') >= 0);
+  ok('emotion 唯一分段标题数为 2（分析/思考）',
+    [...new Set(c.match(/【[^】]+】/g) || [])].length === 2,
+    'got=' + JSON.stringify([...new Set(c.match(/【[^】]+】/g) || [])]));
+}
+
+console.log('\n[3] philosophy 意图：【建议】可选段必须保留（本 CR 刻意的例外）');
+{
+  const c = F.philosophy.contract;
+  ok('philosophy **仍含**【建议】可选段', c.indexOf('【建议】') >= 0);
+  ok('philosophy 仍含【理解】', c.indexOf('【理解】') >= 0);
+  ok('philosophy 仍含【经典观点】', c.indexOf('【经典观点】') >= 0);
+  ok('philosophy 仍含【思考】', c.indexOf('【思考】') >= 0);
+}
+
+console.log('\n[4] technical 意图：始终无固定分段（不受本 CR 影响）');
+{
+  const c = F.technical.contract;
+  ok('technical 不含【建议】', c.indexOf('【建议】') < 0);
+  ok('technical 不含任何【x】分段标题', (c.match(/【[^】]+】/g) || []).length === 0,
+    'got=' + JSON.stringify(c.match(/【[^】]+】/g)));
+}
+
+console.log('\n[5] outputContract 死代码已移除，生产路径改由 OUTPUT_FORMATS 决定');
+{
+  // 2026-09-21 第二轮 CR：outputContract 被移除。
+  // 移除依据（已实测确认）：buildRolePrompt() 与 freshness/responder.js 均不消费该键。
+  ok('ROLE_PROMPT 不再含 outputContract 键', !('outputContract' in rag.ROLE_PROMPT));
+  const built = rag.buildRolePrompt();
+  ok('buildRolePrompt() 仍正常组装（不因移除而报错）',
+    typeof built === 'string' && built.length > 0);
+  ok('组装文本含【分析】（证明 fmt.contract 仍接入生产路径）',
+    built.indexOf('【分析】') >= 0);
+}
+
+console.log('\n[6] resolveFormat 兜底行为未被破坏');
+{
+  ok('resolveFormat(general) → general', rag.resolveFormat({ format: 'general' }).key === 'general');
+  ok('resolveFormat(emotion) → emotion', rag.resolveFormat({ format: 'emotion' }).key === 'emotion');
+  ok('未知 format → 回退 general', rag.resolveFormat({ format: '__nonexistent__' }).key === 'general');
+  ok('空入参 → 回退 general', rag.resolveFormat({}).key === 'general');
+}
+
+console.log('\n[7] 「🌅 再想一层」由模板层移除，但渲染器必须完好（一行回滚的前提）');
+{
+  const r = reasoning.renderReasoning({
+    hypotheses: ['假设A'], tensions: ['张力B'], openQuestions: ['待问C'],
+  }, {});
+  ok('renderReasoning 仍能正常渲染（回滚开关依赖它）', r.indexOf('🌅 再想一层') >= 0);
+  ok('renderReasoning 仍输出三类前缀',
+    r.indexOf('· 张力：') >= 0 && r.indexOf('· 假设：') >= 0 && r.indexOf('· 待问：') >= 0);
+  ok('无内容时返回空串（原有契约不变）', reasoning.renderReasoning({}, {}) === '');
+}
+
+console.log('\n========================================');
+console.log('  范围锁定契约测试  PASS: ' + pass + '   FAIL: ' + failures.length);
+console.log('========================================');
+if (failures.length) {
+  console.log('失败项：\n - ' + failures.join('\n - '));
+  process.exit(1);
+}
+console.log('全部通过 ✓');

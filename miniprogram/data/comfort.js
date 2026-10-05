@@ -1,1 +1,219 @@
-Ly8g5YWs54mI57uP5YW45oqa5oWw55+l6K+G5YyF77yI5oOF57uq5Ye65Y+j5qih5byP55So77yJCi8vIOS7heaUtuW9lei/h+eJiOadg+acn+eahOWFrOeJiOWGheWuue+8muWFiOenpuivuOWtkOOAgeaWr+WkmuiRm+a0vuOAgeWwvOmHh+OAgeWPlOacrOWNjuOAgeWogeW7icK36Km55aeG5pav562J44CCCi8vIOazqOaEj++8muWKoOe8qigxOTYwKeOAgeiNo+agvCgxOTYxKSDku43lj5fniYjmnYPkv53miqTvvIzmnKrmlLblvZXjgIIKLy8g55So6YCU77ya5YC+6K+J5qih5byP6K+G5Yir5oOF57uq5ZCO77yM5pyr5bC+6ZmE44CM5YWI6LSk6K+044CN5Y2h54mH77yb5LuF5L2c6Zmq5Ly055aP6Kej77yM6Z2e5b+D55CGL+WMu+eWl+W7uuiuruOAggoKY29uc3QgQ09NRk9SVF9QQUNLID0gewogIC8vIOWPl+S6huWnlOWxiCAvIOiiq+S4jeWFrOWvueW+hQogIOWnlOWxiDogWwogICAgewogICAgICBxdW90ZTogIuS4vuS4luiAjOiqieS5i+iAjOS4jeWKoOWKne+8jOS4vuS4luiAjOmdnuS5i+iAjOS4jeWKoOayruOAgiIsCiAgICAgIGF1dGhvcjogIuW6hOWtkCIsCiAgICAgIHNvdXJjZTogIuOAiumAjemBpea4uOOAiyIsCiAgICAgIGludGVycHJldGF0aW9uOiAi5Yir5Lq655qE6KSS6LSs5a6a5LmJ5LiN5LqG5L2g44CC5aSW55WM55qE6K+E5Lu35YaN5ZON77yM5Lmf55uW5LiN5L2P5L2g5pys5p2l55qE5YiG6YeP44CCIiwKICAgIH0sCiAgICB7CiAgICAgIHF1b3RlOiAi6I6r5ZCs56m/5p6X5omT5Y+25aOw77yM5L2V5aao5ZCf5ZW45LiU5b6Q6KGM44CCIiwKICAgICAgYXV0aG9yOiAi6IuP6L28IiwKICAgICAgc291cmNlOiAi44CK5a6a6aOO5rOi44CLIiwKICAgICAgaW50ZXJwcmV0YXRpb246ICLlpJbnlYznmoTpo47pm6jlho3mgKXvvIzkuZ/mjKHkuI3kvY/kvaDku47lrrnnmoTohJrmraXjgILlhYjnqLPkvY/oh6rlt7HvvIzlho3nnIvmuIXmlrnlkJHjgIIiLAogICAgfSwKICAgIHsKICAgICAgcXVvdGU6ICLlh6HmnYDkuI3mrbvmiJHnmoTvvIzlv4Xkvb/miJHmm7TlvLrlpKfjgIIiLAogICAgICBhdXRob3I6ICLlsLzph4ciLAogICAgICBzb3VyY2U6ICLjgIrlgbblg4/nmoTpu4TmmI/jgIsiLAogICAgICBpbnRlcnByZXRhdGlvbjogIuiiq+WGpOaeieOAgeiiq+eivuWOi+i/h+eahOS8pOWPo++8jOaEiOWQiOS5i+WQjuS8muWPmOaIkOS9oOeahOeti+mqqOOAgiIsCiAgICB9LAogICAgewogICAgICBxdW90ZTogIuWRvei/kOWKoOivuOaIkeS7rOeahO+8jOW+gOW+gOS5n+aYr+a3rOeCvOaIkeS7rOeahOOAgiIsCiAgICAgIGF1dGhvcjogIuWhnua2heWNoSIsCiAgICAgIHNvdXJjZTogIuOAiuS5puS/oembhuOAiyIsCiAgICAgIGludGVycHJldGF0aW9uOiAi5LiN5YWs5YOP5LiA5Z2X56Oo5YiA55+z44CC5a6D56Oo5L2g77yM5Y205Lmf6K6p5L2g5q+U5LuO5YmN5pu05Yip44CCIiwKICAgIH0sCiAgXSwKCiAgLy8g5oSk5oCSIC8g5oaL5bGI5oOz5Y+R5L2cCiAg5oSk5oCSOiBbCiAgICB7CiAgICAgIHF1b3RlOiAi5oSk5oCS5piv55+t5pqC55qE55av54uC44CCIiwKICAgICAgYXV0aG9yOiAi5aGe5raF5Y2hIiwKICAgICAgc291cmNlOiAi44CK6K665oSk5oCS44CLIiwKICAgICAgaW50ZXJwcmV0YXRpb246ICLkurrlnKjnm5vmgJLml7bvvIzliKTmlq3kvJrmmoLml7blpLHngbXjgILlhYjnu5noh6rlt7HkuIDlj6PmsJTnmoTlgZzpob/vvIzlho3lhrPlrprmgI7kuYjor7TjgIIiLAogICAgfSwKICAgIHsKICAgICAgcXVvdGU6ICLkvaDkuYvmiYDku6Xop4nlvpflj5flhpLniq/vvIzmmK/lm6DkuLrkvaDlhYjorqTlrprpgqPmmK/lr7nkvaDnmoTlhpLniq/jgIIiLAogICAgICBhdXRob3I6ICLpqazlj6/Ct+WlpeWLkueVmSIsCiAgICAgIHNvdXJjZTogIuOAiuayieaAneW9leOAiyIsCiAgICAgIGludGVycHJldGF0aW9uOiAi5oOF57uq55qE5byA5YWz77yM5bi45bi45o+h5Zyo6Ieq5bex5omL6YeM44CC5ouJ5byA5LiA54K56Led56a777yM54Gr5rCU5Lya5bCP5LiA5ZyI44CCIiwKICAgIH0sCiAgICB7CiAgICAgIHF1b3RlOiAi5aSn5oCS6YKq77yf5YW26LCB6IO95a6a5LmL44CCIiwKICAgICAgYXV0aG9yOiAi5bqE5a2QIiwKICAgICAgc291cmNlOiAi44CK6b2Q54mp6K6644CLIiwKICAgICAgaW50ZXJwcmV0YXRpb246ICLmsJTlpLTkuIrlvojpmr7mnInlrprop4HjgILlhYjorqnlv4PpnZnkuIvmnaXvvIznrZTmoYjmiY3kvJrmta7lh7rmnaXjgIIiLAogICAgfSwKICBdLAoKICAvLyDlraTni6wgLyDmsqHkurrmh4IKICDlraTni6w6IFsKICAgIHsKICAgICAgcXVvdGU6ICLkurropoHkuYjlraTni6zvvIzopoHkuYjlurjkv5fjgIIiLAogICAgICBhdXRob3I6ICLlj5TmnKzljY4iLAogICAgICBzb3VyY2U6ICLjgIrpmYTlvZXkuI7ooaXpgZfjgIsiLAogICAgICBpbnRlcnByZXRhdGlvbjogIueLrOWkhOS4jeW/heaYr+aDqee9muOAguWug+S5n+iDveaYr+a4hemGkueUn+mVv+eahOWFu+WIhuOAgiIsCiAgICB9LAogICAgewogICAgICBxdW90ZTogIumAgOWFpeS9oOiHqui6q+eahOWGheWcqOWxheaJgOOAgiIsCiAgICAgIGF1dGhvcjogIumprOWPr8K35aWl5YuS55WZIiwKICAgICAgc291cmNlOiAi44CK5rKJ5oCd5b2V44CLIiwKICAgICAgaW50ZXJwcmV0YXRpb246ICLmnIDlronpnZnnmoTpmarkvLTvvIzlvoDlvoDmnaXoh6rlkozoh6rlt7HlgZrmnIvlj4vjgIIiLAogICAgfSwKICAgIHsKICAgICAgcXVvdGU6ICLmi6PlsL3lr5Lmnp3kuI3ogq/moJbvvIzlr4Llr57mspnmtLLlhrfjgIIiLAogICAgICBhdXRob3I6ICLoi4/ovbwiLAogICAgICBzb3VyY2U6ICLjgIrljZznrpflrZDjgIsiLAogICAgICBpbnRlcnByZXRhdGlvbjogIuWugeWPr+WtpOeLrOS5n+S4jeWnlOWxiOiHquW3seKAlOKAlOi/meacrOi6q++8jOWwseaYr+S4gOenjeWwiuS4peOAgiIsCiAgICB9LAogIF0sCgogIC8vIOaXoOWKmyAvIOS9v+S4jeS4iuWKsgogIOaXoOWKmzogWwogICAgewogICAgICBxdW90ZTogIuihjOWKqOS4juaEn+inieW5tuihjO+8jOS4lOiDveS6kuebuOeJteW8leOAgiIsCiAgICAgIGF1dGhvcjogIuWogeW7icK36Km55aeG5pavIiwKICAgICAgc291cmNlOiAi44CK5b+D55CG5a2m5Y6f55CG44CLIiwKICAgICAgaW50ZXJwcmV0YXRpb246ICLlk6rmgJXlv4Pph4zmsqHlirLvvIzlhYjliqjkuIDkuKrmnIDlsI/nmoTmraXlrZDvvIznirbmgIHkvJrot5/nnYDmnb7liqjkuIDngrnjgIIiLAogICAgfSwKICAgIHsKICAgICAgcXVvdGU6ICLnoLTlsbHkuK3otLzmmJPvvIznoLTlv4PkuK3otLzpmr7jgIIiLAogICAgICBhdXRob3I6ICLnjovpmLPmmI4iLAogICAgICBzb3VyY2U6ICLjgIrkuI7mnajku5XlvrfolpvlsJrosKbkuabjgIsiLAogICAgICBpbnRlcnByZXRhdGlvbjogIuacgOmavueahOaYr+WSjOiHquW3seWSjOino+OAguS9huavj+S4gOasoeS9oOayoeaUvuW8g++8jOmDveeul+aVsOOAgiIsCiAgICB9LAogICAgewogICAgICBxdW90ZTogIui0ouWvjOWmgua1t+awtO+8jOi2iumlrui2iua4tO+8m+WGheW/g+eahOWuieWugeaXoOazleWkluaxguOAgiIsCiAgICAgIGF1dGhvcjogIuWPlOacrOWNjiIsCiAgICAgIHNvdXJjZTogIuOAiuS9nOS4uuaEj+W/l+WSjOihqOixoeeahOS4lueVjOOAiyIsCiAgICAgIGludGVycHJldGF0aW9uOiAi5oqK5o6M5o6n5oSf5pS+5Zue6Ieq5bex6IO95YGa55qE5LqL5LiK77yM5q+U55uv552A5aSf5LiN5Yiw55qE5pu05pyJ55So44CCIiwKICAgIH0sCiAgXSwKCiAgLy8g54Sm6JmRIC8g5oWMCiAg54Sm6JmROiBbCiAgICB7CiAgICAgIHF1b3RlOiAi5oiR5Lus5pON5b+D55qE5aSn5aSa77yM5piv5bCa5pyq5Y+R55Sf44CB5Lmf5pyq5b+F5Y+R55Sf55qE5LqL44CCIiwKICAgICAgYXV0aG9yOiAi6ams5Y+vwrflpaXli5LnlZkiLAogICAgICBzb3VyY2U6ICLjgIrmsonmgJ3lvZXjgIsiLAogICAgICBpbnRlcnByZXRhdGlvbjogIuaKiuW/teWktOaLieWbnuatpOWIu++8jOiDveecgeS4i+Wkp+WNiuayoeW/heimgeeahOaFjOW8oOOAgiIsCiAgICB9LAogICAgewogICAgICBxdW90ZTogIum5qum5qeW3ouS6jua3seael++8jOS4jei/h+S4gOaene+8m+WBg+m8oOmlruays++8jOS4jei/h+a7oeiFueOAgiIsCiAgICAgIGF1dGhvcjogIuW6hOWtkCIsCiAgICAgIHNvdXJjZTogIuOAiumAjemBpea4uOOAiyIsCiAgICAgIGludGVycHJldGF0aW9uOiAi5Lq655yf5q2j6ZyA6KaB55qE77yM5YW25a6e5b6I5bCR44CC5YWI5oqK5LuK5aSp55qE5LiA5Lu25bCP5LqL5YGa5a6M44CCIiwKICAgIH0sCiAgICB7CiAgICAgIHF1b3RlOiAi5oqK5q+P5LiA5aSp6YO95b2T5L2c5pyA5ZCO5LiA5aSp77yM5L2g5L6/5LiN5Lya5oWM5byg44CCIiwKICAgICAgYXV0aG9yOiAi5aGe5raF5Y2hIiwKICAgICAgc291cmNlOiAi44CK5Lmm5L+h6ZuG44CLIiwKICAgICAgaW50ZXJwcmV0YXRpb246ICLkuI3mmK/opoHkvaDmgrLop4LvvIzogIzmmK/mj5DphpLkvaDvvJrogZrnhKbku4rlpKnvvIzlsLHlpJ/nlKjkuobjgIIiLAogICAgfSwKICBdLAoKICAvLyDmgrLkvKQgLyDlpLHokL0KICDmgrLkvKQ6IFsKICAgIHsKICAgICAgcXVvdGU6ICLkurrmnInmgrLmrKLnprvlkIjvvIzmnIjmnInpmLTmmbTlnIbnvLrvvIzmraTkuovlj6Tpmr7lhajjgIIiLAogICAgICBhdXRob3I6ICLoi4/ovbwiLAogICAgICBzb3VyY2U6ICLjgIrmsLTosIPmrYzlpLTjgIsiLAogICAgICBpbnRlcnByZXRhdGlvbjogIuiBmuaVo+i1t+iQveaYr+S6uumXtOW4uOaAge+8jOS4jeW/heeLrOeLrOi0o+aAquiHquW3seOAgiIsCiAgICB9LAogICAgewogICAgICBxdW90ZTogIuavj+S4gOS4quS4jeabvui1t+iInueahOaXpeWtkO+8jOmDveaYr+WvueeUn+WRveeahOi+nOi0n+OAgiIsCiAgICAgIGF1dGhvcjogIuWwvOmHhyIsCiAgICAgIHNvdXJjZTogIuOAiuafpeaLieWbvuaWr+eJueaLieWmguaYr+ivtOOAiyIsCiAgICAgIGludGVycHJldGF0aW9uOiAi5YWB6K646Ieq5bex5L2O6JC977yM5Lmf5Li65b6u5YWJ55WZ5LiA5omH56qX44CC5L2g5LiN6ZyA6KaB56uL5Yi75aW96LW35p2l44CCIiwKICAgIH0sCiAgICB7CiAgICAgIHF1b3RlOiAi5ZOA6I6r6L+H5LqO5b+D5q2777yM6ICM5Lq65q275Lqm5qyh5LmL44CCIiwKICAgICAgYXV0aG9yOiAi5bqE5a2QIiwKICAgICAgc291cmNlOiAi44CK55Sw5a2Q5pa544CLIiwKICAgICAgaW50ZXJwcmV0YXRpb246ICLlv4Poi6Xlh4nkuobmnIDkvKTouqvjgILlhYjnhafpob7ov5npopflv4PvvIzliKvnmoTmhaLmhaLmnaXjgIIiLAogICAgfSwKICBdLAp9OwoKLy8g5oOF57uq5YWz6ZSu6K+NIOKGkiDliIbnsbvvvIjkvpvlgL7or4nmqKHlvI/lgZrnroDljZXmg4Xnu6ror4bliKvvvIkKY29uc3QgRU1PVElPTl9LRVlXT1JEUyA9IHsKICDlp5TlsYg6IFsi5aeU5bGIIiwgIuWGpOaeiSIsICLkuI3lhazlubMiLCAi6KKr6ZKI5a+5IiwgIuiiq+ivr+inoyIsICLlj5fmsJQiLCAi6IOM6ZSFIl0sCiAg5oSk5oCSOiBbIuaEpOaAkiIsICLnlJ/msJQiLCAi54Gr5aSnIiwgIuawlOatuyIsICLmgbzngasiLCAi5oaL5bGI5oOz5Y+RIiwgIuaBqCJdLAogIOWtpOeLrDogWyLlraTni6wiLCAi5rKh5Lq65oeCIiwgIuS4gOS4quS6uiIsICLlraTljZUiLCAi5rKh5Lq66ZmqIiwgIuWvguWvniIsICLooqvlraTnq4siXSwKICDml6Dlips6IFsi5peg5YqbIiwgIuayoeWKsiIsICLkvb/kuI3kuIrlirIiLCAi5pKR5LiN5L2PIiwgIue0ryIsICLov7fojKsiLCAi5rKh5pa55ZCRIiwgIuaDs+aUvuW8gyJdLAogIOeEpuiZkTogWyLnhKbomZEiLCAi5oWMIiwgIuaLheW/gyIsICLlrrPmgJUiLCAi57Sn5bygIiwgIuedoeS4jeedgCIsICLljovlipvlpKciLCAi5LiN5a6JIl0sCiAg5oKy5LykOiBbIuaCsuS8pCIsICLpmr7ov4ciLCAi5Lyk5b+DIiwgIuWkseiQvSIsICLlk60iLCAi5oOz5ZOtIiwgIuepuuiZmiIsICLnu53mnJsiXSwKfTsKCmZ1bmN0aW9uIGRldGVjdEVtb3Rpb24odGV4dCkgewogIGlmICghdGV4dCkgcmV0dXJuIG51bGw7CiAgbGV0IGJlc3QgPSBudWxsOwogIGxldCBiZXN0U2NvcmUgPSAwOwogIGZvciAoY29uc3QgY2F0IG9mIE9iamVjdC5rZXlzKEVNT1RJT05fS0VZV09SRFMpKSB7CiAgICBsZXQgc2NvcmUgPSAwOwogICAgZm9yIChjb25zdCBrdyBvZiBFTU9USU9OX0tFWVdPUkRTW2NhdF0pIHsKICAgICAgaWYgKHRleHQuaW5kZXhPZihrdykgIT09IC0xKSBzY29yZSArPSAxOwogICAgfQogICAgaWYgKHNjb3JlID4gYmVzdFNjb3JlKSB7CiAgICAgIGJlc3RTY29yZSA9IHNjb3JlOwogICAgICBiZXN0ID0gY2F0OwogICAgfQogIH0KICByZXR1cm4gYmVzdFNjb3JlID4gMCA/IGJlc3QgOiBudWxsOwp9CgpmdW5jdGlvbiBwaWNrQ29tZm9ydChlbW90aW9uKSB7CiAgY29uc3QgbGlzdCA9IENPTUZPUlRfUEFDS1tlbW90aW9uXTsKICBpZiAoIWxpc3QgfHwgIWxpc3QubGVuZ3RoKSByZXR1cm4gbnVsbDsKICByZXR1cm4gbGlzdFtNYXRoLmZsb29yKE1hdGgucmFuZG9tKCkgKiBsaXN0Lmxlbmd0aCldOwp9CgovLyAtLS0tLS0tLS0tLS0tLS0tIOWNseacuuaKpOagj++8iOWGmeatu++8jOS4jeS+nei1luaooeWei+S4tOWcuuWPkeaMpe+8iSAtLS0tLS0tLS0tLS0tLS0tCmNvbnN0IENSSVNJU19LRVlXT1JEUyA9IFsKICAi5LiN5oOz5rS7IiwgIua0u+S4jeS4i+WOuyIsICLkuI3mg7PmtLvkuoYiLCAi5rS75LiN5LiL5Y675LqGIiwgIuiHquadgCIsICLovbvnlJ8iLCAi57uT5p2f55Sf5ZG9IiwKICAi5LiA5LqG55m+5LqGIiwgIuWvu+atuyIsICLoh6rlsL0iLCAi5LiN5aaC5q27IiwgIuWOu+atuyIsICLkuobmlq0iLCAi6Kej6ISxIiwgIua0u+edgOayoeaEj+aAnSIsCiAgIua0u+edgOayoeaEj+S5iSIsICLmsqHohLjmtLsiLCAi5oGo5LiN5b6X5q27IiwKXTsKCmZ1bmN0aW9uIGRldGVjdENyaXNpcyh0ZXh0KSB7CiAgaWYgKCF0ZXh0KSByZXR1cm4gZmFsc2U7CiAgZm9yIChsZXQgaSA9IDA7IGkgPCBDUklTSVNfS0VZV09SRFMubGVuZ3RoOyBpKyspIHsKICAgIGlmICh0ZXh0LmluZGV4T2YoQ1JJU0lTX0tFWVdPUkRTW2ldKSAhPT0gLTEpIHJldHVybiB0cnVlOwogIH0KICByZXR1cm4gZmFsc2U7Cn0KCmNvbnN0IENSSVNJU19DQVJEID0gewogIHRpdGxlOiAi5L2g5b6I6YeN6KaB77yM5YWI5Yir54us6Ieq5ombIiwKICBsaW5lczogWwogICAgIuaIkeWQrOWIsOS9oOS6hu+8jOS5n+WcqOS5juS9oOOAguatpOWIu+eahOeXm+iLpuaYr+ecn+WunueahO+8jOS9huWug+S4jeS8muaYr+awuOi/nOOAgiIsCiAgICAi6K+35Yir5LiA5Liq5Lq65pKR552A4oCU4oCU5LiT5Lia55qE5biu5Yqp6IO96Zmq5L2g6LWw6L+H6L+Z5q615pyA6Zq+55qE6Lev44CCIiwKICBdLAogIGhvdGxpbmVzOiBbCiAgICB7IG5hbWU6ICLljJfkuqzlv4PnkIbljbHmnLrlubLpooTkuK3lv4MiLCB0ZWw6ICIwMTAtODI5NTEzMzIiIH0sCiAgICB7IG5hbWU6ICLlhajlm73luIzmnJsgMjQg54Ot57q/IiwgdGVsOiAiNDAwLTE2MS05OTk1IiB9LAogIF0sCiAgbm90ZTogIuWmguaenOS9oOW3sue7j+i6q+WkhOWNsemZqe+8jOivt+eri+WIu+iBlOezu+i6q+i+ueWPr+S/oeeahOS6uu+8jOaIluaLqOaJkyAxMjAgLyAxMTDjgIIiLAp9OwoKY29uc3QgQ09NRk9SVF9ESVNDTEFJTUVSID0KICAi5pys5Y2h54mH5Li6IEFJIOmZquS8tOS4jue7j+WFuOmYheivu+eWj+ino++8jOmdnuS4k+S4muW/g+eQhuiviueWl+OAguWmguaDhee7quaMgee7reWbsOaJsO+8jOivt+aLqOaJk+W/g+eQhuaPtOWKqeeDree6v++8muWMl+S6rOW/g+eQhuWNseacuuW5sumihOS4reW/gyAwMTAtODI5NTEzMzLvvIzlhajlm73luIzmnJsgMjQg54Ot57q/IDQwMC0xNjEtOTk5NeOAgiI7Cgptb2R1bGUuZXhwb3J0cyA9IHsKICBDT01GT1JUX1BBQ0ssCiAgRU1PVElPTl9LRVlXT1JEUywKICBkZXRlY3RFbW90aW9uLAogIHBpY2tDb21mb3J0LAogIENSSVNJU19LRVlXT1JEUywKICBkZXRlY3RDcmlzaXMsCiAgQ1JJU0lTX0NBUkQsCiAgQ09NRk9SVF9ESVNDTEFJTUVSLAp9Owo=
+// 公版经典抚慰知识包（情绪出口模式用）
+// 仅收录过版权期的公版内容：先秦诸子、斯多葛派、尼采、叔本华、威廉·詹姆斯等。
+// 注意：加缪(1960)、荣格(1961) 仍受版权保护，未收录。
+// 用途：倾诉模式识别情绪后，末尾附「先贤说」卡片；仅作陪伴疏解，非心理/医疗建议。
+
+const COMFORT_PACK = {
+  // 受了委屈 / 被不公对待
+  委屈: [
+    {
+      quote: "举世而誉之而不加劝，举世而非之而不加沮。",
+      author: "庄子",
+      source: "《逍遥游》",
+      interpretation: "别人的褒贬定义不了你。外界的评价再响，也盖不住你本来的分量。",
+    },
+    {
+      quote: "莫听穿林打叶声，何妨吟啸且徐行。",
+      author: "苏轼",
+      source: "《定风波》",
+      interpretation: "外界的风雨再急，也挡不住你从容的脚步。先稳住自己，再看清方向。",
+    },
+    {
+      quote: "凡杀不死我的，必使我更强大。",
+      author: "尼采",
+      source: "《偶像的黄昏》",
+      interpretation: "被冤枉、被碾压过的伤口，愈合之后会变成你的筋骨。",
+    },
+    {
+      quote: "命运加诸我们的，往往也是淬炼我们的。",
+      author: "塞涅卡",
+      source: "《书信集》",
+      interpretation: "不公像一块磨刀石。它磨你，却也让你比从前更利。",
+    },
+  ],
+
+  // 愤怒 / 憋屈想发作
+  愤怒: [
+    {
+      quote: "愤怒是短暂的疯狂。",
+      author: "塞涅卡",
+      source: "《论愤怒》",
+      interpretation: "人在盛怒时，判断会暂时失灵。先给自己一口气的停顿，再决定怎么说。",
+    },
+    {
+      quote: "你之所以觉得受冒犯，是因为你先认定那是对你的冒犯。",
+      author: "马可·奥勒留",
+      source: "《沉思录》",
+      interpretation: "情绪的开关，常常握在自己手里。拉开一点距离，火气会小一圈。",
+    },
+    {
+      quote: "大怒邪？其谁能定之。",
+      author: "庄子",
+      source: "《齐物论》",
+      interpretation: "气头上很难有定见。先让心静下来，答案才会浮出来。",
+    },
+  ],
+
+  // 孤独 / 没人懂
+  孤独: [
+    {
+      quote: "人要么孤独，要么庸俗。",
+      author: "叔本华",
+      source: "《附录与补遗》",
+      interpretation: "独处不必是惩罚。它也能是清醒生长的养分。",
+    },
+    {
+      quote: "退入你自身的内在居所。",
+      author: "马可·奥勒留",
+      source: "《沉思录》",
+      interpretation: "最安静的陪伴，往往来自和自己做朋友。",
+    },
+    {
+      quote: "拣尽寒枝不肯栖，寂寞沙洲冷。",
+      author: "苏轼",
+      source: "《卜算子》",
+      interpretation: "宁可孤独也不委屈自己——这本身，就是一种尊严。",
+    },
+  ],
+
+  // 无力 / 使不上劲
+  无力: [
+    {
+      quote: "行动与感觉并行，且能互相牵引。",
+      author: "威廉·詹姆斯",
+      source: "《心理学原理》",
+      interpretation: "哪怕心里没劲，先动一个最小的步子，状态会跟着松动一点。",
+    },
+    {
+      quote: "破山中贼易，破心中贼难。",
+      author: "王阳明",
+      source: "《与杨仕德薛尚谦书》",
+      interpretation: "最难的是和自己和解。但每一次你没放弃，都算数。",
+    },
+    {
+      quote: "财富如海水，越饮越渴；内心的安宁无法外求。",
+      author: "叔本华",
+      source: "《作为意志和表象的世界》",
+      interpretation: "把掌控感放回自己能做的事上，比盯着够不到的更有用。",
+    },
+  ],
+
+  // 焦虑 / 慌
+  焦虑: [
+    {
+      quote: "我们操心的大多，是尚未发生、也未必发生的事。",
+      author: "马可·奥勒留",
+      source: "《沉思录》",
+      interpretation: "把念头拉回此刻，能省下大半没必要的慌张。",
+    },
+    {
+      quote: "鹪鹩巢于深林，不过一枝；偃鼠饮河，不过满腹。",
+      author: "庄子",
+      source: "《逍遥游》",
+      interpretation: "人真正需要的，其实很少。先把今天的一件小事做完。",
+    },
+    {
+      quote: "把每一天都当作最后一天，你便不会慌张。",
+      author: "塞涅卡",
+      source: "《书信集》",
+      interpretation: "不是要你悲观，而是提醒你：聚焦今天，就够用了。",
+    },
+  ],
+
+  // 悲伤 / 失落
+  悲伤: [
+    {
+      quote: "人有悲欢离合，月有阴晴圆缺，此事古难全。",
+      author: "苏轼",
+      source: "《水调歌头》",
+      interpretation: "聚散起落是人间常态，不必独独责怪自己。",
+    },
+    {
+      quote: "每一个不曾起舞的日子，都是对生命的辜负。",
+      author: "尼采",
+      source: "《查拉图斯特拉如是说》",
+      interpretation: "允许自己低落，也为微光留一扇窗。你不需要立刻好起来。",
+    },
+    {
+      quote: "哀莫过于心死，而人死亦次之。",
+      author: "庄子",
+      source: "《田子方》",
+      interpretation: "心若凉了最伤身。先照顾这颗心，别的慢慢来。",
+    },
+  ],
+};
+
+// 情绪关键词 → 分类（供倾诉模式做简单情绪识别）
+const EMOTION_KEYWORDS = {
+  委屈: ["委屈", "冤枉", "不公平", "被针对", "被误解", "受气", "背锅"],
+  愤怒: ["愤怒", "生气", "火大", "气死", "恼火", "憋屈想发", "恨"],
+  孤独: ["孤独", "没人懂", "一个人", "孤单", "没人陪", "寂寞", "被孤立"],
+  无力: ["无力", "没劲", "使不上劲", "撑不住", "累", "迷茫", "没方向", "想放弃"],
+  焦虑: ["焦虑", "慌", "担心", "害怕", "紧张", "睡不着", "压力大", "不安"],
+  悲伤: ["悲伤", "难过", "伤心", "失落", "哭", "想哭", "空虚", "绝望"],
+};
+
+function detectEmotion(text) {
+  if (!text) return null;
+  let best = null;
+  let bestScore = 0;
+  for (const cat of Object.keys(EMOTION_KEYWORDS)) {
+    let score = 0;
+    for (const kw of EMOTION_KEYWORDS[cat]) {
+      if (text.indexOf(kw) !== -1) score += 1;
+    }
+    if (score > bestScore) {
+      bestScore = score;
+      best = cat;
+    }
+  }
+  return bestScore > 0 ? best : null;
+}
+
+function pickComfort(emotion) {
+  const list = COMFORT_PACK[emotion];
+  if (!list || !list.length) return null;
+  return list[Math.floor(Math.random() * list.length)];
+}
+
+// ---------------- 危机护栏（写死，不依赖模型临场发挥） ----------------
+const CRISIS_KEYWORDS = [
+  "不想活", "活不下去", "不想活了", "活不下去了", "自杀", "轻生", "结束生命",
+  "一了百了", "寻死", "自尽", "不如死", "去死", "了断", "解脱", "活着没意思",
+  "活着没意义", "没脸活", "恨不得死",
+];
+
+function detectCrisis(text) {
+  if (!text) return false;
+  for (let i = 0; i < CRISIS_KEYWORDS.length; i++) {
+    if (text.indexOf(CRISIS_KEYWORDS[i]) !== -1) return true;
+  }
+  return false;
+}
+
+const CRISIS_CARD = {
+  title: "你很重要，先别独自扛",
+  lines: [
+    "我听到你了，也在乎你。此刻的痛苦是真实的，但它不会是永远。",
+    "请别一个人撑着——专业的帮助能陪你走过这段最难的路。",
+  ],
+  hotlines: [
+    { name: "北京心理危机干预中心", tel: "010-82951332" },
+    { name: "全国希望 24 热线", tel: "400-161-9995" },
+  ],
+  note: "如果你已经身处危险，请立刻联系身边可信的人，或拨打 120 / 110。",
+};
+
+const COMFORT_DISCLAIMER =
+  "本卡片为 AI 陪伴与经典阅读疏解，非专业心理诊疗。如情绪持续困扰，请拨打心理援助热线：北京心理危机干预中心 010-82951332，全国希望 24 热线 400-161-9995。";
+
+module.exports = {
+  COMFORT_PACK,
+  EMOTION_KEYWORDS,
+  detectEmotion,
+  pickComfort,
+  CRISIS_KEYWORDS,
+  detectCrisis,
+  CRISIS_CARD,
+  COMFORT_DISCLAIMER,
+};

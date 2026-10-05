@@ -1,1 +1,28 @@
-ewogICJzY2hlbWEiOiAia25vd2xlZGdlLXJlZ2lzdHJ5L3BpbG90LXYxIiwKICAibmFtZXNwYWNlIjogInBpbG90IiwKICAic3RvcmFnZSI6ICJsb2NhbC1maWxlICh0ZXN0cy9waWxvdC1uNC9hcnRpZmFjdHMvcmVnaXN0cnkuanNvbikg4oCUIE5PVCBwcm9kdWN0aW9uIGNsb3VkIERCIiwKICAicmVjb3JkcyI6IFsKICAgIHsKICAgICAgImtub3dsZWRnZV9pZCI6ICJQLTA0IiwKICAgICAgIm9iamVjdF90eXBlIjogImNvbmNlcHQtY2FyZCIsCiAgICAgICJ0aXRsZSI6ICLnoa7orqTlgY/lt67mpoLlv7XljaEiLAogICAgICAiZG9tYWluIjogInBzeWNob2xvZ3kvY29nbml0aXZlLWJpYXMiLAogICAgICAic291cmNlIjogIuWOn+WIm+amguW/teWNoe+8m+W8leeUqCBXYXNvbigxOTYwKSAyLTQtNiB0YXNr77ybTmlja2Vyc29uKDE5OTgpIFJldmlldyBvZiBHZW5lcmFsIFBzeWNob2xvZ3kiLAogICAgICAic291cmNlX3NoYTI1NiI6ICI2YzIwOGY5MDRkNzlkYzMzOWFiMjRjOWY3NTIwMDUyNDI3YmRkNzRlMjQ0NTNjM2EwMmQ2ODk2MmRiZDU2ZDU1IiwKICAgICAgImF1dGhvcml0eSI6ICJtZWRpdW0taGlnaCIsCiAgICAgICJldmlkZW5jZV9sZXZlbCI6ICJzZWNvbmRhcnktcmV2aWV3IiwKICAgICAgImNvcHlyaWdodF9zdGF0dXMiOiAib3JpZ2luYWwtY29udGVudCIsCiAgICAgICJ2ZXJzaW9uIjogIjAuMS4wLXBpbG90IiwKICAgICAgInN0YXR1cyI6ICJwaWxvdC10ZXN0aW5nIiwKICAgICAgImNyZWF0ZWRfdGltZSI6ICIyMDI2LTA4LTAxVDA5OjQzOjQxLjgwOFoiLAogICAgICAiZW1iZWRkaW5nX3N0YXR1cyI6ICJlbWJlZGRlZCIsCiAgICAgICJlbWJlZGRpbmdfcHJvdmlkZXIiOiAiZGFzaHNjb3BlIiwKICAgICAgImVtYmVkZGluZ19tb2RlbCI6ICJ0ZXh0LWVtYmVkZGluZy12MyIsCiAgICAgICJlbWJlZGRpbmdfZGltIjogMTAyNCwKICAgICAgImNodW5rX2NvdW50IjogNywKICAgICAgInF1YWxpdHlfc2NvcmUiOiA5Mi4wNSwKICAgICAgInJldmlld19zdGF0dXMiOiAiYXBwcm92ZWQtY2FuZGlkYXRlIgogICAgfQogIF0KfQ==
+{
+  "schema": "knowledge-registry/pilot-v1",
+  "namespace": "pilot",
+  "storage": "local-file (tests/pilot-n4/artifacts/registry.json) — NOT production cloud DB",
+  "records": [
+    {
+      "knowledge_id": "P-04",
+      "object_type": "concept-card",
+      "title": "确认偏差概念卡",
+      "domain": "psychology/cognitive-bias",
+      "source": "原创概念卡；引用 Wason(1960) 2-4-6 task；Nickerson(1998) Review of General Psychology",
+      "source_sha256": "6c208f904d79dc339ab24c9f7520052427bdd74e24453c3a02d68962dbd56d55",
+      "authority": "medium-high",
+      "evidence_level": "secondary-review",
+      "copyright_status": "original-content",
+      "version": "0.1.0-pilot",
+      "status": "pilot-testing",
+      "created_time": "2026-08-01T09:43:41.808Z",
+      "embedding_status": "embedded",
+      "embedding_provider": "dashscope",
+      "embedding_model": "text-embedding-v3",
+      "embedding_dim": 1024,
+      "chunk_count": 7,
+      "quality_score": 92.05,
+      "review_status": "approved-candidate"
+    }
+  ]
+}

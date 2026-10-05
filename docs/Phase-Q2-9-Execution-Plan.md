@@ -1,1 +1,188 @@
-IyBQaGFzZSBRMi0577yaU2VhclhORyDlm73lhoXpg6jnvbIgKyDlvq7kv6Hln5/lkI3phY3nva4gKyBMMiDnlJ/kuqfmv4DmtLvmiafooYzorqHliJINCg0KLSAqKuinkuiJsioq77yaUmVsZWFzZSBNYW5hZ2VyICsgUHJvZHVjdGlvbiBBSSBSZWxpYWJpbGl0eSBFbmdpbmVlcg0KLSAqKuaXpeacnyoq77yaMjAyNi0wOC0wNw0KLSAqKueKtuaAgSoq77ya8J+TiyAqKuaJp+ihjOiuoeWIku+8iFBMQU7vvInlt7LlsLHnu6oqKiDvvZwg4puUICoq5pys6Zi25q615pyq5omn6KGM5Lu75L2V5LiN5Y+v6YCG5pON5L2cKioNCiAg77yI5pyq6YOo572y5pyN5Yqh5ZmoIC8g5pyq5Luj54K55b6u5L+h5o6n5Yi25Y+wIC8g5pyqIGB0Y2IgZm4gZGVwbG95YCAvIOacquaUueWGmeeUn+S6pyBlbnYgLyDmnKogY29tbWl077yJDQotICoq5qC45b+D5Y6f5YiZKirvvJrmkJzntKLnu5Pmnpzku4XkvZwgcnVudGltZSBjb250ZXh077yb55+l6K+G5bqT5Ya757uT77yIY29ycHVzL2ludGVudC9rbm93bGVkZ2VSb3V0ZXIvcmFnIOmbtuaUueWKqO+8ie+8m+mbtui3qOWig++8iGRhdGFfcm91dGU9ZG9tZXN0aWPvvInvvJtmYWlsLXNvZnQg5Zue6YCAIFJBR+OAgg0KDQotLS0NCg0KIyMgMC4g5b2T5YmN54q25oCB77yI5p2l6IeqIFEyLTgg5Y+q6K+75qOA5p+l77yJDQoNCnwg57u05bqmIHwg54q25oCBIHwNCnwtLS18LS0tfA0KfCDku6PnoIEgLyDmiqTmoI/vvIhwcml2YWN5IC8gY2FuYXJ5IC8gcXVvdGEgLyBhdWRpdCAvIGZyZXNobmVzc1J1bnRpbWVHdWFyZO+8iSB8IOKchSDlt7LlsLHnu6rjgIHlt7LmjqXlhaUgYHNlYXJjaExheWVyYCDpk77ot68gfA0KfCDnprvnur/ph5HkuJ3pm4DvvIh0ZXN0X3EyNyAvIHRlc3RfcTI477yJIHwg4pyFIOWFqOe7v++8iDIxNyBQQVNTIC8gMCBGQUlM77yJ77yM5YWo56iLIGBkYXRhX3JvdXRlPWRvbWVzdGljYCB8DQp8IOeUn+S6pyBlbnbvvIhjbG91ZGJhc2VyYy5qc29u77yJIHwg4p2MIOS7jeS7hSBgQURNSU5fT1BFTklEYCArIGBLTk9XTEVER0VfT0JTRVJWQUJJTElUWV9TVE9SRWDvvIjmkJzntKLlj5jph4/lhajnvLrvvIkgfA0KfCDmlrDmo4DntKLku6PnoIHpg6jnvbIgfCDinYwg5pyqIGB0Y2IgZm4gZGVwbG95YCB8DQp8IFNlYXJYTkcg5Zu95YaF5a6e5L6LIHwg4p2MIOacqumDqOe9siB8DQp8IOW+ruS/oSByZXF1ZXN0IOWfn+WQjeeZveWQjeWNlSB8IOKdjCDmnKrphY3nva4gfA0KfCDlsI/nqIvluo/lpIfmoYggQjEgfCDinYwg5a6h5qC45LitIHwNCg0KKirnu5PorroqKu+8muWHhuWkh+S+pyBSRUFEWe+8m+iQveWcsOS+p+mYu+WhnuS6jiBCMe+8iOmDqOe9su+8iSsgQjLvvIjln5/lkI3vvIkrIEIz77yIZGVwbG9577yJKyBCNO+8iOWkh+ahiO+8iSsgQjXvvIjnnJ/lrp4gY2FuYXJ5IG9wZW5pZO+8ieOAgg0KDQotLS0NCg0KIyMgUGFydCBBIOKAlCBCMe+8mlNlYXJYTkcg5Zu95YaF6YOo572y77yI6L+Q57u05L6n77yM6ZyA54us56uL5o6I5p2D5omn6KGM77yJDQoNCj4g5pys6Zi25q61Kirku4Xkuqflh7rpg6jnvbLljIXkuI4gcnVuYm9vayoq77yM5LiN5a6e6ZmF5omn6KGM6YOo572y77yI6ZyA5Lit5Zu95aSn6ZmG5pyN5Yqh5ZmoICsg5aSH5qGI5Z+f5ZCN77yM5bGe5aSW6YOo5Z+656GA6K6+5pa95Yqo5L2c77yJ44CCDQoNCiMjIyBBLjEg6YOo572y5YyF77yI5bey6ZqP5LuT5bqT5o+Q5L6b77yM5L2N5LqOIGBpbmZyYS9zZWFyeG5nL2DvvIkNCg0KfCDmlofku7YgfCDkvZznlKggfA0KfC0tLXwtLS18DQp8IGBzZXR0aW5ncy55bWxgIHwgU2VhclhORyDphY3nva7vvJoqKuS7heWbveWGheW8leaTjioq77yIYmFpZHUgLyBzb2dvdSAvIHNvKDM2MCnvvInvvIznpoHnlKggYmluZy9nb29nbGUvZGRnIOetie+8m+ebkeWQrCBgMTI3LjAuMC4xOjgwODBg77ybYHNlY3JldF9rZXlgIOWNoOS9jeW+heabv+aNoiB8DQp8IGBkb2NrZXItY29tcG9zZS55bWxgIHwgc2VhcnhuZyArIGNhZGR5IOS4pOWuueWZqO+8m3NlYXJ4bmcg5LuF5pq06Zyy5pys5py677yMY2FkZHkg5pq06ZyyIDgwLzQ0MyB8DQp8IGBDYWRkeWZpbGVgIHwgSFRUUFMg6Ieq5Yqo6K+B5Lmm77yITGV0J3MgRW5jcnlwdO+8iSsgYEF1dGhvcml6YXRpb246IEJlYXJlcmAg6Ym05p2D5Y+N5ZCR5Luj55CGIHwNCnwgYFJFQURNRS5tZGAgfCDlrozmlbTpg6jnvbIgcnVuYm9va++8iOeUn+aIkOWvhumSpeKGkuaUuemFjee9ruKGkuWQr+WKqOKGkuWGkueDn+KGkui/kOe7tO+8iSB8DQoNCiMjIyBBLjIg5YWz6ZSu5ZCI6KeE5L+d6K+B77yI6Zu26Leo5aKD77yJDQoNCi0gYHNldHRpbmdzLnltbGAg55qEIGBlbmdpbmVzOmAg5pivKirllK/kuIDlj6/kv6HmnaXmupAqKu+8muWPquWIl+WHuuWbveWGheW8leaTju+8jFNlYXJYTkcg5LiN5Lya5Yqg6L295pyq5YiX5Ye655qE6Leo5aKD5byV5pOO44CCDQotIGBkYXRhX3JvdXRlPWRvbWVzdGljYCDnmoTmraPnoa7mgKcqKuS+nei1lui/kOe7tOWwhuWunuS+i+mZkOWumuS4uuWbveWGheS4iua4uCoq4oCU4oCU5Luj56CB5bGC5LuF5YGa57uT5p6c5qCH6K6w44CCDQotIOmDqOe9suWQjuW/hemhu+i/kOihjCBgc2NyaXB0cy9zbW9rZV9zZWFyeG5nLmpzYO+8mg0KICAtIOivt+axgiBgL3NlYXJjaD9mb3JtYXQ9anNvbmDvvIznoa7orqQgSFRUUCAyMDAgKyDmnInnu5PmnpzvvJsNCiAgLSDmlLbpm4bov5Tlm54gYGVuZ2luZWAg5a2X5q6177yM5q+U5a+55Zu95YaF55m95ZCN5Y2V77ybKirmo4Dlh7rku7vkvZXot6jlooPlvJXmk47ljbMgRkFJTCoq77yIc2V0dGluZ3MueW1sIOivr+mFje+8ieOAgg0KDQojIyMgQS4zIOi0ueeUqA0KDQrku4UgQ1ZNIOWunuS+i+i0ue+8jCoq5peg5oyJ6YeP5qOA57Si6LS544CB5peg56ys5LiJ5pa5IEFQSSBLZXkqKu+8iOespuWQiCBRMi0444CM5LiN5o6l5pS26LS55pyN5Yqh44CN57qm5p2f77yJ44CCDQoNCi0tLQ0KDQojIyBQYXJ0IEIg4oCUIEIy77ya5b6u5L+hIHJlcXVlc3Qg5ZCI5rOV5Z+f5ZCN6YWN572u77yI5o6n5Yi25Y+w5omL5Yqo77yM6ZyA55So5oi35pON5L2c77yJDQoNCj4g5pys5q2l6aqkKirlv4XpobvlnKjlvq7kv6HlhazkvJflubPlj7DmjqfliLblj7DmiYvliqjlrozmiJAqKu+8jEFnZW50IOaXoOazleS7o+eCueOAgg0KDQoxLiDnmbvlvZUgKirlvq7kv6HlhazkvJflubPlj7AqKiDihpIg6L+b5YWl44CM5ZCR5pma6Zeu5oCd44CN5bCP56iL5bqP77yIQVBQSUQgYHd4MjY1M2YxMjU4OWY5Zjg5ZmDvvInjgIINCjIuIOW3puS+pyAqKuW8gOWPkSoqIOKGkiAqKuW8gOWPkeeuoeeQhioqIOKGkiAqKuW8gOWPkeiuvue9rioqIOKGkiAqKuacjeWKoeWZqOWfn+WQjSoq44CCDQozLiDlnKggKipyZXF1ZXN0IOWQiOazleWfn+WQjSoqIOS4rea3u+WKoO+8mg0KICAgYGBgDQogICBzZWFyY2guZXhhbXBsZS5jb20NCiAgIGBgYA0KICAg77yI5pu/5o2i5Li6IEEuMSDlrp7pmYXpg6jnvbLlubblt7IgKipJQ1Ag5aSH5qGIKiog55qE5Z+f5ZCN77ybKirkuI3luKYgYGh0dHBzOi8vYCDljY/orq7lpLQqKuOAgu+8iQ0KNC4g5L+d5a2Y77yb55Sf5pWI6YCa5bi45pWw5YiG6ZKf5YaF77yM55yf5py66aG755So5bey5aSH5qGI5Z+f5ZCN44CCDQo1LiDimqDvuI8g5Z+f5ZCNKirlv4Xpobvlt7LlrozmiJAgSUNQIOWkh+ahiCoq77yM5ZCm5YiZ5b6u5L+h5ouS57ud5o6l5Y+X77yI5aSH5qGIIEIxIOS4juWfn+WQjeeZveWQjeWNlSBCMiDkupLkuLrliY3nva7vvInjgIINCg0KLS0tDQoNCiMjIFBhcnQgQyDigJQgQjMvQjXvvJpMMiDnlJ/kuqfmv4DmtLvvvIjpnIDmmL7lvI8gR08g5o6I5p2D77yJDQoNCiMjIyBDLjEgY2xvdWRiYXNlcmMuanNvbiBgZW52VmFyaWFibGVzYCDnsr7noa7ooaXkuIENCg0K5b2T5YmNIGBlbnZWYXJpYWJsZXNgIOS7he+8mg0KYGBganNvbg0KeyAiQURNSU5fT1BFTklEIjogIllPVVJfQURNSU5fT1BFTklEIiwgIktOT1dMRURHRV9PQlNFUlZBQklMSVRZX1NUT1JFIjogImNsb3VkIiB9DQpgYGANCg0KKirlvoXlupTnlKjvvIhHTyDlkI7lhpnlhaXvvInnmoQgMTAg6aG55paw5aKe5Y+Y6YePKirvvJoNCmBgYGpzb24NCnsNCiAgIkZSRVNITkVTU19FTkFCTEVEIjogInRydWUiLA0KICAiRlJFU0hORVNTX0ZBQ1RVQUxfRU5BQkxFRCI6ICJ0cnVlIiwNCiAgIlNFQVJDSF9QUk9WSURFUiI6ICJkb21lc3RpYyIsDQogICJQUklWQUNZX0dBVEVfRU5BQkxFRCI6ICJ0cnVlIiwNCiAgIlNFQVJDSF9DQU5BUllfRU5BQkxFRCI6ICJ0cnVlIiwNCiAgIlNFQVJDSF9DQU5BUllfT1BFTklEUyI6ICJvQ0FOQVJZX2wyX3Rlc3RfMDAxIiwNCiAgIlNFQVJYTkdfQkFTRV9VUkwiOiAiaHR0cHM6Ly9zZWFyY2guZXhhbXBsZS5jb20iLA0KICAiU0VBUlhOR19FTkdJTkVTIjogImJhaWR1LHNvZ291LHNvIiwNCiAgIlNFQVJDSF9NQVhfUkVTVUxUUyI6ICI1IiwNCiAgIlNFQVJDSF9USU1FT1VUX01TIjogIjMwMDAiLA0KICAiU0VBUkNIX0RBSUxZX1FVT1RBIjogIjUwMCINCn0NCmBgYA0KDQo+IOKaoO+4jyDms6jmhI/vvJoNCj4gLSBgRlJFU0hORVNTX0VOQUJMRUQ9dHJ1ZWAg5pivKirmgLvpl7gqKu+8jOe8uuWugyBmcmVzaG5lc3Mg5bGC5qC55pys5LiN5Yqg6L2977yIUTItOCDlt7Lpqozor4HvvInjgIINCj4gLSBgU0VBUlhOR19CQVNFX1VSTGAg5b+F6aG7ID0gQjEg5a6e6ZmF5Z+f5ZCN77yM5LiU5bey5aSH5qGI44CB5bey5ZyoIEIyIOeZveWQjeWNleOAgg0KPiAtIGBTRUFSWE5HX0VOR0lORVNgIOS4jiBgc2V0dGluZ3MueW1sYCDnmoTlvJXmk47muIXljZXlupTkuIDoh7TvvIhiYWlkdS9zb2dvdS9zb++8ieOAgg0KPiAtIGBTRUFSQ0hfQ0FOQVJZX09QRU5JRFNgIOabv+aNouS4uioq55yf5a6e5rWL6K+V5b6u5L+h5Y+3IG9wZW5pZCoq77yb5LuF6K+lIG9wZW5pZCDotbDnnJ/lrp4gZG9tZXN0aWPvvIzlhbbkvZnnlKjmiLfku43otbAgbW9jay9SQUfvvIhMMiDngbDluqbvvInjgIINCj4gLSDmnKzooaXkuIEqKuemgeeUqOS7u+S9lei3qOWigyBwcm92aWRlcioq77yIdGF2aWx5L2Jpbmcvc2VycCDkuI3lnKjphY3nva7kuK3vvInjgIINCg0KIyMjIEMuMiDpg6jnvbLlkb3ku6TvvIhHTyDlkI7miafooYzvvIkNCg0KYGBgYmFzaA0KIyDlnKggd2VhcHAvIOebruW9lQ0KdGNiIGZuIGRlcGxveSBjaGF0IC0tZm9yY2UNCmBgYA0KDQo+IOKaoO+4jyAqKumDqOe9suWJjeW/heivuyBgY2xvdWRiYXNlcmMuanNvbmAqKu+8mmB0Y2IgZm4gZGVwbG95YCDkvJrlpZfnlKjlhbYgYGVudlZhcmlhYmxlcy9ydW50aW1lL3RpbWVvdXQvbWVtb3J5U2l6ZWDvvIwNCj4g5LiO55Sf5Lqn5LiN5LiA6Ie05LyaKirpnZnpu5jopobnm5YqKueUn+S6p+eOr+Wig+WPmOmHj+OAguWKoeW/heWFiOehruiupCBDLjEg6KGl5LiB5bey5q2j56Gu5YaZ5YWl5LiUIHJ1bnRpbWU9Tm9kZWpzMTYuMTPjgIF0aW1lb3V0L21lbW9yeSDkuI7njrDnvZHkuIDoh7TjgIINCg0KIyMjIEMuMyBMMiDph5HkuJ3pm4Dpqozor4HvvIjnnJ/lrp7ogZTosIPvvIkNCg0KMS4g55SoIGBTRUFSQ0hfQ0FOQVJZX09QRU5JRFNgIOS4reeahOa1i+ivleWPt+WPkei1t+ecn+WunumXruetlO+8iOimhuebluWunuaXtuaXtumXtC/mlrDpl7sv5pmu6YCa55+l6K+GL+e7j+WFuOmXrumimO+8ieOAgg0KMi4g6KeC5rWLIGBsb2dzYCAvIGBvYnNlcnZhYmlsaXR5X2xvZ3Ng77yaDQogICAtIOiBlOe9kee7k+aenOi/m+WFpeWbnuetlCDinIUNCiAgIC0gYHNlYXJjaF9hdWRpdC5kYXRhX3JvdXRlID0gImRvbWVzdGljImAg4pyF77yI6Zu26Leo5aKD77yJDQogICAtIGBzZWFyY2hfYXVkaXRgIOaXoCBxdWVyeSAvIG9wZW5pZCAvIFVSTCAvIOWFqOaWhyDinIUNCiAgIC0g5pCc57Si5aSx6LSl6Ieq5Yqo5Zue6YCAIFJBRyDinIUNCjMuIOi3kSBgc2NyaXB0cy9zbW9rZV9zZWFyeG5nLmpzYCDnoa7orqTlrp7kvovlkIjop4TvvIjop4EgQS4y77yJ44CCDQo0LiDot5EgYHNjcmlwdHMvdGVzdF9xMjguanNgIOehruiupOemu+e6v+WbnuW9kuS7jeWFqOe7v++8iDIxNyBQQVNT77yJ44CCDQoNCi0tLQ0KDQojIyBQYXJ0IEQg4oCUIOWbnua7muaWueahiA0KDQp8IOmjjumZqSB8IOWbnua7muWKqOS9nCB8DQp8LS0tfC0tLXwNCnwg6IGU572R6LSo6YeP5beuIC8g5bu26L+f6auYIHwg5bCGIGBTRUFSWE5HX0JBU0VfVVJMYCDnva7nqbog4oaSIGBkb21lc3RpY0ZyZWVTZWFyY2hgIOeri+WNsyBgbm9fZW5kcG9pbnRgIOmZjee6p++8jOWbnuetlOWbnumAgCBSQUfvvIzpm7bku6PnoIHmlLnliqggfA0KfCDmo4Dlh7rot6jlooPlvJXmk44gfCDlgZwgU2VhclhORyDlrp7kvovmiJbkv67mlLkgYHNldHRpbmdzLnltbGAg6YeN5ZCv77yb5ZCM5pe2572u56m6IGBTRUFSWE5HX0JBU0VfVVJMYCB8DQp8IOaDs+aVtOS9k+WFs+mXreS6i+WunuaQnOe0oiB8IGBGUkVTSE5FU1NfRkFDVFVBTF9FTkFCTEVEPWZhbHNlYO+8iOaIliBgRlJFU0hORVNTX0VOQUJMRUQ9ZmFsc2VgIOS4gOmUruWFs+aVtOS4qiBmcmVzaG5lc3Mg5bGC77yJIHwNCnwg6YOo572y5byC5bi4IHwg6YeN5pawIGB0Y2IgZm4gZGVwbG95IGNoYXQgLS1mb3JjZWAg5LiK5LiA5Liq5bey55+l6Imv5aW954mI5pys77yb5oiW5Li05pe25pS55ZueIGVudiDkuI3lkKvmkJzntKLlj5jph48gfA0KDQrlm57mu5rlnYfkuLogZW52L+WunuS+i+WxguaTjeS9nO+8jCoq5LiN6Kem56Kw55+l6K+G5bqT44CB5LiN5Zue5rua5Luj56CB5Ya757uT6LWE5LqnKirjgIINCg0KLS0tDQoNCiMjIFBhcnQgRSDigJQg6aqM6K+B5riF5Y2V77yI5pys6Zi25q615bey5Y+v5omn6KGMIC8g5b6FIEIxIOWQjuaJp+ihjO+8iQ0KDQp8ICMgfCDpqozor4HpobkgfCDnirbmgIEgfA0KfC0tLXwtLS18LS0tfA0KfCAxIHwg5Ya757uT6LWE5LqnIFNIQSA0LzQg5LiN5Y+YIHwg4pyFIOacrOmYtuautSA0LzTvvIjop4Egwqcx77yJIHwNCnwgMiB8IHRlc3RfcTI4IOemu+e6v+WbnuW9kuWFqOe7vyB8IOKPsyDlvoXmnKzpmLbmrrXmnKvlsL7ph43ot5Hnoa7orqQgfA0KfCAzIHwgc21va2Vfc2VhcnhuZyDlkIjop4TvvIjml6Dot6jlooPlvJXmk47vvIkgfCDij7Mg5b6FIEIxIOmDqOe9suWQjiB8DQp8IDQgfCDlvq7kv6Hln5/lkI3nmb3lkI3ljZXphY3nva4gfCDij7Mg5b6FIEIyIOeUqOaIt+aTjeS9nCB8DQp8IDUgfCDnnJ/lrp4gTDIgY2FuYXJ5IOiBlOiwgyB8IOKPsyDlvoUgQjMvQjUgR08g5ZCOIHwNCg0KLS0tDQoNCiMjIDEuIOWGu+e7k+i1hOS6p+ivgeaYju+8iFNIQTI1Nu+8jOWfuue6v+WvueavlO+8iQ0KDQp8IOaWh+S7tiB8IFNIQTI1NiB8IOavlOWvuSB8DQp8LS0tfC0tLXwtLS18DQp8IGNvcnB1cy5qc29uIHwgYGRiMDFmYmM5MjA2NGNiZWEzYTY2ODhhOTgxNjBiNmE3MGM5ZTE1MDI1OWI1NDA2M2M4ZTJlOTY5NzRlYWJjOGJgIHwg4pyFIOWfuue6vyB8DQp8IGludGVudC5qcyB8IGA3NjVhZDEzOGVjNjhjMGYxNTljNmY3NWE2MGU1MjY4YmViMDJmYmExNTJmNmQ1M2RiZGM1MzliYTE1NjBjYTM4YCB8IOKchSDln7rnur8gfA0KfCBrbm93bGVkZ2VSb3V0ZXIuanMgfCBgODQ4OTA4NDQ1ZGJiNWVhOTNhNmY1Mjc3NWRjM2M4ZTY5MjJmZjk3MWQ2Y2VlMTE1NTQ3ZjIzNmZmZWQwYTkzNWAgfCDinIUg5Z+657q/IHwNCnwgcmFnLmpzIHwgYDRmYjJkY2E0MjU5N2EyNzc5MTE0NzJhM2NmMWU4NDExZjlmNWMwODk4OGMyNzEyZTM4ZDI2MGQ1OGZjMmI1MDNgIHwg4pyFIOWfuue6vyB8DQoNCuacrOmYtuauteS7hSoq5paw5aKeKiogYGluZnJhL3NlYXJ4bmcvKmAg5LiOIGBzY3JpcHRzL3Ntb2tlX3NlYXJ4bmcuanNg77yMKirmnKrkv67mlLkqKuS4iui/sOWbm+aWh+S7tuWPiuS7u+S9leefpeivhuW6ky9SQUcv5Ya757uT5Luj56CB44CCDQoNCi0tLQ0KDQojIyAyLiBHTyDpl7jpl6jvvIjpobvnlKjmiLfmmL7lvI/mjojmnYPmlrnlj6/miafooYzvvIkNCg0KfCDpl7jpl6ggfCDliqjkvZwgfCDotKPku7vmlrkgfA0KfC0tLXwtLS18LS0tfA0KfCBHMSB8IOmHh+i0rS/lh4blpIfkuK3lm73lpKfpmYYgQ1ZNICsg5aSH5qGI5Z+f5ZCNIHwg55So5oi3IHwNCnwgRzIgfCDmiafooYwgYGluZnJhL3NlYXJ4bmdgIOmDqOe9su+8iEIx77yJIHwg55So5oi3L+i/kOe7tO+8iOaIluaOiOadgyBBZ2VudCDot5EgcnVuYm9va++8iSB8DQp8IEczIHwg5b6u5L+h5o6n5Yi25Y+w5re75YqgIHJlcXVlc3Qg5Z+f5ZCN77yIQjLvvIkgfCDnlKjmiLcgfA0KfCBHNCB8IOWwhiBDLjEgZW52IOihpeS4geWGmeWFpSBgY2xvdWRiYXNlcmMuanNvbmAgfCDpnIAgR08gfA0KfCBHNSB8IGB0Y2IgZm4gZGVwbG95IGNoYXQgLS1mb3JjZWDvvIhCM++8iSB8IOmcgCBHTyB8DQp8IEc2IHwg5o+Q5L6b55yf5a6e5rWL6K+VIG9wZW5pZCDmm7/mjaIgYFNFQVJDSF9DQU5BUllfT1BFTklEU2DvvIhCNe+8iSB8IOeUqOaItyB8DQp8IEc3IHwg55yf5a6eIEwyIGNhbmFyeSDogZTosIMgKyDmianph4/lhrPnrZbvvIhCNCDlpIfmoYjpgJrov4flkI7vvIkgfCDnlKjmiLcgfA0KDQo+IOacrOmYtuauteS6pOS7mCoq6K6h5YiSICsg6YOo572y5YyFICsg6aqM6K+B6ISa5pysKirvvIzkuI3ku6PkuLrot6jov4fku7vkvZUgR08g6Ze46Zeo44CCDQoNCi0tLQ0KDQojIyAzLiDkuKXnpoHkuovpobnvvIjph43nlLPvvIkNCg0K4p2MIOS/ruaUuSBjb3JwdXMuanNvbiAvIGludGVudC5qcyAvIGtub3dsZWRnZVJvdXRlci5qcyAvIHJhZy5qcw0K4p2MIOS/ruaUuSBQcm9tcHQgLyBSQUcg6YC76L6RIC8gZW1iZWRkaW5nIC8gaW5nZXN0DQrinYwg5rGh5p+T6ZW/5pyf55+l6K+G57yT5a2YDQrinYwg5o6l5YWlIHRhdmlseSAvIGJpbmcgLyBzZXJwYXBpIC8g5Lu75L2V6Leo5aKDIHByb3ZpZGVyDQrinYwg5byA5pS+5YWo6YeP55So5oi377yITDIg5LuF6ZmQIGNhbmFyeSBvcGVuaWTvvIkNCuKdjCBjb21taXQgLyBwdXNo77yI6Zmk6Z2e5Y+m6KGM5o6I5p2D77yJDQrinYwg5a6e6ZmFIGB0Y2IgZm4gZGVwbG95YO+8iOmZpOmdniBHNSBHT++8iQ0K
+﻿# Phase Q2-9：SearXNG 国内部署 + 微信域名配置 + L2 生产激活执行计划
+
+- **角色**：Release Manager + Production AI Reliability Engineer
+- **日期**：2026-08-07
+- **状态**：📋 **执行计划（PLAN）已就绪** ｜ ⛔ **本阶段未执行任何不可逆操作**
+  （未部署服务器 / 未代点微信控制台 / 未 `tcb fn deploy` / 未改写生产 env / 未 commit）
+- **核心原则**：搜索结果仅作 runtime context；知识库冻结（corpus/intent/knowledgeRouter/rag 零改动）；零跨境（data_route=domestic）；fail-soft 回退 RAG。
+
+---
+
+## 0. 当前状态（来自 Q2-8 只读检查）
+
+| 维度 | 状态 |
+|---|---|
+| 代码 / 护栏（privacy / canary / quota / audit / freshnessRuntimeGuard） | ✅ 已就绪、已接入 `searchLayer` 链路 |
+| 离线金丝雀（test_q27 / test_q28） | ✅ 全绿（217 PASS / 0 FAIL），全程 `data_route=domestic` |
+| 生产 env（cloudbaserc.json） | ❌ 仍仅 `ADMIN_OPENID` + `KNOWLEDGE_OBSERVABILITY_STORE`（搜索变量全缺） |
+| 新检索代码部署 | ❌ 未 `tcb fn deploy` |
+| SearXNG 国内实例 | ❌ 未部署 |
+| 微信 request 域名白名单 | ❌ 未配置 |
+| 小程序备案 B1 | ❌ 审核中 |
+
+**结论**：准备侧 READY；落地侧阻塞于 B1（部署）+ B2（域名）+ B3（deploy）+ B4（备案）+ B5（真实 canary openid）。
+
+---
+
+## Part A — B1：SearXNG 国内部署（运维侧，需独立授权执行）
+
+> 本阶段**仅产出部署包与 runbook**，不实际执行部署（需中国大陆服务器 + 备案域名，属外部基础设施动作）。
+
+### A.1 部署包（已随仓库提供，位于 `infra/searxng/`）
+
+| 文件 | 作用 |
+|---|---|
+| `settings.yml` | SearXNG 配置：**仅国内引擎**（baidu / sogou / so(360)），禁用 bing/google/ddg 等；监听 `127.0.0.1:8080`；`secret_key` 占位待替换 |
+| `docker-compose.yml` | searxng + caddy 两容器；searxng 仅暴露本机，caddy 暴露 80/443 |
+| `Caddyfile` | HTTPS 自动证书（Let's Encrypt）+ `Authorization: Bearer` 鉴权反向代理 |
+| `README.md` | 完整部署 runbook（生成密钥→改配置→启动→冒烟→运维） |
+
+### A.2 关键合规保证（零跨境）
+
+- `settings.yml` 的 `engines:` 是**唯一可信来源**：只列出国内引擎，SearXNG 不会加载未列出的跨境引擎。
+- `data_route=domestic` 的正确性**依赖运维将实例限定为国内上游**——代码层仅做结果标记。
+- 部署后必须运行 `scripts/smoke_searxng.js`：
+  - 请求 `/search?format=json`，确认 HTTP 200 + 有结果；
+  - 收集返回 `engine` 字段，比对国内白名单；**检出任何跨境引擎即 FAIL**（settings.yml 误配）。
+
+### A.3 费用
+
+仅 CVM 实例费，**无按量检索费、无第三方 API Key**（符合 Q2-8「不接收费服务」约束）。
+
+---
+
+## Part B — B2：微信 request 合法域名配置（控制台手动，需用户操作）
+
+> 本步骤**必须在微信公众平台控制台手动完成**，Agent 无法代点。
+
+1. 登录 **微信公众平台** → 进入「向晚问思」小程序（APPID `wx2653f12589f9f89f`）。
+2. 左侧 **开发** → **开发管理** → **开发设置** → **服务器域名**。
+3. 在 **request 合法域名** 中添加：
+   ```
+   search.example.com
+   ```
+   （替换为 A.1 实际部署并已 **ICP 备案** 的域名；**不带 `https://` 协议头**。）
+4. 保存；生效通常数分钟内，真机须用已备案域名。
+5. ⚠️ 域名**必须已完成 ICP 备案**，否则微信拒绝接受（备案 B1 与域名白名单 B2 互为前置）。
+
+---
+
+## Part C — B3/B5：L2 生产激活（需显式 GO 授权）
+
+### C.1 cloudbaserc.json `envVariables` 精确补丁
+
+当前 `envVariables` 仅：
+```json
+{ "ADMIN_OPENID": "YOUR_ADMIN_OPENID", "KNOWLEDGE_OBSERVABILITY_STORE": "cloud" }
+```
+
+**待应用（GO 后写入）的 10 项新增变量**：
+```json
+{
+  "FRESHNESS_ENABLED": "true",
+  "FRESHNESS_FACTUAL_ENABLED": "true",
+  "SEARCH_PROVIDER": "domestic",
+  "PRIVACY_GATE_ENABLED": "true",
+  "SEARCH_CANARY_ENABLED": "true",
+  "SEARCH_CANARY_OPENIDS": "oCANARY_l2_test_001",
+  "SEARXNG_BASE_URL": "https://search.example.com",
+  "SEARXNG_ENGINES": "baidu,sogou,so",
+  "SEARCH_MAX_RESULTS": "5",
+  "SEARCH_TIMEOUT_MS": "3000",
+  "SEARCH_DAILY_QUOTA": "500"
+}
+```
+
+> ⚠️ 注意：
+> - `FRESHNESS_ENABLED=true` 是**总闸**，缺它 freshness 层根本不加载（Q2-8 已验证）。
+> - `SEARXNG_BASE_URL` 必须 = B1 实际域名，且已备案、已在 B2 白名单。
+> - `SEARXNG_ENGINES` 与 `settings.yml` 的引擎清单应一致（baidu/sogou/so）。
+> - `SEARCH_CANARY_OPENIDS` 替换为**真实测试微信号 openid**；仅该 openid 走真实 domestic，其余用户仍走 mock/RAG（L2 灰度）。
+> - 本补丁**禁用任何跨境 provider**（tavily/bing/serp 不在配置中）。
+
+### C.2 部署命令（GO 后执行）
+
+```bash
+# 在 weapp/ 目录
+tcb fn deploy chat --force
+```
+
+> ⚠️ **部署前必读 `cloudbaserc.json`**：`tcb fn deploy` 会套用其 `envVariables/runtime/timeout/memorySize`，
+> 与生产不一致会**静默覆盖**生产环境变量。务必先确认 C.1 补丁已正确写入且 runtime=Nodejs16.13、timeout/memory 与现网一致。
+
+### C.3 L2 金丝雀验证（真实联调）
+
+1. 用 `SEARCH_CANARY_OPENIDS` 中的测试号发起真实问答（覆盖实时时间/新闻/普通知识/经典问题）。
+2. 观测 `logs` / `observability_logs`：
+   - 联网结果进入回答 ✅
+   - `search_audit.data_route = "domestic"` ✅（零跨境）
+   - `search_audit` 无 query / openid / URL / 全文 ✅
+   - 搜索失败自动回退 RAG ✅
+3. 跑 `scripts/smoke_searxng.js` 确认实例合规（见 A.2）。
+4. 跑 `scripts/test_q28.js` 确认离线回归仍全绿（217 PASS）。
+
+---
+
+## Part D — 回滚方案
+
+| 风险 | 回滚动作 |
+|---|---|
+| 联网质量差 / 延迟高 | 将 `SEARXNG_BASE_URL` 置空 → `domesticFreeSearch` 立即 `no_endpoint` 降级，回答回退 RAG，零代码改动 |
+| 检出跨境引擎 | 停 SearXNG 实例或修改 `settings.yml` 重启；同时置空 `SEARXNG_BASE_URL` |
+| 想整体关闭事实搜索 | `FRESHNESS_FACTUAL_ENABLED=false`（或 `FRESHNESS_ENABLED=false` 一键关整个 freshness 层） |
+| 部署异常 | 重新 `tcb fn deploy chat --force` 上一个已知良好版本；或临时改回 env 不含搜索变量 |
+
+回滚均为 env/实例层操作，**不触碰知识库、不回滚代码冻结资产**。
+
+---
+
+## Part E — 验证清单（本阶段已可执行 / 待 B1 后执行）
+
+| # | 验证项 | 状态 |
+|---|---|---|
+| 1 | 冻结资产 SHA 4/4 不变 | ✅ 本阶段 4/4（见 §1） |
+| 2 | test_q28 离线回归全绿 | ⏳ 待本阶段末尾重跑确认 |
+| 3 | smoke_searxng 合规（无跨境引擎） | ⏳ 待 B1 部署后 |
+| 4 | 微信域名白名单配置 | ⏳ 待 B2 用户操作 |
+| 5 | 真实 L2 canary 联调 | ⏳ 待 B3/B5 GO 后 |
+
+---
+
+## 1. 冻结资产证明（SHA256，基线对比）
+
+| 文件 | SHA256 | 比对 |
+|---|---|---|
+| corpus.json | `db01fbc92064cbea3a6688a98160b6a70c9e150259b54063c8e2e96974eabc8b` | ✅ 基线 |
+| intent.js | `765ad138ec68c0f159c6f75a60e5268beb02fba152f6d53dbdc539ba1560ca38` | ✅ 基线 |
+| knowledgeRouter.js | `848908445dbb5ea93a6f52775dc3c8e6922ff971d6cee115547f236ffed0a935` | ✅ 基线 |
+| rag.js | `4fb2dca42597a277911472a3cf1e8411f9f5c08988c2712e38d260d58fc2b503` | ✅ 基线 |
+
+本阶段仅**新增** `infra/searxng/*` 与 `scripts/smoke_searxng.js`，**未修改**上述四文件及任何知识库/RAG/冻结代码。
+
+---
+
+## 2. GO 闸门（须用户显式授权方可执行）
+
+| 闸门 | 动作 | 责任方 |
+|---|---|---|
+| G1 | 采购/准备中国大陆 CVM + 备案域名 | 用户 |
+| G2 | 执行 `infra/searxng` 部署（B1） | 用户/运维（或授权 Agent 跑 runbook） |
+| G3 | 微信控制台添加 request 域名（B2） | 用户 |
+| G4 | 将 C.1 env 补丁写入 `cloudbaserc.json` | 需 GO |
+| G5 | `tcb fn deploy chat --force`（B3） | 需 GO |
+| G6 | 提供真实测试 openid 替换 `SEARCH_CANARY_OPENIDS`（B5） | 用户 |
+| G7 | 真实 L2 canary 联调 + 扩量决策（B4 备案通过后） | 用户 |
+
+> 本阶段交付**计划 + 部署包 + 验证脚本**，不代为跨过任何 GO 闸门。
+
+---
+
+## 3. 严禁事项（重申）
+
+❌ 修改 corpus.json / intent.js / knowledgeRouter.js / rag.js
+❌ 修改 Prompt / RAG 逻辑 / embedding / ingest
+❌ 污染长期知识缓存
+❌ 接入 tavily / bing / serpapi / 任何跨境 provider
+❌ 开放全量用户（L2 仅限 canary openid）
+❌ commit / push（除非另行授权）
+❌ 实际 `tcb fn deploy`（除非 G5 GO）

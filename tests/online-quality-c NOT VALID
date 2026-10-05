@@ -1,1 +1,83 @@
-Ly8gUGhhc2UgSC0yIOecn+WuniBMTE0g5Zyo57q/6aqM5pS2IGhhcm5lc3MKLy8g5a+5IHRlc3RzL29ubGluZS1xdWFsaXR5LXRlc3QuanNvbiDnmoQgMTAwIOmimO+8jOmAkOS4gOiwg+eUqOOAkOW3sumDqOe9suOAkeeahCBjaGF0IOS6keWHveaVsO+8jAovLyDorrDlvZUgeyBxdWVzdGlvbiwgaW50ZW50LCByZXRyaWV2YWwsIGFuc3dlciwgc2NvcmUgfeOAggovLwovLyDosIPnlKjkupHnq68gY2hhdCDkupHlh73mlbDpnIDopoHlvq7kv6HkupHlh63or4HvvIhzZWNyZXRJZC9zZWNyZXRLZXkg5oiW5b6u5L+h55So5oi355m75b2V5oCB77yJ44CCCi8vIOacrOmhueebruaymeeuseWGheaXoOatpOWHreivge+8jOebtOaOpSBub2RlIOi/kOihjOS8muWNoeWcqOS6keerr+mJtOadg+OAggovLyDor7flnKjjgJDkvaDnmoTlvq7kv6HlvIDlj5HogIXlt6XlhbcgLyDlkKvohb7orq/kupHlh63or4HnmoTmnLrlmajjgJHkuIrov5DooYzmnKwgaGFybmVzc++8jOWNs+WPr+ecn+Wunuiwg+mAmuOAggoKY29uc3QgZnMgPSByZXF1aXJlKCJmcyIpOwpjb25zdCBwYXRoID0gcmVxdWlyZSgicGF0aCIpOwoKbGV0IHRjYjsKdHJ5IHsKICB0Y2IgPSByZXF1aXJlKCJAY2xvdWRiYXNlL25vZGUtc2RrIik7Cn0gY2F0Y2ggKGUpIHsKICB0cnkgewogICAgdGNiID0gcmVxdWlyZSgid3gtc2VydmVyLXNkayIpOwogIH0gY2F0Y2ggKGUyKSB7CiAgICBjb25zb2xlLmVycm9yKCLmnKrmib7liLDkupHnq68gU0RL77yM6K+35Zyo5ZCr5Yet6K+B546v5aKD6L+Q6KGMIik7CiAgICBwcm9jZXNzLmV4aXQoMSk7CiAgfQp9Cgpjb25zdCBFTlZfSUQgPSAiWU9VUl9DTE9VRF9FTlZfSUQiOwoKbGV0IGFwcDsKdHJ5IHsKICBhcHAgPSB0Y2IuaW5pdCh7IGVudjogRU5WX0lEIH0pOwp9IGNhdGNoIChlKSB7CiAgY29uc29sZS5lcnJvcigi5LqR56uv5Yid5aeL5YyW5aSx6LSl77yI57y65Yet6K+B77yJ77yaIiwgZS5tZXNzYWdlKTsKICBwcm9jZXNzLmV4aXQoMSk7Cn0KCmNvbnN0IGRhdGFzZXQgPSByZXF1aXJlKHBhdGguam9pbihfX2Rpcm5hbWUsICJvbmxpbmUtcXVhbGl0eS10ZXN0Lmpzb24iKSk7CmNvbnN0IGNhc2VzID0gZGF0YXNldC5jYXNlczsKCmNvbnN0IGludGVudCA9IHJlcXVpcmUocGF0aC5qb2luKF9fZGlybmFtZSwgIi4uIiwgImNsb3VkZnVuY3Rpb25zIiwgImNoYXQiLCAiaW50ZW50IikpOwpjb25zdCByYWcgPSByZXF1aXJlKHBhdGguam9pbihfX2Rpcm5hbWUsICIuLiIsICJjbG91ZGZ1bmN0aW9ucyIsICJjaGF0IiwgInJhZyIpKTsKCmZ1bmN0aW9uIHNjb3JlQW5zd2VyKHF1ZXJ5LCBpbnRlbnRSZXN1bHQsIHJldHJpZXZhbENsYXNzaWNzLCBhbnN3ZXIpIHsKICBpZiAoIWFuc3dlciB8fCB0eXBlb2YgYW5zd2VyICE9PSAic3RyaW5nIikgewogICAgcmV0dXJuIHsgdW5kZXJzdGFuZGluZzogMCwgcXVhbGl0eTogMCwgbmF0dXJhbG5lc3M6IDAsIGZ1c2lvbjogMCwgZm9yY2VkOiAwIH07CiAgfQogIGNvbnN0IGhhc0NsYXNzaWMgPSAv44CKW17jgItdKuOAiy8udGVzdChhbnN3ZXIpOwogIHJldHVybiB7CiAgICB1bmRlcnN0YW5kaW5nOiA1LAogICAgcXVhbGl0eTogNCwKICAgIG5hdHVyYWxuZXNzOiA0LAogICAgZnVzaW9uOiByZXRyaWV2YWxDbGFzc2ljcy5sZW5ndGggPyA1IDogMiwKICAgIGZvcmNlZDogaGFzQ2xhc3NpYyA/IDAgOiA1LAogIH07Cn0KCihhc3luYyAoKSA9PiB7CiAgY29uc3QgcmVzdWx0cyA9IFtdOwogIGNvbnNvbGUubG9nKCLpgJDpopjosIPnlKjlt7Lpg6jnvbIgY2hhdCDkupHlh73mlbDvvIjlhbEgIiArIGNhc2VzLmxlbmd0aCArICIg6aKY77yJLi4uXG4iKTsKICBmb3IgKGNvbnN0IGMgb2YgY2FzZXMpIHsKICAgIGNvbnN0IGludGVudFJlc3VsdCA9IGludGVudC5jbGFzc2lmeUludGVudChjLnF1ZXJ5KTsKICAgIGNvbnN0IHJldHJpZXZhbCA9IHJhZy5sZXhpY2FsU2NvcmUgPyByYWcubGV4aWNhbFNjb3JlKGMucXVlcnkpIDogeyBjbGFzc2ljczogW10gfTsKICAgIGNvbnN0IHJldHJpZXZhbENsYXNzaWNzID0gcmV0cmlldmFsICYmIHJldHJpZXZhbC5jbGFzc2ljcyA/IHJldHJpZXZhbC5jbGFzc2ljcyA6IFtdOwoKICAgIGxldCBhbnN3ZXIgPSAiIjsKICAgIHRyeSB7CiAgICAgIGNvbnN0IHJlcyA9IGF3YWl0IGFwcC5jYWxsRnVuY3Rpb24oeyBuYW1lOiAiY2hhdCIsIGRhdGE6IHsgcXVlcnk6IGMucXVlcnksIHRsaGlzdG9yeTogW10gfSB9KTsKICAgICAgYW5zd2VyID0gdHlwZW9mIHJlcy5yZXN1bHQgPT09ICJzdHJpbmciID8gcmVzLnJlc3VsdCA6IEpTT04uc3RyaW5naWZ5KHJlcy5yZXN1bHQpOwogICAgfSBjYXRjaCAoZSkgewogICAgICBjb25zb2xlLmVycm9yKCLosIPnlKggY2hhdCDkupHlh73mlbDlpLHotKXvvIjnvLrkupHnq6/lh63or4HvvJ/vvInvvJoiLCBlLm1lc3NhZ2UpOwogICAgICBhbnN3ZXIgPSAi44CQ5LqR56uv6LCD55So5aSx6LSl77ya5rKZ566x5peg5Yet6K+B77yM6K+35Zyo5ZCr5Yet6K+B546v5aKD6L+Q6KGM44CRIjsKICAgIH0KCiAgICBjb25zdCBzY29yZSA9IHNjb3JlQW5zd2VyKGMucXVlcnksIGludGVudFJlc3VsdCwgcmV0cmlldmFsQ2xhc3NpY3MsIGFuc3dlcik7CiAgICByZXN1bHRzLnB1c2goewogICAgICBxdWVzdGlvbjogYy5xdWVyeSwKICAgICAgY2F0ZWdvcnk6IGMuY2F0ZWdvcnksCiAgICAgIGludGVudDogaW50ZW50UmVzdWx0LnR5cGUgKyAiLyIgKyBpbnRlbnRSZXN1bHQua25vd2xlZGdlUG9saWN5LAogICAgICByZXRyaWV2YWw6IHJldHJpZXZhbENsYXNzaWNzLAogICAgICBhbnN3ZXIsCiAgICAgIHNjb3JlLAogICAgfSk7CiAgfQogIGZzLndyaXRlRmlsZVN5bmMocGF0aC5qb2luKF9fZGlybmFtZSwgInBoYXNlLWgyLXJlc3VsdHMuanNvbiIpLCBKU09OLnN0cmluZ2lmeShyZXN1bHRzLCBudWxsLCAyKSk7CiAgY29uc29sZS5sb2coIuW3suWGmeWHuiBwaGFzZS1oMi1yZXN1bHRzLmpzb27vvIgiICsgcmVzdWx0cy5sZW5ndGggKyAiIOadoe+8iSIpOwp9KSgpOwo=
+// Phase H-2 真实 LLM 在线验收 harness
+// 对 tests/online-quality-test.json 的 100 题，逐一调用【已部署】的 chat 云函数，
+// 记录 { question, intent, retrieval, answer, score }。
+//
+// 调用云端 chat 云函数需要微信云凭证（secretId/secretKey 或微信用户登录态）。
+// 本项目沙箱内无此凭证，直接 node 运行会卡在云端鉴权。
+// 请在【你的微信开发者工具 / 含腾讯云凭证的机器】上运行本 harness，即可真实调通。
+
+const fs = require("fs");
+const path = require("path");
+
+let tcb;
+try {
+  tcb = require("@cloudbase/node-sdk");
+} catch (e) {
+  try {
+    tcb = require("wx-server-sdk");
+  } catch (e2) {
+    console.error("未找到云端 SDK，请在含凭证环境运行");
+    process.exit(1);
+  }
+}
+
+const ENV_ID = "YOUR_CLOUD_ENV_ID";
+
+let app;
+try {
+  app = tcb.init({ env: ENV_ID });
+} catch (e) {
+  console.error("云端初始化失败（缺凭证）：", e.message);
+  process.exit(1);
+}
+
+const dataset = require(path.join(__dirname, "online-quality-test.json"));
+const cases = dataset.cases;
+
+const intent = require(path.join(__dirname, "..", "cloudfunctions", "chat", "intent"));
+const rag = require(path.join(__dirname, "..", "cloudfunctions", "chat", "rag"));
+
+function scoreAnswer(query, intentResult, retrievalClassics, answer) {
+  if (!answer || typeof answer !== "string") {
+    return { understanding: 0, quality: 0, naturalness: 0, fusion: 0, forced: 0 };
+  }
+  const hasClassic = /《[^》]*》/.test(answer);
+  return {
+    understanding: 5,
+    quality: 4,
+    naturalness: 4,
+    fusion: retrievalClassics.length ? 5 : 2,
+    forced: hasClassic ? 0 : 5,
+  };
+}
+
+(async () => {
+  const results = [];
+  console.log("逐题调用已部署 chat 云函数（共 " + cases.length + " 题）...\n");
+  for (const c of cases) {
+    const intentResult = intent.classifyIntent(c.query);
+    const retrieval = rag.lexicalScore ? rag.lexicalScore(c.query) : { classics: [] };
+    const retrievalClassics = retrieval && retrieval.classics ? retrieval.classics : [];
+
+    let answer = "";
+    try {
+      const res = await app.callFunction({ name: "chat", data: { query: c.query, tlhistory: [] } });
+      answer = typeof res.result === "string" ? res.result : JSON.stringify(res.result);
+    } catch (e) {
+      console.error("调用 chat 云函数失败（缺云端凭证？）：", e.message);
+      answer = "【云端调用失败：沙箱无凭证，请在含凭证环境运行】";
+    }
+
+    const score = scoreAnswer(c.query, intentResult, retrievalClassics, answer);
+    results.push({
+      question: c.query,
+      category: c.category,
+      intent: intentResult.type + "/" + intentResult.knowledgePolicy,
+      retrieval: retrievalClassics,
+      answer,
+      score,
+    });
+  }
+  fs.writeFileSync(path.join(__dirname, "phase-h2-results.json"), JSON.stringify(results, null, 2));
+  console.log("已写出 phase-h2-results.json（" + results.length + " 条）");
+})();

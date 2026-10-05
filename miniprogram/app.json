@@ -1,1 +1,62 @@
-ewogICJwYWdlcyI6IFsKICAgICJwYWdlcy9ob21lL2hvbWUiLAogICAgInBhZ2VzL2RhaWx5L2RhaWx5IiwKICAgICJwYWdlcy9jaGF0L2NoYXQiLAogICAgInBhZ2VzL2Zhdm9yaXRlcy9mYXZvcml0ZXMiLAogICAgInBhZ2VzL3F1aXovcXVpeiIsCiAgICAicGFnZXMvYWJvdXQvYWJvdXQiLAogICAgInBhZ2VzL2Jvb2tzL2Jvb2tzIiwKICAgICJwYWdlcy9hZG1pbi9hZG1pbiIsCiAgICAicGFnZXMvcHJpdmFjeS9wcml2YWN5IiwKICAgICJwYWdlcy9zZXNzaW9ucy9zZXNzaW9ucyIKICBdLAogICJ3aW5kb3ciOiB7CiAgICAibmF2aWdhdGlvbkJhclRpdGxlVGV4dCI6ICLlkJHmmZrpl67mgJ0iLAogICAgIm5hdmlnYXRpb25CYXJCYWNrZ3JvdW5kQ29sb3IiOiAiI2VmZTRjZiIsCiAgICAibmF2aWdhdGlvbkJhclRleHRTdHlsZSI6ICJibGFjayIsCiAgICAiYmFja2dyb3VuZENvbG9yIjogIiNlZmU0Y2YiLAogICAgImJhY2tncm91bmRUZXh0U3R5bGUiOiAiZGFyayIKICB9LAogICJ0YWJCYXIiOiB7CiAgICAiY29sb3IiOiAiIzdhNmQ1OCIsCiAgICAic2VsZWN0ZWRDb2xvciI6ICIjOWIyZjI1IiwKICAgICJiYWNrZ3JvdW5kQ29sb3IiOiAiI2VmZTRjZiIsCiAgICAiYm9yZGVyU3R5bGUiOiAid2hpdGUiLAogICAgImxpc3QiOiBbCiAgICAgIHsKICAgICAgICAicGFnZVBhdGgiOiAicGFnZXMvaG9tZS9ob21lIiwKICAgICAgICAidGV4dCI6ICLpppbpobUiLAogICAgICAgICJpY29uUGF0aCI6ICJhc3NldHMvdGFiLWhvbWUucG5nIiwKICAgICAgICAic2VsZWN0ZWRJY29uUGF0aCI6ICJhc3NldHMvdGFiLWhvbWUtYWN0aXZlLnBuZyIKICAgICAgfSwKICAgICAgewogICAgICAgICJwYWdlUGF0aCI6ICJwYWdlcy9kYWlseS9kYWlseSIsCiAgICAgICAgInRleHQiOiAi5q+P5pel5LiA5oCdIiwKICAgICAgICAiaWNvblBhdGgiOiAiYXNzZXRzL3RhYi1kYWlseS5wbmciLAogICAgICAgICJzZWxlY3RlZEljb25QYXRoIjogImFzc2V0cy90YWItZGFpbHktYWN0aXZlLnBuZyIKICAgICAgfSwKICAgICAgewogICAgICAgICJwYWdlUGF0aCI6ICJwYWdlcy9jaGF0L2NoYXQiLAogICAgICAgICJ0ZXh0IjogIuWvueivnSIsCiAgICAgICAgImljb25QYXRoIjogImFzc2V0cy90YWItY2hhdC5wbmciLAogICAgICAgICJzZWxlY3RlZEljb25QYXRoIjogImFzc2V0cy90YWItY2hhdC1hY3RpdmUucG5nIgogICAgICB9LAogICAgICB7CiAgICAgICAgInBhZ2VQYXRoIjogInBhZ2VzL2Zhdm9yaXRlcy9mYXZvcml0ZXMiLAogICAgICAgICJ0ZXh0IjogIuaUtuiXjyIsCiAgICAgICAgImljb25QYXRoIjogImFzc2V0cy90YWItZmF2LnBuZyIsCiAgICAgICAgInNlbGVjdGVkSWNvblBhdGgiOiAiYXNzZXRzL3RhYi1mYXYtYWN0aXZlLnBuZyIKICAgICAgfSwKICAgICAgewogICAgICAgICJwYWdlUGF0aCI6ICJwYWdlcy9hYm91dC9hYm91dCIsCiAgICAgICAgInRleHQiOiAi6K+05piOIiwKICAgICAgICAiaWNvblBhdGgiOiAiYXNzZXRzL3RhYi1hYm91dC5wbmciLAogICAgICAgICJzZWxlY3RlZEljb25QYXRoIjogImFzc2V0cy90YWItYWJvdXQtYWN0aXZlLnBuZyIKICAgICAgfQogICAgXQogIH0sCiAgInN0eWxlIjogInYyIiwKICAibGF6eUNvZGVMb2FkaW5nIjogInJlcXVpcmVkQ29tcG9uZW50cyIsCiAgInNpdGVtYXBMb2NhdGlvbiI6ICJzaXRlbWFwLmpzb24iCn0K
+{
+  "pages": [
+    "pages/home/home",
+    "pages/daily/daily",
+    "pages/chat/chat",
+    "pages/favorites/favorites",
+    "pages/quiz/quiz",
+    "pages/about/about",
+    "pages/books/books",
+    "pages/admin/admin",
+    "pages/privacy/privacy",
+    "pages/sessions/sessions"
+  ],
+  "window": {
+    "navigationBarTitleText": "向晚问思",
+    "navigationBarBackgroundColor": "#efe4cf",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#efe4cf",
+    "backgroundTextStyle": "dark"
+  },
+  "tabBar": {
+    "color": "#7a6d58",
+    "selectedColor": "#9b2f25",
+    "backgroundColor": "#efe4cf",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "首页",
+        "iconPath": "assets/tab-home.png",
+        "selectedIconPath": "assets/tab-home-active.png"
+      },
+      {
+        "pagePath": "pages/daily/daily",
+        "text": "每日一思",
+        "iconPath": "assets/tab-daily.png",
+        "selectedIconPath": "assets/tab-daily-active.png"
+      },
+      {
+        "pagePath": "pages/chat/chat",
+        "text": "对话",
+        "iconPath": "assets/tab-chat.png",
+        "selectedIconPath": "assets/tab-chat-active.png"
+      },
+      {
+        "pagePath": "pages/favorites/favorites",
+        "text": "收藏",
+        "iconPath": "assets/tab-fav.png",
+        "selectedIconPath": "assets/tab-fav-active.png"
+      },
+      {
+        "pagePath": "pages/about/about",
+        "text": "说明",
+        "iconPath": "assets/tab-about.png",
+        "selectedIconPath": "assets/tab-about-active.png"
+      }
+    ]
+  },
+  "style": "v2",
+  "lazyCodeLoading": "requiredComponents",
+  "sitemapLocation": "sitemap.json"
+}

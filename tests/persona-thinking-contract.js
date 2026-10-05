@@ -1,1 +1,142 @@
-IyEvdXNyL2Jpbi9lbnYgbm9kZQondXNlIHN0cmljdCc7CgovKioKICogcGVyc29uYUdlbiDmgJ3ogIPpk77lvIDlhbPlpZHnuqbmtYvor5UKICoKICog6IOM5pmv77yIMjAyNi0wOS0yMSBDUi3mqKHlnovkuInlsYLphY3nva7vvInvvJoKICogICBkZWVwc2VlayDns7vkuLrmgJ3ogIPlnovmqKHlnovvvIzkuI3kvKAgZW5hYmxlX3RoaW5raW5nOmZhbHNlIOS8muWFiOWQkCByZWFzb25pbmdfY29udGVudO+8jAogKiAgIOaKiiBtYXhfdG9rZW5zIOWQg+WFiSDihpIgY29udGVudCDkuLrnqbog4oaSIOivpeaooeWei+iiq+mdmem7mOi3s+i/h+OAgemZjee6p+WIsOS4i+S4gOS4quOAggogKiAgIOiAjOW9k+WJjemTvui3r+aKiiBkZWVwc2Vlay12NC4xLWZsYXNoIOaUvuWcqOS4u+aooeWei+S9je+8jOaJgOS7pei/meS4quWPguaVsOaYr+OAjOS4u+aooeWei+iDveS4jeiDveeUn+aViOOAjeeahOWJjeaPkOOAggogKgogKiDmnKzmtYvor5XnlKjmnKzlnLAgSFRUUCDmnI3liqHlmajmiKrojrfnnJ/lrp7or7fmsYLkvZPvvIzmlq3oqIDvvJoKICogICBbMV0gbW9kZWwg5Li6IGRlZXBzZWVrLXY0KiDihpIg5b+F6aG75rOo5YWlIGVuYWJsZV90aGlua2luZzpmYWxzZe+8iOmdnua1geW8jyAmIOa1geW8j++8iQogKiAgIFsyXSBtb2RlbCDkuI3kuLogZGVlcHNlZWstdjQqIOKGkiDlv4XpobvjgJDkuI3jgJHms6jlhaXvvIjpgb/lhY3lvbHlk40gcXdlbiAvIGFnbmVzIOmAmumBk++8iQogKiAgIFszXSBHRU5fRElTQUJMRV9USElOS0lORz10cnVlIOaXtuWvueS7u+aEj+aooeWei+mDveazqOWFpe+8iOmAg+eUn+W8gOWFs++8iQogKgogKiDov5DooYzvvJpub2RlIHRlc3RzL3BlcnNvbmEtdGhpbmtpbmctY29udHJhY3QuanMKICovCgpjb25zdCBodHRwID0gcmVxdWlyZSgnaHR0cCcpOwpjb25zdCBwYXRoID0gcmVxdWlyZSgncGF0aCcpOwoKY29uc3QgcGVyc29uYUdlbiA9IHJlcXVpcmUocGF0aC5qb2luKF9fZGlybmFtZSwgJy4uJywgJ2Nsb3VkZnVuY3Rpb25zJywgJ2NoYXQnLCAncGVyc29uYUdlbi5qcycpKTsKCmxldCBwYXNzID0gMDsKbGV0IGZhaWwgPSAwOwpjb25zdCBmYWlsdXJlcyA9IFtdOwoKZnVuY3Rpb24gb2sobmFtZSwgY29uZCwgZXh0cmEpIHsKICBpZiAoY29uZCkgewogICAgcGFzcyArPSAxOwogICAgY29uc29sZS5sb2coJyAgXHUyNzEzICcgKyBuYW1lKTsKICB9IGVsc2UgewogICAgZmFpbCArPSAxOwogICAgZmFpbHVyZXMucHVzaChuYW1lKTsKICAgIGNvbnNvbGUubG9nKCcgIFx1MjcxNyAnICsgbmFtZSArIChleHRyYSA/ICcgIOKGkiAnICsgZXh0cmEgOiAnJykpOwogIH0KfQoKLy8g5oiq6I636K+35rGC5L2T55qE5pys5Zyw5pyN5Yqh5ZmoCmZ1bmN0aW9uIHN0YXJ0U2VydmVyKCkgewogIHJldHVybiBuZXcgUHJvbWlzZShmdW5jdGlvbiAocmVzb2x2ZSkgewogICAgY29uc3QgY2FwdHVyZWQgPSBbXTsKICAgIGNvbnN0IHNlcnZlciA9IGh0dHAuY3JlYXRlU2VydmVyKGZ1bmN0aW9uIChyZXEsIHJlcykgewogICAgICBsZXQgcmF3ID0gJyc7CiAgICAgIHJlcS5vbignZGF0YScsIGZ1bmN0aW9uIChjKSB7IHJhdyArPSBjOyB9KTsKICAgICAgcmVxLm9uKCdlbmQnLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgbGV0IGJvZHkgPSBudWxsOwogICAgICAgIHRyeSB7IGJvZHkgPSBKU09OLnBhcnNlKHJhdyk7IH0gY2F0Y2ggKGUpIHt9CiAgICAgICAgY2FwdHVyZWQucHVzaChib2R5KTsKCiAgICAgICAgaWYgKGJvZHkgJiYgYm9keS5zdHJlYW0pIHsKICAgICAgICAgIC8vIFNTRSDlvaLmgIHvvJroh7PlsJHmjqjkuIDkuKogZGVsdGHvvIzlkKbliJkgZ2VuZXJhdGVTdHJlYW0g6KeG5Li65aSx6LSlCiAgICAgICAgICByZXMud3JpdGVIZWFkKDIwMCwgeyAnQ29udGVudC1UeXBlJzogJ3RleHQvZXZlbnQtc3RyZWFtJyB9KTsKICAgICAgICAgIHJlcy53cml0ZSgnZGF0YTogJyArIEpTT04uc3RyaW5naWZ5KHsgY2hvaWNlczogW3sgZGVsdGE6IHsgY29udGVudDogJ29rJyB9IH1dIH0pICsgJ1xuXG4nKTsKICAgICAgICAgIHJlcy53cml0ZSgnZGF0YTogW0RPTkVdXG5cbicpOwogICAgICAgICAgcmVzLmVuZCgpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICByZXMud3JpdGVIZWFkKDIwMCwgeyAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nIH0pOwogICAgICAgICAgcmVzLmVuZChKU09OLnN0cmluZ2lmeSh7IGNob2ljZXM6IFt7IG1lc3NhZ2U6IHsgcm9sZTogJ2Fzc2lzdGFudCcsIGNvbnRlbnQ6ICdvaycgfSB9XSB9KSk7CiAgICAgICAgfQogICAgICB9KTsKICAgIH0pOwogICAgc2VydmVyLmxpc3RlbigwLCAnMTI3LjAuMC4xJywgZnVuY3Rpb24gKCkgewogICAgICBjb25zdCBwb3J0ID0gc2VydmVyLmFkZHJlc3MoKS5wb3J0OwogICAgICByZXNvbHZlKHsKICAgICAgICBwb3J0OiBwb3J0LAogICAgICAgIGNhcHR1cmVkOiBjYXB0dXJlZCwKICAgICAgICBjbG9zZTogZnVuY3Rpb24gKCkgeyByZXR1cm4gbmV3IFByb21pc2UoZnVuY3Rpb24gKHIpIHsgc2VydmVyLmNsb3NlKHIpOyB9KTsgfSwKICAgICAgfSk7CiAgICB9KTsKICB9KTsKfQoKKGFzeW5jIGZ1bmN0aW9uIG1haW4oKSB7CiAgY29uc3Qgc3J2ID0gYXdhaXQgc3RhcnRTZXJ2ZXIoKTsKICBjb25zdCBCQVNFID0gJ2h0dHA6Ly8xMjcuMC4wLjE6JyArIHNydi5wb3J0OwogIGNvbnN0IGNmZyA9IGZ1bmN0aW9uIChtb2RlbCkgeyByZXR1cm4gW3sgbmFtZTogJ3Rlc3QnLCBiYXNlVVJMOiBCQVNFLCBhcGlLZXk6ICdzay10ZXN0JywgbW9kZWw6IG1vZGVsIH1dOyB9OwoKICBjb25zb2xlLmxvZygnWzFdIGRlZXBzZWVrLXY0IOezuyDihpIg5b+F6aG75rOo5YWlIGVuYWJsZV90aGlua2luZzpmYWxzZScpOwoKICBhd2FpdCBwZXJzb25hR2VuLmdlbmVyYXRlKGNmZygnZGVlcHNlZWstdjQuMS1mbGFzaCcpLCAnc3lzJywgJ3VzZXInKTsKICBsZXQgYiA9IHNydi5jYXB0dXJlZFtzcnYuY2FwdHVyZWQubGVuZ3RoIC0gMV07CiAgb2soJ+mdnua1geW8jyDCtyBkZWVwc2Vlay12NC4xLWZsYXNoIOazqOWFpSBlbmFibGVfdGhpbmtpbmcnLCBiICYmIGIuZW5hYmxlX3RoaW5raW5nID09PSBmYWxzZSwKICAgIGIgPyAn5a6e6ZmFID0gJyArIEpTT04uc3RyaW5naWZ5KGIuZW5hYmxlX3RoaW5raW5nKSA6ICfmnKrmjZXojrfor7fmsYLkvZMnKTsKCiAgYXdhaXQgcGVyc29uYUdlbi5nZW5lcmF0ZShjZmcoJ2RlZXBzZWVrLXY0LXByby0wODEzJyksICdzeXMnLCAndXNlcicpOwogIGIgPSBzcnYuY2FwdHVyZWRbc3J2LmNhcHR1cmVkLmxlbmd0aCAtIDFdOwogIG9rKCfpnZ7mtYHlvI8gwrcgZGVlcHNlZWstdjQtcHJvLTA4MTMg5rOo5YWlIGVuYWJsZV90aGlua2luZycsIGIgJiYgYi5lbmFibGVfdGhpbmtpbmcgPT09IGZhbHNlLAogICAgYiA/ICflrp7pmYUgPSAnICsgSlNPTi5zdHJpbmdpZnkoYi5lbmFibGVfdGhpbmtpbmcpIDogJ+acquaNleiOt+ivt+axguS9kycpOwoKICBhd2FpdCBwZXJzb25hR2VuLmdlbmVyYXRlU3RyZWFtKGNmZygnZGVlcHNlZWstdjQuMS1mbGFzaCcpLCAnc3lzJywgJ3VzZXInLCBmdW5jdGlvbiAoKSB7fSk7CiAgYiA9IHNydi5jYXB0dXJlZFtzcnYuY2FwdHVyZWQubGVuZ3RoIC0gMV07CiAgb2soJ+a1geW8jyDCtyBkZWVwc2Vlay12NC4xLWZsYXNoIOazqOWFpSBlbmFibGVfdGhpbmtpbmcnLCBiICYmIGIuZW5hYmxlX3RoaW5raW5nID09PSBmYWxzZSwKICAgIGIgPyAn5a6e6ZmFID0gJyArIEpTT04uc3RyaW5naWZ5KGIuZW5hYmxlX3RoaW5raW5nKSA6ICfmnKrmjZXojrfor7fmsYLkvZMnKTsKICBvaygn5rWB5byPIMK3IGRlZXBzZWVrIOS7jeS/neeVmSBzdHJlYW06dHJ1ZSAvIG1heF90b2tlbnMnLCAhIWIgJiYgYi5zdHJlYW0gPT09IHRydWUgJiYgYi5tYXhfdG9rZW5zID09PSAxNTM2LAogICAgYiA/ICdzdHJlYW09JyArIGIuc3RyZWFtICsgJyBtYXhfdG9rZW5zPScgKyBiLm1heF90b2tlbnMgOiAnJyk7CgogIGNvbnNvbGUubG9nKCdcblsyXSDpnZ4gZGVlcHNlZWsg5qih5Z6LIOKGkiDlv4XpobvjgJDkuI3jgJHms6jlhaXvvIjkv53miqQgcXdlbiAvIGFnbmVzIOmAmumBk++8iScpOwoKICBhd2FpdCBwZXJzb25hR2VuLmdlbmVyYXRlKGNmZygncXdlbi1wbHVzJyksICdzeXMnLCAndXNlcicpOwogIGIgPSBzcnYuY2FwdHVyZWRbc3J2LmNhcHR1cmVkLmxlbmd0aCAtIDFdOwogIG9rKCfpnZ7mtYHlvI8gwrcgcXdlbi1wbHVzIOS4jeWQqyBlbmFibGVfdGhpbmtpbmcnLCBiICYmICEoJ2VuYWJsZV90aGlua2luZycgaW4gYiksCiAgICBiID8gJ+WunumZhSBrZXlzID0gJyArIE9iamVjdC5rZXlzKGIpLmpvaW4oJywnKSA6ICcnKTsKCiAgYXdhaXQgcGVyc29uYUdlbi5nZW5lcmF0ZShjZmcoJ2FnbmVzLTIuNS1mbGFzaCcpLCAnc3lzJywgJ3VzZXInKTsKICBiID0gc3J2LmNhcHR1cmVkW3Nydi5jYXB0dXJlZC5sZW5ndGggLSAxXTsKICBvaygn6Z2e5rWB5byPIMK3IGFnbmVzLTIuNS1mbGFzaCDkuI3lkKsgZW5hYmxlX3RoaW5raW5nJywgYiAmJiAhKCdlbmFibGVfdGhpbmtpbmcnIGluIGIpLAogICAgYiA/ICflrp7pmYUga2V5cyA9ICcgKyBPYmplY3Qua2V5cyhiKS5qb2luKCcsJykgOiAnJyk7CgogIGF3YWl0IHBlcnNvbmFHZW4uZ2VuZXJhdGVTdHJlYW0oY2ZnKCdhZ25lcy0yLjUtZmxhc2gnKSwgJ3N5cycsICd1c2VyJywgZnVuY3Rpb24gKCkge30pOwogIGIgPSBzcnYuY2FwdHVyZWRbc3J2LmNhcHR1cmVkLmxlbmd0aCAtIDFdOwogIG9rKCfmtYHlvI8gwrcgYWduZXMtMi41LWZsYXNoIOS4jeWQqyBlbmFibGVfdGhpbmtpbmcnLCBiICYmICEoJ2VuYWJsZV90aGlua2luZycgaW4gYiksCiAgICBiID8gJ+WunumZhSBrZXlzID0gJyArIE9iamVjdC5rZXlzKGIpLmpvaW4oJywnKSA6ICcnKTsKCiAgY29uc29sZS5sb2coJ1xuWzNdIEdFTl9ESVNBQkxFX1RISU5LSU5HPXRydWUg4oaSIOS7u+aEj+aooeWei+mDveazqOWFpe+8iOmAg+eUn+W8gOWFs++8iScpOwogIHByb2Nlc3MuZW52LkdFTl9ESVNBQkxFX1RISU5LSU5HID0gJ3RydWUnOwogIGF3YWl0IHBlcnNvbmFHZW4uZ2VuZXJhdGUoY2ZnKCdxd2VuLXBsdXMnKSwgJ3N5cycsICd1c2VyJyk7CiAgYiA9IHNydi5jYXB0dXJlZFtzcnYuY2FwdHVyZWQubGVuZ3RoIC0gMV07CiAgb2soJ+mAg+eUn+W8gOWFsyDCtyBxd2VuLXBsdXMg5Lmf6KKr5rOo5YWlJywgYiAmJiBiLmVuYWJsZV90aGlua2luZyA9PT0gZmFsc2UsCiAgICBiID8gJ+WunumZhSA9ICcgKyBKU09OLnN0cmluZ2lmeShiLmVuYWJsZV90aGlua2luZykgOiAnJyk7CiAgZGVsZXRlIHByb2Nlc3MuZW52LkdFTl9ESVNBQkxFX1RISU5LSU5HOwoKICBjb25zb2xlLmxvZygnXG5bNF0g6K+35rGC5L2T57uT5p6E5a6M5pW05oCn77yI5pyq6KKr5pS56YCg56C05Z2P77yJJyk7CiAgYXdhaXQgcGVyc29uYUdlbi5nZW5lcmF0ZShjZmcoJ2RlZXBzZWVrLXY0LjEtZmxhc2gnKSwgJ1NZU19QUk9NUFQnLCAnVVNFUl9NU0cnKTsKICBiID0gc3J2LmNhcHR1cmVkW3Nydi5jYXB0dXJlZC5sZW5ndGggLSAxXTsKICBvaygnbWVzc2FnZXMg5LuN5Li6IFtzeXN0ZW0sIHVzZXJdIOS4pOadoScsICEhYiAmJiBBcnJheS5pc0FycmF5KGIubWVzc2FnZXMpICYmIGIubWVzc2FnZXMubGVuZ3RoID09PSAyCiAgICAmJiBiLm1lc3NhZ2VzWzBdLnJvbGUgPT09ICdzeXN0ZW0nICYmIGIubWVzc2FnZXNbMV0ucm9sZSA9PT0gJ3VzZXInKTsKICBvaygnc3lzdGVtIC8gdXNlciDlhoXlrrnljp/moLfpgI/kvKAnLCAhIWIgJiYgYi5tZXNzYWdlc1swXS5jb250ZW50ID09PSAnU1lTX1BST01QVCcgJiYgYi5tZXNzYWdlc1sxXS5jb250ZW50ID09PSAnVVNFUl9NU0cnKTsKICBvaygnbW9kZWwg5a2X5q615Y6f5qC3JywgISFiICYmIGIubW9kZWwgPT09ICdkZWVwc2Vlay12NC4xLWZsYXNoJyk7CgogIGF3YWl0IHNydi5jbG9zZSgpOwoKICBjb25zb2xlLmxvZygnXG4nICsgJz0nLnJlcGVhdCg1NikpOwogIGNvbnNvbGUubG9nKCdQQVNTOiAnICsgcGFzcyArICcgICAgRkFJTDogJyArIGZhaWwpOwogIGlmIChmYWlsKSBjb25zb2xlLmxvZygn5aSx6LSl6aG577yaXG4gIC0gJyArIGZhaWx1cmVzLmpvaW4oJ1xuICAtICcpKTsKICBlbHNlIGNvbnNvbGUubG9nKCflhajpg6jpgJrov4fvvJpkZWVwc2VlayDns7vlv4Xms6jlhaXjgIHlhbbku5bmqKHlnovpm7blvbHlk43jgIInKTsKICBwcm9jZXNzLmV4aXQoZmFpbCA/IDEgOiAwKTsKfSkoKS5jYXRjaChmdW5jdGlvbiAoZSkgewogIGNvbnNvbGUuZXJyb3IoJ+a1i+ivleiHqui6q+W8guW4uO+8micsIGUgJiYgZS5zdGFjayB8fCBlKTsKICBwcm9jZXNzLmV4aXQoMSk7Cn0pOwo=
+#!/usr/bin/env node
+'use strict';
+
+/**
+ * personaGen 思考链开关契约测试
+ *
+ * 背景（2026-09-21 CR-模型三层配置）：
+ *   deepseek 系为思考型模型，不传 enable_thinking:false 会先吐 reasoning_content，
+ *   把 max_tokens 吃光 → content 为空 → 该模型被静默跳过、降级到下一个。
+ *   而当前链路把 deepseek-v4.1-flash 放在主模型位，所以这个参数是「主模型能不能生效」的前提。
+ *
+ * 本测试用本地 HTTP 服务器截获真实请求体，断言：
+ *   [1] model 为 deepseek-v4* → 必须注入 enable_thinking:false（非流式 & 流式）
+ *   [2] model 不为 deepseek-v4* → 必须【不】注入（避免影响 qwen / agnes 通道）
+ *   [3] GEN_DISABLE_THINKING=true 时对任意模型都注入（逃生开关）
+ *
+ * 运行：node tests/persona-thinking-contract.js
+ */
+
+const http = require('http');
+const path = require('path');
+
+const personaGen = require(path.join(__dirname, '..', 'cloudfunctions', 'chat', 'personaGen.js'));
+
+let pass = 0;
+let fail = 0;
+const failures = [];
+
+function ok(name, cond, extra) {
+  if (cond) {
+    pass += 1;
+    console.log('  \u2713 ' + name);
+  } else {
+    fail += 1;
+    failures.push(name);
+    console.log('  \u2717 ' + name + (extra ? '  → ' + extra : ''));
+  }
+}
+
+// 截获请求体的本地服务器
+function startServer() {
+  return new Promise(function (resolve) {
+    const captured = [];
+    const server = http.createServer(function (req, res) {
+      let raw = '';
+      req.on('data', function (c) { raw += c; });
+      req.on('end', function () {
+        let body = null;
+        try { body = JSON.parse(raw); } catch (e) {}
+        captured.push(body);
+
+        if (body && body.stream) {
+          // SSE 形态：至少推一个 delta，否则 generateStream 视为失败
+          res.writeHead(200, { 'Content-Type': 'text/event-stream' });
+          res.write('data: ' + JSON.stringify({ choices: [{ delta: { content: 'ok' } }] }) + '\n\n');
+          res.write('data: [DONE]\n\n');
+          res.end();
+        } else {
+          res.writeHead(200, { 'Content-Type': 'application/json' });
+          res.end(JSON.stringify({ choices: [{ message: { role: 'assistant', content: 'ok' } }] }));
+        }
+      });
+    });
+    server.listen(0, '127.0.0.1', function () {
+      const port = server.address().port;
+      resolve({
+        port: port,
+        captured: captured,
+        close: function () { return new Promise(function (r) { server.close(r); }); },
+      });
+    });
+  });
+}
+
+(async function main() {
+  const srv = await startServer();
+  const BASE = 'http://127.0.0.1:' + srv.port;
+  const cfg = function (model) { return [{ name: 'test', baseURL: BASE, apiKey: 'sk-test', model: model }]; };
+
+  console.log('[1] deepseek-v4 系 → 必须注入 enable_thinking:false');
+
+  await personaGen.generate(cfg('deepseek-v4.1-flash'), 'sys', 'user');
+  let b = srv.captured[srv.captured.length - 1];
+  ok('非流式 · deepseek-v4.1-flash 注入 enable_thinking', b && b.enable_thinking === false,
+    b ? '实际 = ' + JSON.stringify(b.enable_thinking) : '未捕获请求体');
+
+  await personaGen.generate(cfg('deepseek-v4-pro-0813'), 'sys', 'user');
+  b = srv.captured[srv.captured.length - 1];
+  ok('非流式 · deepseek-v4-pro-0813 注入 enable_thinking', b && b.enable_thinking === false,
+    b ? '实际 = ' + JSON.stringify(b.enable_thinking) : '未捕获请求体');
+
+  await personaGen.generateStream(cfg('deepseek-v4.1-flash'), 'sys', 'user', function () {});
+  b = srv.captured[srv.captured.length - 1];
+  ok('流式 · deepseek-v4.1-flash 注入 enable_thinking', b && b.enable_thinking === false,
+    b ? '实际 = ' + JSON.stringify(b.enable_thinking) : '未捕获请求体');
+  ok('流式 · deepseek 仍保留 stream:true / max_tokens', !!b && b.stream === true && b.max_tokens === 1536,
+    b ? 'stream=' + b.stream + ' max_tokens=' + b.max_tokens : '');
+
+  console.log('\n[2] 非 deepseek 模型 → 必须【不】注入（保护 qwen / agnes 通道）');
+
+  await personaGen.generate(cfg('qwen-plus'), 'sys', 'user');
+  b = srv.captured[srv.captured.length - 1];
+  ok('非流式 · qwen-plus 不含 enable_thinking', b && !('enable_thinking' in b),
+    b ? '实际 keys = ' + Object.keys(b).join(',') : '');
+
+  await personaGen.generate(cfg('agnes-2.5-flash'), 'sys', 'user');
+  b = srv.captured[srv.captured.length - 1];
+  ok('非流式 · agnes-2.5-flash 不含 enable_thinking', b && !('enable_thinking' in b),
+    b ? '实际 keys = ' + Object.keys(b).join(',') : '');
+
+  await personaGen.generateStream(cfg('agnes-2.5-flash'), 'sys', 'user', function () {});
+  b = srv.captured[srv.captured.length - 1];
+  ok('流式 · agnes-2.5-flash 不含 enable_thinking', b && !('enable_thinking' in b),
+    b ? '实际 keys = ' + Object.keys(b).join(',') : '');
+
+  console.log('\n[3] GEN_DISABLE_THINKING=true → 任意模型都注入（逃生开关）');
+  process.env.GEN_DISABLE_THINKING = 'true';
+  await personaGen.generate(cfg('qwen-plus'), 'sys', 'user');
+  b = srv.captured[srv.captured.length - 1];
+  ok('逃生开关 · qwen-plus 也被注入', b && b.enable_thinking === false,
+    b ? '实际 = ' + JSON.stringify(b.enable_thinking) : '');
+  delete process.env.GEN_DISABLE_THINKING;
+
+  console.log('\n[4] 请求体结构完整性（未被改造破坏）');
+  await personaGen.generate(cfg('deepseek-v4.1-flash'), 'SYS_PROMPT', 'USER_MSG');
+  b = srv.captured[srv.captured.length - 1];
+  ok('messages 仍为 [system, user] 两条', !!b && Array.isArray(b.messages) && b.messages.length === 2
+    && b.messages[0].role === 'system' && b.messages[1].role === 'user');
+  ok('system / user 内容原样透传', !!b && b.messages[0].content === 'SYS_PROMPT' && b.messages[1].content === 'USER_MSG');
+  ok('model 字段原样', !!b && b.model === 'deepseek-v4.1-flash');
+
+  await srv.close();
+
+  console.log('\n' + '='.repeat(56));
+  console.log('PASS: ' + pass + '    FAIL: ' + fail);
+  if (fail) console.log('失败项：\n  - ' + failures.join('\n  - '));
+  else console.log('全部通过：deepseek 系必注入、其他模型零影响。');
+  process.exit(fail ? 1 : 0);
+})().catch(function (e) {
+  console.error('测试自身异常：', e && e.stack || e);
+  process.exit(1);
+});

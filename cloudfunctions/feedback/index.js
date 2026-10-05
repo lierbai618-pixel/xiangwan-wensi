@@ -1,1 +1,63 @@
-Ly8g5ZCR5pma6Zeu5oCdIC0g5Zue562U6LSo6YeP5Y+N6aaI5LqR5Ye95pWw77yIUGhhc2UgRS12MiDCtyBFLTUgLyBQaGFzZSBGIMK3IGFuc3dlcl9xdWFsaXR5X2xvZ++8iQovLyDkuKTnsbvlhpnlhaXvvIzlhbHnlKjkuIDkuKrlh73mlbDvvIzliY3nq6/mjIkgdHlwZSDljLrliIbvvJoKLy8gICB0eXBlPXJhdGUgICAgLT4gYW5zd2VyX2ZlZWRiYWNrICAg77yI6YeP5YyW77yaaGVscGZ1bCDmmK8v5ZCmICsg6LSf5ZCR5Y6f5ZugIGNoaXDvvIkKLy8gICB0eXBlPXF1YWxpdHkgLT4gYW5zd2VyX3F1YWxpdHlfbG9nIO+8iOWumuaAp++8muS4uuS7gOS5iOacieaViC/ml6DmlYjvvIxmYWlsdXJlUmVhc29uIC8gZ29vZFBvaW50IOiHqueUseaWh+acrO+8iQovLyDmiJHku6znnJ/mraPopoHkvJjljJbnmoTmmK/jgIznlKjmiLfop4nlvpfmnInmsqHmnInooqvluK7liqnjgIHku6Xlj4rkuLrku4DkuYjjgI3jgIIKY29uc3QgY2xvdWQgPSByZXF1aXJlKCJ3eC1zZXJ2ZXItc2RrIik7CmNsb3VkLmluaXQoeyBlbnY6IGNsb3VkLkRZTkFNSUNfQ1VSUkVOVF9FTlYgfSk7CmNvbnN0IGRiID0gY2xvdWQuZGF0YWJhc2UoKTsKCmV4cG9ydHMubWFpbiA9IGFzeW5jIChldmVudCkgPT4gewogIGNvbnN0IGRhdGEgPSAoZXZlbnQgJiYgZXZlbnQuZGF0YSkgPyBldmVudC5kYXRhIDogZXZlbnQ7CiAgY29uc3QgdHlwZSA9IChkYXRhLnR5cGUgfHwgInJhdGUiKS50b1N0cmluZygpOwogIGNvbnN0IHF1ZXN0aW9uID0gKGRhdGEucXVlc3Rpb24gfHwgIiIpLnRvU3RyaW5nKCkuc2xpY2UoMCwgMTAwMCk7CiAgY29uc3QgYW5zd2VySWQgPSAoZGF0YS5hbnN3ZXJfaWQgfHwgIiIpLnRvU3RyaW5nKCkuc2xpY2UoMCwgNjQpOwoKICBpZiAoIXF1ZXN0aW9uKSB7CiAgICByZXR1cm4geyBvazogZmFsc2UsIGVycm9yOiAi57y65bCR6Zeu6aKY5YaF5a65IiB9OwogIH0KCiAgdHJ5IHsKICAgIGNvbnN0IGN0eCA9IGNsb3VkLmdldFdYQ29udGV4dCgpOwogICAgY29uc3Qgb3BlbmlkID0gKGN0eCAmJiBjdHguT1BFTklEKSB8fCAidW5rbm93biI7CgogICAgLy8g4oCU4oCUIOWumuaAp+WPjemmiO+8muiusOW9leOAjOS4uuS7gOS5iOi/meadoeWbnuetlOacieaViCAvIOaXoOaViOOAjeKAlOKAlAogICAgaWYgKHR5cGUgPT09ICJxdWFsaXR5IikgewogICAgICBjb25zdCBmYWlsdXJlUmVhc29uID0gKGRhdGEuZmFpbHVyZVJlYXNvbiB8fCAiIikudG9TdHJpbmcoKS5zbGljZSgwLCAyMDApOwogICAgICBjb25zdCBnb29kUG9pbnQgPSAoZGF0YS5nb29kUG9pbnQgfHwgIiIpLnRvU3RyaW5nKCkuc2xpY2UoMCwgMjAwKTsKICAgICAgaWYgKCFmYWlsdXJlUmVhc29uICYmICFnb29kUG9pbnQpIHsKICAgICAgICByZXR1cm4geyBvazogdHJ1ZSwgc2tpcHBlZDogdHJ1ZSB9OwogICAgICB9CiAgICAgIGF3YWl0IGRiLmNvbGxlY3Rpb24oImFuc3dlcl9xdWFsaXR5X2xvZyIpLmFkZCh7CiAgICAgICAgZGF0YTogewogICAgICAgICAgb3BlbmlkOiBvcGVuaWQsCiAgICAgICAgICBxdWVzdGlvbjogcXVlc3Rpb24sCiAgICAgICAgICBhbnN3ZXJfaWQ6IGFuc3dlcklkLAogICAgICAgICAgZmFpbHVyZVJlYXNvbjogZmFpbHVyZVJlYXNvbiwKICAgICAgICAgIGdvb2RQb2ludDogZ29vZFBvaW50LAogICAgICAgICAgY3JlYXRlVGltZTogZGIuc2VydmVyRGF0ZSgpLAogICAgICAgIH0sCiAgICAgIH0pOwogICAgICByZXR1cm4geyBvazogdHJ1ZSB9OwogICAgfQoKICAgIC8vIOKAlOKAlCDph4/ljJblj43ppojvvIjpu5jorqTvvInigJTigJQKICAgIGNvbnN0IGhlbHBmdWwgPSAhIShkYXRhLmhlbHBmdWwgPT09IHRydWUgfHwgZGF0YS5oZWxwZnVsID09PSAidHJ1ZSIgfHwgZGF0YS5oZWxwZnVsID09PSAxKTsKICAgIGNvbnN0IHJlYXNvbiA9IChkYXRhLnJlYXNvbiB8fCAiIikudG9TdHJpbmcoKS5zbGljZSgwLCA1MCk7CiAgICBhd2FpdCBkYi5jb2xsZWN0aW9uKCJhbnN3ZXJfZmVlZGJhY2siKS5hZGQoewogICAgICBkYXRhOiB7CiAgICAgICAgb3BlbmlkOiBvcGVuaWQsCiAgICAgICAgcXVlc3Rpb246IHF1ZXN0aW9uLAogICAgICAgIGFuc3dlcl9pZDogYW5zd2VySWQsCiAgICAgICAgaGVscGZ1bDogaGVscGZ1bCwKICAgICAgICByZWFzb246IHJlYXNvbiwKICAgICAgICBjcmVhdGVUaW1lOiBkYi5zZXJ2ZXJEYXRlKCksCiAgICAgIH0sCiAgICB9KTsKICAgIHJldHVybiB7IG9rOiB0cnVlIH07CiAgfSBjYXRjaCAoZSkgewogICAgY29uc3QgbXNnID0gZSAmJiBlLm1lc3NhZ2UgPyBlLm1lc3NhZ2UgOiAiIiArIGU7CiAgICBjb25zb2xlLmVycm9yKCLlj43ppojlhpnlhaXlpLHotKU6IiwgbXNnKTsKICAgIHJldHVybiB7IG9rOiBmYWxzZSwgZXJyb3I6IG1zZyB9OwogIH0KfTsK
+// 向晚问思 - 回答质量反馈云函数（Phase E-v2 · E-5 / Phase F · answer_quality_log）
+// 两类写入，共用一个函数，前端按 type 区分：
+//   type=rate    -> answer_feedback   （量化：helpful 是/否 + 负向原因 chip）
+//   type=quality -> answer_quality_log （定性：为什么有效/无效，failureReason / goodPoint 自由文本）
+// 我们真正要优化的是「用户觉得有没有被帮助、以及为什么」。
+const cloud = require("wx-server-sdk");
+cloud.init({ env: cloud.DYNAMIC_CURRENT_ENV });
+const db = cloud.database();
+
+exports.main = async (event) => {
+  const data = (event && event.data) ? event.data : event;
+  const type = (data.type || "rate").toString();
+  const question = (data.question || "").toString().slice(0, 1000);
+  const answerId = (data.answer_id || "").toString().slice(0, 64);
+
+  if (!question) {
+    return { ok: false, error: "缺少问题内容" };
+  }
+
+  try {
+    const ctx = cloud.getWXContext();
+    const openid = (ctx && ctx.OPENID) || "unknown";
+
+    // —— 定性反馈：记录「为什么这条回答有效 / 无效」——
+    if (type === "quality") {
+      const failureReason = (data.failureReason || "").toString().slice(0, 200);
+      const goodPoint = (data.goodPoint || "").toString().slice(0, 200);
+      if (!failureReason && !goodPoint) {
+        return { ok: true, skipped: true };
+      }
+      await db.collection("answer_quality_log").add({
+        data: {
+          openid: openid,
+          question: question,
+          answer_id: answerId,
+          failureReason: failureReason,
+          goodPoint: goodPoint,
+          createTime: db.serverDate(),
+        },
+      });
+      return { ok: true };
+    }
+
+    // —— 量化反馈（默认）——
+    const helpful = !!(data.helpful === true || data.helpful === "true" || data.helpful === 1);
+    const reason = (data.reason || "").toString().slice(0, 50);
+    await db.collection("answer_feedback").add({
+      data: {
+        openid: openid,
+        question: question,
+        answer_id: answerId,
+        helpful: helpful,
+        reason: reason,
+        createTime: db.serverDate(),
+      },
+    });
+    return { ok: true };
+  } catch (e) {
+    const msg = e && e.message ? e.message : "" + e;
+    console.error("反馈写入失败:", msg);
+    return { ok: false, error: msg };
+  }
+};

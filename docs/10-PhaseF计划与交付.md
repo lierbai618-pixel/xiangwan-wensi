@@ -1,1 +1,158 @@
-IyBQaGFzZSBGIOiuoeWIkuS4juS6pOS7mO+8iHYwLjkuMO+8ieKAlOKAlCDnmb7pl67pqozor4HpmLbmrrUKCj4g6K+E5a6h57uT6K6677yaUGhhc2UgRSB2MC44LjAgKipBKyDpgJrov4cqKuOAguS4i+S4gOmYtuautSoq5LiN5pivIFBoYXNlIEYg5Yqf6IO95aCG5Y+gKirvvIzogIzmmK8gKipQaGFzZSBG77ya55m+6Zeu6aqM6K+B77yIMTAwIFVzZXIgUXVlc3Rpb25z77yJKirjgIIKPiDmoLjlv4Pnm67moIfvvJrorqnnnJ/lrp7nlKjmiLflkYror4njgIzpl67pgZPjgI3igJTigJTku4DkuYjpl67popjmnIDpnIDopoHlroPvvIzku4DkuYjlm57nrZTnnJ/mraPluK7liqnkuobkurrjgILov5nkuIDmraXlhrPlrprlroPmmK/kuIDkuKrmvILkuq4gRGVtb++8jOi/mOaYr+S4gOS4quacieS6uuaEv+aEj+mVv+acn+S9v+eUqOeahOS6p+WTgeOAggoKLS0tCgojIyAxLiDpmLbmrrXlrprkvY0KCnwg57u05bqmIHwg6K+05piOIHwKfCAtLS0gfCAtLS0gfAp8IOS4jeaYryB8IOaWsOWinumhtemdoiAvIOaWsOWinuaooeW8jyAvIOaWsOWinuaZuuiDveS9k+iDveWKmyB8Cnwg5pivIHwg5pS25pWw5o2uICsg55So5pWw5o2u6amx5Yqo5LyY5YyWIHwKfCDllK/kuIDmlrDlop7ku6PnoIEgfCBgYW5zd2VyX3F1YWxpdHlfbG9nYO+8iOWumuaAp+WPjemmiO+8muS4uuS7gOS5iOacieaViC/ml6DmlYjvvIkgfAp8IOWOn+WImSB8IOS4jee7p+e7reWghuWKn+iDve+8m+agh+etvuS4jeiGqOiDgO+8m+e7j+WFuOawuOi/nCLluK7liqnnlKjmiLfmib7liLDnrZTmoYgi5LiN5pivIuabv+eUqOaIt+WbnuetlCIgfAoKUGhhc2Ug6Lev57q/5bey6Zet546v77yaKipDIOW7uuefpeivhui1hOS6pyDihpIgRCDlu7rnlKjmiLfkvZPpqowg4oaSIEUg5bu65pm66IO95L2T5Lu35YC8IOKGkiBGIOeUqOecn+WunuaVsOaNrumqjOivgSoq44CCCgotLS0KCiMjIDIuIEYtMSDnmb7pl67liIbnsbvov5vluqbvvIjmlK/mkpEgMjAvMjAvMjAvMjAvMjDvvIkKCuWwhiBgYW5hbHl6ZVF1ZXJ5YCDnmoQgOCDkuLvpopjmmKDlsITliLAgKio1IOexu+ahtioq77yI5LiN5paw5aKe5YiG57G757u05bqm77yM5Y+q5piv6IGa5ZCI6KeG5Zu+77yM6YG/5YWN5qCH562+6Iao6IOA77yJ77yaCgp8IOexu+WIqyB8IOadpea6kOS4u+mimCB8CnwgLS0tIHwgLS0tIHwKfCDkurrnlJ/mlrnlkJEgfCDov7fojKvjgIHoh6rmiJEgfAp8IOWtpuS5oOaIkOmVvyB8IOWtpuS5oOOAgeihjOWKqCB8Cnwg5oOF57uq5Y6L5YqbIHwg5oOF57uqIHwKfCDlhbPns7vpl67popggfCDlhbPns7sgfAp8IOmVv+acn+mAieaLqSB8IOmVv+acn+OAgeWIpOaWrSB8CgotIGByYWcuanNgIGBhbmFseXplUXVlcnlgIOi/lOWbniBgY2F0ZWdvcnlg77ybKirlrozlhajml6DlhbPplK7or43lkb3kuK3nmoTpl67popjlvZLlhaXjgIzmnKrliIbnsbvjgI0qKu+8jOiAjOmdnuaChOaChOWghui/myLkurrnlJ/mlrnlkJEi77yM5L+d6K+B6L+b5bqm57uf6K6h5Y+v5L+h44CCCi0gYGNoYXQvaW5kZXguanNgIGBsb2dRdWVzdGlvbmAg6JC95bqTIGBjYXRlZ29yeWAg5a2X5q6144CCCi0gYGFkbWluYCBpbnNpZ2h0cyDovpPlh7ogYGNhdGVnb3J5QnJlYWtkb3duYO+8iOavj+ihjCBgY291bnQvMjBgIOi/m+W6puadoe+8ie+8jOebtOaOpeeciyA1IOexu+ahtuemu+WQhCAyMCDmnaHov5jlt67lpJrlsJHjgIIKCi0tLQoKIyMgMy4gRi0yIOS4ieaMh+agh+iEmuaJi+aetgoK5LiJ5Liq6aqM5pS25oyH5qCH5YWo6YOo5Y+v55Sx546w5pyJ5pWw5o2u6IGa5ZCI5b6X5Ye677yM566h55CG6aG15bey5ZGI546w77yaCgp8IOaMh+aghyB8IOaVsOaNruadpea6kCB8IOiuoeeulyB8CnwgLS0tIHwgLS0tIHwgLS0tIHwKfCDnkIbop6Plh4bnoa7njocgfCBgYW5zd2VyX2ZlZWRiYWNrLmhlbHBmdWxgIHwg8J+RjSDljaDmr5TvvIjmnInluK7liqnnjofvvIkgfAp8IOihjOWKqOacieaViOeOhyB8IGBhbnN3ZXJfZmVlZGJhY2tgICsg6LSf5ZCRIGByZWFzb25gIHwg8J+RjiArICLmsqHop6PlhrPmiJHnmoTpl67popgv57y65bCR6KGM5Yqo5bu66K6uL+WkquaKveixoSIg5Y2g5q+UIHwKfCDlvJXnlKjmjqXlj5fluqYgfCBgYW5zd2VyX2ZlZWRiYWNrLnJlYXNvbj09IuW8leeUqOWkquWkmiJgIHwg5byV55So6KKr5Y+N5oSf55qE5q+U5L6LIHwKCj4g5rOo77yaYGFuc3dlcl9mZWVkYmFja2Ag5pivKirph4/ljJYqKu+8iOaYr+WQpuW4ru+8ie+8jGBhbnN3ZXJfcXVhbGl0eV9sb2dgIOaYryoq5a6a5oCnKirvvIjkuLrku4DkuYjluK7vvInvvIzkuozogIXkupLooaXjgIIKCi0tLQoKIyMgNC4gYW5zd2VyX3F1YWxpdHlfbG9n77yIRiDpmLbmrrXllK/kuIDmlrDku6PnoIHvvIkKCiMjIyDorr7orqHliqjmnLoKLSBgcXVlc3Rpb25fbG9nc2DvvJrorrDlvZXnlKjmiLcqKumXruS6huS7gOS5iCoq44CCCi0gYGFuc3dlcl9mZWVkYmFja2DvvJrorrDlvZUqKuWWnOasoi/kuI3llpzmrKIqKu+8iOmHj+WMlu+8ieOAggotIOi/mOe8uu+8mioq5Li65LuA5LmI6L+Z5p2h5Zue562U5pyJ5pWIL+aXoOaViCoq4oCU4oCU6L+Z5q2j5piv5pyq5p2l6K6t57uDIHByb21wdOOAgeS8mOWMliBhZ2VudCDmnIDmnInku7flgLznmoTmlbDmja7jgIIKCiMjIyDpm4blkIggc2NoZW1hCmBgYAphbnN3ZXJfcXVhbGl0eV9sb2c6IHsKICBvcGVuaWQ6IFN0cmluZywKICBxdWVzdGlvbjogU3RyaW5nLAogIGFuc3dlcl9pZDogU3RyaW5nLAogIGZhaWx1cmVSZWFzb246IFN0cmluZywgICAvLyDlk6rph4zmsqHluK7liLDvvIjlj6/pgInvvIziiaQyMDDlrZfvvIkKICBnb29kUG9pbnQ6IFN0cmluZywgICAgICAgIC8vIOWTqumHjOW4ruWIsOS6hu+8iOWPr+mAie+8jOKJpDIwMOWtl++8iQogIGNyZWF0ZVRpbWU6IFNlcnZlckRhdGUKfQpgYGAKCiMjIyDlrp7njrAKLSBgY2xvdWRmdW5jdGlvbnMvZmVlZGJhY2tgIOS6keWHveaVsOWkjeeUqO+8jOaMiSBgdHlwZWAg5YiG5rWB77yaCiAgLSBgdHlwZT1yYXRlYO+8iOm7mOiupO+8ieKGkiDlhpkgYGFuc3dlcl9mZWVkYmFja2AKICAtIGB0eXBlPXF1YWxpdHlgIOKGkiDlhpkgYGFuc3dlcl9xdWFsaXR5X2xvZ2DvvIjkuKTpobnnmobnqbrliJnot7Pov4flhpnlupPvvIkKLSDogYrlpKnpobXvvJrnlKjmiLfor4TliIbvvIjwn5GNL/CfkY7vvInlkI7vvIzkuIvmlrnlh7rnjrAqKuWPr+mAiSoq44CM6KGl5YWF77ya5ZOq6YeM5biu5YiwL+ayoeW4ruWIsOS9oOOAjeiHqueUseaWh+acrOi+k+WFpe+8jOaPkOS6pOS4jeaJk+aWreS4u+a1geeoi+OAggotIGBhZG1pbmAgaW5zaWdodHMg6IGa5ZCIIGBxdWFsaXR5LmZhaWx1cmVzYCAvIGBxdWFsaXR5Lmdvb2RzYCDpq5jpopHlrprmgKfljp/lm6DvvIznm7TmjqXnnIvliLAi55So5oi36K+05aSq5oq96LGhIC8g5YWx5oOF5Yiw5L2NIuetieecn+WunuS/oeWPt+OAggoKLS0tCgojIyA1LiDpg6jnvbLmuIXljZXvvIjmr5TkuIrmrKEgMCDmlLnliqjvvIzlpJrkuIDkuKrpm4blkIjvvIkKCjEuIOmHjeaWsOS4iuS8oOmDqOe9siAqKmNoYXQgKyBhZG1pbiArIGZlZWRiYWNrKiog5LiJ5Liq5LqR5Ye95pWw77yI5Y+z6ZSu4oaS5LiK5Lyg5bm26YOo572ywrfkupHnq6/lronoo4Xkvp3otZbvvInvvJsKMi4g5LqR5byA5Y+R5o6n5Yi25Y+wKirmiYvliqjmlrDlu7ogYGFuc3dlcl9xdWFsaXR5X2xvZ2Ag6ZuG5ZCIKirvvIjkuI3lu7rkvJrmiqUgQ09MTEVDVElPTl9OT1RfRVhJU1TvvInvvJsKMy4gYHF1ZXN0aW9uX2xvZ3NgIC8gYGFuc3dlcl9mZWVkYmFja2Ag5paw5a2X5q6177yIY2F0ZWdvcnkgLyBmYWlsdXJlUmVhc29uIOetie+8ieS6keW6k+aXoCBzY2hlbWHjgIHoh6rliqjlhbzlrrnvvJsKNC4gYGFyY2hpdmUvYCDml6fohJrmnKzku40qKuemgeatoui/kOihjCoq44CCCgotLS0KCiMjIDYuIOmqjOivgeaWueazleiuuu+8iOaVsOaNrumpseWKqOS8mOWMlumXreeOr++8iQoKYGBgCuecn+WunueUqOaIt+aPkOmXrgogICDihpIgcXVlc3Rpb25fbG9nc++8iOmXrumimCArIGNhdGVnb3J5ICsg5ZG95Lit5Lmm55uuICsg6Lev57q/5Li76aKY77yJCiAgIOKGkiBBSSDlm57nrZTvvIjnkIbop6PihpLliIbmnpDihpLooYzliqjihpLnu4/lhbjihpLmgJ3ogIPvvIkKICAg4oaSIGFuc3dlcl9mZWVkYmFja++8iOacieW4ruWKqeeOhyAvIOi0n+WQkeWOn+WboO+8iQogICDihpIgYW5zd2VyX3F1YWxpdHlfbG9n77yI5Li65LuA5LmI5pyJ5pWIIC8g5peg5pWI77yJCiAgIOKGkiBhZG1pbiDmtJ7lr5/vvIjliIbnsbvov5vluqYgKyDkuInmjIfmoIcgKyDlrprmgKfljp/lm6DvvIkKICAg4oaSIOWPjeWTuiBhbmFseXplUXVlcnkg5Li76aKY6K+NIC8gYWN0aW9uTGlicmFyeSDooYzliqggLyDlvJXnlKjnrZbnlaUgLyBtZXRhZGF0YS51c2VyX3F1ZXN0aW9ucwpgYGAKCioq55uu5qCHKirvvJrpppbmibkgMTAwIOS4quecn+WunumXrumimO+8iDUg57G75ZCEIDIw77yJ44CC6YeN54K55Zue5pS277yaCi0g6auY6aKR5Lq655Sf5Li76aKY77yI5oyH5a+8IHVzZXJfcXVlc3Rpb25zIOetluWxle+8ie+8mwotIOWPrOWbnuWksei0peahiOS+i++8iOWRveS4reS5puebruS4uuepuiAvIOi3kemimCDihpIg6KGl57Si5byV77yJ77ybCi0g5Zue562U5b2i5byP5YGP5aW977yI55So5oi35Zac5qyi5YWx5oOFK+WFt+S9k+ihjOWKqO+8jOi/mOaYr+abtOWkmue7j+WFuO+8ieOAggoKLS0tCgojIyA3LiDpqozor4Hnu5PmnpwKCi0gYHNjcmlwdHMvdGVzdF9waGFzZWYuanNgICoqMTkvMTkqKu+8muS6lOWIhuexu+aYoOWwhO+8iOWQq+OAjOacquWIhuexu+OAjeWFnOW6le+8ieOAgWBmZWVkYmFja2Ag55qEIGBxdWFsaXR5YCDlhpnlupPliIbmlK/kuI4gYHJhdGVgIOm7mOiupOWIhuaUr+OAgWBhZG1pbmAgaW5zaWdodHMg6IGa5ZCIIGBjYXRlZ29yeUJyZWFrZG93bmAgKyBgcXVhbGl0eWDjgIIKLSDlm57lvZLvvJpQaGFzZSBCIDIyLzIy44CBQy0yIDIyLzIy44CBQy0zIDM0LzM044CBRSAyNy8yN+OAgUUtdjIgMjEvMjEg5YWo6L+H44CCCi0g5pS55YqoIEpT77yIYHJhZy5qc2AvYGNoYXQvaW5kZXguanNgL2BmZWVkYmFjay9pbmRleC5qc2AvYGFkbWluL2luZGV4LmpzYC9gY2hhdC5qc2DvvInlnYcgYG5vZGUgLS1jaGVja2Ag6YCa6L+H44CCCgotLS0KCiMjIDguIOS4jeWcqOacrOmYtuauteWBmueahOS6i++8iOWIu+aEj+aUtuaVm++8iQoKLSDinYwgUGhhc2UgRiDlip/og73loIblj6DvvIjmm7TlpJrmqKHlvI8gLyDmm7TlpJrpobXpnaIgLyDmm7TlpJrmmbrog73kvZPog73lipvvvIkKLSDinYwg57un57ut5Yqg5YiG57G75qCH562+77yI5L+d5oyB5ZyoIDgg5Li76aKYIC8gNSDnsbvmobbvvIzkuI3ohqjog4DvvIkKLSDij7jvuI8gRS0zIOaUtuiXj++8iOS4quS6uuepuumXtO+8ie+8mueVmeS9nOWPr+mAie+8jOetiemmluaJueaVsOaNruivtOaYjuWAvOW+l+WBmuWGjeWKqOaJiwoKLS0tCgojIyA5LiDor4TlrqHooaXlhYXlrp7mlr3vvIh2MC45LjHvvIkKClBoYXNlIEYgdjAuOS4wIOivhOWuoSAqKkErIOmAmui/hyoq77yM5bm257uZ5Ye65piO56Gu6KGl5YWF5bu66K6u44CC5pys54mI6JC95Zyw5YW25LitIueOsOWcqOWwseivpeWBmiLnmoTnoazlu7rorq7vvIzmiooi55WZ5L2c6Lev57q/5Zu+IueahOi9r+W7uuiuruiusOWFpeatpOWkhO+8jOS4jeaPkOWJjeWGmeS7o+eggeOAggoKIyMjIDkuMSBhbnN3ZXJfaWQg5LiJ5bGC6LSv6YCa77yI6K+E5a6hIuW9k+WJjeWUr+S4gOW7uuiuriLvvIkKLSBgY2hhdC9pbmRleC5qc2Ag5paw5aKeIGBtYWtlQW5zd2VySWQoKWAg55Sf5oiQ6KeE6IyDIElE77yaYFlZWVlNTUREX3h4eHhg77yI5pel5pyf5YmN57yA5L6/5LqO5oyJ5pel5YiG5p6Q5qih5p2/5pWI5p6c77yJ44CCCi0g5omA5pyJ5Zue562U6Lev5b6E77yIbW9kZWwgLyBsb2NhbCAvIGxvY2FsT25seS1mYWxsYmFja++8ieWdh+e7jyBgZ2VuZXJhdGVBbnN3ZXJgIOWHuuWPo++8jGBtYWluYCDms6jlhaUgYHJlc3VsdC5hbnN3ZXJJZGAg5ZCO77yaCiAgLSDlhpnlhaUgYHF1ZXN0aW9uX2xvZ3MuYW5zd2VyX2lkYO+8mwogIC0g6ZqP6L+U5Zue57uT5p6c5LiL5Y+R5YmN56uvIGByZXN1bHQuYW5zd2VySWRg77ybCiAgLSDliY3nq68gYGNoYXQuanNgIOaUueeUqOWQjuerr+S4i+WPkeeahCBpZO+8iOS4jeWGjeacrOWcsOeUn+aIkO+8ie+8jGBmZWVkYmFja2AvYHF1YWxpdHlgIOaPkOS6pOaQuuW4puWQjOS4gCBgYW5zd2VyX2lkYOOAggotIOS4ieWxgu+8iGBxdWVzdGlvbl9sb2dzYCAvIGBhbnN3ZXJfZmVlZGJhY2tgIC8gYGFuc3dlcl9xdWFsaXR5X2xvZ2DvvInpgJrov4cgYGFuc3dlcl9pZGAg5Y+v5YWz6IGU77yM5pyq5p2l5Y+v5YiG5p6QIue7j+WFuOaooeW8j+W5s+Wdh+a7oeaEj+W6piB2cyDmma7pgJrmqKHlvI8i562J44CCCi0g6aqM6K+B77yaYHRlc3RfcGhhc2VmLmpzYCBbNF0g5pat6KiAIHJlc3VsdC5hbnN3ZXJJZCDmoLzlvI8gKyBxdWVzdGlvbl9sb2dzIOiQveW6kyBhbnN3ZXJfaWQgKyDkuKTogIXkuIDoh7TvvIwqKjIzLzIzIOWFqOi/hyoq44CCCgojIyMgOS4yIOeCuei4qeW/q+aNt+WOn+WboOinhOiMg+WMlu+8iOivhOWuoeaOqOiNkO+8iQotIOeCuei4qeWQjuWOn+WboCBjaGlwcyDlr7npvZDor4TlrqHlu7rorq4gNSDpobnor63kuYnvvJoqKuWkquaKveixoSAvIOayoeino+WGs+aIkeeahOmXrumimCAvIOW8leeUqOWkquWkmiAvIOe8uuWwkeihjOWKqOW7uuiuriAvIOeQhuino+mUmeS6hioq44CCCi0g6Ieq55Sx5paH5pys6KGl5YWF77yIYGFuc3dlcl9xdWFsaXR5X2xvZ2DvvInku43kv53nlZnkuLoqKuWPr+mAiSoq77yM56ym5ZCIIuS4jeW8uui/q+Whq+WGmSLljp/liJnigJTigJTnlKjmiLfmhL/mhI/ngrnmjInpkq7vvIzkuI3kuIDlrprmhL/mhI/lhpkgMTAwIOWtl+OAggotIGBhZG1pbmAgaW5zaWdodHMg6IGa5ZCIIGBmYWlsdXJlUmVhc29uYCDml7bov5nkupvop4TojIPlgLzoh6rnhLbogZrlkIjmiJDpq5jpopHmoIjvvIznm7TmjqXmjIflr7wgYGFjdGlvbkxpYnJhcnlgIC8g5byV55So562W55Wl5LyY5YyW44CCCgojIyMgOS4zIFBoYXNlIEcg6Lev57q/5Zu+77yI55m+6Zeu6L6+5qCH5ZCO77yM5LiN5o+Q5YmN5YGa77yJCuivhOWuoeaJueWHhiBQaGFzZSBGIOWQjuW7uuiurueahOS4i+S4gOmYtuaute+8jCoq5LiN5piv5aSn5Yqf6IO95aCG5Y+gKirvvIzogIzmmK/mmbrog73kvJjljJbvvJoKLSAqKkctMSDmn6Xor6LnkIbop6PkvJjljJYqKu+8mueUqCAxMDAg6Zeu5Y+N5ZO6IueUqOaIt+WPo+ivrSDihpIg5qCH5YeG6Zeu6aKYIOKGkiDmgJ3mg7PkuLvpopgi5pig5bCE77yI5ompIGBhbmFseXplUXVlcnlgIOivjeW6k+S4jumHjeWGmeinhOWIme+8ieOAggotICoqRy0yIOWbnuetlOetlueVpeS8mOWMlioq77ya5qC55o2u5Y+N6aaI6LCD5pW044CM55CG6Kej4oaS5YiG5p6Q4oaS6KGM5Yqo4oaS57uP5YW44oaS5oCd6ICD44CN5LqU5q6155qE5q+U5L6L5LiO5rex5bqm77yI57uP5YW45qih5byP5p2D6YeN44CB6KGM5Yqo5q616ZW/5bqm77yJ44CCCi0gKipHLTMg5bCP6KeE5qih55yf5a6e55So5oi35rWL6K+VKirvvJrpgoDor7cgMjB+NTAg5Lq677yM6KeC5a+f55WZ5a2Y44CB5LqM5qyh5o+Q6Zeu546H44CB5L2/55So5pe26Ze044CB6auY6aKR5Li76aKY44CCCgojIyMgOS40IDEwMCDpl67nnJ/lrp7pqozmlLbmoIflh4bvvIjovr7miJDlkI7vvIkKfCDlsYIgfCDpqozmlLYgfAp8IC0tLSB8IC0tLSB8Cnwg5pWw5o2u5bGCIHwgMTAwIOadoeecn+WunumXrumimO+8m+S6lOWIhuexu+WfuuacrOeos+Wumu+8m+mrmOmikemXrumimCBUb3AyMCDnlJ/miJAgfAp8IOWbnuetlOWxgiB8IOe7n+iuoSDwn5GNIOavlOS+i++8m+eCuei4qeWOn+WboCBUb3AxMO+8m+W8leeUqOaOpeWPl+eOh++8m+ihjOWKqOW7uuiurua7oeaEj+W6piB8Cnwg55+l6K+G5bGCIHwg6L6T5Ye65paw5aKeIGB1c2VyX3F1ZXN0aW9uc2AgNTAr77yI5aaCIuiAg+ivleWksei0peaAjuS5iOWKniAvIOWIm+S4muWksei0pei/mOiDvee7p+e7reWQlyAvIOWKquWKm+W+iOS5heayoee7k+aenOaAjuS5iOWKniLvvInigJTigJQg6L+Z5omN5piv5pyq5p2lIFJBRyDnmoTmoLjlv4PotYTkuqcgfAoKIyMjIDkuNSDpg6jnvbLooaXlhYXvvIh2MC45LjHvvIkKLSDml6DmlrDlop7pm4blkIjvvIhgYW5zd2VyX3F1YWxpdHlfbG9nYCDlt7LlnKggdjAuOS4wIOW7uu+8ie+8m+mHjemDqOe9siAqKmNoYXQqKu+8iOWQqyBhbnN3ZXJfaWQg5rOo5YWl77yJKyAqKmFkbWluKiogKyAqKmZlZWRiYWNrKiog5Y2z5Y+v44CCCi0gYHF1ZXN0aW9uX2xvZ3NgIOaWsOWiniBgYW5zd2VyX2lkYCDlrZfmrrXkupHlupPml6Agc2NoZW1h44CB6Ieq5Yqo5YW85a6544CCCg==
+﻿# Phase F 计划与交付（v0.9.0）—— 百问验证阶段
+
+> 评审结论：Phase E v0.8.0 **A+ 通过**。下一阶段**不是 Phase F 功能堆叠**，而是 **Phase F：百问验证（100 User Questions）**。
+> 核心目标：让真实用户告诉「问道」——什么问题最需要它，什么回答真正帮助了人。这一步决定它是一个漂亮 Demo，还是一个有人愿意长期使用的产品。
+
+---
+
+## 1. 阶段定位
+
+| 维度 | 说明 |
+| --- | --- |
+| 不是 | 新增页面 / 新增模式 / 新增智能体能力 |
+| 是 | 收数据 + 用数据驱动优化 |
+| 唯一新增代码 | `answer_quality_log`（定性反馈：为什么有效/无效） |
+| 原则 | 不继续堆功能；标签不膨胀；经典永远"帮助用户找到答案"不是"替用户回答" |
+
+Phase 路线已闭环：**C 建知识资产 → D 建用户体验 → E 建智能体价值 → F 用真实数据验证**。
+
+---
+
+## 2. F-1 百问分类进度（支撑 20/20/20/20/20）
+
+将 `analyzeQuery` 的 8 主题映射到 **5 类桶**（不新增分类维度，只是聚合视图，避免标签膨胀）：
+
+| 类别 | 来源主题 |
+| --- | --- |
+| 人生方向 | 迷茫、自我 |
+| 学习成长 | 学习、行动 |
+| 情绪压力 | 情绪 |
+| 关系问题 | 关系 |
+| 长期选择 | 长期、判断 |
+
+- `rag.js` `analyzeQuery` 返回 `category`；**完全无关键词命中的问题归入「未分类」**，而非悄悄堆进"人生方向"，保证进度统计可信。
+- `chat/index.js` `logQuestion` 落库 `category` 字段。
+- `admin` insights 输出 `categoryBreakdown`（每行 `count/20` 进度条），直接看 5 类桶离各 20 条还差多少。
+
+---
+
+## 3. F-2 三指标脚手架
+
+三个验收指标全部可由现有数据聚合得出，管理页已呈现：
+
+| 指标 | 数据来源 | 计算 |
+| --- | --- | --- |
+| 理解准确率 | `answer_feedback.helpful` | 👍 占比（有帮助率） |
+| 行动有效率 | `answer_feedback` + 负向 `reason` | 👎 + "没解决我的问题/缺少行动建议/太抽象" 占比 |
+| 引用接受度 | `answer_feedback.reason=="引用太多"` | 引用被反感的比例 |
+
+> 注：`answer_feedback` 是**量化**（是否帮），`answer_quality_log` 是**定性**（为什么帮），二者互补。
+
+---
+
+## 4. answer_quality_log（F 阶段唯一新代码）
+
+### 设计动机
+- `question_logs`：记录用户**问了什么**。
+- `answer_feedback`：记录**喜欢/不喜欢**（量化）。
+- 还缺：**为什么这条回答有效/无效**——这正是未来训练 prompt、优化 agent 最有价值的数据。
+
+### 集合 schema
+```
+answer_quality_log: {
+  openid: String,
+  question: String,
+  answer_id: String,
+  failureReason: String,   // 哪里没帮到（可选，≤200字）
+  goodPoint: String,        // 哪里帮到了（可选，≤200字）
+  createTime: ServerDate
+}
+```
+
+### 实现
+- `cloudfunctions/feedback` 云函数复用，按 `type` 分流：
+  - `type=rate`（默认）→ 写 `answer_feedback`
+  - `type=quality` → 写 `answer_quality_log`（两项皆空则跳过写库）
+- 聊天页：用户评分（👍/👎）后，下方出现**可选**「补充：哪里帮到/没帮到你」自由文本输入，提交不打断主流程。
+- `admin` insights 聚合 `quality.failures` / `quality.goods` 高频定性原因，直接看到"用户说太抽象 / 共情到位"等真实信号。
+
+---
+
+## 5. 部署清单（比上次 0 改动，多一个集合）
+
+1. 重新上传部署 **chat + admin + feedback** 三个云函数（右键→上传并部署·云端安装依赖）；
+2. 云开发控制台**手动新建 `answer_quality_log` 集合**（不建会报 COLLECTION_NOT_EXIST）；
+3. `question_logs` / `answer_feedback` 新字段（category / failureReason 等）云库无 schema、自动兼容；
+4. `archive/` 旧脚本仍**禁止运行**。
+
+---
+
+## 6. 验证方法论（数据驱动优化闭环）
+
+```
+真实用户提问
+   → question_logs（问题 + category + 命中书目 + 路线主题）
+   → AI 回答（理解→分析→行动→经典→思考）
+   → answer_feedback（有帮助率 / 负向原因）
+   → answer_quality_log（为什么有效 / 无效）
+   → admin 洞察（分类进度 + 三指标 + 定性原因）
+   → 反哺 analyzeQuery 主题词 / actionLibrary 行动 / 引用策略 / metadata.user_questions
+```
+
+**目标**：首批 100 个真实问题（5 类各 20）。重点回收：
+- 高频人生主题（指导 user_questions 策展）；
+- 召回失败案例（命中书目为空 / 跑题 → 补索引）；
+- 回答形式偏好（用户喜欢共情+具体行动，还是更多经典）。
+
+---
+
+## 7. 验证结果
+
+- `scripts/test_phasef.js` **19/19**：五分类映射（含「未分类」兜底）、`feedback` 的 `quality` 写库分支与 `rate` 默认分支、`admin` insights 聚合 `categoryBreakdown` + `quality`。
+- 回归：Phase B 22/22、C-2 22/22、C-3 34/34、E 27/27、E-v2 21/21 全过。
+- 改动 JS（`rag.js`/`chat/index.js`/`feedback/index.js`/`admin/index.js`/`chat.js`）均 `node --check` 通过。
+
+---
+
+## 8. 不在本阶段做的事（刻意收敛）
+
+- ❌ Phase F 功能堆叠（更多模式 / 更多页面 / 更多智能体能力）
+- ❌ 继续加分类标签（保持在 8 主题 / 5 类桶，不膨胀）
+- ⏸️ E-3 收藏（个人空间）：留作可选，等首批数据说明值得做再动手
+
+---
+
+## 9. 评审补充实施（v0.9.1）
+
+Phase F v0.9.0 评审 **A+ 通过**，并给出明确补充建议。本版落地其中"现在就该做"的硬建议，把"留作路线图"的软建议记入此处，不提前写代码。
+
+### 9.1 answer_id 三层贯通（评审"当前唯一建议"）
+- `chat/index.js` 新增 `makeAnswerId()` 生成规范 ID：`YYYYMMDD_xxxx`（日期前缀便于按日分析模板效果）。
+- 所有回答路径（model / local / localOnly-fallback）均经 `generateAnswer` 出口，`main` 注入 `result.answerId` 后：
+  - 写入 `question_logs.answer_id`；
+  - 随返回结果下发前端 `result.answerId`；
+  - 前端 `chat.js` 改用后端下发的 id（不再本地生成），`feedback`/`quality` 提交携带同一 `answer_id`。
+- 三层（`question_logs` / `answer_feedback` / `answer_quality_log`）通过 `answer_id` 可关联，未来可分析"经典模式平均满意度 vs 普通模式"等。
+- 验证：`test_phasef.js` [4] 断言 result.answerId 格式 + question_logs 落库 answer_id + 两者一致，**23/23 全过**。
+
+### 9.2 点踩快捷原因规范化（评审推荐）
+- 点踩后原因 chips 对齐评审建议 5 项语义：**太抽象 / 没解决我的问题 / 引用太多 / 缺少行动建议 / 理解错了**。
+- 自由文本补充（`answer_quality_log`）仍保留为**可选**，符合"不强迫填写"原则——用户愿意点按钮，不一定愿意写 100 字。
+- `admin` insights 聚合 `failureReason` 时这些规范值自然聚合成高频栈，直接指导 `actionLibrary` / 引用策略优化。
+
+### 9.3 Phase G 路线图（百问达标后，不提前做）
+评审批准 Phase F 后建议的下一阶段，**不是大功能堆叠**，而是智能优化：
+- **G-1 查询理解优化**：用 100 问反哺"用户口语 → 标准问题 → 思想主题"映射（扩 `analyzeQuery` 词库与重写规则）。
+- **G-2 回答策略优化**：根据反馈调整「理解→分析→行动→经典→思考」五段的比例与深度（经典模式权重、行动段长度）。
+- **G-3 小规模真实用户测试**：邀请 20~50 人，观察留存、二次提问率、使用时间、高频主题。
+
+### 9.4 100 问真实验收标准（达成后）
+| 层 | 验收 |
+| --- | --- |
+| 数据层 | 100 条真实问题；五分类基本稳定；高频问题 Top20 生成 |
+| 回答层 | 统计 👍 比例；点踩原因 Top10；引用接受率；行动建议满意度 |
+| 知识层 | 输出新增 `user_questions` 50+（如"考试失败怎么办 / 创业失败还能继续吗 / 努力很久没结果怎么办"）—— 这才是未来 RAG 的核心资产 |
+
+### 9.5 部署补充（v0.9.1）
+- 无新增集合（`answer_quality_log` 已在 v0.9.0 建）；重部署 **chat**（含 answer_id 注入）+ **admin** + **feedback** 即可。
+- `question_logs` 新增 `answer_id` 字段云库无 schema、自动兼容。

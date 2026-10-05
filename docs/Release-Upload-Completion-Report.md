@@ -1,1 +1,108 @@
-IyBSZWxlYXNlIFVwbG9hZCBDb21wbGV0aW9uIFJlcG9ydA0KDQoqKuS6p+WTgSoq77ya5ZCR5pma6Zeu5oCdIFdlbkRhb++8iOW+ruS/oeS6keW8gOWPkeWwj+eoi+W6j++8iQ0KKirkupHnjq/looMqKu+8mllPVVJfQ0xPVURfRU5WX0lEDQoqKueUn+aIkOaXtumXtCoq77yaMjAyNi0wOC0wNu+8iEdNVCs477yJDQoqKuinkuiJsioq77yaUmVsZWFzZSBNYW5hZ2VyICsgUmVsZWFzZSBFbmdpbmVlcg0KKirmgKfotKgqKu+8mlJlbGVhc2UgVXBsb2FkIOS7u+WKoeaJp+ihjOiusOW9leOAgioq5pys546v5aKD5Li65peg5aS05rKZ566x77yM5peg5rOV6amx5Yqo5b6u5L+h5byA5Y+R6ICF5bel5YW3IEdVSe+8jOS6puaXoOazleinpui+viBTQ0Yg5Luj56CB5LiK5Lyg56uv54K5KirvvIzmlYXkuIrkvKDkuI7lhpLng5/kuLrkurrlt6XliqjkvZzvvIzmnKzmiqXlkYrmja7lrp7orrDlvZXlj6/pqozor4HpobnkuI7pmLvloZ7pobnvvIzkuI3kvKrpgKDku7vkvZXkuIrkvKAv5YaS54Of57uT5p6c44CCDQoNCi0tLQ0KDQojIyAxLiDkuIrkvKDliY3lj6ror7vmo4Dmn6XvvIjlhajpg6ggUEFTUyDinIXvvIkNCg0KfCDmo4Dmn6XpobkgfCDnu5PmnpwgfA0KfC0tLXwtLS18DQp8IGNvcnB1cy5qc29uIFNIQTI1NiB8IGBkYjAxZmJjOTIwNjRjYmVhM2E2Njg4YTk4MTYwYjZhNzBjOWUxNTAyNTliNTQwNjNjOGUyZTk2OTc0ZWFiYzhiYCDinIUg77ydIE8tMC42IHwNCnwgaW50ZW50LmpzIFNIQTI1NiB8IGA3NjVhZDEzOGVjNjhjMGYxNTljNmY3NWE2MGU1MjY4YmViMDJmYmExNTJmNmQ1M2RiZGM1MzliYTE1NjBjYTM4YCDinIUg77ydIE8tMC42IHwNCnwgcmFnLmpzIFNIQTI1NiB8IGA1YjM4MGIzZjdjNjhmMzc0ZTNkNGU1MTI3YmQ3ZGJlZmY3NDc4NDk0MDFjYTlkMDQ4ODQ5OGRlY2UxNDA4Mjg2YCDinIUg77ydIE8tMC42IHwNCnwga25vd2xlZGdlUm91dGVyLmpzIFNIQTI1NiB8IGA4NDg5MDg0NDVkYmI1ZWE5M2E2ZjUyNzc1ZGMzYzhlNjkyMmZmOTcxZDZjZWUxMTU1NDdmMjM2ZmZlZDBhOTM1YCDinIUg77ydIE8tMC42IHwNCnwgQ1ItMDAyIGluZGV4LmpzIHwgRVhJU1RT77yIMTQwOTEgQu+8ieKchSB8DQp8IENSLTAwMiBzZWN1cml0eS9pbnB1dEd1YXJkLmpzIHwgRVhJU1RT77yIMjE5OSBC77yJ4pyFIHwNCnwgQ1ItMDAyIHNlY3VyaXR5L3BpaVNjcnViLmpzIHwgRVhJU1RT77yIMTU0NSBC77yJ4pyFIHwNCnwgQ1ItMDAyIOWbnua7muWfuue6vyBpbmRleC5qcy5wcmVDUi5iYWsgfCBFWElTVFPvvIgxMDg5OCBC77yJ4pyFIHwNCnwgUGhhc2UgUy0wLjMgZml4dHVyZXMuanNvbiB8IEVYSVNUU++8iDIyMjA0IELvvIninIUgfA0KfCDkuLTml7bmlofku7YgYC5kZXBsb3ktdG1wYCB8IEFCU0VOVCDinIUgfA0KfCDkuLTml7bmlofku7YgYC5yZWxlYXNlX3RtcCpgIHwgQUJTRU5UIOKchSB8DQp8IOS4tOaXtuaWh+S7tiBgY2hhdF9kbCpgIHwgQUJTRU5U77yI5YWo55uY5qOA57Si5peg5q6L55WZ77yJ4pyFIHwNCg0KPiDlhrvnu5PotYTkuqfkuI4gTy0wLjYg6YCQ5a2X6IqC5LiA6Ie077yM5peg5ryC56e777yb5peg5Li05pe25Lqn54mp6YGX55WZ77yb5Y+R5biD5YmN54q25oCB5bmy5YeA44CCDQoNCi0tLQ0KDQojIyAyLiDkuIrkvKDliqjkvZzmiafooYznirbmgIEg4oCU4oCUIEJMT0NLRUTvvIjkurrlt6XliqjkvZzvvIzmnKznjq/looPml6Dms5XmiafooYzvvIkNCg0K5Lu75Yqh6KaB5rGC5omn6KGM55qE5Y+R5biD5rWB56iL77yaDQoNCjEuIOaJk+W8gOW+ruS/oeW8gOWPkeiAheW3peWFtyDigJQg4p2MICoq5peg5rOV5omn6KGMKirvvIjml6DlpLTmspnnrrHvvIzml6AgR1VJ77yJDQoyLiDkuIrkvKDkupHlh73mlbAgYGNsb3VkZnVuY3Rpb25zL2NoYXRgIOKAlCDinYwgKirml6Dms5XmiafooYwqKg0KICAgLSDlvq7kv6HkupHlh73mlbDku6PnoIHkuIrkvKDotbAgU0NGIOerr+eCuSBgc2NmLnRlbmNlbnRjbG91ZGFwaS5jb21g77ybDQogICAtIOaNrumhueebruiusOW/hu+8iHdlYXBwIOaymeeusee9kee7nOe6puadn++8ie+8mioq6K+l56uv54K55LuO5rKZ566x5LiN5Y+v6L6+KirvvIzku6PnoIHpg6jnvbLlv4XpobvnlLHnlKjmiLflnKjlvq7kv6HlvIDlj5HogIXlt6XlhbfmiYvliqjjgIzkuIrkvKDlubbpg6jnvbLCt+S6keerr+WuieijheS+nei1luOAjeOAgg0KMy4g5LiK5Lyg5bCP56iL5bqP5YmN56uvIGBtaW5pcHJvZ3JhbWAg4oCUIOKdjCAqKuaXoOazleaJp+ihjCoq77yI6ZyA5b6u5L+h5byA5Y+R6ICF5bel5YW3IEdVSSDkuIrkvKDvvIkNCjQuIOS6keerr+WuieijheS+nei1liDigJQg4p2MIOS+nei1luS6uuW3peS4iuS8oOa1geeoi+inpuWPke+8jOaXoOazleeLrOeri+aJp+ihjA0KNS4g562J5b6F5LiK5Lyg5a6M5oiQIC8g6K6w5b2V54mI5pysIOKAlCDinYwg5peg5LiK5Lyg5Yqo5L2c5YiZ5peg6K6w5b2VDQoNCioq57uT6K66KirvvJrkuIrkvKDmraXpqqTlhajpg6jkvp3otZbkurrlt6XlnKjlvq7kv6HlvIDlj5HogIXlt6XlhbfkuK3mk43kvZzvvIzmnKwgQWdlbnQg5rKZ566xKirml6LkuI3og73pqbHliqggR1VJ77yM5Lmf5peg5rOV57uV6L+HIFNDRiDnq6/ngrnpmZDliLYqKu+8jOaVheS4iuS8oOWKqOS9nOWcqOacrOeOr+Wigyoq5LiN5Y+v5omn6KGMKirjgIINCg0KPiDlpIfms6jvvJrkupHnq68gYGNoYXRgIOWHveaVsOW9k+WJjeW3suS4uiBDUi0wMDIg6YOo572y54mI5pys77yIRnVuY3Rpb25JZCBgbGFtLThhOHA1dnN4YO+8jE1vZGlmaWNhdGlvbiBUaW1lIGAyMDI2LTA4LTA1IDIwOjI5OjIxYO+8jOW3suS6jiBSZWxlYXNlIENsb3N1cmUg6Zi25q615Luj56CB5qC46aqM56Gu6K6k77yJ44CC5pys5qyh44CM6YeN5paw5LiK5Lyg44CN55qE6K+t5LmJ5piv5bCG5YW25LiO5pys5Zyw5bel5L2c5qCR5YaN5a+56b2QICsg5LiK5LygIGBtaW5pcHJvZ3JhbWAg5YmN56uv77yM5LqM6ICF5Z2H6ZyA5Lq65bel5pON5L2c44CCDQoNCi0tLQ0KDQojIyAzLiDkuIrnur/lkI7lhpLng58g4oCU4oCUIFBFTkRJTkfvvIjkurrlt6XliqjkvZzvvIzmnKrmiafooYzvvIkNCg0KfCBDYXNlIHwg6L6T5YWlIHwg6aKE5pyfIHwg57uT5p6cIHwNCnwtLS18LS0tfC0tLXwtLS18DQp8IDEuIOaZrumAmuWTsuWtpumXrumimCB8IOOAjOS6uuS4uuS7gOS5iOS8mui/t+iMq++8n+OAjSB8IOato+W4uOS6lOauteW8j+WbnuetlCB8ICoqUEVORElORyoq77yI6ZyA55yf5py6L+W3peWFt+aJp+ihjO+8iSB8DQp8IDIuIOi/neinhOi+k+WFpSB8IOi/neinhC/ms6jlhaXmlofmnKwgfCDlronlhajmi6bmiKogfCAqKlBFTkRJTkcqKiB8DQp8IDMuIFBJSSDmtYvor5UgfCDlkKvmiYvmnLrlj7cv6YKu566x5paH5pysIHwg5pel5b+X6ISx5pWP6YC76L6R5a2Y5ZyoIHwgKipQRU5ESU5HKiogfA0KfCA0LiDljoblj7Lpl67nrZQgfCDljoblj7Llr7nor50gfCDml6DlvILluLggfCAqKlBFTkRJTkcqKiB8DQp8IDUuIOWGt+WQr+WKqOivt+axgiB8IOmmluasoeWGt+WQr+iwg+eUqCB8IOi/kOihjOato+W4uCB8ICoqUEVORElORyoqIHwNCg0KPiDlhpLng5/pnIDlnKjlvq7kv6HlvIDlj5HogIXlt6Xlhbcv55yf5py65Lit6Kem5Y+R77yM5pys546v5aKD5peg5rOV5Lyq6YCg77yM5pWF5YWo6YOo5qCHIFBFTkRJTkfjgILku6PnoIHnuqfpg6jnvbLvvIhDUi0wMDLvvInmraTliY3lt7LkupHnq6/moLjpqowgUEFTU+OAgg0KDQotLS0NCg0KIyMgNC4g5Ya757uT6LWE5LqnIFNIQTI1Nu+8iOWkjeaguO+8jOKJoSBPLTAuNu+8iQ0KDQpgYGANCmNvcnB1cy5qc29uICAgICAgICBkYjAxZmJjOTIwNjRjYmVhM2E2Njg4YTk4MTYwYjZhNzBjOWUxNTAyNTliNTQwNjNjOGUyZTk2OTc0ZWFiYzhiDQppbnRlbnQuanMgICAgICAgICAgNzY1YWQxMzhlYzY4YzBmMTU5YzZmNzVhNjBlNTI2OGJlYjAyZmJhMTUyZjZkNTNkYmRjNTM5YmExNTYwY2EzOA0KcmFnLmpzICAgICAgICAgICAgIDViMzgwYjNmN2M2OGYzNzRlM2Q0ZTUxMjdiZDdkYmVmZjc0Nzg0OTQwMWNhOWQwNDg4NDk4ZGVjZTE0MDgyODYNCmtub3dsZWRnZVJvdXRlci5qcyA4NDg5MDg0NDVkYmI1ZWE5M2E2ZjUyNzc1ZGMzYzhlNjkyMmZmOTcxZDZjZWUxMTU1NDdmMjM2ZmZlZDBhOTM1DQpgYGANCg0K5YWo6YOo5LiOIE8tMC42IGJhc2VsaW5lIOS4gOiHtCDinIXvvIzml6DmvILnp7vjgIINCg0KLS0tDQoNCiMjIDUuIOW9k+WJjSBHYXRlIOeKtuaAgQ0KDQpgYGANClJFTEVBU0UgVVBMT0FEIEJMT0NLRUQNCmBgYA0KDQoqKumYu+WhnuWOn+WboCoq77ya5Y+R5biD5rWB56iL5Lit55qE5LiK5Lyg5Yqo5L2c77yI5omT5byA5b6u5L+h5byA5Y+R6ICF5bel5YW344CB5LiK5Lyg5LqR5Ye95pWw44CB5LiK5Lyg5bCP56iL5bqP5YmN56uv44CB5LqR56uv6KOF5L6d6LWW44CB562J5b6F5a6M5oiQ77yJ5LiO5LiK57q/5YaS54Of5Z2H5bGe5Lq65belIEdVSSAvIOecn+acuuWKqOS9nO+8jOacrOaXoOWktOaymeeuseaXoOazleaJp+ihjO+8jOS4lCBTQ0Yg5Luj56CB5LiK5Lyg56uv54K55LuO5rKZ566x5LiN5Y+v6L6+77yI6aG555uu6K6w5b+G56Gs57qm5p2f77yJ44CC5LiK5Lyg5YmN5omA5pyJ5Y+q6K+75qOA5p+l5Z2HIFBBU1PvvIzkvYbjgIzkuIrkvKDlrozmiJDjgI3ov5nkuIDkuovlrp7ml6Dms5XnlLHmnKznjq/looPkuqfnlJ/jgIINCg0KKirop6PpmaTpmLvloZ7vvIjkurrlt6XmiafooYzvvIkqKu+8mg0KMS4g5Zyo5b6u5L+h5byA5Y+R6ICF5bel5YW35Lit5omT5byA5pys6aG555uu77ybDQoyLiDlj7PplK4gYGNsb3VkZnVuY3Rpb25zL2NoYXRgIOKGkiDjgIzkuIrkvKDlubbpg6jnvbLvvJrkupHnq6/lronoo4Xkvp3otZbjgI3vvJsNCjMuIOS4iuS8oCBgbWluaXByb2dyYW1gIOWJjeerr++8mw0KNC4g562J5b6F5LiK5Lyg5a6M5oiQ77yM6K6w5b2V5LiK5Lyg5pe26Ze0IC8gRnVuY3Rpb25JZCAvIOmDqOe9sue7k+aenO+8mw0KNS4g5Zyo55yf5py6L+W3peWFt+S4reaJp+ihjCDCpzMg5LqU6aG55YaS54Of5bm25Zue5aGr57uT5p6c44CCDQoNCuWbnuWhq+WQjuiLpeWGkueDn+WFqCBQQVNT77yM5Y+v5Y2H57qn5Li6ICoqUkVMRUFTRSBVUExPQUQgUEFTUyoq44CCDQoNCi0tLQ0KDQojIyA2LiDnuqbmnZ/pgbXlrojnoa7orqQNCg0KfCDnpoHmraLpobkgfCDpgbXlroggfA0KfC0tLXwtLS18DQp8IOS4jeS/ruaUueS7u+S9leS7o+eggSAvIFByb21wdCAvIHJhZy5qcyAvIGNvcnB1cy5qc29uIC8gaW50ZW50LmpzIC8ga25vd2xlZGdlUm91dGVyLmpzIHwg4pyFIOacquaUueWKqO+8iOS7heWPquivu+agoemqjO+8iSB8DQp8IOS4jeaOpeWFpSBTZWFyY2ggUHJvdmlkZXIgLyDkuI3liJvlu7ogY2hhdF9iYWtlb2ZmX3Byb2JlIHwg4pyFIHwNCnwg5LiN6LCD55So5Lu75L2V5aSW6YOoIEFQSSB8IOKchSDmnKzova7pm7blpJbpg6josIPnlKggfA0KfCDkuI3kv67mlLnnlJ/kuqfphY3nva4gLyDkuI3lhpkgU0VBUkNIX1BST1ZJREVSIHwg4pyFIHwNCnwg5LiN5omn6KGMIGNvbW1pdC9wdXNoIHwg4pyFIOacquaPkOS6pCB8DQoNCi0tLQ0KDQoq5pys5oql5ZGK5o2u5a6e6K6w5b2V77yM5pyq5Lyq6YCg5LiK5Lyg5oiW5YaS54Of57uT5p6c44CC5YGc5q2i54K577ya5pyq6L+b5YWlIFMwLjUgQmFrZS1vZmYgLyBTMSBTZWFyY2ggLyBQcm92aWRlciDmjqXlhaUgLyDku7vkvZXmlrDlvIDlj5HpmLbmrrXjgILlvoXkurrlt6XlrozmiJDkuIrkvKDkuI7lhpLng5/lkI7lm57loavjgIIqDQo=
+﻿# Release Upload Completion Report
+
+**产品**：向晚问思 WenDao（微信云开发小程序）
+**云环境**：YOUR_CLOUD_ENV_ID
+**生成时间**：2026-08-06（GMT+8）
+**角色**：Release Manager + Release Engineer
+**性质**：Release Upload 任务执行记录。**本环境为无头沙箱，无法驱动微信开发者工具 GUI，亦无法触达 SCF 代码上传端点**，故上传与冒烟为人工动作，本报告据实记录可验证项与阻塞项，不伪造任何上传/冒烟结果。
+
+---
+
+## 1. 上传前只读检查（全部 PASS ✅）
+
+| 检查项 | 结果 |
+|---|---|
+| corpus.json SHA256 | `db01fbc92064cbea3a6688a98160b6a70c9e150259b54063c8e2e96974eabc8b` ✅ ＝ O-0.6 |
+| intent.js SHA256 | `765ad138ec68c0f159c6f75a60e5268beb02fba152f6d53dbdc539ba1560ca38` ✅ ＝ O-0.6 |
+| rag.js SHA256 | `5b380b3f7c68f374e3d4e5127bd7dbeff747849401ca9d0488498dece1408286` ✅ ＝ O-0.6 |
+| knowledgeRouter.js SHA256 | `848908445dbb5ea93a6f52775dc3c8e6922ff971d6cee115547f236ffed0a935` ✅ ＝ O-0.6 |
+| CR-002 index.js | EXISTS（14091 B）✅ |
+| CR-002 security/inputGuard.js | EXISTS（2199 B）✅ |
+| CR-002 security/piiScrub.js | EXISTS（1545 B）✅ |
+| CR-002 回滚基线 index.js.preCR.bak | EXISTS（10898 B）✅ |
+| Phase S-0.3 fixtures.json | EXISTS（22204 B）✅ |
+| 临时文件 `.deploy-tmp` | ABSENT ✅ |
+| 临时文件 `.release_tmp*` | ABSENT ✅ |
+| 临时文件 `chat_dl*` | ABSENT（全盘检索无残留）✅ |
+
+> 冻结资产与 O-0.6 逐字节一致，无漂移；无临时产物遗留；发布前状态干净。
+
+---
+
+## 2. 上传动作执行状态 —— BLOCKED（人工动作，本环境无法执行）
+
+任务要求执行的发布流程：
+
+1. 打开微信开发者工具 — ❌ **无法执行**（无头沙箱，无 GUI）
+2. 上传云函数 `cloudfunctions/chat` — ❌ **无法执行**
+   - 微信云函数代码上传走 SCF 端点 `scf.tencentcloudapi.com`；
+   - 据项目记忆（weapp 沙箱网络约束）：**该端点从沙箱不可达**，代码部署必须由用户在微信开发者工具手动「上传并部署·云端安装依赖」。
+3. 上传小程序前端 `miniprogram` — ❌ **无法执行**（需微信开发者工具 GUI 上传）
+4. 云端安装依赖 — ❌ 依赖人工上传流程触发，无法独立执行
+5. 等待上传完成 / 记录版本 — ❌ 无上传动作则无记录
+
+**结论**：上传步骤全部依赖人工在微信开发者工具中操作，本 Agent 沙箱**既不能驱动 GUI，也无法绕过 SCF 端点限制**，故上传动作在本环境**不可执行**。
+
+> 备注：云端 `chat` 函数当前已为 CR-002 部署版本（FunctionId `lam-8a8p5vsx`，Modification Time `2026-08-05 20:29:21`，已于 Release Closure 阶段代码核验确认）。本次「重新上传」的语义是将其与本地工作树再对齐 + 上传 `miniprogram` 前端，二者均需人工操作。
+
+---
+
+## 3. 上线后冒烟 —— PENDING（人工动作，未执行）
+
+| Case | 输入 | 预期 | 结果 |
+|---|---|---|---|
+| 1. 普通哲学问题 | 「人为什么会迷茫？」 | 正常五段式回答 | **PENDING**（需真机/工具执行） |
+| 2. 违规输入 | 违规/注入文本 | 安全拦截 | **PENDING** |
+| 3. PII 测试 | 含手机号/邮箱文本 | 日志脱敏逻辑存在 | **PENDING** |
+| 4. 历史问答 | 历史对话 | 无异常 | **PENDING** |
+| 5. 冷启动请求 | 首次冷启调用 | 运行正常 | **PENDING** |
+
+> 冒烟需在微信开发者工具/真机中触发，本环境无法伪造，故全部标 PENDING。代码级部署（CR-002）此前已云端核验 PASS。
+
+---
+
+## 4. 冻结资产 SHA256（复核，≡ O-0.6）
+
+```
+corpus.json        db01fbc92064cbea3a6688a98160b6a70c9e150259b54063c8e2e96974eabc8b
+intent.js          765ad138ec68c0f159c6f75a60e5268beb02fba152f6d53dbdc539ba1560ca38
+rag.js             5b380b3f7c68f374e3d4e5127bd7dbeff747849401ca9d0488498dece1408286
+knowledgeRouter.js 848908445dbb5ea93a6f52775dc3c8e6922ff971d6cee115547f236ffed0a935
+```
+
+全部与 O-0.6 baseline 一致 ✅，无漂移。
+
+---
+
+## 5. 当前 Gate 状态
+
+```
+RELEASE UPLOAD BLOCKED
+```
+
+**阻塞原因**：发布流程中的上传动作（打开微信开发者工具、上传云函数、上传小程序前端、云端装依赖、等待完成）与上线冒烟均属人工 GUI / 真机动作，本无头沙箱无法执行，且 SCF 代码上传端点从沙箱不可达（项目记忆硬约束）。上传前所有只读检查均 PASS，但「上传完成」这一事实无法由本环境产生。
+
+**解除阻塞（人工执行）**：
+1. 在微信开发者工具中打开本项目；
+2. 右键 `cloudfunctions/chat` → 「上传并部署：云端安装依赖」；
+3. 上传 `miniprogram` 前端；
+4. 等待上传完成，记录上传时间 / FunctionId / 部署结果；
+5. 在真机/工具中执行 §3 五项冒烟并回填结果。
+
+回填后若冒烟全 PASS，可升级为 **RELEASE UPLOAD PASS**。
+
+---
+
+## 6. 约束遵守确认
+
+| 禁止项 | 遵守 |
+|---|---|
+| 不修改任何代码 / Prompt / rag.js / corpus.json / intent.js / knowledgeRouter.js | ✅ 未改动（仅只读校验） |
+| 不接入 Search Provider / 不创建 chat_bakeoff_probe | ✅ |
+| 不调用任何外部 API | ✅ 本轮零外部调用 |
+| 不修改生产配置 / 不写 SEARCH_PROVIDER | ✅ |
+| 不执行 commit/push | ✅ 未提交 |
+
+---
+
+*本报告据实记录，未伪造上传或冒烟结果。停止点：未进入 S0.5 Bake-off / S1 Search / Provider 接入 / 任何新开发阶段。待人工完成上传与冒烟后回填。*

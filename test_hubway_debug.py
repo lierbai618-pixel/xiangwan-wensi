@@ -1,1 +1,72 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMw0KIyAtKi0gY29kaW5nOiB1dGYtOCAtKi0NCiIiInouaHVid2F5LmNjIOaOkuafpe+8muWOuyB3ZWJfc2VhcmNoX29wdGlvbnMgKyDmnIDnroDor7fmsYIiIiINCg0KaW1wb3J0IGpzb24sIHRpbWUsIGh0dHAuY2xpZW50LCBzc2wNCg0KQVBJX0tFWSA9ICJzay1ZT1VSX0FQSV9LRVlfSEVSRSINCkJBU0VfSE9TVCA9ICJ6Lmh1YndheS5jYyINCkhFQURFUlMgPSB7DQogICAgIkNvbnRlbnQtVHlwZSI6ICJhcHBsaWNhdGlvbi9qc29uOyBjaGFyc2V0PXV0Zi04IiwNCiAgICAiQWNjZXB0IjogImFwcGxpY2F0aW9uL2pzb24iLA0KICAgICJBdXRob3JpemF0aW9uIjogZiJCZWFyZXIge0FQSV9LRVl9IiwNCn0NCg0KZGVmIGNhbGwobW9kZWwsIHF1ZXN0aW9uLCB3ZWJfc2VhcmNoPUZhbHNlKToNCiAgICBib2R5ID0gew0KICAgICAgICAibW9kZWwiOiBtb2RlbCwNCiAgICAgICAgIm1lc3NhZ2VzIjogWw0KICAgICAgICAgICAgeyJyb2xlIjogInN5c3RlbSIsICJjb250ZW50IjogIuS9oOaYr+efpeivhuWKqeaJi+OAgiJ9LA0KICAgICAgICAgICAgeyJyb2xlIjogInVzZXIiLCAiY29udGVudCI6IHF1ZXN0aW9ufQ0KICAgICAgICBdLA0KICAgICAgICAic3RyZWFtIjogRmFsc2UsDQogICAgICAgICJtYXhfdG9rZW5zIjogNTAwLA0KICAgIH0NCiAgICBpZiB3ZWJfc2VhcmNoOg0KICAgICAgICBib2R5WyJ3ZWJfc2VhcmNoX29wdGlvbnMiXSA9IHt9DQogICAgcGF5bG9hZCA9IGpzb24uZHVtcHMoYm9keSwgZW5zdXJlX2FzY2lpPUZhbHNlKS5lbmNvZGUoInV0Zi04IikNCiAgICBjb25uID0gaHR0cC5jbGllbnQuSFRUUFNDb25uZWN0aW9uKEJBU0VfSE9TVCwgY29udGV4dD1zc2wuY3JlYXRlX2RlZmF1bHRfY29udGV4dCgpLCB0aW1lb3V0PTMwKQ0KICAgIHN0YXJ0ID0gdGltZS50aW1lKCkNCiAgICB0cnk6DQogICAgICAgIGNvbm4ucmVxdWVzdCgiUE9TVCIsICIvdjEvY2hhdC9jb21wbGV0aW9ucyIsIGJvZHk9cGF5bG9hZCwgaGVhZGVycz1IRUFERVJTKQ0KICAgICAgICByZXNwID0gY29ubi5nZXRyZXNwb25zZSgpDQogICAgICAgIGRhdGEgPSByZXNwLnJlYWQoKS5kZWNvZGUoInV0Zi04IikNCiAgICAgICAgZWxhcHNlZCA9IGludCgodGltZS50aW1lKCkgLSBzdGFydCkgKiAxMDAwKQ0KICAgICAgICBpZiByZXNwLnN0YXR1cyAhPSAyMDA6DQogICAgICAgICAgICByZXR1cm4gRmFsc2UsIGVsYXBzZWQsIE5vbmUsIGYiSFRUUCB7cmVzcC5zdGF0dXN9OiB7ZGF0YVs6NDAwXX0iDQogICAgICAgIG9iaiA9IGpzb24ubG9hZHMoZGF0YSkNCiAgICAgICAgY29udGVudCA9IG9iai5nZXQoImNob2ljZXMiLCBbe31dKVswXS5nZXQoIm1lc3NhZ2UiLCB7fSkuZ2V0KCJjb250ZW50IiwgIiIpDQogICAgICAgIHJldHVybiBUcnVlLCBlbGFwc2VkLCBjb250ZW50LCBOb25lDQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOg0KICAgICAgICBlbGFwc2VkID0gaW50KCh0aW1lLnRpbWUoKSAtIHN0YXJ0KSAqIDEwMDApDQogICAgICAgIHJldHVybiBGYWxzZSwgZWxhcHNlZCwgTm9uZSwgc3RyKGUpDQogICAgZmluYWxseToNCiAgICAgICAgY29ubi5jbG9zZSgpDQoNCg0KcHJpbnQoIuaOkuafpSB6Lmh1YndheS5jYyAo5Y67IHdlYl9zZWFyY2hfb3B0aW9ucykiKQ0KcHJpbnQoIj0iICogNjApDQoNCiMgMS4g5pyA566A6K+35rGC77yM5pegIHdlYl9zZWFyY2gNCnByaW50KCJcblvmtYvor5UxXSDml6Agd2ViX3NlYXJjaF9vcHRpb25z77yMZ3B0LTUuNC1taW5pIikNCm9rLCBsYXQsIGNvbnRlbnQsIGVyciA9IGNhbGwoImdwdC01LjQtbWluaSIsICLkuIDlj6Xor53ku4vnu43ljJfkuqwiKQ0KcHJpbnQoZiIgICh7J+KchScgaWYgb2sgZWxzZSAn4p2MJ30pIHtsYXR9bXMiKQ0KcHJpbnQoZiIgIHtjb250ZW50IGlmIGNvbnRlbnQgZWxzZSBlcnJ9IikNCg0KIyAyLiDluKYgd2ViX3NlYXJjaA0KcHJpbnQoIlxuW+a1i+ivlTJdIOW4piB3ZWJfc2VhcmNoX29wdGlvbnPvvIxncHQtNS40LW1pbmkiKQ0Kb2ssIGxhdCwgY29udGVudCwgZXJyID0gY2FsbCgiZ3B0LTUuNC1taW5pIiwgIuS4gOWPpeivneS7i+e7jeWMl+S6rCIsIHdlYl9zZWFyY2g9VHJ1ZSkNCnByaW50KGYiICAoeyfinIUnIGlmIG9rIGVsc2UgJ+KdjCd9KSB7bGF0fW1zIikNCnByaW50KGYiICB7Y29udGVudCBpZiBjb250ZW50IGVsc2UgZXJyfSIpDQoNCiMgMy4g5o2iIGNvZGV4LWF1dG8tcmV2aWV3DQpwcmludCgiXG5b5rWL6K+VM10gY29kZXgtYXV0by1yZXZpZXcg5qih5Z6LIikNCm9rLCBsYXQsIGNvbnRlbnQsIGVyciA9IGNhbGwoImNvZGV4LWF1dG8tcmV2aWV3IiwgIuS9oOWlvSIpDQpwcmludChmIiAgKHsn4pyFJyBpZiBvayBlbHNlICfinYwnfSkge2xhdH1tcyIpDQpwcmludChmIiAge2NvbnRlbnQgaWYgY29udGVudCBlbHNlIGVycn0iKQ0KDQojIDQuIOaNoiBncHQtNS42LXNvbA0KcHJpbnQoIlxuW+a1i+ivlTRdIGdwdC01LjYtc29sIOaooeWeiyIpDQpvaywgbGF0LCBjb250ZW50LCBlcnIgPSBjYWxsKCJncHQtNS42LXNvbCIsICLkuIDlj6Xor53ku4vnu43kuIrmtbciKQ0KcHJpbnQoZiIgICh7J+KchScgaWYgb2sgZWxzZSAn4p2MJ30pIHtsYXR9bXMiKQ0KcHJpbnQoZiIgIHtjb250ZW50IGlmIGNvbnRlbnQgZWxzZSBlcnJ9IikNCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""z.hubway.cc 排查：去 web_search_options + 最简请求"""
+
+import json, time, http.client, ssl
+
+API_KEY = "sk-YOUR_API_KEY_HERE"
+BASE_HOST = "z.hubway.cc"
+HEADERS = {
+    "Content-Type": "application/json; charset=utf-8",
+    "Accept": "application/json",
+    "Authorization": f"Bearer {API_KEY}",
+}
+
+def call(model, question, web_search=False):
+    body = {
+        "model": model,
+        "messages": [
+            {"role": "system", "content": "你是知识助手。"},
+            {"role": "user", "content": question}
+        ],
+        "stream": False,
+        "max_tokens": 500,
+    }
+    if web_search:
+        body["web_search_options"] = {}
+    payload = json.dumps(body, ensure_ascii=False).encode("utf-8")
+    conn = http.client.HTTPSConnection(BASE_HOST, context=ssl.create_default_context(), timeout=30)
+    start = time.time()
+    try:
+        conn.request("POST", "/v1/chat/completions", body=payload, headers=HEADERS)
+        resp = conn.getresponse()
+        data = resp.read().decode("utf-8")
+        elapsed = int((time.time() - start) * 1000)
+        if resp.status != 200:
+            return False, elapsed, None, f"HTTP {resp.status}: {data[:400]}"
+        obj = json.loads(data)
+        content = obj.get("choices", [{}])[0].get("message", {}).get("content", "")
+        return True, elapsed, content, None
+    except Exception as e:
+        elapsed = int((time.time() - start) * 1000)
+        return False, elapsed, None, str(e)
+    finally:
+        conn.close()
+
+
+print("排查 z.hubway.cc (去 web_search_options)")
+print("=" * 60)
+
+# 1. 最简请求，无 web_search
+print("\n[测试1] 无 web_search_options，gpt-5.4-mini")
+ok, lat, content, err = call("gpt-5.4-mini", "一句话介绍北京")
+print(f"  ({'✅' if ok else '❌'}) {lat}ms")
+print(f"  {content if content else err}")
+
+# 2. 带 web_search
+print("\n[测试2] 带 web_search_options，gpt-5.4-mini")
+ok, lat, content, err = call("gpt-5.4-mini", "一句话介绍北京", web_search=True)
+print(f"  ({'✅' if ok else '❌'}) {lat}ms")
+print(f"  {content if content else err}")
+
+# 3. 换 codex-auto-review
+print("\n[测试3] codex-auto-review 模型")
+ok, lat, content, err = call("codex-auto-review", "你好")
+print(f"  ({'✅' if ok else '❌'}) {lat}ms")
+print(f"  {content if content else err}")
+
+# 4. 换 gpt-5.6-sol
+print("\n[测试4] gpt-5.6-sol 模型")
+ok, lat, content, err = call("gpt-5.6-sol", "一句话介绍上海")
+print(f"  ({'✅' if ok else '❌'}) {lat}ms")
+print(f"  {content if content else err}")

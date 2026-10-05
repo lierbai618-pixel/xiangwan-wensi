@@ -1,1 +1,136 @@
-IyBQaGFzZSBQKyDigJQgT2JzZXJ2YWJpbGl0eSDokL3lupPorr7orqHvvIhkb2NzLzY477yJCgojIyDlkJHmmZrpl67mgJ3vvIhXZW5EYW/vvInCtyBLbm93bGVkZ2UgUGxhdGZvcm0gdjEuMC4xIEhhcmRlbmluZyDigJQg56ys5LiJ6Zi25q6177yaT2JzZXJ2YWJpbGl0eSDmlbDmja7pl63njq8KCj4gKirpmLbmrrXlrprkvY0qKu+8mlBoYXNlIFArIOesrOS4iemYtuautQo+ICoq6KeS6ImyKirvvJpLbm93bGVkZ2UgUGxhdGZvcm0gRW5naW5lZXIgKyBSQUcgUGxhdGZvcm0gRW5naW5lZXIKPiAqKuWFs+iBlCoq77yaYGRvY3MvNjIgwqc5YO+8iE9ic2VydmFiaWxpdHkg5a2X5q616K6+6K6h77yJ44CBYGRvY3MvNjYgwqc1YO+8iE1vbml0b3JpbmcgUGlwZWxpbmXvvIkKPiAqKuaAp+i0qCoq77yaKirnuq/mlrDlop7ku6PnoIEqKu+8iOingua1i+aooeWdlyArIOWFpeWPoyBmaXJlLWFuZC1mb3JnZXQg6LCD55So77yJ77yMKirpm7blhrvnu5PotYTkuqfmlLnliqgqKuOAggoKLS0tCgojIyAxLiDnm67moIfkuI7nuqbmnZ8KCuWwhiBgZG9jcy82MiDCpzlgIOW3suiuvuiuoeeahCAxMiDkuKogT2JzZXJ2YWJpbGl0eSDlrZfmrrXku47jgIzmpoLlv7XjgI3lj5jkuLrjgIznnJ/lrp7okL3lupPmlbDmja7jgI3vvIzkvb8gRGFzaGJvYXJkIC8gSGVhbHRoIFNjb3JlIC8gQWxlcnQg5pyJ55yf5a6e5pWw5o2u5Y+v5raI6LS544CCCgp8IOe6puadnyB8IOWkhOeQhiB8CnwtLS18LS0tfAp8IOS4jeW9seWTjeWbnuetlOmTvui3ryB8IExvZ2dlciDlnKggYGdlbmVyYXRlQW5zd2VyYCDov5Tlm57lkI7osIPnlKjvvIzlj6ror7sgYHJlc3VsdGDvvJvkuI3ov5vmo4DntKIv55Sf5oiQ6Lev5b6EIHwKfCDlpLHotKXkuI3og73pmLvmlq3lm57nrZQgfCBgc3RvcmUud3JpdGVgIOawuOS4jeaKm+WHuu+8m2Bsb2dPYnNlcnZhdGlvbmAg5YyFIHRyeS9jYXRjaO+8jGZpcmUtYW5kLWZvcmdldCB8Cnwg5byC5q2l5YaZ5YWl5LyY5YWIIHwg5LiNIGBhd2FpdGAg6JC95bqT77yM5Li75rWB56iL56uL5Y2z6L+U5Zue77yI5LiO5pei5pyJIGBsb2dDaGF0YC9gbG9nUXVlc3Rpb25gIOWQjOaooeW8j++8iSB8Cnwg5LiN5L+u5pS55Ya757uT6LWE5LqnIHwg5LuFIGByZXF1aXJlYCDlhrvnu5PnmoQgYGtub3dsZWRnZVJvdXRlci5yb3V0ZVF1ZXN0aW9uYO+8iOWPquivu+iwg+eUqO+8ie+8m+S4jeS/ruaUuSByb3V0ZXIvcmFnL2ludGVudC9jb3JwdXMgfAp8IOS4jemHjeeul+ajgOe0oumAu+i+kSB8IOS7heWkjeeul+i9u+mHj+i3r+eUseWGs+etlu+8iOe6r+WHveaVsO+8ieeUqOS6juingua1i++8jOS4jei3keajgOe0oiB8CgotLS0KCiMjIDIuIOaVsOaNrua1ge+8iE1lcm1haWTvvIkKCmBgYG1lcm1haWQKZmxvd2NoYXJ0IExSCiAgICBBW0Fuc3dlciBSdW50aW1lPGJyLz5nZW5lcmF0ZUFuc3dlciDov5Tlm54gcmVzdWx0XSAtLT4gQltPYnNlcnZhYmlsaXR5IExvZ2dlcjxici8+YnVpbGRPYnNlcnZhdGlvblJlY29yZF0KICAgIEIgLS0+IEN76YCJ5oupIFN0b3JlfQogICAgQyAtLT586buY6K6kL+acrOWcsC/mtYvor5V8IERbSnNvbk9ic2VydmFiaWxpdHlTdG9yZTxici8+5pys5ZywIEpTT04g5paH5Lu2XQogICAgQyAtLT58S05PV0xFREdFX09CU0VSVkFCSUxJVFlfU1RPUkU9Y2xvdWR8IEVbQ2xvdWRPYnNlcnZhYmlsaXR5U3RvcmU8YnIvPuS6keaVsOaNruW6k+mbhuWQiF0KICAgIEQgLS0+IEZbKG9ic2VydmFiaWxpdHktc3RvcmUuanNvbildCiAgICBFIC0tPiBHWyhvYnNlcnZhYmlsaXR5X2xvZ3MpXQogICAgQiAtLiDlpLHotKXlronlhaggLi0+IEhbY29uc29sZS5lcnJvcjxici8+5LiN5oqb5Yiw5Li76ZO+6LevXQpgYGAKCi0tLQoKIyMgMy4g6KeC5rWL6K6w5b2VIFNjaGVtYQoK5q+P5qyh6K+35rGC55Sf5oiQ5LiA5p2h6K6w5b2V77yIYGJ1aWxkT2JzZXJ2YXRpb25SZWNvcmRg77yJ77yaCgp8IOWtl+autSB8IOadpea6kCB8IOivtOaYjiB8CnwtLS18LS0tfC0tLXwKfCBgcXVlcnlgIHwg55So5oi35Y6f5aeL6Zeu6aKYIHwg5LiOIGBxdWVzdGlvbl9sb2dzLnF1ZXN0aW9uYCDlr7npvZAgfAp8IGBhbnN3ZXJfaWRgIHwgYHJlc3VsdC5hbnN3ZXJJZGAgfCDotK/pgJrmiYDmnInlm57nrZTot6/lvoTnmoTop4TojIPljJYgSUQgfAp8IGBjb252ZXJzYXRpb25faWRgIHwg5YmN56uv5Lyg5YWlIHwg5Lya6K+d5YWz6IGUIHwKfCBgb3BlbmlkYCB8IGBjbG91ZC5nZXRXWENvbnRleHQoKS5PUEVOSURgIHwg55So5oi35YWz6IGUIHwKfCBgcm91dGVyX2RlY2lzaW9uYCB8ICoq5Y+q6K+76LCD55SoIGBrbm93bGVkZ2VSb3V0ZXIucm91dGVRdWVzdGlvbmAqKiB8IGB7cHJpb3JpdHlEb21haW5zLCBrbm93bGVkZ2VQcmlvcml0eSwgcHJlZmVycmVkVHlwZXMsIHJlYXNvbn1gIHwKfCBgZmFsbGJhY2tfcmVhc29uYCB8IGByb3V0ZXJfZGVjaXNpb24ucmVhc29uYCB8IGBjbGFzc2ljLXByaW9yaXR5LWRvbWFpbmAgLyBgY29nbml0aXZlLXBzeWNob2xvZ3ktc2lnbmFsYCAvIGBmYWxsYmFjay1jbGFzc2ljYCAvIGByb3V0ZXItZGlzYWJsZWRgIHwKfCBga25vd2xlZGdlX3R5cGVgIHwgYHJlc3VsdC5jaXRhdGlvbnNbXS5rbm93bGVkZ2VfdHlwZWAg5Y676YeNIHwg5ZG95Lit55qE55+l6K+G57G75Z6L6ZuG5ZCI77yI5aaCIGBbImNsYXNzaWMiXWAgLyBgWyJjbGFzc2ljIiwicHN5Y2hvbG9neSJdYO+8iSB8CnwgYHJldHJpZXZhbF9yZXN1bHRgIHwgYHJlc3VsdC5jaXRhdGlvbnNbXS50aXRsZWAgfCDlkb3kuK3otYTmlpnmoIfpopjliJfooaggfAp8IGBjaXRhdGlvbl9jb3VudGAgfCBgcmVzdWx0LmNpdGF0aW9ucy5sZW5ndGhgIHwg5byV55So5pWw6YePIHwKfCBgbGF0ZW5jeV9tc2AgfCBgRGF0ZS5ub3coKSAtIHN0YXJ0VGltZWAgfCDnq6/liLDnq6/nlJ/miJDogJfml7YgfAp8IGBjcmVhdGVkX2F0YCB8IGBuZXcgRGF0ZSgpLnRvSVNPU3RyaW5nKClgIHwg5pe26Ze05oizIHwKCj4gKirlhbPplK7orr7orqEqKu+8mmByb3V0ZXJfZGVjaXNpb25gIC8gYGZhbGxiYWNrX3JlYXNvbmAg6YCa6L+HKirlj6ror7vosIPnlKjlhrvnu5PnmoQgYHJvdXRlUXVlc3Rpb25gKiog5aSN566X6I635b6XIOKAlOKAlCDml6Lmi7/liLAgS25vd2xlZGdlIFJvdXRlciDnmoTnnJ/lrp7lhrPnrZbnlKjkuo7op4LmtYvvvIzlj4jkuI3kv67mlLnku7vkvZXlhrvnu5Pku6PnoIHjgILov5nmmK/jgIzlpI3nlKjlhrvnu5Pog73lipvjgIHkuI3liqDkuI3mlLnjgI3ljp/liJnnmoTkvZPnjrDjgIIKCiMjIyAzLjEg6KGl5YWF5a2X5q6177yIUGhhc2Ug4pGlIOa1i+ivlempseWKqOWinuihpe+8jDIwMjYtMDgtMDHvvIkKClBoYXNlIOKRpSDmtYvor5XmmrTpnLLlh7rkuIrooajlr7kgYGRvY3MvNjIgwqc5YCDljYHkuozlrZfmrrXlpZHnuqbnmoTopobnm5bku4UgMiDpobnjgILku6XkuIsgNCDpobnmlbDmja7mnKzlsLHlrZjlnKjkuo7lhaXlj4IgYG9wdHMuaW50ZW50YCAvIOeOr+Wig+WPmOmHj+S4re+8jOWPquaYr+acquaMgeS5heWMlu+8jOW3sumbtuaIkOacrOihpem9kO+8mgoKfCDlrZfmrrUgfCDmnaXmupAgfCDor7TmmI4gfAp8LS0tfC0tLXwtLS18CnwgYGRvbWFpbmAgfCBgaW50ZW50SW5mby5kb21haW5gIHwg5oSP5Zu+5Z+f77yIwqc5IOWlkee6puWtl+aute+8iSB8CnwgYGludGVudGAgfCBgaW50ZW50SW5mby50eXBlYCB8IOaEj+Wbvuexu+Wei++8iMKnOSDlpZHnuqblrZfmrrXvvIkgfAp8IGBwb2xpY3lfbmFtZWAgfCBgaW50ZW50SW5mby5rbm93bGVkZ2VQb2xpY3lgIHwgYHNraXBgIC8gYG9wdGlvbmFsYCAvIGB1c2Vg77yIwqc5IOWlkee6puWtl+aute+8iSB8CnwgYHJvdXRlcl9lbmFibGVkYCB8IGBwcm9jZXNzLmVudi5LQl9ST1VURVJfRU5BQkxFRGAgfCDot6/nlLHlvIDlhbPnirbmgIHvvIjCpzkg5aWR57qm5a2X5q6177yJIHwKCuihpem9kOWQjuiusOW9leWFsSAqKjE1IOWtl+autSoq44CC5a+5IMKnOSDljYHkuozlrZfmrrXlpZHnuqbnmoTopobnm5bluqbvvJoqKuebtOaOpSA2LzEyKirvvIhga25vd2xlZGdlX3R5cGVgIGBmYWxsYmFja19yZWFzb25gIGBkb21haW5gIGBpbnRlbnRgIGBwb2xpY3lfbmFtZWAgYHJvdXRlcl9lbmFibGVkYO+8ieOAgSoq562J5Lu3IDEvMTIqKu+8iGBjaXRhdGlvbl9zb3VyY2VgIOKJiCBgcmV0cmlldmFsX3Jlc3VsdGDvvInjgIEqKuacquimhuebliA1LzEyKirvvIhgcmV0cmlldmFsX21vZGVgIGByb3V0ZXJfYWRqdXN0bWVudGAgYHJlcmFua19zY29yZWAgYGNodW5rX2lkYCBgdmVjdG9yX3Njb3JlYO+8ieOAggoKPiDmnKropobnm5bnmoQgNSDpobnlj5blgLzlnYfkvY3kuo4qKuWGu+e7k+eahCBgcmFnLmpzYCDmo4DntKLlhoXpg6gqKu+8jOW/hemhu+WcqCByYWcg5YaF6YOo5Z+L54K55omN6IO95Y+W5Yiw77yM5LiOIFBoYXNlIFAr44CM6Zu25Ya757uT6LWE5Lqn5pS55Yqo44CN56Gs57qm5p2f5Yay56qBIOKGkiDmmI7noa7mjqjov5/oh7MgUGhhc2UgUe+8jOW5tueUsSBgdGVzdHMvcGhhc2UtcC1wbHVzL3Rlc3QtMi1vYnNlcnZhYmlsaXR5LmpzYCAqKuaYvuW8j+mUgeWumuivpee8uuWPoyoq77yI5pat6KiA6L+ZIDUg6aG556Gu5a6e57y65bit77yJ77yM6Ziy5q2i6KKr5oKE5oKE5pS55Y+Y6ICM5LiN5pu05paw5oqr6Zyy44CCCgotLS0KCiMjIDQuIOWtmOWCqOaKveixoe+8iOWPr+abv+aNou+8iQoKfCBTdG9yZSB8IOmAgueUqCB8IOaOpeWPoyB8CnwtLS18LS0tfC0tLXwKfCBgSnNvbk9ic2VydmFiaWxpdHlTdG9yZWAgfCDpu5jorqQgLyDmnKzlnLAgLyDmtYvor5UgLyDpmY3nuqcgfCBgd3JpdGUocmVjb3JkKWAgLyBgcmVhZEFsbCgpYO+8jOWGmeacrOWcsCBKU09OIOaVsOe7hCB8CnwgYENsb3VkT2JzZXJ2YWJpbGl0eVN0b3JlYCB8IOeUn+S6p+S6keerryB8IOWGmSBgb2JzZXJ2YWJpbGl0eV9sb2dzYCDkupHmlbDmja7lupPpm4blkIjvvIhgd3gtc2VydmVyLXNka2Ag5bu26L+f5Yqg6L2977yJIHwKCi0g5LqM6ICF5a6e546wKirlkIzkuIDmjqXlj6MqKu+8jExvZ2dlciDpgJrov4cgYGNyZWF0ZURlZmF1bHRTdG9yZSgpYCDmjIkgZW52IOmAieaLqeOAggotIOS6keWHveaVsOacrOWcsOaWh+S7tuezu+e7n+aXoOeKtuaAge+8jCoq55Sf5Lqn5b+F6aG75YiH5YiwIENsb3VkIFN0b3JlKirvvIjorr4gYEtOT1dMRURHRV9PQlNFUlZBQklMSVRZX1NUT1JFPWNsb3VkYO+8ieOAggotIGB3cml0ZSgpYCDlhajpg6ggYHRyeS9jYXRjaGAg5YyF6KO577yM5aSx6LSl6L+U5ZueIGB7b2s6ZmFsc2V9YCDlubYgYGNvbnNvbGUuZXJyb3Jg77yMKirnu53kuI3mipvlh7oqKuOAggoKLS0tCgojIyA1LiDlhaXlj6PmjqXnur/vvIhgY2xvdWRmdW5jdGlvbnMvY2hhdC9pbmRleC5qc2DvvIzpnZ7lhrvnu5PvvIkKCuS7heS9nCoq5aKe6YePIGluc3RydW1lbnRhdGlvbioq77yM5LiN5pS55Yqo5pei5pyJIGBsb2dDaGF0YC9gbG9nUXVlc3Rpb25g77yaCgpgYGBqYXZhc2NyaXB0Ci8vIOmhtumDqOaWsOWingpjb25zdCB7IGxvZ09ic2VydmF0aW9uIH0gPSByZXF1aXJlKCIuL29ic2VydmFiaWxpdHkvb2JzZXJ2YWJpbGl0eUxvZ2dlciIpOwoKLy8gbWFpbiDlhoXvvJpnZW5lcmF0ZUFuc3dlciDliY3orrAgc3RhcnRUaW1l77yb57uT5p6c6L+U5Zue5ZCOIGZpcmUtYW5kLWZvcmdldApjb25zdCBzdGFydFRpbWUgPSBEYXRlLm5vdygpOwpjb25zdCByZXN1bHQgPSBhd2FpdCBnZW5lcmF0ZUFuc3dlciguLi4pOwpyZXN1bHQuYW5zd2VySWQgPSBtYWtlQW5zd2VySWQoKTsKLi4uCmNvbnN0IGN0eCA9IGNsb3VkLmdldFdYQ29udGV4dCgpOwp0cnkgewogIGxvZ09ic2VydmF0aW9uKHsgcXVlcnk6IG1lc3NhZ2UsIGFuc3dlcklkOiByZXN1bHQuYW5zd2VySWQsIGNvbnZlcnNhdGlvbklkLAogICAgICAgICAgICAgICAgICAgcmVzdWx0LCBpbnRlbnQ6IHJlc3VsdC5pbnRlbnQsIGxhdGVuY3lNczogRGF0ZS5ub3coKS1zdGFydFRpbWUsCiAgICAgICAgICAgICAgICAgICBvcGVuaWQ6IGN0eCAmJiBjdHguT1BFTklEIH0pOwp9IGNhdGNoIChlKSB7IGNvbnNvbGUuZXJyb3IoImxvZ09ic2VydmF0aW9uIHVuZXhwZWN0ZWQgZXJyb3I6IiwgZSk7IH0KYGBgCgrosIPnlKjkuLoqKuacqiBhd2FpdCDnmoQgZmlyZS1hbmQtZm9yZ2V0KirvvIzkuI7njrDmnInml6Xlv5fmqKHlvI/kuIDoh7TvvIzkuLvmtYHnqIvpm7bpmLvloZ7jgIIKCi0tLQoKIyMgNi4g5LiO5pei5pyJIGBxdWVzdGlvbl9sb2dzYCDnmoTlhbPns7sKCmBxdWVzdGlvbl9sb2dzYO+8iOaXouacie+8ieW3suimhuebliBxdWVyeS9hbnN3ZXJfaWQvY29udmVyc2F0aW9uX2lkL2ludGVudC9tYXRjaGVkVGl0bGVzL3JvdXRlVGhlbWVz44CC5pys6KeC5rWL6ZuG5ZCIKirooaXpvZAgUGhhc2UgUCsg5by66LCD55qE57y65aSx57u05bqmKirvvJpga25vd2xlZGdlX3R5cGVg44CBYGZhbGxiYWNrX3JlYXNvbmDjgIFgY2l0YXRpb25fY291bnRg44CBYGxhdGVuY3lfbXNg77yM5bm26Z2i5ZCRIEtub3dsZWRnZSBQbGF0Zm9ybSDmsrvnkIbni6znq4vmiJDooajjgILkuozogIXlubblrZjjgIHkupLkuI3mm7/ku6PvvIzpgb/lhY3mlLnliqjml6LmnInpgLvovpHjgIIKCi0tLQoKIyMgNy4g6aqM5pS25pig5bCECgp8IOeUqOaIt+imgeaxgiB8IOWunueOsCB8CnwtLS18LS0tfAp8IOiusOW9lSBxdWVyeSAvIGFuc3dlcl9pZCAvIGNvbnZlcnNhdGlvbl9pZCB8IOKchSDlrZfmrrXpvZDlpIcgfAp8IOiusOW9lSByb3V0ZXIgZGVjaXNpb24gLyBrbm93bGVkZ2VfdHlwZSB8IOKchSDlj6ror7vlpI3nrpcgYHJvdXRlUXVlc3Rpb25gICsgY2l0YXRpb25zIOWOu+mHjSB8Cnwg6K6w5b2VIHJldHJpZXZhbCByZXN1bHQgLyBjaXRhdGlvbiBjb3VudCB8IOKchSBgcmV0cmlldmFsX3Jlc3VsdGAgLyBgY2l0YXRpb25fY291bnRgIHwKfCDorrDlvZUgZmFsbGJhY2sgcmVhc29uIC8gbGF0ZW5jeSB8IOKchSBgZmFsbGJhY2tfcmVhc29uYCAvIGBsYXRlbmN5X21zYCB8Cnwg5LiN5b2x5ZON5Zue562U6ZO+6LevIHwg4pyFIOi/lOWbnuWQjuiwg+eUqOOAgeWPquivuyByZXN1bHQgfAp8IOWksei0peS4jeiDvemYu+aWreWbnuetlCB8IOKchSBzdG9yZSDmsLjkuI3mipvjgIFmaXJlLWFuZC1mb3JnZXQgfAp8IOW8guatpeWGmeWFpeS8mOWFiCB8IOKchSDmnKogYXdhaXQg6JC95bqTIHwKCi0tLQoKPiAq5paH5qGj55Sf5oiQ77yaUGhhc2UgUCsg56ys5LiJ6Zi25q6177yIT2JzZXJ2YWJpbGl0eSDokL3lupPorr7orqHvvInjgILmiYDmnInku6PnoIHkuLrmlrDlop7mqKHlnZfvvJtgaW5kZXguanNgIOS7heWinumHj+aOpee6v++8iOmdnuWGu+e7k+aWh+S7tu+8ieOAgioK
+﻿# Phase P+ — Observability 落库设计（docs/68）
+
+## 向晚问思（WenDao）· Knowledge Platform v1.0.1 Hardening — 第三阶段：Observability 数据闭环
+
+> **阶段定位**：Phase P+ 第三阶段
+> **角色**：Knowledge Platform Engineer + RAG Platform Engineer
+> **关联**：`docs/62 §9`（Observability 字段设计）、`docs/66 §5`（Monitoring Pipeline）
+> **性质**：**纯新增代码**（观测模块 + 入口 fire-and-forget 调用），**零冻结资产改动**。
+
+---
+
+## 1. 目标与约束
+
+将 `docs/62 §9` 已设计的 12 个 Observability 字段从「概念」变为「真实落库数据」，使 Dashboard / Health Score / Alert 有真实数据可消费。
+
+| 约束 | 处理 |
+|---|---|
+| 不影响回答链路 | Logger 在 `generateAnswer` 返回后调用，只读 `result`；不进检索/生成路径 |
+| 失败不能阻断回答 | `store.write` 永不抛出；`logObservation` 包 try/catch，fire-and-forget |
+| 异步写入优先 | 不 `await` 落库，主流程立即返回（与既有 `logChat`/`logQuestion` 同模式） |
+| 不修改冻结资产 | 仅 `require` 冻结的 `knowledgeRouter.routeQuestion`（只读调用）；不修改 router/rag/intent/corpus |
+| 不重算检索逻辑 | 仅复算轻量路由决策（纯函数）用于观测，不跑检索 |
+
+---
+
+## 2. 数据流（Mermaid）
+
+```mermaid
+flowchart LR
+    A[Answer Runtime<br/>generateAnswer 返回 result] --> B[Observability Logger<br/>buildObservationRecord]
+    B --> C{选择 Store}
+    C -->|默认/本地/测试| D[JsonObservabilityStore<br/>本地 JSON 文件]
+    C -->|KNOWLEDGE_OBSERVABILITY_STORE=cloud| E[CloudObservabilityStore<br/>云数据库集合]
+    D --> F[(observability-store.json)]
+    E --> G[(observability_logs)]
+    B -. 失败安全 .-> H[console.error<br/>不抛到主链路]
+```
+
+---
+
+## 3. 观测记录 Schema
+
+每次请求生成一条记录（`buildObservationRecord`）：
+
+| 字段 | 来源 | 说明 |
+|---|---|---|
+| `query` | 用户原始问题 | 与 `question_logs.question` 对齐 |
+| `answer_id` | `result.answerId` | 贯通所有回答路径的规范化 ID |
+| `conversation_id` | 前端传入 | 会话关联 |
+| `openid` | `cloud.getWXContext().OPENID` | 用户关联 |
+| `router_decision` | **只读调用 `knowledgeRouter.routeQuestion`** | `{priorityDomains, knowledgePriority, preferredTypes, reason}` |
+| `fallback_reason` | `router_decision.reason` | `classic-priority-domain` / `cognitive-psychology-signal` / `fallback-classic` / `router-disabled` |
+| `knowledge_type` | `result.citations[].knowledge_type` 去重 | 命中的知识类型集合（如 `["classic"]` / `["classic","psychology"]`） |
+| `retrieval_result` | `result.citations[].title` | 命中资料标题列表 |
+| `citation_count` | `result.citations.length` | 引用数量 |
+| `latency_ms` | `Date.now() - startTime` | 端到端生成耗时 |
+| `created_at` | `new Date().toISOString()` | 时间戳 |
+
+> **关键设计**：`router_decision` / `fallback_reason` 通过**只读调用冻结的 `routeQuestion`** 复算获得 —— 既拿到 Knowledge Router 的真实决策用于观测，又不修改任何冻结代码。这是「复用冻结能力、不加不改」原则的体现。
+
+### 3.1 补充字段（Phase ⑥ 测试驱动增补，2026-08-01）
+
+Phase ⑥ 测试暴露出上表对 `docs/62 §9` 十二字段契约的覆盖仅 2 项。以下 4 项数据本就存在于入参 `opts.intent` / 环境变量中，只是未持久化，已零成本补齐：
+
+| 字段 | 来源 | 说明 |
+|---|---|---|
+| `domain` | `intentInfo.domain` | 意图域（§9 契约字段） |
+| `intent` | `intentInfo.type` | 意图类型（§9 契约字段） |
+| `policy_name` | `intentInfo.knowledgePolicy` | `skip` / `optional` / `use`（§9 契约字段） |
+| `router_enabled` | `process.env.KB_ROUTER_ENABLED` | 路由开关状态（§9 契约字段） |
+
+补齐后记录共 **15 字段**。对 §9 十二字段契约的覆盖度：**直接 6/12**（`knowledge_type` `fallback_reason` `domain` `intent` `policy_name` `router_enabled`）、**等价 1/12**（`citation_source` ≈ `retrieval_result`）、**未覆盖 5/12**（`retrieval_mode` `router_adjustment` `rerank_score` `chunk_id` `vector_score`）。
+
+> 未覆盖的 5 项取值均位于**冻结的 `rag.js` 检索内部**，必须在 rag 内部埋点才能取到，与 Phase P+「零冻结资产改动」硬约束冲突 → 明确推迟至 Phase Q，并由 `tests/phase-p-plus/test-2-observability.js` **显式锁定该缺口**（断言这 5 项确实缺席），防止被悄悄改变而不更新披露。
+
+---
+
+## 4. 存储抽象（可替换）
+
+| Store | 适用 | 接口 |
+|---|---|---|
+| `JsonObservabilityStore` | 默认 / 本地 / 测试 / 降级 | `write(record)` / `readAll()`，写本地 JSON 数组 |
+| `CloudObservabilityStore` | 生产云端 | 写 `observability_logs` 云数据库集合（`wx-server-sdk` 延迟加载） |
+
+- 二者实现**同一接口**，Logger 通过 `createDefaultStore()` 按 env 选择。
+- 云函数本地文件系统无状态，**生产必须切到 Cloud Store**（设 `KNOWLEDGE_OBSERVABILITY_STORE=cloud`）。
+- `write()` 全部 `try/catch` 包裹，失败返回 `{ok:false}` 并 `console.error`，**绝不抛出**。
+
+---
+
+## 5. 入口接线（`cloudfunctions/chat/index.js`，非冻结）
+
+仅作**增量 instrumentation**，不改动既有 `logChat`/`logQuestion`：
+
+```javascript
+// 顶部新增
+const { logObservation } = require("./observability/observabilityLogger");
+
+// main 内：generateAnswer 前记 startTime；结果返回后 fire-and-forget
+const startTime = Date.now();
+const result = await generateAnswer(...);
+result.answerId = makeAnswerId();
+...
+const ctx = cloud.getWXContext();
+try {
+  logObservation({ query: message, answerId: result.answerId, conversationId,
+                   result, intent: result.intent, latencyMs: Date.now()-startTime,
+                   openid: ctx && ctx.OPENID });
+} catch (e) { console.error("logObservation unexpected error:", e); }
+```
+
+调用为**未 await 的 fire-and-forget**，与现有日志模式一致，主流程零阻塞。
+
+---
+
+## 6. 与既有 `question_logs` 的关系
+
+`question_logs`（既有）已覆盖 query/answer_id/conversation_id/intent/matchedTitles/routeThemes。本观测集合**补齐 Phase P+ 强调的缺失维度**：`knowledge_type`、`fallback_reason`、`citation_count`、`latency_ms`，并面向 Knowledge Platform 治理独立成表。二者并存、互不替代，避免改动既有逻辑。
+
+---
+
+## 7. 验收映射
+
+| 用户要求 | 实现 |
+|---|---|
+| 记录 query / answer_id / conversation_id | ✅ 字段齐备 |
+| 记录 router decision / knowledge_type | ✅ 只读复算 `routeQuestion` + citations 去重 |
+| 记录 retrieval result / citation count | ✅ `retrieval_result` / `citation_count` |
+| 记录 fallback reason / latency | ✅ `fallback_reason` / `latency_ms` |
+| 不影响回答链路 | ✅ 返回后调用、只读 result |
+| 失败不能阻断回答 | ✅ store 永不抛、fire-and-forget |
+| 异步写入优先 | ✅ 未 await 落库 |
+
+---
+
+> *文档生成：Phase P+ 第三阶段（Observability 落库设计）。所有代码为新增模块；`index.js` 仅增量接线（非冻结文件）。*

@@ -1,1 +1,27 @@
-ewogICJpZCI6ICJleGFtcGxlX3NsdWciLAogICJ0aXRsZSI6ICLkuablkI0iLAogICJhdXRob3IiOiAi5L2c6ICFIiwKICAidHJhbnNsYXRvciI6IG51bGwsCiAgInNvdXJjZSI6ICLmoKHli5gv5bqV5pys6K+05piO77yI5p2l5rqQ77yJIiwKICAiZWRpdGlvbiI6ICLniYjmnKzor7TmmI7vvIjlj6/pgInvvIkiLAogICJwdWJsaXNoZXIiOiBudWxsLAogICJ5ZWFyIjogIuW5tOS7oyIsCiAgImNvcHlyaWdodF9zdGF0dXMiOiAicHVibGljLWRvbWFpbiIsCiAgImxpY2Vuc2Vfbm90ZSI6ICJDQzAgLyDlhazmnInpoobln5/vvIjljp/mlofvvIkiLAogICJ2ZXJpZmljYXRpb25fZGF0ZSI6ICJZWVlZLU1NLUREIiwKICAiY2F0ZWdvcnkiOiAi5Lit5Zu95ZOy5a2mIiwKICAicGVyc3BlY3RpdmUiOiAi5YSS5a62IiwKICAidGhlbWVzIjogWyLkv67ouqsiLCAi5a2m5LmgIl0sCiAgInByb2JsZW1fdGFncyI6IFsi6L+36IyrIiwgIuiHquaIkeaIkOmVvyJdLAogICJ1c2VyX3F1ZXN0aW9ucyI6IFsi5bm06L275Lq66L+36Iyr55qE5pe25YCZ5oCO5LmI5YqeIiwgIuWmguS9leaIkOS4uuabtOWlveeahOS6uiJdLAogICJzY2VuYXJpb3MiOiBbIumdkuW5tOaIkOmVvyIsICLkurrnlJ/pgInmi6kiXSwKICAiYXV0aG9yaXR5X2xldmVsIjogNSwKICAiY2l0YXRpb24iOiB7ICJ0ZW1wbGF0ZSI6ICLjgIp7dGl0bGV9wrd7c2VjdGlvbn3jgIsiLCAiZXhhbXBsZSI6ICLjgIrkuablkI3Ct+evh+WQjeOAiyIgfSwKICAibGFuZ3VhZ2UiOiAiemgiLAogICJzb3VyY2VfdHlwZSI6ICJhbmNpZW50LXRleHQiLAogICJjaGFwdGVyX3NwbGl0IjogImJ5LWJvb2siLAogICJsZWdhbENvbmZpcm0iOiB0cnVlLAogICJzdGF0dXMiOiAicGVuZGluZyIsCiAgIm5vdGVzIjogIuetluWxleWkh+azqCIKfQo=
+{
+  "id": "example_slug",
+  "title": "书名",
+  "author": "作者",
+  "translator": null,
+  "source": "校勘/底本说明（来源）",
+  "edition": "版本说明（可选）",
+  "publisher": null,
+  "year": "年代",
+  "copyright_status": "public-domain",
+  "license_note": "CC0 / 公有领域（原文）",
+  "verification_date": "YYYY-MM-DD",
+  "category": "中国哲学",
+  "perspective": "儒家",
+  "themes": ["修身", "学习"],
+  "problem_tags": ["迷茫", "自我成长"],
+  "user_questions": ["年轻人迷茫的时候怎么办", "如何成为更好的人"],
+  "scenarios": ["青年成长", "人生选择"],
+  "authority_level": 5,
+  "citation": { "template": "《{title}·{section}》", "example": "《书名·篇名》" },
+  "language": "zh",
+  "source_type": "ancient-text",
+  "chapter_split": "by-book",
+  "legalConfirm": true,
+  "status": "pending",
+  "notes": "策展备注"
+}

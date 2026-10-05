@@ -1,1 +1,102 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09DQovLyBRMi0yMCDpqozor4HvvJrogYzkuJrliY3nvIAr5Lq65ZCNIOWIhuexuyArIOaQnOe0oua2iOatpw0KLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09DQondXNlIHN0cmljdCc7DQoNCnByb2Nlc3MuZW52LkZSRVNITkVTU19FTkFCTEVEID0gJ3RydWUnOw0KcHJvY2Vzcy5lbnYuRlJFU0hORVNTX0ZBQ1RVQUxfRU5BQkxFRCA9ICd0cnVlJzsNCnByb2Nlc3MuZW52LlNFQVJDSF9QUk9WSURFUiA9ICdxd2VuJzsNCnByb2Nlc3MuZW52LlNFQVJDSF9USU1FT1VUX01TID0gJzE1MDAwJzsNCnByb2Nlc3MuZW52LlFXRU5fU0VBUkNIX0JBU0VfVVJMID0gJ2h0dHBzOi8vZGFzaHNjb3BlLmFsaXl1bmNzLmNvbS9jb21wYXRpYmxlLW1vZGUvdjEnOw0KcHJvY2Vzcy5lbnYuUVdFTl9TRUFSQ0hfQVBJX0tFWSA9ICdzay1ZT1VSX0FQSV9LRVlfSEVSRSc7DQpwcm9jZXNzLmVudi5RV0VOX1NFQVJDSF9NT0RFTCA9ICdkZWVwc2Vlay12NC1mbGFzaC0wNzMxJzsNCnByb2Nlc3MuZW52LlFXRU5fU0VBUkNIX1NZTlRIX01PREUgPSAndHJ1ZSc7DQpwcm9jZXNzLmVudi5TRUFSQ0hfQ0FOQVJZX0VOQUJMRUQgPSAndHJ1ZSc7DQpwcm9jZXNzLmVudi5TRUFSQ0hfQ0FOQVJZX09QRU5JRFMgPSAnWU9VUl9BRE1JTl9PUEVOSUQnOw0KcHJvY2Vzcy5lbnYuUFJJVkFDWV9HQVRFX0VOQUJMRUQgPSAndHJ1ZSc7DQoNCnZhciBjbGFzc2lmaWVyID0gcmVxdWlyZSgnLi4vY2xvdWRmdW5jdGlvbnMvY2hhdC9mcmVzaG5lc3MvZXZlbnRDbGFzc2lmaWVyJyk7DQp2YXIgQ0FURUdPUlkgPSByZXF1aXJlKCcuLi9jbG91ZGZ1bmN0aW9ucy9jaGF0L2ZyZXNobmVzcy9zY2hlbWEnKS5DQVRFR09SWTsNCnZhciBmcmVzaG5lc3MgPSByZXF1aXJlKCcuLi9jbG91ZGZ1bmN0aW9ucy9jaGF0L2ZyZXNobmVzcycpOw0KdmFyIG1heWJlSGFuZGxlID0gZnJlc2huZXNzLm1heWJlSGFuZGxlOw0KDQp2YXIgTU9ERUxTID0gW3sNCiAgbmFtZTogJ2RlZXBzZWVrLXY0LWZsYXNoLTA3MzEnLA0KICBiYXNlVVJMOiAnaHR0cHM6Ly9kYXNoc2NvcGUuYWxpeXVuY3MuY29tL2NvbXBhdGlibGUtbW9kZS92MScsDQogIGFwaUtleTogJ3NrLVlPVVJfQVBJX0tFWV9IRVJFJywNCiAgbW9kZWw6ICdkZWVwc2Vlay12NC1mbGFzaC0wNzMxJywNCiAgdGltZW91dDogMjUwMDANCn1dOw0KDQphc3luYyBmdW5jdGlvbiB0ZXN0T25lKHF1ZXJ5LCBleHBlY3RCLCBleHBlY3REaXJlY3QpIHsNCiAgY29uc29sZS5sb2coJ1xuLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLScpOw0KICBjb25zb2xlLmxvZygn6Zeu5rOVOiAiJyArIHF1ZXJ5ICsgJyInKTsNCiAgdmFyIGNscyA9IGNsYXNzaWZpZXIuY2xhc3NpZnlDYXRlZ29yeShxdWVyeSwgbnVsbCk7DQogIHZhciBjYXRPayA9IGNscy5jYXRlZ29yeSA9PT0gKGV4cGVjdEIgPyBDQVRFR09SWS5CIDogKGV4cGVjdEIgPT09IGZhbHNlID8gQ0FURUdPUlkuQSA6IGNscy5jYXRlZ29yeSkpOw0KICB2YXIgZGlyT2sgPSAoZXhwZWN0RGlyZWN0ID09PSB0cnVlKSA/ICEhY2xzLmRpcmVjdEZhY3R1YWwgOiAoZXhwZWN0RGlyZWN0ID09PSBmYWxzZSA/ICFjbHMuZGlyZWN0RmFjdHVhbCA6IHRydWUpOw0KICBjb25zb2xlLmxvZygnW+WIhuexu10gJyArIChjYXRPayA/ICfinIUnIDogJ+KdjCcpICsgJyBjYXRlZ29yeT0nICsgY2xzLmNhdGVnb3J5ICsNCiAgICAnIHwgZGlyZWN0RmFjdGFsPScgKyAhIWNscy5kaXJlY3RGYWN0dWFsICsgJyB8IHJlYXNvbj0nICsgY2xzLnJlYXNvbik7DQoNCiAgdmFyIHQwID0gRGF0ZS5ub3coKTsNCiAgdmFyIHJlcyA9IGF3YWl0IG1heWJlSGFuZGxlKHF1ZXJ5LCB7DQogICAgbW9kZWxzOiBNT0RFTFMsDQogICAgb3BlbmlkOiAnWU9VUl9BRE1JTl9PUEVOSUQnLA0KICAgIGFuc3dlck1vZGU6ICd0aGluaycsDQogICAgaGlzdG9yeTogW10NCiAgfSk7DQogIHZhciBlbGFwc2VkID0gRGF0ZS5ub3coKSAtIHQwOw0KICBjb25zb2xlLmxvZygnW+WFqOmTvui3r10g6ICX5pe2PScgKyBlbGFwc2VkICsgJ21zJyk7DQoNCiAgaWYgKCFyZXMpIHsNCiAgICBjb25zb2xlLmxvZygnICDinYwgbnVsbO+8iOacquaOpeeuoe+8iScpOw0KICAgIHJldHVybiB7IGNhdDogY2F0T2ssIGRpcjogZGlyT2ssIGhhbmRsZTogZmFsc2UgfTsNCiAgfQ0KDQogIHZhciBkb3duZ3JhZGVkID0gcmVzLmZyZXNobmVzcyAmJiByZXMuZnJlc2huZXNzLmRvd25ncmFkZWQ7DQogIHZhciBpc0RpcmVjdCA9IHJlcy5mcmVzaG5lc3MgJiYgcmVzLmZyZXNobmVzcy5kaXJlY3RfZmFjdHVhbDsNCiAgY29uc29sZS5sb2coJyAgbW9kZT0nICsgcmVzLm1vZGUgKyAnIHwgZG93bmdyYWRlZD0nICsgZG93bmdyYWRlZCArDQogICAgJyB8IGRpcmVjdF9mYWN0dWFsPScgKyBpc0RpcmVjdCArDQogICAgJyB8IHByb3ZpZGVyPScgKyAocmVzLmZyZXNobmVzcyAmJiByZXMuZnJlc2huZXNzLnNlYXJjaF9wcm92aWRlcikpOw0KDQogIC8vIOajgOafpeWbnuetlOaYr+WQpuWMheWQq+WFs+mUruS/oeaBrw0KICB2YXIgYW5zID0gcmVzLmFuc3dlciB8fCAnJzsNCiAgdmFyIGhhc0NvbnRlbnQgPSBhbnMubGVuZ3RoID4gNTA7DQogIHZhciBoYXNEaXNjbGFpbWVyID0gL+acque7jyjni6znq4spP+aguOWunnznvZHnu5znu7zlkIh85LuF5L6b5Y+C6ICDL3UudGVzdChhbnMpOw0KICB2YXIgbm9Eb3duZ3JhZGVUZW1wbGF0ZSA9IGFucy5pbmRleE9mKCfmsqHmnInlj6/pnaDnmoTkv6Hmga/mnaXmupAnKSA8IDAgJiYgYW5zLmluZGV4T2YoJ+aIkeS4jeaOjOaPoScpIDwgMDsNCg0KICBjb25zb2xlLmxvZygnICDlhoXlrrknICsgKGhhc0NvbnRlbnQgPyAn4pyFJyA6ICfinYwnKSArICcgKCcgKyBhbnMubGVuZ3RoICsgJ+WtlyknICsNCiAgICAnIHwg5YWN6LSjJyArIChoYXNEaXNjbGFpbWVyID8gJ+KchScgOiAn4pqg77iPJykgKw0KICAgICcgfCDpnZ7pmY3nuqfmqKHmnb8nICsgKG5vRG93bmdyYWRlVGVtcGxhdGUgPyAn4pyFJyA6ICfinYwnKSk7DQoNCiAgaWYgKGFucy5sZW5ndGggPiAwKSB7DQogICAgY29uc29sZS5sb2coJyAgLS0tIOWJjTMwMOWtlyAtLS0nKTsNCiAgICBjb25zb2xlLmxvZygnICAnICsgYW5zLnNsaWNlKDAsIDMwMCkucmVwbGFjZSgvXG4vZywgJ1xuICAnKSk7DQogIH0NCg0KICByZXR1cm4gew0KICAgIGNhdDogY2F0T2ssDQogICAgZGlyOiBkaXJPaywNCiAgICBoYW5kbGU6IHRydWUsDQogICAgZG93bmdyYWRlZDogZG93bmdyYWRlZCwNCiAgICBjb250ZW50OiBoYXNDb250ZW50LA0KICAgIGRpc2NsYWltZXI6IGhhc0Rpc2NsYWltZXIsDQogICAgbm90ZW1wbGF0ZTogbm9Eb3duZ3JhZGVUZW1wbGF0ZQ0KICB9Ow0KfQ0KDQphc3luYyBmdW5jdGlvbiBydW4oKSB7DQogIGNvbnNvbGUubG9nKCc9PT0gUTItMjAg6IGM5Lia5YmN57yAK+S6uuWQjSDliIbnsbsgKyDmtojmrafpqozor4EgPT09XG4nKTsNCg0KICB2YXIgcjsNCiAgciA9IGF3YWl0IHRlc3RPbmUoJ+iEseWPo+engOa8lOWRmOaIv+S4u+S7uycsIHRydWUsIHRydWUpOyAgICAgLy8g5paw6KeE5YiZ77ya6IGM5Lia5YmN57yA4oaSQg0KICByID0gYXdhaXQgdGVzdE9uZSgn5oi/5Li75Lu75piv6LCBJywgdHJ1ZSwgdHJ1ZSk7ICAgICAgICAgICAgIC8vIOW3suacieinhOWImQ0KICByID0gYXdhaXQgdGVzdE9uZSgn5oi/57uN6I6J5piv6LCBJywgdHJ1ZSwgdHJ1ZSk7ICAgICAgICAgICAgIC8vIOacrOWQjeKGkuato+ehrua2iOatpw0KICByID0gYXdhaXQgdGVzdE9uZSgn5LuL57uN5LiA5LiL5oi/5Li75Lu7JywgdHJ1ZSwgdHJ1ZSk7ICAgICAgICAgIC8vIOS7i+e7jeKGkkINCiAgciA9IGF3YWl0IHRlc3RPbmUoJ+a8lOWRmOi1teS4vemilicsIHRydWUsIHRydWUpOyAgICAgICAgICAgICAvLyDogYzkuJor5piO5pif5ZCNDQogIHIgPSBhd2FpdCB0ZXN0T25lKCfmrYzmiYvlkajmnbDkvKYnLCB0cnVlLCB0cnVlKTsgICAgICAgICAgICAgIC8vIOiBjOS4mivmmI7mmJ/lkI0NCiAgciA9IGF3YWl0IHRlc3RPbmUoJ+S7gOS5iOaYr+S6uueUn+aEj+S5iScsIGZhbHNlLCBmYWxzZSk7ICAgICAgICAvLyDlk7LlrabihpJB77yI5LiN5Y+X5b2x5ZON77yJDQoNCiAgY29uc29sZS5sb2coJ1xuPT09IOWujOaIkCA9PT0nKTsNCn0NCg0KcnVuKCkuY2F0Y2goZnVuY3Rpb24oZSkgeyBjb25zb2xlLmVycm9yKCflvILluLg6JywgZSk7IHByb2Nlc3MuZXhpdCgxKTsgfSk7DQo=
+// ============================================================
+// Q2-20 验证：职业前缀+人名 分类 + 搜索消歧
+// ============================================================
+'use strict';
+
+process.env.FRESHNESS_ENABLED = 'true';
+process.env.FRESHNESS_FACTUAL_ENABLED = 'true';
+process.env.SEARCH_PROVIDER = 'qwen';
+process.env.SEARCH_TIMEOUT_MS = '15000';
+process.env.QWEN_SEARCH_BASE_URL = 'https://dashscope.aliyuncs.com/compatible-mode/v1';
+process.env.QWEN_SEARCH_API_KEY = 'sk-YOUR_API_KEY_HERE';
+process.env.QWEN_SEARCH_MODEL = 'deepseek-v4-flash-0731';
+process.env.QWEN_SEARCH_SYNTH_MODE = 'true';
+process.env.SEARCH_CANARY_ENABLED = 'true';
+process.env.SEARCH_CANARY_OPENIDS = 'YOUR_ADMIN_OPENID';
+process.env.PRIVACY_GATE_ENABLED = 'true';
+
+var classifier = require('../cloudfunctions/chat/freshness/eventClassifier');
+var CATEGORY = require('../cloudfunctions/chat/freshness/schema').CATEGORY;
+var freshness = require('../cloudfunctions/chat/freshness');
+var maybeHandle = freshness.maybeHandle;
+
+var MODELS = [{
+  name: 'deepseek-v4-flash-0731',
+  baseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  apiKey: 'sk-YOUR_API_KEY_HERE',
+  model: 'deepseek-v4-flash-0731',
+  timeout: 25000
+}];
+
+async function testOne(query, expectB, expectDirect) {
+  console.log('\n----------------------------------------');
+  console.log('问法: "' + query + '"');
+  var cls = classifier.classifyCategory(query, null);
+  var catOk = cls.category === (expectB ? CATEGORY.B : (expectB === false ? CATEGORY.A : cls.category));
+  var dirOk = (expectDirect === true) ? !!cls.directFactual : (expectDirect === false ? !cls.directFactual : true);
+  console.log('[分类] ' + (catOk ? '✅' : '❌') + ' category=' + cls.category +
+    ' | directFactal=' + !!cls.directFactual + ' | reason=' + cls.reason);
+
+  var t0 = Date.now();
+  var res = await maybeHandle(query, {
+    models: MODELS,
+    openid: 'YOUR_ADMIN_OPENID',
+    answerMode: 'think',
+    history: []
+  });
+  var elapsed = Date.now() - t0;
+  console.log('[全链路] 耗时=' + elapsed + 'ms');
+
+  if (!res) {
+    console.log('  ❌ null（未接管）');
+    return { cat: catOk, dir: dirOk, handle: false };
+  }
+
+  var downgraded = res.freshness && res.freshness.downgraded;
+  var isDirect = res.freshness && res.freshness.direct_factual;
+  console.log('  mode=' + res.mode + ' | downgraded=' + downgraded +
+    ' | direct_factual=' + isDirect +
+    ' | provider=' + (res.freshness && res.freshness.search_provider));
+
+  // 检查回答是否包含关键信息
+  var ans = res.answer || '';
+  var hasContent = ans.length > 50;
+  var hasDisclaimer = /未经(独立)?核实|网络综合|仅供参考/u.test(ans);
+  var noDowngradeTemplate = ans.indexOf('没有可靠的信息来源') < 0 && ans.indexOf('我不掌握') < 0;
+
+  console.log('  内容' + (hasContent ? '✅' : '❌') + ' (' + ans.length + '字)' +
+    ' | 免责' + (hasDisclaimer ? '✅' : '⚠️') +
+    ' | 非降级模板' + (noDowngradeTemplate ? '✅' : '❌'));
+
+  if (ans.length > 0) {
+    console.log('  --- 前300字 ---');
+    console.log('  ' + ans.slice(0, 300).replace(/\n/g, '\n  '));
+  }
+
+  return {
+    cat: catOk,
+    dir: dirOk,
+    handle: true,
+    downgraded: downgraded,
+    content: hasContent,
+    disclaimer: hasDisclaimer,
+    notemplate: noDowngradeTemplate
+  };
+}
+
+async function run() {
+  console.log('=== Q2-20 职业前缀+人名 分类 + 消歧验证 ===\n');
+
+  var r;
+  r = await testOne('脱口秀演员房主任', true, true);     // 新规则：职业前缀→B
+  r = await testOne('房主任是谁', true, true);             // 已有规则
+  r = await testOne('房绍莉是谁', true, true);             // 本名→正确消歧
+  r = await testOne('介绍一下房主任', true, true);          // 介绍→B
+  r = await testOne('演员赵丽颖', true, true);             // 职业+明星名
+  r = await testOne('歌手周杰伦', true, true);              // 职业+明星名
+  r = await testOne('什么是人生意义', false, false);        // 哲学→A（不受影响）
+
+  console.log('\n=== 完成 ===');
+}
+
+run().catch(function(e) { console.error('异常:', e); process.exit(1); });

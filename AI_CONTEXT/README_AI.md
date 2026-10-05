@@ -1,1 +1,40 @@
-IyBSRUFETUVfQUkubWQgwrcgQUkg5YWl5Y+j77yIRW50cnkgUG9pbnTvvIkKCj4gKirku7vkvZXmlrDmjqXmiYvmnKzpobnnm67nmoQgQUnvvIznrKzkuIDku7bkuovlv4Xpobvor7vov5nkuKrmlofku7bjgIIqKgo+Cj4gKirwn5OFIOaWh+aho+WIt+aWsOS6jiAyMDI2LTA4LTA377yI57uI5qCh6IezIFEyLTE177yJKirvvJrlt7LmoKHlh4boh7PlvZPliY3nnJ/lrp7nirbmgIHigJTigJQqKuiBlOe9keaQnOe0ouW3sumDqOe9suS4iue6v++8iFEyLTE077yJ44CB5YiG57G75Zmo6Lev55Sx5L+u5aSN77yIUTItMTQtYu+8ieOAgeS8oOiusOW5u+iniemYsuaKpO+8iFEyLTE177yJKirjgILoi6XmnKzmlofkuI7ku6PnoIHmiJYgYC53b3JrYnVkZHkvbWVtb3J5LzIwMjYtMDgtMDcubWRgIOWGsueqge+8jCoq5Lul5Luj56CB5LiO5b2T5pel5pel5b+X5Li65YeGKirvvIjku6PnoIHkuLrnnJ/lrp7mnaXmupDvvInjgIIKCiMjIDUg5YiG6ZKf5LiK5omL5rWB56iLCgpgYGAKMS4g6K+75pys5paH77yIUkVBRE1FX0FJLm1k77yJICAgICAgICAgICAg4oaQIOS9oOWcqOi/mQoyLiDor7sgMDBfUFJPSkVDVC5tZCAgICAgICAgICAgICAgICAgIOKGkCDouqvku70v54mI5pysL0FQUElEL+Wbm+aooeW8jyvkuInlsYLog73lipsKMy4g6K+7IDAxX0FSQ0hJVEVDVFVSRS5tZCAgICAgICAgICAgICDihpAg5p625p6EICsgTWVybWFpZO+8iOWQqyBGcmVzaG5lc3MvVGhpbmsvcHJvdmlkZXJzIOaKpOagj+mTvu+8iQo0LiDor7sgMDJfQlVTSU5FU1MubWQgICAgICAgICAgICAgICAgIOKGkCDpobXpnaLogYzotKMKNS4g6K+7IDAzX0NPREVfU1RSVUNUVVJFLm1kICAgICAgICAgICDihpAg55uu5b2VL+aooeWdl++8iOWQqyBwcm92aWRlcnMvZnJlc2huZXNzL3RoaW5rL3NlY3VyaXR5L29ic2VydmFiaWxpdHnvvIkKNi4g6K+7IDA0X0RBVEFCQVNFLm1kICAgICAgICAgICAgICAgICDihpAg6ZuG5ZCI77yI5ZCrIG9ic2VydmFiaWxpdHlfbG9ncyDkuI7lhrLnqoHmoIfms6jvvIkKNy4g6K+7IDA1X1JBRy5tZCAgICAgICAgICAgICAgICAgICAgICAg4oaQIEtub3dsZWRnZSDovajpgZMgKyBGcmVzaG5lc3Mg5Zyo57q/5pCc57SiCjguIOivuyAwNl9QUk9NUFQubWQgICAgICAgICAgICAgICAgICAgIOKGkCBQcm9tcHQg57Si5byVCjkuIOivuyAwN19LTk9XTEVER0UubWQgICAgICAgICAgICAgICAg4oaQIDM3IOe7j+WFuCArIOWGu+e7k+Wfuue6vyBTSEEyNTYKMTAuIOivuyAwOF9ISVNUT1JZLm1kICAgICAgICAgICAgICAgICAg4oaQIFBoYXNlIEHihpJILTLihpJS4oaSUTEtQuKGklEyLTDihpJRMi004oCmUTItMTUKMTEuIOivuyAwOV9URVNULm1kICAgICAgICAgICAgICAgICAgICAg4oaQIOa1i+ivleimhueblu+8iHEyNGPigKZxMzPvvIkKMTIuIOivuyAxMF9SVUxFUy5tZCAgICAgICAgICAgICAgICAgICAg4oaQIOW9k+WJjeW8gOWPkeWOn+WIme+8iOWGu+e7k+e6quW+iy/pg6jnvbLnuqrlvosv5oqk5qCPL+ingua1i+e6quW+i++8iQoxMy4g6K+7IDExX1RPRE8ubWQgICAgICAgICAgICAgICAgICAgICDihpAg5LiL5LiA6Zi25q615Lu75Yqh77yIbW9kZWxfY29uZmlnIOmFjee9ruetieecn+WunumYu+Whnu+8iQoxNC4g6K+7IFBST0pFQ1RfTUFQLm1kICAgICAgICAgICAgICAgICDihpAg5LiA5byg5Zu+CmBgYAoKIyMg6K+75a6M5bqU6L6T5Ye677yI5o6l5omLIEFJIOeahOeQhuino++8iQoKMS4gKirpobnnm67nkIbop6MqKu+8muWQkeaZmumXruaAnSA9IEFJIOaAnei+qOWKqeaJi++8jOe7j+WFuOaYr+WQr+WPkeS4jeaYr+etlOahiO+8m+S6lOauteW8j+OAjOWFiOWBmuS6uuWGjeW8lee7j+OAjeS4jeWPr+egtOWdj++8m+iBlOe9keaQnOe0ouWPquS4uuihpeWunuaXti/kuovlrp7vvIzkuI3mm7/nu4/lhbjjgIIKMi4gKirlvZPliY3mnrbmnoQqKu+8mmBjaGF0L2luZGV4LmpzYCDmtL7lj5EgKirlm5vmqKHlvI8qKu+8iEZhc3Twn4yQL0RlZXDwn5OaL1RoaW5r8J+Mhe+8iSsgKirkuInlsYLog73lipsqKu+8iENhcGFiaWxpdHkg5a6e5pe25LqL5a6eIC8gRnJlc2huZXNzIOWcqOe6v+aQnOe0oiAvIEtub3dsZWRnZSDnu4/lhbggUkFH77yJ77yb5pCc57Si6LWwIGBwcm92aWRlcnMvc2VhcmNoL2Ag5oqk5qCP6ZO+77yIcHJpdmFjeeKGkmNhbmFyeeKGknF1b3Rh4oaScHJvdmlkZXLihpJhdWRpdO+8ie+8jGBkYXRhX3JvdXRlPWRvbWVzdGljYCDpm7bot6jlooPjgIIKMy4gKirlvZPliY3pmLbmrrUqKu+8mioqUTItMTUqKu+8iOS8oOiusOW5u+iniemYsuaKpOW3sumDqOe9su+8ie+8m+iBlOe9keaQnOe0oiAqKuW3suS4iue6vyoq77yIUTItMTQg6YOo572y77yJ77yM5b2T5YmN55yf5a6e6Zi75aGeID0g55So5oi36aG75Zyo5LqR5bqTIGBtb2RlbF9jb25maWdgIOmFjeWlveeZvueCvOaooeWei++8iOaUr+aMgSBlbmFibGVfc2VhcmNo77yJ77yM5ZCm5YiZIGBub19lbmRwb2ludGDihpLor5rlrp7pmY3nuqfvvIjooYzkuLrmraPnoa7vvIzlj6rmmK/ml6DmupDlj6/mkJzvvInjgIIKNC4gKirkuLvopoHmqKHlnZcqKu+8mmNoYXTvvIhpbmRleC9yYWcvaW50ZW50L2tub3dsZWRnZVJvdXRlci9mcmVzaG5lc3MvdGhpbmsvcHJvdmlkZXJzL3NlY3VyaXR5L29ic2VydmFiaWxpdHnvvInjgIFjYXBhYmlsaXRpZXPvvIjlrp7ml7bog73lipvvvInjgIFoaXN0b3J5L2luZ2VzdC9mZWVkYmFjay9hZG1pbi9sb2dpbuOAggo1LiAqKumjjumZqSoq77ya4pGgIOWRveWQjeWGsueqgSA0IOWkhO+8iOW3suagh+azqOW+heehruiupO+8ieKRoSBtc2dTZWNDaGVjayDnnJ/moLnlm6AgYC01MDEwMDEvLTQwMDAzYCDku40gMCUg5Y+v55So77yIT1BFTu+8ieKRoiDogZTnvZHpnIAgbW9kZWxfY29uZmlnIOmFjee9ruaJjeeUn+aViCDikaMg5Zub5Ya757uT6LWE5LqnIFNIQSDlrojpl6jvvIhjb3JwdXMuanNvbi9pbnRlbnQuanMvcmFnLmpzL2tub3dsZWRnZVJvdXRlci5qc++8ieOAggo2LiAqKuW8gOWPkeS7u+WKoSoq77ya5b2T5YmN6Zi25q615pep5bey6LaK6L+HIuS7heaWh+aho+S4jeWGmeeggSLml6fnuqLnur/vvJvnnJ/lrp7nuqbmnZ/mmK8qKuWGu+e7k+i1hOS6p+S4jeWPr+aUuSArIOmDqOe9suWJjeW/heivuyBjbG91ZGJhc2VyYy5qc29uICsg5oqk5qCP6ZO+6Lev5LiN6KKr56C05Z2PICsg6KeC5rWL5Y+W5pWw57qq5b6LKirjgIIKCiMjIOWuiOWImQoKLSDku6PnoIHkuLrnnJ/lrp7mnaXmupDvvIzmlofmoaPku4Xop6Pph4rvvJvlhrLnqoHmjIflh7rvvIzkuI3njJzmtYvvvIznrYnnoa7orqTvvIjpmaTpnZ7nlKjmiLfmmI7noa7mjojmnYPkv67mlLnvvInjgIIKLSDlhrvnu5PotYTkuqfvvIhjb3JwdXMuanNvbiAvIGludGVudC5qcyAvIHJhZy5qcyAvIGtub3dsZWRnZVJvdXRlci5qc++8ieaUueWKqOmhu+S7pSBTSEEyNTYg5q+U5a+577yM5ryC56e75Y2z6L+d6KeE44CCCi0g5omA5pyJ5LqR5Ye95pWw5pS55Yqo6aG76YeN5paw6YOo572y5omN55Sf5pWI77yb6YOo572y5YmN5b+F6K+7IGBjbG91ZGJhc2VyYy5qc29uYO+8jOmBv+WFjeeOr+Wig+WPmOmHj+iiq+mdmem7mOimhuebluOAggotIOS4jeabv+eUqOaIt+WBmuWGs+Wumu+8m+WFiOWBmuS6uuWGjeW8lee7j++8m+WGheWuueWuieWFqO+8iG1zZ1NlY0NoZWNr77yJ5YWI6LeR77yb6IGU572R57uT5p6c5Y+q5L2cIHJ1bnRpbWUgY29udGV4dO+8jOS4jei/myBjb3JwdXMvZW1iZWRkaW5nL+mVv+acn+e8k+WtmOOAggo=
+﻿# README_AI.md · AI 入口（Entry Point）
+
+> **任何新接手本项目的 AI，第一件事必须读这个文件。**
+>
+> **📅 文档刷新于 2026-08-07（终校至 Q2-15）**：已校准至当前真实状态——**联网搜索已部署上线（Q2-14）、分类器路由修复（Q2-14-b）、传记幻觉防护（Q2-15）**。若本文与代码或 `.workbuddy/memory/2026-08-07.md` 冲突，**以代码与当日日志为准**（代码为真实来源）。
+
+## 5 分钟上手流程
+
+```
+1. 读本文（README_AI.md）            ← 你在这
+2. 读 00_PROJECT.md                  ← 身份/版本/APPID/四模式+三层能力
+3. 读 01_ARCHITECTURE.md             ← 架构 + Mermaid（含 Freshness/Think/providers 护栏链）
+4. 读 02_BUSINESS.md                 ← 页面职责
+5. 读 03_CODE_STRUCTURE.md           ← 目录/模块（含 providers/freshness/think/security/observability）
+6. 读 04_DATABASE.md                 ← 集合（含 observability_logs 与冲突标注）
+7. 读 05_RAG.md                       ← Knowledge 轨道 + Freshness 在线搜索
+8. 读 06_PROMPT.md                    ← Prompt 索引
+9. 读 07_KNOWLEDGE.md                ← 37 经典 + 冻结基线 SHA256
+10. 读 08_HISTORY.md                  ← Phase A→H-2→R→Q1-B→Q2-0→Q2-4…Q2-15
+11. 读 09_TEST.md                     ← 测试覆盖（q24c…q33）
+12. 读 10_RULES.md                    ← 当前开发原则（冻结纪律/部署纪律/护栏/观测纪律）
+13. 读 11_TODO.md                     ← 下一阶段任务（model_config 配置等真实阻塞）
+14. 读 PROJECT_MAP.md                 ← 一张图
+```
+
+## 读完应输出（接手 AI 的理解）
+
+1. **项目理解**：向晚问思 = AI 思辨助手，经典是启发不是答案；五段式「先做人再引经」不可破坏；联网搜索只为补实时/事实，不替经典。
+2. **当前架构**：`chat/index.js` 派发 **四模式**（Fast🌐/Deep📚/Think🌅）+ **三层能力**（Capability 实时事实 / Freshness 在线搜索 / Knowledge 经典 RAG）；搜索走 `providers/search/` 护栏链（privacy→canary→quota→provider→audit），`data_route=domestic` 零跨境。
+3. **当前阶段**：**Q2-15**（传记幻觉防护已部署）；联网搜索 **已上线**（Q2-14 部署），当前真实阻塞 = 用户须在云库 `model_config` 配好百炼模型（支持 enable_search），否则 `no_endpoint`→诚实降级（行为正确，只是无源可搜）。
+4. **主要模块**：chat（index/rag/intent/knowledgeRouter/freshness/think/providers/security/observability）、capabilities（实时能力）、history/ingest/feedback/admin/login。
+5. **风险**：① 命名冲突 4 处（已标注待确认）② msgSecCheck 真根因 `-501001/-40003` 仍 0% 可用（OPEN）③ 联网需 model_config 配置才生效 ④ 四冻结资产 SHA 守门（corpus.json/intent.js/rag.js/knowledgeRouter.js）。
+6. **开发任务**：当前阶段早已越过"仅文档不写码"旧红线；真实约束是**冻结资产不可改 + 部署前必读 cloudbaserc.json + 护栏链路不被破坏 + 观测取数纪律**。
+
+## 守则
+
+- 代码为真实来源，文档仅解释；冲突指出，不猜测，等确认（除非用户明确授权修改）。
+- 冻结资产（corpus.json / intent.js / rag.js / knowledgeRouter.js）改动须以 SHA256 比对，漂移即违规。
+- 所有云函数改动须重新部署才生效；部署前必读 `cloudbaserc.json`，避免环境变量被静默覆盖。
+- 不替用户做决定；先做人再引经；内容安全（msgSecCheck）先跑；联网结果只作 runtime context，不进 corpus/embedding/长期缓存。

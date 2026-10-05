@@ -1,1 +1,73 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIHZlcmlmeS1vYnNlcnZhYmlsaXR5LmpzIOKAlCBTdGFnZSA1IERhc2hib2FyZCDnnJ/lrp7mlbDmja7pqozor4EKLy8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCi8vIOeUqOazle+8mgovLyAgIG5vZGUgc2NyaXB0cy92ZXJpZnktb2JzZXJ2YWJpbGl0eS5qcyA8cmVjb3Jkcy5qc29uPgovLyAgICAgPHJlY29yZHMuanNvbj4gPSDku47kupHlupMgb2JzZXJ2YWJpbGl0eV9sb2dzIOaLieWPlueahOiusOW9leaVsOe7hAovLyAgICAg77yI5ouJ5Y+W56S65L6L6KeBIGRvY3MvNzAtUGhhc2VQK0RlcGxveW1lbnTmiqXlkYoubWQgwqcz77yJCi8vCi8vIOS9nOeUqO+8mueUqOecn+WuniBkYXNoYm9hcmQuanMgKyDnnJ/lrp7kupHlupPorrDlvZXlgZrlj6ror7vogZrlkIjvvIznoa7orqTku6XkuIvmjIfmoIcKLy8gICAgICAg5byA5aeL5pyJ55yf5a6e5pWw5o2u77yb5peg5pWw5o2u55qE5oyH5qCH5pi+5byPIE4vQe+8iOe7neS4jeS8qumAoO+8ieOAggovLyDkuI3kv67mlLnku7vkvZXmlofku7bjgIHkuI3op6bnorDlhrvnu5PotYTkuqfjgIIKLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CgondXNlIHN0cmljdCc7Cgpjb25zdCBmcyA9IHJlcXVpcmUoJ2ZzJyk7CmNvbnN0IHBhdGggPSByZXF1aXJlKCdwYXRoJyk7Cgpjb25zdCBSRUNPUkRTX1BBVEggPSBwcm9jZXNzLmFyZ3ZbMl07CmlmICghUkVDT1JEU19QQVRIKSB7CiAgY29uc29sZS5lcnJvcign55So5rOVOiBub2RlIHNjcmlwdHMvdmVyaWZ5LW9ic2VydmFiaWxpdHkuanMgPHJlY29yZHMuanNvbj4nKTsKICBwcm9jZXNzLmV4aXQoMik7Cn0KCmxldCByZWNvcmRzOwp0cnkgewogIHJlY29yZHMgPSBKU09OLnBhcnNlKGZzLnJlYWRGaWxlU3luYyhSRUNPUkRTX1BBVEgsICd1dGYtOCcpKTsKICBpZiAoIUFycmF5LmlzQXJyYXkocmVjb3JkcykpIHJlY29yZHMgPSBbcmVjb3Jkc107Cn0gY2F0Y2ggKGUpIHsKICBjb25zb2xlLmVycm9yKCfor7vlj5borrDlvZXmlofku7blpLHotKU6JywgZS5tZXNzYWdlKTsKICBwcm9jZXNzLmV4aXQoMik7Cn0KCi8vIOecn+WuniBEYXNoYm9hcmQg6IGa5ZCI77yI5LiO57q/5LiK5LiA6Ie077yM5Y+q6K+777yJCmNvbnN0IHsgYnVpbGREYXNoYm9hcmQgfSA9IHJlcXVpcmUoJy4uL2Nsb3VkZnVuY3Rpb25zL2NoYXQvZGFzaGJvYXJkL2Rhc2hib2FyZC5qcycpOwpjb25zdCBkYXNoID0gYnVpbGREYXNoYm9hcmQoeyBzdG9yZTogeyByZWFkQWxsOiAoKSA9PiByZWNvcmRzIH0gfSk7CmNvbnN0IG0gPSBkYXNoLm1ldHJpY3M7CgovLyBGYWxsYmFjayBSYXRlID0g5pyq5byV55So5Lu75L2V55+l6K+G77yIY2l0YXRpb25fY291bnQ9PT0w77yJ55qE6K+35rGC5Y2g5q+UCmNvbnN0IHRvdGFsID0gcmVjb3Jkcy5sZW5ndGg7CmNvbnN0IGZhbGxiYWNrQ291bnQgPSByZWNvcmRzLmZpbHRlcigocikgPT4gKHIuY2l0YXRpb25fY291bnQgfHwgMCkgPT09IDApLmxlbmd0aDsKY29uc3QgZmFsbGJhY2tSYXRlID0gdG90YWwgPiAwID8gTWF0aC5yb3VuZCgoZmFsbGJhY2tDb3VudCAvIHRvdGFsKSAqIDEwMDApIC8gMTAwMCA6IG51bGw7CgpmdW5jdGlvbiBsaW5lKG5hbWUsIG9iaikgewogIGlmICghb2JqIHx8IG9iai5hdmFpbGFibGUgPT09IGZhbHNlKSB7CiAgICBjb25zb2xlLmxvZyhgICDCtyAke25hbWV9OiBOL0EgKCR7b2JqID8gb2JqLnJlYXNvbiB8fCAnbm8gZGF0YScgOiAnbWlzc2luZyd9KWApOwogICAgcmV0dXJuOwogIH0KICBjb25zb2xlLmxvZyhgICDCtyAke25hbWV9OiAke0pTT04uc3RyaW5naWZ5KG9iai52YWx1ZSl9YCArIChvYmouc2FtcGxlX3NpemUgPyBgICAobj0ke29iai5zYW1wbGVfc2l6ZX0pYCA6ICcnKSk7Cn0KCmNvbnNvbGUubG9nKCcnKTsKY29uc29sZS5sb2coJ+KVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkCcpOwpjb25zb2xlLmxvZygnICBQaGFzZSBQKyBEZXBsb3ltZW50IOKAlCBTdGFnZSA1IERhc2hib2FyZCDnnJ/lrp7mlbDmja7pqozor4EnKTsKY29uc29sZS5sb2coJ+KVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkCcpOwpjb25zb2xlLmxvZyhgICDorrDlvZXmgLvmlbA6ICR7dG90YWx9YCk7CmNvbnNvbGUubG9nKCcnKTsKY29uc29sZS5sb2coJyAg5LqU6aG555uu5qCH5oyH5qCH77yI5bqU5byA5aeL5pyJ55yf5a6e5pWw5o2u77yJ77yaJyk7CmxpbmUoJ1F1ZXJ5IENvdW50JywgbS5xdWVyeUNvdW50KTsKbGluZSgnS25vd2xlZGdlIFVzYWdlJywgbS5rbm93bGVkZ2VVc2FnZSk7CmxpbmUoJ0NpdGF0aW9uIFJhdGUgKGNpdGF0aW9uX2NvdW50PjAg5Y2g5q+UKScsIG0uY2l0YXRpb25BY2N1cmFjeSAmJiBtLmNpdGF0aW9uQWNjdXJhY3kucnVudGltZV9jaXRhdGlvbl9wcmVzZW50X3JhdGUpOwpsaW5lKCdMYXRlbmN5IChtcyDlnYflgLwpJywgbS5sYXRlbmN5KTsKY29uc29sZS5sb2coYCAgwrcgRmFsbGJhY2sgUmF0ZSAoY2l0YXRpb25fY291bnQ9PT0wIOWNoOavlCk6ICR7ZmFsbGJhY2tSYXRlID09PSBudWxsID8gJ04vQScgOiBmYWxsYmFja1JhdGV9ICAobj0ke3RvdGFsfSlgKTsKY29uc29sZS5sb2coJycpOwpjb25zb2xlLmxvZygnICDlhajpg6jmjIfmoIcgTi9BIOa4heWNle+8iOivmuWunuWjsOaYju+8jOacquS8qumAoO+8ie+8micpOwppZiAoZGFzaC5kZWdyYWRlZCAmJiBkYXNoLmRlZ3JhZGVkLmxlbmd0aCkgewogIGRhc2guZGVncmFkZWQuZm9yRWFjaCgoaykgPT4gY29uc29sZS5sb2coYCAgICAtICR7a31gKSk7Cn0gZWxzZSB7CiAgY29uc29sZS5sb2coJyAgICDvvIjml6DvvIknKTsKfQpjb25zb2xlLmxvZygnJyk7CmNvbnNvbGUubG9nKGAgIHJlYWRvbmx5PSR7ZGFzaC5yZWFkb25seX0gIHJlY29tcHV0ZXNfcmV0cmlldmFsPSR7ZGFzaC5yZWNvbXB1dGVzX3JldHJpZXZhbH1gKTsKY29uc29sZS5sb2coJ+KVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkCcpOwo=
+// ============================================================
+// verify-observability.js — Stage 5 Dashboard 真实数据验证
+// ------------------------------------------------------------
+// 用法：
+//   node scripts/verify-observability.js <records.json>
+//     <records.json> = 从云库 observability_logs 拉取的记录数组
+//     （拉取示例见 docs/70-PhaseP+Deployment报告.md §3）
+//
+// 作用：用真实 dashboard.js + 真实云库记录做只读聚合，确认以下指标
+//       开始有真实数据；无数据的指标显式 N/A（绝不伪造）。
+// 不修改任何文件、不触碰冻结资产。
+// ============================================================
+
+'use strict';
+
+const fs = require('fs');
+const path = require('path');
+
+const RECORDS_PATH = process.argv[2];
+if (!RECORDS_PATH) {
+  console.error('用法: node scripts/verify-observability.js <records.json>');
+  process.exit(2);
+}
+
+let records;
+try {
+  records = JSON.parse(fs.readFileSync(RECORDS_PATH, 'utf-8'));
+  if (!Array.isArray(records)) records = [records];
+} catch (e) {
+  console.error('读取记录文件失败:', e.message);
+  process.exit(2);
+}
+
+// 真实 Dashboard 聚合（与线上一致，只读）
+const { buildDashboard } = require('../cloudfunctions/chat/dashboard/dashboard.js');
+const dash = buildDashboard({ store: { readAll: () => records } });
+const m = dash.metrics;
+
+// Fallback Rate = 未引用任何知识（citation_count===0）的请求占比
+const total = records.length;
+const fallbackCount = records.filter((r) => (r.citation_count || 0) === 0).length;
+const fallbackRate = total > 0 ? Math.round((fallbackCount / total) * 1000) / 1000 : null;
+
+function line(name, obj) {
+  if (!obj || obj.available === false) {
+    console.log(`  · ${name}: N/A (${obj ? obj.reason || 'no data' : 'missing'})`);
+    return;
+  }
+  console.log(`  · ${name}: ${JSON.stringify(obj.value)}` + (obj.sample_size ? `  (n=${obj.sample_size})` : ''));
+}
+
+console.log('');
+console.log('══════════════════════════════════════════════════════');
+console.log('  Phase P+ Deployment — Stage 5 Dashboard 真实数据验证');
+console.log('══════════════════════════════════════════════════════');
+console.log(`  记录总数: ${total}`);
+console.log('');
+console.log('  五项目标指标（应开始有真实数据）：');
+line('Query Count', m.queryCount);
+line('Knowledge Usage', m.knowledgeUsage);
+line('Citation Rate (citation_count>0 占比)', m.citationAccuracy && m.citationAccuracy.runtime_citation_present_rate);
+line('Latency (ms 均值)', m.latency);
+console.log(`  · Fallback Rate (citation_count===0 占比): ${fallbackRate === null ? 'N/A' : fallbackRate}  (n=${total})`);
+console.log('');
+console.log('  全部指标 N/A 清单（诚实声明，未伪造）：');
+if (dash.degraded && dash.degraded.length) {
+  dash.degraded.forEach((k) => console.log(`    - ${k}`));
+} else {
+  console.log('    （无）');
+}
+console.log('');
+console.log(`  readonly=${dash.readonly}  recomputes_retrieval=${dash.recomputes_retrieval}`);
+console.log('══════════════════════════════════════════════════════');

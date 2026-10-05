@@ -1,1 +1,212 @@
-ew0KICAiRGVlcFNlZWstVjQtRmxhc2giOiB7DQogICAgInNpbXBsZSI6IHsNCiAgICAgICJ0dGZ0cyI6IFtdLA0KICAgICAgInRvdGFscyI6IFtdLA0KICAgICAgImNoYXJzIjogW10sDQogICAgICAib2siOiAwLA0KICAgICAgInNhbXBsZXMiOiBbXSwNCiAgICAgICJlcnJvcnMiOiBbDQogICAgICAgICJUaGUgcmVhZCBvcGVyYXRpb24gdGltZWQgb3V0Ig0KICAgICAgXQ0KICAgIH0NCiAgfSwNCiAgIkRlZXBTZWVrLVY0LVBybyI6IHsNCiAgICAic2ltcGxlIjogew0KICAgICAgInR0ZnRzIjogW10sDQogICAgICAidG90YWxzIjogW10sDQogICAgICAiY2hhcnMiOiBbXSwNCiAgICAgICJvayI6IDAsDQogICAgICAic2FtcGxlcyI6IFtdLA0KICAgICAgImVycm9ycyI6IFsNCiAgICAgICAgIlRoZSByZWFkIG9wZXJhdGlvbiB0aW1lZCBvdXQiDQogICAgICBdDQogICAgfQ0KICB9LA0KICAiZ2xtLTUuMSI6IHsNCiAgICAic2ltcGxlIjogew0KICAgICAgInR0ZnRzIjogWw0KICAgICAgICAxLjI0DQogICAgICBdLA0KICAgICAgInRvdGFscyI6IFsNCiAgICAgICAgMTEuNTENCiAgICAgIF0sDQogICAgICAiY2hhcnMiOiBbDQogICAgICAgIDI4DQogICAgICBdLA0KICAgICAgIm9rIjogMSwNCiAgICAgICJzYW1wbGVzIjogWw0KICAgICAgICAi6YCC5ZCI77yM5L2G5Y+q5aSE55CG55y85YmN5b+F6aG75oOz5riF5qWa55qE6YOo5YiG77yM5YW25L2Z5oCd6ICD5LuK5aSp5LiN5Lqk5LuY44CCIg0KICAgICAgXSwNCiAgICAgICJlcnJvcnMiOiBbXQ0KICAgIH0NCiAgfSwNCiAgImdsbS01LjIiOiB7DQogICAgInNpbXBsZSI6IHsNCiAgICAgICJ0dGZ0cyI6IFtdLA0KICAgICAgInRvdGFscyI6IFtdLA0KICAgICAgImNoYXJzIjogW10sDQogICAgICAib2siOiAwLA0KICAgICAgInNhbXBsZXMiOiBbXSwNCiAgICAgICJlcnJvcnMiOiBbDQogICAgICAgICJUaGUgcmVhZCBvcGVyYXRpb24gdGltZWQgb3V0Ig0KICAgICAgXQ0KICAgIH0NCiAgfSwNCiAgImthdC1jb2Rlci1wcm8tdjIuNSI6IHsNCiAgICAic2ltcGxlIjogew0KICAgICAgInR0ZnRzIjogW10sDQogICAgICAidG90YWxzIjogW10sDQogICAgICAiY2hhcnMiOiBbXSwNCiAgICAgICJvayI6IDAsDQogICAgICAic2FtcGxlcyI6IFtdLA0KICAgICAgImVycm9ycyI6IFsNCiAgICAgICAgImxpc3QgaW5kZXggb3V0IG9mIHJhbmdlIg0KICAgICAgXQ0KICAgIH0NCiAgfSwNCiAgIktpbWktSzIuNiI6IHsNCiAgICAic2ltcGxlIjogew0KICAgICAgInR0ZnRzIjogWw0KICAgICAgICAxLjI5DQogICAgICBdLA0KICAgICAgInRvdGFscyI6IFsNCiAgICAgICAgMTYuNDkNCiAgICAgIF0sDQogICAgICAiY2hhcnMiOiBbDQogICAgICAgIDI2DQogICAgICBdLA0KICAgICAgIm9rIjogMSwNCiAgICAgICJzYW1wbGVzIjogWw0KICAgICAgICAi6YCC5ZCI77yM5oCd6ICD5LiN5oyR5pel5a2Q77yM5Y+q5oyR5L2g5pyJ5rKh5pyJ5YWI5oqK6Zeu6aKY6K+75a6M5YaN5Yqo5omL44CCIg0KICAgICAgXSwNCiAgICAgICJlcnJvcnMiOiBbXQ0KICAgIH0NCiAgfSwNCiAgIk1pbmlNYXgtTTMiOiB7DQogICAgInNpbXBsZSI6IHsNCiAgICAgICJ0dGZ0cyI6IFtdLA0KICAgICAgInRvdGFscyI6IFtdLA0KICAgICAgImNoYXJzIjogW10sDQogICAgICAib2siOiAwLA0KICAgICAgInNhbXBsZXMiOiBbXSwNCiAgICAgICJlcnJvcnMiOiBbDQogICAgICAgICJsaXN0IGluZGV4IG91dCBvZiByYW5nZSINCiAgICAgIF0NCiAgICB9DQogIH0sDQogICJRd2VuMy42LTI3QiI6IHsNCiAgICAic2ltcGxlIjogew0KICAgICAgInR0ZnRzIjogW10sDQogICAgICAidG90YWxzIjogW10sDQogICAgICAiY2hhcnMiOiBbXSwNCiAgICAgICJvayI6IDAsDQogICAgICAic2FtcGxlcyI6IFtdLA0KICAgICAgImVycm9ycyI6IFsNCiAgICAgICAgIlRoZSByZWFkIG9wZXJhdGlvbiB0aW1lZCBvdXQiDQogICAgICBdDQogICAgfQ0KICB9LA0KICAic2Vuc2Vub3ZhLTYuNy1mbGFzaC1saXRlIjogew0KICAgICJzaW1wbGUiOiB7DQogICAgICAidHRmdHMiOiBbXSwNCiAgICAgICJ0b3RhbHMiOiBbXSwNCiAgICAgICJjaGFycyI6IFtdLA0KICAgICAgIm9rIjogMCwNCiAgICAgICJzYW1wbGVzIjogW10sDQogICAgICAiZXJyb3JzIjogWw0KICAgICAgICAibGlzdCBpbmRleCBvdXQgb2YgcmFuZ2UiDQogICAgICBdDQogICAgfQ0KICB9LA0KICAic2Vuc2Vub3ZhLXUxLWZhc3QiOiB7DQogICAgInNpbXBsZSI6IHsNCiAgICAgICJ0dGZ0cyI6IFtdLA0KICAgICAgInRvdGFscyI6IFtdLA0KICAgICAgImNoYXJzIjogW10sDQogICAgICAib2siOiAwLA0KICAgICAgInNhbXBsZXMiOiBbXSwNCiAgICAgICJlcnJvcnMiOiBbDQogICAgICAgICJIVFRQIEVycm9yIDQwNDogTm90IEZvdW5kIg0KICAgICAgXQ0KICAgIH0NCiAgfSwNCiAgInN0ZXAtMy41LWZsYXNoIjogew0KICAgICJzaW1wbGUiOiB7DQogICAgICAidHRmdHMiOiBbXSwNCiAgICAgICJ0b3RhbHMiOiBbXSwNCiAgICAgICJjaGFycyI6IFtdLA0KICAgICAgIm9rIjogMCwNCiAgICAgICJzYW1wbGVzIjogW10sDQogICAgICAiZXJyb3JzIjogWw0KICAgICAgICAibGlzdCBpbmRleCBvdXQgb2YgcmFuZ2UiDQogICAgICBdDQogICAgfQ0KICB9LA0KICAic3RlcC0zLjUtZmxhc2gtMjYwMyI6IHsNCiAgICAic2ltcGxlIjogew0KICAgICAgInR0ZnRzIjogW10sDQogICAgICAidG90YWxzIjogW10sDQogICAgICAiY2hhcnMiOiBbXSwNCiAgICAgICJvayI6IDAsDQogICAgICAic2FtcGxlcyI6IFtdLA0KICAgICAgImVycm9ycyI6IFsNCiAgICAgICAgImxpc3QgaW5kZXggb3V0IG9mIHJhbmdlIg0KICAgICAgXQ0KICAgIH0NCiAgfSwNCiAgInN0ZXAtMy43LWZsYXNoIjogew0KICAgICJzaW1wbGUiOiB7DQogICAgICAidHRmdHMiOiBbXSwNCiAgICAgICJ0b3RhbHMiOiBbXSwNCiAgICAgICJjaGFycyI6IFtdLA0KICAgICAgIm9rIjogMCwNCiAgICAgICJzYW1wbGVzIjogW10sDQogICAgICAiZXJyb3JzIjogWw0KICAgICAgICAiVGhlIHJlYWQgb3BlcmF0aW9uIHRpbWVkIG91dCINCiAgICAgIF0NCiAgICB9DQogIH0sDQogICJzdGVwLWV4cGxvcmUiOiB7DQogICAgInNpbXBsZSI6IHsNCiAgICAgICJ0dGZ0cyI6IFtdLA0KICAgICAgInRvdGFscyI6IFtdLA0KICAgICAgImNoYXJzIjogW10sDQogICAgICAib2siOiAwLA0KICAgICAgInNhbXBsZXMiOiBbXSwNCiAgICAgICJlcnJvcnMiOiBbDQogICAgICAgICJUaGUgcmVhZCBvcGVyYXRpb24gdGltZWQgb3V0Ig0KICAgICAgXQ0KICAgIH0NCiAgfSwNCiAgInN0ZXAtcm91dGVyLXYxIjogew0KICAgICJzaW1wbGUiOiB7DQogICAgICAidHRmdHMiOiBbDQogICAgICAgIDEuODINCiAgICAgIF0sDQogICAgICAidG90YWxzIjogWw0KICAgICAgICAxLjgyDQogICAgICBdLA0KICAgICAgImNoYXJzIjogWw0KICAgICAgICAxNQ0KICAgICAgXSwNCiAgICAgICJvayI6IDEsDQogICAgICAic2FtcGxlcyI6IFsNCiAgICAgICAgIumAguWQiO+8jOavj+S4gOWkqemDveaYr+aAneiAg+eahOWlveaXtuacuuOAgiINCiAgICAgIF0sDQogICAgICAiZXJyb3JzIjogW10NCiAgICB9DQogIH0sDQogICJhdXRvIjogew0KICAgICJzaW1wbGUiOiB7DQogICAgICAidHRmdHMiOiBbXSwNCiAgICAgICJ0b3RhbHMiOiBbXSwNCiAgICAgICJjaGFycyI6IFtdLA0KICAgICAgIm9rIjogMCwNCiAgICAgICJzYW1wbGVzIjogW10sDQogICAgICAiZXJyb3JzIjogWw0KICAgICAgICAiVGhlIHJlYWQgb3BlcmF0aW9uIHRpbWVkIG91dCINCiAgICAgIF0NCiAgICB9DQogIH0NCn0=
+{
+  "DeepSeek-V4-Flash": {
+    "simple": {
+      "ttfts": [],
+      "totals": [],
+      "chars": [],
+      "ok": 0,
+      "samples": [],
+      "errors": [
+        "The read operation timed out"
+      ]
+    }
+  },
+  "DeepSeek-V4-Pro": {
+    "simple": {
+      "ttfts": [],
+      "totals": [],
+      "chars": [],
+      "ok": 0,
+      "samples": [],
+      "errors": [
+        "The read operation timed out"
+      ]
+    }
+  },
+  "glm-5.1": {
+    "simple": {
+      "ttfts": [
+        1.24
+      ],
+      "totals": [
+        11.51
+      ],
+      "chars": [
+        28
+      ],
+      "ok": 1,
+      "samples": [
+        "适合，但只处理眼前必须想清楚的部分，其余思考今天不交付。"
+      ],
+      "errors": []
+    }
+  },
+  "glm-5.2": {
+    "simple": {
+      "ttfts": [],
+      "totals": [],
+      "chars": [],
+      "ok": 0,
+      "samples": [],
+      "errors": [
+        "The read operation timed out"
+      ]
+    }
+  },
+  "kat-coder-pro-v2.5": {
+    "simple": {
+      "ttfts": [],
+      "totals": [],
+      "chars": [],
+      "ok": 0,
+      "samples": [],
+      "errors": [
+        "list index out of range"
+      ]
+    }
+  },
+  "Kimi-K2.6": {
+    "simple": {
+      "ttfts": [
+        1.29
+      ],
+      "totals": [
+        16.49
+      ],
+      "chars": [
+        26
+      ],
+      "ok": 1,
+      "samples": [
+        "适合，思考不挑日子，只挑你有没有先把问题读完再动手。"
+      ],
+      "errors": []
+    }
+  },
+  "MiniMax-M3": {
+    "simple": {
+      "ttfts": [],
+      "totals": [],
+      "chars": [],
+      "ok": 0,
+      "samples": [],
+      "errors": [
+        "list index out of range"
+      ]
+    }
+  },
+  "Qwen3.6-27B": {
+    "simple": {
+      "ttfts": [],
+      "totals": [],
+      "chars": [],
+      "ok": 0,
+      "samples": [],
+      "errors": [
+        "The read operation timed out"
+      ]
+    }
+  },
+  "sensenova-6.7-flash-lite": {
+    "simple": {
+      "ttfts": [],
+      "totals": [],
+      "chars": [],
+      "ok": 0,
+      "samples": [],
+      "errors": [
+        "list index out of range"
+      ]
+    }
+  },
+  "sensenova-u1-fast": {
+    "simple": {
+      "ttfts": [],
+      "totals": [],
+      "chars": [],
+      "ok": 0,
+      "samples": [],
+      "errors": [
+        "HTTP Error 404: Not Found"
+      ]
+    }
+  },
+  "step-3.5-flash": {
+    "simple": {
+      "ttfts": [],
+      "totals": [],
+      "chars": [],
+      "ok": 0,
+      "samples": [],
+      "errors": [
+        "list index out of range"
+      ]
+    }
+  },
+  "step-3.5-flash-2603": {
+    "simple": {
+      "ttfts": [],
+      "totals": [],
+      "chars": [],
+      "ok": 0,
+      "samples": [],
+      "errors": [
+        "list index out of range"
+      ]
+    }
+  },
+  "step-3.7-flash": {
+    "simple": {
+      "ttfts": [],
+      "totals": [],
+      "chars": [],
+      "ok": 0,
+      "samples": [],
+      "errors": [
+        "The read operation timed out"
+      ]
+    }
+  },
+  "step-explore": {
+    "simple": {
+      "ttfts": [],
+      "totals": [],
+      "chars": [],
+      "ok": 0,
+      "samples": [],
+      "errors": [
+        "The read operation timed out"
+      ]
+    }
+  },
+  "step-router-v1": {
+    "simple": {
+      "ttfts": [
+        1.82
+      ],
+      "totals": [
+        1.82
+      ],
+      "chars": [
+        15
+      ],
+      "ok": 1,
+      "samples": [
+        "适合，每一天都是思考的好时机。"
+      ],
+      "errors": []
+    }
+  },
+  "auto": {
+    "simple": {
+      "ttfts": [],
+      "totals": [],
+      "chars": [],
+      "ok": 0,
+      "samples": [],
+      "errors": [
+        "The read operation timed out"
+      ]
+    }
+  }
+}

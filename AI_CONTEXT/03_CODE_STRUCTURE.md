@@ -1,1 +1,74 @@
-IyAwMyDCtyDku6PnoIHnu5PmnoTvvIhDb2RlIFN0cnVjdHVyZe+8iQoKPiAqKuWIt+aWsOS6jiAyMDI2LTA4LTA377yI57uI5qCh6IezIFEyLTE177yJKirvvJrooaXlhaggYGZyZXNobmVzcy9g44CBYHRoaW5rL2DjgIFgcHJvdmlkZXJzL2DjgIFgc2VjdXJpdHkvYOOAgWBvYnNlcnZhYmlsaXR5L2DjgIFgcmVnaXN0cnkvYOOAgWBkYXNoYm9hcmQvYCDnrYnnnJ/lrp7mqKHlnZfjgIIKCiMjIOS4u+imgeebruW9lQoKYGBgCndlYXBwLwrilJzilIDilIAgbWluaXByb2dyYW0vICAgICAgICAgICAgICAjIOWJjeerr+Wwj+eoi+W6j++8iDcg5Liq6aG16Z2i77yM5ZCr5Zub5qih5byP6YCJ5oup77yJCuKUnOKUgOKUgCBjbG91ZGZ1bmN0aW9ucy8gICAgICAgICAgIyDkupHnq68gTm9kZS5qc++8iDYg5Liq5Ye95pWwICsgY2FwYWJpbGl0aWVzIOWxgu+8iQrilIIgICDilJzilIDilIAgYWRtaW4vICAgICAgICAgICAgICAgICMg5qih5Z6L6YWN572uICsg5pel5b+X566h55CGCuKUgiAgIOKUnOKUgOKUgCBjaGF0LyAgICAgICAgICAgICAgICAgIyDlr7nor53moLjlv4PvvIjpnZ7lhrvnu5Ppg6jliIbmjIHnu63mvJTov5vvvIkK4pSCICAg4pSCICAg4pSc4pSA4pSAIGluZGV4LmpzICAgICAgICAgICMg5rS+5Y+R5YWl5Y+j77yI6Z2e5Ya757uT77yM5aSaIC5iYWsg5Y6G5Y+y77yJCuKUgiAgIOKUgiAgIOKUnOKUgOKUgCByYWcuanMgLyBpbnRlbnQuanMgLyBrbm93bGVkZ2VSb3V0ZXIuanMgICAjIOKdhO+4jyDlhrvnu5PvvIhTSEEg5a6I6Zeo77yJCuKUgiAgIOKUgiAgIOKUnOKUgOKUgCBjb3JwdXMuanNvbiAgICAgICAgIyDinYTvuI8g5Ya757uT77yIMzcg57uP5YW477yJCuKUgiAgIOKUgiAgIOKUnOKUgOKUgCBhY3Rpb25MaWJyYXJ5LmpzIC8gY29uZmlnLmpzb24gLyBhbnN3ZXJNb2RlLmpzIC8gdGhpbmtDb250ZXh0LmpzCuKUgiAgIOKUgiAgIOKUnOKUgOKUgCBjYXBhYmlsaXRpZXMvICAgICAgIyDlrp7ml7bog73lipvlsYLvvIjml7bpl7Qv5aSp5rCU77yJCuKUgiAgIOKUgiAgIOKUnOKUgOKUgCBmcmVzaG5lc3MvICAgICAgICAgIyBGcmVzaG5lc3Mg6L2o6YGT77yaZXZlbnRDbGFzc2lmaWVyL2NvbnRleHRCdWlsZGVyL2ZhY3RFeHRyYWN0b3IvZG93bmdyYWRlL3Jlc3BvbmRlci9zY2hlbWEvZXZlbnRSZXRyaWV2ZXIvYm91bmRhcnlDaGVjawrilIIgICDilIIgICDilJzilIDilIAgdGhpbmsvICAgICAgICAgICAgICMgVGhpbmsg5qih5byP77yaU2VhcmNoK1JBRytSZWFzb25pbmcK4pSCICAg4pSCICAg4pSc4pSA4pSAIHByb3ZpZGVycy9zZWFyY2gvICAjIOaQnOe0ouWxgu+8mmluZGV4KG9yY2hlc3RyYXRvcikvcXdlblNlYXJjaC90ZW5jZW50V3NhU2VhcmNoL2RvbWVzdGljQXBpU2VhcmNoL21vY2sgKyDmiqTmoI8gY2FuYXJ5R2F0ZS9wcml2YWN5R2F0ZS91dGlsL3NoYXJlZCArIOemgeeUqCB0YXZpbHkvYmluZy9zZXJwCuKUgiAgIOKUgiAgIOKUnOKUgOKUgCBzZWN1cml0eS8gICAgICAgICAgIyBtc2dTZWNDaGVjayDosIPnlKgK4pSCICAg4pSCICAg4pSc4pSA4pSAIG9ic2VydmFiaWxpdHkvICAgICAjIEtOT1dMRURHRV9PQlNFUlZBQklMSVRZX1NUT1JFCuKUgiAgIOKUgiAgIOKUnOKUgOKUgCByZWdpc3RyeS8gZGFzaGJvYXJkLyBrbm93bGVkZ2VIZWFsdGhTY29yZS5qcwrilIIgICDilIIgICDilJTilIDilIAgZnJlc2huZXNzUnVudGltZUd1YXJkLmpzICAjIOmalOemu+WuiOWNq++8iOmqjOivgeaQnOe0ouS4jeaxoeafkyBLQu+8iQrilIIgICDilJzilIDilIAgZmVlZGJhY2svICBoaXN0b3J5LyAgaW5nZXN0LyAgbG9naW4vCuKUnOKUgOKUgCBkb2NzLyAgICAgICAgICAgICAgICAgICAgIyDpg6jnvbIv6aqM5pS2L1BoYXNlIOiuvuiuoeaWh+aho++8iOWQqyBRMi004oCmUTItMTUg57O75YiX77yJCuKUnOKUgOKUgCBzY3JpcHRzLyDmiJYgY2xvdWRmdW5jdGlvbnMvY2hhdC9zY3JpcHRzLyAgIyDmtYvor5Xpm4bkuI4gcnVubmVy77yIdGVzdF9xMjRj4oCmdGVzdF9xMzMg562J77yJCuKUlOKUgOKUgCB0ZXN0cy8gICAgICAgICAgICAgICAgICAgIyBQaGFzZSBGL0cvSCDml6nmnJ/mtYvor5UKYGBgCgojIyDmqKHlnZfogYzotKMKCnwg5qih5Z2XIHwg6IGM6LSjIHwg5YWz6ZSu5paH5Lu2IHwg5Ya757uTPyB8CnwtLS0tLS18LS0tLS0tfC0tLS0tLS0tLXwtLS0tLS18Cnwg5YmN56uv6IGK5aSpIHwgVUkg5riy5p+T44CBc2V0RGF0YeOAgemakOengea1geOAgeWbm+aooeW8jyB8IGBtaW5pcHJvZ3JhbS9wYWdlcy9jaGF0L2NoYXQuanNgIHwgLSB8Cnwg5a+56K+d5YWl5Y+jIHwg5rS+5Y+RICsg6L2o6YGTL+aooeW8j+i3r+eUsSB8IGBjbG91ZGZ1bmN0aW9ucy9jaGF0L2luZGV4LmpzYCB8IOWQpiB8Cnwg5a6e5pe26IO95YqbIHwg56Gu5a6a5oCn5a6e5pe25LqL5a6eIHwgYGNsb3VkZnVuY3Rpb25zL2NhcGFiaWxpdGllcy9yb3V0ZXIuanNgIHwg5ZCmIHwKfCBGcmVzaG5lc3MgfCDlm5vliIbnsbsgKyDkuIrkuIvmlocgKyDpmY3nuqcgKyDovpPlh7rlrojljasgfCBgY2xvdWRmdW5jdGlvbnMvY2hhdC9mcmVzaG5lc3MvKmAgfCDlkKYgfAp8IOaQnOe0ouWxgiB8IOaKpOagj+mTviArIOWbveWGhea6kCBhZGFwdGVyIHwgYGNsb3VkZnVuY3Rpb25zL2NoYXQvcHJvdmlkZXJzL3NlYXJjaC8qYCB8IOWQpiB8CnwgVGhpbmsgfCBTZWFyY2grUkFHK1JlYXNvbmluZyB8IGBjbG91ZGZ1bmN0aW9ucy9jaGF0L3RoaW5rLypgIHwg5ZCmIHwKfCDpmpTnprvlrojljasgfCDpqozor4HmkJzntKLkuI3msaHmn5MgS0IgfCBgZnJlc2huZXNzUnVudGltZUd1YXJkLmpzYCB8IOWQpiB8Cnwg55+l6K+G6LWE5LqnIHwgMzcg57uP5YW45Y+s5Zue5rqQIHwgYGNsb3VkZnVuY3Rpb25zL2NoYXQvY29ycHVzLmpzb25gIHwg4p2E77iPIOWGu+e7kyB8CnwgUkFHIHwg5p2h5Lu25qOA57SiL+aEj+Wbvi/ot6/nlLEgfCBgcmFnLmpzYC9gaW50ZW50LmpzYC9ga25vd2xlZGdlUm91dGVyLmpzYCB8IOKdhO+4jyDlhrvnu5MgfAoKIyMg5Ya757uT6LWE5Lqn77yIU0hBMjU2IOWuiOmXqO+8jOa8guenuz3ov53op4TvvIkKCj4g5Lul5LiL5paH5Lu25Li65Ya757uT5Z+657q/77yMKirmlLnliqjpobvku6UgU0hBMjU2IOavlOWvuSoq77yb5Lu75L2V5ryC56e76KeG5Li66L+d6KeE77yM6aG75pi+5byP5o6I5p2DICsg6K+E5a6h44CCUTItMTUg5pe25Zub6LWE5LqnIFNIQSDku40gNC80IOS4gOiHtO+8iOWfuue6v+acquWPmO+8ieOAggoKfCDmlofku7YgfCBTSEEyNTbvvIjln7rnur/vvIkgfAp8LS0tLS0tfC0tLS0tLXwKfCBgY2xvdWRmdW5jdGlvbnMvY2hhdC9jb3JwdXMuanNvbmAgfCBgMDY4ZmExZmEwNTJlYzdiOTNhOWQ2MDAwOGMyNmIyOWM0MjVjNDBmMGFiNzI0YWIzMzQ4M2RiZDEwMDE0NTlhZWAgfAp8IGBjbG91ZGZ1bmN0aW9ucy9jaGF0L2ludGVudC5qc2AgfCBgNzY1YWQxMzhlYzY4YzBmMTU5YzZmNzVhNjBlNTI2OGJlYjAyZmJhMTUyZjZkNTNkYmRjNTM5YmExNTYwY2EzOGAgfAp8IGBjbG91ZGZ1bmN0aW9ucy9jaGF0L3JhZy5qc2AgfCBgOTBjOWNjNWZlMWQ5ZjMwODM3ZjYzYTlhNjdkNTEyZTZkMDgyNjJlZjE5ZTEyNWRkZDdiZWJmOGVlMDg5MDY5OGAgfAp8IGBjbG91ZGZ1bmN0aW9ucy9jaGF0L2tub3dsZWRnZVJvdXRlci5qc2AgfCBgODQ4OTA4NDQ1ZGJiNWVhOTNhNmY1Mjc3NWRjM2M4ZTY5MjJmZjk3MWQ2Y2VlMTE1NTQ3ZjIzNmZmZWQwYTkzNWAgfAoKPiDms6jvvJpjb3JwdXMg5a6e6ZmF5Li6ICoqMjIg5p2hKirmlbDnu4TvvIhlbWJlZGRpbmcg5ZCR6YeP5pWw55SxIGNvcnB1cyDmnaHnm67mlbDmtL7nlJ/vvInvvJvml6fmlofmoaMiMTYi5Li65qCH562+5Y+j5b6E77yM5Lul5Luj56CB5Li655yf5a6e5p2l5rqQ44CCCgojIyDnoaznuqbmnZ/vvIjpg6jnvbLliY3lv4Xor7vvvIkKCi0g5LqR5Ye95pWw6ZSBICoqTm9kZWpzMTYuMTMqKu+8jOemgeWOn+eUnyBgZmV0Y2hg77yM6LWwIGByYWcuanNgIOWGhee9riBgbm9kZUZldGNoYCAvIGB1dGlsLmh0dHBQb3N0SnNvbmDjgIIKLSDmqKHlnovnlLHkupHlupMgYG1vZGVsX2NvbmZpZ2Ag6YWN572u77yI6aG75o6n5Yi25Y+w5omL5Yqo5bu677yM5LiU6IGU572R5pCc57Si5aSN55So5ZCM5LiAIGBtb2RlbF9jb25maWdgIOeZvueCvOaooeWei++8ie+8m+WJjeerr+mbtuaooeWei+mFjee9ruOAggotICoq5omA5pyJ5LqR5Ye95pWw5pS55Yqo6aG76YeN5paw6YOo572y5omN55Sf5pWIKirvvJvmspnnrrHlj68gYHRjYiBmbiBkZXBsb3kgY2hhdCAtLWZvcmNlYO+8iENPUyDkuIrkvKDnuqYgNTJz77yJ44CCCi0g4pqg77iPIOmDqOe9suWJjSoq5b+F6K+7IGBjbG91ZGJhc2VyYy5qc29uYCoq4oCU4oCUYHRjYiBmbiBkZXBsb3lgIOWll+eUqOWFtiBgZW52VmFyaWFibGVzL3J1bnRpbWUvdGltZW91dC9tZW1vcnlTaXplYO+8jOS4jueUn+S6p+S4jeS4gOiHtOS8mioq6Z2Z6buY6KaG55uWKirnlJ/kuqfnjq/looPlj5jph4/jgIIKLSDogZTnvZHmkJzntKLkvp3otZbkupHlupMgYG1vZGVsX2NvbmZpZ2Ag5bey5ZCv55So5LiU5ZCrIGBhcGlLZXlgL+aUr+aMgSBgZW5hYmxlX3NlYXJjaGDvvJvlkKbliJkgYHF3ZW5TZWFyY2hgIOi/lOWbniBgbm9fZW5kcG9pbnRgIOKGkiDor5rlrp7pmY3nuqfjgIIKCiMjIOaooeWdl+mXtOWFs+ezuwoKLSDliY3nq68gYGNoYXQuanNgIOKUgOKUgOiwg+KUgOKUgOKWtiBgY2xvdWRmdW5jdGlvbnMvY2hhdC9pbmRleC5qc2DvvIjmtL7lj5HvvIkKLSBgY2hhdGAg5LqR5Ye95pWwIOKUgOKUgOivu+KUgOKUgOKWtiBgY29ycHVzLmpzb25g77yI57uP5YW477yM5Ya757uT77yJKyBgbW9kZWxfY29uZmlnYO+8iOaooeWeiy/ogZTnvZHvvIkKLSBgZnJlc2huZXNzL2V2ZW50Q2xhc3NpZmllci5qc2Ag4pSA4pSA5Yik57G74pSA4pSA4pa2IEIvRCDnsbvosIMgYHByb3ZpZGVycy9zZWFyY2gvaW5kZXguanNgCi0gYHByb3ZpZGVycy9zZWFyY2gvaW5kZXguanNgIOKUgOKUgOaKpOagj+mTvuKUgOKUgOKWtiBgcXdlblNlYXJjaGAvYHRlbmNlbnRgL2Bkb21lc3RpY2AvYG1vY2tgCi0gYGZyZXNobmVzc1J1bnRpbWVHdWFyZC5qc2Ag4pSA4pSA5qCh6aqM4pSA4pSA4pa2IOaQnOe0oue7k+aenOS4jeaxoeafkyBLQi9lbWJlZGRpbmcKLSBgaGlzdG9yeWAg5LqR5Ye95pWwIOKUgOKUgOeuoeKUgOKUgOKWtiBgY29udmVyc2F0aW9uc2Ag6ZuG5ZCICi0gYGluZ2VzdGAg5LqR5Ye95pWwIOKUgOKUgOWGmeKUgOKUgOKWtiBgZG9jdW1lbnRzYCAvIGBjaHVua3NgIC8gYG1ldGFkYXRhYAo=
+﻿# 03 · 代码结构（Code Structure）
+
+> **刷新于 2026-08-07（终校至 Q2-15）**：补全 `freshness/`、`think/`、`providers/`、`security/`、`observability/`、`registry/`、`dashboard/` 等真实模块。
+
+## 主要目录
+
+```
+weapp/
+├── miniprogram/              # 前端小程序（7 个页面，含四模式选择）
+├── cloudfunctions/          # 云端 Node.js（6 个函数 + capabilities 层）
+│   ├── admin/                # 模型配置 + 日志管理
+│   ├── chat/                 # 对话核心（非冻结部分持续演进）
+│   │   ├── index.js          # 派发入口（非冻结，多 .bak 历史）
+│   │   ├── rag.js / intent.js / knowledgeRouter.js   # ❄️ 冻结（SHA 守门）
+│   │   ├── corpus.json        # ❄️ 冻结（37 经典）
+│   │   ├── actionLibrary.js / config.json / answerMode.js / thinkContext.js
+│   │   ├── capabilities/      # 实时能力层（时间/天气）
+│   │   ├── freshness/         # Freshness 轨道：eventClassifier/contextBuilder/factExtractor/downgrade/responder/schema/eventRetriever/boundaryCheck
+│   │   ├── think/             # Think 模式：Search+RAG+Reasoning
+│   │   ├── providers/search/  # 搜索层：index(orchestrator)/qwenSearch/tencentWsaSearch/domesticApiSearch/mock + 护栏 canaryGate/privacyGate/util/shared + 禁用 tavily/bing/serp
+│   │   ├── security/          # msgSecCheck 调用
+│   │   ├── observability/     # KNOWLEDGE_OBSERVABILITY_STORE
+│   │   ├── registry/ dashboard/ knowledgeHealthScore.js
+│   │   └── freshnessRuntimeGuard.js  # 隔离守卫（验证搜索不污染 KB）
+│   ├── feedback/  history/  ingest/  login/
+├── docs/                    # 部署/验收/Phase 设计文档（含 Q2-4…Q2-15 系列）
+├── scripts/ 或 cloudfunctions/chat/scripts/  # 测试集与 runner（test_q24c…test_q33 等）
+└── tests/                   # Phase F/G/H 早期测试
+```
+
+## 模块职责
+
+| 模块 | 职责 | 关键文件 | 冻结? |
+|------|------|---------|------|
+| 前端聊天 | UI 渲染、setData、隐私流、四模式 | `miniprogram/pages/chat/chat.js` | - |
+| 对话入口 | 派发 + 轨道/模式路由 | `cloudfunctions/chat/index.js` | 否 |
+| 实时能力 | 确定性实时事实 | `cloudfunctions/capabilities/router.js` | 否 |
+| Freshness | 四分类 + 上下文 + 降级 + 输出守卫 | `cloudfunctions/chat/freshness/*` | 否 |
+| 搜索层 | 护栏链 + 国内源 adapter | `cloudfunctions/chat/providers/search/*` | 否 |
+| Think | Search+RAG+Reasoning | `cloudfunctions/chat/think/*` | 否 |
+| 隔离守卫 | 验证搜索不污染 KB | `freshnessRuntimeGuard.js` | 否 |
+| 知识资产 | 37 经典召回源 | `cloudfunctions/chat/corpus.json` | ❄️ 冻结 |
+| RAG | 条件检索/意图/路由 | `rag.js`/`intent.js`/`knowledgeRouter.js` | ❄️ 冻结 |
+
+## 冻结资产（SHA256 守门，漂移=违规）
+
+> 以下文件为冻结基线，**改动须以 SHA256 比对**；任何漂移视为违规，须显式授权 + 评审。Q2-15 时四资产 SHA 仍 4/4 一致（基线未变）。
+
+| 文件 | SHA256（基线） |
+|------|------|
+| `cloudfunctions/chat/corpus.json` | `068fa1fa052ec7b93a9d60008c26b29c425c40f0ab724ab33483dbd1001459ae` |
+| `cloudfunctions/chat/intent.js` | `765ad138ec68c0f159c6f75a60e5268beb02fba152f6d53dbdc539ba1560ca38` |
+| `cloudfunctions/chat/rag.js` | `90c9cc5fe1d9f30837f63a9a67d512e6d08262ef19e125ddd7bebf8ee0890698` |
+| `cloudfunctions/chat/knowledgeRouter.js` | `848908445dbb5ea93a6f52775dc3c8e6922ff971d6cee115547f236ffed0a935` |
+
+> 注：corpus 实际为 **22 条**数组（embedding 向量数由 corpus 条目数派生）；旧文档"16"为标签口径，以代码为真实来源。
+
+## 硬约束（部署前必读）
+
+- 云函数锁 **Nodejs16.13**，禁原生 `fetch`，走 `rag.js` 内置 `nodeFetch` / `util.httpPostJson`。
+- 模型由云库 `model_config` 配置（须控制台手动建，且联网搜索复用同一 `model_config` 百炼模型）；前端零模型配置。
+- **所有云函数改动须重新部署才生效**；沙箱可 `tcb fn deploy chat --force`（COS 上传约 52s）。
+- ⚠️ 部署前**必读 `cloudbaserc.json`**——`tcb fn deploy` 套用其 `envVariables/runtime/timeout/memorySize`，与生产不一致会**静默覆盖**生产环境变量。
+- 联网搜索依赖云库 `model_config` 已启用且含 `apiKey`/支持 `enable_search`；否则 `qwenSearch` 返回 `no_endpoint` → 诚实降级。
+
+## 模块间关系
+
+- 前端 `chat.js` ──调──▶ `cloudfunctions/chat/index.js`（派发）
+- `chat` 云函数 ──读──▶ `corpus.json`（经典，冻结）+ `model_config`（模型/联网）
+- `freshness/eventClassifier.js` ──判类──▶ B/D 类调 `providers/search/index.js`
+- `providers/search/index.js` ──护栏链──▶ `qwenSearch`/`tencent`/`domestic`/`mock`
+- `freshnessRuntimeGuard.js` ──校验──▶ 搜索结果不污染 KB/embedding
+- `history` 云函数 ──管──▶ `conversations` 集合
+- `ingest` 云函数 ──写──▶ `documents` / `chunks` / `metadata`

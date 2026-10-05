@@ -1,1 +1,91 @@
-Ly8g5ZCR5pma6Zeu5oCdIMK3IOS8muivneWIl+ihqOmhte+8iOWkmuS8muivneeuoeeQhu+8iQovLyDliJflh7rlvZPliY3nlKjmiLfmiYDmnInkvJror53vvIzmlK/mjIHmlrDlu7rlr7nor53jgIHov5vlhaXkvJror53jgIHliKDpmaTkvJror53jgIIKLy8g6L+b5YWlL+aWsOW7uuS8muaKiuebruagh+S8muivnSBfaWQg5YaZ5YWlIHN0b3JhZ2UuY3VycmVudENvbnZlcnNhdGlvbklk77yMCi8vIOi/lOWbnuiBiuWkqemhteWQjueUsSBjaGF0Lm9uU2hvdyDmo4DmtYvliLDlj5jljJblubbliqDovb3lr7nlupTkvJror53jgIIKY29uc3QgZm10VGltZSA9ICh0cykgPT4gewogIGlmICghdHMpIHJldHVybiAiIjsKICB0cnkgewogICAgY29uc3QgZCA9IG5ldyBEYXRlKHRzKTsKICAgIGlmIChpc05hTihkLmdldFRpbWUoKSkpIHJldHVybiAiIjsKICAgIGNvbnN0IHAgPSAobikgPT4gU3RyaW5nKG4pLnBhZFN0YXJ0KDIsICIwIik7CiAgICByZXR1cm4gZC5nZXRNb250aCgpICsgMSArICItIiArIHAoZC5nZXREYXRlKCkpICsgIiAiICsgcChkLmdldEhvdXJzKCkpICsgIjoiICsgcChkLmdldE1pbnV0ZXMoKSk7CiAgfSBjYXRjaCAoZSkgewogICAgcmV0dXJuICIiOwogIH0KfTsKClBhZ2UoewogIGRhdGE6IHsKICAgIHNlc3Npb25zOiBbXSwKICAgIGxvYWRpbmc6IGZhbHNlLAogIH0sCgogIG9uU2hvdygpIHsKICAgIHRoaXMubG9hZExpc3QoKTsKICB9LAoKICBsb2FkTGlzdCgpIHsKICAgIHRoaXMuc2V0RGF0YSh7IGxvYWRpbmc6IHRydWUgfSk7CiAgICB3eC5jbG91ZAogICAgICAuY2FsbEZ1bmN0aW9uKHsgbmFtZTogImhpc3RvcnkiLCBkYXRhOiB7IGFjdGlvbjogImxpc3QiIH0gfSkKICAgICAgLnRoZW4oKHJlcykgPT4gewogICAgICAgIGNvbnN0IHIgPSAocmVzICYmIHJlcy5yZXN1bHQpIHx8IHt9OwogICAgICAgIGlmIChyLm9rICYmIEFycmF5LmlzQXJyYXkoci5saXN0KSkgewogICAgICAgICAgY29uc3QgY3VyID0gd3guZ2V0U3RvcmFnZVN5bmMoImN1cnJlbnRDb252ZXJzYXRpb25JZCIpIHx8ICIiOwogICAgICAgICAgY29uc3QgbGlzdCA9IHIubGlzdC5tYXAoKHMpID0+CiAgICAgICAgICAgIE9iamVjdC5hc3NpZ24oe30sIHMsIHsKICAgICAgICAgICAgICB0aW1lVGV4dDogZm10VGltZShzLnVwZGF0ZVRpbWUpLAogICAgICAgICAgICAgIGFjdGl2ZTogcy5faWQgPT09IGN1ciwKICAgICAgICAgICAgfSkKICAgICAgICAgICk7CiAgICAgICAgICB0aGlzLnNldERhdGEoeyBzZXNzaW9uczogbGlzdCB9KTsKICAgICAgICB9CiAgICAgIH0pCiAgICAgIC5jYXRjaCgoKSA9PiB7fSkKICAgICAgLnRoZW4oKCkgPT4gdGhpcy5zZXREYXRhKHsgbG9hZGluZzogZmFsc2UgfSkpOwogIH0sCgogIC8vIOi/m+WFpeafkOadoeS8muivnQogIG9wZW5TZXNzaW9uKGUpIHsKICAgIGNvbnN0IGlkID0gZS5jdXJyZW50VGFyZ2V0LmRhdGFzZXQuaWQ7CiAgICB3eC5zZXRTdG9yYWdlU3luYygiY3VycmVudENvbnZlcnNhdGlvbklkIiwgaWQpOwogICAgd3gubmF2aWdhdGVCYWNrKCk7CiAgfSwKCiAgLy8g5paw5bu65Lya6K+d5bm255u05o6l6L+b5YWlCiAgbmV3U2Vzc2lvbigpIHsKICAgIHd4LmNsb3VkCiAgICAgIC5jYWxsRnVuY3Rpb24oeyBuYW1lOiAiaGlzdG9yeSIsIGRhdGE6IHsgYWN0aW9uOiAiY3JlYXRlIiB9IH0pCiAgICAgIC50aGVuKChyZXMpID0+IHsKICAgICAgICBjb25zdCByID0gKHJlcyAmJiByZXMucmVzdWx0KSB8fCB7fTsKICAgICAgICBjb25zdCBjaWQgPSByLl9pZCB8fCAiIjsKICAgICAgICB3eC5zZXRTdG9yYWdlU3luYygiY3VycmVudENvbnZlcnNhdGlvbklkIiwgY2lkKTsKICAgICAgICB3eC5uYXZpZ2F0ZUJhY2soKTsKICAgICAgfSkKICAgICAgLmNhdGNoKCgpID0+IHsKICAgICAgICB3eC5uYXZpZ2F0ZUJhY2soKTsKICAgICAgfSk7CiAgfSwKCiAgLy8g5Yig6Zmk5Lya6K+dCiAgcmVtb3ZlU2Vzc2lvbihlKSB7CiAgICBjb25zdCBpZCA9IGUuY3VycmVudFRhcmdldC5kYXRhc2V0LmlkOwogICAgd3guc2hvd01vZGFsKHsKICAgICAgdGl0bGU6ICLliKDpmaTkvJror50iLAogICAgICBjb250ZW50OiAi56Gu5a6a5Yig6Zmk6L+Z5p2h5Lya6K+d6K6w5b2V5ZCX77yf5q2k5pON5L2c5LiN5Y+v5oGi5aSN44CCIiwKICAgICAgY29uZmlybVRleHQ6ICLliKDpmaQiLAogICAgICBjb25maXJtQ29sb3I6ICIjYTMyZDJkIiwKICAgICAgc3VjY2VzczogKHIpID0+IHsKICAgICAgICBpZiAoIXIuY29uZmlybSkgcmV0dXJuOwogICAgICAgIHd4LmNsb3VkCiAgICAgICAgICAuY2FsbEZ1bmN0aW9uKHsgbmFtZTogImhpc3RvcnkiLCBkYXRhOiB7IGFjdGlvbjogInJlbW92ZSIsIGNvbnZlcnNhdGlvbklkOiBpZCB9IH0pCiAgICAgICAgICAudGhlbigoKSA9PiB7CiAgICAgICAgICAgIGNvbnN0IGN1ciA9IHd4LmdldFN0b3JhZ2VTeW5jKCJjdXJyZW50Q29udmVyc2F0aW9uSWQiKSB8fCAiIjsKICAgICAgICAgICAgaWYgKGN1ciA9PT0gaWQpIHd4LnJlbW92ZVN0b3JhZ2VTeW5jKCJjdXJyZW50Q29udmVyc2F0aW9uSWQiKTsKICAgICAgICAgICAgdGhpcy5sb2FkTGlzdCgpOwogICAgICAgICAgfSkKICAgICAgICAgIC5jYXRjaCgoKSA9PiB7fSk7CiAgICAgIH0sCiAgICB9KTsKICB9LAp9KTsK
+// 向晚问思 · 会话列表页（多会话管理）
+// 列出当前用户所有会话，支持新建对话、进入会话、删除会话。
+// 进入/新建会把目标会话 _id 写入 storage.currentConversationId，
+// 返回聊天页后由 chat.onShow 检测到变化并加载对应会话。
+const fmtTime = (ts) => {
+  if (!ts) return "";
+  try {
+    const d = new Date(ts);
+    if (isNaN(d.getTime())) return "";
+    const p = (n) => String(n).padStart(2, "0");
+    return d.getMonth() + 1 + "-" + p(d.getDate()) + " " + p(d.getHours()) + ":" + p(d.getMinutes());
+  } catch (e) {
+    return "";
+  }
+};
+
+Page({
+  data: {
+    sessions: [],
+    loading: false,
+  },
+
+  onShow() {
+    this.loadList();
+  },
+
+  loadList() {
+    this.setData({ loading: true });
+    wx.cloud
+      .callFunction({ name: "history", data: { action: "list" } })
+      .then((res) => {
+        const r = (res && res.result) || {};
+        if (r.ok && Array.isArray(r.list)) {
+          const cur = wx.getStorageSync("currentConversationId") || "";
+          const list = r.list.map((s) =>
+            Object.assign({}, s, {
+              timeText: fmtTime(s.updateTime),
+              active: s._id === cur,
+            })
+          );
+          this.setData({ sessions: list });
+        }
+      })
+      .catch(() => {})
+      .then(() => this.setData({ loading: false }));
+  },
+
+  // 进入某条会话
+  openSession(e) {
+    const id = e.currentTarget.dataset.id;
+    wx.setStorageSync("currentConversationId", id);
+    wx.navigateBack();
+  },
+
+  // 新建会话并直接进入
+  newSession() {
+    wx.cloud
+      .callFunction({ name: "history", data: { action: "create" } })
+      .then((res) => {
+        const r = (res && res.result) || {};
+        const cid = r._id || "";
+        wx.setStorageSync("currentConversationId", cid);
+        wx.navigateBack();
+      })
+      .catch(() => {
+        wx.navigateBack();
+      });
+  },
+
+  // 删除会话
+  removeSession(e) {
+    const id = e.currentTarget.dataset.id;
+    wx.showModal({
+      title: "删除会话",
+      content: "确定删除这条会话记录吗？此操作不可恢复。",
+      confirmText: "删除",
+      confirmColor: "#a32d2d",
+      success: (r) => {
+        if (!r.confirm) return;
+        wx.cloud
+          .callFunction({ name: "history", data: { action: "remove", conversationId: id } })
+          .then(() => {
+            const cur = wx.getStorageSync("currentConversationId") || "";
+            if (cur === id) wx.removeStorageSync("currentConversationId");
+            this.loadList();
+          })
+          .catch(() => {});
+      },
+    });
+  },
+});

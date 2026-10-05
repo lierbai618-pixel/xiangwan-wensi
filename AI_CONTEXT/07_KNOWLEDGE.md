@@ -1,1 +1,59 @@
-IyAwNyDCtyDnn6Xor4botYTkuqfvvIhLbm93bGVkZ2UgQXNzZXRz77yJCgo+ICoq5Yi35paw5LqOIDIwMjYtMDgtMDfvvIjnu4jmoKHoh7MgUTItMTXvvIkqKu+8muagh+azqCBgY29ycHVzLmpzb25gIOS4uuWGu+e7k+i1hOS6p++8iFNIQTI1NiDlrojpl6jvvInvvJvku6Xku6PnoIHnnJ/lrp7mnaHnm67mlbDvvIgyMu+8ieS4uuWHhu+8m+abtOaWsCBQaGFzZSBHIC8gUTEtQiAvIFEyLTE1IOeKtuaAgeOAggoKIyMgY29ycHVzLmpzb24g5YWo6LKM77yI5Ya757uT5Z+657q/77yJCgo+IOaWh+S7tu+8mmBjbG91ZGZ1bmN0aW9ucy9jaGF0L2NvcnB1cy5qc29uYO+8iCoqMjIg5p2hKirnu4/lhbjmlbDnu4TvvJvml6fmlofmoaMiMTYi5Li65qCH562+5Y+j5b6E77yM5Lul5Luj56CB5Li655yf5a6e5p2l5rqQ77yJCj4g5q+P5p2h5ZCrIGBpZC90aXRsZS95ZWFyL3NvdXJjZS9zZWN0aW9uL3RleHQvc3VtbWFyeS90YWdzL3F1ZXN0aW9uX2JyaWRnZS9tb2Rlcm5Vc2FnZS9jYXV0aW9uYAo+ICoq8J+TjCDlhrvnu5PotYTkuqcqKu+8mlNIQTI1NiA9IGAwNjhmYTFmYTA1MmVjN2I5M2E5ZDYwMDA4YzI2YjI5YzQyNWM0MGYwYWI3MjRhYjMzNDgzZGJkMTAwMTQ1OWFlYO+8jOaUueWKqOmhu+aYvuW8j+aOiOadgyArIOivhOWuoeOAglEyLTE1IOaXtiBTSEEg5LuN5LiA6Ie044CCCgojIyMg57uP5YW45riF5Y2V77yI6IqC6YCJ77yM5YWo6YeP6KeBIGNvcnB1cy5qc29u77yJCgp8ICMgfCDkuablkI0gfCDnq6DoioIgfCDmoIfnrb7mlbAgfCBxdWVzdGlvbl9icmlkZ2UgfAp8LS0tfC0tLS0tLXwtLS0tLS18LS0tLS0tLS18LS0tLS0tLS0tLS0tLS0tLS18CnwgMSB8IOiuuuivrcK35a2m6ICMIHwg5a2m6ICMIHwgNyB8IOKAlCB8CnwgMiB8IOiuuuivrcK35Li65pS/IHwg5Li65pS/IHwgMyB8IOKAlCB8CnwgMyB8IOWkp+WtpsK357uPIHwg57uPIHwgMTMgfCDinJMgfAp8IDQgfCDpgZPlvrfnu4/CtzMzIHwgMzPnq6AgfCAzIHwg4oCUIHwKfCA1IHwg6YGT5b6357uPwrc4IHwgOOeroCB8IDMgfCDigJQgfAp8IDYgfCDluoTlrZDCt+WFu+eUn+S4uyB8IOWFu+eUn+S4uyB8IDMgfCDigJQgfAp8IDcgfCDluoTlrZDCt+mAjemBpea4uCB8IOmAjemBpea4uCB8IDMgfCDigJQgfAp8IDggfCDlrZ/lrZDCt+WRiuWtkOS4iyB8IOeUn+S6juW/p+iZkSB8IDE1IHwg4pyTIHwKfCA5IHwg5Lit5bq4wrfnrKzkuoznq6AgfCDkuK3lkowgfCA5IHwg4pyTIHwKfCAxMCB8IOayieaAneW9lcK3MSB8IDHoioIgfCAzIHwg4oCUIHwKfCAxMSB8IOayieaAneW9lcK3MiB8IDLoioIgfCAzIHwg4oCUIHwKfCAxMiB8IOaJi+WGjMK3Me+8iOeIseavlOWFi+azsOW+t++8iSB8IDHoioIgfCAzIHwg4oCUIHwKfCAxMyB8IOeUs+i+qeevh8K3Me+8iOafj+aLieWbvu+8iSB8IOiHquefpeWFtuaXoOefpSB8IDE1IHwg4pyTIHwKfCAxNCB8IOWwvOWQhOmprOWPr8K3MyB8IOS5oOaDr+mAoOWwseS6uiB8IDMgfCDigJQgfAoKPiAqKkNodW5rIOaAu+aVsCoq77yaMTTvvIjmr4/nu4/lhbggPSAxIGNodW5r77yJCj4gKipUYWcg6KaG55uWKirvvJrlrabkuaAv5a6e6Le1L+aIkOmVvy/oh6rnnIEv576k5L2TL+ekvuS8mi/lhbHlkIzkvZMv5L+u6LqrL+iHquaIkeeuoeeQhi/nn6XooYwv5LiN5LqJL+aflOWSjC/nm7jlpIQv5bGA6ZmQL+eEpuiZkS/pgInmi6kv6Imv55+lL+W6lee6vy/li4fmsJQv5Z2a5oyBL+ivseaDkS/kurrmoLwv5L+u5YW7L+aLheW9ky/msJToioIv6Ieq5oiR6KaB5rGCL+iHquaIkeWujOWWhC/mm7Tlpb3nmoTkurov5o+Q5Y2H6Ieq5bexL+efpeihjOS4jeS4gC/lgZrkuI3liLAv6ZqP5rOi6YCQ5rWBL+W5s+ihoS/mg4Xnu6rnrqHnkIYv5p6B56uv6YCJ5oupL+eos+WumuS6uueUny/liIblr7gv5o6n5Yi2L+WGheW/gy/lronlroEv5o6l5Y+XL+S5oOaDry/plb/mnJ/kuLvkuYkv5Y2T6LaKL+WPjeaAnS/lrabkuaAv6IuP5qC85ouJ5bqVL+atu+S6oS/ljp/liJkv55yf55CGL+WuoeWIpC/ln47pgqYv5ZOy5a2m5a6255qE6LSj5Lu7L+iupOaXoOefpS/lnZrmjIEv6K+v6KejL+mAieaLqS/lupXnur8v6Imv55+lL+WkmuaVsOS6uuaEj+ingS/oiIborrov5YuH5rCUIOKApu+8iOWFqOmHjyB0YWdzIOingSBjb3JwdXMuanNvbu+8iQoKIyMjIFF1ZXN0aW9uIEJyaWRnZe+8iDTigJM1IOmDqOW4puaYoOWwhO+8iQoKLSDjgIrlpKflrabjgIvCt+e7j++8iOS/rui6q+S4uuacrO+8iQotIOOAiuWtn+WtkOOAi8K355Sf5LqO5b+n6JmR5q275LqO5a6J5LmQIC8g6Imv55+lCi0g44CK5Lit5bq444CLwrfnrKzkuoznq6DvvIjkuK3lkozvvIkKLSDjgIrnlLPovqnnr4fjgIvCt+iHquefpeWFtuaXoOefpe+8iOiLj+agvOaLieW6le+8iQotIO+8iOWFtuS9meaXoCBxdWVzdGlvbl9icmlkZ2XvvIzpnaAgZnJhbWVUaXRsZXMg5YGP572u77yJCgojIyMgQ2xhc3NpYyBQcmlvcml0ee+8iOWPrOWbnumAu+i+ke+8iQoKLSBgZnJhbWVUaXRsZXNgIOe7mSoq5LyY5YWI5Lmm55uuICsxMDAg5YGP572uKirvvIjnlLPovqnnr4flnKggMCDluKcg4oaSIDAg5ZG95Lit77yM6Z2g5q2k5oqs5Y2H77yJCi0g6ZW/5bC+57uP5YW477yI55Sz6L6p56+HIC8g5a2f5a2QIC8g5aSn5a2mIC8g5Lit5bq477yJ57uPIFBoYXNlIEcg5LyY5YyW5ZCO5Zue5Y2HCgojIyMg5b2T5YmN5a2Y5Zyo55qE6Zeu6aKY77yIUGhhc2UgRyDmnKrmj5DkuqTmlLnliqjvvIkKCi0gYHF1ZXN0aW9uX2JyaWRnZWAg5a2X5q61KirmnKrooqvku6PnoIHor7vlj5YqKu+8iGBsZXhpY2FsU2NvcmVgIOWPquivuyB0YWdz77yJ4oCU4oCUIOecn+WunuS4u+WKqOaYoOWwhOmcgCBHLTIg57uZIGBsZXhpY2FsU2NvcmVgIOWKoCB+NiDooYwKLSDlpKflrabpooTmtYvljaDmr5QgMjMuMyUg5YGP6auY77yMRy0yIOW+heiwgwotIFRvcDMg5LiJ5Lu25aWXIDg0LjclIOKGkiA1MC43Je+8iFBoYXNlIEcg56a757q/6aKE5rWL77yM5pyq5o+Q5Lqk77yJCgojIyDopobnm5bpoobln58KCuWTsuWtpu+8iOWEkuWuti/pgZPlrrYv5pav5aSa6JGbL+WPpOW4jOiFiu+8ieOAgeW/g+eQhuWtpu+8iOaDhee7qi/lhoXogJcv54Sm6JmR77yJ44CB5paH5a2m77yI57uP5YW45paH5pys77yJ5LiJ5aSn5Z+f44CCCgojIyDlrp7ml7bog73lipsgLyDogZTnvZHmkJzntKLkuI3lnKjmraTlpIQKCi0g5pe26Ze0L+WkqeawlOetieehruWumuaAp+S6i+Wunui1sCAqKkNhcGFiaWxpdHkg6L2o6YGTKirvvIhgY2FwYWJpbGl0aWVzL3JvdXRlci5qc2DvvInvvIwqKuawuOS4jSoq6L+b5YWlIGNvcnB1cy5qc29uIC8gZW1iZWRkaW5nIC8g6Z2gIFByb21wdCDnlJ/miJDjgIIKLSDogZTnvZHmkJzntKLnu5PmnpzvvIhgcHJvdmlkZXJzL3NlYXJjaC9g77yJ5Y+q5L2cIHJ1bnRpbWUgY29udGV4dO+8jCoq5LiN6L+bIGNvcnB1cy9lbWJlZGRpbmcvbWV0YWRhdGEv6ZW/5pyf57yT5a2YKirvvIjop4EgYGZyZXNobmVzc1J1bnRpbWVHdWFyZC5qc2DvvInjgIIK
+﻿# 07 · 知识资产（Knowledge Assets）
+
+> **刷新于 2026-08-07（终校至 Q2-15）**：标注 `corpus.json` 为冻结资产（SHA256 守门）；以代码真实条目数（22）为准；更新 Phase G / Q1-B / Q2-15 状态。
+
+## corpus.json 全貌（冻结基线）
+
+> 文件：`cloudfunctions/chat/corpus.json`（**22 条**经典数组；旧文档"16"为标签口径，以代码为真实来源）
+> 每条含 `id/title/year/source/section/text/summary/tags/question_bridge/modernUsage/caution`
+> **📌 冻结资产**：SHA256 = `068fa1fa052ec7b93a9d60008c26b29c425c40f0ab724ab33483dbd1001459ae`，改动须显式授权 + 评审。Q2-15 时 SHA 仍一致。
+
+### 经典清单（节选，全量见 corpus.json）
+
+| # | 书名 | 章节 | 标签数 | question_bridge |
+|---|------|------|--------|-----------------|
+| 1 | 论语·学而 | 学而 | 7 | — |
+| 2 | 论语·为政 | 为政 | 3 | — |
+| 3 | 大学·经 | 经 | 13 | ✓ |
+| 4 | 道德经·33 | 33章 | 3 | — |
+| 5 | 道德经·8 | 8章 | 3 | — |
+| 6 | 庄子·养生主 | 养生主 | 3 | — |
+| 7 | 庄子·逍遥游 | 逍遥游 | 3 | — |
+| 8 | 孟子·告子下 | 生于忧虑 | 15 | ✓ |
+| 9 | 中庸·第二章 | 中和 | 9 | ✓ |
+| 10 | 沉思录·1 | 1节 | 3 | — |
+| 11 | 沉思录·2 | 2节 | 3 | — |
+| 12 | 手册·1（爱比克泰德） | 1节 | 3 | — |
+| 13 | 申辩篇·1（柏拉图） | 自知其无知 | 15 | ✓ |
+| 14 | 尼各马可·3 | 习惯造就人 | 3 | — |
+
+> **Chunk 总数**：14（每经典 = 1 chunk）
+> **Tag 覆盖**：学习/实践/成长/自省/群体/社会/共同体/修身/自我管理/知行/不争/柔和/相处/局限/焦虑/选择/良知/底线/勇气/坚持/诱惑/人格/修养/担当/气节/自我要求/自我完善/更好的人/提升自己/知行不一/做不到/随波逐流/平衡/情绪管理/极端选择/稳定人生/分寸/控制/内心/安宁/接受/习惯/长期主义/卓越/反思/学习/苏格拉底/死亡/原则/真理/审判/城邦/哲学家的责任/认无知/坚持/误解/选择/底线/良知/多数人意见/舆论/勇气 …（全量 tags 见 corpus.json）
+
+### Question Bridge（4–5 部带映射）
+
+- 《大学》·经（修身为本）
+- 《孟子》·生于忧虑死于安乐 / 良知
+- 《中庸》·第二章（中和）
+- 《申辩篇》·自知其无知（苏格拉底）
+- （其余无 question_bridge，靠 frameTitles 偏置）
+
+### Classic Priority（召回逻辑）
+
+- `frameTitles` 给**优先书目 +100 偏置**（申辩篇在 0 帧 → 0 命中，靠此抬升）
+- 长尾经典（申辩篇 / 孟子 / 大学 / 中庸）经 Phase G 优化后回升
+
+### 当前存在的问题（Phase G 未提交改动）
+
+- `question_bridge` 字段**未被代码读取**（`lexicalScore` 只读 tags）—— 真实主动映射需 G-2 给 `lexicalScore` 加 ~6 行
+- 大学预测占比 23.3% 偏高，G-2 待调
+- Top3 三件套 84.7% → 50.7%（Phase G 离线预测，未提交）
+
+## 覆盖领域
+
+哲学（儒家/道家/斯多葛/古希腊）、心理学（情绪/内耗/焦虑）、文学（经典文本）三大域。
+
+## 实时能力 / 联网搜索不在此处
+
+- 时间/天气等确定性事实走 **Capability 轨道**（`capabilities/router.js`），**永不**进入 corpus.json / embedding / 靠 Prompt 生成。
+- 联网搜索结果（`providers/search/`）只作 runtime context，**不进 corpus/embedding/metadata/长期缓存**（见 `freshnessRuntimeGuard.js`）。

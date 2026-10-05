@@ -1,1 +1,33 @@
-ewogICJpZCI6ICJtZWRpdGF0aW9ucyIsCiAgInRpdGxlIjogIuayieaAneW9lSIsCiAgImF1dGhvciI6ICLpqazlj6/Ct+WlpeWLkueVmSIsCiAgInRyYW5zbGF0b3IiOiAi5YWs54mI6Iux6K+R77yIR2VvcmdlIExvbmcg562J77yJ5L2c5qCh5YuY5Y+C6ICDIiwKICAic291cmNlIjogIk1hcmN1cyBBdXJlbGl1cywgTWVkaXRhdGlvbnPvvIjlhazniYjoi7Hor5HoioLpgInvvIkiLAogICJlZGl0aW9uIjogIuWFrOeJiOiLseivkeiKgumAiSIsCiAgInB1Ymxpc2hlciI6IG51bGwsCiAgInllYXIiOiAi57qm5YWs5YWDIDE3MOKAkzE4MCDlubQiLAogICJjb3B5cmlnaHRfc3RhdHVzIjogInB1YmxpYy1kb21haW4iLAogICJsaWNlbnNlX25vdGUiOiAiQ0MwIC8g5YWs5pyJ6aKG5Z+f77yI5Y6f5paH77yM5Y+k5biM6IWK5paH77yb6Iux5paH5Li65YWs54mI6K+R5pys77yJIiwKICAidmVyaWZpY2F0aW9uX2RhdGUiOiAiMjAyNi0wNy0yNiIsCiAgImNhdGVnb3J5IjogIuilv+aWueWTsuWtpiIsCiAgInBlcnNwZWN0aXZlIjogIuaWr+WkmuiRmyIsCiAgInRoZW1lcyI6IFsi5YaF5b+D5a6J5a6BIiwgIuaOp+WItuaEnyIsICLooYzliqgiLCAi5b2T5LiLIiwgIui0o+S7uyIsICLmjqXlj5ciXSwKICAicHJvYmxlbV90YWdzIjogWyLnhKbomZEiLCAi5o6n5Yi2IiwgIuihjOWKqOWKmyIsICLov7fojKsiLCAi5aSx6LSlIiwgIuS7t+WAvOaEnyIsICLku5bkurror4Tku7ciLCAi5oOF57uqIiwgIuWGheiAlyIsICLlubPpnZkiLCAi5oSP5LmJIl0sCiAgInVzZXJfcXVlc3Rpb25zIjogWwogICAgIuaAu+aYr+iiq+WIq+S6uueahOivhOS7t+W9seWTjeaAjuS5iOWKniIsCiAgICAi5Yqq5Yqb5rKh5pyJ57uT5p6c5piv5LiN5piv5rKh5Lu35YC8IiwKICAgICLlpoLkvZXojrflvpflhoXlv4PnmoTlubPpnZkiLAogICAgIuWTquS6m+S6i+aYr+aIkeiDveaOp+WItueahCIsCiAgICAi6LaK5Yqq5Yqb6LaK54Sm6JmR5oCO5LmI5YqeIgogIF0sCiAgInNjZW5hcmlvcyI6IFsi5oOF57uq566h55CGIiwgIuihjOWKqOWKmyIsICLoh6rmiJHmjqXnurMiLCAi6IGM5Zy65Y6L5YqbIiwgIuS6uumZheWFs+ezuyJdLAogICJhdXRob3JpdHlfbGV2ZWwiOiA1LAogICJjaXRhdGlvbiI6IHsgInRlbXBsYXRlIjogIuOAint0aXRsZX3Ct3tzZWN0aW9ufeOAiyIsICJleGFtcGxlIjogIuOAiuayieaAneW9lcK356ys5LiA6IqC44CLIiB9LAogICJsYW5ndWFnZSI6ICJ6aCIsCiAgInNvdXJjZV90eXBlIjogInRyYW5zbGF0aW9uIiwKICAiY2hhcHRlcl9zcGxpdCI6ICJieS1jaGFwdGVyIiwKICAibGVnYWxDb25maXJtIjogdHJ1ZSwKICAic3RhdHVzIjogInJlYWR5IiwKICAibm90ZXMiOiAi5Y6f5paH5Li65Y+k5biM6IWK5paH77yM6IqC6YCJ6YeH55So5YWs54mI6Iux6K+R5qCh5YuY77yb5Lit5paH5Li65b+g5a6e6L2s6K+R77yM5YWl5bqT5LuF5L6b5oCd6ICD5Y+C6ICD44CCIgp9Cg==
+{
+  "id": "meditations",
+  "title": "沉思录",
+  "author": "马可·奥勒留",
+  "translator": "公版英译（George Long 等）作校勘参考",
+  "source": "Marcus Aurelius, Meditations（公版英译节选）",
+  "edition": "公版英译节选",
+  "publisher": null,
+  "year": "约公元 170–180 年",
+  "copyright_status": "public-domain",
+  "license_note": "CC0 / 公有领域（原文，古希腊文；英文为公版译本）",
+  "verification_date": "2026-07-26",
+  "category": "西方哲学",
+  "perspective": "斯多葛",
+  "themes": ["内心安宁", "控制感", "行动", "当下", "责任", "接受"],
+  "problem_tags": ["焦虑", "控制", "行动力", "迷茫", "失败", "价值感", "他人评价", "情绪", "内耗", "平静", "意义"],
+  "user_questions": [
+    "总是被别人的评价影响怎么办",
+    "努力没有结果是不是没价值",
+    "如何获得内心的平静",
+    "哪些事是我能控制的",
+    "越努力越焦虑怎么办"
+  ],
+  "scenarios": ["情绪管理", "行动力", "自我接纳", "职场压力", "人际关系"],
+  "authority_level": 5,
+  "citation": { "template": "《{title}·{section}》", "example": "《沉思录·第一节》" },
+  "language": "zh",
+  "source_type": "translation",
+  "chapter_split": "by-chapter",
+  "legalConfirm": true,
+  "status": "ready",
+  "notes": "原文为古希腊文，节选采用公版英译校勘；中文为忠实转译，入库仅供思考参考。"
+}

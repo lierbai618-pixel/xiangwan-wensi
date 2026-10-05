@@ -1,1 +1,85 @@
-J3VzZSBzdHJpY3QnOwovLyBQaGFzZSBRMi0xNu+8mueZvueCvOWQiOaIkOW6leW6p+WbnuW9kua1i+ivlQovLyAgIOmqjOivge+8mueZvueCvCBPcGVuQUkg5YW85a655qih5byP5LuF6L+U5Zue5qih5Z6L57u85ZCI5paH5a2XKOaXoOe7k+aehOWMliBzZWFyY2hfcmVzdWx0cynml7bvvIwKLy8gICDmkJzntKLpgIDljJbkuLrjgIzlkIjmiJDkuovlrp7lupXluqcoVU5WRVJJRklFRCnjgI3kuJTog73mraPnoa7mtYHlhaUgZmFjdOKGkmNvbnRleHTihpJyZXNwb25kZXLvvIwKLy8gICDkuI3op6blj5HpmY3nuqfjgIHlj43lubvop4nkuI7lhY3otKPlo7DmmI7nuqbmnZ/nhafluLjnlJ/mlYjjgIIKdmFyIHBhdGggPSByZXF1aXJlKCdwYXRoJyk7CnZhciBST09UID0gcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgJy4uL2Nsb3VkZnVuY3Rpb25zL2NoYXQnKTsKdmFyIHF3ZW5TZWFyY2ggPSByZXF1aXJlKHBhdGguam9pbihST09ULCAncHJvdmlkZXJzL3NlYXJjaC9xd2VuU2VhcmNoJykpOwp2YXIgZXh0cmFjdG9yID0gcmVxdWlyZShwYXRoLmpvaW4oUk9PVCwgJ2ZyZXNobmVzcy9mYWN0RXh0cmFjdG9yJykpOwp2YXIgY29udGV4dEJ1aWxkZXIgPSByZXF1aXJlKHBhdGguam9pbihST09ULCAnZnJlc2huZXNzL2NvbnRleHRCdWlsZGVyJykpOwp2YXIgcmVzcG9uZGVyID0gcmVxdWlyZShwYXRoLmpvaW4oUk9PVCwgJ2ZyZXNobmVzcy9yZXNwb25kZXInKSk7CnZhciBTID0gcmVxdWlyZShwYXRoLmpvaW4oUk9PVCwgJ2ZyZXNobmVzcy9zY2hlbWEnKSk7Cgp2YXIgcGFzcyA9IDAsIGZhaWwgPSAwOwpmdW5jdGlvbiBvayhjb25kLCBtc2cpIHsKICBpZiAoY29uZCkgeyBwYXNzKys7IH0KICBlbHNlIHsgZmFpbCsrOyBjb25zb2xlLmVycm9yKCcgIOKclyBGQUlMOiAnICsgbXNnKTsgfQp9CmZ1bmN0aW9uIGVxKGEsIGIsIG1zZykgeyBvayhhID09PSBiLCBtc2cgKyAnIChnb3QgJyArIEpTT04uc3RyaW5naWZ5KGEpICsgJywgd2FudCAnICsgSlNPTi5zdHJpbmdpZnkoYikgKyAnKScpOyB9CgovLyAtLS0tIOWBhyBmZXRjaO+8mui/lOWbnueZvueCvCBPcGVuQUkg5YW85a656aOO5qC85ZON5bqU77yI5Y+q5pyJIG1lc3NhZ2UuY29udGVudO+8jOaXoCBzZWFyY2hfcmVzdWx0c++8iS0tLS0KdmFyIEJBSUxJQU5fU1lOVEggPSB7CiAgY2hvaWNlczogW3sgbWVzc2FnZTogeyBjb250ZW50OiAn5LuY6Iiq5piv5Lit5Zu95YaF5Zyw6ISx5Y+j56eA5ryU5ZGY77yM5aSn5LiT5a2m5Y6G77yM5YGa6L+H5L+d5a6J44CB5pyN5Yqh5ZGY44CB55S16K+d5a6i5pyN44CCMTk5NOW5tOWHuueUn+S6juWMl+S6rO+8jDIwMTjlubTov5vlhaXohLHlj6Pnp4DooYzkuJrjgIInLCByb2xlOiAnYXNzaXN0YW50JyB9IH1dCn07CmZ1bmN0aW9uIGZha2VGZXRjaChkYXRhKSB7CiAgcmV0dXJuIGZ1bmN0aW9uICgpIHsKICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUoeyBvazogdHJ1ZSwgc3RhdHVzOiAyMDAsIGpzb246IGZ1bmN0aW9uICgpIHsgcmV0dXJuIFByb21pc2UucmVzb2x2ZShkYXRhKTsgfSB9KTsKICB9Owp9CnZhciBtYyA9IHsgYmFzZVVSTDogJ2h0dHBzOi8vZGFzaHNjb3BlLmFsaXl1bmNzLmNvbS9jb21wYXRpYmxlLW1vZGUvdjEnLCBhcGlLZXk6ICdzay10ZXN0JywgbW9kZWw6ICdkZWVwc2Vlay12NC1mbGFzaC0wNzMxJyB9OwoKY29uc29sZS5sb2coJz09PT0gUTItMTYg5Y2V5YWDID09PT0nKTsKcXdlblNlYXJjaC5zZWFyY2goJ+S7mOiIquaYr+iwgScsIHsgc2VhcmNoTW9kZWxDb25maWc6IG1jIH0sIGZha2VGZXRjaChCQUlMSUFOX1NZTlRIKSkudGhlbihmdW5jdGlvbiAocmVzKSB7CiAgb2socmVzLm9rID09PSB0cnVlLCAn5pCc57Si5a+544CM5LuF57u85ZCI5paH5a2X44CN5ZON5bqUIG9rPXRydWUnKTsKICBvayhyZXMucmVhc29uID09PSAnc3ludGhfY29udGVudCcsICdyZWFzb249c3ludGhfY29udGVudCcpOwogIG9rKHJlcy5zeW50aGVzaXplZCA9PT0gdHJ1ZSwgJ+i/lOWbniBzeW50aGVzaXplZD10cnVlIOagh+iusCcpOwogIG9rKHJlcy5yZXN1bHRzICYmIHJlcy5yZXN1bHRzLmxlbmd0aCA9PT0gMSwgJ+i/lOWbniAxIOadoeWQiOaIkOe7k+aenCcpOwogIG9rKHJlcy5yZXN1bHRzWzBdICYmIHJlcy5yZXN1bHRzWzBdLnN5bnRoZXNpemVkID09PSB0cnVlLCAn57uT5p6c6aG55bimIHN5bnRoZXNpemVkIOagh+iusCcpOwogIG9rKHJlcy5yZXN1bHRzWzBdICYmIC/lpKfkuJPlrabljoYvLnRlc3QocmVzLnJlc3VsdHNbMF0uc25pcHBldCB8fCAnJyksICflkIjmiJDlhoXlrrnlkKvnnJ/lrp7lrabljobnur/ntKIo5aSn5LiT5a2m5Y6GKScpOwoKICBjb25zb2xlLmxvZygnPT09PSBmYWN0RXh0cmFjdG9yID09PT0nKTsKICB2YXIgZXggPSBleHRyYWN0b3IuZXh0cmFjdEZhY3RzKHJlcy5yZXN1bHRzKTsKICBvayhleC5oYXNTeW50aGVzaXplZCA9PT0gdHJ1ZSwgJ2V4dHJhY3RvciDor4bliKvlkIjmiJDlupXluqcgaGFzU3ludGhlc2l6ZWQnKTsKICBvayhleC5zb3VyY2VDb25maWRlbmNlID09PSBTLlNPVVJDRV9DT05GSURFTkNFLkxPVywgJ+WQiOaIkOW6leW6p+e9ruS/oT1MT1cnKTsKICBvayhleC5mYWN0U3VtbWFyeSAmJiBleC5mYWN0U3VtbWFyeS5sZW5ndGggPiAwLCAn5ZCI5oiQ5YaF5a656KKr5oq95Li65LqL5a6e5Y+lKOS4jeepuiknKTsKICBvayhleC5mYWN0U3VtbWFyeVswXSAmJiAv5aSn5LiT5a2m5Y6GLy50ZXN0KGV4LmZhY3RTdW1tYXJ5WzBdLnRleHQpLCAn5LqL5a6e5Y+l5ZCr44CM5aSn5LiT5a2m5Y6G44CNJyk7CiAgb2soZXguZmFjdFN1bW1hcnlbMF0gJiYgZXguZmFjdFN1bW1hcnlbMF0uc3ludGhlc2l6ZWQgPT09IHRydWUsICfkuovlrp7lj6XluKYgc3ludGhlc2l6ZWQg5qCH6K6wJyk7CiAgdmFyIG5vblN5bnRoID0gZXh0cmFjdG9yLmV4dHJhY3RGYWN0cyhbeyB0aXRsZTogJ+aZrumAmuaWsOmXuycsIHVybDogJ2h0dHBzOi8vYS5jb20vMScsIHNuaXBwZXQ6ICfov5nmmK/kuIDmnaHmma7pgJrmlrDpl7vkuovlrp7jgIInLCBzb3VyY2U6ICdhJyB9XSk7CiAgb2sobm9uU3ludGguaGFzU3ludGhlc2l6ZWQgPT09IGZhbHNlLCAn5pmu6YCa57uT5p6cIGhhc1N5bnRoZXNpemVkPWZhbHNlJyk7CgogIGNvbnNvbGUubG9nKCc9PT09IGNvbnRleHRCdWlsZGVyID09PT0nKTsKICB2YXIgYmMgPSB7IGxldmVsOiBTLlNFTlNJVElWSVRZLk5PUk1BTCB9OwogIHZhciBlYyA9IGNvbnRleHRCdWlsZGVyLmJ1aWxkRXZlbnRDb250ZXh0KHsgZXZlbnRNZW50aW9uOiAn5LuY6IiqJywgYm91bmRhcnk6IGJjLCBleHRyYWN0aW9uOiBleCwgcmVzdWx0czogcmVzLnJlc3VsdHMgfSk7CiAgb2soISFlYywgJ2V2ZW50Q29udGV4dCDmnoTlu7rmiJDlip8o5pyq6ZmN57qnKScpOwogIG9rKGVjLnN0YXR1cyA9PT0gUy5FVkVOVF9TVEFUVVMuVU5WRVJJRklFRCwgJ3N0YXR1cz1VTlZFUklGSUVEKOWQiOaIkOW6leW6p+S4jeWPr+aguOWuniknKTsKICBvayhlYy5zeW50aGVzaXplZCA9PT0gdHJ1ZSwgJ2V2ZW50Q29udGV4dCDluKYgc3ludGhlc2l6ZWQg5qCH6K6wJyk7CiAgb2soISFlYy5zeW50aGVzaXplZF90ZXh0ICYmIC/lpKfkuJPlrabljoYvLnRlc3QoZWMuc3ludGhlc2l6ZWRfdGV4dCksICdzeW50aGVzaXplZF90ZXh0IOaQuuW4puiBlOe9kee7vOWQiOaWh+acrCjlkKvlpKfkuJPlrabljoYpJyk7CiAgb2soKGVjLmZhY3Rfc3VtbWFyeSB8fCBbXSkubGVuZ3RoID09PSAwLCAnVU5WRVJJRklFRCDkuI3noLQgc2NoZW1hIOmTgeW+i++8mmZhY3Rfc3VtbWFyeSDkuLrnqbonKTsKCiAgY29uc29sZS5sb2coJz09PT0gcmVzcG9uZGVyID09PT0nKTsKICB2YXIgZ3VhcmRyYWlscyA9IHJlc3BvbmRlci5idWlsZEZyZXNobmVzc0d1YXJkcmFpbHMoZWMsIFMuVVNFUl9JTlRFTlQuUkVGTEVDVElPTiwgJ0InKTsKICBvaygv6IGU572R57u85ZCI5YaF5a65Ly50ZXN0KGd1YXJkcmFpbHMpLCAn5oqk5qCP5ZCr44CM6IGU572R57u85ZCI5YaF5a6544CN6K+05piOJyk7CiAgdmFyIHVjID0gcmVzcG9uZGVyLmJ1aWxkRnJlc2huZXNzVXNlckNvbnRlbnQoJ+S7mOiIquaYr+iwgScsIGVjLCBTLlVTRVJfSU5URU5ULlJFRkxFQ1RJT04sICdCJyk7CiAgb2soL+aooeWei+iBlOe9kee7vOWQiO+8iOacque7j+eLrOeri+aguOWuni8udGVzdCh1YyksICfnlKjmiLflhoXlrrnkuovlrp7lupXluqfmoIfms6jjgIzmnKrnu4/ni6znq4vmoLjlrp7jgI0nKTsKICBvaygv5aSn5LiT5a2m5Y6GLy50ZXN0KHVjKSwgJ+eUqOaIt+WGheWuueWRiOeOsOiBlOe9kee7vOWQiOaWh+acrCjlkKvlpKfkuJPlrabljoYpJyk7CgogIHZhciBva0Fuc3dlciA9ICfku5joiKrmmK/lpKfkuJPlrabljobvvIzlgZrov4fkv53lronjgIHmnI3liqHlkZjjgILvvIjnvZHnu5znu7zlkIjvvIzmnKrnu4/moLjlrp7vvJvlhbfkvZPlsaXljobnm67liY3lhazlvIDkv6Hmga/ov5jml6Dms5Xlrozlhajnoa7orqTvvIknOwogIHZhciBnMSA9IHJlc3BvbmRlci5ndWFyZE91dHB1dChva0Fuc3dlciwgZWMpOwogIG9rKGcxLm9rID09PSB0cnVlLCAn5ZCr5YWN6LSj5aOw5piOK+acquefpeaJv+iupOeahOWQiOaIkOWbnuetlOmAmui/hyhndWFyZCBvayknKTsKICBvayhnMS52aW9sYXRpb25zLmluZGV4T2YoJ21pc3Npbmctc3ludGgtZGlzY2xhaW1lcicpIDwgMCwgJ+WQq+WFjei0o+WjsOaYjuS4jeaKpSBtaXNzaW5nLXN5bnRoLWRpc2NsYWltZXInKTsKICBvayhnMS52aW9sYXRpb25zLmluZGV4T2YoJ21pc3NpbmctdW5rbm93bi1hY2tub3dsZWRnZW1lbnQnKSA8IDAsICflkKvmnKrnn6Xmib/orqTkuI3miqUgbWlzc2luZy11bmtub3duLWFjaycpOwogIG9rKGcxLnZpb2xhdGlvbnMuZmlsdGVyKGZ1bmN0aW9uICh2KSB7IHJldHVybiB2LmluZGV4T2YoJ2Jpb2dyYXBoeS0nKSA9PT0gMDsgfSkubGVuZ3RoID09PSAwLCAn5ZCI5oiQ5bqV5bqn5LiN6Kem5Y+RIGJpb2dyYXBoeS0qIOehrOaLkicpOwoKICB2YXIgbm9EaXNjbGFpbWVyID0gJ+S7mOiIqjE5OTTlubTlh7rnlJ/kuo7ljJfkuqzvvIzmr5XkuJrkuo7mn5DpmaLmoKHvvIzmmK/lpKfkuJPlrabljobjgIInOwogIHZhciBnMiA9IHJlc3BvbmRlci5ndWFyZE91dHB1dChub0Rpc2NsYWltZXIsIGVjKTsKICBvayhnMi5vayA9PT0gZmFsc2UsICfml6DlhY3otKPlo7DmmI7nmoTlkIjmiJDlm57nrZTooqvmi6YoZ3VhcmQgbm90IG9rKScpOwogIG9rKGcyLnZpb2xhdGlvbnMuaW5kZXhPZignbWlzc2luZy1zeW50aC1kaXNjbGFpbWVyJykgPj0gMCwgJ+aXoOWFjei0o+WjsOaYjuaKpSBtaXNzaW5nLXN5bnRoLWRpc2NsYWltZXInKTsKCiAgY29uc29sZS5sb2coJ1xuPT09PSBRMi0xNiDnu5PmnpwgPT09PScpOwogIGNvbnNvbGUubG9nKCdQQVNTPScgKyBwYXNzICsgJyAgRkFJTD0nICsgZmFpbCk7CiAgcHJvY2Vzcy5leGl0KGZhaWwgPyAxIDogMCk7Cn0pLmNhdGNoKGZ1bmN0aW9uIChlKSB7CiAgY29uc29sZS5lcnJvcign5byC5bi4OicsIGUgJiYgZS5zdGFjayB8fCBlKTsKICBwcm9jZXNzLmV4aXQoMSk7Cn0pOwo=
+'use strict';
+// Phase Q2-16：百炼合成底座回归测试
+//   验证：百炼 OpenAI 兼容模式仅返回模型综合文字(无结构化 search_results)时，
+//   搜索退化为「合成事实底座(UNVERIFIED)」且能正确流入 fact→context→responder，
+//   不触发降级、反幻觉与免责声明约束照常生效。
+var path = require('path');
+var ROOT = path.resolve(__dirname, '../cloudfunctions/chat');
+var qwenSearch = require(path.join(ROOT, 'providers/search/qwenSearch'));
+var extractor = require(path.join(ROOT, 'freshness/factExtractor'));
+var contextBuilder = require(path.join(ROOT, 'freshness/contextBuilder'));
+var responder = require(path.join(ROOT, 'freshness/responder'));
+var S = require(path.join(ROOT, 'freshness/schema'));
+
+var pass = 0, fail = 0;
+function ok(cond, msg) {
+  if (cond) { pass++; }
+  else { fail++; console.error('  ✗ FAIL: ' + msg); }
+}
+function eq(a, b, msg) { ok(a === b, msg + ' (got ' + JSON.stringify(a) + ', want ' + JSON.stringify(b) + ')'); }
+
+// ---- 假 fetch：返回百炼 OpenAI 兼容风格响应（只有 message.content，无 search_results）----
+var BAILIAN_SYNTH = {
+  choices: [{ message: { content: '付航是中国内地脱口秀演员，大专学历，做过保安、服务员、电话客服。1994年出生于北京，2018年进入脱口秀行业。', role: 'assistant' } }]
+};
+function fakeFetch(data) {
+  return function () {
+    return Promise.resolve({ ok: true, status: 200, json: function () { return Promise.resolve(data); } });
+  };
+}
+var mc = { baseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1', apiKey: 'sk-test', model: 'deepseek-v4-flash-0731' };
+
+console.log('==== Q2-16 单元 ====');
+qwenSearch.search('付航是谁', { searchModelConfig: mc }, fakeFetch(BAILIAN_SYNTH)).then(function (res) {
+  ok(res.ok === true, '搜索对「仅综合文字」响应 ok=true');
+  ok(res.reason === 'synth_content', 'reason=synth_content');
+  ok(res.synthesized === true, '返回 synthesized=true 标记');
+  ok(res.results && res.results.length === 1, '返回 1 条合成结果');
+  ok(res.results[0] && res.results[0].synthesized === true, '结果项带 synthesized 标记');
+  ok(res.results[0] && /大专学历/.test(res.results[0].snippet || ''), '合成内容含真实学历线索(大专学历)');
+
+  console.log('==== factExtractor ====');
+  var ex = extractor.extractFacts(res.results);
+  ok(ex.hasSynthesized === true, 'extractor 识别合成底座 hasSynthesized');
+  ok(ex.sourceConfidence === S.SOURCE_CONFIDENCE.LOW, '合成底座置信=LOW');
+  ok(ex.factSummary && ex.factSummary.length > 0, '合成内容被抽为事实句(不空)');
+  ok(ex.factSummary[0] && /大专学历/.test(ex.factSummary[0].text), '事实句含「大专学历」');
+  ok(ex.factSummary[0] && ex.factSummary[0].synthesized === true, '事实句带 synthesized 标记');
+  var nonSynth = extractor.extractFacts([{ title: '普通新闻', url: 'https://a.com/1', snippet: '这是一条普通新闻事实。', source: 'a' }]);
+  ok(nonSynth.hasSynthesized === false, '普通结果 hasSynthesized=false');
+
+  console.log('==== contextBuilder ====');
+  var bc = { level: S.SENSITIVITY.NORMAL };
+  var ec = contextBuilder.buildEventContext({ eventMention: '付航', boundary: bc, extraction: ex, results: res.results });
+  ok(!!ec, 'eventContext 构建成功(未降级)');
+  ok(ec.status === S.EVENT_STATUS.UNVERIFIED, 'status=UNVERIFIED(合成底座不可核实)');
+  ok(ec.synthesized === true, 'eventContext 带 synthesized 标记');
+  ok(!!ec.synthesized_text && /大专学历/.test(ec.synthesized_text), 'synthesized_text 携带联网综合文本(含大专学历)');
+  ok((ec.fact_summary || []).length === 0, 'UNVERIFIED 不破 schema 铁律：fact_summary 为空');
+
+  console.log('==== responder ====');
+  var guardrails = responder.buildFreshnessGuardrails(ec, S.USER_INTENT.REFLECTION, 'B');
+  ok(/联网综合内容/.test(guardrails), '护栏含「联网综合内容」说明');
+  var uc = responder.buildFreshnessUserContent('付航是谁', ec, S.USER_INTENT.REFLECTION, 'B');
+  ok(/模型联网综合（未经独立核实/.test(uc), '用户内容事实底座标注「未经独立核实」');
+  ok(/大专学历/.test(uc), '用户内容呈现联网综合文本(含大专学历)');
+
+  var okAnswer = '付航是大专学历，做过保安、服务员。（网络综合，未经核实；具体履历目前公开信息还无法完全确认）';
+  var g1 = responder.guardOutput(okAnswer, ec);
+  ok(g1.ok === true, '含免责声明+未知承认的合成回答通过(guard ok)');
+  ok(g1.violations.indexOf('missing-synth-disclaimer') < 0, '含免责声明不报 missing-synth-disclaimer');
+  ok(g1.violations.indexOf('missing-unknown-acknowledgement') < 0, '含未知承认不报 missing-unknown-ack');
+  ok(g1.violations.filter(function (v) { return v.indexOf('biography-') === 0; }).length === 0, '合成底座不触发 biography-* 硬拒');
+
+  var noDisclaimer = '付航1994年出生于北京，毕业于某院校，是大专学历。';
+  var g2 = responder.guardOutput(noDisclaimer, ec);
+  ok(g2.ok === false, '无免责声明的合成回答被拦(guard not ok)');
+  ok(g2.violations.indexOf('missing-synth-disclaimer') >= 0, '无免责声明报 missing-synth-disclaimer');
+
+  console.log('\n==== Q2-16 结果 ====');
+  console.log('PASS=' + pass + '  FAIL=' + fail);
+  process.exit(fail ? 1 : 0);
+}).catch(function (e) {
+  console.error('异常:', e && e.stack || e);
+  process.exit(1);
+});

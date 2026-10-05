@@ -1,1 +1,85 @@
-IyBQaGFzZSBHIOWPrOWbnuWBpeW6t+aMh+agh++8iOWfuue6vyB2MC45LjMtaG90Zml4IOKGkiDkvJjljJblkI7pooTmtYvvvIkKCj4g55So6YCU77yaUGhhc2UgRyDmnJ/pl7Tlj6zlm57lgaXlurfluqbnmoTlj6ror7vln7rnur8gKyDnm67moIfnnIvmnb/jgILmnKzmlofku7bkuI3kv67mlLnku7vkvZXku6PnoIEv6YWN572u77yM5LuF5L6b6K+E5a6h5LiO5Zue5b2S5a+554Wn44CCCj4g5pWw5o2u5p2l5rqQ77yaCj4gLSDln7rnur/vvJpQaGFzZSBGIOeZvumXruWunumZheWbnuetlCBgcm91dGUuYm9va3Ng77yIYHBoYXNlLWYtMTAwLXRlc3QuanNvbmDvvIxuPTEwMO+8jOaAu+W8leeUqCAzMDAg5qyh77yJCj4gLSDpooTmtYvvvJpQaGFzZSBHIOaUueWKqOWQjuemu+e6v+i3kSBgbGVnYWN5UmV0cmlldmUodG9wMylgIOWvueWOnyAxMDAg6Zeu55qE5qOA57Si5YiG5biD77yI6KeBIGRvY3MvMjcg5LiOIGBfc2ltX3RtcC5qc2DvvIkKCi0tLQoKIyMgMS4g5b2T5YmN77yI5Z+657q/77yJ57uP5YW45Y+s5Zue5o6S6KGMCgp8IOe7j+WFuCB8IOWRveS4reasoeaVsCAvMTAwIHwg5byV55So5Y2g5q+UIHwg5aSH5rOoIHwKfC0tLXwtLS06fC0tLTp8LS0tfAp8IOayieaAneW9lSB8IDg3IHwgMjkuMCUgfCDkuInku7blpZcgfAp8IOiuuuivrSB8IDg1IHwgMjguMyUgfCDkuInku7blpZcgfAp8IOmBk+W+t+e7jyB8IDgyIHwgMjcuMyUgfCDkuInku7blpZcgfAp8IOeIseavlOWFi+azsOW+t+OAiuaJi+WGjOOAiyB8IDE1IHwgNS4wJSB8IHwKfCDluoTlrZAgfCAxMSB8IDMuNyUgfCB8Cnwg5Lit5bq4IHwgNyB8IDIuMyUgfCDplb/lsL4gfAp8IOWtn+WtkCB8IDUgfCAxLjclIHwg6ZW/5bC+IHwKfCDlpKflraYgfCA0IHwgMS4zJSB8IOmVv+WwviB8Cnwg5bC85ZCE6ams5Y+v5Lym55CG5a2m77yI6IqC6YCJ77yJIHwgNCB8IDEuMyUgfCDplb/lsL4gfAp8ICoq5p+P5ouJ5Zu+44CK55Sz6L6p56+H44CLKiogfCAqKjAqKiB8ICoqMC4wJSoqIHwgKirlrozlhajnvLrlpLEqKiB8Cgo+IOivtOaYju+8muavj+mXruW5s+Wdh+W8leeUqCAzLjAg5pys5Lmm77yM5pWF5ZCE5Lmm44CM5ZG95Lit5qyh5pWw44CN5LmL5ZKMID4gMTAw77yb44CM5byV55So5Y2g5q+U44CN5Li66K+l5Lmm6KKr5byV5qyh5pWwIC8g5oC75byV55So5qyh5pWwKDMwMCnjgIIKCi0tLQoKIyMgMi4g6ZW/5bC+57uP5YW46KaG55uW546HCgotICoq5a6M5YWo57y65aSx77yIMCDlkb3kuK3vvIkqKu+8muafj+aLieWbvuOAiueUs+i+qeevh+OAi+KAlOKAlOiLj+agvOaLieW6lSAvIOWuoeWIpCAvIOatu+S6oSAvIOecn+eQhiAvIOWfjumCpuetieS4u+mimCAxMDAg6Zeu5Lit6Zu25Y+s5Zue44CCCi0gKirmnoHkvY7vvIjiiaQ1IOWRveS4re+8iSoq77ya5aSn5a2mKDQp44CB5bC85ZCE6ams5Y+vKDQp44CB5a2f5a2QKDUp44CB5Lit5bq4KDcp44CCCi0gKirlgaXlurfvvIjiiaUxMCDlkb3kuK3vvIkqKu+8muW6hOWtkCgxMSnjgIHniLHmr5TlhYvms7DlvrcoMTUp44CCCi0gKirnu5PorroqKu+8mjkg5pys57uP5YW45LitIDQg5pys5aSE5LqO44CM6ZW/5bC+5oiW57y65aSx44CN77yM55+l6K+G5bqT5ZGI546w44CM5aS06YOo5LiJ5Lu25aWXICsg6ZW/5bC+5aGM6Zm344CN55qE5Y+M5bOw57uT5p6E77yM57uP5YW45aSa5qC35oCn5pyq5Y+R5oyl44CCCgotLS0KCiMjIDMuIFRvcDMg6ZuG5Lit5bqmCgotICoq5Z+657q/IFRvcDPvvIjmsonmgJ3lvZUgKyDorrror60gKyDpgZPlvrfnu4/vvInlvJXnlKjljaDmr5QgPSA4NC43JSoq77yM5Y2z5q+PIDEwIOasoeW8leeUqOe6piA4LjUg5qyh5p2l6Ieq5LiJ5Lu25aWX44CCCi0g5aS06YOo5LiJ5pys5Lmm5ZCI6K6h5Y2g5YWo6YOo5byV55So55qEICoqODQuNiUqKu+8iDI5LjArMjguMysyNy4z77yJ44CCCi0g6ZW/5bC+IDYg5pys5Lmm5ZCI6K6h5LuF5Y2gICoqMTUuNCUqKuOAggoKLS0tCgojIyA0LiBQaGFzZSBHIOebruagh+aMh+aghwoKfCDmjIfmoIcgfCDln7rnur8gfCBQaGFzZSBHIOebruaghyB8IOS8mOWFiOe6pyB8CnwtLS18LS0tfC0tLXwtLS18CnwgVG9wMyDnu4/lhbjvvIjkuInku7blpZfvvInlvJXnlKjljaDmr5QgfCA4NC43JSB8ICoq4omkIDYwJSoqIHwgUDAgfAp8IOOAiueUs+i+qeevh+OAi+WRveS4reasoeaVsCAvMTAwIHwgMCB8ICoq4omlIDE1KiogfCBQMO+8iOacgOmrmOS8mOWFiOe6p++8iSB8Cnwg5a2f5a2Q5ZG95Lit5qyh5pWwIC8xMDAgfCA1IHwgKiriiaUgMTUqKiB8IFAxIHwKfCDlpKflrablkb3kuK3mrKHmlbAgLzEwMCB8IDQgfCAqKuKJpSAxMioqIHwgUDEgfAp8IOS4reW6uOWRveS4reasoeaVsCAvMTAwIHwgNyB8ICoq4omlIDEwKiogfCBQMSB8Cnwg5LiJ5Lu25aWX5Y2V5pys5pyA5L2O5L+d5pyJ6YePIHwg6K666K+tIDg1IC8g6YGT5b6357uPIDgyIHwgKirlnYcg4omlIDUw77yI56iz5a6a5LiN5aGM77yJKiogfCBQMe+8iOeos+WumuaAp+aKpOagj++8iSB8Cnwg5paw5aKe6ZW/5bC+5Lmm5Y2V5pys5Y2g5q+U5LiK6ZmQIHwg4oCUIHwgKirljZXmnKwg4omkIDMwJe+8iOmYsuaWsOWehOaWre+8iSoqIHwgUDIgfAoKLS0tCgojIyA1LiDnprvnur/pooTmtYvvvIhQaGFzZSBHIOaUueWKqOWQju+8jOWvueWOnyAxMDAg6Zeu6YeN6LeR5qOA57Si77yJCgp8IOe7j+WFuCB8IOmihOa1iyB0b3AzIOWNoOeUqOWNoOavlCB8IOWPmOWMliB8CnwtLS18LS0tOnwtLS18Cnwg6K666K+tIHwgMjYuMCUgfCDiiJIyLjNwdCB8Cnwg5aSn5a2mIHwgMjMuMyUgfCAqKisyMi4wcHQqKiB8Cnwg6YGT5b6357uPIHwgMTguMCUgfCDiiJI5LjNwdCB8Cnwg5Lit5bq4IHwgNi43JSB8ICs0LjRwdCB8Cnwg5rKJ5oCd5b2VIHwgNi43JSB8ICoq4oiSMjIuM3B0KiogfAp8IOafj+aLieWbvuOAiueUs+i+qeevh+OAiyB8IDYuMyUgfCAqKis2LjNwdO+8iDDihpLmnInvvIkqKiB8Cnwg5a2f5a2QIHwgNC43JSB8ICszLjBwdCB8Cnwg54ix5q+U5YWL5rOw5b6344CK5omL5YaM44CLIHwgNC4zJSB8IOKIkjAuN3B0IHwKfCDluoTlrZAgfCAzLjclIHwg4oiSIHwKfCDlsLzlkITpqazlj6/kvKbnkIblrabvvIjoioLpgInvvIkgfCAwLjMlIHwg4oiSIHwKCi0gKirpooTmtYsgVG9wMyDkuInku7blpZfljaDnlKjljaDmr5QgPSA1MC43JSoq77yI4omkIDYwJSDnm67moIfovr7miJDvvInjgIIKLSDimqDvuI8g5rOo5oSP77ya6aKE5rWL5Z+65LqO44CM5qOA57SiIHRvcDPjgI3ogIzpnZ7jgIzlm57nrZTmnIDnu4jlvJXnlKjjgI3vvIzkuozogIXlj6PlvoTkuI3lkIzvvJvkuJTljp8gMTAwIOmXruacrOi6q+S4jeWQq+iLj+agvOaLieW6lS/lrqHliKTnsbvpl67popjvvIzmlYXnlLPovqnnr4fnnJ/lrp7mj5DljYflsIblnKggYHBoYXNlLWctcmVncmVzc2lvbi10ZXN0Lmpzb25g77yI5ZCrIDE1IOadoeeUs+i+qeevh+mimO+8ieS4reS9k+eOsOW+l+abtOWFheWIhuOAggotIOKaoO+4jyDop4Llr5/pobnvvJrlpKflrabpooTmtYvljaDmr5QgMjMuMyUg5YGP6auY77yM5Y+v6IO95Zyo5YW25qCH562+77yI5oiQ6ZW/L+iHquW+iy/mj5DljYfoh6rlt7Ev6L+b5q2l77yJ6KaG55uW55qE6YCa55So5oiQ6ZW/57G76Zeu6aKY5LiK55Wl5YGP5aSa77yb5YiX5Li6IFBoYXNlIEctMiDlvoXosIPpobnjgIIKCi0tLQoKIyMgNi4g6KeC5rWL5Y+j5b6E57qm5a6a77yI5L6b5Zue5b2S5rWL6K+V57uf5LiA77yJCgotICoq5ZG95Lit5a6a5LmJKirvvJrlnKjlm57nrZTnmoQgYHJvdXRlLmJvb2tzYO+8iOWunumZheiiq+W8leeUqOe7j+WFuO+8ieS4reWHuueOsOWNs+iuoSAxIOasoe+8m+WbnuW9kua1i+ivleS7pSBgZXhwZWN0ZWRfYm9va3NgIOS4uuS6uuW3pemihOacn+OAgWBhY3R1YWxfYm9va3NgIOS4uuecn+WunuWbnuWhq+OAggotICoqVG9wMyDljaDmr5Tlj6PlvoQqKu+8mue7n+iuoeWbnuetlOS4reS4ieS7tuWll+WHuueOsOWcqOiiq+W8leS5puWNleeahOavlOS+i++8iOS4juWfuue6v+S4gOiHtO+8ieOAggotICoq5YGl5bq36ZiI5YC8KirvvJpUb3AzIOKJpCA2MCUg5LiUIOeUs+i+qeevhyDiiaUgMTUg5LiUIOS4ieS7tuWll+WNleacrCDiiaUgNTDvvIzop4bkuLogUGhhc2UgRyDovr7moIfjgIIK
+﻿# Phase G 召回健康指标（基线 v0.9.3-hotfix → 优化后预测）
+
+> 用途：Phase G 期间召回健康度的只读基线 + 目标看板。本文件不修改任何代码/配置，仅供评审与回归对照。
+> 数据来源：
+> - 基线：Phase F 百问实际回答 `route.books`（`phase-f-100-test.json`，n=100，总引用 300 次）
+> - 预测：Phase G 改动后离线跑 `legacyRetrieve(top3)` 对原 100 问的检索分布（见 docs/27 与 `_sim_tmp.js`）
+
+---
+
+## 1. 当前（基线）经典召回排行
+
+| 经典 | 命中次数 /100 | 引用占比 | 备注 |
+|---|---:|---:|---|
+| 沉思录 | 87 | 29.0% | 三件套 |
+| 论语 | 85 | 28.3% | 三件套 |
+| 道德经 | 82 | 27.3% | 三件套 |
+| 爱比克泰德《手册》 | 15 | 5.0% | |
+| 庄子 | 11 | 3.7% | |
+| 中庸 | 7 | 2.3% | 长尾 |
+| 孟子 | 5 | 1.7% | 长尾 |
+| 大学 | 4 | 1.3% | 长尾 |
+| 尼各马可伦理学（节选） | 4 | 1.3% | 长尾 |
+| **柏拉图《申辩篇》** | **0** | **0.0%** | **完全缺失** |
+
+> 说明：每问平均引用 3.0 本书，故各书「命中次数」之和 > 100；「引用占比」为该书被引次数 / 总引用次数(300)。
+
+---
+
+## 2. 长尾经典覆盖率
+
+- **完全缺失（0 命中）**：柏拉图《申辩篇》——苏格拉底 / 审判 / 死亡 / 真理 / 城邦等主题 100 问中零召回。
+- **极低（≤5 命中）**：大学(4)、尼各马可(4)、孟子(5)、中庸(7)。
+- **健康（≥10 命中）**：庄子(11)、爱比克泰德(15)。
+- **结论**：9 本经典中 4 本处于「长尾或缺失」，知识库呈现「头部三件套 + 长尾塌陷」的双峰结构，经典多样性未发挥。
+
+---
+
+## 3. Top3 集中度
+
+- **基线 Top3（沉思录 + 论语 + 道德经）引用占比 = 84.7%**，即每 10 次引用约 8.5 次来自三件套。
+- 头部三本书合计占全部引用的 **84.6%**（29.0+28.3+27.3）。
+- 长尾 6 本书合计仅占 **15.4%**。
+
+---
+
+## 4. Phase G 目标指标
+
+| 指标 | 基线 | Phase G 目标 | 优先级 |
+|---|---|---|---|
+| Top3 经典（三件套）引用占比 | 84.7% | **≤ 60%** | P0 |
+| 《申辩篇》命中次数 /100 | 0 | **≥ 15** | P0（最高优先级） |
+| 孟子命中次数 /100 | 5 | **≥ 15** | P1 |
+| 大学命中次数 /100 | 4 | **≥ 12** | P1 |
+| 中庸命中次数 /100 | 7 | **≥ 10** | P1 |
+| 三件套单本最低保有量 | 论语 85 / 道德经 82 | **均 ≥ 50（稳定不塌）** | P1（稳定性护栏） |
+| 新增长尾书单本占比上限 | — | **单本 ≤ 30%（防新垄断）** | P2 |
+
+---
+
+## 5. 离线预测（Phase G 改动后，对原 100 问重跑检索）
+
+| 经典 | 预测 top3 占用占比 | 变化 |
+|---|---:|---|
+| 论语 | 26.0% | −2.3pt |
+| 大学 | 23.3% | **+22.0pt** |
+| 道德经 | 18.0% | −9.3pt |
+| 中庸 | 6.7% | +4.4pt |
+| 沉思录 | 6.7% | **−22.3pt** |
+| 柏拉图《申辩篇》 | 6.3% | **+6.3pt（0→有）** |
+| 孟子 | 4.7% | +3.0pt |
+| 爱比克泰德《手册》 | 4.3% | −0.7pt |
+| 庄子 | 3.7% | − |
+| 尼各马可伦理学（节选） | 0.3% | − |
+
+- **预测 Top3 三件套占用占比 = 50.7%**（≤ 60% 目标达成）。
+- ⚠️ 注意：预测基于「检索 top3」而非「回答最终引用」，二者口径不同；且原 100 问本身不含苏格拉底/审判类问题，故申辩篇真实提升将在 `phase-g-regression-test.json`（含 15 条申辩篇题）中体现得更充分。
+- ⚠️ 观察项：大学预测占比 23.3% 偏高，可能在其标签（成长/自律/提升自己/进步）覆盖的通用成长类问题上略偏多；列为 Phase G-2 待调项。
+
+---
+
+## 6. 观测口径约定（供回归测试统一）
+
+- **命中定义**：在回答的 `route.books`（实际被引用经典）中出现即计 1 次；回归测试以 `expected_books` 为人工预期、`actual_books` 为真实回填。
+- **Top3 占比口径**：统计回答中三件套出现在被引书单的比例（与基线一致）。
+- **健康阈值**：Top3 ≤ 60% 且 申辩篇 ≥ 15 且 三件套单本 ≥ 50，视为 Phase G 达标。

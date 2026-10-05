@@ -1,1 +1,142 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIGZyZXNobmVzc1J1bnRpbWVHdWFyZC5qcwovLyAgIFBoYXNlIFEyLTbvvJpGcmVzaG5lc3MgUnVudGltZSBDb250ZXh0IOmalOemu+ajgOafpQovLwovLyAgIOebruagh++8iOeUqOaIt+aOiOadg+adoeasvu+8ie+8muiuqeWQkeaZmumXruaAneaUr+aMgeiBlOe9keaQnOe0ou+8jOS9hioq5Lil5qC85L+d5oyB55+l6K+G5bqT5Ya757uTKirjgIIKLy8gICAgIMK3IOaQnOe0oue7k+aenOWPquiDveS9nOS4uuOAjOacrOasoeivt+axgueahCBydW50aW1lIGNvbnRleHTjgI3jgIIKLy8gICAgIMK3IOemgeatoiBpbmdlc3QgLyBlbWJlZGRpbmcgLyDlhpnlhaXnn6Xor4blupMgLyDmm7TmlrAgbWV0YWRhdGEgLyDnlJ/miJDplb/mnJ/nvJPlrZjnn6Xor4bjgIIKLy8KLy8gICDmnKzmqKHlnZfmmK/jgIzpmpTnprvkuI3lj5jph4/jgI3nmoTlj6/osIPnlKjmoKHpqozlmajvvIzkvpvnprvnur/mtYvor5XkuI7vvIjlj6/pgInnmoTvvInov5DooYzml7boh6rmo4Dkvb/nlKjjgIIKLy8gICDlroPkuI3kv67mlLnku7vkvZXlhrvnu5PotYTkuqfvvIzkuZ/kuI3op6bnvZHjgIHkuI3kvp3otZbkupHnjq/looPjgIIKLy8KLy8gICDmoKHpqoznu7TluqbvvJoKLy8gICAgIDEpIOagh+iusOS4jeWPmOmHj++8mnNlYXJjaOKGkmZhY3TihpJUaGlua0NvbnRleHTihpJhbnN3ZXIubWV0YSDpk77ot6/kuIrvvIzmiYDmnInjgIzlupQgZXBoZW1lcmFs44CNCi8vICAgICAgICDnmoTlrrnlmajlv4XpobvluKYgYF9lcGhlbWVyYWw9dHJ1ZWAg56Gs5qCH6K6w77yI5Lu75L2V5bqP5YiX5YyWL+iQveW6k+mAu+i+kemDveW6lOaLkue7neWug++8ieOAggovLyAgICAgMikg5rOE6Zyy5omr5o+P77ya5a+55pyA57uI6L+U5Zue57uZ6LCD55So5pa555qEIHJlc3VsdO+8jOmAkuW9kuaJq+aPj+aYr+WQpuWQq+acieOAjOeWkeS8vOefpeivhuayiea3gOe7k+aehOOAjQovLyAgICAgICAg77yIY29ycHVzIC8gZW1iZWRkaW5nIC8gaW5nZXN0IC8ga2JXcml0ZSAvIHBlcnNpc3RGYWN0IC8gbG9uZ1Rlcm1DYWNoZSDigKbvvInkuJTmnKrmoIcgZXBoZW1lcmFs44CCCi8vICAgICAzKSDlrqHorqHnmb3lkI3ljZXvvJpzZWFyY2guYXVkaXQg5LuF5YWB6K64IDcg5Liq5a6J5YWo5a2X5q6177yM5LiU57ud5LiN5ZCrIFVSTCAvIOeUqOaIt+WOn+aWhyAvIOWujOaVtOe7k+aenOOAggovLwovLyAgIE5vZGUgMTYuMTMg5YW85a6577yI5peg5Y+v6YCJ6ZO+IC8g5peg56m65YC85ZCI5bm277yJ44CCCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQondXNlIHN0cmljdCc7CgovLyDor7fmsYLnuqcgZXBoZW1lcmFsIOehrOagh+iusOmUrgp2YXIgTUFSS0VSID0gJ19lcGhlbWVyYWwnOwoKLy8gc2VhcmNoLmF1ZGl0IOWFgeiuuOeahCA3IOS4quWuieWFqOWtl+auteeZveWQjeWNle+8iOingSBwcm92aWRlcnMvc2VhcmNoL2luZGV4LmpzIF9hdWRpdO+8iQp2YXIgQVVESVRfU0FGRV9LRVlTID0gWwogICdwcm92aWRlcicsICdsYXRlbmN5X21zJywgJ2NhY2hlX2hpdCcsICdkb3duZ3JhZGVfcmVhc29uJywKICAncXVvdGFfcmVtYWluaW5nJywgJ2NhbmFyeV9ibG9ja2VkJywgJ2RhdGFfcm91dGUnLApdOwoKLy8g55aR5Ly844CM55+l6K+G5rKJ5reAL+mVv+acn+e8k+WtmOOAjeWGmeWFpee7k+aehOmUru+8iOWRveS4reS4lOacquaghyBlcGhlbWVyYWwg4oaSIOinhuS4uumalOemu+i/neinhO+8iQp2YXIgU1VTUEVDVF9LQl9LRVlTID0gWwogICdjb3JwdXMnLCAnZW1iZWRkaW5nJywgJ2luZ2VzdCcsICdrYldyaXRlJywgJ3NhdmVLbm93bGVkZ2UnLAogICd3cml0ZUNvcnB1cycsICdwZXJzaXN0RmFjdCcsICdtZXRhZGF0YVdyaXRlJywgJ2xvbmdUZXJtQ2FjaGUnLCAndXBzZXJ0RmFjdCcsCl07CgpmdW5jdGlvbiBpc0VwaGVtZXJhbChvYmopIHsKICByZXR1cm4gISFvYmogJiYgdHlwZW9mIG9iaiA9PT0gJ29iamVjdCcgJiYgb2JqW01BUktFUl0gPT09IHRydWU7Cn0KCi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQovLyDpgJLlvZLms4TpnLLmiavmj4/vvJrlnKggcmVzdWx0IOW9oueKtuS4reaJvuWHuuS7u+S9leacquaghyBlcGhlbWVyYWwg55qE55aR5Ly8IEtCIOWGmeWFpee7k+aehOOAggovLyDov5Tlm57ms4TpnLLot6/lvoTmlbDnu4TvvIjnqbogPSDpgJrov4fvvInjgIIKLy8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCmZ1bmN0aW9uIHNjYW5MZWFrKG5vZGUsIHBhdGgsIGZvdW5kKSB7CiAgaWYgKG5vZGUgPT09IG51bGwgfHwgbm9kZSA9PT0gdW5kZWZpbmVkIHx8IHR5cGVvZiBub2RlICE9PSAnb2JqZWN0JykgcmV0dXJuOwogIGlmIChBcnJheS5pc0FycmF5KG5vZGUpKSB7CiAgICBmb3IgKHZhciBpID0gMDsgaSA8IG5vZGUubGVuZ3RoOyBpKyspIHNjYW5MZWFrKG5vZGVbaV0sIHBhdGggKyAnWycgKyBpICsgJ10nLCBmb3VuZCk7CiAgICByZXR1cm47CiAgfQogIC8vIOWRveS4reeWkeS8vOefpeivhuayiea3gOmUruS4lOacquaghyBlcGhlbWVyYWwg4oaSIOazhOmcsgogIGZvciAodmFyIGsgPSAwOyBrIDwgU1VTUEVDVF9LQl9LRVlTLmxlbmd0aDsgaysrKSB7CiAgICB2YXIga2V5ID0gU1VTUEVDVF9LQl9LRVlTW2tdOwogICAgaWYgKE9iamVjdC5wcm90b3R5cGUuaGFzT3duUHJvcGVydHkuY2FsbChub2RlLCBrZXkpICYmIG5vZGVbTUFSS0VSXSAhPT0gdHJ1ZSkgewogICAgICBmb3VuZC5wdXNoKHBhdGggKyAnLicgKyBrZXkpOwogICAgfQogIH0KICAvLyDop4LmtYvlhYPkv6Hmga/kuK3nmoQgY29udGV4dCDlv4XpobsgZXBoZW1lcmFs77yI5ZCm5YiZ5Y+v6IO96KKr6K+v5b2T55+l6K+G5rKJ5reA77yJCiAgaWYgKG5vZGUudGhpbmsgJiYgbm9kZS50aGluay5jb250ZXh0ICYmIG5vZGUudGhpbmsuY29udGV4dFtNQVJLRVJdICE9PSB0cnVlKSB7CiAgICBmb3VuZC5wdXNoKHBhdGggKyAnLnRoaW5rLmNvbnRleHQnKTsKICB9CiAgdmFyIGtleXMgPSBPYmplY3Qua2V5cyhub2RlKTsKICBmb3IgKHZhciBqID0gMDsgaiA8IGtleXMubGVuZ3RoOyBqKyspIHsKICAgIHZhciB2ID0gbm9kZVtrZXlzW2pdXTsKICAgIGlmICh2ICYmIHR5cGVvZiB2ID09PSAnb2JqZWN0Jykgc2NhbkxlYWsodiwgcGF0aCArICcuJyArIGtleXNbal0sIGZvdW5kKTsKICB9Cn0KCi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQovLyDmoKHpqowgc2VhcmNoLmF1ZGl077ya5a2X5q6155m95ZCN5Y2VICsg5LiN5ZCrIFVSTC/plb/ljp/mlofjgIIKLy8g6L+U5ZueIHsgb2ssIGlzc3Vlc1tdIH3jgIIKLy8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCmZ1bmN0aW9uIHZlcmlmeUF1ZGl0KGF1ZGl0KSB7CiAgdmFyIGlzc3VlcyA9IFtdOwogIGlmICghYXVkaXQgfHwgdHlwZW9mIGF1ZGl0ICE9PSAnb2JqZWN0JykgcmV0dXJuIHsgb2s6IHRydWUsIGlzc3VlczogaXNzdWVzIH07CiAgdmFyIGtleXMgPSBPYmplY3Qua2V5cyhhdWRpdCk7CiAgZm9yICh2YXIgaSA9IDA7IGkgPCBrZXlzLmxlbmd0aDsgaSsrKSB7CiAgICBpZiAoQVVESVRfU0FGRV9LRVlTLmluZGV4T2Yoa2V5c1tpXSkgPCAwKSBpc3N1ZXMucHVzaCgndW5leHBlY3RlZF9hdWRpdF9rZXk6JyArIGtleXNbaV0pOwogIH0KICAvLyDlrqHorqHnu53kuI3lupTlkKsgaHR0cChzKSDpk77mjqXvvIjkvJrms4TpnLLmnaXmupAgdXJs77yJ44CB5LiN5bqU5ZCr5piO5pi+6ZW/5Y6f5paHCiAgdmFyIHMgPSBKU09OLnN0cmluZ2lmeShhdWRpdCk7CiAgaWYgKC9odHRwcz86XC9cLy9pLnRlc3QocykpIGlzc3Vlcy5wdXNoKCdhdWRpdF9jb250YWluc191cmwnKTsKICBpZiAocy5sZW5ndGggPiA1MTIpIGlzc3Vlcy5wdXNoKCdhdWRpdF90b29fbGFyZ2UnKTsgLy8g5a6J5YWo5a6h6K6h5Y+q5bqU5ZCr5p6B55+t5YWD5pWw5o2uCiAgcmV0dXJuIHsgb2s6IGlzc3Vlcy5sZW5ndGggPT09IDAsIGlzc3VlczogaXNzdWVzIH07Cn0KCi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQovLyDmoKHpqozmnIDnu4jov5Tlm57nu5nosIPnlKjmlrnnmoQgcmVzdWx077yaCi8vICAgwrcg5peg5pyq5qCHIGVwaGVtZXJhbCDnmoTnlpHkvLwgS0Ig5YaZ5YWl57uT5p6ECi8vICAgwrcg6Iul5pC65bimIHNlYXJjaEF1ZGl077yM6aG75ruh6Laz5a6h6K6h55m95ZCN5Y2VCi8vIOi/lOWbniB7IG9rLCBsZWFrc1tdLCBhdWRpdElzc3Vlc1tdIH3jgIIKLy8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCmZ1bmN0aW9uIHZlcmlmeUFuc3dlclJlc3VsdChyZXN1bHQpIHsKICB2YXIgbGVha3MgPSBbXTsKICBzY2FuTGVhayhyZXN1bHQsICdyZXN1bHQnLCBsZWFrcyk7CiAgdmFyIGF1ZGl0ID0gcmVzdWx0ICYmIHJlc3VsdC50aGluayAmJiByZXN1bHQudGhpbmsuc2VhcmNoQXVkaXQ7CiAgdmFyIGF1ZGl0SXNzdWVzID0gYXVkaXQgPyB2ZXJpZnlBdWRpdChhdWRpdCkuaXNzdWVzIDogW107CiAgcmV0dXJuIHsgb2s6IGxlYWtzLmxlbmd0aCA9PT0gMCAmJiBhdWRpdElzc3Vlcy5sZW5ndGggPT09IDAsIGxlYWtzOiBsZWFrcywgYXVkaXRJc3N1ZXM6IGF1ZGl0SXNzdWVzIH07Cn0KCi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQovLyDmoKHpqozjgIzlupQgZXBoZW1lcmFs44CN55qE5a655Zmo6ZO+77yacmF3IHJlc3VsdHMgLyBmYWN0IC8gVGhpbmtDb250ZXh0IC8gYW5zd2VyLm1ldGHjgIIKLy8gY2hhaW46IOS7u+aEj+S4gOe7hOWvueixoe+8iOaVsOe7hOWFg+e0oOS8muiiq+i3s+i/h++8m+WPquagoemqjOmdnuaVsOe7hOWuueWZqO+8ieOAggovLyDov5Tlm54geyBvaywgYmFkW10gfeOAggovLyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KZnVuY3Rpb24gdmVyaWZ5Q2hhaW4oY2hhaW4pIHsKICB2YXIgYmFkID0gW107CiAgKGNoYWluIHx8IFtdKS5mb3JFYWNoKGZ1bmN0aW9uIChub2RlLCBpKSB7CiAgICBpZiAobm9kZSAmJiB0eXBlb2Ygbm9kZSA9PT0gJ29iamVjdCcgJiYgIUFycmF5LmlzQXJyYXkobm9kZSkgJiYgbm9kZVtNQVJLRVJdICE9PSB0cnVlKSB7CiAgICAgIGJhZC5wdXNoKCdub2RlIycgKyBpKTsKICAgIH0KICB9KTsKICByZXR1cm4geyBvazogYmFkLmxlbmd0aCA9PT0gMCwgYmFkOiBiYWQgfTsKfQoKLy8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCi8vIOaxh+aAu+aKpeWRiu+8muS4gOasoeaAp+e7meWHuumalOemu+S4jeWPmOmHj+iHquajgOe7k+iuuu+8iOS+m+a1i+ivleS4jiBDSSDmtojotLnvvInjgIIKLy8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCmZ1bmN0aW9uIG1ha2VJc29sYXRpb25SZXBvcnQocmVzdWx0KSB7CiAgdmFyIHZyID0gdmVyaWZ5QW5zd2VyUmVzdWx0KHJlc3VsdCk7CiAgcmV0dXJuIHsKICAgIG9rOiB2ci5vaywKICAgIGxlYWtzOiB2ci5sZWFrcywKICAgIGF1ZGl0SXNzdWVzOiB2ci5hdWRpdElzc3VlcywKICAgIGNoZWNrczogewogICAgICBub19rYl93cml0ZV9sZWFrOiB2ci5sZWFrcy5sZW5ndGggPT09IDAsCiAgICAgIGF1ZGl0X3doaXRlbGlzdDogdnIuYXVkaXRJc3N1ZXMubGVuZ3RoID09PSAwLAogICAgfSwKICB9Owp9Cgptb2R1bGUuZXhwb3J0cyA9IHsKICBNQVJLRVI6IE1BUktFUiwKICBBVURJVF9TQUZFX0tFWVM6IEFVRElUX1NBRkVfS0VZUywKICBTVVNQRUNUX0tCX0tFWVM6IFNVU1BFQ1RfS0JfS0VZUywKICBpc0VwaGVtZXJhbDogaXNFcGhlbWVyYWwsCiAgdmVyaWZ5QXVkaXQ6IHZlcmlmeUF1ZGl0LAogIHZlcmlmeUFuc3dlclJlc3VsdDogdmVyaWZ5QW5zd2VyUmVzdWx0LAogIHZlcmlmeUNoYWluOiB2ZXJpZnlDaGFpbiwKICBtYWtlSXNvbGF0aW9uUmVwb3J0OiBtYWtlSXNvbGF0aW9uUmVwb3J0LAp9Owo=
+// ============================================================
+// freshnessRuntimeGuard.js
+//   Phase Q2-6：Freshness Runtime Context 隔离检查
+//
+//   目标（用户授权条款）：让向晚问思支持联网搜索，但**严格保持知识库冻结**。
+//     · 搜索结果只能作为「本次请求的 runtime context」。
+//     · 禁止 ingest / embedding / 写入知识库 / 更新 metadata / 生成长期缓存知识。
+//
+//   本模块是「隔离不变量」的可调用校验器，供离线测试与（可选的）运行时自检使用。
+//   它不修改任何冻结资产，也不触网、不依赖云环境。
+//
+//   校验维度：
+//     1) 标记不变量：search→fact→ThinkContext→answer.meta 链路上，所有「应 ephemeral」
+//        的容器必须带 `_ephemeral=true` 硬标记（任何序列化/落库逻辑都应拒绝它）。
+//     2) 泄露扫描：对最终返回给调用方的 result，递归扫描是否含有「疑似知识沉淀结构」
+//        （corpus / embedding / ingest / kbWrite / persistFact / longTermCache …）且未标 ephemeral。
+//     3) 审计白名单：search.audit 仅允许 7 个安全字段，且绝不含 URL / 用户原文 / 完整结果。
+//
+//   Node 16.13 兼容（无可选链 / 无空值合并）。
+// ============================================================
+'use strict';
+
+// 请求级 ephemeral 硬标记键
+var MARKER = '_ephemeral';
+
+// search.audit 允许的 7 个安全字段白名单（见 providers/search/index.js _audit）
+var AUDIT_SAFE_KEYS = [
+  'provider', 'latency_ms', 'cache_hit', 'downgrade_reason',
+  'quota_remaining', 'canary_blocked', 'data_route',
+];
+
+// 疑似「知识沉淀/长期缓存」写入结构键（命中且未标 ephemeral → 视为隔离违规）
+var SUSPECT_KB_KEYS = [
+  'corpus', 'embedding', 'ingest', 'kbWrite', 'saveKnowledge',
+  'writeCorpus', 'persistFact', 'metadataWrite', 'longTermCache', 'upsertFact',
+];
+
+function isEphemeral(obj) {
+  return !!obj && typeof obj === 'object' && obj[MARKER] === true;
+}
+
+// ------------------------------------------------------------
+// 递归泄露扫描：在 result 形状中找出任何未标 ephemeral 的疑似 KB 写入结构。
+// 返回泄露路径数组（空 = 通过）。
+// ------------------------------------------------------------
+function scanLeak(node, path, found) {
+  if (node === null || node === undefined || typeof node !== 'object') return;
+  if (Array.isArray(node)) {
+    for (var i = 0; i < node.length; i++) scanLeak(node[i], path + '[' + i + ']', found);
+    return;
+  }
+  // 命中疑似知识沉淀键且未标 ephemeral → 泄露
+  for (var k = 0; k < SUSPECT_KB_KEYS.length; k++) {
+    var key = SUSPECT_KB_KEYS[k];
+    if (Object.prototype.hasOwnProperty.call(node, key) && node[MARKER] !== true) {
+      found.push(path + '.' + key);
+    }
+  }
+  // 观测元信息中的 context 必须 ephemeral（否则可能被误当知识沉淀）
+  if (node.think && node.think.context && node.think.context[MARKER] !== true) {
+    found.push(path + '.think.context');
+  }
+  var keys = Object.keys(node);
+  for (var j = 0; j < keys.length; j++) {
+    var v = node[keys[j]];
+    if (v && typeof v === 'object') scanLeak(v, path + '.' + keys[j], found);
+  }
+}
+
+// ------------------------------------------------------------
+// 校验 search.audit：字段白名单 + 不含 URL/长原文。
+// 返回 { ok, issues[] }。
+// ------------------------------------------------------------
+function verifyAudit(audit) {
+  var issues = [];
+  if (!audit || typeof audit !== 'object') return { ok: true, issues: issues };
+  var keys = Object.keys(audit);
+  for (var i = 0; i < keys.length; i++) {
+    if (AUDIT_SAFE_KEYS.indexOf(keys[i]) < 0) issues.push('unexpected_audit_key:' + keys[i]);
+  }
+  // 审计绝不应含 http(s) 链接（会泄露来源 url）、不应含明显长原文
+  var s = JSON.stringify(audit);
+  if (/https?:\/\//i.test(s)) issues.push('audit_contains_url');
+  if (s.length > 512) issues.push('audit_too_large'); // 安全审计只应含极短元数据
+  return { ok: issues.length === 0, issues: issues };
+}
+
+// ------------------------------------------------------------
+// 校验最终返回给调用方的 result：
+//   · 无未标 ephemeral 的疑似 KB 写入结构
+//   · 若携带 searchAudit，须满足审计白名单
+// 返回 { ok, leaks[], auditIssues[] }。
+// ------------------------------------------------------------
+function verifyAnswerResult(result) {
+  var leaks = [];
+  scanLeak(result, 'result', leaks);
+  var audit = result && result.think && result.think.searchAudit;
+  var auditIssues = audit ? verifyAudit(audit).issues : [];
+  return { ok: leaks.length === 0 && auditIssues.length === 0, leaks: leaks, auditIssues: auditIssues };
+}
+
+// ------------------------------------------------------------
+// 校验「应 ephemeral」的容器链：raw results / fact / ThinkContext / answer.meta。
+// chain: 任意一组对象（数组元素会被跳过；只校验非数组容器）。
+// 返回 { ok, bad[] }。
+// ------------------------------------------------------------
+function verifyChain(chain) {
+  var bad = [];
+  (chain || []).forEach(function (node, i) {
+    if (node && typeof node === 'object' && !Array.isArray(node) && node[MARKER] !== true) {
+      bad.push('node#' + i);
+    }
+  });
+  return { ok: bad.length === 0, bad: bad };
+}
+
+// ------------------------------------------------------------
+// 汇总报告：一次性给出隔离不变量自检结论（供测试与 CI 消费）。
+// ------------------------------------------------------------
+function makeIsolationReport(result) {
+  var vr = verifyAnswerResult(result);
+  return {
+    ok: vr.ok,
+    leaks: vr.leaks,
+    auditIssues: vr.auditIssues,
+    checks: {
+      no_kb_write_leak: vr.leaks.length === 0,
+      audit_whitelist: vr.auditIssues.length === 0,
+    },
+  };
+}
+
+module.exports = {
+  MARKER: MARKER,
+  AUDIT_SAFE_KEYS: AUDIT_SAFE_KEYS,
+  SUSPECT_KB_KEYS: SUSPECT_KB_KEYS,
+  isEphemeral: isEphemeral,
+  verifyAudit: verifyAudit,
+  verifyAnswerResult: verifyAnswerResult,
+  verifyChain: verifyChain,
+  makeIsolationReport: makeIsolationReport,
+};

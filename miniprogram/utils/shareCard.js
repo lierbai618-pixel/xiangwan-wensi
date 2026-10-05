@@ -1,1 +1,140 @@
-Ly8g5ZCR5pma6Zeu5oCdIMK3IOmAmueUqOe7k+aenOWIhuS6q+WbvgovLyDkvb/nlKggY2FudmFzIDJkIOe7mOWItuS4gOW8oOerlueJiOWNoeeJh++8jOi/lOWbnuS4tOaXtuaWh+S7tui3r+W+hO+8jOS+m+S/neWtmOWIsOebuOWGjOOAggovLyDmiYDmnInkurrmoLzmtYvor5Xnu5PmnpzpobXlpI3nlKjmnKzlt6XlhbfvvIzpgb/lhY3ph43lpI3lrp7njrDjgIIKCmZ1bmN0aW9uIGdldERwcigpIHsKICB0cnkgewogICAgaWYgKHd4LmdldFdpbmRvd0luZm8pIHJldHVybiB3eC5nZXRXaW5kb3dJbmZvKCkucGl4ZWxSYXRpbyB8fCAyOwogICAgcmV0dXJuIHd4LmdldFN5c3RlbUluZm9TeW5jKCkucGl4ZWxSYXRpbyB8fCAyOwogIH0gY2F0Y2ggKGUpIHsKICAgIHJldHVybiAyOwogIH0KfQoKLy8g57uY5Yi25bm26L+U5Zue5Li05pe25paH5Lu26Lev5b6E77yI5aSx6LSl6L+U5ZueIG51bGzvvIkKZnVuY3Rpb24gZHJhd1NoYXJlQ2FyZChwYWdlLCBzZWxlY3Rvciwgb3B0cykgewogIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSkgPT4gewogICAgY29uc3QgcXVlcnkgPSB3eC5jcmVhdGVTZWxlY3RvclF1ZXJ5KCkuaW4ocGFnZSk7CiAgICBxdWVyeS5zZWxlY3Qoc2VsZWN0b3IpLmZpZWxkcyh7IG5vZGU6IHRydWUsIHNpemU6IHRydWUgfSkuZXhlYygocmVzKSA9PiB7CiAgICAgIGlmICghcmVzIHx8ICFyZXNbMF0gfHwgIXJlc1swXS5ub2RlKSB7CiAgICAgICAgcmVzb2x2ZShudWxsKTsKICAgICAgICByZXR1cm47CiAgICAgIH0KICAgICAgY29uc3QgY2FudmFzID0gcmVzWzBdLm5vZGU7CiAgICAgIGNvbnN0IGRwciA9IGdldERwcigpOwogICAgICBjb25zdCBXID0gNjAwOwogICAgICBjb25zdCBIID0gODAwOwogICAgICBjYW52YXMud2lkdGggPSBXICogZHByOwogICAgICBjYW52YXMuaGVpZ2h0ID0gSCAqIGRwcjsKICAgICAgY29uc3QgY3R4ID0gY2FudmFzLmdldENvbnRleHQoIjJkIik7CiAgICAgIGN0eC5zY2FsZShkcHIsIGRwcik7CgogICAgICAvLyDog4zmma/muJDlj5gKICAgICAgY29uc3QgZ3JhZCA9IGN0eC5jcmVhdGVMaW5lYXJHcmFkaWVudCgwLCAwLCBXLCBIKTsKICAgICAgZ3JhZC5hZGRDb2xvclN0b3AoMCwgb3B0cy5iZ0Zyb20gfHwgIiMzYTJmMjUiKTsKICAgICAgZ3JhZC5hZGRDb2xvclN0b3AoMSwgb3B0cy5iZ1RvIHx8ICIjNmI1NTQ0Iik7CiAgICAgIGN0eC5maWxsU3R5bGUgPSBncmFkOwogICAgICBjdHguZmlsbFJlY3QoMCwgMCwgVywgSCk7CgogICAgICAvLyDpobbpg6jmn5TlhYkKICAgICAgY29uc3QgZ2xvdyA9IGN0eC5jcmVhdGVSYWRpYWxHcmFkaWVudChXIC8gMiwgMTIwLCAyMCwgVyAvIDIsIDEyMCwgMzYwKTsKICAgICAgZ2xvdy5hZGRDb2xvclN0b3AoMCwgInJnYmEoMjU1LDI1NSwyNTUsMC4xOCkiKTsKICAgICAgZ2xvdy5hZGRDb2xvclN0b3AoMSwgInJnYmEoMjU1LDI1NSwyNTUsMCkiKTsKICAgICAgY3R4LmZpbGxTdHlsZSA9IGdsb3c7CiAgICAgIGN0eC5maWxsUmVjdCgwLCAwLCBXLCBIKTsKCiAgICAgIC8vIOmhtumDqOWwj+agh+etvgogICAgICBjdHgudGV4dEFsaWduID0gImNlbnRlciI7CiAgICAgIGN0eC5maWxsU3R5bGUgPSAicmdiYSgyNTUsMjU1LDI1NSwwLjcyKSI7CiAgICAgIGN0eC5mb250ID0gIjI2cHggc2Fucy1zZXJpZiI7CiAgICAgIGN0eC5maWxsVGV4dChvcHRzLmtpY2tlciB8fCAi5ZCR5pma6Zeu5oCdIMK3IOS6uuagvOa1i+ivlSIsIFcgLyAyLCA3OCk7CgogICAgICAvLyDkuLvmoIfpopjvvIjnu5PmnpzlkI0v5Luj56CB77yJCiAgICAgIGN0eC5maWxsU3R5bGUgPSAiI2ZmZmZmZiI7CiAgICAgIGN0eC5mb250ID0gImJvbGQgNzZweCBzYW5zLXNlcmlmIjsKICAgICAgY3R4LmZpbGxUZXh0KG9wdHMudGl0bGUgfHwgIiIsIFcgLyAyLCAyMTApOwoKICAgICAgLy8g5Ymv5qCH6aKYCiAgICAgIGlmIChvcHRzLnN1YnRpdGxlKSB7CiAgICAgICAgY3R4LmZpbGxTdHlsZSA9ICJyZ2JhKDI1NSwyNTUsMjU1LDAuOSkiOwogICAgICAgIGN0eC5mb250ID0gIjMwcHggc2Fucy1zZXJpZiI7CiAgICAgICAgY3R4LmZpbGxUZXh0KG9wdHMuc3VidGl0bGUsIFcgLyAyLCAyNjgpOwogICAgICB9CgogICAgICAvLyDliIbpmpTnur8KICAgICAgY3R4LnN0cm9rZVN0eWxlID0gInJnYmEoMjU1LDI1NSwyNTUsMC4yOCkiOwogICAgICBjdHgubGluZVdpZHRoID0gMTsKICAgICAgY3R4LmJlZ2luUGF0aCgpOwogICAgICBjdHgubW92ZVRvKDEyMCwgMzEyKTsKICAgICAgY3R4LmxpbmVUbyg0ODAsIDMxMik7CiAgICAgIGN0eC5zdHJva2UoKTsKCiAgICAgIC8vIOimgeeCueWIl+ihqAogICAgICBjb25zdCBsaW5lcyA9IG9wdHMubGluZXMgfHwgW107CiAgICAgIGxldCB5ID0gMzcyOwogICAgICBjb25zdCBsaW5lSCA9IDUyOwogICAgICBjdHgudGV4dEFsaWduID0gImxlZnQiOwogICAgICBsaW5lcy5zbGljZSgwLCA2KS5mb3JFYWNoKChsbikgPT4gewogICAgICAgIC8vIOWchueCuQogICAgICAgIGN0eC5maWxsU3R5bGUgPSAicmdiYSgyNTUsMjU1LDI1NSwwLjg1KSI7CiAgICAgICAgY3R4LmJlZ2luUGF0aCgpOwogICAgICAgIGN0eC5hcmMoMTE4LCB5IC0gMTAsIDYsIDAsIE1hdGguUEkgKiAyKTsKICAgICAgICBjdHguZmlsbCgpOwogICAgICAgIC8vIOaWh+acrO+8iOiHquWKqOaIquaWremBv+WFjea6ouWHuu+8iQogICAgICAgIGN0eC5maWxsU3R5bGUgPSAicmdiYSgyNTUsMjU1LDI1NSwwLjkyKSI7CiAgICAgICAgY3R4LmZvbnQgPSAiMjhweCBzYW5zLXNlcmlmIjsKICAgICAgICBjb25zdCBtYXhXID0gNDIwOwogICAgICAgIGxldCB0ZXh0ID0gbG47CiAgICAgICAgaWYgKGN0eC5tZWFzdXJlVGV4dCh0ZXh0KS53aWR0aCA+IG1heFcpIHsKICAgICAgICAgIHdoaWxlICh0ZXh0Lmxlbmd0aCA+IDQgJiYgY3R4Lm1lYXN1cmVUZXh0KHRleHQgKyAi4oCmIikud2lkdGggPiBtYXhXKSB7CiAgICAgICAgICAgIHRleHQgPSB0ZXh0LnNsaWNlKDAsIC0xKTsKICAgICAgICAgIH0KICAgICAgICAgIHRleHQgPSB0ZXh0ICsgIuKApiI7CiAgICAgICAgfQogICAgICAgIGN0eC5maWxsVGV4dCh0ZXh0LCAxNDAsIHkpOwogICAgICAgIHkgKz0gbGluZUg7CiAgICAgIH0pOwoKICAgICAgLy8g5bqV6YOo5Y2h54mHCiAgICAgIGN0eC5maWxsU3R5bGUgPSAicmdiYSgwLDAsMCwwLjE4KSI7CiAgICAgIGN0eC5maWxsUmVjdCgwLCBIIC0gMTIwLCBXLCAxMjApOwogICAgICBjdHgudGV4dEFsaWduID0gImNlbnRlciI7CiAgICAgIGN0eC5maWxsU3R5bGUgPSAicmdiYSgyNTUsMjU1LDI1NSwwLjg1KSI7CiAgICAgIGN0eC5mb250ID0gIjI2cHggc2Fucy1zZXJpZiI7CiAgICAgIGN0eC5maWxsVGV4dChvcHRzLmZvb3RlciB8fCAi5ZCR5pma6Zeu5oCdIMK3IOa1i+a1i+S9oOaYr+iwgSIsIFcgLyAyLCBIIC0gNzApOwogICAgICBjdHguZmlsbFN0eWxlID0gInJnYmEoMjU1LDI1NSwyNTUsMC41NSkiOwogICAgICBjdHguZm9udCA9ICIyMnB4IHNhbnMtc2VyaWYiOwogICAgICBjdHguZmlsbFRleHQoIumVv+aMieivhuWIqyAvIOaIquWbvuWIhuS6q+e7meaci+WPiyIsIFcgLyAyLCBIIC0gMzYpOwoKICAgICAgd3guY2FudmFzVG9UZW1wRmlsZVBhdGgoewogICAgICAgIGNhbnZhcywKICAgICAgICB4OiAwLAogICAgICAgIHk6IDAsCiAgICAgICAgd2lkdGg6IGNhbnZhcy53aWR0aCwKICAgICAgICBoZWlnaHQ6IGNhbnZhcy5oZWlnaHQsCiAgICAgICAgZGVzdFdpZHRoOiBjYW52YXMud2lkdGgsCiAgICAgICAgZGVzdEhlaWdodDogY2FudmFzLmhlaWdodCwKICAgICAgICBzdWNjZXNzOiAocikgPT4gcmVzb2x2ZShyLnRlbXBGaWxlUGF0aCksCiAgICAgICAgZmFpbDogKCkgPT4gcmVzb2x2ZShudWxsKSwKICAgICAgfSk7CiAgICB9KTsKICB9KTsKfQoKLy8g57uY5Yi25bm26aKE6KeI5YiG5Lqr5Zu+77yI6YG/5YWN6LCD55So55u45YaM5YaZ5YWl6ZqQ56eB5o6l5Y+j77yM6ZW/5oyJ5Zu+54mH5Y2z5Y+v5L+d5a2Y77yJCmZ1bmN0aW9uIHNhdmVTaGFyZUltYWdlKHBhZ2UsIHNlbGVjdG9yLCBvcHRzKSB7CiAgcmV0dXJuIGRyYXdTaGFyZUNhcmQocGFnZSwgc2VsZWN0b3IsIG9wdHMpLnRoZW4oKHBhdGgpID0+IHsKICAgIGlmICghcGF0aCkgewogICAgICB3eC5zaG93VG9hc3QoeyB0aXRsZTogIueUn+aIkOWksei0pe+8jOivt+mHjeivlSIsIGljb246ICJub25lIiB9KTsKICAgICAgcmV0dXJuOwogICAgfQogICAgd3gucHJldmlld0ltYWdlKHsKICAgICAgY3VycmVudDogcGF0aCwKICAgICAgdXJsczogW3BhdGhdLAogICAgICBzdWNjZXNzOiAoKSA9PiB3eC5zaG93VG9hc3QoeyB0aXRsZTogIumVv+aMieWbvueJh+WPr+S/neWtmCIsIGljb246ICJub25lIiB9KSwKICAgICAgZmFpbDogKCkgPT4gd3guc2hvd1RvYXN0KHsgdGl0bGU6ICLpooTop4jlpLHotKUiLCBpY29uOiAibm9uZSIgfSksCiAgICB9KTsKICB9KTsKfQoKbW9kdWxlLmV4cG9ydHMgPSB7IGRyYXdTaGFyZUNhcmQsIHNhdmVTaGFyZUltYWdlIH07Cg==
+// 向晚问思 · 通用结果分享图
+// 使用 canvas 2d 绘制一张竖版卡片，返回临时文件路径，供保存到相册。
+// 所有人格测试结果页复用本工具，避免重复实现。
+
+function getDpr() {
+  try {
+    if (wx.getWindowInfo) return wx.getWindowInfo().pixelRatio || 2;
+    return wx.getSystemInfoSync().pixelRatio || 2;
+  } catch (e) {
+    return 2;
+  }
+}
+
+// 绘制并返回临时文件路径（失败返回 null）
+function drawShareCard(page, selector, opts) {
+  return new Promise((resolve) => {
+    const query = wx.createSelectorQuery().in(page);
+    query.select(selector).fields({ node: true, size: true }).exec((res) => {
+      if (!res || !res[0] || !res[0].node) {
+        resolve(null);
+        return;
+      }
+      const canvas = res[0].node;
+      const dpr = getDpr();
+      const W = 600;
+      const H = 800;
+      canvas.width = W * dpr;
+      canvas.height = H * dpr;
+      const ctx = canvas.getContext("2d");
+      ctx.scale(dpr, dpr);
+
+      // 背景渐变
+      const grad = ctx.createLinearGradient(0, 0, W, H);
+      grad.addColorStop(0, opts.bgFrom || "#3a2f25");
+      grad.addColorStop(1, opts.bgTo || "#6b5544");
+      ctx.fillStyle = grad;
+      ctx.fillRect(0, 0, W, H);
+
+      // 顶部柔光
+      const glow = ctx.createRadialGradient(W / 2, 120, 20, W / 2, 120, 360);
+      glow.addColorStop(0, "rgba(255,255,255,0.18)");
+      glow.addColorStop(1, "rgba(255,255,255,0)");
+      ctx.fillStyle = glow;
+      ctx.fillRect(0, 0, W, H);
+
+      // 顶部小标签
+      ctx.textAlign = "center";
+      ctx.fillStyle = "rgba(255,255,255,0.72)";
+      ctx.font = "26px sans-serif";
+      ctx.fillText(opts.kicker || "向晚问思 · 人格测试", W / 2, 78);
+
+      // 主标题（结果名/代码）
+      ctx.fillStyle = "#ffffff";
+      ctx.font = "bold 76px sans-serif";
+      ctx.fillText(opts.title || "", W / 2, 210);
+
+      // 副标题
+      if (opts.subtitle) {
+        ctx.fillStyle = "rgba(255,255,255,0.9)";
+        ctx.font = "30px sans-serif";
+        ctx.fillText(opts.subtitle, W / 2, 268);
+      }
+
+      // 分隔线
+      ctx.strokeStyle = "rgba(255,255,255,0.28)";
+      ctx.lineWidth = 1;
+      ctx.beginPath();
+      ctx.moveTo(120, 312);
+      ctx.lineTo(480, 312);
+      ctx.stroke();
+
+      // 要点列表
+      const lines = opts.lines || [];
+      let y = 372;
+      const lineH = 52;
+      ctx.textAlign = "left";
+      lines.slice(0, 6).forEach((ln) => {
+        // 圆点
+        ctx.fillStyle = "rgba(255,255,255,0.85)";
+        ctx.beginPath();
+        ctx.arc(118, y - 10, 6, 0, Math.PI * 2);
+        ctx.fill();
+        // 文本（自动截断避免溢出）
+        ctx.fillStyle = "rgba(255,255,255,0.92)";
+        ctx.font = "28px sans-serif";
+        const maxW = 420;
+        let text = ln;
+        if (ctx.measureText(text).width > maxW) {
+          while (text.length > 4 && ctx.measureText(text + "…").width > maxW) {
+            text = text.slice(0, -1);
+          }
+          text = text + "…";
+        }
+        ctx.fillText(text, 140, y);
+        y += lineH;
+      });
+
+      // 底部卡片
+      ctx.fillStyle = "rgba(0,0,0,0.18)";
+      ctx.fillRect(0, H - 120, W, 120);
+      ctx.textAlign = "center";
+      ctx.fillStyle = "rgba(255,255,255,0.85)";
+      ctx.font = "26px sans-serif";
+      ctx.fillText(opts.footer || "向晚问思 · 测测你是谁", W / 2, H - 70);
+      ctx.fillStyle = "rgba(255,255,255,0.55)";
+      ctx.font = "22px sans-serif";
+      ctx.fillText("长按识别 / 截图分享给朋友", W / 2, H - 36);
+
+      wx.canvasToTempFilePath({
+        canvas,
+        x: 0,
+        y: 0,
+        width: canvas.width,
+        height: canvas.height,
+        destWidth: canvas.width,
+        destHeight: canvas.height,
+        success: (r) => resolve(r.tempFilePath),
+        fail: () => resolve(null),
+      });
+    });
+  });
+}
+
+// 绘制并预览分享图（避免调用相册写入隐私接口，长按图片即可保存）
+function saveShareImage(page, selector, opts) {
+  return drawShareCard(page, selector, opts).then((path) => {
+    if (!path) {
+      wx.showToast({ title: "生成失败，请重试", icon: "none" });
+      return;
+    }
+    wx.previewImage({
+      current: path,
+      urls: [path],
+      success: () => wx.showToast({ title: "长按图片可保存", icon: "none" }),
+      fail: () => wx.showToast({ title: "预览失败", icon: "none" }),
+    });
+  });
+}
+
+module.exports = { drawShareCard, saveShareImage };

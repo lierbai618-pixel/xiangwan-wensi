@@ -1,1 +1,31 @@
-ewogICJpZCI6ICJ6aG9uZ3lvbmciLAogICJ0aXRsZSI6ICLkuK3lurgiLAogICJhdXRob3IiOiAi5a2Q5oCd77yI55u45Lyg77yJIiwKICAidHJhbnNsYXRvciI6IG51bGwsCiAgInNvdXJjZSI6ICLku6XmnLHnhrnjgIrlm5vkuabnq6Dlj6Xpm4bms6jjgIvkvZzmoKHli5jlj4LogIPvvIjoioLpgInvvIkiLAogICJlZGl0aW9uIjogIuacseeGueOAiuWbm+S5pueroOWPpembhuazqOOAi+agoeWLmOWPguiAgyIsCiAgInB1Ymxpc2hlciI6IG51bGwsCiAgInllYXIiOiAi5oiY5Zu977yI57qm5YWs5YWD5YmNNOS4lue6qu+8iSIsCiAgImNvcHlyaWdodF9zdGF0dXMiOiAicHVibGljLWRvbWFpbiIsCiAgImxpY2Vuc2Vfbm90ZSI6ICJDQzAgLyDlhazmnInpoobln5/vvIjljp/mlofvvIkiLAogICJ2ZXJpZmljYXRpb25fZGF0ZSI6ICIyMDI2LTA3LTI2IiwKICAiY2F0ZWdvcnkiOiAi5Lit5Zu95ZOy5a2mIiwKICAicGVyc3BlY3RpdmUiOiAi5YSS5a62IiwKICAidGhlbWVzIjogWyLlubPooaEiLCAi5Lit5bq4IiwgIuaDhee7qiIsICLliIblr7giLCAi5oWO54usIiwgIuWSjOiwkCJdLAogICJwcm9ibGVtX3RhZ3MiOiBbIuW5s+ihoSIsICLkuK3lurgiLCAi5oOF57uqIiwgIuWIhuWvuCIsICLmnoHnq68iLCAi54Sm6JmRIiwgIuS6uumZheWFs+ezuyIsICLmgI7kuYjmiormj6HluqYiXSwKICAidXNlcl9xdWVzdGlvbnMiOiBbCiAgICAi5aaC5L2V5oqK5o+h5YiG5a+4IiwKICAgICLmg4Xnu6rmgLvmmK/otbDmnoHnq6/mgI7kuYjlip4iLAogICAgIuaAjuagt+WSjOS6uuebuOWkhOS4jeWBj+a/gCIKICBdLAogICJzY2VuYXJpb3MiOiBbIuaDhee7queuoeeQhiIsICLkurrpmYXliIblr7giLCAi6Ieq5oiR6LCD6YCCIl0sCiAgImF1dGhvcml0eV9sZXZlbCI6IDUsCiAgImNpdGF0aW9uIjogeyAidGVtcGxhdGUiOiAi44CKe3RpdGxlfcK3e3NlY3Rpb25944CLIiwgImV4YW1wbGUiOiAi44CK5Lit5bq4wrfnrKzkuIDnq6DjgIsiIH0sCiAgImxhbmd1YWdlIjogInpoIiwKICAic291cmNlX3R5cGUiOiAiYW5jaWVudC10ZXh0IiwKICAiY2hhcHRlcl9zcGxpdCI6ICJieS1jaGFwdGVyIiwKICAibGVnYWxDb25maXJtIjogdHJ1ZSwKICAic3RhdHVzIjogInJlYWR5IiwKICAibm90ZXMiOiAi6IqC6YCJ6aaW56ug44CB56ys5LqM56ug44CB56ys5Y2B56ug44CCIgp9Cg==
+{
+  "id": "zhongyong",
+  "title": "中庸",
+  "author": "子思（相传）",
+  "translator": null,
+  "source": "以朱熹《四书章句集注》作校勘参考（节选）",
+  "edition": "朱熹《四书章句集注》校勘参考",
+  "publisher": null,
+  "year": "战国（约公元前4世纪）",
+  "copyright_status": "public-domain",
+  "license_note": "CC0 / 公有领域（原文）",
+  "verification_date": "2026-07-26",
+  "category": "中国哲学",
+  "perspective": "儒家",
+  "themes": ["平衡", "中庸", "情绪", "分寸", "慎独", "和谐"],
+  "problem_tags": ["平衡", "中庸", "情绪", "分寸", "极端", "焦虑", "人际关系", "怎么把握度"],
+  "user_questions": [
+    "如何把握分寸",
+    "情绪总是走极端怎么办",
+    "怎样和人相处不偏激"
+  ],
+  "scenarios": ["情绪管理", "人际分寸", "自我调适"],
+  "authority_level": 5,
+  "citation": { "template": "《{title}·{section}》", "example": "《中庸·第一章》" },
+  "language": "zh",
+  "source_type": "ancient-text",
+  "chapter_split": "by-chapter",
+  "legalConfirm": true,
+  "status": "ready",
+  "notes": "节选首章、第二章、第十章。"
+}

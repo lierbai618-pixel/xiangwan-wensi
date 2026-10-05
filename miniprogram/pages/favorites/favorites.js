@@ -1,1 +1,82 @@
-Ly8g5ZCR5pma6Zeu5oCdIMK3IOaUtuiXj+WkuQovLyDmi4nlj5blvZPliY3nlKjmiLfmlLbol4/nmoTlm57nrZTvvJvngrnlh7vlsZXlvIAv5pS26LW377yM5Y+v5LiA6ZSu5bim5Y675a+56K+d77yM5oiW56e76Zmk5pS26JeP44CCClBhZ2UoewogIGRhdGE6IHsKICAgIGxpc3Q6IFtdLAogICAgbG9hZGluZzogZmFsc2UsCiAgICBlbXB0eTogZmFsc2UsCiAgfSwKCiAgb25TaG93KCkgewogICAgdGhpcy5sb2FkKCk7CiAgfSwKCiAgbG9hZCgpIHsKICAgIGNvbnN0IG9wZW5pZCA9IChnZXRBcHAoKS5nbG9iYWxEYXRhICYmIGdldEFwcCgpLmdsb2JhbERhdGEub3BlbmlkKSB8fCB3eC5nZXRTdG9yYWdlU3luYygib3BlbmlkIik7CiAgICBpZiAoIW9wZW5pZCkgewogICAgICB0aGlzLnNldERhdGEoeyBsaXN0OiBbXSwgZW1wdHk6IHRydWUsIGxvYWRpbmc6IGZhbHNlIH0pOwogICAgICByZXR1cm47CiAgICB9CiAgICB0aGlzLnNldERhdGEoeyBsb2FkaW5nOiB0cnVlIH0pOwogICAgd3guY2xvdWQKICAgICAgLmNhbGxGdW5jdGlvbih7IG5hbWU6ICJoaXN0b3J5IiwgZGF0YTogeyBhY3Rpb246ICJmYXZMaXN0IiB9IH0pCiAgICAgIC50aGVuKChyZXMpID0+IHsKICAgICAgICBjb25zdCByID0gKHJlcyAmJiByZXMucmVzdWx0KSB8fCB7fTsKICAgICAgICBjb25zdCByYXcgPSBBcnJheS5pc0FycmF5KHIubGlzdCkgPyByLmxpc3QgOiBbXTsKICAgICAgICBjb25zdCBsaXN0ID0gcmF3Lm1hcCgoZiwgaSkgPT4gT2JqZWN0LmFzc2lnbih7fSwgZiwgeyBfaWQ6IGYuX2lkIHx8ICJmIiArIGksIF9vcGVuOiBmYWxzZSB9KSk7CiAgICAgICAgdGhpcy5zZXREYXRhKHsgbGlzdCwgZW1wdHk6IGxpc3QubGVuZ3RoID09PSAwLCBsb2FkaW5nOiBmYWxzZSB9KTsKICAgICAgfSkKICAgICAgLmNhdGNoKCgpID0+IHsKICAgICAgICB0aGlzLnNldERhdGEoeyBsaXN0OiBbXSwgZW1wdHk6IHRydWUsIGxvYWRpbmc6IGZhbHNlIH0pOwogICAgICB9KTsKICB9LAoKICB0b2dnbGUoZSkgewogICAgY29uc3QgaWQgPSBlLmN1cnJlbnRUYXJnZXQuZGF0YXNldC5pZDsKICAgIGNvbnN0IGxpc3QgPSB0aGlzLmRhdGEubGlzdC5tYXAoKGYpID0+IChmLl9pZCA9PT0gaWQgPyBPYmplY3QuYXNzaWduKHt9LCBmLCB7IF9vcGVuOiAhZi5fb3BlbiB9KSA6IGYpKTsKICAgIHRoaXMuc2V0RGF0YSh7IGxpc3QgfSk7CiAgfSwKCiAgLy8g5bim5Y675a+56K+d77ya5Zue5aGr6K+l5pS26JeP55qE6Zeu6aKY77yI5LiO5YWI6LSk6KeG6KeS77yJ5Yiw6IGK5aSp6aG1CiAgZ29DaGF0V2l0aEZhdihlKSB7CiAgICBjb25zdCBpZCA9IGUuY3VycmVudFRhcmdldC5kYXRhc2V0LmlkOwogICAgY29uc3QgaXRlbSA9IHRoaXMuZGF0YS5saXN0LmZpbmQoKGYpID0+IGYuX2lkID09PSBpZCk7CiAgICBpZiAoIWl0ZW0pIHJldHVybjsKICAgIGlmIChpdGVtLnNhZ2UgJiYgaXRlbS5zYWdlICE9PSAibm9uZSIpIHsKICAgICAgd3guc2V0U3RvcmFnZVN5bmMoInBlbmRpbmdTYWdlIiwgaXRlbS5zYWdlKTsKICAgIH0KICAgIHd4LnNldFN0b3JhZ2VTeW5jKCJwZW5kaW5nUXVlc3Rpb24iLCBpdGVtLnF1ZXN0aW9uIHx8IGl0ZW0uYW5zd2VyIHx8ICIiKTsKICAgIHd4LnN3aXRjaFRhYih7IHVybDogIi9wYWdlcy9jaGF0L2NoYXQiIH0pOwogIH0sCgogIHJlbW92ZShlKSB7CiAgICBjb25zdCBpZCA9IGUuY3VycmVudFRhcmdldC5kYXRhc2V0LmlkOwogICAgY29uc3QgaXRlbSA9IHRoaXMuZGF0YS5saXN0LmZpbmQoKGYpID0+IGYuX2lkID09PSBpZCk7CiAgICBpZiAoIWl0ZW0pIHJldHVybjsKICAgIHd4LnNob3dNb2RhbCh7CiAgICAgIHRpdGxlOiAi5Y+W5raI5pS26JePIiwKICAgICAgY29udGVudDogIuehruWumuenu+mZpOi/meadoeaUtuiXj++8nyIsCiAgICAgIGNvbmZpcm1UZXh0OiAi56e76ZmkIiwKICAgICAgY29uZmlybUNvbG9yOiAiI2EzMmQyZCIsCiAgICAgIHN1Y2Nlc3M6IChyZXMpID0+IHsKICAgICAgICBpZiAoIXJlcy5jb25maXJtKSByZXR1cm47CiAgICAgICAgd3guc2hvd0xvYWRpbmcoeyB0aXRsZTogIuenu+mZpOS4rSIsIG1hc2s6IHRydWUgfSk7CiAgICAgICAgd3guY2xvdWQKICAgICAgICAgIC5jYWxsRnVuY3Rpb24oeyBuYW1lOiAiaGlzdG9yeSIsIGRhdGE6IHsgYWN0aW9uOiAiZmF2UmVtb3ZlIiwgYW5zd2VySWQ6IGl0ZW0uYW5zd2VySWQgfSB9KQogICAgICAgICAgLnRoZW4oKHJlczIpID0+IHsKICAgICAgICAgICAgY29uc3Qgb2sgPSByZXMyICYmIHJlczIucmVzdWx0ICYmIHJlczIucmVzdWx0Lm9rOwogICAgICAgICAgICBpZiAob2spIHsKICAgICAgICAgICAgICB0aGlzLnNldERhdGEoeyBsaXN0OiB0aGlzLmRhdGEubGlzdC5maWx0ZXIoKGYpID0+IGYuX2lkICE9PSBpZCkgfSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgd3guc2hvd1RvYXN0KHsgdGl0bGU6IG9rID8gIuW3suenu+mZpCIgOiAi5pON5L2c5aSx6LSlIiwgaWNvbjogb2sgPyAic3VjY2VzcyIgOiAibm9uZSIgfSk7CiAgICAgICAgICB9KQogICAgICAgICAgLmNhdGNoKCgpID0+IHd4LnNob3dUb2FzdCh7IHRpdGxlOiAi5pON5L2c5aSx6LSlIiwgaWNvbjogIm5vbmUiIH0pKQogICAgICAgICAgLnRoZW4oKCkgPT4gd3guaGlkZUxvYWRpbmcoKSk7CiAgICAgIH0sCiAgICB9KTsKICB9LAoKICBvblNoYXJlQXBwTWVzc2FnZSgpIHsKICAgIHJldHVybiB7IHRpdGxlOiAi5ZCR5pma6Zeu5oCdIMK3IOaIkeeahOaUtuiXjyIsIHBhdGg6ICIvcGFnZXMvZmF2b3JpdGVzL2Zhdm9yaXRlcyIgfTsKICB9LAp9KTsK
+// 向晚问思 · 收藏夹
+// 拉取当前用户收藏的回答；点击展开/收起，可一键带去对话，或移除收藏。
+Page({
+  data: {
+    list: [],
+    loading: false,
+    empty: false,
+  },
+
+  onShow() {
+    this.load();
+  },
+
+  load() {
+    const openid = (getApp().globalData && getApp().globalData.openid) || wx.getStorageSync("openid");
+    if (!openid) {
+      this.setData({ list: [], empty: true, loading: false });
+      return;
+    }
+    this.setData({ loading: true });
+    wx.cloud
+      .callFunction({ name: "history", data: { action: "favList" } })
+      .then((res) => {
+        const r = (res && res.result) || {};
+        const raw = Array.isArray(r.list) ? r.list : [];
+        const list = raw.map((f, i) => Object.assign({}, f, { _id: f._id || "f" + i, _open: false }));
+        this.setData({ list, empty: list.length === 0, loading: false });
+      })
+      .catch(() => {
+        this.setData({ list: [], empty: true, loading: false });
+      });
+  },
+
+  toggle(e) {
+    const id = e.currentTarget.dataset.id;
+    const list = this.data.list.map((f) => (f._id === id ? Object.assign({}, f, { _open: !f._open }) : f));
+    this.setData({ list });
+  },
+
+  // 带去对话：回填该收藏的问题（与先贤视角）到聊天页
+  goChatWithFav(e) {
+    const id = e.currentTarget.dataset.id;
+    const item = this.data.list.find((f) => f._id === id);
+    if (!item) return;
+    if (item.sage && item.sage !== "none") {
+      wx.setStorageSync("pendingSage", item.sage);
+    }
+    wx.setStorageSync("pendingQuestion", item.question || item.answer || "");
+    wx.switchTab({ url: "/pages/chat/chat" });
+  },
+
+  remove(e) {
+    const id = e.currentTarget.dataset.id;
+    const item = this.data.list.find((f) => f._id === id);
+    if (!item) return;
+    wx.showModal({
+      title: "取消收藏",
+      content: "确定移除这条收藏？",
+      confirmText: "移除",
+      confirmColor: "#a32d2d",
+      success: (res) => {
+        if (!res.confirm) return;
+        wx.showLoading({ title: "移除中", mask: true });
+        wx.cloud
+          .callFunction({ name: "history", data: { action: "favRemove", answerId: item.answerId } })
+          .then((res2) => {
+            const ok = res2 && res2.result && res2.result.ok;
+            if (ok) {
+              this.setData({ list: this.data.list.filter((f) => f._id !== id) });
+            }
+            wx.showToast({ title: ok ? "已移除" : "操作失败", icon: ok ? "success" : "none" });
+          })
+          .catch(() => wx.showToast({ title: "操作失败", icon: "none" }))
+          .then(() => wx.hideLoading());
+      },
+    });
+  },
+
+  onShareAppMessage() {
+    return { title: "向晚问思 · 我的收藏", path: "/pages/favorites/favorites" };
+  },
+});

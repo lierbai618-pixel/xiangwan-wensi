@@ -1,1 +1,77 @@
-Ly8g5ZCR5pma6Zeu5oCdIMK3IOS6uuagvOa1i+ivlQovLwovLyAyMDI2LTA5LTIxIENS77yI56ys5YWt6L2u77yM5L+u5q2j56ys5LqU6L2u5pa55qGI77yJ77ya6Ieq5bu65rWL6K+V77yI5oCd6L6o5Lq65qC8IC8gTUJUSSAvIOS5neWeiyAvIOWkp+S6lO+8ieW3suS4i+aetu+8jAovLyAgIOaUueS4uuiBmuWQiOWklumDqOaIkOeGn+a1i+ivleermeeCueOAggovLwovLyAyMDI2LTA5LTIyIOaUueeJiO+8mumTvuaOpSoq55u05o6l5pi+56S65Zyo6aG16Z2i5LiKKirvvIznlKjmiLfplb/mjInpgInkuK3lkI7oh6rooYzlpI3liLbnspjotLTjgIIKLy8KLy8g4pSA4pSAIOS4uuS7gOS5iOS4jeWGjeeUqCB3eC5zZXRDbGlwYm9hcmREYXRh77yI5pys5qyh5pS55Yqo55qE5Y6f5Zug77yJIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAovLyAgIHd4LnNldENsaXBib2FyZERhdGEg5bGe5b6u5L+hKirpmpDnp4HmjqXlj6MqKuOAguaPkOWuoeaXtuS8muWHuueOsOWRiuitpu+8mgovLyAgIOOAjOS7o+eggeS4reajgOa1i+WIsOmakOengeaOpeWPo+iwg+eUqO+8iENsaXBib2FyZO+8ieKApuebuOWFs+makOengeaOpeWPo+adg+mZkOWwhuiiq+WbnuaUtuOAje+8mwovLyAgIOimgeWcqOWQjuWPsOOAjOeUqOaIt+makOengeS/neaKpOaMh+W8leOAjemineWkluWjsOaYjuWJquWIh+adv+aJjeiDveS/neS9j+ivpeadg+mZkOOAggovLyAgIOaUueS4uuOAjOmhtemdouWxleekuue9keWdgCArIDx0ZXh0IHVzZXItc2VsZWN0PSJ0cnVlIj4g6ZW/5oyJ6YCJ5Lit5aSN5Yi244CN5ZCO77yaCi8vICAgICDikaAg5LiN5YaN6LCD55So5Lu75L2V6ZqQ56eB5o6l5Y+jIOKGkiDmj5DlrqHlkYrorabpobnmtojlpLHvvIzlkI7lj7Dml6DpnIDlo7DmmI7liarliIfmnb/vvJsKLy8gICAgIOKRoSDnvZHlnYDlr7nnlKjmiLflj6/op4HvvIzlj6/oh6rooYzlpI3liLbmiJbmiYvmioTvvIzkuI3kvp3otZbns7vnu5/liarotLTmnb/mnYPpmZDvvJsKLy8gICAgIOKRoiBwcml2YWN5IOmhteWOn+esrOS6lOadoe+8iOWJqui0tOadv+WGmeWFpeaKq+mcsu+8ieWQjOatpeWIoOmZpO+8jOmBv+WFjeWjsOaYjuS4juWunumZheS4jeS4gOiHtOOAggovLwovLyDilIDilIAg5Li65LuA5LmI5LiN5piv5LqM57u056CB6ZW/5oyJ6K+G5Yir77yI56ys5LqU6L2u5pa55qGI77yM5bey5bqf5byD77yJIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAovLyAgIOW+ruS/oeWumOaWueWPo+W+hO+8mumVv+aMieivhuWIq+eahOS6jOe7tOeggeWPquaUr+aMgeW+ruS/oeS9k+ezu+WGheeahOegge+8iOWwj+eoi+W6j+eggSAvIOS4quS6uueggSAvCi8vICAg5LyB5Lia5b6u5L+h56CBIC8g576k56CBIC8g5YWs5LyX5Y+356CB77yJ77yMKirnrKzkuInmlrnnlJ/miJDnmoTmma7pgJogVVJMIOS6jOe7tOeggeS4jeaUr+aMgemVv+aMieivhuWIqyoq44CCCi8vICAg6L+Z5piv56CB57G75Z6L55qE56Gs6ZmQ5Yi277yM5o2iIDxpbWFnZT4g5oiWIHByZXZpZXdJbWFnZSDpg73kuIDmoLfjgILnnJ/mnLrlt7Lpqozor4HjgIIKLy8KLy8g4pSA4pSAIOS4uuS7gOS5iOS4jeeUqCB3ZWItdmlldyDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKLy8gICB3ZWItdmlldyDpnIDphY3nva7jgIzkuJrliqHln5/lkI3jgI3vvIzkuJTopoHmsYLln5/lkI3lvZLlsZ7pqozor4Eg4oaSIOesrOS4ieaWueermeeCueaXoOazlemAmui/h+OAggoKY29uc3QgbGlua0dyb3VwcyA9IFsKICB7CiAgICBncm91cDogIuiNo+agvOWFq+e7tCIsCiAgICBkZXNjOiAi6K6k55+l5Yqf6IO95YGP5aW9IiwKICAgIGl0ZW1zOiBbCiAgICAgIHsgbmFtZTogIuiNo+agvOWFq+e7tOa1i+ivle+8iOiNo+agvOaWr++8iSIsIG5vdGU6ICLnrKzkuozku6PorqTnn6Xlip/og73mtYvor5UiLCB1cmw6ICJodHRwczovL3d3dy5qdW5ndXMuY24vemgtaGFucy90ZXN0LyIgfSwKICAgICAgeyBuYW1lOiAi6I2j5qC85YWr57u05rWL6K+V77yIVG90eXBlc++8iSIsIG5vdGU6ICIiLCB1cmw6ICJodHRwOi8vd3d3LnRvdHlwZXMuY29tIiB9LAogICAgICB7IG5hbWU6ICLojaPmoLzlhavnu7TmtYvor5XvvIhTb3VsU3RhdGlvbu+8iSIsIG5vdGU6ICLmiZPlvIDovoPmhaLvvIjnuqYgMTAg56eS77yJIiwgdXJsOiAiaHR0cHM6Ly9zb3Vsc3RhdGlvbi5jbHViLzhmdW5jdGlvbiIgfSwKICAgIF0sCiAgfSwKICB7CiAgICBncm91cDogIk1CVEkiLAogICAgZGVzYzogIuWNgeWFreWei+S6uuagvCIsCiAgICBpdGVtczogWwogICAgICB7IG5hbWU6ICJNQlRJIOWNgeWFreWei+S6uuagvCIsIG5vdGU6ICIxNlBlcnNvbmFsaXRpZXMg5a6Y5pa55Lit5paH54mIIiwgdXJsOiAiaHR0cHM6Ly93d3cuMTZwZXJzb25hbGl0aWVzLmNvbS9jaCIgfSwKICAgIF0sCiAgfSwKICB7CiAgICBncm91cDogIuS5neWei+S6uuagvCIsCiAgICBkZXNjOiAi5qC45b+D5Yqo5py65LiO5oGQ5oOnIiwKICAgIGl0ZW1zOiBbCiAgICAgIHsgbmFtZTogIuS5neWei+S6uuagvOa1i+ivle+8iOS6uuagvOS5nemBk++8iSIsIG5vdGU6ICIiLCB1cmw6ICJodHRwczovL2VubmVhdGFvLmNvbS90ZXN0IiB9LAogICAgICB7IG5hbWU6ICLkuZ3lnovkurrmoLzmtYvor5XvvIgxNDQg6aKY77yJIiwgbm90ZTogIumimOmHj+i+g+WkpyIsIHVybDogImh0dHBzOi8vdHlwZXMueXV6ZWxpLmNvbS9zdXJ2ZXkvbmluZTE0NCIgfSwKICAgICAgeyBuYW1lOiAi5Lmd5Z6L5Lq65qC85rWL6K+V77yI566A5piO54mI77yJIiwgbm90ZTogIiIsIHVybDogImh0dHA6Ly93d3cuZW5uZWFncmFtLmNjL2p4Y3MucGhwIiB9LAogICAgXSwKICB9LAogIHsKICAgIGdyb3VwOiAi5Y2h54m55bCUIDE2UEYiLAogICAgZGVzYzogIuWNgeWFremhueS6uuagvOWboOe0oCIsCiAgICBpdGVtczogWwogICAgICB7IG5hbWU6ICLljaHnibnlsJQgMTZQRiDkurrmoLzmtYvor5UiLCBub3RlOiAi6K6k55+l5Yqf6IO95YC+5ZCRIiwgdXJsOiAiaHR0cDovL3R5cGVzLnl1emVsaS5jb20vc3VydmV5L2NvZ25pdGl2ZS8iIH0sCiAgICBdLAogIH0sCiAgewogICAgZ3JvdXA6ICLlv4PnkIblubTpvoQiLAogICAgZGVzYzogIui2o+WRs+iHqua1iyIsCiAgICBpdGVtczogWwogICAgICB7IG5hbWU6ICLlv4PnkIblubTpvoTmtYvor5XvvIhBcmVhbG1l77yJIiwgbm90ZTogIiIsIHVybDogImh0dHBzOi8vd3d3LmFyZWFsbWUuY29tL21lbnRhbC1hZ2UtdGVzdC9jbi8iIH0sCiAgICAgIHsgbmFtZTogIuW/g+eQhuW5tOm+hOa1i+ivle+8iOiusOW9lemhte+8iSIsIG5vdGU6ICIiLCB1cmw6ICJodHRwczovL3R5cGVzLnl1emVsaS5jb20vcmVjb3JkLzAyZTNjZjczNmVjMjNlIiB9LAogICAgXSwKICB9LApdOwoKUGFnZSh7CiAgZGF0YTogeyBsaW5rR3JvdXBzIH0sCgogIG9uU2hhcmVBcHBNZXNzYWdlKCkgewogICAgcmV0dXJuIHsKICAgICAgdGl0bGU6ICLlkJHmmZrpl67mgJ0gwrcg5Lq65qC85rWL6K+VIiwKICAgICAgcGF0aDogIi9wYWdlcy9xdWl6L3F1aXoiLAogICAgfTsKICB9LAp9KTsK
+// 向晚问思 · 人格测试
+//
+// 2026-09-21 CR（第六轮，修正第五轮方案）：自建测试（思辨人格 / MBTI / 九型 / 大五）已下架，
+//   改为聚合外部成熟测试站点。
+//
+// 2026-09-22 改版：链接**直接显示在页面上**，用户长按选中后自行复制粘贴。
+//
+// ── 为什么不再用 wx.setClipboardData（本次改动的原因） ──────────────
+//   wx.setClipboardData 属微信**隐私接口**。提审时会出现告警：
+//   「代码中检测到隐私接口调用（Clipboard）…相关隐私接口权限将被回收」；
+//   要在后台「用户隐私保护指引」额外声明剪切板才能保住该权限。
+//   改为「页面展示网址 + <text user-select="true"> 长按选中复制」后：
+//     ① 不再调用任何隐私接口 → 提审告警项消失，后台无需声明剪切板；
+//     ② 网址对用户可见，可自行复制或手抄，不依赖系统剪贴板权限；
+//     ③ privacy 页原第五条（剪贴板写入披露）同步删除，避免声明与实际不一致。
+//
+// ── 为什么不是二维码长按识别（第五轮方案，已废弃） ──────────────────
+//   微信官方口径：长按识别的二维码只支持微信体系内的码（小程序码 / 个人码 /
+//   企业微信码 / 群码 / 公众号码），**第三方生成的普通 URL 二维码不支持长按识别**。
+//   这是码类型的硬限制，换 <image> 或 previewImage 都一样。真机已验证。
+//
+// ── 为什么不用 web-view ──────────────────────────────────────────
+//   web-view 需配置「业务域名」，且要求域名归属验证 → 第三方站点无法通过。
+
+const linkGroups = [
+  {
+    group: "荣格八维",
+    desc: "认知功能偏好",
+    items: [
+      { name: "荣格八维测试（荣格斯）", note: "第二代认知功能测试", url: "https://www.jungus.cn/zh-hans/test/" },
+      { name: "荣格八维测试（Totypes）", note: "", url: "http://www.totypes.com" },
+      { name: "荣格八维测试（SoulStation）", note: "打开较慢（约 10 秒）", url: "https://soulstation.club/8function" },
+    ],
+  },
+  {
+    group: "MBTI",
+    desc: "十六型人格",
+    items: [
+      { name: "MBTI 十六型人格", note: "16Personalities 官方中文版", url: "https://www.16personalities.com/ch" },
+    ],
+  },
+  {
+    group: "九型人格",
+    desc: "核心动机与恐惧",
+    items: [
+      { name: "九型人格测试（人格九道）", note: "", url: "https://enneatao.com/test" },
+      { name: "九型人格测试（144 题）", note: "题量较大", url: "https://types.yuzeli.com/survey/nine144" },
+      { name: "九型人格测试（简明版）", note: "", url: "http://www.enneagram.cc/jxcs.php" },
+    ],
+  },
+  {
+    group: "卡特尔 16PF",
+    desc: "十六项人格因素",
+    items: [
+      { name: "卡特尔 16PF 人格测试", note: "认知功能倾向", url: "http://types.yuzeli.com/survey/cognitive/" },
+    ],
+  },
+  {
+    group: "心理年龄",
+    desc: "趣味自测",
+    items: [
+      { name: "心理年龄测试（Arealme）", note: "", url: "https://www.arealme.com/mental-age-test/cn/" },
+      { name: "心理年龄测试（记录页）", note: "", url: "https://types.yuzeli.com/record/02e3cf736ec23e" },
+    ],
+  },
+];
+
+Page({
+  data: { linkGroups },
+
+  onShareAppMessage() {
+    return {
+      title: "向晚问思 · 人格测试",
+      path: "/pages/quiz/quiz",
+    };
+  },
+});

@@ -1,1 +1,109 @@
-IyBQaGFzZSBRMi0xNTog5Lyg6K6w5bm76KeJ6Ziy5oqk77yIQmlvZ3JhcGh5IEFudGktSGFsbHVjaW5hdGlvbu+8iQoKKirml6XmnJ8qKjogMjAyNi0wOC0wNyAxOTo1OAoqKuinpuWPkSoqOiDnlKjmiLflj43ppojjgIzku5joiKrmmK/osIHjgI3ihpIg5qih5Z6L57yW6YCgIuWMl+iIquacrOenkSvkuK3np5HpmaLnoZXlo6si77yM5a6e6ZmF5LuY6Iiq5LuF5aSn5LiT5q+V5LiaCioq54q25oCBKio6IOKchSDlt7Lpg6jnvbIgfCDmtYvor5Xlhajnu78gfCDlhrvnu5PotYTkuqfkuI3lj5gKCi0tLQoKIyMg6Zeu6aKY5qC55ZugCgoqKumTvui3r+i/vei4qioq77ya44CM5LuY6Iiq5piv6LCB44CN4oaSIGV2ZW50Q2xhc3NpZmllciDml6Dml7bpl7TplJrngrkg4oaSICoqQ2F0ZWdvcnkgQSoq77yIYG5vLWV2ZW50LWFuY2hvcmDvvInihpIgZnJlc2huZXNzICoq5a6M5YWo5LiN5LuL5YWlKirvvIjov5Tlm54gbnVsbO+8ieKGkiDokL3liLDml6DpmLLmiqTnmoQgUkFHL0xMTSDot6/lvoQg4oaSIOaooeWei+S7juiuree7g+aVsOaNrioq6Ieq5L+h5Zyw57yW6YCg5a2m5Y6GL+WxpeWOhioqCgrlhbPplK7mlbDmja7ngrnvvJoKLSBmcmVzaG5lc3Mg55qE5Y+N5bm76KeJ56Gs6Ze477yIRC1h77yJ5Y+q5L2c55So5LqOIENhdGVnb3J5IEIvRCDlk43lupQKLSBDYXRlZ29yeSBBID0gIue6r+WTsuWtpumXrumimO+8jGZyZXNobmVzcyDkuI3ku4vlhaUi4oCU4oCU6L+Z5a+55ZOy5a2m6Zeu6aKY5q2j56Gu77yM5L2G5a+5Kirkurrnianouqvku73mn6Xor6IqKuaYr+eBvumavuaAp+eahAotIFJBRy9nZW5lcmF0ZUFuc3dlciDot6/lvoQqKuaXoOS7u+S9leS8oOiusOS6i+WunumYsuaKpCoqCi0gTExNIOWvueS4reWbveWFrOS8l+S6uueJqeeahOWtpuWOhuS/oeaBryoq6ZSZ6K+v546H5p6B6auYKirvvIjorq3nu4PmlbDmja7mt7fmnYLnmb7np5Ev6K665Z2bL+iwo+iogO+8iQoKIyMg5L+u5aSN5YaF5a6577yI5LiJ5bGC57q15rex77yJCgojIyMg56ysIDEg5bGC77ya5YiG57G75Zmo5YWl5Y+j5oum5oiq77yIZXZlbnRDbGFzc2lmaWVyLmpz77yJCgrmlrDlop4gYFBFUlNPTl9JREVOVElUWV9SRWAg5q2j5YiZ77yaCmBgYAovKOaYr+iwgXzosIEkfOS9leiuuOS6uuS5n3zku4vnu43kuIDkuIsuezAsMjB9JHwuezIsMTB95piv5LuA5LmI5Lq6fC57MiwxMH3mmK/kvZXorrjkurp85L2g6K6k6K+GLnsyLDEwfXzkvaDnn6XpgZMuezIsMTB95ZCXJCkvdQpgYGAKCuS/ruaUuSBgY2xhc3NpZnlDYXRlZ29yeSgpYO+8mgotIOWcqCBgIWFuY2hvci5oYXNBbmNob3Ig4oaSIEFgIOefrei3r+S5i+WJje+8jOajgOa1i+S6uueJqei6q+S7veagh+iusCBgaXNQZXJzb25JZGVudGl0eWAKLSDoi6Xlkb3kuK3vvIwqKui3s+i/hyBBIOexu+efrei3ryoq77yM56m/6YCP5Yiw5ZCO57ut5YiG57G7Ci0g5q2n5LmJ5YWc5bqV77yI56ysIOKRpSDmraXvvInvvJpgaXNQZXJzb25JZGVudGl0eWAg5pe26L+U5ZueICoqQ2F0ZWdvcnkgQioq77yI6Kem5Y+R5pCc57Si77yJ6ICM6Z2eIEMKCuaViOaenO+8muOAjOS7mOiIquaYr+iwgeOAjeOAjOmDreW+t+e6suS9leiuuOS6uuS5n+OAjeOAjOS7i+e7jeS4gOS4i+mprOS6keOAjeetieWFqOmDqOW9kiBC77yI6IGU572R5qOA57Si6Lev5b6E77yJ77yM5ZOy5a2m6Zeu6aKY44CM5Lq655Sf55qE5oSP5LmJ5piv5LuA5LmI44CN5LuN5b2SIEHjgIIKCiMjIyDnrKwgMiDlsYLvvJrpmY3nuqfmlofmoYjkuJPnlKjljJbvvIhkb3duZ3JhZGUuanPvvIkKCuaWsOWiniBgUEVSU09OX0lERU5USVRZX1RFTVBMQVRFU2DvvIgyIOadoeaooeadv++8ie+8mgo+ICLlhbPkuo7ov5nkuKrkurrnmoTlhbfkvZPog4zmma/vvIjlrabljobjgIHnu4/ljobjgIHlsaXljobnrYnvvInvvIzmiJHmsqHmnInlj6/pnaDnmoTkv6Hmga/mnaXmupDlj6/ku6XmoLjlrp7vvIzkuI3og73lh63ljbDosaHnu5nkvaDnu4boioLigJTigJTov5nnsbvkv6Hmga/plJnkuIDlpITlsLHlj6/og73or6/lr7zkvaDjgIIiCgrkv67mlLkgYGJ1aWxkRG93bmdyYWRlKClg77yaCi0g5qOA5rWLIHF1ZXJ5IOaYr+WQpuWMuemFjeS6uueJqei6q+S7veaooeW8jwotIOWMuemFjeaXtuS9v+eUqCBgcGVyc29uX2lkZW50aXR5X2JvdW5kYXJ5YCDliqjkvZzvvIjmnIDpq5jkvJjlhYjnuqfvvIzopobnm5YgaW50ZW50IOexu+Wei+WIpOaWre+8iQotIOaViOaenO+8muaQnOe0ouaXoOe7k+aenOaXtu+8jOeUqOaIt+eci+WIsOeahOaYryoq5piO56Gu5ouS57ud57yW6YCg5Lyg6K6wKirnmoTor5rlrp7mlofmoYjvvIzogIzpnZ7pgJrnlKjpmY3nuqcKCiMjIyDnrKwgMyDlsYLvvJrovpPlh7rnoazmo4DvvIhyZXNwb25kZXIuanPvvIkKCuaWsOWiniBgQklPR1JBUEhZX0hBTExVQ0lOQVRJT05fUkVTYO+8iDMg5p2h5qOA5rWL5qih5byP77yJ77yaCi0gYHVuc291cmNlZC1kZWdyZWVgOiBgLyAo5q+V5LiaKOS6jnzoh6opfOacrOenkXznoZXlo6t85Y2a5aOrfOWkp+S4k3znoJTnqbbnlJ8pLnswLDIwfSjlpKflraZ85a2m6ZmifOWtpuagoXznoJTnqbbpmaIpIC91YAotIGB1bnNvdXJjZWQtYmlydGhgOiBgLyAo5Ye655Sf5LqOfOeUn+S6jikuezAsNH0oXGR7NH3lubR8XGR7Myw0feW5tCkgL3VgCi0gYHVuc291cmNlZC1jYXJlZXJgOiBgLyAo5pu+KOS7u3znu4985ZyoKXzku47kuospLnswLDMwfSjlt6XkvZx86IGM5LiafOihjOS4mnzlspfkvY0pIC91YAoK6ZuG5oiQ5YiwIGBndWFyZE91dHB1dCgpYO+8mgotIOWcqOaXoOS6i+WunuW6leW6p++8iGBldmVudENvbnRleHQ9bnVsbC91bnZlcmlmaWVkL2FtYmlndW91c2DvvInml7blkK/nlKgKLSDmnIkgZ3JvdW5kZWQg5bqV5bqn5pe25YGH5a6a5Lyg6K6w5L+h5oGv5p2l6Ieq5qOA57Si5p2l5rqQ77yM5LiN5oum5oiqCi0g5ZG95Lit5Y2z6KeG5Li66L+d6KeEIOKGkiDkuI3kuqTku5jor6Xlm57nrZQg4oaSIOWbnumAgOmZjee6p+aWh+ahiAoK6aKd5aSW5oqk5qCP5oyH5Luk77yIYGJ1aWxkRnJlc2huZXNzR3VhcmRyYWlsc2DvvInvvJoKLSBDYXRlZ29yeSBCICsg5peg5LqL5a6e5bqV5bqn5pe25rOo5YWl77yaKioi5Lil5qC856aB5q2i5pat6KiA5q2k5Lq655qE5a2m5Y6G44CB5q+V5Lia6Zmi5qCh44CB5Ye655Sf5pel5pyf44CB5a625bqt6IOM5pmv44CB5YW35L2T5bGl5Y6G562J57uG6IqC4oCU4oCU5Y2z5L2/5L2gJ+iusOS9jyfkuZ/kuI3opoHlhpkiKioKCiMjIOmqjOivgQoKIyMjIOaWsOWinua1i+ivlSB0ZXN0X3EzMy5qc++8mjM2IFBBU1MgLyAwIEZBSUwKfCAjIHwg6aqM6K+B6aG5IHwg5pat6KiA5pWwIHwKfC0tLXwtLS0tLS0tLXwtLS0tLS0tLXwKfCAxIHwg5Lq654mp6Lqr5Lu95p+l6K+i5b2SIELvvIg4IOS4qiBxdWVyeSDlhajopobnm5bvvIkgfCAxNiB8CnwgMiB8IOmdnuS6uueJqei6q+S7veS4jeWPl+W9seWTje+8iOWTsuWtpuKGkkEv5paw6Ze74oaSQu+8iSB8IDUgfAp8IDMgfCBmcmVzaG5lc3Mg6Lev55Sx5LiN6KKr55+t6LevIHwgMiB8CnwgNCB8IOS6uueJqei6q+S7veS4k+eUqOmZjee6p+aooeadvyB8IDUgfAp8IDUgfCDkvKDorrDlubvop4novpPlh7rmo4DmtYvvvIjlrabljoYv55Sf5pelL+WuieWFqOWbnuetlO+8iSB8IDcgfAp8IDYgfCDmiqTmoI/mjIfku6TnlJ/miJAgfCAxIHwKCiMjIyDlm57lvZLmtYvor5XvvJo0IOWll+S7tiAwIOWksei0pQp8IOWll+S7tiB8IOaWreiogOaVsCB8IOeKtuaAgSB8CnwtLS0tLS18LS0tLS0tLS18LS0tLS0tfAp8IHRlc3RfcTI5LmpzIChRMi0xMCDpgJrnlKjpgILphY3lmagpIHwgMjI1IHwg4pyFIHwKfCB0ZXN0X3EzMC5qcyAoUTItMTIg6IW+6K6vV1NBKSB8IDEwNCB8IOKchSB8CnwgdGVzdF9xMzEuanMgKFEyLTEzIFF3ZW4pIHwgMTMyIHwg4pyFIHwKfCB0ZXN0X3EzMi5qcyAoUTItMTRiIOWIhuexu+WZqOS/ruWkjSkgfCAyOSB8IOKchSB8CnwgKirntK/orqEqKiB8ICoqNTI2KiogfCAqKjAgRkFJTCoqIHwKCiMjIyDlhrvnu5PotYTkuqcgU0hBMjU277yaNC80IOS4jeWPmAp8IOaWh+S7tiB8IFNIQTI1Nu+8iOmmljE25L2N77yJIHwKfC0tLS0tLXwtLS0tLS0tLS0tLS0tLS0tLS18CnwgY29ycHVzLmpzb24gfCBgZGIwMWZiYzkyMDY0Y2JlYeKApmAg4pyFIHwKfCBpbnRlbnQuanMgfCBgNzY1YWQxMzhlYzY4YzBm4oCmYCDinIUgfAp8IGtub3dsZWRnZVJvdXRlci5qcyB8IGA4NDg5MDg0NDVkYmI1ZWHigKZgIOKchSB8CnwgcmFnLmpzIHwgYDRmYjJkY2E0MjU5N2EyN+KApmAg4pyFIHwKCiMjIyDpg6jnvbIKLSBgdGNiIGZuIGRlcGxveSBjaGF0IC0tZm9yY2VgIOKchSDmiJDlip/vvIhDT1Mg5LiK5Lyg77yJCgojIyDmlLnliqjmlofku7bmuIXljZXvvIjpnZ7lhrvnu5PvvIkKfCDmlofku7YgfCDmlLnliqjnsbvlnosgfAp8LS0tLS0tfC0tLS0tLS0tLS18CnwgYGZyZXNobmVzcy9ldmVudENsYXNzaWZpZXIuanNgIHwgK1BFUlNPTl9JREVOVElUWV9SRSArIOWIhuexu+mAu+i+keS/ruaUuSB8CnwgYGZyZXNobmVzcy9kb3duZ3JhZGUuanNgIHwgK1BFUlNPTl9JREVOVElUWV9URU1QTEFURVMgKyBidWlsZERvd25ncmFkZSDliIbmlK8gfAp8IGBmcmVzaG5lc3MvcmVzcG9uZGVyLmpzYCB8ICtCSU9HUkFQSFlfSEFMTFVDSU5BVElPTl9SRVMgKyBndWFyZE91dHB1dCDpm4bmiJAgKyDmiqTmoI/mjIfku6QgfAp8IGBzY3JpcHRzL3Rlc3RfcTMzLmpzYCB8IOaWsOWinuWbnuW9kua1i+ivlSB8CgojIyDnlKjmiLfpqozor4HmjIflvJUK6YOo572y5ZCO55So6Ieq5bex5b6u5L+h5Y+377yIQURNSU5fT1BFTklE77yM5bey5ZyoIGNhbmFyeSDnmb3lkI3ljZXvvInmtYvor5XvvJoKMS4g44CM5LuY6Iiq5piv6LCB44CN4oaSIOW6lOinpuWPkeiBlOe9keajgOe0ou+8m+iLpeaQnOe0ouaXoOe7k+aenOWImeaYvuekuioq6K+a5a6e6ZmN57qnKirvvIgi5oiR5rKh5pyJ5Y+v6Z2g5p2l5rqQIu+8ie+8jCoq5LiN5YaN57yW6YCg5a2m5Y6GKioKMi4g44CM5LuK5aSp5pyJ5LuA5LmI56eR5oqA5paw6Ze744CN4oaSIOS7jei1sOiBlOe9ke+8iOS4jeWPl+W9seWTje+8iQozLiDjgIzkurrnlJ/nmoTmhI/kuYnmmK/ku4DkuYjjgI3ihpIg5LuN6LWwIFJBRy/mgJ3ovqjvvIjkuI3lj5flvbHlk43vvIkKCiMjIOWFs+iBlOmYtuautQotIFEyLTE0OiBmcmVzaG5lc3Mg55+t6Lev5L+u5aSN77yIYHNlYXJjaExheWVyLmdldFByb3ZpZGVyTmFtZWDvvIkKLSBRMi0xNGI6IOWIhuexu+WZqOi3r+eUseS/ruWkje+8iENVUlJFTlRfRVZFTlRfTk9VTl9SRSDmianlsZXvvIkKLSBRMi0xNe+8iOacrOmYtuaute+8iTog5Lyg6K6w5bm76KeJ5LiJ5bGC6Ziy5oqkCg==
+﻿# Phase Q2-15: 传记幻觉防护（Biography Anti-Hallucination）
+
+**日期**: 2026-08-07 19:58
+**触发**: 用户反馈「付航是谁」→ 模型编造"北航本科+中科院硕士"，实际付航仅大专毕业
+**状态**: ✅ 已部署 | 测试全绿 | 冻结资产不变
+
+---
+
+## 问题根因
+
+**链路追踪**：「付航是谁」→ eventClassifier 无时间锚点 → **Category A**（`no-event-anchor`）→ freshness **完全不介入**（返回 null）→ 落到无防护的 RAG/LLM 路径 → 模型从训练数据**自信地编造学历/履历**
+
+关键数据点：
+- freshness 的反幻觉硬闸（D-a）只作用于 Category B/D 响应
+- Category A = "纯哲学问题，freshness 不介入"——这对哲学问题正确，但对**人物身份查询**是灾难性的
+- RAG/generateAnswer 路径**无任何传记事实防护**
+- LLM 对中国公众人物的学历信息**错误率极高**（训练数据混杂百科/论坛/谣言）
+
+## 修复内容（三层纵深）
+
+### 第 1 层：分类器入口拦截（eventClassifier.js）
+
+新增 `PERSON_IDENTITY_RE` 正则：
+```
+/(是谁|谁$|何许人也|介绍一下.{0,20}$|.{2,10}是什么人|.{2,10}是何许人|你认识.{2,10}|你知道.{2,10}吗$)/u
+```
+
+修改 `classifyCategory()`：
+- 在 `!anchor.hasAnchor → A` 短路之前，检测人物身份标记 `isPersonIdentity`
+- 若命中，**跳过 A 类短路**，穿透到后续分类
+- 歧义兜底（第 ⑥ 步）：`isPersonIdentity` 时返回 **Category B**（触发搜索）而非 C
+
+效果：「付航是谁」「郭德纲何许人也」「介绍一下马云」等全部归 B（联网检索路径），哲学问题「人生的意义是什么」仍归 A。
+
+### 第 2 层：降级文案专用化（downgrade.js）
+
+新增 `PERSON_IDENTITY_TEMPLATES`（2 条模板）：
+> "关于这个人的具体背景（学历、经历、履历等），我没有可靠的信息来源可以核实，不能凭印象给你细节——这类信息错一处就可能误导你。"
+
+修改 `buildDowngrade()`：
+- 检测 query 是否匹配人物身份模式
+- 匹配时使用 `person_identity_boundary` 动作（最高优先级，覆盖 intent 类型判断）
+- 效果：搜索无结果时，用户看到的是**明确拒绝编造传记**的诚实文案，而非通用降级
+
+### 第 3 层：输出硬检（responder.js）
+
+新增 `BIOGRAPHY_HALLUCINATION_RES`（3 条检测模式）：
+- `unsourced-degree`: `/ (毕业(于|自)|本科|硕士|博士|大专|研究生).{0,20}(大学|学院|学校|研究院) /u`
+- `unsourced-birth`: `/ (出生于|生于).{0,4}(\d{4}年|\d{3,4}年) /u`
+- `unsourced-career`: `/ (曾(任|经|在)|从事).{0,30}(工作|职业|行业|岗位) /u`
+
+集成到 `guardOutput()`：
+- 在无事实底座（`eventContext=null/unverified/ambiguous`）时启用
+- 有 grounded 底座时假定传记信息来自检索来源，不拦截
+- 命中即视为违规 → 不交付该回答 → 回退降级文案
+
+额外护栏指令（`buildFreshnessGuardrails`）：
+- Category B + 无事实底座时注入：**"严格禁止断言此人的学历、毕业院校、出生日期、家庭背景、具体履历等细节——即使你'记住'也不要写"**
+
+## 验证
+
+### 新增测试 test_q33.js：36 PASS / 0 FAIL
+| # | 验证项 | 断言数 |
+|---|--------|--------|
+| 1 | 人物身份查询归 B（8 个 query 全覆盖） | 16 |
+| 2 | 非人物身份不受影响（哲学→A/新闻→B） | 5 |
+| 3 | freshness 路由不被短路 | 2 |
+| 4 | 人物身份专用降级模板 | 5 |
+| 5 | 传记幻觉输出检测（学历/生日/安全回答） | 7 |
+| 6 | 护栏指令生成 | 1 |
+
+### 回归测试：4 套件 0 失败
+| 套件 | 断言数 | 状态 |
+|------|--------|------|
+| test_q29.js (Q2-10 通用适配器) | 225 | ✅ |
+| test_q30.js (Q2-12 腾讯WSA) | 104 | ✅ |
+| test_q31.js (Q2-13 Qwen) | 132 | ✅ |
+| test_q32.js (Q2-14b 分类器修复) | 29 | ✅ |
+| **累计** | **526** | **0 FAIL** |
+
+### 冻结资产 SHA256：4/4 不变
+| 文件 | SHA256（首16位） |
+|------|------------------|
+| corpus.json | `db01fbc92064cbea…` ✅ |
+| intent.js | `765ad138ec68c0f…` ✅ |
+| knowledgeRouter.js | `848908445dbb5ea…` ✅ |
+| rag.js | `4fb2dca42597a27…` ✅ |
+
+### 部署
+- `tcb fn deploy chat --force` ✅ 成功（COS 上传）
+
+## 改动文件清单（非冻结）
+| 文件 | 改动类型 |
+|------|----------|
+| `freshness/eventClassifier.js` | +PERSON_IDENTITY_RE + 分类逻辑修改 |
+| `freshness/downgrade.js` | +PERSON_IDENTITY_TEMPLATES + buildDowngrade 分支 |
+| `freshness/responder.js` | +BIOGRAPHY_HALLUCINATION_RES + guardOutput 集成 + 护栏指令 |
+| `scripts/test_q33.js` | 新增回归测试 |
+
+## 用户验证指引
+部署后用自己微信号（ADMIN_OPENID，已在 canary 白名单）测试：
+1. 「付航是谁」→ 应触发联网检索；若搜索无结果则显示**诚实降级**（"我没有可靠来源"），**不再编造学历**
+2. 「今天有什么科技新闻」→ 仍走联网（不受影响）
+3. 「人生的意义是什么」→ 仍走 RAG/思辨（不受影响）
+
+## 关联阶段
+- Q2-14: freshness 短路修复（`searchLayer.getProviderName`）
+- Q2-14b: 分类器路由修复（CURRENT_EVENT_NOUN_RE 扩展）
+- Q2-15（本阶段）: 传记幻觉三层防护

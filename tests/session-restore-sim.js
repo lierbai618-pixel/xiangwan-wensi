@@ -1,1 +1,127 @@
-Ly8g5Lya6K+d5oGi5aSN6ZO+6Lev5qih5ouf5rWL6K+V77yI56a757q/77yM5peg6ZyA5LqR546v5aKD77yJCi8vIOWkjeWIuyBjaGF0LmpzIOeahOOAjOWPkemAgSDihpIg5omT5a2X5py6IOKGkiDmjIHkuYXljJYg4oaSIOWIh+aNouS8muivnSDihpIg5oGi5aSN44CN5YWo6ZO+6Lev77yMCi8vIOWvueavlOS/ruWkjeWJjeWQjuWGmeWFpeS6keerr+eahCBhc3Npc3RhbnQg5YaF5a6577yM6aqM6K+B44CM5Zue562U5raI5aSx44CNQnVnIOW3sua2iOmZpOOAggovLwovLyDov5DooYzvvJpub2RlIHdlYXBwL3Rlc3RzL3Nlc3Npb24tcmVzdG9yZS1zaW0uanMKCi8vIC0tLS0g5qih5ouf5b6u5L+h5bCP56iL5bqPIFBhZ2Ug55qEIGRhdGEgKyBzZXREYXRh77yI5ZCr5pWw5o2u6Lev5b6E6K+t5LmJ77yJLS0tLQpmdW5jdGlvbiBjcmVhdGVQYWdlKGluaXRpYWxEYXRhKSB7CiAgcmV0dXJuIHsKICAgIGRhdGE6IEpTT04ucGFyc2UoSlNPTi5zdHJpbmdpZnkoaW5pdGlhbERhdGEpKSwKICAgIF9yYXdSZWZzOiBudWxsLAogICAgc2V0RGF0YShwYXRjaCkgewogICAgICBPYmplY3Qua2V5cyhwYXRjaCkuZm9yRWFjaCgoa2V5KSA9PiB7CiAgICAgICAgY29uc3QgbSA9IGtleS5tYXRjaCgvXm1lc3NhZ2VzXFsoXGQrKVxdXC4oXHcrKSQvKTsKICAgICAgICBpZiAobSkgewogICAgICAgICAgLy8g4piFIOWwj+eoi+W6j+ecn+WunuivreS5ie+8muaMiei3r+W+hOWGmeWFpSB0aGlzLmRhdGHvvIznrYnlkIzkuo7kv67mlLnor6Xlr7nosaHmnKzouqsKICAgICAgICAgIHRoaXMuZGF0YS5tZXNzYWdlc1tOdW1iZXIobVsxXSldW21bMl1dID0gcGF0Y2hba2V5XTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgdGhpcy5kYXRhW2tleV0gPSBwYXRjaFtrZXldOwogICAgICAgIH0KICAgICAgfSk7CiAgICB9LAogIH07Cn0KCmNvbnN0IEZVTExfQU5TV0VSID0KICAi44CQ55CG6Kej44CR5L2g5oOz5byE5riF5qWa56S+5Lya5piv5oCO5LmI5b2i5oiQ55qE77yM6L+Z5piv5Liq5b6I5qC55pys55qE6Zeu6aKY44CCXG5cbiIgKwogICLjgJDliIbmnpDjgJHjgIrlpKflrabjgIvnu5nnmoTmmK/kuIDmnaHnlLHlhoXogIzlpJbnmoTnlJ/miJDot6/lvoTvvJrkv67ouqvihpLpvZDlrrbihpLmsrvlm73ihpLlubPlpKnkuIvjgIJcblxuIiArCiAgIuOAkOihjOWKqOOAkeWPr+S7peWFiOinguWvn+S9oOi6q+i+ueacgOWwj+eahOWFseWQjOS9k+aYr+mdoOS7gOS5iOe7tOezu+eahOOAglxuXG4iICsKICAi44CQ57uP5YW444CR44CK5aSn5a2m44CLwrfnu4/vvJrlj6TkuYvmrLLmmI7mmI7lvrfkuo7lpKnkuIvogIXvvIzlhYjmsrvlhbblm73igKbigKZcblxuIiArCiAgIuOAkOaAneiAg+OAkeWmguaenOenqeW6j+adpeiHquavj+S4quS6uueahOiHquaIkee6puadn++8jOmCo+e6puadn+eahOi+ueeVjOivpeeUseiwgeadpeWumu+8nyI7CgovLyAtLS0tIOS6keerr+S8muivneWtmOWCqO+8iOaooeaLnyBjb252ZXJzYXRpb25zIOmbhuWQiO+8iS0tLS0KY29uc3QgY2xvdWREQiA9IHt9OwpmdW5jdGlvbiBoaXN0b3J5QXBwZW5kKGNpZCwgdXNlck1zZywgYXNzaXN0YW50TXNnKSB7CiAgLy8g5aSN5Yi7IGhpc3Rvcnkg5LqR5Ye95pWw55qEIG5vcm1hbGl6ZU1lc3NhZ2UgKyDnqbrlhoXlrrnlrojljasKICBjb25zdCBub3JtID0gKG0pID0+IHsKICAgIGNvbnN0IGJhc2UgPSB7CiAgICAgIHJvbGU6IG0ucm9sZSwKICAgICAgY29udGVudDogU3RyaW5nKG0uY29udGVudCA9PSBudWxsID8gIiIgOiBtLmNvbnRlbnQpLAogICAgICBjcmVhdGVkQXQ6IG0uY3JlYXRlZEF0IHx8IG5ldyBEYXRlKCkudG9JU09TdHJpbmcoKSwKICAgICAgY2l0YXRpb25zOiBBcnJheS5pc0FycmF5KG0uY2l0YXRpb25zKSA/IG0uY2l0YXRpb25zIDogW10sCiAgICB9OwogICAgaWYgKG0ucm9sZSA9PT0gImFzc2lzdGFudCIpIHsKICAgICAgYmFzZS5hbnN3ZXJJZCA9IG0uYW5zd2VySWQgfHwgIiI7CiAgICAgIGJhc2UubW9kZSA9IG0ubW9kZSB8fCAiIjsKICAgICAgYmFzZS5tb2RlTGFiZWwgPSBtLm1vZGVMYWJlbCB8fCAiIjsKICAgICAgYmFzZS5tb2RlbFVzZWQgPSBtLm1vZGVsVXNlZCB8fCAiIjsKICAgICAgYmFzZS5yb3V0ZSA9IG0ucm91dGUgfHwgbnVsbDsKICAgIH0KICAgIHJldHVybiBiYXNlOwogIH07CiAgY29uc3QgYSA9IG5vcm0oYXNzaXN0YW50TXNnKTsKICBpZiAoIWEuY29udGVudC50cmltKCkpIHJldHVybiB7IG9rOiBmYWxzZSwgZXJyb3I6ICLlm57nrZTlhoXlrrnkuLrnqbrvvIzmnKrlhpnlhaXljoblj7LjgIIiIH07CiAgY2xvdWREQltjaWRdID0gKGNsb3VkREJbY2lkXSB8fCBbXSkuY29uY2F0KFtub3JtKHVzZXJNc2cpLCBhXSk7CiAgcmV0dXJuIHsgb2s6IHRydWUsIHRvdGFsOiBjbG91ZERCW2NpZF0ubGVuZ3RoIH07Cn0KZnVuY3Rpb24gaGlzdG9yeUxvYWQoY2lkKSB7CiAgcmV0dXJuIHsgb2s6IHRydWUsIG1lc3NhZ2VzOiBjbG91ZERCW2NpZF0gfHwgW10gfTsKfQoKLy8gLS0tLSB0eXBld3JpdGVy77yI5LiOIGNoYXQuanMg5LiA6Ie077yM6aaW5bin5ZCM5q2l5omn6KGM77yJLS0tLQpmdW5jdGlvbiB0eXBld3JpdGVyRmlyc3RGcmFtZShwYWdlLCBhc3Npc3RhbnRNc2cpIHsKICBjb25zdCBmdWxsID0gYXNzaXN0YW50TXNnLmNvbnRlbnQgfHwgIiI7CiAgY29uc3QgaWR4ID0gcGFnZS5kYXRhLm1lc3NhZ2VzLmZpbmRJbmRleCgobSkgPT4gbS5pZCA9PT0gYXNzaXN0YW50TXNnLmlkKTsKICBpZiAoaWR4IDwgMCkgcmV0dXJuOwogIHBhZ2Uuc2V0RGF0YSh7CiAgICBbIm1lc3NhZ2VzWyIgKyBpZHggKyAiXS5jb250ZW50Il06IGZ1bGwuc2xpY2UoMCwgMSksCiAgICBbIm1lc3NhZ2VzWyIgKyBpZHggKyAiXS5fdHlwaW5nIl06IHRydWUsCiAgfSk7Cn0KCmZ1bmN0aW9uIHJ1blNjZW5hcmlvKGxhYmVsLCBvcmRlckZpeGVkKSB7CiAgY29uc3QgY2lkID0gImNvbnYtQS0iICsgKG9yZGVyRml4ZWQgPyAiZml4ZWQiIDogImJ1Z2d5Iik7CiAgY29uc3QgdXNlck1zZyA9IHsgaWQ6ICJ1LTEiLCByb2xlOiAidXNlciIsIGNvbnRlbnQ6ICLnpL7kvJrmmK/mgI7kuYjlvaLmiJDnmoQiLCBjaXRhdGlvbnM6IFtdIH07CiAgY29uc3QgZnVsbEFuc3dlciA9IEZVTExfQU5TV0VSOwogIGNvbnN0IGFzc2lzdGFudE1zZyA9IHsKICAgIGlkOiAiYS0xIiwKICAgIHJvbGU6ICJhc3Npc3RhbnQiLAogICAgY29udGVudDogZnVsbEFuc3dlciwKICAgIGNpdGF0aW9uczogW3sgdGl0bGU6ICLlpKflraYiLCBzZWN0aW9uOiAi57uPIiwgdGV4dDogIuWPpOS5i+assuaYjuaYjuW+t+S6juWkqeS4i+iAheKApuKApiIgfV0sCiAgICBhbnN3ZXJJZDogIjIwMjYwNzMxX3gxYTIiLAogICAgX21vZGU6ICJtb2RlbCIsCiAgICBfcmVxTW9kZUxhYmVsOiAi5pmu6YCa6Kej6YeKIiwKICB9OwoKICBjb25zdCBwYWdlID0gY3JlYXRlUGFnZSh7IG1lc3NhZ2VzOiBbXSB9KTsKICBwYWdlLmRhdGEubWVzc2FnZXMgPSBbdXNlck1zZywgYXNzaXN0YW50TXNnXTsKCiAgbGV0IGFwcGVuZGVkOwogIGlmIChvcmRlckZpeGVkKSB7CiAgICAvLyDkv67lpI3lkI7vvJrlhYjnlKjlrozmlbTlv6vnhafmjIHkuYXljJbvvIzlho3lkK/liqjmiZPlrZfmnLoKICAgIGFwcGVuZGVkID0gaGlzdG9yeUFwcGVuZChjaWQsIHVzZXJNc2csIE9iamVjdC5hc3NpZ24oe30sIGFzc2lzdGFudE1zZywgeyBjb250ZW50OiBmdWxsQW5zd2VyIH0pKTsKICAgIHR5cGV3cml0ZXJGaXJzdEZyYW1lKHBhZ2UsIGFzc2lzdGFudE1zZyk7CiAgfSBlbHNlIHsKICAgIC8vIOS/ruWkjeWJje+8muWFiOaJk+Wtl+acuu+8iOaUueWGmeS6hiBhc3Npc3RhbnRNc2cuY29udGVudO+8ie+8jOWGjeaMgeS5heWMlgogICAgdHlwZXdyaXRlckZpcnN0RnJhbWUocGFnZSwgYXNzaXN0YW50TXNnKTsKICAgIGFwcGVuZGVkID0gaGlzdG9yeUFwcGVuZChjaWQsIHVzZXJNc2csIGFzc2lzdGFudE1zZyk7CiAgfQoKICAvLyDliIfmjaLliLDliKvnmoTkvJror53lho3liIflm57mnaUg4oaSIOmHjeaWsCBsb2FkCiAgY29uc3QgbG9hZGVkID0gaGlzdG9yeUxvYWQoY2lkKTsKICBjb25zdCByZXN0b3JlZEFzc2lzdGFudCA9IGxvYWRlZC5tZXNzYWdlcy5maWx0ZXIoKG0pID0+IG0ucm9sZSA9PT0gImFzc2lzdGFudCIpOwoKICBjb25zb2xlLmxvZygiXG49PT09PSAiICsgbGFiZWwgKyAiID09PT09Iik7CiAgY29uc29sZS5sb2coIiAg5YaZ5YWl57uT5p6cICAgICAgICAgOiIsIGFwcGVuZGVkLm9rID8gIuW3suWGmeWFpSIgOiAi6KKr5ouS57ud77yIIiArIGFwcGVuZGVkLmVycm9yICsgIu+8iSIpOwogIGNvbnNvbGUubG9nKCIgIOaBouWkjea2iOaBr+aAu+aVsCAgICAgOiIsIGxvYWRlZC5tZXNzYWdlcy5sZW5ndGgpOwogIGNvbnNvbGUubG9nKCIgIOaBouWkjSBhc3Npc3RhbnQg5pWwOiIsIHJlc3RvcmVkQXNzaXN0YW50Lmxlbmd0aCk7CiAgY29uc3QgY29udGVudCA9IHJlc3RvcmVkQXNzaXN0YW50WzBdID8gcmVzdG9yZWRBc3Npc3RhbnRbMF0uY29udGVudCA6ICIiOwogIGNvbnNvbGUubG9nKCIgIOaBouWkjeWbnuetlOmVv+W6piAgICAgOiIsIGNvbnRlbnQubGVuZ3RoLCAi77yI5Y6f5paHIiwgZnVsbEFuc3dlci5sZW5ndGgsICLlrZfvvIkiKTsKICBjb25zb2xlLmxvZygiICDmgaLlpI3lm57nrZTpooTop4ggICAgIDoiLCBKU09OLnN0cmluZ2lmeShjb250ZW50LnNsaWNlKDAsIDMwKSkgKyAoY29udGVudC5sZW5ndGggPiAzMCA/ICIuLi4iIDogIiIpKTsKICBjb25zb2xlLmxvZygiICBhbnN3ZXJJZCDkv53nlZkgICAgOiIsIHJlc3RvcmVkQXNzaXN0YW50WzBdID8gcmVzdG9yZWRBc3Npc3RhbnRbMF0uYW5zd2VySWQgfHwgIijml6ApIiA6ICIo5pegKSIpOwogIGNvbnNvbGUubG9nKCIgIGNyZWF0ZWRBdCDkv53nlZkgICA6IiwgcmVzdG9yZWRBc3Npc3RhbnRbMF0gPyAhIXJlc3RvcmVkQXNzaXN0YW50WzBdLmNyZWF0ZWRBdCA6IGZhbHNlKTsKICBjb25zb2xlLmxvZygiICDlvJXnlKjmnaXmupDkv53nlZkgICAgIDoiLCByZXN0b3JlZEFzc2lzdGFudFswXSA/IChyZXN0b3JlZEFzc2lzdGFudFswXS5jaXRhdGlvbnMgfHwgW10pLmxlbmd0aCA6IDApOwogIGNvbnN0IHBhc3MgPSBjb250ZW50ID09PSBmdWxsQW5zd2VyOwogIGNvbnNvbGUubG9nKCIgIOWIpOWumiAgICAgICAgICAgICA6IiwgcGFzcyA/ICLinIUg5Zue562U5a6M5pW05oGi5aSNIiA6ICLinYwg5Zue562U5Lii5aSxL+aIquaWrSIpOwogIHJldHVybiBwYXNzOwp9Cgpjb25zb2xlLmxvZygi5Lya6K+d5oGi5aSN6ZO+6Lev5qih5ouf5rWL6K+VIOKAlOKAlCDlnLrmma/vvJpB5Lya6K+d5o+Q6ZeuIOKGkiDliIfotbAg4oaSIOWIh+WbniIpOwpjb25zdCBidWdneSA9IHJ1blNjZW5hcmlvKCLkv67lpI3liY3vvIhhcHBlbmQg5ZyoIHR5cGV3cml0ZXIg5LmL5ZCO77yJIiwgZmFsc2UpOwpjb25zdCBmaXhlZCA9IHJ1blNjZW5hcmlvKCLkv67lpI3lkI7vvIjlhYjlv6vnhafmjIHkuYXljJbvvIzlho3miZPlrZfmnLrvvIkiLCB0cnVlKTsKCmNvbnNvbGUubG9nKCJcbj09PT09IOe7k+iuuiA9PT09PSIpOwpjb25zb2xlLmxvZygi5L+u5aSN5YmNOiIsIGJ1Z2d5ID8gIumAmui/hyIgOiAi5aSN546w5LqG44CMQUnlm57nrZTmtojlpLHjgI1CdWciKTsKY29uc29sZS5sb2coIuS/ruWkjeWQjjoiLCBmaXhlZCA/ICLpgJrov4fvvIzlm57nrZTlrozmlbTmgaLlpI0iIDogIuS7jeaciemXrumimCIpOwpwcm9jZXNzLmV4aXQoZml4ZWQgPyAwIDogMSk7Cg==
+// 会话恢复链路模拟测试（离线，无需云环境）
+// 复刻 chat.js 的「发送 → 打字机 → 持久化 → 切换会话 → 恢复」全链路，
+// 对比修复前后写入云端的 assistant 内容，验证「回答消失」Bug 已消除。
+//
+// 运行：node weapp/tests/session-restore-sim.js
+
+// ---- 模拟微信小程序 Page 的 data + setData（含数据路径语义）----
+function createPage(initialData) {
+  return {
+    data: JSON.parse(JSON.stringify(initialData)),
+    _rawRefs: null,
+    setData(patch) {
+      Object.keys(patch).forEach((key) => {
+        const m = key.match(/^messages\[(\d+)\]\.(\w+)$/);
+        if (m) {
+          // ★ 小程序真实语义：按路径写入 this.data，等同于修改该对象本身
+          this.data.messages[Number(m[1])][m[2]] = patch[key];
+        } else {
+          this.data[key] = patch[key];
+        }
+      });
+    },
+  };
+}
+
+const FULL_ANSWER =
+  "【理解】你想弄清楚社会是怎么形成的，这是个很根本的问题。\n\n" +
+  "【分析】《大学》给的是一条由内而外的生成路径：修身→齐家→治国→平天下。\n\n" +
+  "【行动】可以先观察你身边最小的共同体是靠什么维系的。\n\n" +
+  "【经典】《大学》·经：古之欲明明德于天下者，先治其国……\n\n" +
+  "【思考】如果秩序来自每个人的自我约束，那约束的边界该由谁来定？";
+
+// ---- 云端会话存储（模拟 conversations 集合）----
+const cloudDB = {};
+function historyAppend(cid, userMsg, assistantMsg) {
+  // 复刻 history 云函数的 normalizeMessage + 空内容守卫
+  const norm = (m) => {
+    const base = {
+      role: m.role,
+      content: String(m.content == null ? "" : m.content),
+      createdAt: m.createdAt || new Date().toISOString(),
+      citations: Array.isArray(m.citations) ? m.citations : [],
+    };
+    if (m.role === "assistant") {
+      base.answerId = m.answerId || "";
+      base.mode = m.mode || "";
+      base.modeLabel = m.modeLabel || "";
+      base.modelUsed = m.modelUsed || "";
+      base.route = m.route || null;
+    }
+    return base;
+  };
+  const a = norm(assistantMsg);
+  if (!a.content.trim()) return { ok: false, error: "回答内容为空，未写入历史。" };
+  cloudDB[cid] = (cloudDB[cid] || []).concat([norm(userMsg), a]);
+  return { ok: true, total: cloudDB[cid].length };
+}
+function historyLoad(cid) {
+  return { ok: true, messages: cloudDB[cid] || [] };
+}
+
+// ---- typewriter（与 chat.js 一致，首帧同步执行）----
+function typewriterFirstFrame(page, assistantMsg) {
+  const full = assistantMsg.content || "";
+  const idx = page.data.messages.findIndex((m) => m.id === assistantMsg.id);
+  if (idx < 0) return;
+  page.setData({
+    ["messages[" + idx + "].content"]: full.slice(0, 1),
+    ["messages[" + idx + "]._typing"]: true,
+  });
+}
+
+function runScenario(label, orderFixed) {
+  const cid = "conv-A-" + (orderFixed ? "fixed" : "buggy");
+  const userMsg = { id: "u-1", role: "user", content: "社会是怎么形成的", citations: [] };
+  const fullAnswer = FULL_ANSWER;
+  const assistantMsg = {
+    id: "a-1",
+    role: "assistant",
+    content: fullAnswer,
+    citations: [{ title: "大学", section: "经", text: "古之欲明明德于天下者……" }],
+    answerId: "20260731_x1a2",
+    _mode: "model",
+    _reqModeLabel: "普通解释",
+  };
+
+  const page = createPage({ messages: [] });
+  page.data.messages = [userMsg, assistantMsg];
+
+  let appended;
+  if (orderFixed) {
+    // 修复后：先用完整快照持久化，再启动打字机
+    appended = historyAppend(cid, userMsg, Object.assign({}, assistantMsg, { content: fullAnswer }));
+    typewriterFirstFrame(page, assistantMsg);
+  } else {
+    // 修复前：先打字机（改写了 assistantMsg.content），再持久化
+    typewriterFirstFrame(page, assistantMsg);
+    appended = historyAppend(cid, userMsg, assistantMsg);
+  }
+
+  // 切换到别的会话再切回来 → 重新 load
+  const loaded = historyLoad(cid);
+  const restoredAssistant = loaded.messages.filter((m) => m.role === "assistant");
+
+  console.log("\n===== " + label + " =====");
+  console.log("  写入结果         :", appended.ok ? "已写入" : "被拒绝（" + appended.error + "）");
+  console.log("  恢复消息总数     :", loaded.messages.length);
+  console.log("  恢复 assistant 数:", restoredAssistant.length);
+  const content = restoredAssistant[0] ? restoredAssistant[0].content : "";
+  console.log("  恢复回答长度     :", content.length, "（原文", fullAnswer.length, "字）");
+  console.log("  恢复回答预览     :", JSON.stringify(content.slice(0, 30)) + (content.length > 30 ? "..." : ""));
+  console.log("  answerId 保留    :", restoredAssistant[0] ? restoredAssistant[0].answerId || "(无)" : "(无)");
+  console.log("  createdAt 保留   :", restoredAssistant[0] ? !!restoredAssistant[0].createdAt : false);
+  console.log("  引用来源保留     :", restoredAssistant[0] ? (restoredAssistant[0].citations || []).length : 0);
+  const pass = content === fullAnswer;
+  console.log("  判定             :", pass ? "✅ 回答完整恢复" : "❌ 回答丢失/截断");
+  return pass;
+}
+
+console.log("会话恢复链路模拟测试 —— 场景：A会话提问 → 切走 → 切回");
+const buggy = runScenario("修复前（append 在 typewriter 之后）", false);
+const fixed = runScenario("修复后（先快照持久化，再打字机）", true);
+
+console.log("\n===== 结论 =====");
+console.log("修复前:", buggy ? "通过" : "复现了「AI回答消失」Bug");
+console.log("修复后:", fixed ? "通过，回答完整恢复" : "仍有问题");
+process.exit(fixed ? 0 : 1);

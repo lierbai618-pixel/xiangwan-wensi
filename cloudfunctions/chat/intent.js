@@ -1,1 +1,292 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIOaEj+WbvueQhuino+Wxgu+8iEludGVudCBMYXllcu+8iQovLyAgIOS9jee9ru+8mueUqOaIt+mXrumimCDihpIg44CQ5pys5qih5Z2X44CRIOKGkiDmmK/lkKbpnIDopoHnn6Xor4blop7lvLog4oaSIFJBRyDihpIgTExNIOe7vOWQiOeUn+aIkAovLwovLyAgIOWKqOacuu+8muWNh+e6p+WJjeeahOmTvui3r+aYr+OAjOmXrumimCDihpIgUkFHIOKGkiDnu4/lhbjlm57nrZTjgI3vvIzku7vkvZXpl67popjpg73ooqvlvLrooYzlpZfkuIrnu4/lhbjvvIwKLy8gICDkuo7mmK/jgIxQeXRob24g55qEIGxpc3Qg5ZKMIHR1cGxlIOacieS7gOS5iOWMuuWIq+OAjeS5n+S8muiiq+OAiuiuuuivreOAi+W8gOWktO+8jOetlOmdnuaJgOmXruOAggovLyAgIOWNh+e6p+WQjueUseacrOaooeWdl+WFiOWIpOaWremXrumimOexu+Wei++8jOWGjeWGs+WumuaYr+WQpuiwg+eUqOefpeivhuW6k+OAgeeUqOWTquenjeWbnuetlOagvOW8j+OAggovLwovLyAgIOiuvuiuoee6puadn++8mgovLyAgIMK3IOe6r+WHveaVsOOAgembtuS+nei1lu+8iOS4jSByZXF1aXJlIHJhZy5qc++8jOmBv+WFjeW+queOr+W8leeUqO+8ie+8jOWPr+emu+e6v+WNlea1i+OAggovLyAgIMK3IOWPquWBmuOAjOWIhuexu+OAje+8jOS4jeWBmuOAjOWbnuetlOOAje+8m+WIhuexu+e7k+aenOeUsSByYWcuanMg5raI6LS544CCCi8vICAgwrcg5Yik5a6a6aG65bqP5Y2z5LyY5YWI57qn77yM5Y2x5py65L+h5Y+35rC46L+c5pyA6auY44CCCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQoKLy8gLS0tLS0tLS0tLSDljbHmnLrkv6Hlj7fvvJrmnIDpq5jkvJjlhYjnuqfvvIzlkb3kuK3lkI7ot7Pov4fkuIDliIfnn6Xor4blop7lvLogLS0tLS0tLS0tLQpjb25zdCBDUklTSVNfUkUgPSAvKOiHquadgHzmg7Pmrbt85LiN5oOz5rS7fOa0u+S4jeS4i+WOu3zovbvnlJ9857uT5p2f55Sf5ZG9fOS8pOWus+iHquW3sXzoh6rmrot85Ymy6IWVfOi3s+alvHzlronnnKDoja/oh6rlsL185p2A5LqG5LuWfOWQjOW9kuS6juWwvSkvdTsKCi8vIC0tLS0tLS0tLS0g5oOF57uq5L+h5Y+377ya5ZG95Lit5Y2z6LWw44CM5oOF57uq5pSv5oyB44CN77yM5YWx5oOF5LyY5YWIIC0tLS0tLS0tLS0KY29uc3QgRU1PVElPTl9SRSA9IC8o54Sm6JmRfOaKkemDgXxlbW985bSp5rqDfOmavuWPl3zpmr7ov4d85oOz5ZOtfOeXm+iLpnznu53mnJt85rKu5LinfOWnlOWxiHzmhKTmgJJ855Sf5rCUfOeDpui6gXzlhoXogJd85Y6L5Yqb5aSnfOWOi+WKm3zllpjkuI3ov4fmsJR85pKR5LiN5L2PfOaSkeS4jeS4i+WOu3zlpb3ntK985b6I57SvfOeWsuaDq3zml6Dlipt85a2k54usfOWvguWvnnzlrrPmgJV85oGQ5oOnfOS4jeWuiXzmhYx86Ieq5Y2RfOWkseecoHzog6HmgJ3kubHmg7N85o+Q5LiN6LW35YW06LajfOayoeWKqOWKm3zkuIDkuovml6DmiJB86LWw5LiN5Ye65p2lfOmFjeS4jeS4inzkuI3mg7PkuIrnj6185b+D57SvfOW/g+aFjHzng6Z85LinfOS9juiQvXzljovmipF856m66JmafOm6u+acqHzmj5DkuI3otbflirJ85LiN5aaC5Yir5Lq6fOavlOS4jeS4inzlv4PloLV85aC15b6X5oWMfOS/seeWsnzouqvlv4Pkv7HnlrJ85LiN54ix5oiRfOayoeWuieWFqOaEn3zooqvlhrfokL0pL3U7CgovLyAtLS0tLS0tLS0tIOingueCueiuqOiuuu+8mueUqOaIt+WcqOW+geivoueci+azleiAjOmdnuimgeagh+WHhuetlOahiCAtLS0tLS0tLS0tCmNvbnN0IE9QSU5JT05fUkUgPSAvKOS9oOaAjuS5iOeci3zkvaDop4nlvpd85L2g6K6k5Li6fOWmguS9leeci+W+hXzmgI7kuYjnnIvlvoV85pyJ5LuA5LmI55yL5rOVfOS9oOaUr+aMgXzkvaDotZ7lkIx86LCI6LCI5L2g55qEfOivtOivtOS9oOeahOeci+azlSkvdTsKCi8vIC0tLS0tLS0tLS0g5oq96LGh6L+96ZeuIHZzIOS4quS6uuWAvuiviSAtLS0tLS0tLS0tCi8vICAg44CM5Lq65Li65LuA5LmI5Lya55eb6Ium77yf44CN5piv5ZOy5a2m6L+96Zeu77yM44CM5oiR5b6I55eb6Ium44CN5piv5oOF57uq5YC+6K+J44CCCi8vICAg5Lik6ICF6YO95ZCr5oOF57uq6K+N77yM5L2G6ZyA6KaB5a6M5YWo5LiN5ZCM55qE5Zue562U5pa55byP77ya5YmN6ICF6KaB5aSa6KeS5bqm5YiG5p6Q77yM5ZCO6ICF6KaB5YWI5YWx5oOF44CCCi8vICAg5Yik5o2u77ya5Ye6546w5oq96LGh6L+96Zeu5Y+l5byP5LiU5rKh5pyJ56ys5LiA5Lq656ew77yM5bCx5LiN5oyJ5oOF57uq5aSE55CG44CCCmNvbnN0IFBFUlNPTkFMX1JFID0gLyjmiJF86Ieq5bexfOWSsXzkv7p85pys5Lq6KS91Owpjb25zdCBBQlNUUkFDVF9BU0tfUkUgPSAvKOS6uuS4uuS7gOS5iHzkurrku6zkuLrku4DkuYh85Lq657G75Li65LuA5LmIfOS4uuS7gOS5iOS6unzku4DkuYjmmK9855qE5pys6LSofOaEj+WRs+edgOS7gOS5iHzku47kvZXogIzmnaV85aaC5L2V5a6a5LmJKS91OwoKLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIOmihuWfn+ivhuWIq++8iGRvbWFpbu+8iQovLyAgIOmhuuW6j+aVj+aEn++8muWFiOWRveS4reeahOS8mOWFiOOAguWTsuWtpuS4k+WQjeW/hemhu+aOkuWcqOOAjOS7gOS5iOaYryBYWOOAjei/meexu+efpeivhuWPpeW8j+S5i+WJje+8jAovLyAgIOWQpuWImeOAjOS7gOS5iOaYr+S7ge+8n+OAjeS8muiiq+WIpOaIkOefpeivhuWSqOivouiAjOi3s+i/h+efpeivhuW6k+OAggovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KY29uc3QgRE9NQUlOX1JVTEVTID0gWwogIHsKICAgIGtleTogIuWTsuWtpiIsCiAgICAvLyDmgJ3mg7PkvKDnu5/jgIHnu4/lhbjkuJPlkI3jgIHlk7LlrabmpoLlv7XjgILov5nkupvpl67popjlv4XpobvotbDnn6Xor4blupPjgIIKICAgIHJlOiAvKOWTsuWtpnzorrror6185a2U5a2QfOWtn+WtkHzogIHlrZB85bqE5a2QfOmBk+W+t+e7j3zlpKflrabkuYvpgZN85Lit5bq4fOiNgOWtkHznjovpmLPmmI585pyx54a5fOiLj+agvOaLieW6lXzmn4/mi4nlm7585Lqa6YeM5aOr5aSa5b63fOeUs+i+qeevh3zmlq/lpJrokZt85rKJ5oCd5b2VfOeIseavlOWFi+azsOW+t3zlsLzlkITpqazlj6985a2Y5Zyo5Li75LmJfOWEkuWutnzpgZPlrrZ85L2b5a62fOemhXzku4F85LuB5LmJfOekvHzlkJvlrZB86Imv55+lfOaAp+WWhHzmgKfmgbZ85rWp54S25LmL5rCUfOefpeihjOWQiOS4gHzmoLznianoh7Tnn6V85piO5piO5b63fOaFjueLrHzml6DkuLp86YCN6YGlfOWkqeWRvXzkuK3lurjkuYvpgZN85b2i6ICM5LiKfOacrOS9k+iuunzorqTor4borrp85bC86YeHfOWPlOacrOWNjnzlurflvrd86buR5qC85bCUfOW8l+a0m+S8iuW+t3zpqazlhYvmgJ186Jma5peg5Li75LmJfOWKn+WIqeS4u+S5iXzlpZHnuqborrp86L6p6K+B5rOVfOeOsOixoeWtpnznm67nmoTorrp85LqM5YWD6K66KS91LAogIH0sCiAgewogICAga2V5OiAi5Lq655SfIiwKICAgIHJlOiAvKOS6uueUn3zmtLvnnYB855Sf5ZG955qE5oSP5LmJfOeUn+a0u+eahOaEj+S5iXzmhI/kuYnmmK/ku4DkuYh85a2Y5Zyo55qE5oSP5LmJfOS7t+WAvOingnzkurrnlJ/op4J85bm456aPfOatu+S6oXznlJ/mrbt85ZG96L+QfOiHqueUseaEj+W/l3zoh6rnlLF855yf55CGfOaZuuaFp3zkurrmgKd86Ium6Zq+fOiHquaIkXzmiJHmmK/osIF85oiQ5YqffOeQhuaDs3zkv6Hlv7V86Jma5pegfOa0u+W+l3zov73msYLku4DkuYh85LuA5LmI5qC355qE55Sf5rS7fOaAjuagt+eahOeUn+a0u3znlJ/mtLt855Sf5rS75pa55byPfOS6uueUn+ebruagh3zmhI/kuYnmhJ985b2S5bGe5oSffOS7t+WAvOaEnykvdSwKICB9LAogIHsKICAgIGtleTogIumBk+W+tyIsCiAgICByZTogLyjpgZPlvrd85ZaE5oG2fOWvuemUmXzmraPkuYl85YWs5bmzfOiJr+W/g3zlupXnur985Y6f5YiZfOivpeS4jeivpeWBmnzor5rlrp586K+06LCOfOiDjOWPm3zotKPku7t85LmJ5YqhfOS8pueQhnzlloR85oG2fOWLh+aVonzoioLliLZ85a695a65fOiZmuS8qnzmraPnm7R86Ieq56eBKS91LAogIH0sCiAgewogICAga2V5OiAi56S+5LyaIiwKICAgIHJlOiAvKOekvuS8mnznvqTkvZN86ZuG5L2TfOWFseWQjOS9k3zlm73lrrZ85paH5piOfOWItuW6pnznp6nluo986KeE5YiZfOazleW+i3zlhazlhbF86Zi25bGCfOWGheWNt3znq57kuol85ZCI5L2cfOWIhuW3pXzkurrnsbvkuLrku4DkuYgpL3UsCiAgfSwKICB7CiAgICBrZXk6ICLmg4Xnu6oiLAogICAgcmU6IEVNT1RJT05fUkUsCiAgfSwKICB7CiAgICBrZXk6ICLlhbPns7siLAogICAgcmU6IC8o5pyL5Y+LfGZyaWVuZHzlkIzkuot85ZCM5a2mfOWupOWPi3zniLbmr4185a625Lq6fOS6suaImnzmgYvniLF85byC5ZywfOWPpuS4gOWNinzlr7nosaF85Ly05L6jfOWpmuWnu3znu5PlqZp85YKs5amafOWIhuaJi3znm7jlpIR85Lq66ZmFfOekvuS6pHzmsp/pgJp85ZC15p62fOmXueefm+ebvnzlhrLnqoF86K+v6KejfOaLkue7neWIq+S6unzpooblr7x85LiK5Y+4fOiAgeadv3zlraTnq4t85pSA5q+UfOWFs+ezuykvdSwKICB9LAogIHsKICAgIGtleTogIuaIkOmVvyIsCiAgICByZTogLyjmiJDplb985o+Q5Y2HfOWPmOWlvXzmlLnlj5joh6rlt7F86Ieq5b6LfOS5oOaDr3zlnZrmjIF85ouW5bu2fOWNiumAlOiAjOW6n3zlpI3nm5h86ZW/5pyf5Li75LmJfOaKgOiDvXzov5vmraV85YWL5pyNfOWfueWFu3zorqHliJJ855uu5qCHKS91LAogIH0sCiAgewogICAga2V5OiAi6IGM5LiaIiwKICAgIHJlOiAvKOW3peS9nHzogYzkuJp86IGM5Zy6fOi+nuiBjHzot7Pmp7186L2s6KGMfOWIm+S4mnzljYfogYx85Yqg54+tfOijgeWRmHzlpLHkuJp8566A5Y6GfOmdouivlXzlia/kuJp85pS25YWlfOiAgeWutuWPkeWxlXzkuovkuJopL3UsCiAgfSwKICB7CiAgICBrZXk6ICLnvJbnqIsiLAogICAgcmU6IC8o5Luj56CBfOe8lueoi3znqIvluo985oql6ZSZfGJ1Z3xkZWJ1Z3zpl63ljIV8cHl0aG9ufGphdmFzY3JpcHR8amF2YVxifGdvbGFuZ3x0eXBlc2NyaXB0fOWHveaVsHzlj5jph4985pWw57uEfOaVsOaNruW6k3xzcWx8bXlzcWx8cmVkaXN8YXBpfOaOpeWPo3zliY3nq6985ZCO56uvfOacjeWKoeWZqHzpg6jnvbJ857yW6K+RfOahhuaetnxyZWFjdHx2dWV85bCP56iL5bqPfOS6keWHveaVsHxnaXRcYnxodHRwfGh0dHBzfGpzb258bGlzdHx0dXBsZXzmraPliJkpL2l1LAogIH0sCiAgewogICAga2V5OiAi5pWw5a2mIiwKICAgIHJlOiAvKOaVsOWtpnzmlrnnqIt85rGC6KejfOamgueOh3znu5/orqF85b6u56ev5YiGfOWvvOaVsHznp6/liIZ85Yeg5L2VfOmdouenr3zkvZPnp6985ZGo6ZW/fOWFrOW8j3znn6npmLV85ZCR6YePfOaOkuWIl+e7hOWQiHzotKjmlbB86K6h566XLirnu5Pmnpx8562J5LqO5aSa5bCRKS91LAogIH0sCiAgewogICAga2V5OiAi56eR5oqAIiwKICAgIHJlOiAvKOS6uuW3peaZuuiDvXxhaVxifOacuuWZqOWtpuS5oHzmt7HluqblrabkuaB856We57uP572R57ucfOWkp+aooeWei3zph4/lrZB86Iqv54mHfOWNiuWvvOS9k3zljLrlnZfpk7585YWD5a6H5a6ZfDVnfDZnfOaWsOiDvea6kHznlLXmsaB86Ieq5Yqo6am+6am2fOiIquWkqXzngavnrq185Z+65ZugfOeUn+eJqeaKgOacr3znm7jlr7norrp854mp55CGfOWMluWtpnznhrXlop585YWJ6YCffOWuh+WumXzpu5HmtJ5856Kz5Lit5ZKMKS9pdSwKICB9LAogIHsKICAgIGtleTogIuWBpeW6tyIsCiAgICByZTogLyjmhJ/lhpJ85Y+R54OnfOWQg+iNr3zmipfnlJ/ntKB855eH54q2fOWMu+mZonzljLvnlJ985L2T5qOAfOWHj+iCpXzlgaXouqt86JCl5YW7fOe7tOeUn+e0oHznnaHnnKDml7bplb9855a+55eFfOayu+eWl3znlqvoi5cpL3UsCiAgfSwKICB7CiAgICBrZXk6ICLkuovlrp4iLAogICAgcmU6IC8o5aSp5rCUfOawlOa4qXzlh6Dngrl85aSa5bCR6ZKxfOaxh+eOh3zogqHku7d85ZOq5LiA5bm0fOiwgeWPkeaYjnzmmK/osIF85Zyo5ZOq6YeMfOmmlumDvXzkurrlj6N86Led56a75aSa6L+cfOaOkuWQjXzpgJrotKfohqjog4B85aSN5YipfOi0ouWKoeaKpeihqHxnZHB857uP5rWOfOWOhuWPsuS4iikvaXUsCiAgfSwKICB7CiAgICBrZXk6ICLlrabkuaAiLAogICAgcmU6IC8o5a2m5LmgfOivu+S5pnzpmIXor7t855yL5LmmfOiDjOS5pnzorrDkuI3kvY985a2m5LiN6L+bfOWkjeS5oHzogIPor5V86ICD56CUfOiAg+WFrHzkuIror7585ZCs6K++fOeslOiusHzliLfpoph86Iux6K+tfOefpeivhueCuXzkuJPms6jlipt85LiT5rOofOW/mHzpgZflv5h85pWI546HfOmAu+i+kXzmgJ3nu7R86K6k55+lfOeQhuino+WKm3zorrDlv4blipspL3UsCiAgfSwKICB7CiAgICBrZXk6ICLnlJ/mtLsiLAogICAgcmU6IC8o5YGa6aWtfOiPnOiwsXzml4XooYx85peF5ri4fOenn+aIv3zkubDmiL985pCs5a62fOWuoOeJqXznqb/mkK186LSt54mpfOeQhui0onzkv53pmal86am+54WnfOijheS/rnzluKblqIN86IKy5YS/KS91LAogIH0sCl07CgovLyDnn6Xor4blkqjor6Llj6XlvI/vvJrpl67lrprkuYnjgIHljp/nkIbjgIHljLrliKvjgIHmlrnms5XvvIjlrqLop4LnrZTmoYjlrZjlnKjvvIkKY29uc3QgRkFDVFVBTF9QQVRURVJOID0gLyjku4DkuYjmmK985piv5LuA5LmIfOS7gOS5iOaEj+aAnXzmnInku4DkuYjljLrliKt85Yy65Yir5piv5LuA5LmIfOWOn+eQhuaYr+S7gOS5iHzmgI7kuYjlt6XkvZx85oCO5LmI5a6e546wfOWmguS9leiuoeeul3zmgI7kuYjorqHnrpd8562J5LqO5aSa5bCRfOetieS6juWHoHznrYnkuo7ku4DkuYh85a6a5LmJfOS7i+e7jeS4gOS4i3zop6Pph4rkuIDkuIt856eR5pmuKS91OwoKLy8g6L+Z5Lqb6aKG5Z+f5bGe5LqO44CM5a6i6KeC55+l6K+G5Z+f44CN77ya5pyJ55u45a+556Gu5a6a55qE562U5qGI77yM56Gs5aWX57uP5YW45bCx5piv54G+6Zq+44CCCmNvbnN0IEhBUkRfRkFDVF9ET01BSU5TID0gWyLnvJbnqIsiLCAi5pWw5a2mIiwgIuenkeaKgCIsICLlgaXlurciLCAi5LqL5a6eIl07CgovLyDov5nkupvpoobln5/pgILlkIjlk7LlrablvI/lsZXlvIDvvIjjgJDnkIbop6PjgJHjgJDliIbmnpDjgJHjgJDnu4/lhbjop4LngrnjgJHjgJDmgJ3ogIPjgJHvvIkKY29uc3QgUEhJTE9fRk9STUFUX0RPTUFJTlMgPSBbIuWTsuWtpiIsICLkurrnlJ8iLCAi56S+5LyaIiwgIumBk+W+tyJdOwoKLy8g6L+Z5Lqb6aKG5Z+f6ZyA6KaB55+l6K+G5aKe5by677yI55So5oi35Y+j5b6E77ya5Lq655SfL+S7t+WAvC/mg4Xnu6ov5YWz57O7L+aIkOmVvy/pgZPlvrcv6YCJ5oup77yJCmNvbnN0IEtOT1dMRURHRV9ET01BSU5TID0gWyLlk7LlraYiLCAi5Lq655SfIiwgIumBk+W+tyIsICLnpL7kvJoiLCAi5oOF57uqIiwgIuWFs+ezuyIsICLogYzkuJoiLCAi5a2m5LmgIiwgIuaIkOmVvyJdOwoKY29uc3QgVFlQRV9MQUJFTCA9IHsKICBrbm93bGVkZ2U6ICLnn6Xor4blkqjor6IiLAogIGxpZmU6ICLkurrnlJ/mgJ3ogIMiLAogIGVtb3Rpb246ICLmg4Xnu6rmlK/mjIEiLAogIGdyb3d0aDogIuWtpuS5oOaIkOmVvyIsCiAgb3BpbmlvbjogIuingueCueiuqOiuuiIsCn07CgovLyAtLS0tLS0tLS0tIOWFs+mUruivjeaKveWPlu+8iOS+m+ajgOe0ouaJqeWxleS4juaXpeW/l+WIhuaekO+8iSAtLS0tLS0tLS0tCmNvbnN0IEtFWVdPUkRfU1RPUCA9IG5ldyBTZXQoWwogICLku4DkuYgiLCAi5oCO5LmIIiwgIuS4uuS7gOS5iCIsICLmgI7moLciLCAi5aaC5L2VIiwgIuWPr+S7pSIsICLlupTor6UiLCAi5LiA5LiqIiwgIuS4gOenjSIsCiAgIui/meS4qiIsICLpgqPkuKoiLCAi546w5ZyoIiwgIuiHquW3sSIsICLmsqHmnIkiLCAi5LiN5pivIiwgIuWwseaYryIsICLov5jmmK8iLCAi5oiW6ICFIiwKICAi5oiR5LusIiwgIuS7luS7rCIsICLmnInkupsiLCAi5b6I5aSaIiwgIumdnuW4uCIsICLnnJ/nmoQiLCAi5Yiw5bqVIiwgIueptuernyIsCl0pOwoKZnVuY3Rpb24gZXh0cmFjdEtleXdvcmRzKHF1ZXJ5LCBkb21haW5LZXkpIHsKICBjb25zdCB0ZXh0ID0gKHF1ZXJ5IHx8ICIiKS5yZXBsYWNlKC9bXHB7UH1ccHtTfV0vZ3UsICIgIik7CiAgY29uc3Qgb3V0ID0gW107CiAgaWYgKGRvbWFpbktleSkgb3V0LnB1c2goZG9tYWluS2V5KTsKICBjb25zdCBncmFtcyA9IHRleHQubWF0Y2goL1tccHtTY3JpcHQ9SGFufV17Miw2fS9ndSkgfHwgW107CiAgZm9yIChjb25zdCBnIG9mIGdyYW1zKSB7CiAgICBpZiAoS0VZV09SRF9TVE9QLmhhcyhnKSkgY29udGludWU7CiAgICBpZiAob3V0LmluZGV4T2YoZykgPCAwKSBvdXQucHVzaChnKTsKICAgIC8vIOmVv+ivjeWGjeWIhyAyLWdyYW3vvIzmj5DljYfkuI7nn6Xor4blupPmoIfnrb7nmoTlr7nmjqXmpoLnjocKICAgIGlmIChnLmxlbmd0aCA+IDQpIHsKICAgICAgZm9yIChsZXQgaSA9IDA7IGkgKyAyIDw9IGcubGVuZ3RoOyBpICs9IDEpIHsKICAgICAgICBjb25zdCBzdWIgPSBnLnNsaWNlKGksIGkgKyAyKTsKICAgICAgICBpZiAoIUtFWVdPUkRfU1RPUC5oYXMoc3ViKSAmJiBvdXQuaW5kZXhPZihzdWIpIDwgMCkgb3V0LnB1c2goc3ViKTsKICAgICAgfQogICAgfQogIH0KICAodGV4dC5tYXRjaCgvW2EtekEtWl1bYS16QS1aMC05KyMuXXsxLDE1fS9nKSB8fCBbXSkuZm9yRWFjaCgodykgPT4gewogICAgY29uc3QgbHcgPSB3LnRvTG93ZXJDYXNlKCk7CiAgICBpZiAob3V0LmluZGV4T2YobHcpIDwgMCkgb3V0LnB1c2gobHcpOwogIH0pOwogIHJldHVybiBvdXQuc2xpY2UoMCwgMjApOwp9CgpmdW5jdGlvbiBkZXRlY3REb21haW4odGV4dCkgewogIGZvciAoY29uc3QgcnVsZSBvZiBET01BSU5fUlVMRVMpIHsKICAgIGlmIChydWxlLnJlLnRlc3QodGV4dCkpIHJldHVybiBydWxlLmtleTsKICB9CiAgcmV0dXJuICIiOwp9CgovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KLy8gY2xhc3NpZnlJbnRlbnQocXVlcnksIGhpc3RvcnkpCi8vICAg6L+U5Zue77yaCi8vICAgewovLyAgICAgdHlwZSAgICAgICAgICAgIDoga25vd2xlZGdlIHwgbGlmZSB8IGVtb3Rpb24gfCBncm93dGggfCBvcGluaW9uCi8vICAgICB0eXBlTGFiZWwgICAgICAgOiDkuK3mlofmoIfnrb4KLy8gICAgIG5lZWRLbm93bGVkZ2UgICA6IGJvb2xlYW4gICAgICAgICAg5piv5ZCm6ZyA6KaB55+l6K+G5aKe5by6Ci8vICAgICBrbm93bGVkZ2VQb2xpY3kgOiBza2lwIHwgb3B0aW9uYWwgfCB1c2UKLy8gICAgICAgICAgICAgICAgICAgICAgICBza2lwICAgICDlrozlhajkuI3mo4DntKLvvIznm7TmjqXlm57nrZTvvIjmioDmnK8v5LqL5a6eL+WNseacuu+8iQovLyAgICAgICAgICAgICAgICAgICAgICAgIG9wdGlvbmFsIOajgOe0ouS9huWPquWcqOW8uuebuOWFs+aXtuaPkOS+m++8iOingueCueiuqOiuuu+8iQovLyAgICAgICAgICAgICAgICAgICAgICAgIHVzZSAgICAgIOajgOe0ouW5tuS9nOS4uuaAneaDs+e0oOadkOaPkOS+m++8iOS6uueUny/mg4Xnu6ov5oiQ6ZW/L+WFs+ezu++8iQovLyAgICAgZG9tYWluICAgICAgICAgIDog5ZOy5a2mfOS6uueUn3zpgZPlvrd856S+5LyafOaDhee7qnzlhbPns7t86IGM5LiafOWtpuS5oHzmiJDplb9857yW56iLfOaVsOWtpnznp5HmioB85YGl5bq3fOS6i+WunnznlJ/mtLt86YCa55SoCi8vICAgICBmb3JtYXQgICAgICAgICAgOiB0ZWNobmljYWwgfCBnZW5lcmFsIHwgcGhpbG9zb3BoeSB8IGVtb3Rpb24gIO+8iOWGs+Wumui+k+WHuue7k+aehO+8iQovLyAgICAga2V5d29yZHMgICAgICAgIDogc3RyaW5nW10KLy8gICAgIGNyaXNpcyAgICAgICAgICA6IGJvb2xlYW4KLy8gICB9Ci8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpmdW5jdGlvbiBjbGFzc2lmeUludGVudChxdWVyeSwgaGlzdG9yeSkgewogIGNvbnN0IHEgPSAocXVlcnkgfHwgIiIpLnRvU3RyaW5nKCkudHJpbSgpOwogIC8vIOS4iuS4i+aWh+WPqueUqOS6jui+heWKqeWIpOaWreaDhee7quW7tue7re+8jOS4jeWPguS4jumihuWfn+WIpOWumu+8iOmBv+WFjeWOhuWPsuivnemimOaxoeafk+W9k+WJjemXrumimO+8iQogIGNvbnN0IHJlY2VudCA9IEFycmF5LmlzQXJyYXkoaGlzdG9yeSkKICAgID8gaGlzdG9yeS5zbGljZSgtMikubWFwKChtKSA9PiAobSAmJiBtLmNvbnRlbnQpIHx8ICIiKS5qb2luKCIgIikKICAgIDogIiI7CgogIC8vIOKRoCDljbHmnLrkv6Hlj7fvvJrmnIDpq5jkvJjlhYjnuqfvvIznm7TmjqXov5Tlm57vvIzkuI3mo4DntKLjgIHkuI3lvJXnu4/mja7lhbgKICBpZiAoQ1JJU0lTX1JFLnRlc3QocSkpIHsKICAgIHJldHVybiB7CiAgICAgIHR5cGU6ICJlbW90aW9uIiwKICAgICAgdHlwZUxhYmVsOiBUWVBFX0xBQkVMLmVtb3Rpb24sCiAgICAgIG5lZWRLbm93bGVkZ2U6IGZhbHNlLAogICAgICBrbm93bGVkZ2VQb2xpY3k6ICJza2lwIiwKICAgICAgZG9tYWluOiAi5oOF57uqIiwKICAgICAgZm9ybWF0OiAiZW1vdGlvbiIsCiAgICAgIGtleXdvcmRzOiBleHRyYWN0S2V5d29yZHMocSwgIuaDhee7qiIpLAogICAgICBjcmlzaXM6IHRydWUsCiAgICAgIHJlYXNvbjogImNyaXNpcyIsCiAgICB9OwogIH0KCiAgY29uc3QgZG9tYWluID0gZGV0ZWN0RG9tYWluKHEpIHx8ICIiOwogIGNvbnN0IGlzSGFyZEZhY3QgPSBIQVJEX0ZBQ1RfRE9NQUlOUy5pbmRleE9mKGRvbWFpbikgPj0gMDsKICBjb25zdCBoYXNFbW90aW9uID0gRU1PVElPTl9SRS50ZXN0KHEpIHx8ICghIXJlY2VudCAmJiBFTU9USU9OX1JFLnRlc3QocSArICIgIiArIHJlY2VudCkgJiYgcS5sZW5ndGggPD0gMTIpOwogIGNvbnN0IGlzT3BpbmlvbiA9IE9QSU5JT05fUkUudGVzdChxKTsKICBjb25zdCBpc0ZhY3R1YWxBc2sgPSBGQUNUVUFMX1BBVFRFUk4udGVzdChxKTsKCiAgLy8g5oq96LGh6L+96ZeuIHZzIOS4quS6uuWAvuivie+8mgogIC8vICAg44CM5Lq65Li65LuA5LmI5Lya55eb6Ium77yf44CN44CM5LuA5LmI5piv6Ieq55Sx77yf44CN5ZCr5oOF57uq6K+N5L2G5pys6LSo5piv5oCd6L6o6L+96Zeu77yM5bqU5YWI5aSa6KeS5bqm5YiG5p6Q77ybCiAgLy8gICDjgIzmiJHlvojnl5voi6bjgI3jgIzmiJHmgLvmmK/nhKbomZHjgI3mnInnrKzkuIDkurrnp7DvvIzmmK/nnJ/lrp7mg4Xnu6rlgL7or4nvvIzlupTlhYjlhbHmg4XjgIIKICAvLyAgIOWIpOaNru+8muWRveS4reaKveixoei/vemXruWPpeW8j+S4lOaXoOesrOS4gOS6uuensCDihpIg6LWw5ZOy5a2mL+aAnei+qO+8jOS4jeaMieaDhee7quWkhOeQhuOAggogIGNvbnN0IGFic3RyYWN0SW5xdWlyeSA9IEFCU1RSQUNUX0FTS19SRS50ZXN0KHEpICYmICFQRVJTT05BTF9SRS50ZXN0KHEpOwoKICBsZXQgdHlwZTsKICBsZXQgcmVhc29uOwoKICBpZiAoaXNIYXJkRmFjdCkgewogICAgLy8g5a6i6KeC55+l6K+G5Z+f5LiA5b6L6LWw55+l6K+G5ZKo6K+i4oCU4oCU44CM5Lq65bel5pm66IO95pyq5p2l5Lya5oCO5qC344CN5Lmf5bGe5q2k5YiX77yMCiAgICAvLyDnlLHpgJrnlKjnn6Xor4blm57nrZTvvIzkuI3lgZrlk7LlrabljJbljIXoo4XjgIIKICAgIHR5cGUgPSAia25vd2xlZGdlIjsKICAgIHJlYXNvbiA9ICJoYXJkLWZhY3QtZG9tYWluIjsKICB9IGVsc2UgaWYgKGFic3RyYWN0SW5xdWlyeSkgewogICAgLy8g5oq96LGh6L+96Zeu77ya5peg56ys5LiA5Lq656ew55qE5ZOy5a2mL+aAnei+qOmXrumimO+8jOato+W4uOWIhuaekOWNs+WPr++8jOS4jeW8uuihjOWFseaDheOAggogICAgLy8g55+l6K+G5pS/562W55SoIHVzZe+8iOS6uuaWh+ivnemimOaciee7j+WFuOWPr+S9kO+8ie+8jOi+k+WHuuWTsuWtpuW8j+e7k+aehOOAggogICAgdHlwZSA9ICJsaWZlIjsKICAgIHJlYXNvbiA9ICJhYnN0cmFjdC1pbnF1aXJ5IjsKICB9IGVsc2UgaWYgKGhhc0Vtb3Rpb24gfHwgZG9tYWluID09PSAi5oOF57uqIikgewogICAgdHlwZSA9ICJlbW90aW9uIjsKICAgIHJlYXNvbiA9ICJlbW90aW9uLXNpZ25hbCI7CiAgfSBlbHNlIGlmIChpc09waW5pb24pIHsKICAgIHR5cGUgPSAib3BpbmlvbiI7CiAgICByZWFzb24gPSAib3Bpbmlvbi1tYXJrZXIiOwogIH0gZWxzZSBpZiAoZG9tYWluID09PSAi5a2m5LmgIiB8fCBkb21haW4gPT09ICLmiJDplb8iKSB7CiAgICB0eXBlID0gImdyb3d0aCI7CiAgICByZWFzb24gPSAiZ3Jvd3RoLWRvbWFpbiI7CiAgfSBlbHNlIGlmIChQSElMT19GT1JNQVRfRE9NQUlOUy5pbmRleE9mKGRvbWFpbikgPj0gMCB8fCBkb21haW4gPT09ICLlhbPns7siIHx8IGRvbWFpbiA9PT0gIuiBjOS4miIpIHsKICAgIHR5cGUgPSAibGlmZSI7CiAgICByZWFzb24gPSAibGlmZS1kb21haW4iOwogIH0gZWxzZSBpZiAoaXNGYWN0dWFsQXNrKSB7CiAgICAvLyDml6DmmI7noa7poobln5/kvYbpl67nmoTmmK/lrprkuYkv5Y6f55CGIOKGkiDlvZPkvZznn6Xor4blkqjor6Lnm7TmjqXnrZQKICAgIHR5cGUgPSAia25vd2xlZGdlIjsKICAgIHJlYXNvbiA9ICJmYWN0dWFsLXBhdHRlcm4iOwogIH0gZWxzZSB7CiAgICAvLyDlhZzlupXvvJrlvZPkvZzop4LngrnorqjorrrvvIzmo4DntKLkvYbkuI3lvLrmsYLlvJXnlKjvvIjml6LkuI3noazlpZfnu4/lhbjvvIzkuZ/kuI3mlL7lvIPnn6Xor4blop7lvLrvvIkKICAgIHR5cGUgPSAib3BpbmlvbiI7CiAgICByZWFzb24gPSAiZmFsbGJhY2siOwogIH0KCiAgLy8gLS0tLSDmmK/lkKbpnIDopoHnn6Xor4blop7lvLogLS0tLQogIGxldCBrbm93bGVkZ2VQb2xpY3k7CiAgaWYgKHR5cGUgPT09ICJrbm93bGVkZ2UiKSB7CiAgICBrbm93bGVkZ2VQb2xpY3kgPSAic2tpcCI7CiAgfSBlbHNlIGlmICh0eXBlID09PSAib3BpbmlvbiIpIHsKICAgIC8vIOingueCueiuqOiuuu+8muS6uuaWh+ivnemimOe7mee0oOadkO+8jOWuouinguivnemimOS4jee7mQogICAga25vd2xlZGdlUG9saWN5ID0gS05PV0xFREdFX0RPTUFJTlMuaW5kZXhPZihkb21haW4pID49IDAgfHwgZG9tYWluID09PSAiIiA/ICJvcHRpb25hbCIgOiAic2tpcCI7CiAgfSBlbHNlIHsKICAgIGtub3dsZWRnZVBvbGljeSA9ICJ1c2UiOwogIH0KCiAgLy8gLS0tLSDovpPlh7rmoLzlvI8gLS0tLQogIGxldCBmb3JtYXQ7CiAgaWYgKHR5cGUgPT09ICJrbm93bGVkZ2UiKSB7CiAgICBmb3JtYXQgPSAidGVjaG5pY2FsIjsKICB9IGVsc2UgaWYgKHR5cGUgPT09ICJlbW90aW9uIikgewogICAgZm9ybWF0ID0gImVtb3Rpb24iOwogIH0gZWxzZSBpZiAoYWJzdHJhY3RJbnF1aXJ5IHx8IFBISUxPX0ZPUk1BVF9ET01BSU5TLmluZGV4T2YoZG9tYWluKSA+PSAwKSB7CiAgICAvLyDmir3osaHov73pl67kuIDlvovlk7LlrablvI/nu5PmnoTvvIjljbPkvr/lhbYgZG9tYWluIOivr+iQveWIsOaDhee7qu+8iQogICAgZm9ybWF0ID0gInBoaWxvc29waHkiOwogIH0gZWxzZSB7CiAgICBmb3JtYXQgPSAiZ2VuZXJhbCI7CiAgfQoKICByZXR1cm4gewogICAgdHlwZSwKICAgIHR5cGVMYWJlbDogVFlQRV9MQUJFTFt0eXBlXSwKICAgIG5lZWRLbm93bGVkZ2U6IGtub3dsZWRnZVBvbGljeSAhPT0gInNraXAiLAogICAga25vd2xlZGdlUG9saWN5LAogICAgZG9tYWluOiBkb21haW4gfHwgIumAmueUqCIsCiAgICBmb3JtYXQsCiAgICBrZXl3b3JkczogZXh0cmFjdEtleXdvcmRzKHEsIGRvbWFpbiksCiAgICBjcmlzaXM6IGZhbHNlLAogICAgcmVhc29uLAogIH07Cn0KCm1vZHVsZS5leHBvcnRzID0gewogIGNsYXNzaWZ5SW50ZW50LAogIC8vIOWvvOWHuuWGhemDqOinhOWImeS+m+a1i+ivleS4juiwg+WPggogIENSSVNJU19SRSwKICBFTU9USU9OX1JFLAogIE9QSU5JT05fUkUsCiAgRE9NQUlOX1JVTEVTLAogIEhBUkRfRkFDVF9ET01BSU5TLAogIFBISUxPX0ZPUk1BVF9ET01BSU5TLAogIEtOT1dMRURHRV9ET01BSU5TLAogIFRZUEVfTEFCRUwsCiAgZXh0cmFjdEtleXdvcmRzLAp9Owo=
+// ============================================================
+// 意图理解层（Intent Layer）
+//   位置：用户问题 → 【本模块】 → 是否需要知识增强 → RAG → LLM 综合生成
+//
+//   动机：升级前的链路是「问题 → RAG → 经典回答」，任何问题都被强行套上经典，
+//   于是「Python 的 list 和 tuple 有什么区别」也会被《论语》开头，答非所问。
+//   升级后由本模块先判断问题类型，再决定是否调用知识库、用哪种回答格式。
+//
+//   设计约束：
+//   · 纯函数、零依赖（不 require rag.js，避免循环引用），可离线单测。
+//   · 只做「分类」，不做「回答」；分类结果由 rag.js 消费。
+//   · 判定顺序即优先级，危机信号永远最高。
+// ============================================================
+
+// ---------- 危机信号：最高优先级，命中后跳过一切知识增强 ----------
+const CRISIS_RE = /(自杀|想死|不想活|活不下去|轻生|结束生命|伤害自己|自残|割腕|跳楼|安眠药自尽|杀了他|同归于尽)/u;
+
+// ---------- 情绪信号：命中即走「情绪支持」，共情优先 ----------
+const EMOTION_RE = /(焦虑|抑郁|emo|崩溃|难受|难过|想哭|痛苦|绝望|沮丧|委屈|愤怒|生气|烦躁|内耗|压力大|压力|喘不过气|撑不住|撑不下去|好累|很累|疲惫|无力|孤独|寂寞|害怕|恐惧|不安|慌|自卑|失眠|胡思乱想|提不起兴趣|没动力|一事无成|走不出来|配不上|不想上班|心累|心慌|烦|丧|低落|压抑|空虚|麻木|提不起劲|不如别人|比不上|心堵|堵得慌|俱疲|身心俱疲|不爱我|没安全感|被冷落)/u;
+
+// ---------- 观点讨论：用户在征询看法而非要标准答案 ----------
+const OPINION_RE = /(你怎么看|你觉得|你认为|如何看待|怎么看待|有什么看法|你支持|你赞同|谈谈你的|说说你的看法)/u;
+
+// ---------- 抽象追问 vs 个人倾诉 ----------
+//   「人为什么会痛苦？」是哲学追问，「我很痛苦」是情绪倾诉。
+//   两者都含情绪词，但需要完全不同的回答方式：前者要多角度分析，后者要先共情。
+//   判据：出现抽象追问句式且没有第一人称，就不按情绪处理。
+const PERSONAL_RE = /(我|自己|咱|俺|本人)/u;
+const ABSTRACT_ASK_RE = /(人为什么|人们为什么|人类为什么|为什么人|什么是|的本质|意味着什么|从何而来|如何定义)/u;
+
+// ============================================================
+// 领域识别（domain）
+//   顺序敏感：先命中的优先。哲学专名必须排在「什么是 XX」这类知识句式之前，
+//   否则「什么是仁？」会被判成知识咨询而跳过知识库。
+// ============================================================
+const DOMAIN_RULES = [
+  {
+    key: "哲学",
+    // 思想传统、经典专名、哲学概念。这些问题必须走知识库。
+    re: /(哲学|论语|孔子|孟子|老子|庄子|道德经|大学之道|中庸|荀子|王阳明|朱熹|苏格拉底|柏拉图|亚里士多德|申辩篇|斯多葛|沉思录|爱比克泰德|尼各马可|存在主义|儒家|道家|佛家|禅|仁|仁义|礼|君子|良知|性善|性恶|浩然之气|知行合一|格物致知|明明德|慎独|无为|逍遥|天命|中庸之道|形而上|本体论|认识论|尼采|叔本华|康德|黑格尔|弗洛伊德|马克思|虚无主义|功利主义|契约论|辩证法|现象学|目的论|二元论)/u,
+  },
+  {
+    key: "人生",
+    re: /(人生|活着|生命的意义|生活的意义|意义是什么|存在的意义|价值观|人生观|幸福|死亡|生死|命运|自由意志|自由|真理|智慧|人性|苦难|自我|我是谁|成功|理想|信念|虚无|活得|追求什么|什么样的生活|怎样的生活|生活|生活方式|人生目标|意义感|归属感|价值感)/u,
+  },
+  {
+    key: "道德",
+    re: /(道德|善恶|对错|正义|公平|良心|底线|原则|该不该做|诚实|说谎|背叛|责任|义务|伦理|善|恶|勇敢|节制|宽容|虚伪|正直|自私)/u,
+  },
+  {
+    key: "社会",
+    re: /(社会|群体|集体|共同体|国家|文明|制度|秩序|规则|法律|公共|阶层|内卷|竞争|合作|分工|人类为什么)/u,
+  },
+  {
+    key: "情绪",
+    re: EMOTION_RE,
+  },
+  {
+    key: "关系",
+    re: /(朋友|friend|同事|同学|室友|父母|家人|亲戚|恋爱|异地|另一半|对象|伴侣|婚姻|结婚|催婚|分手|相处|人际|社交|沟通|吵架|闹矛盾|冲突|误解|拒绝别人|领导|上司|老板|孤立|攀比|关系)/u,
+  },
+  {
+    key: "成长",
+    re: /(成长|提升|变好|改变自己|自律|习惯|坚持|拖延|半途而废|复盘|长期主义|技能|进步|克服|培养|计划|目标)/u,
+  },
+  {
+    key: "职业",
+    re: /(工作|职业|职场|辞职|跳槽|转行|创业|升职|加班|裁员|失业|简历|面试|副业|收入|老家发展|事业)/u,
+  },
+  {
+    key: "编程",
+    re: /(代码|编程|程序|报错|bug|debug|闭包|python|javascript|java\b|golang|typescript|函数|变量|数组|数据库|sql|mysql|redis|api|接口|前端|后端|服务器|部署|编译|框架|react|vue|小程序|云函数|git\b|http|https|json|list|tuple|正则)/iu,
+  },
+  {
+    key: "数学",
+    re: /(数学|方程|求解|概率|统计|微积分|导数|积分|几何|面积|体积|周长|公式|矩阵|向量|排列组合|质数|计算.*结果|等于多少)/u,
+  },
+  {
+    key: "科技",
+    re: /(人工智能|ai\b|机器学习|深度学习|神经网络|大模型|量子|芯片|半导体|区块链|元宇宙|5g|6g|新能源|电池|自动驾驶|航天|火箭|基因|生物技术|相对论|物理|化学|熵增|光速|宇宙|黑洞|碳中和)/iu,
+  },
+  {
+    key: "健康",
+    re: /(感冒|发烧|吃药|抗生素|症状|医院|医生|体检|减肥|健身|营养|维生素|睡眠时长|疾病|治疗|疫苗)/u,
+  },
+  {
+    key: "事实",
+    re: /(天气|气温|几点|多少钱|汇率|股价|哪一年|谁发明|是谁|在哪里|首都|人口|距离多远|排名|通货膨胀|复利|财务报表|gdp|经济|历史上)/iu,
+  },
+  {
+    key: "学习",
+    re: /(学习|读书|阅读|看书|背书|记不住|学不进|复习|考试|考研|考公|上课|听课|笔记|刷题|英语|知识点|专注力|专注|忘|遗忘|效率|逻辑|思维|认知|理解力|记忆力)/u,
+  },
+  {
+    key: "生活",
+    re: /(做饭|菜谱|旅行|旅游|租房|买房|搬家|宠物|穿搭|购物|理财|保险|驾照|装修|带娃|育儿)/u,
+  },
+];
+
+// 知识咨询句式：问定义、原理、区别、方法（客观答案存在）
+const FACTUAL_PATTERN = /(什么是|是什么|什么意思|有什么区别|区别是什么|原理是什么|怎么工作|怎么实现|如何计算|怎么计算|等于多少|等于几|等于什么|定义|介绍一下|解释一下|科普)/u;
+
+// 这些领域属于「客观知识域」：有相对确定的答案，硬套经典就是灾难。
+const HARD_FACT_DOMAINS = ["编程", "数学", "科技", "健康", "事实"];
+
+// 这些领域适合哲学式展开（【理解】【分析】【经典观点】【思考】）
+const PHILO_FORMAT_DOMAINS = ["哲学", "人生", "社会", "道德"];
+
+// 这些领域需要知识增强（用户口径：人生/价值/情绪/关系/成长/道德/选择）
+const KNOWLEDGE_DOMAINS = ["哲学", "人生", "道德", "社会", "情绪", "关系", "职业", "学习", "成长"];
+
+const TYPE_LABEL = {
+  knowledge: "知识咨询",
+  life: "人生思考",
+  emotion: "情绪支持",
+  growth: "学习成长",
+  opinion: "观点讨论",
+};
+
+// ---------- 关键词抽取（供检索扩展与日志分析） ----------
+const KEYWORD_STOP = new Set([
+  "什么", "怎么", "为什么", "怎样", "如何", "可以", "应该", "一个", "一种",
+  "这个", "那个", "现在", "自己", "没有", "不是", "就是", "还是", "或者",
+  "我们", "他们", "有些", "很多", "非常", "真的", "到底", "究竟",
+]);
+
+function extractKeywords(query, domainKey) {
+  const text = (query || "").replace(/[\p{P}\p{S}]/gu, " ");
+  const out = [];
+  if (domainKey) out.push(domainKey);
+  const grams = text.match(/[\p{Script=Han}]{2,6}/gu) || [];
+  for (const g of grams) {
+    if (KEYWORD_STOP.has(g)) continue;
+    if (out.indexOf(g) < 0) out.push(g);
+    // 长词再切 2-gram，提升与知识库标签的对接概率
+    if (g.length > 4) {
+      for (let i = 0; i + 2 <= g.length; i += 1) {
+        const sub = g.slice(i, i + 2);
+        if (!KEYWORD_STOP.has(sub) && out.indexOf(sub) < 0) out.push(sub);
+      }
+    }
+  }
+  (text.match(/[a-zA-Z][a-zA-Z0-9+#.]{1,15}/g) || []).forEach((w) => {
+    const lw = w.toLowerCase();
+    if (out.indexOf(lw) < 0) out.push(lw);
+  });
+  return out.slice(0, 20);
+}
+
+function detectDomain(text) {
+  for (const rule of DOMAIN_RULES) {
+    if (rule.re.test(text)) return rule.key;
+  }
+  return "";
+}
+
+// ============================================================
+// classifyIntent(query, history)
+//   返回：
+//   {
+//     type            : knowledge | life | emotion | growth | opinion
+//     typeLabel       : 中文标签
+//     needKnowledge   : boolean          是否需要知识增强
+//     knowledgePolicy : skip | optional | use
+//                        skip     完全不检索，直接回答（技术/事实/危机）
+//                        optional 检索但只在强相关时提供（观点讨论）
+//                        use      检索并作为思想素材提供（人生/情绪/成长/关系）
+//     domain          : 哲学|人生|道德|社会|情绪|关系|职业|学习|成长|编程|数学|科技|健康|事实|生活|通用
+//     format          : technical | general | philosophy | emotion  （决定输出结构）
+//     keywords        : string[]
+//     crisis          : boolean
+//   }
+// ============================================================
+function classifyIntent(query, history) {
+  const q = (query || "").toString().trim();
+  // 上下文只用于辅助判断情绪延续，不参与领域判定（避免历史话题污染当前问题）
+  const recent = Array.isArray(history)
+    ? history.slice(-2).map((m) => (m && m.content) || "").join(" ")
+    : "";
+
+  // ① 危机信号：最高优先级，直接返回，不检索、不引经据典
+  if (CRISIS_RE.test(q)) {
+    return {
+      type: "emotion",
+      typeLabel: TYPE_LABEL.emotion,
+      needKnowledge: false,
+      knowledgePolicy: "skip",
+      domain: "情绪",
+      format: "emotion",
+      keywords: extractKeywords(q, "情绪"),
+      crisis: true,
+      reason: "crisis",
+    };
+  }
+
+  const domain = detectDomain(q) || "";
+  const isHardFact = HARD_FACT_DOMAINS.indexOf(domain) >= 0;
+  const hasEmotion = EMOTION_RE.test(q) || (!!recent && EMOTION_RE.test(q + " " + recent) && q.length <= 12);
+  const isOpinion = OPINION_RE.test(q);
+  const isFactualAsk = FACTUAL_PATTERN.test(q);
+
+  // 抽象追问 vs 个人倾诉：
+  //   「人为什么会痛苦？」「什么是自由？」含情绪词但本质是思辨追问，应先多角度分析；
+  //   「我很痛苦」「我总是焦虑」有第一人称，是真实情绪倾诉，应先共情。
+  //   判据：命中抽象追问句式且无第一人称 → 走哲学/思辨，不按情绪处理。
+  const abstractInquiry = ABSTRACT_ASK_RE.test(q) && !PERSONAL_RE.test(q);
+
+  let type;
+  let reason;
+
+  if (isHardFact) {
+    // 客观知识域一律走知识咨询——「人工智能未来会怎样」也属此列，
+    // 由通用知识回答，不做哲学化包装。
+    type = "knowledge";
+    reason = "hard-fact-domain";
+  } else if (abstractInquiry) {
+    // 抽象追问：无第一人称的哲学/思辨问题，正常分析即可，不强行共情。
+    // 知识政策用 use（人文话题有经典可佐），输出哲学式结构。
+    type = "life";
+    reason = "abstract-inquiry";
+  } else if (hasEmotion || domain === "情绪") {
+    type = "emotion";
+    reason = "emotion-signal";
+  } else if (isOpinion) {
+    type = "opinion";
+    reason = "opinion-marker";
+  } else if (domain === "学习" || domain === "成长") {
+    type = "growth";
+    reason = "growth-domain";
+  } else if (PHILO_FORMAT_DOMAINS.indexOf(domain) >= 0 || domain === "关系" || domain === "职业") {
+    type = "life";
+    reason = "life-domain";
+  } else if (isFactualAsk) {
+    // 无明确领域但问的是定义/原理 → 当作知识咨询直接答
+    type = "knowledge";
+    reason = "factual-pattern";
+  } else {
+    // 兜底：当作观点讨论，检索但不强求引用（既不硬套经典，也不放弃知识增强）
+    type = "opinion";
+    reason = "fallback";
+  }
+
+  // ---- 是否需要知识增强 ----
+  let knowledgePolicy;
+  if (type === "knowledge") {
+    knowledgePolicy = "skip";
+  } else if (type === "opinion") {
+    // 观点讨论：人文话题给素材，客观话题不给
+    knowledgePolicy = KNOWLEDGE_DOMAINS.indexOf(domain) >= 0 || domain === "" ? "optional" : "skip";
+  } else {
+    knowledgePolicy = "use";
+  }
+
+  // ---- 输出格式 ----
+  let format;
+  if (type === "knowledge") {
+    format = "technical";
+  } else if (type === "emotion") {
+    format = "emotion";
+  } else if (abstractInquiry || PHILO_FORMAT_DOMAINS.indexOf(domain) >= 0) {
+    // 抽象追问一律哲学式结构（即便其 domain 误落到情绪）
+    format = "philosophy";
+  } else {
+    format = "general";
+  }
+
+  return {
+    type,
+    typeLabel: TYPE_LABEL[type],
+    needKnowledge: knowledgePolicy !== "skip",
+    knowledgePolicy,
+    domain: domain || "通用",
+    format,
+    keywords: extractKeywords(q, domain),
+    crisis: false,
+    reason,
+  };
+}
+
+module.exports = {
+  classifyIntent,
+  // 导出内部规则供测试与调参
+  CRISIS_RE,
+  EMOTION_RE,
+  OPINION_RE,
+  DOMAIN_RULES,
+  HARD_FACT_DOMAINS,
+  PHILO_FORMAT_DOMAINS,
+  KNOWLEDGE_DOMAINS,
+  TYPE_LABEL,
+  extractKeywords,
+};

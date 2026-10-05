@@ -1,1 +1,53 @@
-ew0KICAic2NoZW1hIjogImtub3dsZWRnZS1yZWdpc3RyeS92MS4wIiwNCiAgIm5hbWVzcGFjZSI6ICJwcm9kdWN0aW9uLWNhbmRpZGF0ZSIsDQogICJzdG9yYWdlIjogImxvY2FsLWZpbGUgKHRlc3RzL3BpbG90LW8xLykg4oCUIOWPkeW4g+WJjeayu+eQhuiusOW9le+8m1B1Ymxpc2gg5pe255SxIGluZ2VzdCDlhpnlhaXnlJ/kuqflgJnpgInmsaAiLA0KICAicmVjb3JkcyI6IFsNCiAgICB7DQogICAgICAia25vd2xlZGdlX2lkIjogIktPLVAtMDQiLA0KICAgICAgIm9iamVjdF90eXBlIjogImNvbmNlcHQiLA0KICAgICAgInRpdGxlIjogIuehruiupOWBj+W3ruamguW/teWNoSIsDQogICAgICAia25vd2xlZGdlX3R5cGUiOiAicHN5Y2hvbG9neSIsDQogICAgICAiZG9tYWluIjogIuW/g+eQhuWtpiIsDQogICAgICAic3ViY2F0ZWdvcnkiOiAi6K6k55+l5YGP5beuIiwNCiAgICAgICJ2ZXJzaW9uIjogIjEuMC4wIiwNCiAgICAgICJsaWZlY3ljbGUiOiBbDQogICAgICAgIHsNCiAgICAgICAgICAic3RhZ2UiOiAiZHJhZnQiLA0KICAgICAgICAgICJhdCI6ICIyMDI2LTA4LTAxVDA5OjQzOjQxLjgwOFoiLA0KICAgICAgICAgICJub3RlIjogIua6kOamguW/teWNoeaSsOWGmeWujOaIkO+8iHRlc3RzL3BpbG90LW40L3NvdXJjZS9QLTA0LWNvbmZpcm1hdGlvbi1iaWFzLm1k77yJIg0KICAgICAgICB9LA0KICAgICAgICB7DQogICAgICAgICAgInN0YWdlIjogImNhbmRpZGF0ZSIsDQogICAgICAgICAgImF0IjogIjIwMjYtMDgtMDFUMDk6NDM6NDEuODA4WiIsDQogICAgICAgICAgIm5vdGUiOiAi5YaZ5YWlIDE5IOWtl+autSBNZXRhZGF0Ye+8m3Jldmlld19zdGF0dXM9cGVuZGluZyINCiAgICAgICAgfSwNCiAgICAgICAgew0KICAgICAgICAgICJzdGFnZSI6ICJyZWdpc3RlcmVkIiwNCiAgICAgICAgICAiYXQiOiAiMjAyNi0wOC0wMVQxNzozNzowMCswODowMCIsDQogICAgICAgICAgIm5vdGUiOiAia25vd2xlZGdlX3R5cGU9cHN5Y2hvbG9neSDlt7LlnKggUmVnaXN0cnnvvIhkb2NzLzYyIMKnNe+8ieeZu+iusO+8m+W8leeUqOW4uOmHj++8jOmdnuWtl+mdoumHjyINCiAgICAgICAgfSwNCiAgICAgICAgew0KICAgICAgICAgICJzdGFnZSI6ICJwcm9kdWN0aW9uLWNhbmRpZGF0ZSIsDQogICAgICAgICAgImF0IjogIjIwMjYtMDgtMDFUMjI6MzM6MTUrMDg6MDAiLA0KICAgICAgICAgICJub3RlIjogIumAmui/hyBPLTEg5YWr6aG56Zeo56aBICsgUmVsZWFzZSBHYXRlICsg55yf5py657qn5Zue5b2S77ybc3RhdHVzPWNhbmRpZGF0Ze+8jOacqiBQdWJsaXNoZWQiDQogICAgICAgIH0NCiAgICAgIF0sDQogICAgICAic3RhdHVzIjogImNhbmRpZGF0ZSIsDQogICAgICAibGlmZWN5Y2xlX3N0YWdlIjogInByb2R1Y3Rpb24tY2FuZGlkYXRlIiwNCiAgICAgICJyZXZpZXdfc3RhdHVzIjogImFwcHJvdmVkIiwNCiAgICAgICJyZXZpZXdlciI6ICJZT1VSX0FETUlOX09QRU5JRCIsDQogICAgICAiZW1iZWRkaW5nX3ZlcnNpb24iOiAiZGFzaHNjb3BlLXYzLTEwMjQiLA0KICAgICAgImVtYmVkZGluZ19zdGF0dXMiOiAiZW1iZWRkZWQiLA0KICAgICAgImVtYmVkZGluZ19wcm92aWRlciI6ICJkYXNoc2NvcGUiLA0KICAgICAgImVtYmVkZGluZ19tb2RlbCI6ICJ0ZXh0LWVtYmVkZGluZy12MyIsDQogICAgICAiZW1iZWRkaW5nX2RpbSI6IDEwMjQsDQogICAgICAiY2h1bmtfY291bnQiOiA3LA0KICAgICAgInF1YWxpdHlfc2NvcmUiOiAwLjkyMDUsDQogICAgICAicHVibGlzaF9yZW1lZGlhdGlvbiI6IFsNCiAgICAgICAgImtub3dsZWRnZV9pZCDlvZLkuIDljJbvvJpQLTA0IOKGkiBLTy1QLTA077yI5LuF5YWD5pWw5o2u5YC877yM6Lev55Sx5LiN5L6d6LWWIGlk77yJIiwNCiAgICAgICAgImluZ2VzdCDlhpnlhaXnlJ/kuqflgJnpgInmsaDml7bmkLrluKYga25vd2xlZGdlX3R5cGU9cHN5Y2hvbG9nee+8iOi3r+eUseeUn+aViOWUr+S4gOS+neaNru+8iSINCiAgICAgIF0NCiAgICB9DQogIF0NCn0=
+{
+  "schema": "knowledge-registry/v1.0",
+  "namespace": "production-candidate",
+  "storage": "local-file (tests/pilot-o1/) — 发布前治理记录；Publish 时由 ingest 写入生产候选池",
+  "records": [
+    {
+      "knowledge_id": "KO-P-04",
+      "object_type": "concept",
+      "title": "确认偏差概念卡",
+      "knowledge_type": "psychology",
+      "domain": "心理学",
+      "subcategory": "认知偏差",
+      "version": "1.0.0",
+      "lifecycle": [
+        {
+          "stage": "draft",
+          "at": "2026-08-01T09:43:41.808Z",
+          "note": "源概念卡撰写完成（tests/pilot-n4/source/P-04-confirmation-bias.md）"
+        },
+        {
+          "stage": "candidate",
+          "at": "2026-08-01T09:43:41.808Z",
+          "note": "写入 19 字段 Metadata；review_status=pending"
+        },
+        {
+          "stage": "registered",
+          "at": "2026-08-01T17:37:00+08:00",
+          "note": "knowledge_type=psychology 已在 Registry（docs/62 §5）登记；引用常量，非字面量"
+        },
+        {
+          "stage": "production-candidate",
+          "at": "2026-08-01T22:33:15+08:00",
+          "note": "通过 O-1 八项门禁 + Release Gate + 真机级回归；status=candidate，未 Published"
+        }
+      ],
+      "status": "candidate",
+      "lifecycle_stage": "production-candidate",
+      "review_status": "approved",
+      "reviewer": "YOUR_ADMIN_OPENID",
+      "embedding_version": "dashscope-v3-1024",
+      "embedding_status": "embedded",
+      "embedding_provider": "dashscope",
+      "embedding_model": "text-embedding-v3",
+      "embedding_dim": 1024,
+      "chunk_count": 7,
+      "quality_score": 0.9205,
+      "publish_remediation": [
+        "knowledge_id 归一化：P-04 → KO-P-04（仅元数据值，路由不依赖 id）",
+        "ingest 写入生产候选池时携带 knowledge_type=psychology（路由生效唯一依据）"
+      ]
+    }
+  ]
+}

@@ -1,1 +1,33 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNDQgMTQ0IiB3aWR0aD0iMTQ0IiBoZWlnaHQ9IjE0NCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSLlkJHmmZrpl67mgJ0gbG9nbyDlgJnpgIkiPgogIDxkZWZzPgogICAgPHJhZGlhbEdyYWRpZW50IGlkPSJnbG93IiBjeD0iNTAlIiBjeT0iNTAlIiByPSI1MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZThiMDRiIiBzdG9wLW9wYWNpdHk9IjAuNTUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI2MCUiIHN0b3AtY29sb3I9IiNlOGIwNGIiIHN0b3Atb3BhY2l0eT0iMC4xMiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNlOGIwNGIiIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZmxhbWUiIHgxPSIwIiB5MT0iMSIgeDI9IjAiIHkyPSIwIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzliMmYyNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjU1JSIgc3RvcC1jb2xvcj0iI2Q4NjkyZiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmMmMxNGUiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgoKICA8IS0tIOWchuinkuaWueW9ouW6le+8jOexs+iJsu+8iOS4jiBhcHAg5a+86Iiq5qCPICNlZmU0Y2Yg5LiA6Ie077yJIC0tPgogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxNDQiIGhlaWdodD0iMTQ0IiByeD0iMzAiIGZpbGw9IiNlZmU0Y2YiLz4KCiAgPCEtLSDnpoXlnIYgZW5zb++8mua3see7ryAjOWIyZjI177yM55WZ5Y+j5pyJ56yU5oSPIC0tPgogIDxjaXJjbGUgY3g9IjcyIiBjeT0iNzIiIHI9IjQ2IiBmaWxsPSJub25lIiBzdHJva2U9IiM5YjJmMjUiIHN0cm9rZS13aWR0aD0iNyIKICAgICAgICAgIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWRhc2hhcnJheT0iMjY2IDI2IiB0cmFuc2Zvcm09InJvdGF0ZSg0MCA3MiA3MikiIG9wYWNpdHk9IjAuOSIvPgogIDxjaXJjbGUgY3g9IjcyIiBjeT0iNzIiIHI9IjQ2IiBmaWxsPSJub25lIiBzdHJva2U9IiM5YjJmMjUiIHN0cm9rZS13aWR0aD0iMyIKICAgICAgICAgIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWRhc2hhcnJheT0iMjY2IDI2IiB0cmFuc2Zvcm09InJvdGF0ZSg0MCA3MiA3MikiIG9wYWNpdHk9IjAuMjUiLz4KCiAgPCEtLSDngavnhLDmn5TlhYkgLS0+CiAgPGNpcmNsZSBjeD0iNzIiIGN5PSI3MCIgcj0iMzAiIGZpbGw9InVybCgjZ2xvdykiLz4KCiAgPCEtLSDng5vnhLAgLS0+CiAgPHBhdGggZD0iTTcyIDkwIEM2MSA4MCA2MyA2NCA3MiA1MCBDODEgNjQgODMgODAgNzIgOTAgWiIgZmlsbD0idXJsKCNmbGFtZSkiLz4KICA8cGF0aCBkPSJNNzIgODUgQzY3IDc5IDY4IDcwIDcyIDYxIEM3NiA3MCA3NyA3OSA3MiA4NSBaIiBmaWxsPSIjZjdlMmEwIiBvcGFjaXR5PSIwLjg1Ii8+CgogIDwhLS0g54Ob6Iqv5bCP54K5IC0tPgogIDxjaXJjbGUgY3g9IjcyIiBjeT0iOTEiIHI9IjIuNCIgZmlsbD0iIzZlMjExYSIvPgo8L3N2Zz4K
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="144" height="144" role="img" aria-label="向晚问思 logo 候选">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#e8b04b" stop-opacity="0.55"/>
+      <stop offset="60%" stop-color="#e8b04b" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#e8b04b" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="flame" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#9b2f25"/>
+      <stop offset="55%" stop-color="#d8692f"/>
+      <stop offset="100%" stop-color="#f2c14e"/>
+    </linearGradient>
+  </defs>
+
+  <!-- 圆角方形底，米色（与 app 导航栏 #efe4cf 一致） -->
+  <rect x="0" y="0" width="144" height="144" rx="30" fill="#efe4cf"/>
+
+  <!-- 禅圆 enso：深绯 #9b2f25，留口有笔意 -->
+  <circle cx="72" cy="72" r="46" fill="none" stroke="#9b2f25" stroke-width="7"
+          stroke-linecap="round" stroke-dasharray="266 26" transform="rotate(40 72 72)" opacity="0.9"/>
+  <circle cx="72" cy="72" r="46" fill="none" stroke="#9b2f25" stroke-width="3"
+          stroke-linecap="round" stroke-dasharray="266 26" transform="rotate(40 72 72)" opacity="0.25"/>
+
+  <!-- 火焰柔光 -->
+  <circle cx="72" cy="70" r="30" fill="url(#glow)"/>
+
+  <!-- 烛焰 -->
+  <path d="M72 90 C61 80 63 64 72 50 C81 64 83 80 72 90 Z" fill="url(#flame)"/>
+  <path d="M72 85 C67 79 68 70 72 61 C76 70 77 79 72 85 Z" fill="#f7e2a0" opacity="0.85"/>
+
+  <!-- 烛芯小点 -->
+  <circle cx="72" cy="91" r="2.4" fill="#6e211a"/>
+</svg>

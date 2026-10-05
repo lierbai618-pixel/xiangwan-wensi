@@ -1,1 +1,1 @@
-W3siVGFibGVOYW1lIjoiY2h1bmtzIiwiQ29tbWFuZFR5cGUiOiJDT01NQU5EIiwiQ29tbWFuZCI6ImRiLmNvbGxlY3Rpb24oJ2NodW5rcycpLmluc2VydCh7dGl0bGU6J+a1i+ivlScsY29udGVudDoneCcsa25vd2xlZGdlX3R5cGU6J2NsYXNzaWMnfSkifV0K
+[{"TableName":"chunks","CommandType":"COMMAND","Command":"db.collection('chunks').insert({title:'测试',content:'x',knowledge_type:'classic'})"}]

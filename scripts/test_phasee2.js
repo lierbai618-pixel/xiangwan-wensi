@@ -1,1 +1,62 @@
-Ly8gUGhhc2UgRS12MiDlhpLng5/mtYvor5XvvJrpqozor4HjgIzlhYjlgZrkurrvvIzlho3lvJXnu4/jgI3lm57nrZTmqKHlnosgKyBFLTEvRS0zL0UtNApjb25zdCBwYXRoID0gcmVxdWlyZSgicGF0aCIpOwpjb25zdCByYWcgPSByZXF1aXJlKHBhdGguam9pbihfX2Rpcm5hbWUsICIuLiIsICJjbG91ZGZ1bmN0aW9ucyIsICJjaGF0IiwgInJhZy5qcyIpKTsKCmxldCBwYXNzID0gMCwgZmFpbCA9IDA7CmZ1bmN0aW9uIG9rKG5hbWUsIGNvbmQpIHsgaWYgKGNvbmQpIHsgcGFzcysrOyBjb25zb2xlLmxvZygi4pyFICIgKyBuYW1lKTsgfSBlbHNlIHsgZmFpbCsrOyBjb25zb2xlLmxvZygi4p2MICIgKyBuYW1lKTsgfSB9CgooYXN5bmMgZnVuY3Rpb24gKCkgewogIC8vIC0tLS0gRS0xIOmXrumimOeQhuino+WxgiAtLS0tCiAgY29uc3QgYTEgPSByYWcuYW5hbHl6ZVF1ZXJ5KCLmiJHlpKflrabmr5XkuJrkuobvvIzlvojov7fojKvvvIzkuI3nn6XpgZPmnKrmnaXmgI7kuYjlip4iLCBbXSk7CiAgb2soIkUtMSDmg4Xnu6ror4bliKs96L+36IyrIiwgYTEuZW1vdGlvbiA9PT0gIui/t+iMqyIpOwogIG9rKCJFLTEg562W55WlPeWFseaDheS8mOWFiChjb21mb3J0LWZpcnN0KSIsIGExLnN0cmF0ZWd5ID09PSAiY29tZm9ydC1maXJzdCIpOwogIG9rKCJFLTEg5Li76aKYPei/t+iMqyIsIGExLnRoZW1lID09PSAi6L+36IyrIik7CgogIGNvbnN0IGEyID0gcmFnLmFuYWx5emVRdWVyeSgi5oCO5qC35Yi25a6a5q+P5pel5a2m5Lmg6K6h5YiS5o+Q6auY5pWI546HIiwgW10pOwogIG9rKCJFLTEg5oSP5Zu+PeaxguaWueazlSIsIGEyLmludGVudCA9PT0gIuaxguaWueazlSIpOwogIG9rKCJFLTEg5peg5oOF57uq4oaS6Z2e5YWx5oOF5LyY5YWIKOW6lOS4umFjdGlvbi1maXJzdCkiLCBhMi5zdHJhdGVneSA9PT0gImFjdGlvbi1maXJzdCIpOwoKICBjb25zdCBhMyA9IHJhZy5hbmFseXplUXVlcnkoIuaIkeWksei0peS6hu+8jOW+iOmavui1sOWHuuadpSIsIFtdKTsKICBvaygiRS0xIOaDhee7quivhuWIqz3lpLHotKUiLCBhMy5lbW90aW9uID09PSAi5aSx6LSlIik7CiAgb2soIkUtMSDlpLHotKXihpLlhbHmg4XkvJjlhYgiLCBhMy5zdHJhdGVneSA9PT0gImNvbWZvcnQtZmlyc3QiKTsKCiAgLy8gLS0tLSDmnKzlnLDlm57nrZTnu5PmnoTvvJrlhYjlgZrkurrvvIzlho3lvJXnu48gLS0tLQogIGNvbnN0IHJlcyA9IGF3YWl0IHJhZy5nZW5lcmF0ZUFuc3dlcigi5oiR5aSn5a2m5q+V5Lia5LqG77yM5b6I6L+36Iyr77yM5LiN55+l6YGT5pyq5p2l5oCO5LmI5YqeIiwgeyB0dXJuOiAwLCBtb2RlbHM6IFtdIH0pOwogIG9rKCLmnKzlnLDot6/lvoTlm57pgIAiLCByZXMubW9kZSA9PT0gImxvY2FsIik7CiAgY29uc3QgYW5zID0gcmVzLmFuc3dlciB8fCAiIjsKICBjb25zdCBwYXJ0cyA9IGFucy5zcGxpdCgiXG5cbiIpOwogIG9rKCLlm57nrZTliIbmrrXiiaU1IiwgcGFydHMubGVuZ3RoID49IDUpOwogIC8vIOesrOS4gOaute+8iG9wZW5pbmfvvInkuYvlkI7lupTmmK/lhbHmg4Uv55CG6Kej77yM5LiN5piv57uP5YW4CiAgY29uc3Qgc2Vjb25kUGFyYSA9IChwYXJ0c1sxXSB8fCAiIikuc2xpY2UoMCwgMjApOwogIG9rKCLnrKwy5q615piv5YWx5oOF6ICM6Z2e55u05o6l5byV57uPIiwgIS9e44CKLy50ZXN0KHNlY29uZFBhcmEpICYmICEv44CK6K666K+t44CL6K+0Ly50ZXN0KHBhcnRzWzFdIHx8ICIiKSk7CiAgLy8g6KGM5Yqo5q615b+F6aG75Zyo57uP5YW45q615LmL5YmNCiAgY29uc3QgYWN0aW9uSWR4ID0gYW5zLmluZGV4T2YoIuWPr+S7peWFiOivlei/meWHoOS7tuWwj+S6iyIpOwogIGNvbnN0IGNsYXNzaWNJZHggPSBhbnMuaW5kZXhPZigi6K+05Yiw6L+Z77yM5oOz6LW35Y+v5Lul5a+554Wn55qE57uP5YW4Iik7CiAgb2soIuihjOWKqOauteWtmOWcqCIsIGFjdGlvbklkeCA+IDApOwogIG9rKCLnu4/lhbjlnKjooYzliqjkuYvlkI4o5YWI5YGa5Lq65YaN5byV57uPKSIsIGFjdGlvbklkeCA+IDAgJiYgY2xhc3NpY0lkeCA+IGFjdGlvbklkeCk7CiAgb2soIue7k+Wwvuaciei/vemXruautSIsIChwYXJ0c1twYXJ0cy5sZW5ndGggLSAxXSB8fCAiIikubGVuZ3RoID4gMTApOwoKICAvLyDluKbmg4Xnu6rml7bnu4/lhbjmmI7noa7moIfms6jkuLrjgIzkuI3mmK/moIflh4bnrZTmoYjjgI0KICBvaygi57uP5YW45qCH5rOo5Li66Z2e562U5qGIIiwgL+S4jeaYr+agh+WHhuetlOahiC8udGVzdChhbnMpKTsKCiAgLy8gLS0tLSBFLTQg5byV55So5Y2h5YWD5pWw5o2uIC0tLS0KICBvaygi5byV55So5Y2h5bimIHdoeSIsIChyZXMuY2l0YXRpb25zWzBdIHx8IHt9KS53aHkgJiYgKHJlcy5jaXRhdGlvbnNbMF0ud2h5KS5pbmRleE9mKCLkvaDpgYfliLDnmoTmmK8iKSA9PT0gMCk7CiAgb2soIuW8leeUqOWNoeW4piBwcmluY2lwbGUiLCAhIShyZXMuY2l0YXRpb25zWzBdIHx8IHt9KS5wcmluY2lwbGUpOwogIG9rKCLlvJXnlKjljaHluKYgaW5zcGlyYXRpb24iLCAhIShyZXMuY2l0YXRpb25zWzBdIHx8IHt9KS5pbnNwaXJhdGlvbik7CgogIC8vIC0tLS0g6Z2e5oOF57uq6Zeu6aKY5Lmf5bqU5ZCr6KGM5YqoK+e7j+WFuO+8jOS4lOetlueVpemdnuWFseaDhSAtLS0tCiAgY29uc3QgcmVzMiA9IGF3YWl0IHJhZy5nZW5lcmF0ZUFuc3dlcigi5aaC5L2V5o+Q6auY5a2m5Lmg5pWI546H77yM6ICB5piv5Z2a5oyB5LiN5LiL5p2lIiwgeyB0dXJuOiAwLCBtb2RlbHM6IFtdIH0pOwogIG9rKCLpnZ7mg4Xnu6rpl67popjkuZ/mnInooYzliqjmrrUiLCByZXMyLmFuc3dlci5pbmRleE9mKCLlj6/ku6XlhYjor5Xov5nlh6Dku7blsI/kuosiKSA+IDApOwogIG9rKCLpnZ7mg4Xnu6rpl67popjnu4/lhbjku43lnKjooYzliqjlkI4iLCByZXMyLmFuc3dlci5pbmRleE9mKCLlj6/ku6XlhYjor5UiKSA8IHJlczIuYW5zd2VyLmluZGV4T2YoIuivtOWIsOi/mSIpKTsKCiAgLy8gLS0tLSDmlY/mhJ/ms4TmvI/mo4DmtYsgLS0tLQogIGNvbnN0IGxlYWsgPSAv5q+b5rO95LicfOWunui3teiuunznn5vnm77orrp85ZCM5b+XLy50ZXN0KGFucyArIChyZXMyLmFuc3dlciB8fCAiIikpOwogIG9rKCLml6DmlY/mhJ/ms4TmvI8iLCBsZWFrID09PSBmYWxzZSk7CgogIC8vIC0tLS0g6L+96Zeu77yI5LiK5LiL5paH77yJ5L6d54S25Y+v55SoIC0tLS0KICBjb25zdCByZXMzID0gYXdhaXQgcmFnLmdlbmVyYXRlQW5zd2VyKCLpgqPlpoLmnpzmiJHmmK/lrabnlJ/lkaLvvJ8iLCB7IHR1cm46IDEsIG1vZGVsczogW10sIGhpc3Rvcnk6IFt7IHJvbGU6ICJ1c2VyIiwgY29udGVudDogIuWmguS9lemdouWvueWksei0pe+8nyIgfSwgeyByb2xlOiAiYXNzaXN0YW50IiwgY29udGVudDogIi4uLiIgfV0gfSk7CiAgb2soIui/vemXruiiq+mHjeWGmeS4uuiHqui2s+mXrumimCIsIHJlczMucmV0cmlldmFsICYmIHJlczMucmV0cmlldmFsLmZvbGxvd1VwID09PSB0cnVlKTsKCiAgY29uc29sZS5sb2coIlxuPT09IFBoYXNlIEUtdjIg57uT5p6cOiAiICsgcGFzcyArICIg6YCa6L+HIC8gIiArIGZhaWwgKyAiIOWksei0pSA9PT0iKTsKICBwcm9jZXNzLmV4aXQoZmFpbCA/IDEgOiAwKTsKfSkoKS5jYXRjaCgoZSkgPT4geyBjb25zb2xlLmVycm9yKCLmtYvor5XlvILluLg6IiwgZSk7IHByb2Nlc3MuZXhpdCgxKTsgfSk7Cg==
+// Phase E-v2 冒烟测试：验证「先做人，再引经」回答模型 + E-1/E-3/E-4
+const path = require("path");
+const rag = require(path.join(__dirname, "..", "cloudfunctions", "chat", "rag.js"));
+
+let pass = 0, fail = 0;
+function ok(name, cond) { if (cond) { pass++; console.log("✅ " + name); } else { fail++; console.log("❌ " + name); } }
+
+(async function () {
+  // ---- E-1 问题理解层 ----
+  const a1 = rag.analyzeQuery("我大学毕业了，很迷茫，不知道未来怎么办", []);
+  ok("E-1 情绪识别=迷茫", a1.emotion === "迷茫");
+  ok("E-1 策略=共情优先(comfort-first)", a1.strategy === "comfort-first");
+  ok("E-1 主题=迷茫", a1.theme === "迷茫");
+
+  const a2 = rag.analyzeQuery("怎样制定每日学习计划提高效率", []);
+  ok("E-1 意图=求方法", a2.intent === "求方法");
+  ok("E-1 无情绪→非共情优先(应为action-first)", a2.strategy === "action-first");
+
+  const a3 = rag.analyzeQuery("我失败了，很难走出来", []);
+  ok("E-1 情绪识别=失败", a3.emotion === "失败");
+  ok("E-1 失败→共情优先", a3.strategy === "comfort-first");
+
+  // ---- 本地回答结构：先做人，再引经 ----
+  const res = await rag.generateAnswer("我大学毕业了，很迷茫，不知道未来怎么办", { turn: 0, models: [] });
+  ok("本地路径回退", res.mode === "local");
+  const ans = res.answer || "";
+  const parts = ans.split("\n\n");
+  ok("回答分段≥5", parts.length >= 5);
+  // 第一段（opening）之后应是共情/理解，不是经典
+  const secondPara = (parts[1] || "").slice(0, 20);
+  ok("第2段是共情而非直接引经", !/^《/.test(secondPara) && !/《论语》说/.test(parts[1] || ""));
+  // 行动段必须在经典段之前
+  const actionIdx = ans.indexOf("可以先试这几件小事");
+  const classicIdx = ans.indexOf("说到这，想起可以对照的经典");
+  ok("行动段存在", actionIdx > 0);
+  ok("经典在行动之后(先做人再引经)", actionIdx > 0 && classicIdx > actionIdx);
+  ok("结尾有追问段", (parts[parts.length - 1] || "").length > 10);
+
+  // 带情绪时经典明确标注为「不是标准答案」
+  ok("经典标注为非答案", /不是标准答案/.test(ans));
+
+  // ---- E-4 引用卡元数据 ----
+  ok("引用卡带 why", (res.citations[0] || {}).why && (res.citations[0].why).indexOf("你遇到的是") === 0);
+  ok("引用卡带 principle", !!(res.citations[0] || {}).principle);
+  ok("引用卡带 inspiration", !!(res.citations[0] || {}).inspiration);
+
+  // ---- 非情绪问题也应含行动+经典，且策略非共情 ----
+  const res2 = await rag.generateAnswer("如何提高学习效率，老是坚持不下来", { turn: 0, models: [] });
+  ok("非情绪问题也有行动段", res2.answer.indexOf("可以先试这几件小事") > 0);
+  ok("非情绪问题经典仍在行动后", res2.answer.indexOf("可以先试") < res2.answer.indexOf("说到这"));
+
+  // ---- 敏感泄漏检测 ----
+  const leak = /毛泽东|实践论|矛盾论|同志/.test(ans + (res2.answer || ""));
+  ok("无敏感泄漏", leak === false);
+
+  // ---- 追问（上下文）依然可用 ----
+  const res3 = await rag.generateAnswer("那如果我是学生呢？", { turn: 1, models: [], history: [{ role: "user", content: "如何面对失败？" }, { role: "assistant", content: "..." }] });
+  ok("追问被重写为自足问题", res3.retrieval && res3.retrieval.followUp === true);
+
+  console.log("\n=== Phase E-v2 结果: " + pass + " 通过 / " + fail + " 失败 ===");
+  process.exit(fail ? 1 : 0);
+})().catch((e) => { console.error("测试异常:", e); process.exit(1); });

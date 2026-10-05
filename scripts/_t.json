@@ -1,1 +1,8 @@
-Q2xvdWRCYXNlIENMSSAzLjcuMgpUcnkgdGhlIHRjYiBhaSBjb21tYW5kIHRvIHN0YXJ0IHlvdXIgQUkgZnVsbC1zdGFjayBkZXZlbG9wbWVudCBleHBlcmllbmNlCi0gTG9hZGluZyBkYXRhLi4uCsOXIEZldGNoRXJyb3I6IG5ldHdvcmsgdGltZW91dCBhdDogaHR0cHM6Ly90Y2IudGVuY2VudGNsb3VkYXBpLmNvbS8KVHlwZUVycm9yOiBlcnIubWVzc2FnZS5pbmNsdWRlcyBpcyBub3QgYSBmdW5jdGlvbgogICAgYXQgcHJvY2Vzcy5lcnJvckhhbmRsZXIgKEM6XFVzZXJzXGY0MTA5XC53b3JrYnVkZHlcYmluYXJpZXNcbm9kZVx2ZXJzaW9uc1wyMi4yMi4yXG5vZGVfbW9kdWxlc1xAY2xvdWRiYXNlXGNsaVxkaXN0XHN0YW5kYWxvbmVcY2xpLmpzOjQ0Mjo1NikKICAgIGF0IHByb2Nlc3MucHJvY2Vzc1RpY2tzQW5kUmVqZWN0aW9ucyAobm9kZTppbnRlcm5hbC9wcm9jZXNzL3Rhc2tfcXVldWVzOjEwMzo1KQrDlyBlcnIubWVzc2FnZS5pbmNsdWRlcyBpcyBub3QgYSBmdW5jdGlvbgo=
+CloudBase CLI 3.7.2
+Try the tcb ai command to start your AI full-stack development experience
+- Loading data...
+× FetchError: network timeout at: https://tcb.tencentcloudapi.com/
+TypeError: err.message.includes is not a function
+    at process.errorHandler (C:\Users\f4109\.workbuddy\binaries\node\versions\22.22.2\node_modules\@cloudbase\cli\dist\standalone\cli.js:442:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+× err.message.includes is not a function

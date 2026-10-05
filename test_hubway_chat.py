@@ -1,1 +1,74 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMw0KIyAtKi0gY29kaW5nOiB1dGYtOCAtKi0NCiIiIg0K5rWL6K+VIHouaHVid2F5LmNjIOeahCBjaGF0L2NvbXBsZXRpb25zIOaOpeWPow0K5rWL6K+V5qih5Z6L77yaZ3B0LTUuNC1taW5pLCBncHQtNS41LCBncHQtNS42DQrlr7nmr5TpgJ/luqYv6LSo6YePL+iBlOe9keiDveWKmw0KIiIiDQoNCmltcG9ydCBqc29uLCB0aW1lLCBodHRwLmNsaWVudCwgc3NsDQoNCkFQSV9LRVkgPSAic2stWU9VUl9BUElfS0VZX0hFUkUiDQpCQVNFX0hPU1QgPSAiei5odWJ3YXkuY2MiDQpIRUFERVJTID0gew0KICAgICJDb250ZW50LVR5cGUiOiAiYXBwbGljYXRpb24vanNvbjsgY2hhcnNldD11dGYtOCIsDQogICAgIkFjY2VwdCI6ICJhcHBsaWNhdGlvbi9qc29uIiwNCiAgICAiQXV0aG9yaXphdGlvbiI6IGYiQmVhcmVyIHtBUElfS0VZfSIsDQp9DQoNCk1PREVMUyA9IFsiZ3B0LTUuNC1taW5pIiwgImdwdC01LjUiLCAiZ3B0LTUuNiJdDQpRVUVTVElPTlMgPSBbDQogICAgIjIwMjblubQ45pyIOOaXpe+8jOS4reWbveS7iuWkqeacieS7gOS5iOmHjeWkp+aWsOmXu+S6i+S7tu+8nyIsDQogICAgIuS7mOiIquaYr+iwge+8n+ivt+ivpue7huS7i+e7jeS7lueahOiBjOS4muWSjOaIkOWwseOAgiIsDQpdDQoNCmRlZiBjYWxsKG1vZGVsLCBxdWVzdGlvbik6DQogICAgYm9keSA9IHsNCiAgICAgICAgIm1vZGVsIjogbW9kZWwsDQogICAgICAgICJtZXNzYWdlcyI6IFsNCiAgICAgICAgICAgIHsicm9sZSI6ICJzeXN0ZW0iLCAiY29udGVudCI6ICLkvaDmmK/nn6Xor4bliqnmiYvjgILnm7Tnu5nlhbPplK7kuovlrp7vvIzkuI3lrqLlpZfvvIzkuI3ph43lpI3pl67popjjgIIifSwNCiAgICAgICAgICAgIHsicm9sZSI6ICJ1c2VyIiwgImNvbnRlbnQiOiBxdWVzdGlvbn0NCiAgICAgICAgXSwNCiAgICAgICAgInN0cmVhbSI6IEZhbHNlLA0KICAgICAgICAibWF4X3Rva2VucyI6IDEwMjQsDQogICAgICAgICJ3ZWJfc2VhcmNoX29wdGlvbnMiOiB7fSwNCiAgICB9DQogICAgcGF5bG9hZCA9IGpzb24uZHVtcHMoYm9keSwgZW5zdXJlX2FzY2lpPUZhbHNlKS5lbmNvZGUoInV0Zi04IikNCiAgICBjb25uID0gaHR0cC5jbGllbnQuSFRUUFNDb25uZWN0aW9uKEJBU0VfSE9TVCwgY29udGV4dD1zc2wuY3JlYXRlX2RlZmF1bHRfY29udGV4dCgpLCB0aW1lb3V0PTMwKQ0KICAgIHN0YXJ0ID0gdGltZS50aW1lKCkNCiAgICB0cnk6DQogICAgICAgIGNvbm4ucmVxdWVzdCgiUE9TVCIsICIvdjEvY2hhdC9jb21wbGV0aW9ucyIsIGJvZHk9cGF5bG9hZCwgaGVhZGVycz1IRUFERVJTKQ0KICAgICAgICByZXNwID0gY29ubi5nZXRyZXNwb25zZSgpDQogICAgICAgIGRhdGEgPSByZXNwLnJlYWQoKS5kZWNvZGUoInV0Zi04IikNCiAgICAgICAgZWxhcHNlZCA9IGludCgodGltZS50aW1lKCkgLSBzdGFydCkgKiAxMDAwKQ0KICAgICAgICBpZiByZXNwLnN0YXR1cyAhPSAyMDA6DQogICAgICAgICAgICByZXR1cm4gRmFsc2UsIGVsYXBzZWQsIE5vbmUsIE5vbmUsIGYiSFRUUCB7cmVzcC5zdGF0dXN9OiB7ZGF0YVs6MzAwXX0iDQogICAgICAgIG9iaiA9IGpzb24ubG9hZHMoZGF0YSkNCiAgICAgICAgY2hvaWNlcyA9IG9iai5nZXQoImNob2ljZXMiLCBbXSkNCiAgICAgICAgaWYgbm90IGNob2ljZXM6DQogICAgICAgICAgICByZXR1cm4gRmFsc2UsIGVsYXBzZWQsIE5vbmUsIE5vbmUsICJubyBjaG9pY2VzIg0KICAgICAgICBjb250ZW50ID0gY2hvaWNlc1swXS5nZXQoIm1lc3NhZ2UiLCB7fSkuZ2V0KCJjb250ZW50IiwgIiIpDQogICAgICAgIHVzYWdlID0gb2JqLmdldCgidXNhZ2UiLCB7fSkNCiAgICAgICAgcmV0dXJuIFRydWUsIGVsYXBzZWQsIGNvbnRlbnQsIHVzYWdlLCBOb25lDQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOg0KICAgICAgICBlbGFwc2VkID0gaW50KCh0aW1lLnRpbWUoKSAtIHN0YXJ0KSAqIDEwMDApDQogICAgICAgIHJldHVybiBGYWxzZSwgZWxhcHNlZCwgTm9uZSwgTm9uZSwgc3RyKGUpDQogICAgZmluYWxseToNCiAgICAgICAgY29ubi5jbG9zZSgpDQoNCg0KcHJpbnQoIua1i+ivlSB6Lmh1YndheS5jYyBjaGF0IOaOpeWPoyIpDQpwcmludCgiPSIgKiA2MCkNCmZvciBtb2RlbCBpbiBNT0RFTFM6DQogICAgcHJpbnQoZiJcbj4+PiB7bW9kZWx9IikNCiAgICBmb3IgaSwgcSBpbiBlbnVtZXJhdGUoUVVFU1RJT05TLCAxKToNCiAgICAgICAgb2ssIGxhdCwgY29udGVudCwgdXNhZ2UsIGVyciA9IGNhbGwobW9kZWwsIHEpDQogICAgICAgIHN0YXR1cyA9ICLinIUiIGlmIG9rIGVsc2UgIuKdjCINCiAgICAgICAgcHJpbnQoZiIgIFF7aX0gKHtzdGF0dXN9KSB7bGF0fW1zIHwgbGVuPXtsZW4oY29udGVudCkgaWYgY29udGVudCBlbHNlIDB9IikNCiAgICAgICAgaWYgY29udGVudDoNCiAgICAgICAgICAgIHByZXZpZXcgPSBjb250ZW50WzoyNTBdICsgKCIuLi4iIGlmIGxlbihjb250ZW50KSA+IDI1MCBlbHNlICIiKQ0KICAgICAgICAgICAgcHJpbnQoZiIgICAgIHtwcmV2aWV3fSIpDQogICAgICAgIGlmIGVycjoNCiAgICAgICAgICAgIHByaW50KGYiICAgICBFUlJPUjoge2Vycls6MTUwXX0iKQ0KICAgICAgICBpZiB1c2FnZToNCiAgICAgICAgICAgIHByaW50KGYiICAgICB1c2FnZToge3VzYWdlfSIpDQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+测试 z.hubway.cc 的 chat/completions 接口
+测试模型：gpt-5.4-mini, gpt-5.5, gpt-5.6
+对比速度/质量/联网能力
+"""
+
+import json, time, http.client, ssl
+
+API_KEY = "sk-YOUR_API_KEY_HERE"
+BASE_HOST = "z.hubway.cc"
+HEADERS = {
+    "Content-Type": "application/json; charset=utf-8",
+    "Accept": "application/json",
+    "Authorization": f"Bearer {API_KEY}",
+}
+
+MODELS = ["gpt-5.4-mini", "gpt-5.5", "gpt-5.6"]
+QUESTIONS = [
+    "2026年8月8日，中国今天有什么重大新闻事件？",
+    "付航是谁？请详细介绍他的职业和成就。",
+]
+
+def call(model, question):
+    body = {
+        "model": model,
+        "messages": [
+            {"role": "system", "content": "你是知识助手。直给关键事实，不客套，不重复问题。"},
+            {"role": "user", "content": question}
+        ],
+        "stream": False,
+        "max_tokens": 1024,
+        "web_search_options": {},
+    }
+    payload = json.dumps(body, ensure_ascii=False).encode("utf-8")
+    conn = http.client.HTTPSConnection(BASE_HOST, context=ssl.create_default_context(), timeout=30)
+    start = time.time()
+    try:
+        conn.request("POST", "/v1/chat/completions", body=payload, headers=HEADERS)
+        resp = conn.getresponse()
+        data = resp.read().decode("utf-8")
+        elapsed = int((time.time() - start) * 1000)
+        if resp.status != 200:
+            return False, elapsed, None, None, f"HTTP {resp.status}: {data[:300]}"
+        obj = json.loads(data)
+        choices = obj.get("choices", [])
+        if not choices:
+            return False, elapsed, None, None, "no choices"
+        content = choices[0].get("message", {}).get("content", "")
+        usage = obj.get("usage", {})
+        return True, elapsed, content, usage, None
+    except Exception as e:
+        elapsed = int((time.time() - start) * 1000)
+        return False, elapsed, None, None, str(e)
+    finally:
+        conn.close()
+
+
+print("测试 z.hubway.cc chat 接口")
+print("=" * 60)
+for model in MODELS:
+    print(f"\n>>> {model}")
+    for i, q in enumerate(QUESTIONS, 1):
+        ok, lat, content, usage, err = call(model, q)
+        status = "✅" if ok else "❌"
+        print(f"  Q{i} ({status}) {lat}ms | len={len(content) if content else 0}")
+        if content:
+            preview = content[:250] + ("..." if len(content) > 250 else "")
+            print(f"     {preview}")
+        if err:
+            print(f"     ERROR: {err[:150]}")
+        if usage:
+            print(f"     usage: {usage}")

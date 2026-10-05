@@ -1,1 +1,103 @@
-IyDlkJHmmZrpl67mgJ0gU2VhclhORyDlm73lhoXmo4DntKLlrp7kvosg4oCU4oCUIOmDqOe9siBSdW5ib29rCgo+IOebruagh++8muWcqCoq5Lit5Zu95aSn6ZmG5pyN5Yqh5ZmoKirkuIroh6rlu7ogU2VhclhOR++8jOS7heWQr+eUqOWbveWGheaQnOe0ouW8leaTju+8iOeZvuW6pi/mkJzni5cvMzYw77yJ77yMCj4g5Li65LqR5Ye95pWwIGBkb21lc3RpY0ZyZWVTZWFyY2guanNgIOaPkOS+myoq5YWN6LS544CB6Zu26Leo5aKDKirnmoTogZTnvZHmo4DntKLog73lipvjgIIKPiDlr7nlupTmo4DntKLlsYIgYGRhdGFfcm91dGU9ZG9tZXN0aWNg77yM5ruh6LazIFBJUEwg5pWw5o2u5Ye65aKD5ZCI6KeE44CCCgotLS0KCiMjIDAuIOWJjee9ruadoeS7tgoKfCDpobkgfCDopoHmsYIgfAp8LS0tfC0tLXwKfCDmnI3liqHlmaggfCDkuK3lm73lpKfpmYblnLDln58gQ1ZN77yI6IW+6K6v5LqRL+mYv+mHjOS6ke+8ie+8jCoq56a755So5oi36L+R44CB5bu26L+f5L2OKiogfAp8IOezu+e7nyB8IFVidW50dSAyMi4wNCsgLyDnrYnvvIzlt7Loo4UgYGRvY2tlcmAgKyBgZG9ja2VyLWNvbXBvc2VgIHwKfCDln5/lkI0gfCDkuIDkuKoqKuW3siBJQ1Ag5aSH5qGIKirnmoTln5/lkI3vvIjlpoIgYHNlYXJjaC5leGFtcGxlLmNvbWDvvIkgfAp8IOivgeS5piB8IOeUsSBDYWRkeSDoh6rliqjnlLPor7cgTGV0J3MgRW5jcnlwdO+8iOmcgCA4MC80NDMg5Y+v5YWl56uZ77yJIHwKfCDotLnnlKggfCDku4UgQ1ZNIOWunuS+i+i0ue+8jCoq5peg5oyJ6YeP5qOA57Si6LS544CB5peg56ys5LiJ5pa5IEFQSSBLZXkqKiB8Cgo+IOKaoO+4jyDln5/lkI0qKuW/hemhu+W3suWujOaIkOWkh+ahiCoq77yM5ZCm5YiZ5b6u5L+h5YWs5LyX5bmz5Y+w5LiN5Lya5o6l5Y+X6K+l5Z+f5ZCN5Li6IHJlcXVlc3Qg5ZCI5rOV5Z+f5ZCN77yI6KeB5omn6KGM6K6h5YiSIFBhcnQgQu+8ieOAggoKLS0tCgojIyAxLiDnlJ/miJDlr4bpkqUKCmBgYGJhc2gKIyAoMSkgU2VhclhORyDlrp7kvovlr4bpkqUKb3BlbnNzbCByYW5kIC1oZXggMzIKIyDlpI3liLbovpPlh7rvvIzmm7/mjaIgc2V0dGluZ3MueW1sIOS4reeahCBSRVBMQUNFX1dJVEhfR0VORVJBVEVEX0tFWQoKIyAoMikg5YWs572RIEJlYXJlciBUb2tlbu+8iOS4juS6keWHveaVsCBTRUFSWE5HX0FQSV9LRVkg5L+d5oyB5LiA6Ie077yJCm9wZW5zc2wgcmFuZCAtaGV4IDI0CiMg5aSN5Yi26L6T5Ye677yM5pu/5o2iIENhZGR5ZmlsZSDkuK3nmoQgUkVQTEFDRV9XSVRIX1lPVVJfS0VZ77yM5bm25L2c5Li65LqR5Ye95pWwIFNFQVJYTkdfQVBJX0tFWQpgYGAKCi0tLQoKIyMgMi4g6YWN572u5LiJ5Lu25aWXCgrlt7Lpmo/ku5PlupPmj5DkvpvvvIjmnKznm67lvZXvvInvvJoKLSBgc2V0dGluZ3MueW1sYCDigJTigJQg5LuF5Zu95YaF5byV5pOO77yM55uR5ZCsIGAxMjcuMC4wLjE6ODA4MGAKLSBgZG9ja2VyLWNvbXBvc2UueW1sYCDigJTigJQgc2VhcnhuZyArIGNhZGR5Ci0gYENhZGR5ZmlsZWAg4oCU4oCUIEhUVFBTIOiHquWKqOivgeS5piArIEJlYXJlciDpibTmnYMKCuaMiemcgOS/ruaUue+8mgotIGBzZXR0aW5ncy55bWxgIOKGkiBgc2VjcmV0X2tleWAKLSBgQ2FkZHlmaWxlYCDihpIgYHNlYXJjaC5leGFtcGxlLmNvbWAg5pS55Li655yf5a6e5Z+f5ZCN77ybYFJFUExBQ0VfV0lUSF9ZT1VSX0tFWWAg5pS55Li65q2l6aqkIDEoMikg55qEIFRva2Vu77ybYGVtYWlsYAotIGBkb2NrZXItY29tcG9zZS55bWxgIOKGkiBgU0VBUlhOR19CQVNFX1VSTGAg5pS55Li655yf5a6e5Z+f5ZCNCgotLS0KCiMjIDMuIOWQr+WKqAoKYGBgYmFzaApjZCBpbmZyYS9zZWFyeG5nCmRvY2tlciBjb21wb3NlIHVwIC1kCmRvY2tlciBjb21wb3NlIHBzCmBgYAoK6aqM6K+B5a6e5L6L5pys5py65Y+v6L6+77yaCgpgYGBiYXNoCmN1cmwgLXMgLUggIkF1dGhvcml6YXRpb246IEJlYXJlciA85L2g55qEVG9rZW4+IiBcCiAgImh0dHA6Ly8xMjcuMC4wLjE6ODA4MC9zZWFyY2g/cT3lkJHmmZrpl67mgJ0mZm9ybWF0PWpzb24iIHwgaGVhZCAtYyAzMDAKYGBgCgrlupTov5Tlm54gSlNPTu+8jOS4lCBgcmVzdWx0c1tdLmVuZ2luZWAg5LuF5ZCrIGBiYWlkdWAgLyBgc29nb3VgIC8gYDM2MGDvvIjmiJYgYHNvYO+8ieOAggoKLS0tCgojIyA0LiDpqozor4Hpm7bot6jlooPvvIjlkIjop4TlhbPplK7ngrnvvIkKCui/kOihjOS6keWHveaVsOS+p+WGkueDn+iEmuacrO+8iOingSBgd2VhcHAvc2NyaXB0cy9zbW9rZV9zZWFyeG5nLmpzYO+8ie+8mgoKYGBgYmFzaApTRUFSWE5HX0JBU0VfVVJMPWh0dHBzOi8vc2VhcmNoLmV4YW1wbGUuY29tIFwKU0VBUlhOR19BUElfS0VZPTzkvaDnmoRUb2tlbj4gXApub2RlIHNjcmlwdHMvc21va2Vfc2VhcnhuZy5qcwpgYGAKCuiEmuacrOS8mu+8mgoxLiDor7fmsYIgSlNPTiBBUEnvvIznoa7orqQgSFRUUCAyMDAgKyDmnInnu5PmnpzvvJsKMi4g5pS26ZuG6L+U5Zue57uT5p6c5Lit55qEIGBlbmdpbmVgIOWtl+aute+8jOmAkOS4gOavlOWvuSoq5Zu95YaF55m95ZCN5Y2VKioKICAg77yIYGJhaWR1YC9gc29nb3VgL2Bzb2AvYDM2MGAg5Li65Lil5qC85Zu95YaF77ybYHdpa2lkYXRhYC9gd2lraXBlZGlhYCDkuLrlj6/pgInpnIDor4TkvLDvvInvvJsKMy4g6Iul5Ye6546w5Lu75L2V6Leo5aKD5byV5pOO77yIYmluZy9nb29nbGUvZGRnL3RhdmlseeKApu+8ieKGkiAqKkZBSUwqKu+8jOivtOaYjuWunuS+i+ivr+mFje+8jOmcgOWbnuafpSBgc2V0dGluZ3MueW1sYOOAggoKLS0tCgojIyA1LiDov5Dnu7TopoHngrkKCi0gKirlvJXmk47plIHlrpoqKu+8mmBzZXR0aW5ncy55bWxgIOeahCBgZW5naW5lc2Ag5piv5ZSv5LiA5Y+v5L+h5p2l5rqQ44CC5paw5aKeL+ivr+mFjei3qOWig+W8leaTjuS8mueri+WIu+iiq+WGkueDn+iEmuacrOaNleiOt+OAggotICoq5Y2H57qnKirvvJpgZG9ja2VyIGNvbXBvc2UgcHVsbCAmJiBkb2NrZXIgY29tcG9zZSB1cCAtZGDvvJvljYfnuqflkI7ph43ot5HlhpLng5/ohJrmnKzjgIIKLSAqKumZkOminSoq77ya5a6e5L6L5L6nIGBsaW1pdGVyOiBmYWxzZWDvvIznnJ/lrp7osIPnlKjpmZDpop3nlLHkupHlh73mlbAgYFNFQVJDSF9EQUlMWV9RVU9UQWAg5o6n5Yi244CCCi0gKirlm57mu5oqKu+8muiLpeWunuS+i+W8guW4uO+8jOWwhiBgU0VBUlhOR19CQVNFX1VSTGAg5LuO5LqR5Ye95pWw546v5aKD5Y+Y6YeP56e76Zmk77yI572u56m677yJ4oaSIGBkb21lc3RpY0ZyZWVTZWFyY2hgIOeri+WNsyBgbm9fZW5kcG9pbnRgIOmZjee6p++8jOS4jeW9seWTjSBSQUcg5Zue562U44CCCi0gKirkuI3lhpnnn6Xor4blupMqKu+8muajgOe0oue7k+aenOS7heS9nCBydW50aW1lIGNvbnRleHTvvIzmnKzlrp7kvovkuI7nn6Xor4botYTkuqfpm7bogKblkIjjgIIKCi0tLQoKIyMgNi4g5a6J5YWoCgotIFNlYXJYTkcg5LuF55uR5ZCsIGAxMjcuMC4wLjFg77yM5YWs572R5LiN5Y+v55u06L+e44CCCi0gQ2FkZHkg5by65Yi2IGBBdXRob3JpemF0aW9uOiBCZWFyZXJgIOagoemqjO+8jOacquW4piBUb2tlbiDov5Tlm54gNDAx44CCCi0g5bu66K6uIENWTSDlronlhajnu4Tku4XmlL7pgJogODAvNDQz77ybMjIg5LuF6ZmQ6L+Q57u0IElQ44CCCi0gYHNlY3JldF9rZXlgIOS4jiBCZWFyZXIgVG9rZW4g5bGe5pWP5oSf5L+h5oGv77yMKirkuI3opoHmj5DkuqTov5sgZ2l0KirvvIjmnKznm67lvZXkuInmlofku7blnYfkuI3lkKvnnJ/lrp7lr4bpkqXvvIzku4XljaDkvY3vvInjgIIK
+﻿# 向晚问思 SearXNG 国内检索实例 —— 部署 Runbook
+
+> 目标：在**中国大陆服务器**上自建 SearXNG，仅启用国内搜索引擎（百度/搜狗/360），
+> 为云函数 `domesticFreeSearch.js` 提供**免费、零跨境**的联网检索能力。
+> 对应检索层 `data_route=domestic`，满足 PIPL 数据出境合规。
+
+---
+
+## 0. 前置条件
+
+| 项 | 要求 |
+|---|---|
+| 服务器 | 中国大陆地域 CVM（腾讯云/阿里云），**离用户近、延迟低** |
+| 系统 | Ubuntu 22.04+ / 等，已装 `docker` + `docker-compose` |
+| 域名 | 一个**已 ICP 备案**的域名（如 `search.example.com`） |
+| 证书 | 由 Caddy 自动申请 Let's Encrypt（需 80/443 可入站） |
+| 费用 | 仅 CVM 实例费，**无按量检索费、无第三方 API Key** |
+
+> ⚠️ 域名**必须已完成备案**，否则微信公众平台不会接受该域名为 request 合法域名（见执行计划 Part B）。
+
+---
+
+## 1. 生成密钥
+
+```bash
+# (1) SearXNG 实例密钥
+openssl rand -hex 32
+# 复制输出，替换 settings.yml 中的 REPLACE_WITH_GENERATED_KEY
+
+# (2) 公网 Bearer Token（与云函数 SEARXNG_API_KEY 保持一致）
+openssl rand -hex 24
+# 复制输出，替换 Caddyfile 中的 REPLACE_WITH_YOUR_KEY，并作为云函数 SEARXNG_API_KEY
+```
+
+---
+
+## 2. 配置三件套
+
+已随仓库提供（本目录）：
+- `settings.yml` —— 仅国内引擎，监听 `127.0.0.1:8080`
+- `docker-compose.yml` —— searxng + caddy
+- `Caddyfile` —— HTTPS 自动证书 + Bearer 鉴权
+
+按需修改：
+- `settings.yml` → `secret_key`
+- `Caddyfile` → `search.example.com` 改为真实域名；`REPLACE_WITH_YOUR_KEY` 改为步骤 1(2) 的 Token；`email`
+- `docker-compose.yml` → `SEARXNG_BASE_URL` 改为真实域名
+
+---
+
+## 3. 启动
+
+```bash
+cd infra/searxng
+docker compose up -d
+docker compose ps
+```
+
+验证实例本机可达：
+
+```bash
+curl -s -H "Authorization: Bearer <你的Token>" \
+  "http://127.0.0.1:8080/search?q=向晚问思&format=json" | head -c 300
+```
+
+应返回 JSON，且 `results[].engine` 仅含 `baidu` / `sogou` / `360`（或 `so`）。
+
+---
+
+## 4. 验证零跨境（合规关键点）
+
+运行云函数侧冒烟脚本（见 `weapp/scripts/smoke_searxng.js`）：
+
+```bash
+SEARXNG_BASE_URL=https://search.example.com \
+SEARXNG_API_KEY=<你的Token> \
+node scripts/smoke_searxng.js
+```
+
+脚本会：
+1. 请求 JSON API，确认 HTTP 200 + 有结果；
+2. 收集返回结果中的 `engine` 字段，逐一比对**国内白名单**
+   （`baidu`/`sogou`/`so`/`360` 为严格国内；`wikidata`/`wikipedia` 为可选需评估）；
+3. 若出现任何跨境引擎（bing/google/ddg/tavily…）→ **FAIL**，说明实例误配，需回查 `settings.yml`。
+
+---
+
+## 5. 运维要点
+
+- **引擎锁定**：`settings.yml` 的 `engines` 是唯一可信来源。新增/误配跨境引擎会立刻被冒烟脚本捕获。
+- **升级**：`docker compose pull && docker compose up -d`；升级后重跑冒烟脚本。
+- **限额**：实例侧 `limiter: false`，真实调用限额由云函数 `SEARCH_DAILY_QUOTA` 控制。
+- **回滚**：若实例异常，将 `SEARXNG_BASE_URL` 从云函数环境变量移除（置空）→ `domesticFreeSearch` 立即 `no_endpoint` 降级，不影响 RAG 回答。
+- **不写知识库**：检索结果仅作 runtime context，本实例与知识资产零耦合。
+
+---
+
+## 6. 安全
+
+- SearXNG 仅监听 `127.0.0.1`，公网不可直连。
+- Caddy 强制 `Authorization: Bearer` 校验，未带 Token 返回 401。
+- 建议 CVM 安全组仅放通 80/443；22 仅限运维 IP。
+- `secret_key` 与 Bearer Token 属敏感信息，**不要提交进 git**（本目录三文件均不含真实密钥，仅占位）。

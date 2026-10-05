@@ -1,1 +1,98 @@
-Ly8g5ZCR5pma6Zeu5oCdIMK3IOWFs+S6jumhtQpjb25zdCB7IGJvb2tzIH0gPSByZXF1aXJlKCIuLi8uLi9kYXRhL2Jvb2tzLmpzIik7CmNvbnN0IHsgZGFpbHlUaG91Z2h0cyB9ID0gcmVxdWlyZSgiLi4vLi4vZGF0YS9kYWlseVRob3VnaHRzLmpzIik7CgpmdW5jdGlvbiBwaWNrQnlEYXRlKCkgewogIGNvbnN0IGRheXNTaW5jZUVwb2NoID0gTWF0aC5mbG9vcihEYXRlLm5vdygpIC8gODY0MDAwMDApOwogIHJldHVybiBkYWlseVRob3VnaHRzW2RheXNTaW5jZUVwb2NoICUgZGFpbHlUaG91Z2h0cy5sZW5ndGhdOwp9CgpQYWdlKHsKICBkYXRhOiB7CiAgICBib29rcywKICAgIHRob3VnaHQ6IHt9LAogICAgaXNBZG1pbjogZmFsc2UsCiAgfSwKCiAgb25Mb2FkKCkgewogICAgdGhpcy5zZXREYXRhKHsgdGhvdWdodDogcGlja0J5RGF0ZSgpIH0pOwogICAgdGhpcy5jaGVja0FkbWluKCk7CiAgfSwKCiAgLy8gMjAyNi0wOS0yMiDlronlhajkv67lpI3vvIhQMS0y77yJ77ya566h55CG5YWl5Y+j6buY6K6k6ZqQ6JeP77yM5LuF5b2T5ZCO56uv56Gu6K6k5b2T5YmN55So5oi35piv566h55CG5ZGY5pe25omN5bGV56S644CCCiAgLy8gICDliKTlrprmnYPlrozlhajlnKjlkI7nq6/vvIhhZG1pbiDkupHlh73mlbAgd2hvYW1pIOi/lOWbniBpc0FkbWlu77yJ77yM5YmN56uv5Y+q6LSf6LSj5riy5p+T77yM5LiN5YGa5pys5Zyw5Yik5pat44CCCiAgLy8gICDku7vkvZXlpLHotKUv5byC5bi45LiA5b6L5L+d5oyB6ZqQ6JeP77yIZmFpbC1jbG9zZWTvvInigJTigJTlroHlj6/nrqHnkIblkZjnnIvkuI3liLDlhaXlj6PvvIzkuZ/kuI3orqnmma7pgJrnlKjmiLfnnIvliLDjgIIKICBjaGVja0FkbWluKCkgewogICAgd3guY2xvdWQKICAgICAgLmNhbGxGdW5jdGlvbih7IG5hbWU6ICJhZG1pbiIsIGRhdGE6IHsgYWN0aW9uOiAid2hvYW1pIiB9IH0pCiAgICAgIC50aGVuKChyZXMpID0+IHsKICAgICAgICBjb25zdCByID0gKHJlcyAmJiByZXMucmVzdWx0KSB8fCB7fTsKICAgICAgICB0aGlzLnNldERhdGEoeyBpc0FkbWluOiByLmlzQWRtaW4gPT09IHRydWUgfSk7CiAgICAgIH0pCiAgICAgIC5jYXRjaCgoKSA9PiB7CiAgICAgICAgdGhpcy5zZXREYXRhKHsgaXNBZG1pbjogZmFsc2UgfSk7CiAgICAgIH0pOwogIH0sCgogIC8vIOWcqOmbhuWQiOWGhei9ruabv+OAjOavj+aXpeaAneiAg+OAjQogIHJlZnJlc2hUaG91Z2h0KCkgewogICAgY29uc3QgY3VyID0gdGhpcy5kYXRhLnRob3VnaHQuaWQ7CiAgICBjb25zdCBpZHggPSBkYWlseVRob3VnaHRzLmZpbmRJbmRleCgodCkgPT4gdC5pZCA9PT0gY3VyKTsKICAgIGNvbnN0IG5leHQgPSAoaWR4ICsgMSkgJSBkYWlseVRob3VnaHRzLmxlbmd0aDsKICAgIHRoaXMuc2V0RGF0YSh7IHRob3VnaHQ6IGRhaWx5VGhvdWdodHNbbmV4dF0gfSk7CiAgfSwKCiAgZ29BZG1pbigpIHsKICAgIC8vIOWJjeerr+WFpeWPo+W3suaMieWQjuerr+WIpOWumumakOiXj++8m+atpOWkhOWGjeWKoOS4gOmBk+acrOWcsOWuiOWNq++8jOmYsuatoue7lei/hyBVSSDnm7TmjqXop6blj5EKICAgIGlmICghdGhpcy5kYXRhLmlzQWRtaW4pIHsKICAgICAgd3guc2hvd1RvYXN0KHsgdGl0bGU6ICLml6DmnYPpmZAiLCBpY29uOiAibm9uZSIgfSk7CiAgICAgIHJldHVybjsKICAgIH0KICAgIHd4Lm5hdmlnYXRlVG8oeyB1cmw6ICIvcGFnZXMvYWRtaW4vYWRtaW4iIH0pOwogIH0sCgogIC8vIOi3s+i9rOmakOengeaUv+etli/nlKjmiLfljY/orq4KICBnb1ByaXZhY3koZSkgewogICAgY29uc3QgdGFiID0gKGUuY3VycmVudFRhcmdldC5kYXRhc2V0ICYmIGUuY3VycmVudFRhcmdldC5kYXRhc2V0LnRhYikgfHwgInByaXZhY3kiOwogICAgd3gubmF2aWdhdGVUbyh7IHVybDogIi9wYWdlcy9wcml2YWN5L3ByaXZhY3k/dGFiPSIgKyB0YWIgfSk7CiAgfSwKCiAgLy8g5YiG5Lqr6L2s5Y+R77ya5YWz5LqO6aG15Lmf5Y+v6L2s5Y+R77yM5bim5bCB6Z2i5Zu+CiAgb25TaGFyZUFwcE1lc3NhZ2UoKSB7CiAgICBjb25zdCB0ID0gdGhpcy5kYXRhLnRob3VnaHQ7CiAgICByZXR1cm4gewogICAgICB0aXRsZTogdCAmJiB0LnF1b3RlID8gIuWQkeaZmumXruaAnSDCtyAiICsgdC5xdW90ZSA6ICLlkJHmmZrpl67mgJ0gwrcg57uP5YW45oCd6L6o5Yqp5omLIiwKICAgICAgcGF0aDogIi9wYWdlcy9jaGF0L2NoYXQiLAogICAgICBpbWFnZVVybDogIi9hc3NldHMvc2hhcmUtY2FyZC5wbmciLAogICAgfTsKICB9LAoKICAvLyDmhI/op4Hlj43ppojvvJrlvLnnqpfovpPlhaXvvIzmj5DkuqTliLAgZmVlZGJhY2sg5LqR5Ye95pWwCiAgZmVlZGJhY2soKSB7CiAgICB3eC5zaG93TW9kYWwoewogICAgICB0aXRsZTogIuaEj+ingeWPjemmiCIsCiAgICAgIGVkaXRhYmxlOiB0cnVlLAogICAgICBwbGFjZWhvbGRlclRleHQ6ICLor7Tor7TkvaDnmoTlu7rorq7miJbpgYfliLDnmoTpl67popjigKYiLAogICAgICBjb25maXJtVGV4dDogIuaPkOS6pCIsCiAgICAgIHN1Y2Nlc3M6IChyKSA9PiB7CiAgICAgICAgaWYgKCFyLmNvbmZpcm0pIHJldHVybjsKICAgICAgICBjb25zdCB0ZXh0ID0gKHIuY29udGVudCB8fCAiIikudHJpbSgpOwogICAgICAgIGlmICghdGV4dCkgewogICAgICAgICAgd3guc2hvd1RvYXN0KHsgdGl0bGU6ICLlhoXlrrnkuI3og73kuLrnqboiLCBpY29uOiAibm9uZSIgfSk7CiAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIHd4LnNob3dMb2FkaW5nKHsgdGl0bGU6ICLmj5DkuqTkuK0iLCBtYXNrOiB0cnVlIH0pOwogICAgICAgIHd4LmNsb3VkCiAgICAgICAgICAuY2FsbEZ1bmN0aW9uKHsgbmFtZTogImZlZWRiYWNrIiwgZGF0YTogeyBxdWVzdGlvbjogdGV4dCB9IH0pCiAgICAgICAgICAudGhlbigocmVzKSA9PiB7CiAgICAgICAgICAgIGNvbnN0IG9rID0gcmVzICYmIHJlcy5yZXN1bHQgJiYgcmVzLnJlc3VsdC5vazsKICAgICAgICAgICAgd3guc2hvd1RvYXN0KHsgdGl0bGU6IG9rID8gIuW3suaUtuWIsO+8jOiwouiwou+8gSIgOiAi5o+Q5Lqk5aSx6LSlIiwgaWNvbjogb2sgPyAic3VjY2VzcyIgOiAibm9uZSIgfSk7CiAgICAgICAgICB9KQogICAgICAgICAgLmNhdGNoKCgpID0+IHsKICAgICAgICAgICAgd3guc2hvd1RvYXN0KHsgdGl0bGU6ICLmj5DkuqTlpLHotKUiLCBpY29uOiAibm9uZSIgfSk7CiAgICAgICAgICB9KQogICAgICAgICAgLnRoZW4oKCkgPT4gd3guaGlkZUxvYWRpbmcoKSk7CiAgICAgIH0sCiAgICB9KTsKICB9LAp9KTsK
+// 向晚问思 · 关于页
+const { books } = require("../../data/books.js");
+const { dailyThoughts } = require("../../data/dailyThoughts.js");
+
+function pickByDate() {
+  const daysSinceEpoch = Math.floor(Date.now() / 86400000);
+  return dailyThoughts[daysSinceEpoch % dailyThoughts.length];
+}
+
+Page({
+  data: {
+    books,
+    thought: {},
+    isAdmin: false,
+  },
+
+  onLoad() {
+    this.setData({ thought: pickByDate() });
+    this.checkAdmin();
+  },
+
+  // 2026-09-22 安全修复（P1-2）：管理入口默认隐藏，仅当后端确认当前用户是管理员时才展示。
+  //   判定权完全在后端（admin 云函数 whoami 返回 isAdmin），前端只负责渲染，不做本地判断。
+  //   任何失败/异常一律保持隐藏（fail-closed）——宁可管理员看不到入口，也不让普通用户看到。
+  checkAdmin() {
+    wx.cloud
+      .callFunction({ name: "admin", data: { action: "whoami" } })
+      .then((res) => {
+        const r = (res && res.result) || {};
+        this.setData({ isAdmin: r.isAdmin === true });
+      })
+      .catch(() => {
+        this.setData({ isAdmin: false });
+      });
+  },
+
+  // 在集合内轮替「每日思考」
+  refreshThought() {
+    const cur = this.data.thought.id;
+    const idx = dailyThoughts.findIndex((t) => t.id === cur);
+    const next = (idx + 1) % dailyThoughts.length;
+    this.setData({ thought: dailyThoughts[next] });
+  },
+
+  goAdmin() {
+    // 前端入口已按后端判定隐藏；此处再加一道本地守卫，防止绕过 UI 直接触发
+    if (!this.data.isAdmin) {
+      wx.showToast({ title: "无权限", icon: "none" });
+      return;
+    }
+    wx.navigateTo({ url: "/pages/admin/admin" });
+  },
+
+  // 跳转隐私政策/用户协议
+  goPrivacy(e) {
+    const tab = (e.currentTarget.dataset && e.currentTarget.dataset.tab) || "privacy";
+    wx.navigateTo({ url: "/pages/privacy/privacy?tab=" + tab });
+  },
+
+  // 分享转发：关于页也可转发，带封面图
+  onShareAppMessage() {
+    const t = this.data.thought;
+    return {
+      title: t && t.quote ? "向晚问思 · " + t.quote : "向晚问思 · 经典思辨助手",
+      path: "/pages/chat/chat",
+      imageUrl: "/assets/share-card.png",
+    };
+  },
+
+  // 意见反馈：弹窗输入，提交到 feedback 云函数
+  feedback() {
+    wx.showModal({
+      title: "意见反馈",
+      editable: true,
+      placeholderText: "说说你的建议或遇到的问题…",
+      confirmText: "提交",
+      success: (r) => {
+        if (!r.confirm) return;
+        const text = (r.content || "").trim();
+        if (!text) {
+          wx.showToast({ title: "内容不能为空", icon: "none" });
+          return;
+        }
+        wx.showLoading({ title: "提交中", mask: true });
+        wx.cloud
+          .callFunction({ name: "feedback", data: { question: text } })
+          .then((res) => {
+            const ok = res && res.result && res.result.ok;
+            wx.showToast({ title: ok ? "已收到，谢谢！" : "提交失败", icon: ok ? "success" : "none" });
+          })
+          .catch(() => {
+            wx.showToast({ title: "提交失败", icon: "none" });
+          })
+          .then(() => wx.hideLoading());
+      },
+    });
+  },
+});

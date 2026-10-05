@@ -1,1 +1,113 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIFJlZ2lzdHJ5UHJvdmlkZXIg4oCUIOefpeivhuazqOWGjOihqOaKveixoeWxgu+8iFBoYXNlIFAr77yJCi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQovLyDnm67nmoTvvJrmiorjgIzms6jlhozooajlrZjlgqjlrp7njrDjgI3kuI7jgIzkuJrliqEv6KeC5rWL6YC76L6R44CN6Kej6ICm44CCCi8vICAg5b2T5YmN5a6e546wID0gSlNPTiDmlofku7bvvIhvMS1yZWdpc3RyeS5qc29u77yJ77yb5pyq5p2l5Y2H57qn5Yiw5LqR5pWw5o2u5bqT77yMCi8vICAg5Y+q6ZyA5paw5aKe5LiA5Liq5a6e546w55u45ZCM5o6l5Y+j55qEIFByb3ZpZGVy77yI5aaCIERiUmVnaXN0cnlQcm92aWRlcu+8ie+8jAovLyAgIOiwg+eUqOaWue+8iERhc2hib2FyZCAvIEhlYWx0aCBTY29yZSAvIOWHhuWFpea1geeoi++8iembtuaUueWKqOOAggovLwovLyDorr7orqHnuqbmnZ/vvIjlr7npvZAgZG9jcy82NCDCpzggRXh0ZW5zaW9uIEJvdW5kYXJ577yJ77yaCi8vICAgwrcg5oq96LGh5o6l5Y+j56iz5a6a77yIRnJvemVuIOmjjuagvO+8ie+8jOWFt+S9k+WunueOsOWPr+abv+aNouOAggovLyAgIMK3IGdldFJhdygpIOi/lOWbnuWOn+Wni+azqOWGjOihqOWvueixoe+8jOS4juaXouaciSBvMS1yZWdpc3RyeS5qc29uIOeahOWOn+eUnwovLyAgICAgSlNPTi5wYXJzZSDor7vlj5bnu5PmnpwgMTAwJSDkuIDoh7TvvIhQaGFzZSDikaUg5rWL6K+V5a6I5oqk77yJ44CCCi8vICAgwrcg5LiN5L+u5pS5IFJlZ2lzdHJ5IHNjaGVtYe+8iOingSBkb2NzLzYyIMKnNCAvIMKnNe+8ieOAggovLyAgIMK3IOe7j+WFuO+8iGNvcnB1cy5qc29u77yJ5Lul5Y+q6K+75pa55byP5bm25YWl44CM57uf5LiA6KeG5Zu+44CN77yM57ud5LiN5YaZ5ZueIGNvcnB1c+OAggovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KCid1c2Ugc3RyaWN0JzsKCi8qKgogKiDmir3osaHln7rnsbvvvJrmiYDmnIkgUmVnaXN0cnkgUHJvdmlkZXIg5b+F6aG75a6e546wIGdldFJhdygp77yM6L+U5ZueCiAqIHsgc2NoZW1hLCBuYW1lc3BhY2UsIHN0b3JhZ2UsIHJlY29yZHMgfSDnu5PmnoTnmoTljp/lp4vlr7nosaHjgIIKICog5YW25L2Z5p+l6K+i5pa55rOV5Z2H5Z+65LqOIGdldFJhdygpIOa0vueUn++8jOS/neivgeivreS5ieS4gOiHtOOAgeS+v+S6juabv+aNouWunueOsOOAggogKi8KY2xhc3MgUmVnaXN0cnlQcm92aWRlciB7CiAgY29uc3RydWN0b3IoY29uZmlnKSB7CiAgICB0aGlzLmNvbmZpZyA9IGNvbmZpZyB8fCB7fTsKICB9CgogIC8qKiDlrZDnsbvlrp7njrDvvJrov5Tlm57kuI4gbzEtcmVnaXN0cnkuanNvbiDpobblsYLnu5PmnoTkuIDoh7TnmoTljp/lp4vlr7nosaEgKi8KICBnZXRSYXcoKSB7CiAgICB0aHJvdyBuZXcgRXJyb3IoJ1JlZ2lzdHJ5UHJvdmlkZXIuZ2V0UmF3KCkgbXVzdCBiZSBpbXBsZW1lbnRlZCBieSBzdWJjbGFzcycpOwogIH0KCiAgLyoqIOi/lOWbniByZWNvcmRzIOaVsOe7hO+8iDEwMCUg5YW85a655pei5pyJ6K+75Y+W4oCU4oCUUGhhc2Ug4pGlIOa1i+ivleWfuuWHhu+8iSAqLwogIGdldEFsbCgpIHsKICAgIGNvbnN0IHJhdyA9IHRoaXMuZ2V0UmF3KCk7CiAgICByZXR1cm4gKHJhdyAmJiByYXcucmVjb3JkcykgfHwgW107CiAgfQoKICBnZXRCeUlkKGtub3dsZWRnZUlkKSB7CiAgICByZXR1cm4gdGhpcy5nZXRBbGwoKS5maWx0ZXIoKHIpID0+IHIua25vd2xlZGdlX2lkID09PSBrbm93bGVkZ2VJZCk7CiAgfQoKICBnZXRCeVN0YXR1cyhzdGF0dXMpIHsKICAgIHJldHVybiB0aGlzLmdldEFsbCgpLmZpbHRlcigocikgPT4gKHIuc3RhdHVzIHx8ICcnKSA9PT0gc3RhdHVzKTsKICB9CgogIGdldEJ5VHlwZShrbm93bGVkZ2VUeXBlKSB7CiAgICByZXR1cm4gdGhpcy5nZXRBbGwoKS5maWx0ZXIoKHIpID0+IChyLmtub3dsZWRnZV90eXBlIHx8ICdjbGFzc2ljJykgPT09IGtub3dsZWRnZVR5cGUpOwogIH0KCiAgLyoqIOeKtuaAgeWIhuW4g+e7n+iuoe+8iOS+myBEYXNoYm9hcmQgUmVnaXN0cnkgU3RhdHVzIOS9v+eUqO+8iSAqLwogIGdldFN0YXRzKCkgewogICAgY29uc3QgYWxsID0gdGhpcy5nZXRBbGwoKTsKICAgIGNvbnN0IGJ5U3RhdHVzID0ge307CiAgICBjb25zdCBieVR5cGUgPSB7fTsKICAgIGFsbC5mb3JFYWNoKChyKSA9PiB7CiAgICAgIGNvbnN0IHMgPSByLnN0YXR1cyB8fCAndW5rbm93bic7CiAgICAgIGNvbnN0IHQgPSByLmtub3dsZWRnZV90eXBlIHx8ICdjbGFzc2ljJzsKICAgICAgYnlTdGF0dXNbc10gPSAoYnlTdGF0dXNbc10gfHwgMCkgKyAxOwogICAgICBieVR5cGVbdF0gPSAoYnlUeXBlW3RdIHx8IDApICsgMTsKICAgIH0pOwogICAgcmV0dXJuIHsgdG90YWw6IGFsbC5sZW5ndGgsIGJ5U3RhdHVzLCBieVR5cGUgfTsKICB9CgogIC8qKgogICAqIOe7n+S4gOinhuWbvu+8muaKiiBncmFuZGZhdGhlcmVkIOe7j+WFuO+8iGNvcnB1cy5qc29u77yM5Y+q6K+777yJ5LiO6K6k6K+B5a+56LGh77yIcmVnaXN0cnnvvIkKICAgKiDlkIjlubbkuLrlkIzkuIDnp43op4TojIPljJborrDlvZXlvaLmgIHjgILnlKjkuo4gRGFzaGJvYXJkIEtub3dsZWRnZSBDb3VudCAvIEtRUyAvIEhlYWx0aCBTY29yZeOAggogICAqIEBwYXJhbSB7c3RyaW5nfSBjb3JwdXNQYXRoIOe7j+WFuOivreaWmSBKU09OIOi3r+W+hO+8iOWPquivu++8jOS4jeS/ruaUue+8iQogICAqLwogIGdldFVuaWZpZWRSZWNvcmRzKGNvcnB1c1BhdGgpIHsKICAgIGNvbnN0IGNlcnRpZmllZCA9IHRoaXMuZ2V0QWxsKCkubWFwKChyKSA9PiAoewogICAgICBrbm93bGVkZ2VfaWQ6IHIua25vd2xlZGdlX2lkLAogICAgICB0aXRsZTogci50aXRsZSB8fCByLmtub3dsZWRnZV9pZCwKICAgICAga25vd2xlZGdlX3R5cGU6IHIua25vd2xlZGdlX3R5cGUgfHwgJ2NsYXNzaWMnLAogICAgICBzdGF0dXM6IHIuc3RhdHVzIHx8ICdjYW5kaWRhdGUnLAogICAgICBxdWFsaXR5X3Njb3JlOiB0eXBlb2Ygci5xdWFsaXR5X3Njb3JlID09PSAnbnVtYmVyJyA/IHIucXVhbGl0eV9zY29yZSA6IDEuMCwKICAgICAgc291cmNlOiAncmVnaXN0cnknLAogICAgfSkpOwogICAgbGV0IGNsYXNzaWNzID0gW107CiAgICB0cnkgewogICAgICBjb25zdCBmcyA9IHJlcXVpcmUoJ2ZzJyk7CiAgICAgIGNvbnN0IGNvcnB1cyA9IEpTT04ucGFyc2UoZnMucmVhZEZpbGVTeW5jKGNvcnB1c1BhdGgsICd1dGYtOCcpKTsKICAgICAgY2xhc3NpY3MgPSAoQXJyYXkuaXNBcnJheShjb3JwdXMpID8gY29ycHVzIDogW10pLm1hcCgoYykgPT4gKHsKICAgICAgICBrbm93bGVkZ2VfaWQ6ICdjbGFzc2ljOicgKyAoYy5pZCB8fCBjLnRpdGxlIHx8ICd1bmtub3duJyksCiAgICAgICAgdGl0bGU6IGMudGl0bGUgfHwgKGMuaWQgfHwgJ3Vua25vd24nKSwKICAgICAgICBrbm93bGVkZ2VfdHlwZTogJ2NsYXNzaWMnLAogICAgICAgIHN0YXR1czogJ3B1Ymxpc2hlZCcsCiAgICAgICAgcXVhbGl0eV9zY29yZTogMS4wLAogICAgICAgIHNvdXJjZTogJ2NvcnB1cycsCiAgICAgIH0pKTsKICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgLy8g5Y+q6K+75aSx6LSl5LiN5b2x5ZON5Li75rWB56iL77ya57uP5YW46KeG5Zu+5Li656m677yM5LuF5Lii5aSx6K6h5pWwCiAgICB9CiAgICByZXR1cm4gY2xhc3NpY3MuY29uY2F0KGNlcnRpZmllZCk7CiAgfQp9CgovKioKICog5bel5Y6C77ya5qC55o2uIGNvbmZpZy50eXBlIOmAieaLqeWFt+S9kyBQcm92aWRlcuOAggogKiDmnKrmnaXmlrDlop7lrZjlgqjlrp7njrDvvIhkYiAvIGNsb3Vk77yJ5Y+q6ZyA5Zyo5q2k5YiG5pSv5rOo5YaM77yM6LCD55So5pa55LiN5Y+Y44CCCiAqIEBwYXJhbSB7e3R5cGU6IHN0cmluZywgZmlsZVBhdGg/OiBzdHJpbmcsIGNvcnB1c1BhdGg/OiBzdHJpbmd9fSBjb25maWcKICovCmZ1bmN0aW9uIGNyZWF0ZVJlZ2lzdHJ5UHJvdmlkZXIoY29uZmlnKSB7CiAgY29uZmlnID0gY29uZmlnIHx8IHt9OwogIGlmIChjb25maWcudHlwZSA9PT0gJ2pzb24nKSB7CiAgICBjb25zdCB7IEpzb25SZWdpc3RyeVByb3ZpZGVyIH0gPSByZXF1aXJlKCcuL2pzb25SZWdpc3RyeVByb3ZpZGVyJyk7CiAgICByZXR1cm4gbmV3IEpzb25SZWdpc3RyeVByb3ZpZGVyKGNvbmZpZyk7CiAgfQogIHRocm93IG5ldyBFcnJvcignVW5rbm93biByZWdpc3RyeSBwcm92aWRlciB0eXBlOiAnICsgY29uZmlnLnR5cGUpOwp9Cgptb2R1bGUuZXhwb3J0cyA9IHsgUmVnaXN0cnlQcm92aWRlciwgY3JlYXRlUmVnaXN0cnlQcm92aWRlciB9Owo=
+// ============================================================
+// RegistryProvider — 知识注册表抽象层（Phase P+）
+// ------------------------------------------------------------
+// 目的：把「注册表存储实现」与「业务/观测逻辑」解耦。
+//   当前实现 = JSON 文件（o1-registry.json）；未来升级到云数据库，
+//   只需新增一个实现相同接口的 Provider（如 DbRegistryProvider），
+//   调用方（Dashboard / Health Score / 准入流程）零改动。
+//
+// 设计约束（对齐 docs/64 §8 Extension Boundary）：
+//   · 抽象接口稳定（Frozen 风格），具体实现可替换。
+//   · getRaw() 返回原始注册表对象，与既有 o1-registry.json 的原生
+//     JSON.parse 读取结果 100% 一致（Phase ⑥ 测试守护）。
+//   · 不修改 Registry schema（见 docs/62 §4 / §5）。
+//   · 经典（corpus.json）以只读方式并入「统一视图」，绝不写回 corpus。
+// ============================================================
+
+'use strict';
+
+/**
+ * 抽象基类：所有 Registry Provider 必须实现 getRaw()，返回
+ * { schema, namespace, storage, records } 结构的原始对象。
+ * 其余查询方法均基于 getRaw() 派生，保证语义一致、便于替换实现。
+ */
+class RegistryProvider {
+  constructor(config) {
+    this.config = config || {};
+  }
+
+  /** 子类实现：返回与 o1-registry.json 顶层结构一致的原始对象 */
+  getRaw() {
+    throw new Error('RegistryProvider.getRaw() must be implemented by subclass');
+  }
+
+  /** 返回 records 数组（100% 兼容既有读取——Phase ⑥ 测试基准） */
+  getAll() {
+    const raw = this.getRaw();
+    return (raw && raw.records) || [];
+  }
+
+  getById(knowledgeId) {
+    return this.getAll().filter((r) => r.knowledge_id === knowledgeId);
+  }
+
+  getByStatus(status) {
+    return this.getAll().filter((r) => (r.status || '') === status);
+  }
+
+  getByType(knowledgeType) {
+    return this.getAll().filter((r) => (r.knowledge_type || 'classic') === knowledgeType);
+  }
+
+  /** 状态分布统计（供 Dashboard Registry Status 使用） */
+  getStats() {
+    const all = this.getAll();
+    const byStatus = {};
+    const byType = {};
+    all.forEach((r) => {
+      const s = r.status || 'unknown';
+      const t = r.knowledge_type || 'classic';
+      byStatus[s] = (byStatus[s] || 0) + 1;
+      byType[t] = (byType[t] || 0) + 1;
+    });
+    return { total: all.length, byStatus, byType };
+  }
+
+  /**
+   * 统一视图：把 grandfathered 经典（corpus.json，只读）与认证对象（registry）
+   * 合并为同一种规范化记录形态。用于 Dashboard Knowledge Count / KQS / Health Score。
+   * @param {string} corpusPath 经典语料 JSON 路径（只读，不修改）
+   */
+  getUnifiedRecords(corpusPath) {
+    const certified = this.getAll().map((r) => ({
+      knowledge_id: r.knowledge_id,
+      title: r.title || r.knowledge_id,
+      knowledge_type: r.knowledge_type || 'classic',
+      status: r.status || 'candidate',
+      quality_score: typeof r.quality_score === 'number' ? r.quality_score : 1.0,
+      source: 'registry',
+    }));
+    let classics = [];
+    try {
+      const fs = require('fs');
+      const corpus = JSON.parse(fs.readFileSync(corpusPath, 'utf-8'));
+      classics = (Array.isArray(corpus) ? corpus : []).map((c) => ({
+        knowledge_id: 'classic:' + (c.id || c.title || 'unknown'),
+        title: c.title || (c.id || 'unknown'),
+        knowledge_type: 'classic',
+        status: 'published',
+        quality_score: 1.0,
+        source: 'corpus',
+      }));
+    } catch (e) {
+      // 只读失败不影响主流程：经典视图为空，仅丢失计数
+    }
+    return classics.concat(certified);
+  }
+}
+
+/**
+ * 工厂：根据 config.type 选择具体 Provider。
+ * 未来新增存储实现（db / cloud）只需在此分支注册，调用方不变。
+ * @param {{type: string, filePath?: string, corpusPath?: string}} config
+ */
+function createRegistryProvider(config) {
+  config = config || {};
+  if (config.type === 'json') {
+    const { JsonRegistryProvider } = require('./jsonRegistryProvider');
+    return new JsonRegistryProvider(config);
+  }
+  throw new Error('Unknown registry provider type: ' + config.type);
+}
+
+module.exports = { RegistryProvider, createRegistryProvider };

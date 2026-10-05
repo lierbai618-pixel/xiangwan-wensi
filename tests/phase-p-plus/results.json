@@ -1,1 +1,60 @@
-ewogICJnZW5lcmF0ZWRfYXQiOiAiMjAyNi0wOC0wMlQwMzoyNzozNy4xMDdaIiwKICAicGhhc2UiOiAiUGhhc2UgUCsgLyDnrKzlha3pmLbmrrUiLAogICJ0b3RhbF9wYXNzZWQiOiAxODQsCiAgInRvdGFsX2ZhaWxlZCI6IDAsCiAgImFsbF9wYXNzIjogdHJ1ZSwKICAiZWxhcHNlZF9tcyI6IDMyMiwKICAic3VpdGVzIjogWwogICAgewogICAgICAic3VpdGUiOiAiUmVnaXN0cnkgUHJvdmlkZXIg5LiA6Ie05oCn5LiO5Y+v5pu/5o2i5oCnIiwKICAgICAgInBhc3NlZCI6IDIyLAogICAgICAiZmFpbGVkIjogMCwKICAgICAgImZhdGFsIjogbnVsbCwKICAgICAgImZhaWx1cmVzIjogW10sCiAgICAgICJpbmZvIjogWwogICAgICAgICLms6jlhozooajlrp7pmYXlhoXlrrnvvJoxIOadoeiupOivgeWvueixoe+8jHNjaGVtYT1rbm93bGVkZ2UtcmVnaXN0cnkvdjEuMCIKICAgICAgXQogICAgfSwKICAgIHsKICAgICAgInN1aXRlIjogIk9ic2VydmFiaWxpdHkg6Z2e6Zi75aGe5LiO5aSx6LSl5a6J5YWoIiwKICAgICAgInBhc3NlZCI6IDM2LAogICAgICAiZmFpbGVkIjogMCwKICAgICAgImZhdGFsIjogbnVsbCwKICAgICAgImZhaWx1cmVzIjogW10sCiAgICAgICJpbmZvIjogWwogICAgICAgICJPYnNlcnZhYmlsaXR5IOWlkee6puimhuebluW6pu+8muebtOaOpSA2LzEy77yM562J5Lu3IDEvMTLvvIzmnKropobnm5YgNS8xMiIKICAgICAgXQogICAgfSwKICAgIHsKICAgICAgInN1aXRlIjogIkRhc2hib2FyZCDmjIfmoIflj6ror7vogZrlkIgiLAogICAgICAicGFzc2VkIjogNTYsCiAgICAgICJmYWlsZWQiOiAwLAogICAgICAiZmF0YWwiOiBudWxsLAogICAgICAiZmFpbHVyZXMiOiBbXSwKICAgICAgImluZm8iOiBbCiAgICAgICAgIkRhc2hib2FyZCDlv6vnhafvvJrnn6Xor4YgMTUg6aG5IC8gS1FTIDAuOTIwNSAvIEhlYWx0aCAwLjkzOSAvIOmZjee6p+mhuSAyIOS4qiIKICAgICAgXQogICAgfSwKICAgIHsKICAgICAgInN1aXRlIjogIkhlYWx0aCBTY29yZSDkuIPnu7TorqHnrpfkuI4gTi9BIOmHjeW9kuS4gOWMliIsCiAgICAgICJwYXNzZWQiOiA0NSwKICAgICAgImZhaWxlZCI6IDAsCiAgICAgICJmYXRhbCI6IG51bGwsCiAgICAgICJmYWlsdXJlcyI6IFtdLAogICAgICAiaW5mbyI6IFsKICAgICAgICAi56S65L6L77ya57uP5YW4IDAuOTQgLyDorqTor4Hlr7nosaEgMC45NTLvvIjlt67lvILmnaXoh6ogTWV0YWRhdGEg57u05piv5ZCm5Y+v55So77yM6Z2e5Lq65Li66LCD5YiG77yJIgogICAgICBdCiAgICB9LAogICAgewogICAgICAic3VpdGUiOiAi5Ya757uT6LWE5Lqn5ZOI5biM5L+d5oqkIiwKICAgICAgInBhc3NlZCI6IDI1LAogICAgICAiZmFpbGVkIjogMCwKICAgICAgImZhdGFsIjogbnVsbCwKICAgICAgImZhaWx1cmVzIjogW10sCiAgICAgICJpbmZvIjogWwogICAgICAgICLlhrvnu5Pln7rnur/vvJpjb3JwdXMvaW50ZW50L3JhZy9rbm93bGVkZ2VSb3V0ZXIg5Zub6aG577yM5YWo6YOo6ZSB5a6a5LqOIE8tMC42IgogICAgICBdCiAgICB9CiAgXQp9
+{
+  "generated_at": "2026-08-02T03:27:37.107Z",
+  "phase": "Phase P+ / 第六阶段",
+  "total_passed": 184,
+  "total_failed": 0,
+  "all_pass": true,
+  "elapsed_ms": 322,
+  "suites": [
+    {
+      "suite": "Registry Provider 一致性与可替换性",
+      "passed": 22,
+      "failed": 0,
+      "fatal": null,
+      "failures": [],
+      "info": [
+        "注册表实际内容：1 条认证对象，schema=knowledge-registry/v1.0"
+      ]
+    },
+    {
+      "suite": "Observability 非阻塞与失败安全",
+      "passed": 36,
+      "failed": 0,
+      "fatal": null,
+      "failures": [],
+      "info": [
+        "Observability 契约覆盖度：直接 6/12，等价 1/12，未覆盖 5/12"
+      ]
+    },
+    {
+      "suite": "Dashboard 指标只读聚合",
+      "passed": 56,
+      "failed": 0,
+      "fatal": null,
+      "failures": [],
+      "info": [
+        "Dashboard 快照：知识 15 项 / KQS 0.9205 / Health 0.939 / 降级项 2 个"
+      ]
+    },
+    {
+      "suite": "Health Score 七维计算与 N/A 重归一化",
+      "passed": 45,
+      "failed": 0,
+      "fatal": null,
+      "failures": [],
+      "info": [
+        "示例：经典 0.94 / 认证对象 0.952（差异来自 Metadata 维是否可用，非人为调分）"
+      ]
+    },
+    {
+      "suite": "冻结资产哈希保护",
+      "passed": 25,
+      "failed": 0,
+      "fatal": null,
+      "failures": [],
+      "info": [
+        "冻结基线：corpus/intent/rag/knowledgeRouter 四项，全部锁定于 O-0.6"
+      ]
+    }
+  ]
+}

@@ -1,1 +1,182 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0NCiIiIg0K55m+54K85qih5Z6L57uf5LiAIGJlbmNobWFya++8iOWQkeaZmumXruaAneeUn+aIkOaooeWei+mAieWei++8iQ0KLSDmtYvor5XmiKrlm77kuK3liJflh7rnmoTlhajpg6ggbW9kZWxDb2RlDQotIOe7n+S4gCBzeXN0ZW0gcHJvbXB0ICsgMiDnsbvmoLjlv4Ppl67popjvvIjmgJ3ovqggLyDoi4/moLzmi4nlupXov73pl67vvIkNCi0g5bm25Y+R5oyJ5qih5Z6L6LeR44CB5q+P5om5IDQg5Liq77yM6YG/5YWN5Liy6KGM562J5b6F6L+H5LmFDQotIOi+k+WHuu+8muW7tui/nyAvIOWtl+aVsCAvIOaIkOWKn+eOhyAvIOmUmeivryAvIOWGheWuueaRmOimgQ0KDQrnlKjms5XvvJoNCiAgcHl0aG9uIGJlbmNobWFya19iYWlsaWFuX21vZGVscy5weQ0KICBEQVNIU0NPUEVfQVBJX0tFWT1zay14eHggcHl0aG9uIGJlbmNobWFya19iYWlsaWFuX21vZGVscy5weQ0KIiIiDQppbXBvcnQganNvbg0KaW1wb3J0IG9zDQppbXBvcnQgc3NsDQppbXBvcnQgdGltZQ0KaW1wb3J0IHVybGxpYi5yZXF1ZXN0DQppbXBvcnQgdXJsbGliLmVycm9yDQpmcm9tIGNvbmN1cnJlbnQuZnV0dXJlcyBpbXBvcnQgVGhyZWFkUG9vbEV4ZWN1dG9yLCBhc19jb21wbGV0ZWQNCmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGV0aW1lDQoNCmN0eCA9IHNzbC5jcmVhdGVfZGVmYXVsdF9jb250ZXh0KCkNCmN0eC5jaGVja19ob3N0bmFtZSA9IEZhbHNlDQpjdHgudmVyaWZ5X21vZGUgPSBzc2wuQ0VSVF9OT05FDQoNCkJBU0VfVVJMID0gImh0dHBzOi8vZGFzaHNjb3BlLmFsaXl1bmNzLmNvbS9jb21wYXRpYmxlLW1vZGUvdjEvY2hhdC9jb21wbGV0aW9ucyINCkFQSV9LRVkgPSBvcy5lbnZpcm9uLmdldCgiREFTSFNDT1BFX0FQSV9LRVkiLCAic2stWU9VUl9BUElfS0VZX0hFUkUiKQ0KDQojIOaIquWbvuS4reeahCBtb2RlbENvZGXvvIjmjInmiKrlm77lh7rnjrDpobrluo/vvIkNCk1PREVMUyA9IFsNCiAgICAicXdlbjMuOC1tYXgiLA0KICAgICJkZWVwc2Vlay12NC1mbGFzaC0wNzMxIiwNCiAgICAicXdlbjMuNy1mbGFzaC0yMDI2LTA3LTE1IiwNCiAgICAicXdlbjMuNy1mbGFzaCIsDQogICAgImdsbS01LjIiLA0KICAgICJxd2VuMy41LW9jciIsDQogICAgImtpbWktazIuNy1jb2RlIiwNCiAgICAicXdlbjMuNy1tYXgtMjAyNi0wNi0wOCIsDQogICAgInF3ZW4zLjctcGx1cyIsDQogICAgInF3ZW4zLjctcGx1cy0yMDI2LTA1LTI2IiwNCiAgICAicXdlbjMuNy1tYXgtMjAyNi0wNS0xNyIsDQogICAgInF3ZW4zLjctbWF4LXByZXZpZXciLA0KICAgICJxd2VuMy43LW1heCIsDQogICAgInF3ZW4zLjctbWF4LTIwMjYtMDUtMjAiLA0KXQ0KDQpTWVNURU1fUFJPTVBUID0gKA0KICAgICLkvaDmmK/jgI7lkJHmmZrpl67mgJ3jgI/nmoQgQUkg5oCd6L6o5Yqp5omL77yM5Zue562U6YG15b6q5LqU5q615byP77yaIg0KICAgICLikaDlhYjlgZrkurrvvIjku47nlJ/lkb3kvZPpqozliIflhaXvvInvvJvikaHlho3lvJXnu4/vvIjmj7TlvJXkuK3lpJbnu4/lhbjvvIzms6jmmI7lh7rlpITvvInvvJsiDQogICAgIuKRouWBmui+qOaekO+8iOavlOi+g+S4jeWQjOingueCue+8ie+8m+KRo+e7meWQr+WPke+8iOeVmeS4i+WPr+aAneiAg+eahOmXrumimO+8ie+8m+KRpOeVmeS9meWcsO+8iOaJv+iupOi+ueeVjO+8ieOAgiINCiAgICAi55u05o6l6L6T5Ye65q2j5paH77yM5LiN6KaB6YeN5aSN6Zeu6aKY77yM5LiN6KaB5aSa5L2Z5a6i5aWX44CCIg0KKQ0KDQpRVUVTVElPTlMgPSBbDQogICAgKCJwaGlsb3NvcGh5IiwgIuS6uuW6lOivpeWmguS9lemdouWvueatu+S6oe+8nyIpLA0KICAgICgic29jcmF0aWMiLCAi55So6IuP5qC85ouJ5bqV5byP6L+96Zeu77yM5biu5oiR6Zeu5riF5qWaJ+aIkeWIsOW6leaDs+S4jeaDs+i+nuiBjCfjgIIiKSwNCl0NCg0KDQpkZWYgY2FsbChtb2RlbCwgcSwgbWF4X3Rva2Vucz0yNTYsIHRpbWVvdXQ9OTApOg0KICAgIGJvZHkgPSBqc29uLmR1bXBzKHsNCiAgICAgICAgIm1vZGVsIjogbW9kZWwsDQogICAgICAgICJtZXNzYWdlcyI6IFsNCiAgICAgICAgICAgIHsicm9sZSI6ICJzeXN0ZW0iLCAiY29udGVudCI6IFNZU1RFTV9QUk9NUFR9LA0KICAgICAgICAgICAgeyJyb2xlIjogInVzZXIiLCAiY29udGVudCI6IHF9LA0KICAgICAgICBdLA0KICAgICAgICAic3RyZWFtIjogRmFsc2UsDQogICAgICAgICJtYXhfdG9rZW5zIjogbWF4X3Rva2VucywNCiAgICB9LCBlbnN1cmVfYXNjaWk9RmFsc2UpLmVuY29kZSgidXRmLTgiKQ0KDQogICAgcmVxID0gdXJsbGliLnJlcXVlc3QuUmVxdWVzdChCQVNFX1VSTCwgZGF0YT1ib2R5LCBtZXRob2Q9IlBPU1QiKQ0KICAgIHJlcS5hZGRfaGVhZGVyKCJBdXRob3JpemF0aW9uIiwgIkJlYXJlciAiICsgQVBJX0tFWSkNCiAgICByZXEuYWRkX2hlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb247IGNoYXJzZXQ9dXRmLTgiKQ0KDQogICAgdDAgPSB0aW1lLnRpbWUoKQ0KICAgIHRyeToNCiAgICAgICAgd2l0aCB1cmxsaWIucmVxdWVzdC51cmxvcGVuKHJlcSwgdGltZW91dD10aW1lb3V0LCBjb250ZXh0PWN0eCkgYXMgcmVzcDoNCiAgICAgICAgICAgIHJhdyA9IHJlc3AucmVhZCgpLmRlY29kZSgidXRmLTgiLCAicmVwbGFjZSIpDQogICAgICAgICAgICBkdCA9IHRpbWUudGltZSgpIC0gdDANCiAgICAgICAgICAgIGRhdGEgPSBqc29uLmxvYWRzKHJhdykNCiAgICAgICAgICAgIGNob2ljZXMgPSBkYXRhLmdldCgiY2hvaWNlcyIpIG9yIFt7fV0NCiAgICAgICAgICAgIG1zZyA9IGNob2ljZXNbMF0uZ2V0KCJtZXNzYWdlIiwge30pIGlmIGNob2ljZXMgZWxzZSB7fQ0KICAgICAgICAgICAgY29udGVudCA9IChtc2cuZ2V0KCJjb250ZW50Iikgb3IgIiIpLnN0cmlwKCkNCiAgICAgICAgICAgIHJlYXNvbmluZyA9IChtc2cuZ2V0KCJyZWFzb25pbmdfY29udGVudCIpIG9yICIiKS5zdHJpcCgpDQogICAgICAgICAgICB1c2FnZSA9IGRhdGEuZ2V0KCJ1c2FnZSIsIHt9KQ0KICAgICAgICAgICAgcmV0dXJuIHsNCiAgICAgICAgICAgICAgICAiZHQiOiBkdCwNCiAgICAgICAgICAgICAgICAiY29udGVudCI6IGNvbnRlbnQsDQogICAgICAgICAgICAgICAgInJlYXNvbmluZyI6IHJlYXNvbmluZywNCiAgICAgICAgICAgICAgICAiZXJyIjogTm9uZSwNCiAgICAgICAgICAgICAgICAic3RhdHVzIjogcmVzcC5zdGF0dXMsDQogICAgICAgICAgICAgICAgInByb21wdF90b2tlbnMiOiB1c2FnZS5nZXQoInByb21wdF90b2tlbnMiLCAwKSwNCiAgICAgICAgICAgICAgICAiY29tcGxldGlvbl90b2tlbnMiOiB1c2FnZS5nZXQoImNvbXBsZXRpb25fdG9rZW5zIiwgMCksDQogICAgICAgICAgICB9DQogICAgZXhjZXB0IHVybGxpYi5lcnJvci5IVFRQRXJyb3IgYXMgZToNCiAgICAgICAgZXJyX2JvZHkgPSBlLnJlYWQoKS5kZWNvZGUoInV0Zi04IiwgInJlcGxhY2UiKVs6NTAwXQ0KICAgICAgICByZXR1cm4geyJkdCI6IHRpbWUudGltZSgpIC0gdDAsICJjb250ZW50IjogIiIsICJyZWFzb25pbmciOiAiIiwgImVyciI6IGYiSFRUUCB7ZS5jb2RlfToge2Vycl9ib2R5fSIsICJzdGF0dXMiOiBlLmNvZGUsICJwcm9tcHRfdG9rZW5zIjogMCwgImNvbXBsZXRpb25fdG9rZW5zIjogMH0NCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6DQogICAgICAgIHJldHVybiB7ImR0IjogdGltZS50aW1lKCkgLSB0MCwgImNvbnRlbnQiOiAiIiwgInJlYXNvbmluZyI6ICIiLCAiZXJyIjogc3RyKGUpWzozMDBdLCAic3RhdHVzIjogMCwgInByb21wdF90b2tlbnMiOiAwLCAiY29tcGxldGlvbl90b2tlbnMiOiAwfQ0KDQoNCmRlZiB0ZXN0X21vZGVsKG1vZGVsKToNCiAgICByb3cgPSB7Im1vZGVsIjogbW9kZWwsICJvayI6IDAsICJsYXRzIjogW10sICJsZW5zIjogW10sICJ0b2tlbnMiOiBbXSwgImVycm9ycyI6IFtdLCAic2FtcGxlcyI6IHt9fQ0KICAgIGZvciB0YWcsIHEgaW4gUVVFU1RJT05TOg0KICAgICAgICByID0gY2FsbChtb2RlbCwgcSkNCiAgICAgICAgaWYgclsiZXJyIl06DQogICAgICAgICAgICByb3dbImVycm9ycyJdLmFwcGVuZCgiJXM6ICVzIiAlICh0YWcsIHJbImVyciJdKSkNCiAgICAgICAgICAgIHByaW50KCIgIFslc10gJXMgRVJSICUuMWZzICAlcyIgJSAobW9kZWwsIHRhZywgclsiZHQiXSwgclsiZXJyIl1bOjEyMF0pKQ0KICAgICAgICBlbHNlOg0KICAgICAgICAgICAgcm93WyJvayJdICs9IDENCiAgICAgICAgICAgIHJvd1sibGF0cyJdLmFwcGVuZChyWyJkdCJdKQ0KICAgICAgICAgICAgcm93WyJsZW5zIl0uYXBwZW5kKGxlbihyWyJjb250ZW50Il0pKQ0KICAgICAgICAgICAgcm93WyJ0b2tlbnMiXS5hcHBlbmQoclsiY29tcGxldGlvbl90b2tlbnMiXSkNCiAgICAgICAgICAgIHJvd1sic2FtcGxlcyJdW3RhZ10gPSByWyJjb250ZW50Il1bOjIwMF0ucmVwbGFjZSgiXG4iLCAiICIpDQogICAgICAgICAgICBwcmludCgiICBbJXNdICVzICUuMWZzIC8gJWTlrZcgLyB0b2s9JWQiICUgKG1vZGVsLCB0YWcsIHJbImR0Il0sIGxlbihyWyJjb250ZW50Il0pLCByWyJjb21wbGV0aW9uX3Rva2VucyJdKSkNCiAgICByZXR1cm4gcm93DQoNCg0KZGVmIGJhdGNoZWQoaXRlcmFibGUsIG4pOg0KICAgIGZvciBpIGluIHJhbmdlKDAsIGxlbihpdGVyYWJsZSksIG4pOg0KICAgICAgICB5aWVsZCBpdGVyYWJsZVtpOmkgKyBuXQ0KDQoNCmRlZiBtYWluKCk6DQogICAgcHJpbnQoIj0iICogOTApDQogICAgcHJpbnQoIueZvueCvOaooeWeiyBiZW5jaG1hcmsg4oCUICVkIOaooeWeiyDDlyAlZCDpl67popggfCAlcyIgJSAobGVuKE1PREVMUyksIGxlbihRVUVTVElPTlMpLCBkYXRldGltZS5ub3coKS5zdHJmdGltZSgiJVktJW0tJWQgJUg6JU06JVMiKSkpDQogICAgcHJpbnQoIkJBU0VfVVJMOiIsIEJBU0VfVVJMKQ0KICAgIHByaW50KCJBUElfS0VZIDoiLCBBUElfS0VZWzoxMl0gKyAiLi4uIiArIEFQSV9LRVlbLTQ6XSkNCiAgICBwcmludCgiPSIgKiA5MCkNCg0KICAgIHJlc3VsdHMgPSBbXQ0KICAgIGJhdGNoX3NpemUgPSA0DQogICAgZm9yIGJhdGNoIGluIGJhdGNoZWQoTU9ERUxTLCBiYXRjaF9zaXplKToNCiAgICAgICAgcHJpbnQoIlxuW+aJueasoV0gIiArICIsICIuam9pbihiYXRjaCkpDQogICAgICAgIHdpdGggVGhyZWFkUG9vbEV4ZWN1dG9yKG1heF93b3JrZXJzPWJhdGNoX3NpemUpIGFzIGV4Og0KICAgICAgICAgICAgZnV0dXJlcyA9IHtleC5zdWJtaXQodGVzdF9tb2RlbCwgbW9kZWwpOiBtb2RlbCBmb3IgbW9kZWwgaW4gYmF0Y2h9DQogICAgICAgICAgICBmb3IgZnV0dXJlIGluIGFzX2NvbXBsZXRlZChmdXR1cmVzKToNCiAgICAgICAgICAgICAgICBtb2RlbCA9IGZ1dHVyZXNbZnV0dXJlXQ0KICAgICAgICAgICAgICAgIHRyeToNCiAgICAgICAgICAgICAgICAgICAgcm93ID0gZnV0dXJlLnJlc3VsdCgpDQogICAgICAgICAgICAgICAgICAgIGF2Z190ID0gc3VtKHJvd1sibGF0cyJdKSAvIGxlbihyb3dbImxhdHMiXSkgaWYgcm93WyJsYXRzIl0gZWxzZSA5OTkNCiAgICAgICAgICAgICAgICAgICAgYXZnX2wgPSBzdW0ocm93WyJsZW5zIl0pIC8gbGVuKHJvd1sibGVucyJdKSBpZiByb3dbImxlbnMiXSBlbHNlIDANCiAgICAgICAgICAgICAgICAgICAgYXZnX3RvayA9IHN1bShyb3dbInRva2VucyJdKSAvIGxlbihyb3dbInRva2VucyJdKSBpZiByb3dbInRva2VucyJdIGVsc2UgMA0KICAgICAgICAgICAgICAgICAgICByb3dbImF2Z190Il0gPSBhdmdfdA0KICAgICAgICAgICAgICAgICAgICByb3dbImF2Z19sIl0gPSBhdmdfbA0KICAgICAgICAgICAgICAgICAgICByb3dbImF2Z190b2siXSA9IGF2Z190b2sNCiAgICAgICAgICAgICAgICAgICAgcmVzdWx0cy5hcHBlbmQocm93KQ0KICAgICAgICAgICAgICAgICAgICBwcmludCgiICDihpIgJXMg5bmz5Z2HICUuMWZzIC8gJS4wZuWtlyAvICUuMGZ0b2sgfCDmiJDlip8gJWQvJWQiICUgKA0KICAgICAgICAgICAgICAgICAgICAgICAgbW9kZWwsIGF2Z190LCBhdmdfbCwgYXZnX3Rvaywgcm93WyJvayJdLCBsZW4oUVVFU1RJT05TKQ0KICAgICAgICAgICAgICAgICAgICApKQ0KICAgICAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToNCiAgICAgICAgICAgICAgICAgICAgcHJpbnQoIiAg4oaSICVzIOaJueasoeW8guW4uDogJXMiICUgKG1vZGVsLCBzdHIoZSlbOjIwMF0pKQ0KDQogICAgIyDmjpLlkI3vvJrkvJjlhYjmiJDlip/njofvvIzlhbbmrKHlu7bov58NCiAgICByYW5rZWQgPSBzb3J0ZWQocmVzdWx0cywga2V5PWxhbWJkYSB4OiAoLXhbIm9rIl0sIHhbImF2Z190Il0pKQ0KDQogICAgcHJpbnQoIlxuIiArICI9IiAqIDkwKQ0KICAgIHByaW50KCLmjpLlkI3vvIjmiJDlip/njofpmY3luo/vvIzlkIzmiJDlip/njofmjInlu7bov5/ljYfluo/vvIkiKQ0KICAgIHByaW50KCI9IiAqIDkwKQ0KICAgIHByaW50KCIlLTMwcyAlOHMgJTEwcyAlMTBzICUxMHMgJXMiICUgKCJtb2RlbCIsICJzdWNjZXNzIiwgImF2Z190KHMpIiwgImF2Z19sZW4iLCAiYXZnX3RvayIsICJlcnJvcnMiKSkNCiAgICBmb3IgaSwgciBpbiBlbnVtZXJhdGUocmFua2VkKToNCiAgICAgICAgZXJyX3N1bW1hcnkgPSAiOyAiLmpvaW4oclsiZXJyb3JzIl0pWzo2MF0gaWYgclsiZXJyb3JzIl0gZWxzZSAiLSINCiAgICAgICAgcHJpbnQoIiUyZC4gJS0yOHMgJTVkLyUtMmQgJTguMWYgJTEwLjBmICUxMC4wZiAgJXMiICUgKA0KICAgICAgICAgICAgaSArIDEsIHJbIm1vZGVsIl0sIHJbIm9rIl0sIGxlbihRVUVTVElPTlMpLCByWyJhdmdfdCJdLCByWyJhdmdfbCJdLCByWyJhdmdfdG9rIl0sIGVycl9zdW1tYXJ5DQogICAgICAgICkpDQoNCiAgICBvdXRfcGF0aCA9ICJiZW5jaG1hcmtfYmFpbGlhbl9tb2RlbHNfJXMuanNvbiIgJSBkYXRldGltZS5ub3coKS5zdHJmdGltZSgiJVklbSVkXyVIJU0lUyIpDQogICAgd2l0aCBvcGVuKG91dF9wYXRoLCAidyIsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6DQogICAgICAgIGpzb24uZHVtcCh7DQogICAgICAgICAgICAiYmFzZV91cmwiOiBCQVNFX1VSTCwNCiAgICAgICAgICAgICJhcGlfa2V5X3RhaWwiOiBBUElfS0VZWy00Ol0sDQogICAgICAgICAgICAidGltZXN0YW1wIjogZGF0ZXRpbWUubm93KCkuaXNvZm9ybWF0KCksDQogICAgICAgICAgICAibW9kZWxzIjogTU9ERUxTLA0KICAgICAgICAgICAgInF1ZXN0aW9ucyI6IFFVRVNUSU9OUywNCiAgICAgICAgICAgICJyZXN1bHRzIjogcmVzdWx0cywNCiAgICAgICAgICAgICJyYW5raW5nIjogW3sicmFuayI6IGkrMSwgIm1vZGVsIjogclsibW9kZWwiXSwgIm9rIjogclsib2siXSwgImF2Z190IjogclsiYXZnX3QiXSwgImF2Z19sIjogclsiYXZnX2wiXX0gZm9yIGksIHIgaW4gZW51bWVyYXRlKHJhbmtlZCldLA0KICAgICAgICB9LCBmLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0yKQ0KICAgIHByaW50KCJcbuivpue7huaKpeWRiuW3suWGmeWFpToiLCBvdXRfcGF0aCkNCg0KDQppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOg0KICAgIG1haW4oKQ0K
+# -*- coding: utf-8 -*-
+"""
+百炼模型统一 benchmark（向晚问思生成模型选型）
+- 测试截图中列出的全部 modelCode
+- 统一 system prompt + 2 类核心问题（思辨 / 苏格拉底追问）
+- 并发按模型跑、每批 4 个，避免串行等待过久
+- 输出：延迟 / 字数 / 成功率 / 错误 / 内容摘要
+
+用法：
+  python benchmark_bailian_models.py
+  DASHSCOPE_API_KEY=sk-xxx python benchmark_bailian_models.py
+"""
+import json
+import os
+import ssl
+import time
+import urllib.request
+import urllib.error
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from datetime import datetime
+
+ctx = ssl.create_default_context()
+ctx.check_hostname = False
+ctx.verify_mode = ssl.CERT_NONE
+
+BASE_URL = "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions"
+API_KEY = os.environ.get("DASHSCOPE_API_KEY", "sk-YOUR_API_KEY_HERE")
+
+# 截图中的 modelCode（按截图出现顺序）
+MODELS = [
+    "qwen3.8-max",
+    "deepseek-v4-flash-0731",
+    "qwen3.7-flash-2026-07-15",
+    "qwen3.7-flash",
+    "glm-5.2",
+    "qwen3.5-ocr",
+    "kimi-k2.7-code",
+    "qwen3.7-max-2026-06-08",
+    "qwen3.7-plus",
+    "qwen3.7-plus-2026-05-26",
+    "qwen3.7-max-2026-05-17",
+    "qwen3.7-max-preview",
+    "qwen3.7-max",
+    "qwen3.7-max-2026-05-20",
+]
+
+SYSTEM_PROMPT = (
+    "你是『向晚问思』的 AI 思辨助手，回答遵循五段式："
+    "①先做人（从生命体验切入）；②再引经（援引中外经典，注明出处）；"
+    "③做辨析（比较不同观点）；④给启发（留下可思考的问题）；⑤留余地（承认边界）。"
+    "直接输出正文，不要重复问题，不要多余客套。"
+)
+
+QUESTIONS = [
+    ("philosophy", "人应该如何面对死亡？"),
+    ("socratic", "用苏格拉底式追问，帮我问清楚'我到底想不想辞职'。"),
+]
+
+
+def call(model, q, max_tokens=256, timeout=90):
+    body = json.dumps({
+        "model": model,
+        "messages": [
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user", "content": q},
+        ],
+        "stream": False,
+        "max_tokens": max_tokens,
+    }, ensure_ascii=False).encode("utf-8")
+
+    req = urllib.request.Request(BASE_URL, data=body, method="POST")
+    req.add_header("Authorization", "Bearer " + API_KEY)
+    req.add_header("Content-Type", "application/json; charset=utf-8")
+
+    t0 = time.time()
+    try:
+        with urllib.request.urlopen(req, timeout=timeout, context=ctx) as resp:
+            raw = resp.read().decode("utf-8", "replace")
+            dt = time.time() - t0
+            data = json.loads(raw)
+            choices = data.get("choices") or [{}]
+            msg = choices[0].get("message", {}) if choices else {}
+            content = (msg.get("content") or "").strip()
+            reasoning = (msg.get("reasoning_content") or "").strip()
+            usage = data.get("usage", {})
+            return {
+                "dt": dt,
+                "content": content,
+                "reasoning": reasoning,
+                "err": None,
+                "status": resp.status,
+                "prompt_tokens": usage.get("prompt_tokens", 0),
+                "completion_tokens": usage.get("completion_tokens", 0),
+            }
+    except urllib.error.HTTPError as e:
+        err_body = e.read().decode("utf-8", "replace")[:500]
+        return {"dt": time.time() - t0, "content": "", "reasoning": "", "err": f"HTTP {e.code}: {err_body}", "status": e.code, "prompt_tokens": 0, "completion_tokens": 0}
+    except Exception as e:
+        return {"dt": time.time() - t0, "content": "", "reasoning": "", "err": str(e)[:300], "status": 0, "prompt_tokens": 0, "completion_tokens": 0}
+
+
+def test_model(model):
+    row = {"model": model, "ok": 0, "lats": [], "lens": [], "tokens": [], "errors": [], "samples": {}}
+    for tag, q in QUESTIONS:
+        r = call(model, q)
+        if r["err"]:
+            row["errors"].append("%s: %s" % (tag, r["err"]))
+            print("  [%s] %s ERR %.1fs  %s" % (model, tag, r["dt"], r["err"][:120]))
+        else:
+            row["ok"] += 1
+            row["lats"].append(r["dt"])
+            row["lens"].append(len(r["content"]))
+            row["tokens"].append(r["completion_tokens"])
+            row["samples"][tag] = r["content"][:200].replace("\n", " ")
+            print("  [%s] %s %.1fs / %d字 / tok=%d" % (model, tag, r["dt"], len(r["content"]), r["completion_tokens"]))
+    return row
+
+
+def batched(iterable, n):
+    for i in range(0, len(iterable), n):
+        yield iterable[i:i + n]
+
+
+def main():
+    print("=" * 90)
+    print("百炼模型 benchmark — %d 模型 × %d 问题 | %s" % (len(MODELS), len(QUESTIONS), datetime.now().strftime("%Y-%m-%d %H:%M:%S")))
+    print("BASE_URL:", BASE_URL)
+    print("API_KEY :", API_KEY[:12] + "..." + API_KEY[-4:])
+    print("=" * 90)
+
+    results = []
+    batch_size = 4
+    for batch in batched(MODELS, batch_size):
+        print("\n[批次] " + ", ".join(batch))
+        with ThreadPoolExecutor(max_workers=batch_size) as ex:
+            futures = {ex.submit(test_model, model): model for model in batch}
+            for future in as_completed(futures):
+                model = futures[future]
+                try:
+                    row = future.result()
+                    avg_t = sum(row["lats"]) / len(row["lats"]) if row["lats"] else 999
+                    avg_l = sum(row["lens"]) / len(row["lens"]) if row["lens"] else 0
+                    avg_tok = sum(row["tokens"]) / len(row["tokens"]) if row["tokens"] else 0
+                    row["avg_t"] = avg_t
+                    row["avg_l"] = avg_l
+                    row["avg_tok"] = avg_tok
+                    results.append(row)
+                    print("  → %s 平均 %.1fs / %.0f字 / %.0ftok | 成功 %d/%d" % (
+                        model, avg_t, avg_l, avg_tok, row["ok"], len(QUESTIONS)
+                    ))
+                except Exception as e:
+                    print("  → %s 批次异常: %s" % (model, str(e)[:200]))
+
+    # 排名：优先成功率，其次延迟
+    ranked = sorted(results, key=lambda x: (-x["ok"], x["avg_t"]))
+
+    print("\n" + "=" * 90)
+    print("排名（成功率降序，同成功率按延迟升序）")
+    print("=" * 90)
+    print("%-30s %8s %10s %10s %10s %s" % ("model", "success", "avg_t(s)", "avg_len", "avg_tok", "errors"))
+    for i, r in enumerate(ranked):
+        err_summary = "; ".join(r["errors"])[:60] if r["errors"] else "-"
+        print("%2d. %-28s %5d/%-2d %8.1f %10.0f %10.0f  %s" % (
+            i + 1, r["model"], r["ok"], len(QUESTIONS), r["avg_t"], r["avg_l"], r["avg_tok"], err_summary
+        ))
+
+    out_path = "benchmark_bailian_models_%s.json" % datetime.now().strftime("%Y%m%d_%H%M%S")
+    with open(out_path, "w", encoding="utf-8") as f:
+        json.dump({
+            "base_url": BASE_URL,
+            "api_key_tail": API_KEY[-4:],
+            "timestamp": datetime.now().isoformat(),
+            "models": MODELS,
+            "questions": QUESTIONS,
+            "results": results,
+            "ranking": [{"rank": i+1, "model": r["model"], "ok": r["ok"], "avg_t": r["avg_t"], "avg_l": r["avg_l"]} for i, r in enumerate(ranked)],
+        }, f, ensure_ascii=False, indent=2)
+    print("\n详细报告已写入:", out_path)
+
+
+if __name__ == "__main__":
+    main()
